@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772388411
+ItemStorageDB_LastUpdate = 1772389045
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6098,7 +6098,7 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        updated_at = "2026-02-28 01:12:24",
+        updated_at = "2026-03-01 20:07:23",
         money = 9413,
         empty = 0,
         location = "Оргриммар",
@@ -6152,9 +6152,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:43117:0:0:0:0:0:0:0:10|h[Чернила утренней звезды]|h|r",
+                name = "Чернила утренней звезды",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:43115:0:0:0:0:0:0:0:10|h[Чернила охотника]|h|r",
                 name = "Чернила охотника",
-                count = 256,
+                count = 264,
                 details = {
                     quality = 2,
                     type = "",
@@ -6238,7 +6250,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43118:0:0:0:0:0:0:0:10|h[Чернила нефритового пламени]|h|r",
                 name = "Чернила нефритового пламени",
-                count = 112,
+                count = 113,
                 details = {
                     quality = 1,
                     type = "",
@@ -6250,7 +6262,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43116:0:0:0:0:0:0:0:10|h[Чернила царя зверей]|h|r",
                 name = "Чернила царя зверей",
-                count = 28,
+                count = 33,
                 details = {
                     quality = 1,
                     type = "",
@@ -6262,7 +6274,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39774:0:0:0:0:0:0:0:10|h[Полуночные чернила]|h|r",
                 name = "Полуночные чернила",
-                count = 86,
+                count = 123,
                 details = {
                     quality = 1,
                     type = "",
@@ -6286,7 +6298,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39469:0:0:0:0:0:0:0:10|h[Чернила лунного сияния]|h|r",
                 name = "Чернила лунного сияния",
-                count = 174,
+                count = 198,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:39334:0:0:0:0:0:0:0:10|h[Мглистый краситель]|h|r",
+                name = "Мглистый краситель",
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
@@ -13022,7 +13046,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-01 20:02:37",
+        updated_at = "2026-03-01 20:17:01",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -13474,7 +13498,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                 name = "Лиловый лотос",
-                count = 81,
+                count = 71,
                 details = {
                     quality = 1,
                     type = "",
@@ -13498,7 +13522,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3819:0:0:0:0:0:0:0:10|h[Морозник]|h|r",
                 name = "Морозник",
-                count = 43,
+                count = 39,
                 details = {
                     quality = 1,
                     type = "",
@@ -13592,6 +13616,54 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
+                name = "Рассветница",
+                count = 40,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
+                name = "Огромная ядовитая железа",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
+                name = "Малая ядовитая железа",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
+                name = "Большая ядовитая железа",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
                 name = "Ледяной зев",
                 count = 147,
@@ -13655,54 +13727,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
                 name = "Кровь Грома",
                 count = 103,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
-                name = "Рассветница",
-                count = 40,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
-                name = "Огромная ядовитая железа",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
-                name = "Малая ядовитая железа",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
-                name = "Большая ядовитая железа",
-                count = 6,
                 details = {
                     quality = 1,
                     type = "",
