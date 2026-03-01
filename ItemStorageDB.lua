@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772386102
+ItemStorageDB_LastUpdate = 1772386133
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5393,7 +5393,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-01 17:17:19",
+        updated_at = "2026-03-01 19:28:43",
         money = 484,
         empty = 0,
         location = "Оргриммар",
@@ -5629,7 +5629,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 850,
+                count = 861,
                 details = {
                     quality = 1,
                     type = "",
@@ -5785,7 +5785,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 618,
+                count = 626,
                 details = {
                     quality = 1,
                     type = "",
@@ -5809,7 +5809,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4232:0:0:0:0:0:0:0:10|h[Средняя шкура]|h|r",
                 name = "Средняя шкура",
-                count = 170,
+                count = 171,
                 details = {
                     quality = 1,
                     type = "",
@@ -5821,7 +5821,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
                 name = "Легкая шкура",
-                count = 311,
+                count = 312,
                 details = {
                     quality = 1,
                     type = "",
@@ -6013,7 +6013,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 617,
+                count = 618,
                 details = {
                     quality = 1,
                     type = "",
