@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772386227
+ItemStorageDB_LastUpdate = 1772386289
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9683,7 +9683,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-01 17:19:51",
+        updated_at = "2026-03-01 19:31:00",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -9769,6 +9769,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "6",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4353:0:0:0:0:0:0:0:10|h[Выкройка: паучий пояс]|h|r",
+                name = "Выкройка: паучий пояс",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "31",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10316:0:0:0:0:0:0:0:10|h[Выкройка: многоцветный килт]|h|r",
+                name = "Выкройка: многоцветный килт",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "14",
                     retention = "",
                 },
             },
@@ -9893,6 +9917,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:13493:0:0:0:0:0:0:0:10|h[Рецепт: сильный чародейский эликсир]|h|r",
+                name = "Рецепт: сильный чародейский эликсир",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "47",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
                 name = "Рецепт: эликсир увеличения",
                 count = 2,
@@ -9907,7 +9943,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
                 name = "Рецепт: зелье скорости",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "",
@@ -10051,7 +10087,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3830:0:0:0:0:0:0:0:10|h[Рецепт: эликсир стойкости]|h|r",
                 name = "Рецепт: эликсир стойкости",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
