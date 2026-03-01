@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772378355
+ItemStorageDB_LastUpdate = 1772378449
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7646,7 +7646,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-02-27 20:08:36",
+        updated_at = "2026-03-01 17:20:39",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -7772,6 +7772,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
+                name = "Реликвия Ульдуара",
+                count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
                 count = 346,
@@ -7858,7 +7870,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 14,
+                count = 12,
                 details = {
                     quality = 2,
                     type = "2",
@@ -9623,7 +9635,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-02-27 06:36:00",
+        updated_at = "2026-03-01 17:19:51",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -9667,6 +9679,18 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4293:0:0:0:0:0:0:0:10|h[Выкройка: кожаный жилет жителя холмов]|h|r",
                 name = "Выкройка: кожаный жилет жителя холмов",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2409:0:0:0:0:0:0:0:10|h[Выкройка: темный кожаный мундир]|h|r",
+                name = "Выкройка: темный кожаный мундир",
                 count = 1,
                 details = {
                     quality = 2,
@@ -9737,6 +9761,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
+                name = "Схема: динамит \"Pro-100-брос\"",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4408:0:0:0:0:0:0:0:10|h[Схема: коробка с механической белкой]|h|r",
                 name = "Схема: коробка с механической белкой",
                 count = 1,
@@ -9770,6 +9806,18 @@ ItemStorageDB = {
                     subtype = "Кинжал",
                     required_level = "20",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3610:0:0:0:0:0:0:0:10|h[Чертеж: украшенные медные рукавицы]|h|r",
+                name = "Чертеж: украшенные медные рукавицы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "10",
+                    retention = "",
                 },
             },
             {
@@ -9823,7 +9871,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2553:0:0:0:0:0:0:0:10|h[Рецепт: слабый эликсир ловкости]|h|r",
                 name = "Рецепт: слабый эликсир ловкости",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
@@ -9835,7 +9883,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4597:0:0:0:0:0:0:0:10|h[Рецепт: флакон с бесцветным лечебным зельем]|h|r",
                 name = "Рецепт: флакон с бесцветным лечебным зельем",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
@@ -9908,6 +9956,18 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:6348:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель зверей I]|h|r",
                 name = "Формула чар для оружия - истребитель зверей I",
                 count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6342:0:0:0:0:0:0:0:10|h[Формула чар для нагрудника - мана I]|h|r",
+                name = "Формула чар для нагрудника - мана I",
+                count = 1,
                 details = {
                     quality = 2,
                     type = "",
