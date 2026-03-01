@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772387030
+ItemStorageDB_LastUpdate = 1772387091
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9695,7 +9695,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-01 19:31:00",
+        updated_at = "2026-03-01 19:44:28",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -9847,7 +9847,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
                 name = "Схема: динамит \"Pro-100-брос\"",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
