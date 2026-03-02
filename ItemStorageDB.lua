@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772461943
+ItemStorageDB_LastUpdate = 1772462155
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10883,7 +10883,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-02 16:25:53",
+        updated_at = "2026-03-02 16:35:49",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -12061,6 +12061,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14168:0:0:0:0:0:760:0:10|h[Перчатки пирата со знаком совы]|h|r",
+                name = "Перчатки пирата со знаком совы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "15",
                     retention = "",
                 },
             },
