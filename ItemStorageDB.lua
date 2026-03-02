@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772488746
+ItemStorageDB_LastUpdate = 1772488778
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9098,7 +9098,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-02 16:27:04",
+        updated_at = "2026-03-02 23:59:29",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9495,6 +9495,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Жезл",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
+                name = "Пугач маленького Тимми",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
                     required_level = "16",
                     retention = "",
                 },
