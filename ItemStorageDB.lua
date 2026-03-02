@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772461117
+ItemStorageDB_LastUpdate = 1772461149
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17690,7 +17690,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-01 19:14:56",
+        updated_at = "2026-03-02 16:19:04",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -17836,6 +17836,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "39",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:21752:0:0:0:0:0:0:0:10|h[Ториевая оправа]|h|r",
+                name = "Ториевая оправа",
+                count = 9,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
