@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772488840
+ItemStorageDB_LastUpdate = 1772488902
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10016,7 +10016,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-02 16:48:45",
+        updated_at = "2026-03-03 00:01:40",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10030,6 +10030,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:7452:0:0:0:0:0:0:0:10|h[Выкройка: мглистые сапоги]|h|r",
+                name = "Выкройка: мглистые сапоги",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "35",
                     retention = "",
                 },
             },
