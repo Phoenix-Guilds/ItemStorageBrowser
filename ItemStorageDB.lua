@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772461607
+ItemStorageDB_LastUpdate = 1772461639
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8978,7 +8978,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-02-28 04:54:11",
+        updated_at = "2026-03-02 16:27:04",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9224,6 +9224,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
+                name = "Большой магический жезл",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:23772:0:0:0:0:0:0:0:10|h[Патроны из оскверненного железа]|h|r",
                 name = "Патроны из оскверненного железа",
                 count = 16495,
@@ -9322,7 +9334,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 3,
                     type = "2",
@@ -9364,18 +9376,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
-                name = "Большой магический жезл",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "13",
                     retention = "",
                 },
             },
