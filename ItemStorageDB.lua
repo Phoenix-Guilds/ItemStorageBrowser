@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772398686
+ItemStorageDB_LastUpdate = 1772442950
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6110,13 +6110,13 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-03-01 22:57:59",
-        money = 512,
+        updated_at = "2026-03-02 00:45:30",
+        money = 1121,
         empty = 0,
         location = "Леса Вечной Песни",
         items = {
             {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:5|h[Камень возвращения]|h|r",
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:7|h[Камень возвращения]|h|r",
                 name = "Камень возвращения",
                 count = 1,
                 details = {
@@ -6128,23 +6128,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:20842:0:0:0:0:0:0:0:5|h[Сломанная ветвь]|h|r",
-                name = "Сломанная ветвь",
-                count = 9,
+                link = "|cffffffff|Hitem:21807:0:0:0:0:0:0:0:7|h[Непомеченное письмо]|h|r",
+                name = "Непомеченное письмо",
+                count = 1,
                 details = {
-                    quality = 0,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff9d9d9d|Hitem:20843:0:0:0:0:0:0:0:5|h[Раздавленный цветок]|h|r",
-                name = "Раздавленный цветок",
-                count = 5,
-                details = {
-                    quality = 0,
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -12806,7 +12794,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-01 20:24:45",
+        updated_at = "2026-03-01 23:58:46",
         money = 40986,
         empty = 0,
         location = "Оргриммар",
