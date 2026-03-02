@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772490568
+ItemStorageDB_LastUpdate = 1772490630
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17858,7 +17858,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-02 21:35:56",
+        updated_at = "2026-03-03 00:30:27",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -17998,7 +17998,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13095:0:0:0:0:0:0:0:10|h[Кольцо штурма]|h|r",
                 name = "Кольцо штурма",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18016,6 +18016,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
+                name = "Инкрустированное малахитом кольцо",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "15",
                     retention = "",
                 },
             },
@@ -18052,6 +18064,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4999:0:0:0:0:0:0:0:10|h[Воля Азоры]|h|r",
+                name = "Воля Азоры",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "22",
                     retention = "",
                 },
             },
@@ -18094,7 +18118,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20907:0:0:0:0:0:0:0:10|h[Цельное бронзовое кольцо]|h|r",
                 name = "Цельное бронзовое кольцо",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18112,18 +18136,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
-                name = "Инкрустированное малахитом кольцо",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "15",
                     retention = "",
                 },
             },
@@ -18191,18 +18203,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1188:0:10|h[Тяжелое серебряное кольцо со знаком медведя]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком медведя",
                 count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1018:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
-                name = "Тяжелое серебряное кольцо со знаком кита",
-                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18296,11 +18296,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4999:0:0:0:0:0:0:0:10|h[Воля Азоры]|h|r",
-                name = "Воля Азоры",
+                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1018:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
+                name = "Тяжелое серебряное кольцо со знаком кита",
                 count = 1,
                 details = {
-                    quality = 2,
+                    quality = 3,
                     type = "4",
                     subtype = "Палец",
                     required_level = "22",
