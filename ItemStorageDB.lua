@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772482684
+ItemStorageDB_LastUpdate = 1772482775
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1691,7 +1691,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-02 16:37:51",
+        updated_at = "2026-03-02 22:19:23",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2160,18 +2160,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Посох",
-                    required_level = "40",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44218:0:0:0:0:0:0:0:10|h[Топор палача Новолуния]|h|r",
-                name = "Топор палача Новолуния",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
                     required_level = "40",
                     retention = "Двуручное",
                 },
