@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772482502
+ItemStorageDB_LastUpdate = 1772482684
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16193,7 +16193,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-02 16:28:11",
+        updated_at = "2026-03-02 22:17:54",
         money = 13936,
         empty = 0,
         location = "Оргриммар",
@@ -16231,18 +16231,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "42",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:1981:0:0:0:0:0:0:0:10|h[Кольчужный ледяной жакет]|h|r",
-                name = "Кольчужный ледяной жакет",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "39",
                     retention = "",
                 },
             },
@@ -16465,7 +16453,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
                 name = "Полированная джазерентская броня",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -16501,7 +16489,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                 name = "Скелетные наплечники",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -16567,18 +16555,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "21",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
-                name = "Поножи Троллегубителя",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "25",
                     retention = "",
                 },
             },
@@ -16729,7 +16705,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                 name = "Наручники Раздробленного хребта",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
