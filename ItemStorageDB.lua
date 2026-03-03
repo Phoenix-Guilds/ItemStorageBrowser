@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772554749
+ItemStorageDB_LastUpdate = 1772554811
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10028,7 +10028,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-03 10:18:48",
+        updated_at = "2026-03-03 18:19:54",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10180,7 +10180,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6271:0:0:0:0:0:0:0:10|h[Выкройка: красный льняной жилет]|h|r",
                 name = "Выкройка: красный льняной жилет",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -10204,7 +10204,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4408:0:0:0:0:0:0:0:10|h[Схема: коробка с механической белкой]|h|r",
                 name = "Схема: коробка с механической белкой",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
@@ -10312,7 +10312,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2553:0:0:0:0:0:0:0:10|h[Рецепт: слабый эликсир ловкости]|h|r",
                 name = "Рецепт: слабый эликсир ловкости",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "",
