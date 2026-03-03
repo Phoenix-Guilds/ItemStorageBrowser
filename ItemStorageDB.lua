@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772558482
+ItemStorageDB_LastUpdate = 1772558544
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3866,7 +3866,7 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = "2026-03-03 11:53:36",
+        updated_at = "2026-03-03 19:22:22",
         money = 16160,
         empty = 0,
         location = "Оргриммар",
@@ -4160,18 +4160,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4364:0:0:0:0:0:0:0:10|h[Низкосортное взрывчатое вещество]|h|r",
-                name = "Низкосортное взрывчатое вещество",
-                count = 24,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
                 name = "Медный регулятор",
                 count = 26,
@@ -4199,6 +4187,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
                 name = "Горсть медных винтов",
                 count = 42,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4399:0:0:0:0:0:0:0:10|h[Деревянный приклад]|h|r",
+                name = "Деревянный приклад",
+                count = 30,
                 details = {
                     quality = 1,
                     type = "",
