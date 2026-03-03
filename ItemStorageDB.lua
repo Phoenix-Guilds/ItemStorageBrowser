@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772542568
+ItemStorageDB_LastUpdate = 1772542630
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7022,7 +7022,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-03 00:00:10",
+        updated_at = "2026-03-03 14:56:54",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7162,7 +7162,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                 name = "Большой флакон с лечебным зельем",
-                count = 5,
+                count = 24,
                 details = {
                     quality = 1,
                     type = "",
@@ -7186,7 +7186,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                 name = "Средний флакон с зельем маны",
-                count = 50,
+                count = 69,
                 details = {
                     quality = 1,
                     type = "",
@@ -7222,7 +7222,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 25,
+                count = 29,
                 details = {
                     quality = 1,
                     type = "",
@@ -7360,6 +7360,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
+                name = "Малый эликсир ловкости",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "18",
                     retention = "",
                 },
             },
@@ -7604,6 +7616,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
+                name = "Наилучший эликсир защиты",
+                count = 13,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "43",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:12820:0:0:0:0:0:0:0:10|h[Огненная вода Зимней Спячки]|h|r",
                 name = "Огненная вода Зимней Спячки",
                 count = 100,
@@ -7748,18 +7772,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
-                name = "Малый эликсир ловкости",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:44327:0:0:0:0:0:0:0:10|h[Эликсир смертельных ударов]|h|r",
                 name = "Эликсир смертельных ударов",
                 count = 31,
@@ -7888,18 +7900,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "44",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
-                name = "Наилучший эликсир защиты",
-                count = 13,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "43",
                     retention = "",
                 },
             },
