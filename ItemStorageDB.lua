@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1772529283
+ItemStorageDB_LastUpdate = 1772529315
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-02 21:37:55",
+        updated_at = "2026-03-03 11:15:01",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -496,6 +496,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:43368:0:0:0:0:0:0:0:10|h[Символ чутья на нежить]|h|r",
+                name = "Символ чутья на нежить",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
                     retention = "",
                 },
             },
@@ -1172,6 +1184,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
+                name = "Поварская книга",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
                 name = "Символ пытки разума",
                 count = 6,
@@ -1336,18 +1360,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
-                name = "Поварская книга",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
