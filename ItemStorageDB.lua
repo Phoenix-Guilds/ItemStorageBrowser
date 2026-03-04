@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772659110
+ItemStorageDB_LastUpdate = 1772659202
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11171,7 +11171,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-04 22:53:19",
+        updated_at = "2026-03-04 23:19:59",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -11465,6 +11465,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:3196:20319:0:0:0:0:590:0:10|h[Наточенный полуторный меч со знаком мартышки]|h|r",
+                name = "Наточенный полуторный меч со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "13",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4777:20319:0:0:0:0:0:0:10|h[Кувалда железного дерева]|h|r",
                 name = "Кувалда железного дерева",
                 count = 1,
@@ -11513,18 +11525,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:727:20239:0:0:0:0:6:0:10|h[Зубчатый короткий меч со знаком силы]|h|r",
-                name = "Зубчатый короткий меч со знаком силы",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "5",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:727:20239:0:0:0:0:1547:0:10|h[Зубчатый короткий меч с печатью могущества]|h|r",
                 name = "Зубчатый короткий меч с печатью могущества",
                 count = 2,
@@ -11537,14 +11537,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2632:20239:0:0:0:0:1548:0:10|h[Кривой кинжал с печатью могущества]|h|r",
-                name = "Кривой кинжал с печатью могущества",
-                count = 1,
+                link = "|cff1eff00|Hitem:727:20239:0:0:0:0:6:0:10|h[Зубчатый короткий меч со знаком силы]|h|r",
+                name = "Зубчатый короткий меч со знаком силы",
+                count = 2,
                 details = {
                     quality = 2,
                     type = "2",
-                    subtype = "Кинжал",
-                    required_level = "9",
+                    subtype = "Меч",
+                    required_level = "5",
                     retention = "Одноручное",
                 },
             },
@@ -11621,8 +11621,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
-                name = "Ивовая ветвь со знаком духа",
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
+                name = "Ивовая ветвь со знаком интеллекта",
                 count = 1,
                 details = {
                     quality = 2,
@@ -11633,8 +11633,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
-                name = "Ивовая ветвь со знаком интеллекта",
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
+                name = "Ивовая ветвь со знаком духа",
                 count = 1,
                 details = {
                     quality = 2,
@@ -11701,30 +11701,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Лук",
                     required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
-                name = "Тонкий длинный лук",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Лук",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14168:931:0:0:0:0:845:0:10|h[Перчатки пирата со знаком орла]|h|r",
-                name = "Перчатки пирата со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "15",
                     retention = "",
                 },
             },
@@ -12005,18 +11981,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:9785:929:0:0:0:0:24:0:10|h[Разбойничьи наручи со знаком силы]|h|r",
-                name = "Разбойничьи наручи со знаком силы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "12",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6550:929:0:0:0:0:1179:0:10|h[Солдатские накулачники со знаком медведя]|h|r",
                 name = "Солдатские накулачники со знаком медведя",
                 count = 1,
@@ -12125,15 +12089,27 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:8178:0:0:0:0:0:501:0:10|h[Тренировочный меч со знаком волка]|h|r",
-                name = "Тренировочный меч со знаком волка",
+                link = "|cff1eff00|Hitem:14168:931:0:0:0:0:845:0:10|h[Перчатки пирата со знаком орла]|h|r",
+                name = "Перчатки пирата со знаком орла",
                 count = 1,
                 details = {
                     quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
+                name = "Тонкий длинный лук",
+                count = 2,
+                details = {
+                    quality = 2,
                     type = "2",
-                    subtype = "Меч",
-                    required_level = "5",
-                    retention = "Двуручное",
+                    subtype = "Лук",
+                    required_level = "14",
+                    retention = "",
                 },
             },
             {
@@ -12185,13 +12161,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4562:20319:0:0:0:0:1181:0:10|h[Сверхострый топор со знаком медведя]|h|r",
-                name = "Сверхострый топор со знаком медведя",
+                link = "|cff1eff00|Hitem:8178:0:0:0:0:0:501:0:10|h[Тренировочный меч со знаком волка]|h|r",
+                name = "Тренировочный меч со знаком волка",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "2",
-                    subtype = "Топор",
+                    subtype = "Меч",
                     required_level = "5",
                     retention = "Двуручное",
                 },
@@ -12245,6 +12221,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4562:20319:0:0:0:0:1181:0:10|h[Сверхострый топор со знаком медведя]|h|r",
+                name = "Сверхострый топор со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "5",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:3192:20320:0:0:0:0:1013:0:10|h[Короткий полуторный меч со знаком кита]|h|r",
                 name = "Короткий полуторный меч со знаком кита",
                 count = 1,
@@ -12265,18 +12253,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "11",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3196:20319:0:0:0:0:590:0:10|h[Наточенный полуторный меч со знаком мартышки]|h|r",
-                name = "Наточенный полуторный меч со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "13",
                     retention = "Двуручное",
                 },
             },
@@ -12421,18 +12397,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6267:0:0:0:0:0:839:0:10|h[Штаны Посвященного со знаком орла]|h|r",
-                name = "Штаны Посвященного со знаком орла",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "7",
                     retention = "",
                 },
             },
@@ -12593,6 +12557,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:9785:929:0:0:0:0:24:0:10|h[Разбойничьи наручи со знаком силы]|h|r",
+                name = "Разбойничьи наручи со знаком силы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "12",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:5422:0:0:0:0:0:0:0:10|h[Поножи ежевичных зарослей]|h|r",
                 name = "Поножи ежевичных зарослей",
                 count = 1,
@@ -12728,6 +12704,18 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:6267:0:0:0:0:0:754:0:10|h[Штаны Посвященного со знаком совы]|h|r",
                 name = "Штаны Посвященного со знаком совы",
                 count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "7",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6267:0:0:0:0:0:839:0:10|h[Штаны Посвященного со знаком орла]|h|r",
+                name = "Штаны Посвященного со знаком орла",
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
