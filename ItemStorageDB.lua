@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772624923
+ItemStorageDB_LastUpdate = 1772625045
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9932,7 +9932,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-04 13:27:23",
+        updated_at = "2026-03-04 13:50:21",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10030,6 +10030,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "6",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14499:0:0:0:0:0:0:0:10|h[Выкройка: сумка из луноткани]|h|r",
+                name = "Выкройка: сумка из луноткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -10144,7 +10156,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3611:0:0:0:0:0:0:0:10|h[Чертеж: зеленые железные сапоги]|h|r",
                 name = "Чертеж: зеленые железные сапоги",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -10228,7 +10240,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
                 name = "Рецепт: зелье скорости",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 2,
                     type = "",
