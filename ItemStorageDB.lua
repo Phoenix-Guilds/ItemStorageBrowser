@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772657303
+ItemStorageDB_LastUpdate = 1772657605
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11171,7 +11171,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-04 20:02:31",
+        updated_at = "2026-03-04 22:53:19",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -12649,18 +12649,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2974:0:0:0:0:0:0:0:10|h[Охотничьи штаны]|h|r",
-                name = "Охотничьи штаны",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "11",
                     retention = "",
                 },
             },
