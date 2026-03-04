@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772624274
+ItemStorageDB_LastUpdate = 1772624426
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17510,7 +17510,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-04 13:22:24",
+        updated_at = "2026-03-04 13:40:19",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -17972,14 +17972,26 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:29157:0:0:0:0:0:0:0:10|h[Золотое кольцо власти]|h|r",
-                name = "Золотое кольцо власти",
+                link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
+                name = "Кольцо тлеющих углей",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Палец",
-                    required_level = "31",
+                    required_level = "32",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1186:0:10|h[Тяжелое серебряное кольцо со знаком медведя]|h|r",
+                name = "Тяжелое серебряное кольцо со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "22",
                     retention = "",
                 },
             },
@@ -18092,6 +18104,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:29157:0:0:0:0:0:0:0:10|h[Золотое кольцо власти]|h|r",
+                name = "Золотое кольцо власти",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "31",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
                 name = "Кольцо побегов",
                 count = 1,
@@ -18154,18 +18178,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:677:0:10|h[Тяжелое серебряное кольцо со знаком тигра]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком тигра",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1186:0:10|h[Тяжелое серебряное кольцо со знаком медведя]|h|r",
-                name = "Тяжелое серебряное кольцо со знаком медведя",
                 count = 1,
                 details = {
                     quality = 3,
