@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772624829
+ItemStorageDB_LastUpdate = 1772624891
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13211,7 +13211,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-04 13:26:12",
+        updated_at = "2026-03-04 13:47:58",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -13387,7 +13387,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 226,
+                count = 227,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
+                name = "Бледнолист",
+                count = 108,
                 details = {
                     quality = 1,
                     type = "",
@@ -13471,7 +13483,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
                 name = "Кадгаров ус",
-                count = 201,
+                count = 204,
                 details = {
                     quality = 1,
                     type = "",
@@ -13483,19 +13495,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
-                count = 26,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
-                name = "Бледнолист",
-                count = 97,
+                count = 31,
                 details = {
                     quality = 1,
                     type = "",
@@ -13507,7 +13507,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                 name = "Корень жизни",
-                count = 217,
+                count = 224,
                 details = {
                     quality = 1,
                     type = "",
@@ -13519,7 +13519,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 87,
+                count = 96,
                 details = {
                     quality = 1,
                     type = "",
@@ -13555,7 +13555,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 127,
+                count = 129,
                 details = {
                     quality = 1,
                     type = "",
@@ -13579,7 +13579,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 199,
+                count = 200,
                 details = {
                     quality = 1,
                     type = "",
@@ -13591,7 +13591,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 118,
+                count = 119,
                 details = {
                     quality = 1,
                     type = "",
@@ -13793,66 +13793,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
-                name = "Рассветница",
-                count = 40,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
-                name = "Огромная ядовитая железа",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
-                name = "Малая ядовитая железа",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
-                name = "Большая ядовитая железа",
-                count = 7,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
-                name = "Острый коготь",
-                count = 20,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
                 name = "Терошишка",
                 count = 258,
@@ -13916,6 +13856,66 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                 name = "Золотой сансам",
                 count = 119,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
+                name = "Рассветница",
+                count = 40,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
+                name = "Огромная ядовитая железа",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
+                name = "Малая ядовитая железа",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
+                name = "Большая ядовитая железа",
+                count = 7,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
+                name = "Острый коготь",
+                count = 20,
                 details = {
                     quality = 1,
                     type = "",
