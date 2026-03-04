@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772627128
+ItemStorageDB_LastUpdate = 1772627190
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10088,7 +10088,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-04 13:50:21",
+        updated_at = "2026-03-04 14:26:19",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10444,6 +10444,18 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:16215:0:0:0:0:0:0:0:10|h[Формула чар для обуви - выносливость IV]|h|r",
                 name = "Формула чар для обуви - выносливость IV",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11208:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель демонов]|h|r",
+                name = "Формула чар для оружия - истребитель демонов",
                 count = 1,
                 details = {
                     quality = 2,
