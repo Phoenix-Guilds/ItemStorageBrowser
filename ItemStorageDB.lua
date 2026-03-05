@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1772736049
+ItemStorageDB_LastUpdate = 1772736201
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-04 22:09:02",
+        updated_at = "2026-03-05 20:42:54",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -778,7 +778,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:46372:0:0:0:0:0:0:0:10|h[Символ инстинкта выживания]|h|r",
                 name = "Символ инстинкта выживания",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -1184,18 +1184,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
-                name = "Поварская книга",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
                 name = "Символ пытки разума",
                 count = 5,
@@ -1360,6 +1348,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
+                name = "Поварская книга",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
