@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772727685
+ItemStorageDB_LastUpdate = 1772727819
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4319,9 +4319,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-04 21:29:07",
+        updated_at = "2026-03-05 18:23:09",
         money = 9572,
-        empty = 15,
+        empty = 0,
         location = "Оргриммар",
         items = {
             {
@@ -4555,7 +4555,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
-                count = 96,
+                count = 95,
                 details = {
                     quality = 2,
                     type = "",
@@ -4594,6 +4594,42 @@ ItemStorageDB = {
                 count = 363,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
+                name = "Тяжелый шлифовальный камень",
+                count = 130,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
+                name = "Грубый камень",
+                count = 407,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:24243:0:0:0:0:0:0:0:10|h[Адамантитовый порошок]|h|r",
+                name = "Адамантитовый порошок",
+                count = 41,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -4702,42 +4738,6 @@ ItemStorageDB = {
                 count = 28,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
-                name = "Тяжелый шлифовальный камень",
-                count = 130,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
-                name = "Грубый камень",
-                count = 407,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:24243:0:0:0:0:0:0:0:10|h[Адамантитовый порошок]|h|r",
-                name = "Адамантитовый порошок",
-                count = 41,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -13058,7 +13058,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-04 20:54:55",
+        updated_at = "2026-03-05 18:21:23",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13210,7 +13210,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                 name = "Рулон шелка",
-                count = 246,
+                count = 226,
                 details = {
                     quality = 1,
                     type = "",
@@ -13340,18 +13340,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
-                name = "Шелковый материал",
-                count = 1032,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
                 name = "Рулон шерсти",
                 count = 300,
@@ -13367,6 +13355,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
                 count = 286,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
+                name = "Шелковый материал",
+                count = 1032,
                 details = {
                     quality = 1,
                     type = "",
