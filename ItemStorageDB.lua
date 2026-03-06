@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772818333
+ItemStorageDB_LastUpdate = 1772818544
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13064,7 +13064,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-03-06 19:26:01",
+        updated_at = "2026-03-06 19:35:22",
         money = 29245,
         empty = 15,
         location = "Оргриммар",
@@ -13154,6 +13154,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:30744:0:0:0:0:0:0:0:10|h[Дренейская кожаная сума]|h|r",
+                name = "Дренейская кожаная сума",
+                count = 96,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
+                name = "Тяжелый ящик с инструментами",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:30747:0:0:0:0:0:0:0:10|h[Мешочек для самоцветов]|h|r",
                 name = "Мешочек для самоцветов",
                 count = 1,
@@ -13171,30 +13195,6 @@ ItemStorageDB = {
                 count = 1,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:30744:0:0:0:0:0:0:0:10|h[Дренейская кожаная сума]|h|r",
-                name = "Дренейская кожаная сума",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
-                name = "Тяжелый ящик с инструментами",
-                count = 1,
-                details = {
-                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
