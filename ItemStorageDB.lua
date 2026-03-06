@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772827193
+ItemStorageDB_LastUpdate = 1772827256
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-06 18:53:49",
+        updated_at = "2026-03-06 22:00:49",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2779,7 +2779,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                 name = "Клинок Многоглаза",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -16862,7 +16862,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-06 19:11:56",
+        updated_at = "2026-03-06 22:00:06",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17072,6 +17072,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13031:0:0:0:0:0:0:0:10|h[Сфера Мисмантла]|h|r",
+                name = "Сфера Мисмантла",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
+                name = "Мертвопламенный плащ",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
+                name = "Накидка черного призрака",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "50",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
                 name = "Перчатки Старины",
                 count = 2,
@@ -17092,18 +17128,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "40",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
-                name = "Кушак Огрона",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "37",
                     retention = "",
                 },
             },
@@ -17156,14 +17180,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13031:0:0:0:0:0:0:0:10|h[Сфера Мисмантла]|h|r",
-                name = "Сфера Мисмантла",
+                link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
+                name = "Кушак Огрона",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Левая рука",
-                    required_level = "23",
+                    subtype = "Кожа",
+                    required_level = "37",
                     retention = "",
                 },
             },
@@ -17188,30 +17212,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "40",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
-                name = "Мертвопламенный плащ",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
-                name = "Накидка черного призрака",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "50",
                     retention = "",
                 },
             },
