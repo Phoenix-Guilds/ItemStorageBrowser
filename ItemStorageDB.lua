@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772819177
+ItemStorageDB_LastUpdate = 1772819239
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2900,7 +2900,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-03-04 13:23:00",
+        updated_at = "2026-03-06 19:46:50",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3202,18 +3202,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "65",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36445:0:0:0:0:0:-45:37:10|h[Склепанный щит с меткой победителя]|h|r",
-                name = "Склепанный щит с меткой победителя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "67",
                     retention = "",
                 },
             },
