@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772824370
+ItemStorageDB_LastUpdate = 1772824582
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14400,6 +14400,75 @@ ItemStorageDB = {
                     quality = 1,
                     type = "",
                     subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+        },
+    },
+    {
+        name = "Царапучка",
+        updated_at = "2026-03-06 21:15:51",
+        money = 537,
+        empty = 0,
+        location = "Леса Вечной Песни",
+        items = {
+            {
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:5|h[Камень возвращения]|h|r",
+                name = "Камень возвращения",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:20842:0:0:0:0:0:0:0:5|h[Сломанная ветвь]|h|r",
+                name = "Сломанная ветвь",
+                count = 33,
+                details = {
+                    quality = 0,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:20843:0:0:0:0:0:0:0:5|h[Раздавленный цветок]|h|r",
+                name = "Раздавленный цветок",
+                count = 18,
+                details = {
+                    quality = 0,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:21015:0:0:0:0:0:0:0:5|h[Дешевый плетеный пояс]|h|r",
+                name = "Дешевый плетеный пояс",
+                count = 3,
+                details = {
+                    quality = 0,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:21002:0:0:0:0:0:0:0:5|h[Испачканный пояс]|h|r",
+                name = "Испачканный пояс",
+                count = 1,
+                details = {
+                    quality = 0,
+                    type = "4",
+                    subtype = "Ткань",
                     required_level = "",
                     retention = "",
                 },
