@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772829219
+ItemStorageDB_LastUpdate = 1772829520
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18287,7 +18287,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-06 18:57:55",
+        updated_at = "2026-03-06 22:38:29",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18461,30 +18461,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
-                name = "Кольцо золотого дракона",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "28",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4999:0:0:0:0:0:0:0:10|h[Воля Азоры]|h|r",
-                name = "Воля Азоры",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
                 name = "Серебряное кольцо могущества",
                 count = 2,
@@ -18521,18 +18497,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:20820:0:0:0:0:0:0:0:10|h[Простое жемчужное кольцо]|h|r",
-                name = "Простое жемчужное кольцо",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:20907:0:0:0:0:0:0:0:10|h[Цельное бронзовое кольцо]|h|r",
                 name = "Цельное бронзовое кольцо",
                 count = 4,
@@ -18557,18 +18521,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
-                name = "Инкрустированное малахитом кольцо",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:11981:0:0:0:0:0:757:0:10|h[Свинцовое кольцо со знаком совы]|h|r",
                 name = "Свинцовое кольцо со знаком совы",
                 count = 1,
@@ -18577,18 +18529,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20906:0:0:0:0:0:0:0:10|h[Оплетенное медное кольцо]|h|r",
-                name = "Оплетенное медное кольцо",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "10",
                     retention = "",
                 },
             },
@@ -18619,7 +18559,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
                 name = "Толстое бронзовое ожерелье",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18631,7 +18571,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
                 name = "Малахитовая подвеска",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18673,6 +18613,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "36",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
+                name = "Кольцо золотого дракона",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "28",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4999:0:0:0:0:0:0:0:10|h[Воля Азоры]|h|r",
+                name = "Воля Азоры",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "22",
                     retention = "",
                 },
             },
@@ -18799,7 +18763,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                 name = "Кольцо защиты",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
