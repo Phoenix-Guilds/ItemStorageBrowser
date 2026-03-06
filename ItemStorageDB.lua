@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772818936
+ItemStorageDB_LastUpdate = 1772819177
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6311,7 +6311,7 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        updated_at = "2026-03-01 20:07:23",
+        updated_at = "2026-03-06 19:46:00",
         money = 9413,
         empty = 0,
         location = "Оргриммар",
@@ -6319,7 +6319,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:43127:0:0:0:0:0:0:0:10|h[Чернила снегопада]|h|r",
                 name = "Чернила снегопада",
-                count = 20,
+                count = 27,
                 details = {
                     quality = 2,
                     type = "",
@@ -6379,7 +6379,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:43115:0:0:0:0:0:0:0:10|h[Чернила охотника]|h|r",
                 name = "Чернила охотника",
-                count = 264,
+                count = 280,
                 details = {
                     quality = 2,
                     type = "",
@@ -6403,7 +6403,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43126:0:0:0:0:0:0:0:10|h[Чернила моря]|h|r",
                 name = "Чернила моря",
-                count = 69,
+                count = 105,
                 details = {
                     quality = 1,
                     type = "",
@@ -6487,7 +6487,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39774:0:0:0:0:0:0:0:10|h[Полуночные чернила]|h|r",
                 name = "Полуночные чернила",
-                count = 123,
+                count = 157,
                 details = {
                     quality = 1,
                     type = "",
@@ -6499,7 +6499,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37101:0:0:0:0:0:0:0:10|h[Бежевые чернила]|h|r",
                 name = "Бежевые чернила",
-                count = 50,
+                count = 94,
                 details = {
                     quality = 1,
                     type = "",
