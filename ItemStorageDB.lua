@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772901861
+ItemStorageDB_LastUpdate = 1772901893
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6665,7 +6665,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-03-07 00:11:42",
+        updated_at = "2026-03-07 18:44:47",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -6769,7 +6769,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                 name = "Руда истинного серебра",
-                count = 528,
+                count = 529,
                 details = {
                     quality = 2,
                     type = "",
@@ -6875,18 +6875,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
-                name = "Серебряный слиток",
-                count = 392,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                 name = "Ториевый слиток",
                 count = 67,
@@ -6938,6 +6926,18 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
                 name = "Золотая руда",
                 count = 332,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
+                name = "Серебряный слиток",
+                count = 392,
                 details = {
                     quality = 2,
                     type = "",
