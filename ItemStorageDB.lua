@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772902431
+ItemStorageDB_LastUpdate = 1772902463
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7082,7 +7082,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-06 21:27:29",
+        updated_at = "2026-03-07 18:53:57",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7270,7 +7270,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                 name = "Зелье маны",
-                count = 12,
+                count = 14,
                 details = {
                     quality = 1,
                     type = "",
@@ -7282,7 +7282,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 33,
+                count = 35,
                 details = {
                     quality = 1,
                     type = "",
@@ -7420,18 +7420,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
-                name = "Эликсир ловкости",
-                count = 58,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "27",
                     retention = "",
                 },
             },
@@ -7688,14 +7676,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13447:0:0:0:0:0:0:0:10|h[Эликсир мудрецов]|h|r",
-                name = "Эликсир мудрецов",
-                count = 50,
+                link = "|cffffffff|Hitem:40070:0:0:0:0:0:0:0:10|h[Эликсир силы заклинаний]|h|r",
+                name = "Эликсир силы заклинаний",
+                count = 125,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "44",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -7820,14 +7808,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:40070:0:0:0:0:0:0:0:10|h[Эликсир силы заклинаний]|h|r",
-                name = "Эликсир силы заклинаний",
-                count = 125,
+                link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
+                name = "Эликсир ловкости",
+                count = 58,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "70",
+                    required_level = "27",
                     retention = "",
                 },
             },
@@ -7948,6 +7936,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13447:0:0:0:0:0:0:0:10|h[Эликсир мудрецов]|h|r",
+                name = "Эликсир мудрецов",
+                count = 50,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "44",
                     retention = "",
                 },
             },
