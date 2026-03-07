@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772910572
+ItemStorageDB_LastUpdate = 1772910964
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16754,7 +16754,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-07 20:24:45",
+        updated_at = "2026-03-07 21:15:34",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16984,18 +16984,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Левая рука",
                     required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
-                name = "Мертвопламенный плащ",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "16",
                     retention = "",
                 },
             },
@@ -17312,14 +17300,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
-                name = "Перчатки Флетчера",
-                count = 1,
+                link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
+                name = "Мертвопламенный плащ",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Кожа",
-                    required_level = "20",
+                    subtype = "Спина",
+                    required_level = "16",
                     retention = "",
                 },
             },
