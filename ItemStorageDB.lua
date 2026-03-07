@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772902988
+ItemStorageDB_LastUpdate = 1772903080
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16778,7 +16778,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-07 18:46:48",
+        updated_at = "2026-03-07 19:04:10",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16918,7 +16918,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13102:0:0:0:0:0:0:0:10|h[Милость Кассандры]|h|r",
                 name = "Милость Кассандры",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -17048,18 +17048,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
-                name = "Латная боевая перчатка Хаку",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "40",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                 name = "Наручи Гневливого",
                 count = 2,
@@ -17140,18 +17128,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "40",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
-                name = "Эльфийские плетеные сапоги",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "45",
                     retention = "",
                 },
             },
@@ -17312,6 +17288,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
+                name = "Забытые напульсники",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "41",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
                 name = "Перчатки буяна",
                 count = 2,
@@ -17444,18 +17432,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
-                name = "Забытые напульсники",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "41",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                 name = "Наручники Раздробленного хребта",
                 count = 2,
@@ -17584,6 +17560,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
+                name = "Латная боевая перчатка Хаку",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "40",
                     retention = "",
                 },
             },
@@ -17768,6 +17756,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
+                name = "Эльфийские плетеные сапоги",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "45",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
                 name = "Наплеч Незримых",
                 count = 2,
@@ -17912,6 +17912,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:8367:0:0:0:0:0:0:0:10|h[Кираса из чешуи дракона]|h|r",
+                name = "Кираса из чешуи дракона",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "46",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13077:0:0:0:0:0:0:0:10|h[Ремень Утера]|h|r",
                 name = "Ремень Утера",
                 count = 2,
@@ -18040,18 +18052,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "52",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:8367:0:0:0:0:0:0:0:10|h[Кираса из чешуи дракона]|h|r",
-                name = "Кираса из чешуи дракона",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "46",
                     retention = "",
                 },
             },
