@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772907800
+ItemStorageDB_LastUpdate = 1772907892
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16766,7 +16766,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-07 19:22:15",
+        updated_at = "2026-03-07 20:24:45",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17020,6 +17020,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Спина",
                     required_level = "50",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
+                name = "Забытые напульсники",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "41",
                     retention = "",
                 },
             },
