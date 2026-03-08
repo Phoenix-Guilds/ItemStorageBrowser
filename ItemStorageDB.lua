@@ -1,18 +1,12 @@
-ItemStorageDB_LastUpdate = 1772986238
+ItemStorageDB_LastUpdate = 1772986746
 ItemStorageDB = {
 	{
 		name = "Извечка",
-		updated_at = "2026-03-08 18:10:38",
+		updated_at = "2026-03-08 18:19:06",
 		money = 9680,
 		empty = 83,
 		location = "Оргриммар",
 		items = {
-			{
-				link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
-				name = "Золотая жемчужина",
-				count = 117,
-				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
-			},
 			{
 				link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
 				name = "Маленькая блестящая жемчужина",
@@ -20,21 +14,9 @@ ItemStorageDB = {
 				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
 			},
 			{
-				link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
-				name = "Слеза Сирены",
-				count = 18,
-				details = { quality = 3, type = "Самоцветы", subtype = "Простые" },
-			},
-			{
-				link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
-				name = "Черный купорос",
-				count = 75,
-				details = { quality = 1, type = "Хозяйственные товары", subtype = "Другое" },
-			},
-			{
-				link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
-				name = "Черная жемчужина",
-				count = 112,
+				link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
+				name = "Золотая жемчужина",
+				count = 117,
 				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
 			},
 			{
@@ -44,9 +26,9 @@ ItemStorageDB = {
 				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
 			},
 			{
-				link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
-				name = "Жемчужина Северного моря",
-				count = 17,
+				link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
+				name = "Черная жемчужина",
+				count = 112,
 				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
 			},
 			{
@@ -56,11 +38,77 @@ ItemStorageDB = {
 				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
 			},
 			{
+				link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
+				name = "Жемчужина Северного моря",
+				count = 17,
+				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
+			},
+			{
+				link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
+				name = "Черный купорос",
+				count = 75,
+				details = { quality = 1, type = "Хозяйственные товары", subtype = "Другое" },
+			},
+			{
 				link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
 				name = "Жемчужина джаггала",
 				count = 6,
 				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
 			},
+			{
+				link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
+				name = "Слеза Сирены",
+				count = 18,
+				details = { quality = 3, type = "Самоцветы", subtype = "Простые" },
+			},
 		},
 	},
+	{
+				link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
+				name = "Сумрачная жемчужина",
+				count = 1,
+				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
+			},
+	{
+				link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
+				name = "Слеза Сирены",
+				count = 18,
+				details = { quality = 3, type = "Самоцветы", subtype = "Простые" },
+			},
+	{
+				link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
+				name = "Черный купорос",
+				count = 75,
+				details = { quality = 1, type = "Хозяйственные товары", subtype = "Другое" },
+			},
+	{
+				link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
+				name = "Черная жемчужина",
+				count = 112,
+				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
+			},
+	{
+				link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
+				name = "Жемчужина джаггала",
+				count = 6,
+				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
+			},
+	{
+				link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
+				name = "Жемчужина Северного моря",
+				count = 17,
+				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
+			},
+	{
+				link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
+				name = "Радужная жемчужина",
+				count = 144,
+				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
+			},
+	{
+				link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
+				name = "Маленькая блестящая жемчужина",
+				count = 64,
+				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
+			},
 }
