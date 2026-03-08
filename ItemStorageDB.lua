@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772996206
+ItemStorageDB_LastUpdate = 1772997374
 ItemStorageDB = {
 	{
 		name = "Бумажная",
@@ -3317,21 +3317,15 @@ ItemStorageDB = {
 	},
 	{
 		name = "Медяшка",
-		updated_at = "2026-03-08 20:56:46",
+		updated_at = "2026-03-08 21:16:14",
 		money = 9467,
 		empty = 81,
 		location = "",
 		items = {
 			{
-				link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
-				name = "Оловянная руда",
-				count = 56,
-				details = { quality = 1, type = "Хозяйственные товары", subtype = "Металл и камень" },
-			},
-			{
-				link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
-				name = "Медный слиток",
-				count = 450,
+				link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
+				name = "Медная руда",
+				count = 308,
 				details = { quality = 1, type = "Хозяйственные товары", subtype = "Металл и камень" },
 			},
 			{
@@ -3341,9 +3335,15 @@ ItemStorageDB = {
 				details = { quality = 1, type = "Хозяйственные товары", subtype = "Металл и камень" },
 			},
 			{
-				link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
-				name = "Медная руда",
-				count = 308,
+				link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
+				name = "Медный слиток",
+				count = 450,
+				details = { quality = 1, type = "Хозяйственные товары", subtype = "Металл и камень" },
+			},
+			{
+				link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
+				name = "Оловянная руда",
+				count = 56,
 				details = { quality = 1, type = "Хозяйственные товары", subtype = "Металл и камень" },
 			},
 		},
