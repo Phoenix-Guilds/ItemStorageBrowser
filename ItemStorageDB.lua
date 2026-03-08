@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1772975777
+ItemStorageDB_LastUpdate = 1772978765
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11183,7 +11183,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-08 12:05:42",
+        updated_at = "2026-03-08 14:07:16",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -12233,54 +12233,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-20:6:10|h[Жилет Новолуния с печатью могущества]|h|r",
-                name = "Жилет Новолуния с печатью могущества",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-18:6:10|h[Жилет Новолуния со знаком ловкости]|h|r",
-                name = "Жилет Новолуния со знаком ловкости",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-14:6:10|h[Жилет Новолуния со знаком тигра]|h|r",
-                name = "Жилет Новолуния со знаком тигра",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6571:0:0:0:0:0:1653:0:10|h[Кулачный щит лазутчика с печатью отражения]|h|r",
-                name = "Кулачный щит лазутчика с печатью отражения",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15479:1892:0:0:0:0:23:0:10|h[Броня атакующего со знаком силы]|h|r",
                 name = "Броня атакующего со знаком силы",
                 count = 1,
@@ -12553,6 +12505,54 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-20:6:10|h[Жилет Новолуния с печатью могущества]|h|r",
+                name = "Жилет Новолуния с печатью могущества",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-18:6:10|h[Жилет Новолуния со знаком ловкости]|h|r",
+                name = "Жилет Новолуния со знаком ловкости",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-14:6:10|h[Жилет Новолуния со знаком тигра]|h|r",
+                name = "Жилет Новолуния со знаком тигра",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6571:0:0:0:0:0:1653:0:10|h[Кулачный щит лазутчика с печатью отражения]|h|r",
+                name = "Кулачный щит лазутчика с печатью отражения",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "17",
                     retention = "",
                 },
             },
