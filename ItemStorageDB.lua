@@ -1,18 +1,14 @@
-ItemStorageDB_LastUpdate = 1772987502
+ItemStorageDB_LastUpdate = 1772987827
 ItemStorageDB = {
-		{
+			{
 		name = "Извечка",
-		updated_at = "2026-03-08 18:31:42",
+		updated_at = "2026-03-08 18:37:07",
 		money = 9680,
 		empty = 83,
 		location = "Оргриммар",
 		items = {
-			{
-				link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
-				name = "Сумрачная жемчужина",
-				count = 1,
-				details = { quality = 2, type = "Самоцветы", subtype = "Простые" },
-			},
+		},
+	},
 			{
 				link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
 				name = "Слеза Сирены",
