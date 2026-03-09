@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773038693
+ItemStorageDB_LastUpdate = 1773038725
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9860,7 +9860,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-09 08:18:22",
+        updated_at = "2026-03-09 08:45:20",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -9922,6 +9922,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4297:0:0:0:0:0:0:0:10|h[Выкройка: варварские перчатки]|h|r",
+                name = "Выкройка: варварские перчатки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "25",
                     retention = "",
                 },
             },
@@ -10154,18 +10166,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4412:0:0:0:0:0:0:0:10|h[Схема: лунная винтовка]|h|r",
-                name = "Схема: лунная винтовка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "24",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6348:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель зверей I]|h|r",
                 name = "Формула чар для оружия - истребитель зверей I",
                 count = 2,
@@ -10226,6 +10226,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:12239:0:0:0:0:0:0:0:10|h[Рецепт: мясо в соусе \"Дыхание дракона\"]|h|r",
+                name = "Рецепт: мясо в соусе \"Дыхание дракона\"",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3830:0:0:0:0:0:0:0:10|h[Рецепт: эликсир стойкости]|h|r",
                 name = "Рецепт: эликсир стойкости",
                 count = 2,
@@ -10270,6 +10282,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4412:0:0:0:0:0:0:0:10|h[Схема: лунная винтовка]|h|r",
+                name = "Схема: лунная винтовка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "24",
                     retention = "",
                 },
             },
@@ -10367,18 +10391,6 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "30",
                     retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3867:0:0:0:0:0:0:0:10|h[Чертеж: позолоченный железный разрушитель]|h|r",
-                name = "Чертеж: позолоченный железный разрушитель",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "29",
-                    retention = "Двуручное",
                 },
             },
             {
@@ -10511,6 +10523,18 @@ ItemStorageDB = {
                     subtype = "",
                     required_level = "",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3867:0:0:0:0:0:0:0:10|h[Чертеж: позолоченный железный разрушитель]|h|r",
+                name = "Чертеж: позолоченный железный разрушитель",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "29",
+                    retention = "Двуручное",
                 },
             },
             {
