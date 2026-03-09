@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773062955
+ItemStorageDB_LastUpdate = 1773062987
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16514,7 +16514,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-09 14:20:58",
+        updated_at = "2026-03-09 15:29:46",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16756,6 +16756,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:10413:856:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
+                name = "Перчатки Клыка",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "14",
                     retention = "",
                 },
             },
