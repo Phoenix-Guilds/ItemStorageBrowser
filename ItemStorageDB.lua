@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773058586
+ItemStorageDB_LastUpdate = 1773058710
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1691,7 +1691,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-09 09:38:52",
+        updated_at = "2026-03-09 14:18:06",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2462,6 +2462,18 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "44",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
                 },
             },
             {
