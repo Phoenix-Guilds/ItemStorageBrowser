@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773065116
+ItemStorageDB_LastUpdate = 1773065178
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8789,7 +8789,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-03-09 13:57:24",
+        updated_at = "2026-03-09 16:05:50",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -8803,6 +8803,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "74",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37794:0:0:0:0:0:0:0:10|h[Огромное колье Торты]|h|r",
+                name = "Огромное колье Торты",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "78",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37823:0:0:0:0:0:0:0:10|h[Драконье колье лютости]|h|r",
+                name = "Драконье колье лютости",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "77",
                     retention = "",
                 },
             },
