@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773065178
+ItemStorageDB_LastUpdate = 1773065241
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16658,7 +16658,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-09 15:29:46",
+        updated_at = "2026-03-09 16:06:50",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16900,6 +16900,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10406:0:0:0:0:0:602:0:10|h[Головная повязка из чешуйчатой кожи со знаком мартышки]|h|r",
+                name = "Головная повязка из чешуйчатой кожи со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "27",
                     retention = "",
                 },
             },
