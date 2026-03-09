@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773036846
+ItemStorageDB_LastUpdate = 1773037060
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7727,7 +7727,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-08 23:22:01",
+        updated_at = "2026-03-09 08:17:18",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -7889,6 +7889,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
+                name = "Смертоносный мушкетон",
+                count = 20,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                 name = "Зеленый кожаный доспех",
                 count = 4,
@@ -7957,18 +7969,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
-                name = "Смертоносный мушкетон",
-                count = 11,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "16",
                     retention = "",
                 },
             },
@@ -12998,7 +12998,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-08 23:19:28",
+        updated_at = "2026-03-09 08:14:11",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13114,7 +13114,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                 name = "Рулон шелка",
-                count = 202,
+                count = 152,
                 details = {
                     quality = 1,
                     type = "",
@@ -13244,9 +13244,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
-                name = "Шелковый материал",
-                count = 934,
+                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
+                name = "Паутина",
+                count = 298,
                 details = {
                     quality = 1,
                     type = "",
@@ -13256,9 +13256,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
-                name = "Паутина",
-                count = 298,
+                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
+                name = "Шелковый материал",
+                count = 934,
                 details = {
                     quality = 1,
                     type = "",
