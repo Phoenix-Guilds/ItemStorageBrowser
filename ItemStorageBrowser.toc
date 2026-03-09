@@ -1,8 +1,8 @@
 ## Interface: 30300
-## Title: ItemStorageBrowser |cff7fff7f v2.8.1|r
+## Title: ItemStorageBrowser |cff7fff7f v2.8.2|r
 ## Notes: A simple addon to browse item storage
 ## Author: Volodymyr Buinov
-## Version: 2.8.1
+## Version: 2.8.2
 ## SavedVariables: ItemStorageBrowserDB, ItemStorage_ExportData
 
 Core\Export.lua
@@ -14,6 +14,7 @@ Tabs\SearchTab.lua
 Tabs\ArmorTab.lua
 Tabs\WeaponTab.Lua
 Tabs\JewelryTab.lua
+Tabs\BagsTab.lua
 Tabs\RecipesTab.lua
 Tabs\GlyphsTab.lua
 Tabs\TradeGoodsTab.lua

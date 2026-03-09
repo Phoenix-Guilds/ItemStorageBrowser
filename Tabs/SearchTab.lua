@@ -6,7 +6,7 @@ local function RegisterSearchTab()
     ItemStorageBrowser:RegisterTab({
         name = "Поиск по названию",
         icon = "Interface\\Icons\\INV_Misc_Spyglass_03",
-        
+
         OnActivate = function(tab, container)
             -- Создаем элементы только если они еще не созданы
             if not tab.initialized then
@@ -18,7 +18,7 @@ local function RegisterSearchTab()
                 tab.searchBox:SetScript("OnEnterPressed", function()
                     tab:SearchItems(tab.searchBox:GetText())
                 end)
-                
+
                 -- Кнопка поиска
                 tab.searchButton = CreateFrame("Button", nil, container, "UIPanelButtonTemplate")
                 tab.searchButton:SetSize(80, 22)
@@ -27,17 +27,17 @@ local function RegisterSearchTab()
                 tab.searchButton:SetScript("OnClick", function()
                     tab:SearchItems(tab.searchBox:GetText())
                 end)
-                
+
                 -- Список результатов
                 tab.itemList = CreateFrame("ScrollFrame", nil, container, "UIPanelScrollFrameTemplate")
                 tab.itemList:SetSize(500, 300)
                 tab.itemList:SetPoint("TOPLEFT", container, "TOPLEFT", 10, -40)
                 tab.itemList:SetPoint("BOTTOMRIGHT", container, "BOTTOMRIGHT", -30, 10)
-                
+
                 tab.itemListContent = CreateFrame("Frame", nil, tab.itemList)
                 tab.itemListContent:SetSize(500, 1)
                 tab.itemList:SetScrollChild(tab.itemListContent)
-                
+
                 -- Текст по умолчанию
                 tab.initialText = tab.itemListContent:CreateFontString(nil, "OVERLAY", "GameFontNormal")
                 tab.initialText:SetWidth(480)
@@ -45,12 +45,13 @@ local function RegisterSearchTab()
                 tab.initialText:SetPoint("TOP", tab.itemListContent, "TOP", 0, -10)
                 tab.initialText:SetPoint("LEFT", tab.itemListContent, "LEFT", 10, 0)
                 tab.initialText:SetPoint("RIGHT", tab.itemListContent, "RIGHT", -10, 0)
-                tab.initialText:SetText("Введите частично или полностью название предмета, нажмите кнопку \"Найти\" или клавишу \"Enter\" (\"Ввод\").\n\nЕсли Вам нужно подобрать предмет по его типу или качеству, уровню и т.п. параметрам - используйте кнопки-вкладки слева: Броня, Оружие и т.д.")
+                tab.initialText:SetText(
+                    "Введите частично или полностью название предмета, нажмите кнопку \"Найти\" или клавишу \"Enter\" (\"Ввод\").\n\nЕсли Вам нужно подобрать предмет по его типу или качеству, уровню и т.п. параметрам - используйте кнопки-вкладки слева: Броня, Оружие и т.д.")
                 tab.initialText:SetJustifyH("CENTER")
                 tab.initialText:SetJustifyV("CENTER")
                 tab.initialText:SetWordWrap(true) -- Включаем перенос слов
                 tab.initialText:SetNonSpaceWrap(true) -- Разрешаем перенос длинных слов без пробелов
-                
+
                 tab.initialized = true
             end
 
@@ -68,16 +69,20 @@ local function RegisterSearchTab()
             if tab.UpdateScrollBar then
                 tab.UpdateScrollBar()
             end
-            
+
             -- Показываем начальное сообщение
             if tab.initialText then
                 tab.initialText:Show()
             end
         end,
-        
+
         SearchItems = function(tab, query)
-            if not ItemStorageBrowser.database then return end
-            if not tab.itemListContent then return end
+            if not ItemStorageBrowser.database then
+                return
+            end
+            if not tab.itemListContent then
+                return
+            end
 
             -- Скрываем начальное сообщение
             if tab.initialText then
@@ -116,7 +121,7 @@ local function RegisterSearchTab()
                         -- Если уровни равны, сортируем по названию (по алфавиту)
                         return a.name < b.name
                     end)
-                    
+
                     groupedResults[character.name] = characterItems
                     hasResults = true
                 end
@@ -144,7 +149,7 @@ local function RegisterSearchTab()
                         local itemFrame = CreateFrame("Frame", nil, tab.itemListContent)
                         itemFrame:SetSize(500, 30)
                         itemFrame:SetPoint("TOPLEFT", 0, yOffset)
-                        
+
                         -- Иконка предмета
                         local itemIcon = CreateFrame("Button", nil, itemFrame)
                         itemIcon:SetSize(24, 24)
@@ -153,16 +158,22 @@ local function RegisterSearchTab()
                         itemIcon:SetScript("OnEnter", function()
                             GameTooltip:SetOwner(itemIcon, "ANCHOR_RIGHT")
                             GameTooltip:SetHyperlink(item.link)
+                            if IsShiftKeyDown() then
+                                GameTooltip_ShowCompareItem(GameTooltip)
+                            end
                             GameTooltip:Show()
                         end)
+
                         itemIcon:SetScript("OnLeave", function()
                             GameTooltip:Hide()
+                            HideShoppingTooltips()
                         end)
 
                         -- Получаем цвет качества предмета
                         local quality = select(3, GetItemInfo(item.link)) or 1
-                        local itemColor = ITEM_QUALITY_COLORS[quality] and ITEM_QUALITY_COLORS[quality].hex or "|cffffffff"
-                        
+                        local itemColor = ITEM_QUALITY_COLORS[quality] and ITEM_QUALITY_COLORS[quality].hex or
+                                              "|cffffffff"
+
                         -- Кнопка-ссылка на предмет
                         local itemButton = CreateFrame("Button", nil, itemFrame)
                         itemButton:SetPoint("LEFT", itemIcon, "RIGHT", 10, 0)
@@ -177,10 +188,15 @@ local function RegisterSearchTab()
                         itemButton:SetScript("OnEnter", function()
                             GameTooltip:SetOwner(itemButton, "ANCHOR_RIGHT")
                             GameTooltip:SetHyperlink(item.link)
+                            if IsShiftKeyDown() then
+                                GameTooltip_ShowCompareItem(GameTooltip)
+                            end
                             GameTooltip:Show()
                         end)
+
                         itemButton:SetScript("OnLeave", function()
                             GameTooltip:Hide()
+                            HideShoppingTooltips()
                         end)
 
                         -- Вставка ссылки в чат при Shift+клике
@@ -195,7 +211,7 @@ local function RegisterSearchTab()
                                 ChatEdit_InsertLink(item.link)
                             end
                         end)
-                        
+
                         -- Текст количества предметов
                         local itemCountText = itemFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
                         itemCountText:SetPoint("LEFT", itemButton, "RIGHT", 10, 0)
@@ -213,14 +229,22 @@ local function RegisterSearchTab()
                 tab.UpdateScrollBar()
             end
         end,
-        
+
         OnDeactivate = function(tab, container)
             tab.initialized = false
             -- Не уничтожаем элементы, а просто скрываем
-            if tab.searchBox then tab.searchBox:Hide() end
-            if tab.searchButton then tab.searchButton:Hide() end
-            if tab.itemList then tab.itemList:Hide() end
-            if tab.initialText then tab.initialText:Hide() end
+            if tab.searchBox then
+                tab.searchBox:Hide()
+            end
+            if tab.searchButton then
+                tab.searchButton:Hide()
+            end
+            if tab.itemList then
+                tab.itemList:Hide()
+            end
+            if tab.initialText then
+                tab.initialText:Hide()
+            end
             if tab.itemListContent then
                 tab.itemListContent:Hide()
             end
@@ -234,4 +258,32 @@ initFrame:RegisterEvent("PLAYER_LOGIN")
 initFrame:SetScript("OnEvent", function(self, event)
     RegisterSearchTab()
     self:UnregisterEvent(event)
+end)
+
+-- Вспомогательная функция: прячет окна сравнения (ShoppingTooltip1/2)
+local function HideShoppingTooltips()
+    for i = 1, 2 do
+        local st = _G["ShoppingTooltip" .. i]
+        if st and st:IsShown() then
+            st:Hide()
+        end
+    end
+end
+
+-- Обработчик модификатора Shift: показывает сравнение при нажатии, прячет при отпускании
+local tooltipCompareFrame = CreateFrame("Frame")
+tooltipCompareFrame:RegisterEvent("MODIFIER_STATE_CHANGED")
+
+tooltipCompareFrame:SetScript("OnEvent", function(self, event, key, state)
+    if key == "LSHIFT" or key == "RSHIFT" then
+        if state == 1 then
+            -- Shift нажат
+            if GameTooltip and GameTooltip:IsShown() then
+                GameTooltip_ShowCompareItem(GameTooltip)
+            end
+        else
+            -- Shift отпущен — прячем окна сравнения
+            HideShoppingTooltips()
+        end
+    end
 end)
