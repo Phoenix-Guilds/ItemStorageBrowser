@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773164639
+ItemStorageDB_LastUpdate = 1773164671
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3125,7 +3125,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-09 22:28:56",
+        updated_at = "2026-03-10 19:44:25",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -3181,7 +3181,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35624:0:0:0:0:0:0:0:10|h[Извечная земля]|h|r",
                 name = "Извечная земля",
-                count = 60,
+                count = 59,
                 details = {
                     quality = 2,
                     type = "",
@@ -3193,7 +3193,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35627:0:0:0:0:0:0:0:10|h[Извечная тьма]|h|r",
                 name = "Извечная тьма",
-                count = 95,
+                count = 93,
                 details = {
                     quality = 2,
                     type = "",
@@ -3205,7 +3205,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35623:0:0:0:0:0:0:0:10|h[Извечный воздух]|h|r",
                 name = "Извечный воздух",
-                count = 56,
+                count = 55,
                 details = {
                     quality = 2,
                     type = "",
@@ -3217,7 +3217,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36860:0:0:0:0:0:0:0:10|h[Извечный огонь]|h|r",
                 name = "Извечный огонь",
-                count = 26,
+                count = 25,
                 details = {
                     quality = 2,
                     type = "",
@@ -3301,7 +3301,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 111,
+                count = 113,
                 details = {
                     quality = 2,
                     type = "",
@@ -3397,7 +3397,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
-                count = 109,
+                count = 110,
                 details = {
                     quality = 1,
                     type = "",
@@ -3433,7 +3433,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
-                count = 151,
+                count = 156,
                 details = {
                     quality = 1,
                     type = "",
@@ -3457,7 +3457,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
                 name = "Магическая сфера воды",
-                count = 50,
+                count = 53,
                 details = {
                     quality = 1,
                     type = "",
@@ -3505,7 +3505,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 118,
+                count = 119,
                 details = {
                     quality = 1,
                     type = "",
@@ -3520,6 +3520,18 @@ ItemStorageDB = {
                 count = 89,
                 details = {
                     quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
+                name = "Маленькая блестящая жемчужина",
+                count = 64,
+                details = {
+                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -3589,21 +3601,9 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
                 name = "Лимфа нежити",
-                count = 56,
+                count = 63,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
-                name = "Маленькая блестящая жемчужина",
-                count = 64,
-                details = {
-                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -3697,7 +3697,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 39,
+                count = 43,
                 details = {
                     quality = 2,
                     type = "",
