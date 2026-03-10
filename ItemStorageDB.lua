@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773162545
+ItemStorageDB_LastUpdate = 1773163027
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4211,7 +4211,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-09 22:40:52",
+        updated_at = "2026-03-10 19:16:46",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -4303,7 +4303,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
-                count = 102,
+                count = 103,
                 details = {
                     quality = 2,
                     type = "",
@@ -4315,7 +4315,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
                 name = "Грубый камень",
-                count = 457,
+                count = 550,
                 details = {
                     quality = 1,
                     type = "",
@@ -4375,7 +4375,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
                 name = "Аквамарин",
-                count = 125,
+                count = 126,
                 details = {
                     quality = 2,
                     type = "",
@@ -4387,7 +4387,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 182,
+                count = 185,
                 details = {
                     quality = 2,
                     type = "",
@@ -4399,7 +4399,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                 name = "Тигровый глаз",
-                count = 231,
+                count = 234,
                 details = {
                     quality = 2,
                     type = "",
@@ -4411,7 +4411,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
                 name = "Малахит",
-                count = 210,
+                count = 212,
                 details = {
                     quality = 2,
                     type = "",
@@ -4447,7 +4447,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                 name = "Нефрит",
-                count = 157,
+                count = 159,
                 details = {
                     quality = 2,
                     type = "",
@@ -4498,18 +4498,6 @@ ItemStorageDB = {
                 count = 363,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
-                name = "Тяжелый шлифовальный камень",
-                count = 130,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -4618,6 +4606,30 @@ ItemStorageDB = {
                 count = 28,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
+                name = "Тяжелый шлифовальный камень",
+                count = 130,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
+                name = "Необработанный камень",
+                count = 8,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
