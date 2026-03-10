@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773165397
+ItemStorageDB_LastUpdate = 1773165428
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13559,7 +13559,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-10 19:50:34",
+        updated_at = "2026-03-10 19:56:47",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -13685,21 +13685,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
-                name = "Масло каменного угря",
-                count = 262,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13422:0:0:0:0:0:0:0:10|h[Каменный угорь]|h|r",
-                name = "Каменный угорь",
-                count = 187,
+                link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
+                name = "Огнеперый луциан",
+                count = 178,
                 details = {
                     quality = 1,
                     type = "",
@@ -13721,9 +13709,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
-                name = "Огнеперый луциан",
-                count = 149,
+                link = "|cffffffff|Hitem:13422:0:0:0:0:0:0:0:10|h[Каменный угорь]|h|r",
+                name = "Каменный угорь",
+                count = 187,
                 details = {
                     quality = 1,
                     type = "",
@@ -13733,9 +13721,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
-                name = "Масло черноротика",
-                count = 138,
+                link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
+                name = "Масло каменного угря",
+                count = 262,
                 details = {
                     quality = 1,
                     type = "",
@@ -13745,9 +13733,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
-                name = "Масляный черноротик",
-                count = 105,
+                link = "|cffffffff|Hitem:40195:0:0:0:0:0:0:0:10|h[Карломасло]|h|r",
+                name = "Карломасло",
+                count = 71,
                 details = {
                     quality = 1,
                     type = "",
@@ -13757,9 +13745,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
-                name = "Рассветница",
-                count = 40,
+                link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
+                name = "Карликовый сосокунь",
+                count = 150,
                 details = {
                     quality = 1,
                     type = "",
@@ -13973,9 +13961,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
-                name = "Карликовый сосокунь",
-                count = 150,
+                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
+                name = "Рассветница",
+                count = 40,
                 details = {
                     quality = 1,
                     type = "",
@@ -13985,9 +13973,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:40195:0:0:0:0:0:0:0:10|h[Карломасло]|h|r",
-                name = "Карломасло",
-                count = 71,
+                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
+                name = "Масляный черноротик",
+                count = 122,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
+                name = "Масло черноротика",
+                count = 138,
                 details = {
                     quality = 1,
                     type = "",
