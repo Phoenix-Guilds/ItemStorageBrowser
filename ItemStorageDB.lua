@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773248463
+ItemStorageDB_LastUpdate = 1773248494
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3113,7 +3113,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-10 19:49:54",
+        updated_at = "2026-03-11 19:01:21",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -3145,7 +3145,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
                 name = "Извечная вода",
-                count = 105,
+                count = 55,
                 details = {
                     quality = 2,
                     type = "",
@@ -3157,7 +3157,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35625:0:0:0:0:0:0:0:10|h[Извечная жизнь]|h|r",
                 name = "Извечная жизнь",
-                count = 106,
+                count = 6,
                 details = {
                     quality = 2,
                     type = "",
@@ -3169,7 +3169,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35624:0:0:0:0:0:0:0:10|h[Извечная земля]|h|r",
                 name = "Извечная земля",
-                count = 59,
+                count = 9,
                 details = {
                     quality = 2,
                     type = "",
@@ -3181,7 +3181,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35627:0:0:0:0:0:0:0:10|h[Извечная тьма]|h|r",
                 name = "Извечная тьма",
-                count = 93,
+                count = 43,
                 details = {
                     quality = 2,
                     type = "",
@@ -3193,7 +3193,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35623:0:0:0:0:0:0:0:10|h[Извечный воздух]|h|r",
                 name = "Извечный воздух",
-                count = 55,
+                count = 5,
                 details = {
                     quality = 2,
                     type = "",
@@ -3205,7 +3205,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36860:0:0:0:0:0:0:0:10|h[Извечный огонь]|h|r",
                 name = "Извечный огонь",
-                count = 25,
+                count = 5,
                 details = {
                     quality = 2,
                     type = "",
@@ -3217,7 +3217,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21885:0:0:0:0:0:0:0:10|h[Изначальная Вода]|h|r",
                 name = "Изначальная Вода",
-                count = 37,
+                count = 7,
                 details = {
                     quality = 2,
                     type = "",
@@ -3229,7 +3229,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
                 name = "Изначальная Жизнь",
-                count = 43,
+                count = 13,
                 details = {
                     quality = 2,
                     type = "",
@@ -3241,7 +3241,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22452:0:0:0:0:0:0:0:10|h[Изначальная Земля]|h|r",
                 name = "Изначальная Земля",
-                count = 45,
+                count = 15,
                 details = {
                     quality = 2,
                     type = "",
@@ -3253,7 +3253,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22456:0:0:0:0:0:0:0:10|h[Изначальная Тень]|h|r",
                 name = "Изначальная Тень",
-                count = 103,
+                count = 53,
                 details = {
                     quality = 2,
                     type = "",
@@ -3263,8 +3263,44 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
-                name = "Изначальный Воздух",
+                link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
+                name = "Субстанция Воды",
+                count = 7,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7082:0:0:0:0:0:0:0:10|h[Субстанция Воздуха]|h|r",
+                name = "Субстанция Воздуха",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
+                name = "Субстанция Жизни",
+                count = 15,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
+                name = "Субстанция Земли",
                 count = 1,
                 details = {
                     quality = 2,
@@ -3275,9 +3311,57 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:12808:0:0:0:0:0:0:0:10|h[Субстанция Нежити]|h|r",
+                name = "Субстанция Нежити",
+                count = 14,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
+                name = "Субстанция Огня",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
+                name = "Дикая лоза",
+                count = 43,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
+                name = "Кристаллизованная вода",
+                count = 53,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 145,
+                count = 15,
                 details = {
                     quality = 2,
                     type = "",
@@ -3289,7 +3373,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 113,
+                count = 13,
                 details = {
                     quality = 2,
                     type = "",
@@ -3371,213 +3455,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
-                name = "Первородный воздух",
-                count = 132,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
-                name = "Первородный огонь",
-                count = 110,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
-                name = "Мощный амулет",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
-                name = "Настой большого колдунства",
-                count = 63,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
-                name = "Настой колдунства",
-                count = 156,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
                 name = "Синяя жемчужина",
                 count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
-                name = "Магическая сфера воды",
-                count = 53,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
-                name = "Сердце дикой природы",
-                count = 168,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
-                name = "Сердце огня",
-                count = 56,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
-                name = "Ядро земли",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
-                name = "Первородная вода",
-                count = 119,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
-                name = "Первородная земля",
-                count = 89,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22573:0:0:0:0:0:0:0:10|h[Частица Земли]|h|r",
-                name = "Частица Земли",
-                count = 307,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22576:0:0:0:0:0:0:0:10|h[Частица Маны]|h|r",
-                name = "Частица Маны",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
-                name = "Частица Огня",
-                count = 35,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
-                name = "Частица Тени",
-                count = 227,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
-                name = "Дыхание ветра",
-                count = 103,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
-                name = "Лимфа нежити",
-                count = 63,
                 details = {
                     quality = 1,
                     type = "",
@@ -3592,114 +3472,6 @@ ItemStorageDB = {
                 count = 64,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
-                name = "Изначальный Огонь",
-                count = 6,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
-                name = "Субстанция Воды",
-                count = 27,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7082:0:0:0:0:0:0:0:10|h[Субстанция Воздуха]|h|r",
-                name = "Субстанция Воздуха",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
-                name = "Субстанция Жизни",
-                count = 115,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
-                name = "Субстанция Земли",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12808:0:0:0:0:0:0:0:10|h[Субстанция Нежити]|h|r",
-                name = "Субстанция Нежити",
-                count = 104,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
-                name = "Субстанция Огня",
-                count = 10,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
-                name = "Дикая лоза",
-                count = 43,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
-                name = "Кристаллизованная вода",
-                count = 53,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -3779,9 +3551,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22572:0:0:0:0:0:0:0:10|h[Частица Воздуха]|h|r",
-                name = "Частица Воздуха",
-                count = 23,
+                link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
+                name = "Частица Жизни",
+                count = 40,
                 details = {
                     quality = 1,
                     type = "",
@@ -3791,9 +3563,189 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
-                name = "Частица Жизни",
-                count = 40,
+                link = "|cffffffff|Hitem:22573:0:0:0:0:0:0:0:10|h[Частица Земли]|h|r",
+                name = "Частица Земли",
+                count = 307,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
+                name = "Сердце дикой природы",
+                count = 124,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
+                name = "Сердце огня",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
+                name = "Ядро земли",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
+                name = "Первородная вода",
+                count = 69,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
+                name = "Первородная земля",
+                count = 39,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
+                name = "Первородный воздух",
+                count = 82,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
+                name = "Первородный огонь",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
+                name = "Мощный амулет",
+                count = 3,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
+                name = "Настой большого колдунства",
+                count = 13,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
+                name = "Настой колдунства",
+                count = 106,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22576:0:0:0:0:0:0:0:10|h[Частица Маны]|h|r",
+                name = "Частица Маны",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
+                name = "Частица Тени",
+                count = 227,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
+                name = "Дыхание ветра",
+                count = 53,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
+                name = "Лимфа нежити",
+                count = 13,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
+                name = "Магическая сфера воды",
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
