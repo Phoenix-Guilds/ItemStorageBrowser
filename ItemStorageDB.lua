@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773253190
+ItemStorageDB_LastUpdate = 1773253312
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16850,7 +16850,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-11 20:03:19",
+        updated_at = "2026-03-11 20:21:35",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16948,6 +16948,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "44",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:867:0:0:0:0:0:0:0:10|h[Перчатки Священной Мощи]|h|r",
+                name = "Перчатки Священной Мощи",
+                count = 2,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "37",
                     retention = "",
                 },
             },
@@ -17108,7 +17120,19 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:18948:929:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
+                link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
+                name = "Наручи Йоргена",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:18948:927:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
                 name = "Варварские наручи",
                 count = 1,
                 details = {
@@ -17120,7 +17144,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:18948:927:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
+                link = "|cff0070dd|Hitem:18948:929:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
                 name = "Варварские наручи",
                 count = 1,
                 details = {
@@ -17152,6 +17176,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "52",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
+                name = "Сапоги тиноброда",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "32",
                     retention = "",
                 },
             },
@@ -17536,18 +17572,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "26",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
-                name = "Наручи Йоргена",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "22",
                     retention = "",
                 },
             },
