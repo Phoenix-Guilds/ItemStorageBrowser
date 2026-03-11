@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773253526
+ItemStorageDB_LastUpdate = 1773253559
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9062,7 +9062,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-11 20:04:50",
+        updated_at = "2026-03-11 20:25:33",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9380,6 +9380,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
+                name = "Ружье-клинок",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "65",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
                 name = "Крупнокалиберный дробовик",
                 count = 3,
@@ -9424,6 +9436,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
+                name = "Огнеиспускатель Джайны",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "37",
                     retention = "",
                 },
             },
@@ -9507,18 +9531,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Огнестрельное",
-                    required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
-                name = "Огнеиспускатель Джайны",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
                     required_level = "37",
                     retention = "",
                 },
