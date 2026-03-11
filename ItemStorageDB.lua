@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773246832
+ItemStorageDB_LastUpdate = 1773247446
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13274,7 +13274,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-10 20:43:06",
+        updated_at = "2026-03-11 18:43:51",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13330,7 +13330,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14342:0:0:0:0:0:0:0:10|h[Луноткань]|h|r",
                 name = "Луноткань",
-                count = 4,
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:14048:0:0:0:0:0:0:0:10|h[Рулон рунической ткани]|h|r",
+                name = "Рулон рунической ткани",
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -13352,6 +13364,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
+                name = "Руническая ткань",
+                count = 129,
+                details = {
+                    quality = 0,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
                 name = "Ткань Скверны",
                 count = 6,
@@ -13366,7 +13390,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                 name = "Магическая ткань",
-                count = 45,
+                count = 95,
                 details = {
                     quality = 1,
                     type = "",
@@ -13510,7 +13534,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 1512,
+                count = 1783,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
+                name = "Рулон льняной ткани",
+                count = 218,
                 details = {
                     quality = 1,
                     type = "",
@@ -13532,18 +13568,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
-                name = "Паутина",
-                count = 301,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
                 count = 900,
@@ -13556,9 +13580,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
-                name = "Рулон льняной ткани",
-                count = 218,
+                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
+                name = "Паутина",
+                count = 301,
                 details = {
                     quality = 1,
                     type = "",
