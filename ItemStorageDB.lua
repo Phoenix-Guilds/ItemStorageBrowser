@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773248618
+ItemStorageDB_LastUpdate = 1773248681
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7667,7 +7667,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-10 00:10:05",
+        updated_at = "2026-03-11 19:04:27",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -7723,7 +7723,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
                 name = "Дикий росток",
-                count = 94,
+                count = 114,
                 details = {
                     quality = 1,
                     type = "",
@@ -7829,6 +7829,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
+                name = "Смертоносный мушкетон",
+                count = 11,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                 name = "Зеленый кожаный доспех",
                 count = 4,
@@ -7897,18 +7909,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
-                name = "Смертоносный мушкетон",
-                count = 15,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "16",
                     retention = "",
                 },
             },
