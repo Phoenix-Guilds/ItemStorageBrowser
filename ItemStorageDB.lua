@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773247721
+ItemStorageDB_LastUpdate = 1773247783
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1691,7 +1691,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-10 19:53:10",
+        updated_at = "2026-03-11 18:49:25",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1913,6 +1913,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
+                name = "Черночерепный щит",
+                count = 2,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "41",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
                 count = 1,
@@ -1933,6 +1945,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "15",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
+                name = "Горящая секира",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "28",
                     retention = "Двуручное",
                 },
             },
@@ -2485,18 +2509,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "36",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
-                name = "Черночерепный щит",
-                count = 2,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "41",
                     retention = "",
                 },
             },
