@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773338490
+ItemStorageDB_LastUpdate = 1773338942
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11216,23 +11216,11 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-12 18:50:15",
+        updated_at = "2026-03-12 20:08:57",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff1eff00|Hitem:15513:0:0:0:0:0:1191:0:10|h[Наплечье рубаки со знаком медведя]|h|r",
-                name = "Наплечье рубаки со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
             {
                 link = "|cff1eff00|Hitem:3480:0:0:0:0:0:0:0:10|h[Грубые бронзовые наплечники]|h|r",
                 name = "Грубые бронзовые наплечники",
@@ -11242,18 +11230,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:9818:1892:0:0:0:0:1192:0:10|h[Укрепленная кольчуга со знаком медведя]|h|r",
-                name = "Укрепленная кольчуга со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "20",
                     retention = "",
                 },
             },
@@ -12064,7 +12040,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2868:929:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
                 name = "Украшенные узором бронзовые наручи",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -12129,18 +12105,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:9813:856:0:0:0:0:1189:0:10|h[Укрепленные рукавицы со знаком медведя]|h|r",
-                name = "Укрепленные рукавицы со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
                     required_level = "20",
                     retention = "",
                 },
