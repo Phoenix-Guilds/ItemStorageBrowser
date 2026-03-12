@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773334072
+ItemStorageDB_LastUpdate = 1773334135
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9593,7 +9593,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-11 21:50:18",
+        updated_at = "2026-03-12 18:48:25",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -9793,7 +9793,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7288:0:0:0:0:0:0:0:10|h[Выкройка: штаны из грубой кожи]|h|r",
                 name = "Выкройка: штаны из грубой кожи",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -10127,6 +10127,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:3610:0:0:0:0:0:0:0:10|h[Чертеж: украшенные медные рукавицы]|h|r",
+                name = "Чертеж: украшенные медные рукавицы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:3609:0:0:0:0:0:0:0:10|h[Чертеж: медный плетеный нагрудник]|h|r",
                 name = "Чертеж: медный плетеный нагрудник",
                 count = 1,
@@ -10379,15 +10391,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:10601:0:0:0:0:0:0:0:10|h[Схема: яркоглазые очки]|h|r",
-                name = "Схема: яркоглазые очки",
+                link = "|cff1eff00|Hitem:7992:0:0:0:0:0:0:0:10|h[Чертеж: синий блистающий топор]|h|r",
+                name = "Чертеж: синий блистающий топор",
                 count = 1,
                 details = {
                     quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "",
-                    retention = "",
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "39",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -10487,14 +10499,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3610:0:0:0:0:0:0:0:10|h[Чертеж: украшенные медные рукавицы]|h|r",
-                name = "Чертеж: украшенные медные рукавицы",
+                link = "|cff1eff00|Hitem:10601:0:0:0:0:0:0:0:10|h[Схема: яркоглазые очки]|h|r",
+                name = "Схема: яркоглазые очки",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "10",
+                    subtype = "Ткань",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -10604,18 +10616,6 @@ ItemStorageDB = {
                     subtype = "",
                     required_level = "",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7992:0:0:0:0:0:0:0:10|h[Чертеж: синий блистающий топор]|h|r",
-                name = "Чертеж: синий блистающий топор",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "39",
-                    retention = "Одноручное",
                 },
             },
         },
