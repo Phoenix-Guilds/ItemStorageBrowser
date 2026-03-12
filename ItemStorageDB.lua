@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773342077
+ItemStorageDB_LastUpdate = 1773342110
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9626,7 +9626,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-12 18:58:10",
+        updated_at = "2026-03-12 21:01:48",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -9664,6 +9664,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "29",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
+                name = "Схема: снайперский прицел",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "40",
                     retention = "",
                 },
             },
@@ -9896,18 +9908,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4353:0:0:0:0:0:0:0:10|h[Выкройка: паучий пояс]|h|r",
-                name = "Выкройка: паучий пояс",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "31",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
                 name = "Рецепт: эликсир увеличения",
                 count = 2,
@@ -10028,18 +10028,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11164:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель зверей II]|h|r",
-                name = "Формула чар для оружия - истребитель зверей II",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
                 name = "Рецепт: эликсир силы огра",
                 count = 2,
@@ -10048,6 +10036,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11164:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель зверей II]|h|r",
+                name = "Формула чар для оружия - истребитель зверей II",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -10184,6 +10184,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:2883:0:0:0:0:0:0:0:10|h[Чертеж: смертоносный бронзовый короткий кинжал]|h|r",
+                name = "Чертеж: смертоносный бронзовый короткий кинжал",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "20",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:3610:0:0:0:0:0:0:0:10|h[Чертеж: украшенные медные рукавицы]|h|r",
                 name = "Чертеж: украшенные медные рукавицы",
                 count = 1,
@@ -10312,6 +10324,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "29",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4353:0:0:0:0:0:0:0:10|h[Выкройка: паучий пояс]|h|r",
+                name = "Выкройка: паучий пояс",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "31",
                     retention = "",
                 },
             },
@@ -10448,6 +10472,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:7989:0:0:0:0:0:0:0:10|h[Чертеж: мифриловые шпоры]|h|r",
+                name = "Чертеж: мифриловые шпоры",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:7992:0:0:0:0:0:0:0:10|h[Чертеж: синий блистающий топор]|h|r",
                 name = "Чертеж: синий блистающий топор",
                 count = 1,
@@ -10541,18 +10577,6 @@ ItemStorageDB = {
                     subtype = "Кольчуга",
                     required_level = "24",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2883:0:0:0:0:0:0:0:10|h[Чертеж: смертоносный бронзовый короткий кинжал]|h|r",
-                name = "Чертеж: смертоносный бронзовый короткий кинжал",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "20",
-                    retention = "Одноручное",
                 },
             },
             {
@@ -10660,18 +10684,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "46",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7989:0:0:0:0:0:0:0:10|h[Чертеж: мифриловые шпоры]|h|r",
-                name = "Чертеж: мифриловые шпоры",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
