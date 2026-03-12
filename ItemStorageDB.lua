@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773334135
+ItemStorageDB_LastUpdate = 1773334167
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2936,7 +2936,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-03-11 19:15:01",
+        updated_at = "2026-03-12 18:49:14",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3251,6 +3251,18 @@ ItemStorageDB = {
                     subtype = "Щит",
                     required_level = "65",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37811:0:0:0:0:0:0:0:10|h[Увещеватель капитана Карвера]|h|r",
+                name = "Увещеватель капитана Карвера",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "73",
+                    retention = "Двуручное",
                 },
             },
         },
