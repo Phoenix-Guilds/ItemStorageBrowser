@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773343320
+ItemStorageDB_LastUpdate = 1773343593
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3269,11 +3269,155 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-12 21:00:57",
+        updated_at = "2026-03-12 21:26:17",
         money = 13330,
         empty = 0,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff1eff00|Hitem:25226:0:0:0:0:0:-40:37:10|h[Коса с меткой преступника]|h|r",
+                name = "Коса с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Древковое",
+                    required_level = "57",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25240:0:0:0:0:0:-45:12:10|h[Азеротский длинный лук с меткой победителя]|h|r",
+                name = "Азеротский длинный лук с меткой победителя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Лук",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-40:12:10|h[Арбалет башни с меткой преступника]|h|r",
+                name = "Арбалет башни с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24705:0:0:0:0:0:-40:38:10|h[Хаал\'ешская шляпа с меткой преступника]|h|r",
+                name = "Хаал\'ешская шляпа с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24711:0:0:0:0:0:-17:40:10|h[Нагрудник Отмщения со знаком силы]|h|r",
+                name = "Нагрудник Отмщения со знаком силы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24695:0:0:0:0:0:-40:37:10|h[Нагрудник Костеглодов с меткой преступника]|h|r",
+                name = "Нагрудник Костеглодов с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24701:0:0:0:0:0:-40:29:10|h[Хаал\'ешский шнурованный ремень с меткой преступника]|h|r",
+                name = "Хаал\'ешский шнурованный ремень с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24693:0:0:0:0:0:-7:27:10|h[Кожаный ремень Костеглодов со знаком медведя]|h|r",
+                name = "Кожаный ремень Костеглодов со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24722:0:0:0:0:0:-40:41:10|h[Брюки Отребья с меткой преступника]|h|r",
+                name = "Брюки Отребья с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24710:0:0:0:0:0:-40:30:10|h[Сапоги отмщения с меткой преступника]|h|r",
+                name = "Сапоги отмщения с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24694:0:0:0:0:0:-40:27:10|h[Опорки Костеглодов с меткой преступника]|h|r",
+                name = "Опорки Костеглодов с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24708:0:0:0:0:0:-40:21:10|h[Хаал\'ешские наручники с меткой преступника]|h|r",
+                name = "Хаал\'ешские наручники с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
         },
     },
     {
