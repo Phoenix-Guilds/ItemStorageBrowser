@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773422429
+ItemStorageDB_LastUpdate = 1773422730
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12878,7 +12878,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-03-12 21:15:45",
+        updated_at = "2026-03-13 19:25:24",
         money = 59245,
         empty = 15,
         location = "Оргриммар",
@@ -12944,9 +12944,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:30744:0:0:0:0:0:0:0:10|h[Дренейская кожаная сума]|h|r",
-                name = "Дренейская кожаная сума",
-                count = 97,
+                link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
+                name = "Сумка из ткани Пустоты",
+                count = 30,
                 details = {
                     quality = 2,
                     type = "",
@@ -12956,9 +12956,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
-                name = "Тяжелый ящик с инструментами",
-                count = 1,
+                link = "|cff1eff00|Hitem:30744:0:0:0:0:0:0:0:10|h[Дренейская кожаная сума]|h|r",
+                name = "Дренейская кожаная сума",
+                count = 90,
                 details = {
                     quality = 2,
                     type = "",
@@ -12980,8 +12980,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:30747:0:0:0:0:0:0:0:10|h[Мешочек для самоцветов]|h|r",
-                name = "Мешочек для самоцветов",
+                link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
+                name = "Тяжелый ящик с инструментами",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12992,9 +12992,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
-                name = "Сумка из ткани Пустоты",
-                count = 34,
+                link = "|cff1eff00|Hitem:30747:0:0:0:0:0:0:0:10|h[Мешочек для самоцветов]|h|r",
+                name = "Мешочек для самоцветов",
+                count = 1,
                 details = {
                     quality = 2,
                     type = "",
