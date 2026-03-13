@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773423095
+ItemStorageDB_LastUpdate = 1773423160
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5558,7 +5558,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-12 22:05:30",
+        updated_at = "2026-03-13 19:31:44",
         money = 330484,
         empty = 0,
         location = "Оргриммар",
@@ -5854,7 +5854,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21887:0:0:0:0:0:0:0:10|h[Узловатая кожа]|h|r",
                 name = "Узловатая кожа",
-                count = 50,
+                count = 60,
                 details = {
                     quality = 1,
                     type = "",
@@ -6008,18 +6008,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:15415:0:0:0:0:0:0:0:10|h[Чешуя синего дракона]|h|r",
-                name = "Чешуя синего дракона",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
                 count = 289,
@@ -6119,6 +6107,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
                 name = "Чешуя зеленого дракончика",
                 count = 7,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:15415:0:0:0:0:0:0:0:10|h[Чешуя синего дракона]|h|r",
+                name = "Чешуя синего дракона",
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -9770,7 +9770,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-12 21:01:48",
+        updated_at = "2026-03-13 19:32:24",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -9944,6 +9944,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:5972:0:0:0:0:0:0:0:10|h[Выкройка: тонкие кожаные штаны]|h|r",
+                name = "Выкройка: тонкие кожаные штаны",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4293:0:0:0:0:0:0:0:10|h[Выкройка: кожаный жилет жителя холмов]|h|r",
                 name = "Выкройка: кожаный жилет жителя холмов",
                 count = 2,
@@ -10040,21 +10052,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7085:0:0:0:0:0:0:0:10|h[Выкройка: лазурные наплечники]|h|r",
-                name = "Выкройка: лазурные наплечники",
-                count = 1,
+                link = "|cff1eff00|Hitem:3832:0:0:0:0:0:0:0:10|h[Рецепт: эликсир обнаружения простой невидимости]|h|r",
+                name = "Рецепт: эликсир обнаружения простой невидимости",
+                count = 2,
                 details = {
                     quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "33",
+                    type = "",
+                    subtype = "",
+                    required_level = "29",
                     retention = "",
                 },
             },
             {
                 link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
                 name = "Рецепт: эликсир увеличения",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "",
@@ -10078,7 +10090,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2553:0:0:0:0:0:0:0:10|h[Рецепт: слабый эликсир ловкости]|h|r",
                 name = "Рецепт: слабый эликсир ловкости",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
@@ -10136,6 +10148,54 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:13310:0:0:0:0:0:0:0:10|h[Схема: точный прицел]|h|r",
+                name = "Схема: точный прицел",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12239:0:0:0:0:0:0:0:10|h[Рецепт: мясо в соусе \"Дыхание дракона\"]|h|r",
+                name = "Рецепт: мясо в соусе \"Дыхание дракона\"",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3830:0:0:0:0:0:0:0:10|h[Рецепт: эликсир стойкости]|h|r",
+                name = "Рецепт: эликсир стойкости",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
+                name = "Рецепт: эликсир силы огра",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:16214:0:0:0:0:0:0:0:10|h[Формула: зачаровывание браслетов - интеллект, III ступень]|h|r",
                 name = "Формула: зачаровывание браслетов - интеллект, III ступень",
                 count = 1,
@@ -10168,18 +10228,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
-                name = "Рецепт: эликсир силы огра",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
                     retention = "",
                 },
             },
@@ -10292,38 +10340,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13310:0:0:0:0:0:0:0:10|h[Схема: точный прицел]|h|r",
-                name = "Схема: точный прицел",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12239:0:0:0:0:0:0:0:10|h[Рецепт: мясо в соусе \"Дыхание дракона\"]|h|r",
-                name = "Рецепт: мясо в соусе \"Дыхание дракона\"",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "35",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3830:0:0:0:0:0:0:0:10|h[Рецепт: эликсир стойкости]|h|r",
-                name = "Рецепт: эликсир стойкости",
+                link = "|cff1eff00|Hitem:3611:0:0:0:0:0:0:0:10|h[Чертеж: зеленые железные сапоги]|h|r",
+                name = "Чертеж: зеленые железные сапоги",
                 count = 2,
                 details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "24",
                     retention = "",
                 },
             },
@@ -10460,14 +10484,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3832:0:0:0:0:0:0:0:10|h[Рецепт: эликсир обнаружения простой невидимости]|h|r",
-                name = "Рецепт: эликсир обнаружения простой невидимости",
-                count = 2,
+                link = "|cff1eff00|Hitem:7085:0:0:0:0:0:0:0:10|h[Выкройка: лазурные наплечники]|h|r",
+                name = "Выкройка: лазурные наплечники",
+                count = 1,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "29",
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "33",
                     retention = "",
                 },
             },
@@ -10604,18 +10628,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4417:0:0:0:0:0:0:0:10|h[Схема: большой сефориевый заряд]|h|r",
-                name = "Схема: большой сефориевый заряд",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:7989:0:0:0:0:0:0:0:10|h[Чертеж: мифриловые шпоры]|h|r",
                 name = "Чертеж: мифриловые шпоры",
                 count = 3,
@@ -10712,14 +10724,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3611:0:0:0:0:0:0:0:10|h[Чертеж: зеленые железные сапоги]|h|r",
-                name = "Чертеж: зеленые железные сапоги",
+                link = "|cff1eff00|Hitem:4417:0:0:0:0:0:0:0:10|h[Схема: большой сефориевый заряд]|h|r",
+                name = "Схема: большой сефориевый заряд",
                 count = 2,
                 details = {
                     quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "24",
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -10798,7 +10810,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4408:0:0:0:0:0:0:0:10|h[Схема: коробка с механической белкой]|h|r",
                 name = "Схема: коробка с механической белкой",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "",
