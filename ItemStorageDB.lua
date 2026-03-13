@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773423160
+ItemStorageDB_LastUpdate = 1773423254
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6581,7 +6581,7 @@ ItemStorageDB = {
     },
     {
         name = "Крошшерный",
-        updated_at = "2026-03-12 18:54:07",
+        updated_at = "2026-03-13 19:34:06",
         money = 3895,
         empty = 0,
         location = "Оргриммар",
@@ -6673,7 +6673,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16653:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 9]|h|r",
                 name = "Руководство по использованию крошшера, стр. 9",
-                count = 29,
+                count = 30,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:16651:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 7]|h|r",
+                name = "Руководство по использованию крошшера, стр. 7",
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
@@ -6707,21 +6719,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:16651:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 7]|h|r",
-                name = "Руководство по использованию крошшера, стр. 7",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:16650:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 6]|h|r",
                 name = "Руководство по использованию крошшера, стр. 6",
-                count = 11,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -9176,7 +9176,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-12 19:05:11",
+        updated_at = "2026-03-13 19:33:10",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
