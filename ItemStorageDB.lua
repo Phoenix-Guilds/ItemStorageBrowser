@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773423034
+ItemStorageDB_LastUpdate = 1773423095
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13184,7 +13184,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-12 22:05:02",
+        updated_at = "2026-03-13 19:31:10",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13466,9 +13466,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
-                name = "Рулон шерсти",
-                count = 250,
+                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
+                name = "Шерсть",
+                count = 903,
                 details = {
                     quality = 1,
                     type = "",
@@ -13478,9 +13478,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
-                name = "Шерсть",
-                count = 900,
+                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
+                name = "Рулон шерсти",
+                count = 250,
                 details = {
                     quality = 1,
                     type = "",
