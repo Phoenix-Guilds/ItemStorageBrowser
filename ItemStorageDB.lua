@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773423649
+ItemStorageDB_LastUpdate = 1773423860
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13208,7 +13208,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-13 19:31:10",
+        updated_at = "2026-03-13 19:43:56",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13300,7 +13300,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 129,
+                count = 179,
                 details = {
                     quality = 1,
                     type = "",
@@ -13336,7 +13336,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                 name = "Тенешелк",
-                count = 67,
+                count = 70,
                 details = {
                     quality = 1,
                     type = "",
@@ -13348,7 +13348,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                 name = "Плотная паутина",
-                count = 69,
+                count = 72,
                 details = {
                     quality = 1,
                     type = "",
@@ -13478,9 +13478,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
-                name = "Рулон льняной ткани",
-                count = 218,
+                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
+                name = "Шерсть",
+                count = 903,
                 details = {
                     quality = 1,
                     type = "",
@@ -13490,9 +13490,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
-                name = "Шерсть",
-                count = 903,
+                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
+                name = "Рулон льняной ткани",
+                count = 218,
                 details = {
                     quality = 1,
                     type = "",
