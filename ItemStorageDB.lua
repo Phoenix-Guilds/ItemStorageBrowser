@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773513454
+ItemStorageDB_LastUpdate = 1773513645
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7892,7 +7892,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-14 17:10:28",
+        updated_at = "2026-03-14 20:37:47",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -8056,7 +8056,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
                 name = "Украшенные узором бронзовые наручи",
-                count = 3,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
