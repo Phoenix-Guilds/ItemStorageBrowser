@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773513851
+ItemStorageDB_LastUpdate = 1773514003
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6356,7 +6356,7 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        updated_at = "2026-03-12 22:07:03",
+        updated_at = "2026-03-14 20:46:41",
         money = 9413,
         empty = 0,
         location = "Оргриммар",
@@ -6449,18 +6449,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:43126:0:0:0:0:0:0:0:10|h[Чернила моря]|h|r",
                 name = "Чернила моря",
                 count = 105,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:9210:0:0:0:0:0:0:0:10|h[Призрачная краска]|h|r",
-                name = "Призрачная краска",
-                count = 4,
                 details = {
                     quality = 1,
                     type = "",
