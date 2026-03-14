@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773478041
+ItemStorageDB_LastUpdate = 1773494894
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7892,7 +7892,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-13 19:45:56",
+        updated_at = "2026-03-14 15:26:57",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -7906,18 +7906,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
-                name = "Гномский армейский нож",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
@@ -8128,7 +8116,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 11,
+                count = 10,
                 details = {
                     quality = 2,
                     type = "2",
