@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773587270
+ItemStorageDB_LastUpdate = 1773587394
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7067,7 +7067,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-15 16:06:02",
+        updated_at = "2026-03-15 17:08:23",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7265,6 +7265,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
+                name = "Средний флакон с лечебным зельем",
+                count = 8,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "21",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
                 name = "Маленький флакон с зельем маны",
                 count = 118,
@@ -7340,18 +7352,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:40109:0:0:0:0:0:0:0:10|h[Мощный эликсир крови волшебника]|h|r",
                 name = "Мощный эликсир крови волшебника",
                 count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:40073:0:0:0:0:0:0:0:10|h[Мощный эликсир силы]|h|r",
-                name = "Мощный эликсир силы",
-                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -7465,6 +7465,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:40073:0:0:0:0:0:0:0:10|h[Мощный эликсир силы]|h|r",
+                name = "Мощный эликсир силы",
+                count = 50,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -7601,14 +7613,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:28104:0:0:0:0:0:0:0:10|h[Эликсир власти]|h|r",
-                name = "Эликсир власти",
-                count = 18,
+                link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
+                name = "Эликсир великанов",
+                count = 34,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "50",
+                    required_level = "38",
                     retention = "",
                 },
             },
@@ -7745,6 +7757,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:28104:0:0:0:0:0:0:0:10|h[Эликсир власти]|h|r",
+                name = "Эликсир власти",
+                count = 18,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "50",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
                 name = "Большой эликсир силы",
                 count = 17,
@@ -7868,18 +7892,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
                 name = "Сильный эликсир ловкости",
                 count = 11,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "38",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
-                name = "Эликсир великанов",
-                count = 34,
                 details = {
                     quality = 1,
                     type = "",
@@ -14294,7 +14306,7 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        updated_at = "2026-03-14 21:10:51",
+        updated_at = "2026-03-15 17:08:56",
         money = 14451,
         empty = 0,
         location = "Оргриммар",
@@ -14326,7 +14338,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
                 name = "Острый коготь",
-                count = 66,
+                count = 67,
                 details = {
                     quality = 1,
                     type = "",
