@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773588719
+ItemStorageDB_LastUpdate = 1773588961
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3257,7 +3257,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-12 21:26:17",
+        updated_at = "2026-03-15 17:35:59",
         money = 13330,
         empty = 0,
         location = "Оргриммар",
@@ -3307,6 +3307,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25058:0:0:0:0:0:-36:21:10|h[Колье Ангелисты с меткой волшебника]|h|r",
+                name = "Колье Ангелисты с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "57",
                     retention = "",
                 },
             },
@@ -3403,6 +3415,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14815:0:0:0:0:0:0:0:10|h[Рукавицы нападения]|h|r",
+                name = "Рукавицы нападения",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "57",
                     retention = "",
                 },
             },
