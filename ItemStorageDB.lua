@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773583451
+ItemStorageDB_LastUpdate = 1773583513
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9770,7 +9770,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-13 19:32:24",
+        updated_at = "2026-03-15 16:04:45",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10148,6 +10148,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:5786:0:0:0:0:0:0:0:10|h[Выкройка: пояс из чешуи мурлока]|h|r",
+                name = "Выкройка: пояс из чешуи мурлока",
+                count = 3,
+                details = {
+                    quality = 1,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:13310:0:0:0:0:0:0:0:10|h[Схема: точный прицел]|h|r",
                 name = "Схема: точный прицел",
                 count = 1,
@@ -10222,6 +10234,18 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11208:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель демонов]|h|r",
                 name = "Формула чар для оружия - истребитель демонов",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11204:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух IV]|h|r",
+                name = "Формула чар для наручей - дух IV",
                 count = 1,
                 details = {
                     quality = 2,
@@ -10324,18 +10348,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "49",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:5786:0:0:0:0:0:0:0:10|h[Выкройка: пояс из чешуи мурлока]|h|r",
-                name = "Выкройка: пояс из чешуи мурлока",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "13",
                     retention = "",
                 },
             },
