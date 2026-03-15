@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773607247
+ItemStorageDB_LastUpdate = 1773607708
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1739,7 +1739,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-15 21:03:20",
+        updated_at = "2026-03-15 22:48:06",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1801,18 +1801,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "38",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
-                name = "Ослепительный длинный меч",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "36",
                     retention = "Одноручное",
                 },
             },
