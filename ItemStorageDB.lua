@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773594575
+ItemStorageDB_LastUpdate = 1773594847
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5045,7 +5045,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-03-15 18:49:45",
+        updated_at = "2026-03-15 19:13:53",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -5053,7 +5053,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37147:0:0:0:0:0:0:0:10|h[Двойка из колоды Мечей]|h|r",
                 name = "Двойка из колоды Мечей",
-                count = 18,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -5065,7 +5065,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37145:0:0:0:0:0:0:0:10|h[Туз из колоды Мечей]|h|r",
                 name = "Туз из колоды Мечей",
-                count = 23,
+                count = 20,
                 details = {
                     quality = 1,
                     type = "",
@@ -5077,7 +5077,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37160:0:0:0:0:0:0:0:10|h[Четверка из колоды Мечей]|h|r",
                 name = "Четверка из колоды Мечей",
-                count = 18,
+                count = 13,
                 details = {
                     quality = 1,
                     type = "",
@@ -5387,6 +5387,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
+                name = "Колода Демонов",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "40",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
                 name = "Карта Новолуния: Синий Дракон",
                 count = 1,
@@ -5447,9 +5459,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
+                name = "Колода Мечей",
+                count = 7,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
-                count = 1,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
@@ -5459,21 +5483,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
-                name = "Колода Демонов",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "40",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:44154:0:0:0:0:0:0:0:10|h[Двойка колоды Демонов]|h|r",
                 name = "Двойка колоды Демонов",
-                count = 14,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -5485,7 +5497,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44157:0:0:0:0:0:0:0:10|h[Пятерка из колоды Демонов]|h|r",
                 name = "Пятерка из колоды Демонов",
-                count = 20,
+                count = 22,
                 details = {
                     quality = 1,
                     type = "",
@@ -5497,7 +5509,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44143:0:0:0:0:0:0:0:10|h[Туз из колоды Демонов]|h|r",
                 name = "Туз из колоды Демонов",
-                count = 27,
+                count = 30,
                 details = {
                     quality = 1,
                     type = "",
@@ -5509,7 +5521,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44156:0:0:0:0:0:0:0:10|h[Четверка из колоды Демонов]|h|r",
                 name = "Четверка из колоды Демонов",
-                count = 8,
+                count = 9,
                 details = {
                     quality = 1,
                     type = "",
@@ -5521,7 +5533,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44147:0:0:0:0:0:0:0:10|h[Пятерка из колоды Магов]|h|r",
                 name = "Пятерка из колоды Магов",
-                count = 12,
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
@@ -5533,7 +5545,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44145:0:0:0:0:0:0:0:10|h[Тройка колоды Магов]|h|r",
                 name = "Тройка колоды Магов",
-                count = 19,
+                count = 17,
                 details = {
                     quality = 1,
                     type = "",
@@ -5545,7 +5557,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44165:0:0:0:0:0:0:0:10|h[Туз из колоды Магов]|h|r",
                 name = "Туз из колоды Магов",
-                count = 9,
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
@@ -5557,7 +5569,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44146:0:0:0:0:0:0:0:10|h[Четверка из колоды Магов]|h|r",
                 name = "Четверка из колоды Магов",
-                count = 18,
+                count = 16,
                 details = {
                     quality = 1,
                     type = "",
