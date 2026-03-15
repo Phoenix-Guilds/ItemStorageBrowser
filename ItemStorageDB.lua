@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773583385
+ItemStorageDB_LastUpdate = 1773583419
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11393,7 +11393,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-14 20:36:01",
+        updated_at = "2026-03-15 16:03:27",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -11963,6 +11963,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6467:856:0:0:0:0:0:0:10|h[Перчатки из искаженной чешуи]|h|r",
+                name = "Перчатки из искаженной чешуи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:15509:904:0:0:0:0:115:0:10|h[Повязки рубаки со знаком силы]|h|r",
                 name = "Повязки рубаки со знаком силы",
                 count = 1,
@@ -12047,14 +12059,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3308:931:0:0:0:0:0:0:10|h[Варварские матерчатые перчатки]|h|r",
-                name = "Варварские матерчатые перчатки",
+                link = "|cff1eff00|Hitem:6571:929:0:0:0:0:97:0:10|h[Кулачный щит лазутчика со знаком силы]|h|r",
+                name = "Кулачный щит лазутчика со знаком силы",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Ткань",
-                    required_level = "10",
+                    subtype = "Щит",
+                    required_level = "17",
                     retention = "",
                 },
             },
@@ -12083,6 +12095,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:9753:929:0:0:0:0:15:0:10|h[Цыганский кулачный щит с печатью выносливости]|h|r",
+                name = "Цыганский кулачный щит с печатью выносливости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "7",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:9753:929:0:0:0:0:1179:0:10|h[Цыганский кулачный щит со знаком медведя]|h|r",
                 name = "Цыганский кулачный щит со знаком медведя",
                 count = 1,
@@ -12095,14 +12119,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:9753:929:0:0:0:0:15:0:10|h[Цыганский кулачный щит с печатью выносливости]|h|r",
-                name = "Цыганский кулачный щит с печатью выносливости",
+                link = "|cff1eff00|Hitem:3308:931:0:0:0:0:0:0:10|h[Варварские матерчатые перчатки]|h|r",
+                name = "Варварские матерчатые перчатки",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Щит",
-                    required_level = "7",
+                    subtype = "Ткань",
+                    required_level = "10",
                     retention = "",
                 },
             },
@@ -12242,18 +12266,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:6571:929:0:0:0:0:1653:0:10|h[Кулачный щит лазутчика с печатью отражения]|h|r",
                 name = "Кулачный щит лазутчика с печатью отражения",
                 count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6571:929:0:0:0:0:97:0:10|h[Кулачный щит лазутчика со знаком силы]|h|r",
-                name = "Кулачный щит лазутчика со знаком силы",
-                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -12536,6 +12548,18 @@ ItemStorageDB = {
                     subtype = "Топор",
                     required_level = "5",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:1355:0:0:0:0:0:0:0:10|h[Замшевая накидка]|h|r",
+                name = "Замшевая накидка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "10",
+                    retention = "",
                 },
             },
             {
