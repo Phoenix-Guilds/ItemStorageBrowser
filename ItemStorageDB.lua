@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773583200
+ItemStorageDB_LastUpdate = 1773583292
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13292,7 +13292,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-14 17:07:59",
+        updated_at = "2026-03-15 16:01:06",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13444,7 +13444,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 768,
+                count = 848,
                 details = {
                     quality = 1,
                     type = "",
@@ -13540,7 +13540,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 1833,
+                count = 1954,
                 details = {
                     quality = 1,
                     type = "",
@@ -13552,7 +13552,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 903,
+                count = 946,
                 details = {
                     quality = 1,
                     type = "",
@@ -13564,7 +13564,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                 name = "Рулон льняной ткани",
-                count = 232,
+                count = 233,
                 details = {
                     quality = 1,
                     type = "",
