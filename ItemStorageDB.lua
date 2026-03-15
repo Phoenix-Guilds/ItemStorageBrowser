@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773584030
+ItemStorageDB_LastUpdate = 1773584062
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16736,7 +16736,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-15 15:27:25",
+        updated_at = "2026-03-15 16:14:17",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -16982,7 +16982,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:18948:927:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
+                link = "|cff0070dd|Hitem:18948:929:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
                 name = "Варварские наручи",
                 count = 1,
                 details = {
@@ -16994,7 +16994,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:18948:929:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
+                link = "|cff0070dd|Hitem:18948:927:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
                 name = "Варварские наручи",
                 count = 1,
                 details = {
@@ -17042,6 +17042,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
+                name = "Набедренники Снопевца",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "21",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
                 count = 2,
@@ -17062,6 +17074,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
+                name = "Искрящееся оплечье",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "24",
                     retention = "",
                 },
             },
@@ -17570,18 +17594,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
-                name = "Набедренники Снопевца",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "21",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
                 name = "Темнотканые брюки",
                 count = 2,
@@ -17758,18 +17770,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "33",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
-                name = "Искрящееся оплечье",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "24",
                     retention = "",
                 },
             },
