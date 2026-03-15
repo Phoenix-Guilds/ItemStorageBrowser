@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773583513
+ItemStorageDB_LastUpdate = 1773583545
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8141,7 +8141,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-03-12 21:02:31",
+        updated_at = "2026-03-15 16:05:20",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -8329,7 +8329,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                 name = "Гигантское яйцо",
-                count = 86,
+                count = 76,
                 details = {
                     quality = 1,
                     type = "",
@@ -8471,9 +8471,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:5051:0:0:0:0:0:0:0:10|h[Пещерная крыса]|h|r",
+                name = "Пещерная крыса",
+                count = 13,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:5469:0:0:0:0:0:0:0:10|h[Мясо долгонога]|h|r",
                 name = "Мясо долгонога",
-                count = 208,
+                count = 210,
                 details = {
                     quality = 1,
                     type = "",
@@ -8558,18 +8570,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:27668:0:0:0:0:0:0:0:10|h[Рысье мясо]|h|r",
                 name = "Рысье мясо",
                 count = 35,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:5051:0:0:0:0:0:0:0:10|h[Пещерная крыса]|h|r",
-                name = "Пещерная крыса",
-                count = 13,
                 details = {
                     quality = 1,
                     type = "",
@@ -8713,7 +8713,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
                 name = "Хвост рокочущей ящерицы",
-                count = 50,
+                count = 51,
                 details = {
                     quality = 1,
                     type = "",
