@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773589178
+ItemStorageDB_LastUpdate = 1773589240
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10190,7 +10190,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-15 17:22:39",
+        updated_at = "2026-03-15 17:40:22",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10472,6 +10472,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:13493:0:0:0:0:0:0:0:10|h[Рецепт: сильный чародейский эликсир]|h|r",
+                name = "Рецепт: сильный чародейский эликсир",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "47",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:13491:0:0:0:0:0:0:0:10|h[Рецепт: эликсир мангуста]|h|r",
                 name = "Рецепт: эликсир мангуста",
                 count = 1,
@@ -10568,6 +10580,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:11081:0:0:0:0:0:0:0:10|h[Формула чар для щита - броня]|h|r",
+                name = "Формула чар для щита - броня",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:6348:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель зверей I]|h|r",
                 name = "Формула чар для оружия - истребитель зверей I",
                 count = 2,
@@ -10618,7 +10642,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5786:0:0:0:0:0:0:0:10|h[Выкройка: пояс из чешуи мурлока]|h|r",
                 name = "Выкройка: пояс из чешуи мурлока",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "4",
@@ -10820,18 +10844,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11081:0:0:0:0:0:0:0:10|h[Формула чар для щита - броня]|h|r",
-                name = "Формула чар для щита - броня",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:3866:0:0:0:0:0:0:0:10|h[Чертеж: нефритовый змеиный клинок]|h|r",
                 name = "Чертеж: нефритовый змеиный клинок",
                 count = 3,
@@ -10904,6 +10916,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:2881:0:0:0:0:0:0:0:10|h[Чертеж: руническая медная кираса]|h|r",
+                name = "Чертеж: руническая медная кираса",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:3610:0:0:0:0:0:0:0:10|h[Чертеж: украшенные медные рукавицы]|h|r",
                 name = "Чертеж: украшенные медные рукавицы",
                 count = 1,
@@ -10954,18 +10978,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13492:0:0:0:0:0:0:0:10|h[Рецепт: зелье очищения]|h|r",
                 name = "Рецепт: зелье очищения",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "47",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:13493:0:0:0:0:0:0:0:10|h[Рецепт: сильный чародейский эликсир]|h|r",
-                name = "Рецепт: сильный чародейский эликсир",
                 count = 1,
                 details = {
                     quality = 2,
