@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773597660
+ItemStorageDB_LastUpdate = 1773598203
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17384,7 +17384,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-15 17:19:07",
+        updated_at = "2026-03-15 20:09:56",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17618,7 +17618,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:18948:929:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
+                link = "|cff0070dd|Hitem:18948:927:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
                 name = "Варварские наручи",
                 count = 1,
                 details = {
@@ -17630,7 +17630,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:18948:927:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
+                link = "|cff0070dd|Hitem:18948:929:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
                 name = "Варварские наручи",
                 count = 1,
                 details = {
@@ -17722,6 +17722,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "24",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:8345:0:0:0:0:0:0:0:10|h[Волкоголовый шлем]|h|r",
+                name = "Волкоголовый шлем",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "40",
                     retention = "",
                 },
             },
