@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773609063
+ItemStorageDB_LastUpdate = 1773609365
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11993,7 +11993,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-15 17:39:35",
+        updated_at = "2026-03-15 23:16:01",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -13283,6 +13283,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:2079:0:0:0:0:0:1549:0:10|h[Боевой молот сержанта с печатью могущества]|h|r",
+                name = "Боевой молот сержанта с печатью могущества",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "12",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3310:0:0:0:0:0:0:0:10|h[Варварский матерчатый жилет]|h|r",
+                name = "Варварский матерчатый жилет",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:1355:0:0:0:0:0:0:0:10|h[Замшевая накидка]|h|r",
+                name = "Замшевая накидка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:9789:0:0:0:0:0:1553:0:10|h[Разбойничьи набедренники с печатью могущества]|h|r",
                 name = "Разбойничьи набедренники с печатью могущества",
                 count = 1,
@@ -13435,42 +13471,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2079:0:0:0:0:0:1549:0:10|h[Боевой молот сержанта с печатью могущества]|h|r",
-                name = "Боевой молот сержанта с печатью могущества",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "12",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3310:0:0:0:0:0:0:0:10|h[Варварский матерчатый жилет]|h|r",
-                name = "Варварский матерчатый жилет",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:1355:0:0:0:0:0:0:0:10|h[Замшевая накидка]|h|r",
-                name = "Замшевая накидка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "10",
                     retention = "",
                 },
             },
