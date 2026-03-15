@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773597356
+ItemStorageDB_LastUpdate = 1773597598
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4115,7 +4115,7 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = "2026-03-15 17:21:28",
+        updated_at = "2026-03-15 19:59:47",
         money = 16160,
         empty = 0,
         location = "Оргриммар",
@@ -4496,6 +4496,30 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2880:0:0:0:0:0:0:0:10|h[Слабый плавень]|h|r",
                 name = "Слабый плавень",
                 count = 56,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
+                name = "Кирка-молот",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:40893:0:0:0:0:0:0:0:10|h[Заостренная кирка]|h|r",
+                name = "Заостренная кирка",
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
