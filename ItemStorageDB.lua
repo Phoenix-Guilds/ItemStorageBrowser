@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773587973
+ItemStorageDB_LastUpdate = 1773588037
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-15 17:02:21",
+        updated_at = "2026-03-15 17:19:46",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2569,6 +2569,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "28",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13044:0:0:0:0:0:0:0:10|h[Демонобоец]|h|r",
+                name = "Демонобоец",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "52",
                     retention = "Двуручное",
                 },
             },
@@ -4436,7 +4448,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-15 16:12:14",
+        updated_at = "2026-03-15 17:20:35",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -4600,7 +4612,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
-                count = 114,
+                count = 115,
                 details = {
                     quality = 2,
                     type = "",
@@ -4612,7 +4624,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 218,
+                count = 219,
                 details = {
                     quality = 2,
                     type = "",
@@ -4768,7 +4780,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                 name = "Звездный рубин",
-                count = 34,
+                count = 35,
                 details = {
                     quality = 2,
                     type = "",
@@ -4792,7 +4804,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3864:0:0:0:0:0:0:0:10|h[Цитрин]|h|r",
                 name = "Цитрин",
-                count = 38,
+                count = 40,
                 details = {
                     quality = 2,
                     type = "",
