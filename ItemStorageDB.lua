@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1773593005
+ItemStorageDB_LastUpdate = 1773593127
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-14 23:14:11",
+        updated_at = "2026-03-15 18:44:59",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -1184,18 +1184,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
-                name = "Поварская книга",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
                 name = "Символ пытки разума",
                 count = 4,
@@ -1364,6 +1352,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
+                name = "Поварская книга",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:43367:0:0:0:0:0:0:0:10|h[Символ возложения рук]|h|r",
                 name = "Символ возложения рук",
                 count = 6,
@@ -1486,7 +1486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 11,
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
