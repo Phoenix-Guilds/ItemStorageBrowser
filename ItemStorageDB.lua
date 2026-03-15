@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773585565
+ItemStorageDB_LastUpdate = 1773586047
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13328,7 +13328,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-15 16:01:06",
+        updated_at = "2026-03-15 16:47:09",
         money = 64799,
         empty = 0,
         location = "Оргриммар",
@@ -13480,7 +13480,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 848,
+                count = 961,
                 details = {
                     quality = 1,
                     type = "",
@@ -13574,9 +13574,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
-                name = "Льняной материал",
-                count = 1954,
+                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
+                name = "Шерсть",
+                count = 1109,
                 details = {
                     quality = 1,
                     type = "",
@@ -13586,9 +13586,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
-                name = "Шерсть",
-                count = 946,
+                link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
+                name = "Льняной материал",
+                count = 922,
                 details = {
                     quality = 1,
                     type = "",
@@ -13600,7 +13600,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                 name = "Рулон льняной ткани",
-                count = 233,
+                count = 883,
                 details = {
                     quality = 1,
                     type = "",
