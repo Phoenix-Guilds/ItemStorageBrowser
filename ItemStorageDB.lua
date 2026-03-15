@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773606914
+ItemStorageDB_LastUpdate = 1773607216
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9785,7 +9785,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-15 22:05:36",
+        updated_at = "2026-03-15 22:39:51",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -9997,7 +9997,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -10021,7 +10021,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
-                count = 395,
+                count = 195,
                 details = {
                     quality = 1,
                     type = "",
@@ -10213,7 +10213,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:10939:0:0:0:0:0:0:0:10|h[Большая магическая субстанция]|h|r",
                 name = "Большая магическая субстанция",
-                count = 169,
+                count = 149,
                 details = {
                     quality = 2,
                     type = "",
