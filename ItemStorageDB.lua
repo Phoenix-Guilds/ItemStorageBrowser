@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773589335
+ItemStorageDB_LastUpdate = 1773589366
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3434,7 +3434,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-15 17:27:02",
+        updated_at = "2026-03-15 17:42:40",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -3776,6 +3776,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
+                name = "Маленькая блестящая жемчужина",
+                count = 72,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
                 count = 8,
@@ -3829,18 +3841,6 @@ ItemStorageDB = {
                 count = 2,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
-                name = "Маленькая блестящая жемчужина",
-                count = 70,
-                details = {
-                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
