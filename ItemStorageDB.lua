@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773589114
+ItemStorageDB_LastUpdate = 1773589145
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18665,7 +18665,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-15 17:13:16",
+        updated_at = "2026-03-15 17:39:02",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18815,6 +18815,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:30422:0:0:0:0:0:0:0:10|h[Бриллиантовое кольцо концентрации]|h|r",
+                name = "Бриллиантовое кольцо концентрации",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "48",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:11987:0:0:0:0:0:772:0:10|h[Иридиевый обруч со знаком совы]|h|r",
                 name = "Иридиевый обруч со знаком совы",
                 count = 1,
@@ -18823,6 +18835,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "38",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20960:0:0:0:0:0:0:0:10|h[Чеканное кольцо из истинного серебра]|h|r",
+                name = "Чеканное кольцо из истинного серебра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "32",
                     retention = "",
                 },
             },
@@ -19015,18 +19039,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:30422:0:0:0:0:0:0:0:10|h[Бриллиантовое кольцо концентрации]|h|r",
-                name = "Бриллиантовое кольцо концентрации",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "48",
                     retention = "",
                 },
             },
@@ -19237,7 +19249,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:29157:0:0:0:0:0:0:0:10|h[Золотое кольцо власти]|h|r",
                 name = "Золотое кольцо власти",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
