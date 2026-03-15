@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773588561
+ItemStorageDB_LastUpdate = 1773588624
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8153,7 +8153,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-03-15 17:05:32",
+        updated_at = "2026-03-15 17:29:56",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -8341,7 +8341,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                 name = "Гигантское яйцо",
-                count = 76,
+                count = 56,
                 details = {
                     quality = 1,
                     type = "",
