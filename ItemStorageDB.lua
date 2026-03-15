@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773601215
+ItemStorageDB_LastUpdate = 1773601277
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18785,7 +18785,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-15 19:55:08",
+        updated_at = "2026-03-15 21:01:17",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -18973,7 +18973,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                 name = "Подвеска Скиби",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
@@ -19021,7 +19021,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
                 name = "Жизнекамень",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 4,
                     type = "4",
@@ -19355,6 +19355,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
+                name = "Малахитовая подвеска",
+                count = 4,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21934:0:0:0:0:0:0:0:10|h[Изысканное ожерелье тигрового глаза]|h|r",
+                name = "Изысканное ожерелье тигрового глаза",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:29158:0:0:0:0:0:0:0:10|h[Кольцо командора из истинного серебра]|h|r",
                 name = "Кольцо командора из истинного серебра",
                 count = 2,
@@ -19369,7 +19393,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:29157:0:0:0:0:0:0:0:10|h[Золотое кольцо власти]|h|r",
                 name = "Золотое кольцо власти",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -19435,30 +19459,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 4,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21934:0:0:0:0:0:0:0:10|h[Изысканное ожерелье тигрового глаза]|h|r",
-                name = "Изысканное ожерелье тигрового глаза",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "15",
                     retention = "",
                 },
             },
