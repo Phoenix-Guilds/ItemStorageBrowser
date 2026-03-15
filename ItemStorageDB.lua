@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773589366
+ItemStorageDB_LastUpdate = 1773589398
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9713,7 +9713,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-15 17:30:37",
+        updated_at = "2026-03-15 17:43:14",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -9925,7 +9925,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
-                count = 3,
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
@@ -9937,7 +9937,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 3,
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
@@ -9950,42 +9950,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
                 count = 395,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
-                name = "Сонная пыль",
-                count = 286,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
-                name = "Пыль провидения",
-                count = 36,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
-                name = "Пыль духа",
-                count = 338,
                 details = {
                     quality = 1,
                     type = "",
@@ -10084,6 +10048,42 @@ ItemStorageDB = {
                 count = 15,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
+                name = "Сонная пыль",
+                count = 286,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
+                name = "Пыль провидения",
+                count = 36,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
+                name = "Пыль духа",
+                count = 338,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
