@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773586895
+ItemStorageDB_LastUpdate = 1773586956
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1703,7 +1703,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-15 16:02:40",
+        updated_at = "2026-03-15 17:02:21",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2534,18 +2534,6 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "44",
                     retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
-                name = "Зеленая башня",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "36",
-                    retention = "",
                 },
             },
             {
