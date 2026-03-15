@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773580173
+ItemStorageDB_LastUpdate = 1773580205
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6971,7 +6971,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-14 21:39:34",
+        updated_at = "2026-03-15 15:09:53",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7615,7 +7615,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3388:0:0:0:0:0:0:0:10|h[Крепкое зелье тролльей крови]|h|r",
                 name = "Крепкое зелье тролльей крови",
-                count = 44,
+                count = 43,
                 details = {
                     quality = 1,
                     type = "",
