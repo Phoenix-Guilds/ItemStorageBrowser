@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773670841
+ItemStorageDB_LastUpdate = 1773670934
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17396,7 +17396,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-16 16:20:27",
+        updated_at = "2026-03-16 16:22:08",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17618,18 +17618,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:16710:0:0:0:0:0:0:0:10|h[Наручи незаметности]|h|r",
-                name = "Наручи незаметности",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "52",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                 name = "Сапоги тиноброда",
                 count = 1,
@@ -17681,6 +17669,18 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:16714:0:0:0:0:0:0:0:10|h[Наручи дикого сердца]|h|r",
                 name = "Наручи дикого сердца",
                 count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "52",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:16710:0:0:0:0:0:0:0:10|h[Наручи незаметности]|h|r",
+                name = "Наручи незаметности",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -17834,14 +17834,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
-                name = "Светящиеся магические браслеты",
+                link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
+                name = "Рукавицы Торбии",
                 count = 2,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Ткань",
-                    required_level = "26",
+                    subtype = "Кольчуга",
+                    required_level = "18",
                     retention = "",
                 },
             },
@@ -17932,7 +17932,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                 name = "Крыло дракончика",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -17998,6 +17998,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Левая рука",
                     required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
+                name = "Светящиеся магические браслеты",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "26",
                     retention = "",
                 },
             },
@@ -18142,18 +18154,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
-                name = "Рукавицы Торбии",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "18",
                     retention = "",
                 },
             },
