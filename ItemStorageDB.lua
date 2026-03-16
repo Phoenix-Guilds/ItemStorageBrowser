@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773676284
+ItemStorageDB_LastUpdate = 1773676316
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14345,7 +14345,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-16 17:45:06",
+        updated_at = "2026-03-16 17:51:53",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -14783,18 +14783,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
-                name = "Дикий сталецвет",
-                count = 90,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
                 name = "Могильный мох",
                 count = 21,
@@ -14821,7 +14809,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 161,
+                count = 111,
                 details = {
                     quality = 1,
                     type = "",
@@ -14966,6 +14954,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
                 count = 74,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
+                name = "Дикий сталецвет",
+                count = 40,
                 details = {
                     quality = 1,
                     type = "",
