@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773681889
+ItemStorageDB_LastUpdate = 1773682311
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1751,7 +1751,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-16 16:23:02",
+        updated_at = "2026-03-16 19:31:45",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2561,18 +2561,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
-                name = "Каменный ворон",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Древковое",
-                    required_level = "47",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13052:0:0:0:0:0:0:0:10|h[Наемник]|h|r",
                 name = "Наемник",
                 count = 2,
@@ -2587,7 +2575,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
                 name = "Отвага Бланчарда",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
