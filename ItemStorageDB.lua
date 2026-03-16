@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773672362
+ItemStorageDB_LastUpdate = 1773672665
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10262,7 +10262,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-15 22:01:19",
+        updated_at = "2026-03-16 16:51:01",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10390,7 +10390,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8389:0:0:0:0:0:0:0:10|h[Выкройка: большие вудуистские штаны]|h|r",
                 name = "Выкройка: большие вудуистские штаны",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -10544,14 +10544,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4296:0:0:0:0:0:0:0:10|h[Выкройка: темные кожаные наплечники]|h|r",
-                name = "Выкройка: темные кожаные наплечники",
-                count = 1,
+                link = "|cffffffff|Hitem:10318:0:0:0:0:0:0:0:10|h[Выкройка: адмиральская шляпа]|h|r",
+                name = "Выкройка: адмиральская шляпа",
+                count = 4,
                 details = {
-                    quality = 2,
+                    quality = 1,
                     type = "4",
-                    subtype = "Кожа",
-                    required_level = "23",
+                    subtype = "Ткань",
+                    required_level = "43",
                     retention = "",
                 },
             },
@@ -10568,6 +10568,54 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6044:0:0:0:0:0:0:0:10|h[Чертеж: железный шип для щита]|h|r",
+                name = "Чертеж: железный шип для щита",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6045:0:0:0:0:0:0:0:10|h[Чертеж: железный противовес]|h|r",
+                name = "Чертеж: железный противовес",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3872:0:0:0:0:0:0:0:10|h[Чертеж: золотые чешуйчатые поножи]|h|r",
+                name = "Чертеж: золотые чешуйчатые поножи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "29",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10604:0:0:0:0:0:0:0:10|h[Схема: мифриловая крупнокалиберная винтовка]|h|r",
+                name = "Схема: мифриловая крупнокалиберная винтовка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "39",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4356:0:0:0:0:0:0:0:10|h[Выкройка: звездный пояс]|h|r",
                 name = "Выкройка: звездный пояс",
                 count = 1,
@@ -10576,6 +10624,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4296:0:0:0:0:0:0:0:10|h[Выкройка: темные кожаные наплечники]|h|r",
+                name = "Выкройка: темные кожаные наплечники",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4300:0:0:0:0:0:0:0:10|h[Выкройка: кожаные наручи стража]|h|r",
+                name = "Выкройка: кожаные наручи стража",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "34",
                     retention = "",
                 },
             },
