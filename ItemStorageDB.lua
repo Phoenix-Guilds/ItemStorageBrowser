@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773764756
+ItemStorageDB_LastUpdate = 1773764937
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17552,7 +17552,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-17 17:13:44",
+        updated_at = "2026-03-17 18:28:46",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17866,6 +17866,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
+                name = "Пояс безмятежности",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "48",
                     retention = "",
                 },
             },
@@ -18946,18 +18958,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "52",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
-                name = "Пояс безмятежности",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "48",
                     retention = "",
                 },
             },
