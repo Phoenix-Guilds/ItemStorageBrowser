@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773732665
+ItemStorageDB_LastUpdate = 1773732696
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6323,7 +6323,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-03-09 09:07:56",
+        updated_at = "2026-03-17 09:31:23",
         money = 12939,
         empty = 0,
         location = "Оргриммар",
@@ -6389,6 +6389,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3665:0:0:0:0:0:0:0:10|h[Невероятно вкусный омлет]|h|r",
+                name = "Невероятно вкусный омлет",
+                count = 47,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
                 count = 21,
@@ -6403,7 +6415,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5477:0:0:0:0:0:0:0:10|h[Похлебка из долгонога]|h|r",
                 name = "Похлебка из долгонога",
-                count = 13,
+                count = 77,
                 details = {
                     quality = 1,
                     type = "",
@@ -6413,14 +6425,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
-                name = "Хрустящий паучий десерт",
-                count = 5,
+                link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
+                name = "Яйцо с травами",
+                count = 36,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "5",
+                    required_level = "",
                     retention = "",
                 },
             },
