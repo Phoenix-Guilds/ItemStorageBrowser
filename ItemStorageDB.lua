@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773732696
+ItemStorageDB_LastUpdate = 1773732788
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7175,7 +7175,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-16 23:37:10",
+        updated_at = "2026-03-17 09:32:53",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7423,7 +7423,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
                 name = "Зелье скорости",
-                count = 44,
+                count = 42,
                 details = {
                     quality = 1,
                     type = "",
@@ -7435,7 +7435,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                 name = "Крохотный флакон с зельем маны",
-                count = 35,
+                count = 33,
                 details = {
                     quality = 1,
                     type = "",
@@ -7447,7 +7447,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:858:0:0:0:0:0:0:0:10|h[Маленький флакон с лечебным зельем]|h|r",
                 name = "Маленький флакон с лечебным зельем",
-                count = 46,
+                count = 41,
                 details = {
                     quality = 1,
                     type = "",
@@ -7459,7 +7459,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
                 name = "Крохотный флакон с лечебным зельем",
-                count = 90,
+                count = 93,
                 details = {
                     quality = 1,
                     type = "",
@@ -7543,7 +7543,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5997:0:0:0:0:0:0:0:10|h[Слабый эликсир защиты]|h|r",
                 name = "Слабый эликсир защиты",
-                count = 14,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -7555,7 +7555,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
                 name = "Эликсир львиной силы",
-                count = 42,
+                count = 32,
                 details = {
                     quality = 1,
                     type = "",
