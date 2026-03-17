@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773759451
+ItemStorageDB_LastUpdate = 1773759514
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10322,7 +10322,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-17 16:41:39",
+        updated_at = "2026-03-17 16:58:02",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10666,7 +10666,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6045:0:0:0:0:0:0:0:10|h[Чертеж: железный противовес]|h|r",
                 name = "Чертеж: железный противовес",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
@@ -11216,6 +11216,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:18656:0:0:0:0:0:0:0:10|h[Схема: мощный сефориевый заряд]|h|r",
+                name = "Схема: мощный сефориевый заряд",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:32381:0:0:0:0:0:0:0:10|h[Схема: кабельная система с плавкими предохранителями]|h|r",
+                name = "Схема: кабельная система с плавкими предохранителями",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:18652:0:0:0:0:0:0:0:10|h[Схема: гирозамораживающий ледяной отражатель]|h|r",
                 name = "Схема: гирозамораживающий ледяной отражатель",
                 count = 1,
@@ -11242,30 +11266,6 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16050:0:0:0:0:0:0:0:10|h[Схема: сверхточный арканитовый преобразователь]|h|r",
                 name = "Схема: сверхточный арканитовый преобразователь",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:18656:0:0:0:0:0:0:0:10|h[Схема: мощный сефориевый заряд]|h|r",
-                name = "Схема: мощный сефориевый заряд",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:32381:0:0:0:0:0:0:0:10|h[Схема: кабельная система с плавкими предохранителями]|h|r",
-                name = "Схема: кабельная система с плавкими предохранителями",
                 count = 1,
                 details = {
                     quality = 1,
