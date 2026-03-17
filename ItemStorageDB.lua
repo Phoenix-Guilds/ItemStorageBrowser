@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773760588
+ItemStorageDB_LastUpdate = 1773760951
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5678,7 +5678,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-17 16:59:10",
+        updated_at = "2026-03-17 17:21:39",
         money = 321084,
         empty = 0,
         location = "Оргриммар",
@@ -6035,18 +6035,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:29539:0:0:0:0:0:0:0:10|h[Чешуя кобры]|h|r",
                 name = "Чешуя кобры",
                 count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12810:0:0:0:0:0:0:0:10|h[Зачарованная кожа]|h|r",
-                name = "Зачарованная кожа",
-                count = 14,
                 details = {
                     quality = 1,
                     type = "",
@@ -14168,7 +14156,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-16 18:38:23",
+        updated_at = "2026-03-17 17:22:19",
         money = 86569,
         empty = 0,
         location = "Оргриммар",
@@ -14213,18 +14201,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:21881:0:0:0:0:0:0:0:10|h[Шелковая паутина Пустоты]|h|r",
                 name = "Шелковая паутина Пустоты",
                 count = 54,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:14342:0:0:0:0:0:0:0:10|h[Луноткань]|h|r",
-                name = "Луноткань",
-                count = 2,
                 details = {
                     quality = 1,
                     type = "",
