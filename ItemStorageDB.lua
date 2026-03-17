@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773759828
+ItemStorageDB_LastUpdate = 1773759890
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17588,7 +17588,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-17 16:56:12",
+        updated_at = "2026-03-17 17:04:25",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17968,7 +17968,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1981:0:0:0:0:0:0:0:10|h[Кольчужный ледяной жакет]|h|r",
                 name = "Кольчужный ледяной жакет",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 4,
                     type = "4",
