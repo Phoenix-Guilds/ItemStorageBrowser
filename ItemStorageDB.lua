@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773733001
+ItemStorageDB_LastUpdate = 1773733063
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12053,7 +12053,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-16 17:06:59",
+        updated_at = "2026-03-17 09:37:36",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -12392,18 +12392,6 @@ ItemStorageDB = {
                     subtype = "Топор",
                     required_level = "13",
                     retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:727:20239:0:0:0:0:6:0:10|h[Зубчатый короткий меч со знаком силы]|h|r",
-                name = "Зубчатый короткий меч со знаком силы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "5",
-                    retention = "Одноручное",
                 },
             },
             {
@@ -12815,18 +12803,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3472:904:0:0:0:0:0:0:10|h[Рунические медные рукавицы]|h|r",
-                name = "Рунические медные рукавицы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "7",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:14179:884:0:0:0:0:94:0:10|h[Накидка смотрителя со знаком интеллекта]|h|r",
                 name = "Накидка смотрителя со знаком интеллекта",
                 count = 1,
@@ -12979,18 +12955,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "11",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3302:929:0:0:0:0:0:0:10|h[Сапоги недвижной воды]|h|r",
-                name = "Сапоги недвижной воды",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "10",
                     retention = "",
                 },
             },
@@ -13199,6 +13163,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:2079:0:0:0:0:0:1549:0:10|h[Боевой молот сержанта с печатью могущества]|h|r",
+                name = "Боевой молот сержанта с печатью могущества",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "12",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3310:0:0:0:0:0:0:0:10|h[Варварский матерчатый жилет]|h|r",
+                name = "Варварский матерчатый жилет",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:1355:0:0:0:0:0:0:0:10|h[Замшевая накидка]|h|r",
+                name = "Замшевая накидка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:15487:1892:0:0:0:0:1184:0:10|h[Потрепанный в бою мундир со знаком медведя]|h|r",
                 name = "Потрепанный в бою мундир со знаком медведя",
                 count = 1,
@@ -13231,18 +13231,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3283:1892:0:0:0:0:0:0:10|h[Боевой плетеный мундир]|h|r",
-                name = "Боевой плетеный мундир",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "8",
                     retention = "",
                 },
             },
@@ -13319,42 +13307,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2079:0:0:0:0:0:1549:0:10|h[Боевой молот сержанта с печатью могущества]|h|r",
-                name = "Боевой молот сержанта с печатью могущества",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "12",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3310:0:0:0:0:0:0:0:10|h[Варварский матерчатый жилет]|h|r",
-                name = "Варварский матерчатый жилет",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:1355:0:0:0:0:0:0:0:10|h[Замшевая накидка]|h|r",
-                name = "Замшевая накидка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9789:0:0:0:0:0:1553:0:10|h[Разбойничьи набедренники с печатью могущества]|h|r",
                 name = "Разбойничьи набедренники с печатью могущества",
                 count = 1,
@@ -13411,18 +13363,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "11",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:9763:0:0:0:0:0:24:0:10|h[Поножи оруженосца со знаком силы]|h|r",
-                name = "Поножи оруженосца со знаком силы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "9",
                     retention = "",
                 },
             },
