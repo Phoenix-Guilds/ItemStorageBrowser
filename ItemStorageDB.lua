@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773759171
+ItemStorageDB_LastUpdate = 1773759294
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5117,7 +5117,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-03-15 19:13:53",
+        updated_at = "2026-03-17 16:54:34",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -5197,7 +5197,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19275:0:0:0:0:0:0:0:10|h[Восьмерка из колоды Элементалей]|h|r",
                 name = "Восьмерка из колоды Элементалей",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
@@ -5437,7 +5437,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19282:0:0:0:0:0:0:0:10|h[Шестерка из колоды Порталов]|h|r",
                 name = "Шестерка из колоды Порталов",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 3,
                     type = "",
