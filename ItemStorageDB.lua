@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773758578
+ItemStorageDB_LastUpdate = 1773758613
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2948,7 +2948,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-03-13 22:10:50",
+        updated_at = "2026-03-17 16:43:31",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3046,6 +3046,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Посох",
                     required_level = "76",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37811:0:0:0:0:0:0:0:10|h[Увещеватель капитана Карвера]|h|r",
+                name = "Увещеватель капитана Карвера",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "73",
                     retention = "Двуручное",
                 },
             },
@@ -3263,18 +3275,6 @@ ItemStorageDB = {
                     subtype = "Щит",
                     required_level = "65",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37811:0:0:0:0:0:0:0:10|h[Увещеватель капитана Карвера]|h|r",
-                name = "Увещеватель капитана Карвера",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "73",
-                    retention = "Двуручное",
                 },
             },
         },
@@ -10250,7 +10250,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-16 16:51:01",
+        updated_at = "2026-03-17 16:41:39",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10544,9 +10544,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6375:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух II]|h|r",
+                name = "Формула чар для наручей - дух II",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4597:0:0:0:0:0:0:0:10|h[Рецепт: флакон с бесцветным лечебным зельем]|h|r",
+                name = "Рецепт: флакон с бесцветным лечебным зельем",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
                 name = "Рецепт: зелье скорости",
-                count = 5,
+                count = 6,
                 details = {
                     quality = 2,
                     type = "",
@@ -10868,18 +10892,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4597:0:0:0:0:0:0:0:10|h[Рецепт: флакон с бесцветным лечебным зельем]|h|r",
-                name = "Рецепт: флакон с бесцветным лечебным зельем",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:16253:0:0:0:0:0:0:0:10|h[Формула: зачаровывание нагрудника - все характеристики, III ступень]|h|r",
                 name = "Формула: зачаровывание нагрудника - все характеристики, III ступень",
                 count = 1,
@@ -10978,18 +10990,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11165:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель элементалей]|h|r",
                 name = "Формула чар для оружия - истребитель элементалей",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6375:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух II]|h|r",
-                name = "Формула чар для наручей - дух II",
                 count = 1,
                 details = {
                     quality = 2,
@@ -11140,6 +11140,66 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "47",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:18652:0:0:0:0:0:0:0:10|h[Схема: гирозамораживающий ледяной отражатель]|h|r",
+                name = "Схема: гирозамораживающий ледяной отражатель",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "47",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:16046:0:0:0:0:0:0:0:10|h[Схема: манекен-мишень искусной работы]|h|r",
+                name = "Схема: манекен-мишень искусной работы",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:16050:0:0:0:0:0:0:0:10|h[Схема: сверхточный арканитовый преобразователь]|h|r",
+                name = "Схема: сверхточный арканитовый преобразователь",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:18656:0:0:0:0:0:0:0:10|h[Схема: мощный сефориевый заряд]|h|r",
+                name = "Схема: мощный сефориевый заряд",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:32381:0:0:0:0:0:0:0:10|h[Схема: кабельная система с плавкими предохранителями]|h|r",
+                name = "Схема: кабельная система с плавкими предохранителями",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
