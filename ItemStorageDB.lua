@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773818957
+ItemStorageDB_LastUpdate = 1773819019
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17540,7 +17540,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-17 18:28:46",
+        updated_at = "2026-03-18 09:29:54",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17750,18 +17750,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6597:0:0:0:0:0:1193:0:10|h[Наплечные щитки боевого горна со знаком медведя]|h|r",
-                name = "Наплечные щитки боевого горна со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "23",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:4253:0:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
                 name = "Укрепленные кожаные перчатки",
                 count = 2,
@@ -17926,6 +17914,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
+                name = "Венец из ткани Грез",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "45",
                     retention = "",
                 },
             },
@@ -18550,6 +18550,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "52",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6597:0:0:0:0:0:1193:0:10|h[Наплечные щитки боевого горна со знаком медведя]|h|r",
+                name = "Наплечные щитки боевого горна со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "23",
                     retention = "",
                 },
             },
