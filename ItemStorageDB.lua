@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773819019
+ItemStorageDB_LastUpdate = 1773819082
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12185,7 +12185,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-17 18:35:20",
+        updated_at = "2026-03-18 09:30:57",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -12584,6 +12584,18 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "20",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
+                name = "Большой магический жезл",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "13",
+                    retention = "",
                 },
             },
             {
@@ -13247,18 +13259,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
-                name = "Большой магический жезл",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
                 name = "Тонкий длинный лук",
                 count = 2,
@@ -13526,6 +13526,18 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:6511:1892:0:0:0:0:0:0:10|h[Одеяние подмастерья]|h|r",
                 name = "Одеяние подмастерья",
                 count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "6",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2957:0:0:0:0:0:0:0:10|h[Жилет подмастерья]|h|r",
+                name = "Жилет подмастерья",
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
