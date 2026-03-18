@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773826912
+ItemStorageDB_LastUpdate = 1773827094
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1739,7 +1739,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-17 20:11:03",
+        updated_at = "2026-03-18 11:44:30",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2293,18 +2293,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "26",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
-                name = "Кровавая пика",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Древковое",
-                    required_level = "23",
                     retention = "Двуручное",
                 },
             },
