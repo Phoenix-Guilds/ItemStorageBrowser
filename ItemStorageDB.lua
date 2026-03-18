@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773819234
+ItemStorageDB_LastUpdate = 1773819266
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14453,7 +14453,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-17 19:27:51",
+        updated_at = "2026-03-18 09:34:22",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -14713,7 +14713,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
-                count = 154,
+                count = 169,
                 details = {
                     quality = 1,
                     type = "",
@@ -14725,7 +14725,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 304,
+                count = 335,
                 details = {
                     quality = 1,
                     type = "",
@@ -14737,7 +14737,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 254,
+                count = 257,
                 details = {
                     quality = 1,
                     type = "",
@@ -14749,7 +14749,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
-                count = 223,
+                count = 224,
                 details = {
                     quality = 1,
                     type = "",
@@ -14891,18 +14891,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
-                name = "Могильный мох",
-                count = 21,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
                 count = 233,
@@ -14941,7 +14929,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 156,
+                count = 161,
                 details = {
                     quality = 1,
                     type = "",
@@ -15074,6 +15062,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
                 count = 40,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
+                name = "Могильный мох",
+                count = 21,
                 details = {
                     quality = 1,
                     type = "",
