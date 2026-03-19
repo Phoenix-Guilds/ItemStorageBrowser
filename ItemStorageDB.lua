@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773940009
+ItemStorageDB_LastUpdate = 1773940101
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10382,7 +10382,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-19 15:31:47",
+        updated_at = "2026-03-19 19:08:14",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10664,18 +10664,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6045:0:0:0:0:0:0:0:10|h[Чертеж: железный противовес]|h|r",
-                name = "Чертеж: железный противовес",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:3872:0:0:0:0:0:0:0:10|h[Чертеж: золотые чешуйчатые поножи]|h|r",
                 name = "Чертеж: золотые чешуйчатые поножи",
                 count = 1,
@@ -10808,6 +10796,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:12839:0:0:0:0:0:0:0:10|h[Чертеж: пронзатель сердец]|h|r",
+                name = "Чертеж: пронзатель сердец",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "58",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
                 name = "Чертеж: экстремальные очки магической силы",
                 count = 1,
@@ -10918,7 +10918,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
                 name = "Рецепт: зелье скорости",
-                count = 7,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
@@ -11435,6 +11435,18 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:6044:0:0:0:0:0:0:0:10|h[Чертеж: железный шип для щита]|h|r",
                 name = "Чертеж: железный шип для щита",
                 count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6045:0:0:0:0:0:0:0:10|h[Чертеж: железный противовес]|h|r",
+                name = "Чертеж: железный противовес",
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
