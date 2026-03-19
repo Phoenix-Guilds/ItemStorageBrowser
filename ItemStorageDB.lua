@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773869525
+ItemStorageDB_LastUpdate = 1773913992
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17504,7 +17504,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-18 15:12:10",
+        updated_at = "2026-03-18 23:26:05",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -18050,18 +18050,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:18948:927:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
-                name = "Варварские наручи",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "27",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:18948:929:0:0:0:0:0:0:10|h[Варварские наручи]|h|r",
                 name = "Варварские наручи",
                 count = 1,
@@ -18544,7 +18532,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:4253:0:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
                 name = "Укрепленные кожаные перчатки",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
