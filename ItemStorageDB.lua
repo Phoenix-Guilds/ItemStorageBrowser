@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773915114
+ItemStorageDB_LastUpdate = 1773915207
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17492,7 +17492,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-18 23:26:05",
+        updated_at = "2026-03-19 12:13:09",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17542,18 +17542,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "56",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:14549:0:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
-                name = "Сапоги Избежания",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "40",
                     retention = "",
                 },
             },
@@ -17992,7 +17980,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13076:0:0:0:0:0:0:0:10|h[Наручи истребителя великанов]|h|r",
                 name = "Наручи истребителя великанов",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18298,18 +18286,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
-                name = "Латная боевая перчатка Хаку",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "40",
                     retention = "",
                 },
             },
@@ -18808,7 +18784,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                 name = "Поножи осколка голема",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18940,7 +18916,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13145:0:0:0:0:0:0:0:10|h[Огромный огрский пояс]|h|r",
                 name = "Огромный огрский пояс",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
