@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1773926964
+ItemStorageDB_LastUpdate = 1773927025
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-19 13:55:49",
+        updated_at = "2026-03-19 15:30:12",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -1570,7 +1570,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42912:0:0:0:0:0:0:0:10|h[Символ укуса змеи]|h|r",
                 name = "Символ укуса змеи",
-                count = 10,
+                count = 9,
                 details = {
                     quality = 1,
                     type = "",
