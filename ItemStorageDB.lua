@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773924298
+ItemStorageDB_LastUpdate = 1773924780
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17636,7 +17636,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-19 14:05:50",
+        updated_at = "2026-03-19 14:52:55",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17978,18 +17978,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2314:0:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
-                name = "Укрепленный кожаный доспех",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                 name = "Скелетные наплечники",
                 count = 2,
@@ -18208,7 +18196,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:10413:904:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
                 name = "Перчатки Клыка",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18662,18 +18650,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:4253:0:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
-                name = "Укрепленные кожаные перчатки",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6597:0:0:0:0:0:1193:0:10|h[Наплечные щитки боевого горна со знаком медведя]|h|r",
                 name = "Наплечные щитки боевого горна со знаком медведя",
                 count = 1,
@@ -18682,6 +18658,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4253:0:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
+                name = "Укрепленные кожаные перчатки",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "22",
                     retention = "",
                 },
             },
