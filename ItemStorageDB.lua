@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773921975
+ItemStorageDB_LastUpdate = 1773922337
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9416,7 +9416,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-19 12:24:17",
+        updated_at = "2026-03-19 14:12:05",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9448,7 +9448,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
                 name = "Дворфийская пищаль",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 4,
                     type = "2",
@@ -9626,6 +9626,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
+                name = "Громодерево",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                 name = "Двуствольный дробовик",
                 count = 1,
@@ -9722,6 +9734,66 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
+                name = "Факел Остен",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
+                name = "Арбалет Ищущий Сердце",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "51",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
+                name = "Выдавливатель внутренностей",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
+                name = "Жезл Аллистария",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
+                name = "Раскалывающий череп арбалет",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "43",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                 name = "Железноткач",
                 count = 4,
@@ -9754,78 +9826,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Арбалет",
                     required_level = "27",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
-                name = "Громодерево",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
-                name = "Факел Остен",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
-                name = "Арбалет Ищущий Сердце",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "51",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
-                name = "Выдавливатель внутренностей",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
-                name = "Жезл Аллистария",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
-                name = "Раскалывающий череп арбалет",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "43",
                     retention = "",
                 },
             },
