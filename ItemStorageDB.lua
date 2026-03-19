@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773927335
+ItemStorageDB_LastUpdate = 1773927487
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8132,7 +8132,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-19 12:13:55",
+        updated_at = "2026-03-19 15:37:58",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -8150,9 +8150,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
+                name = "Блестящая рыбья чешуя",
+                count = 25,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
                 count = 19,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
+                name = "Рыбий жир",
+                count = 67,
                 details = {
                     quality = 1,
                     type = "",
