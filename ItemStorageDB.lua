@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773914418
+ItemStorageDB_LastUpdate = 1773914450
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2972,7 +2972,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-03-18 15:15:20",
+        updated_at = "2026-03-19 12:00:38",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3106,18 +3106,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Посох",
                     required_level = "64",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
-                name = "Клинок невезения",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "60",
                     retention = "Двуручное",
                 },
             },
