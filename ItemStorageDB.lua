@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773921019
+ItemStorageDB_LastUpdate = 1773921081
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1739,7 +1739,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-19 12:22:31",
+        updated_at = "2026-03-19 13:51:02",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1973,13 +1973,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
-                name = "Кортик Новолуния",
-                count = 1,
+                link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
+                name = "Изогнутый мясницкий нож",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Кинжал",
+                    subtype = "Топор",
                     required_level = "40",
                     retention = "Одноручное",
                 },
@@ -2149,6 +2149,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "41",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
+                name = "Эгида Штормграда",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "49",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
+                name = "Фамильный щит Гарреттов",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "57",
                     retention = "",
                 },
             },
@@ -2551,37 +2575,13 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
                 name = "Отвага Бланчарда",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "45",
                     retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
-                name = "Эгида Штормграда",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "49",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
-                name = "Фамильный щит Гарреттов",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "57",
-                    retention = "",
                 },
             },
             {
@@ -2701,6 +2701,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "36",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
+                name = "Кортик Новолуния",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "40",
                     retention = "Одноручное",
                 },
             },
@@ -2857,18 +2869,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "20",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
-                name = "Изогнутый мясницкий нож",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "40",
                     retention = "Одноручное",
                 },
             },
