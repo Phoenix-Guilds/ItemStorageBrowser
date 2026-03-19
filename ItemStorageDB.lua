@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773916950
+ItemStorageDB_LastUpdate = 1773916982
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6701,7 +6701,7 @@ ItemStorageDB = {
     },
     {
         name = "Крошшерный",
-        updated_at = "2026-03-18 15:22:33",
+        updated_at = "2026-03-19 12:42:46",
         money = 3895,
         empty = 0,
         location = "Оргриммар",
@@ -6731,9 +6731,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:16647:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 3]|h|r",
-                name = "Руководство по использованию крошшера, стр. 3",
-                count = 23,
+                link = "|cffffffff|Hitem:16651:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 7]|h|r",
+                name = "Руководство по использованию крошшера, стр. 7",
+                count = 11,
                 details = {
                     quality = 1,
                     type = "",
@@ -6745,7 +6745,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16654:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 10]|h|r",
                 name = "Руководство по использованию крошшера, стр. 10",
-                count = 15,
+                count = 16,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:16647:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 3]|h|r",
+                name = "Руководство по использованию крошшера, стр. 3",
+                count = 24,
                 details = {
                     quality = 1,
                     type = "",
@@ -6769,31 +6781,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16655:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 11]|h|r",
                 name = "Руководство по использованию крошшера, стр. 11",
-                count = 8,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:16652:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 8]|h|r",
-                name = "Руководство по использованию крошшера, стр. 8",
-                count = 23,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:16653:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 9]|h|r",
-                name = "Руководство по использованию крошшера, стр. 9",
-                count = 34,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -6827,9 +6815,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:16651:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 7]|h|r",
-                name = "Руководство по использованию крошшера, стр. 7",
-                count = 12,
+                link = "|cffffffff|Hitem:16652:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 8]|h|r",
+                name = "Руководство по использованию крошшера, стр. 8",
+                count = 24,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:16653:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 9]|h|r",
+                name = "Руководство по использованию крошшера, стр. 9",
+                count = 35,
                 details = {
                     quality = 1,
                     type = "",
@@ -6841,7 +6841,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16650:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 6]|h|r",
                 name = "Руководство по использованию крошшера, стр. 6",
-                count = 11,
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
