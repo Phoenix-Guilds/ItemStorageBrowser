@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773941344
+ItemStorageDB_LastUpdate = 1773941403
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9440,7 +9440,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-19 19:02:23",
+        updated_at = "2026-03-19 19:29:58",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9566,18 +9566,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
-                name = "Адамантитовые патроны",
-                count = 8955,
-                details = {
-                    quality = 3,
-                    type = "6",
-                    subtype = "Пули",
-                    required_level = "62",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:41165:0:0:0:0:0:0:0:10|h[Саронитовые острейшие стрелы]|h|r",
                 name = "Саронитовые острейшие стрелы",
                 count = 15601,
@@ -9616,7 +9604,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
                 name = "Смертоносный прицел",
-                count = 1,
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
@@ -9646,6 +9634,42 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4407:0:0:0:0:0:0:0:10|h[Точный прицел]|h|r",
+                name = "Точный прицел",
+                count = 5,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10512:0:0:0:0:0:0:0:10|h[Бронебойные мифриловые пули]|h|r",
+                name = "Бронебойные мифриловые пули",
+                count = 5000,
+                details = {
+                    quality = 2,
+                    type = "6",
+                    subtype = "Пули",
+                    required_level = "37",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15997:0:0:0:0:0:0:0:10|h[Ториевые патроны]|h|r",
+                name = "Ториевые патроны",
+                count = 20705,
+                details = {
+                    quality = 2,
+                    type = "6",
+                    subtype = "Пули",
+                    required_level = "52",
                     retention = "",
                 },
             },
@@ -9698,30 +9722,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:10512:0:0:0:0:0:0:0:10|h[Бронебойные мифриловые пули]|h|r",
-                name = "Бронебойные мифриловые пули",
-                count = 5000,
-                details = {
-                    quality = 2,
-                    type = "6",
-                    subtype = "Пули",
-                    required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15997:0:0:0:0:0:0:0:10|h[Ториевые патроны]|h|r",
-                name = "Ториевые патроны",
-                count = 20705,
-                details = {
-                    quality = 2,
-                    type = "6",
-                    subtype = "Пули",
-                    required_level = "52",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:23772:0:0:0:0:0:0:0:10|h[Патроны из оскверненного железа]|h|r",
                 name = "Патроны из оскверненного железа",
                 count = 16495,
@@ -9754,6 +9754,18 @@ ItemStorageDB = {
                     type = "6",
                     subtype = "Пули",
                     required_level = "47",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
+                name = "Адамантитовые патроны",
+                count = 8955,
+                details = {
+                    quality = 3,
+                    type = "6",
+                    subtype = "Пули",
+                    required_level = "62",
                     retention = "",
                 },
             },
