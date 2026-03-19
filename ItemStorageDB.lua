@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773914601
+ItemStorageDB_LastUpdate = 1773915023
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5117,7 +5117,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-03-17 16:54:34",
+        updated_at = "2026-03-19 12:10:02",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -5257,7 +5257,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19233:0:0:0:0:0:0:0:10|h[Пятерка из колоды Зверей]|h|r",
                 name = "Пятерка из колоды Зверей",
-                count = 6,
+                count = 7,
                 details = {
                     quality = 3,
                     type = "",
@@ -5315,6 +5315,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:19274:0:0:0:0:0:0:0:10|h[Семерка из колоды Элементалей]|h|r",
+                name = "Семерка из колоды Элементалей",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:19231:0:0:0:0:0:0:0:10|h[Тройка из колоды Зверей]|h|r",
                 name = "Тройка из колоды Зверей",
                 count = 4,
@@ -5353,7 +5365,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19270:0:0:0:0:0:0:0:10|h[Тройка из колоды Элементалей]|h|r",
                 name = "Тройка из колоды Элементалей",
-                count = 7,
+                count = 8,
                 details = {
                     quality = 3,
                     type = "",
@@ -5365,7 +5377,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19232:0:0:0:0:0:0:0:10|h[Четверка из колоды Зверей]|h|r",
                 name = "Четверка из колоды Зверей",
-                count = 11,
+                count = 12,
                 details = {
                     quality = 3,
                     type = "",
@@ -5389,7 +5401,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19280:0:0:0:0:0:0:0:10|h[Четверка из колоды Порталов]|h|r",
                 name = "Четверка из колоды Порталов",
-                count = 5,
+                count = 6,
                 details = {
                     quality = 3,
                     type = "",
@@ -5447,18 +5459,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:19273:0:0:0:0:0:0:0:10|h[Шестерка из колоды Элементалей]|h|r",
-                name = "Шестерка из колоды Элементалей",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
                 name = "Колода Демонов",
                 count = 4,
@@ -5473,30 +5473,6 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
                 name = "Карта Новолуния: Синий Дракон",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Аксессуар",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:19287:0:0:0:0:0:0:0:10|h[Карта Новолуния: Героизм]|h|r",
-                name = "Карта Новолуния: Героизм",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Аксессуар",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:19289:0:0:0:0:0:0:0:10|h[Карта Новолуния: Водоворот]|h|r",
-                name = "Карта Новолуния: Водоворот",
                 count = 1,
                 details = {
                     quality = 4,
@@ -5533,7 +5509,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
                 name = "Колода Мечей",
-                count = 7,
+                count = 6,
                 details = {
                     quality = 3,
                     type = "",
@@ -5555,9 +5531,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:19273:0:0:0:0:0:0:0:10|h[Шестерка из колоды Элементалей]|h|r",
+                name = "Шестерка из колоды Элементалей",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:44154:0:0:0:0:0:0:0:10|h[Двойка колоды Демонов]|h|r",
                 name = "Двойка колоды Демонов",
-                count = 12,
+                count = 15,
                 details = {
                     quality = 1,
                     type = "",
@@ -5581,7 +5569,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44143:0:0:0:0:0:0:0:10|h[Туз из колоды Демонов]|h|r",
                 name = "Туз из колоды Демонов",
-                count = 30,
+                count = 35,
                 details = {
                     quality = 1,
                     type = "",
@@ -5594,6 +5582,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:44156:0:0:0:0:0:0:0:10|h[Четверка из колоды Демонов]|h|r",
                 name = "Четверка из колоды Демонов",
                 count = 9,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:44144:0:0:0:0:0:0:0:10|h[Двойка колоды Магов]|h|r",
+                name = "Двойка колоды Магов",
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
@@ -5629,7 +5629,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44165:0:0:0:0:0:0:0:10|h[Туз из колоды Магов]|h|r",
                 name = "Туз из колоды Магов",
-                count = 10,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -5641,7 +5641,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44146:0:0:0:0:0:0:0:10|h[Четверка из колоды Магов]|h|r",
                 name = "Четверка из колоды Магов",
-                count = 16,
+                count = 19,
                 details = {
                     quality = 1,
                     type = "",
@@ -5663,9 +5663,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:37156:0:0:0:0:0:0:0:10|h[Тройка из колоды Разбойников]|h|r",
+                name = "Тройка из колоды Разбойников",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
                 name = "Туз из колоды Разбойников",
-                count = 27,
+                count = 30,
                 details = {
                     quality = 1,
                     type = "",
