@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773939490
+ItemStorageDB_LastUpdate = 1773939521
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12305,7 +12305,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-19 14:55:56",
+        updated_at = "2026-03-19 18:58:22",
         money = 47705,
         empty = 0,
         location = "Оргриммар",
@@ -13859,8 +13859,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
-                name = "Ивовая ветвь со знаком духа",
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
+                name = "Ивовая ветвь со знаком интеллекта",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13871,8 +13871,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
-                name = "Ивовая ветвь со знаком интеллекта",
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
+                name = "Ивовая ветвь со знаком духа",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13931,6 +13931,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:2316:884:0:0:0:0:0:0:10|h[Темный кожаный плащ]|h|r",
+                name = "Темный кожаный плащ",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:3211:929:0:0:0:0:0:0:10|h[Вороненые наручи]|h|r",
                 name = "Вороненые наручи",
                 count = 1,
@@ -13951,6 +13963,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2315:929:0:0:0:0:0:0:10|h[Темные кожаные сапоги]|h|r",
+                name = "Темные кожаные сапоги",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "15",
                     retention = "",
                 },
             },
