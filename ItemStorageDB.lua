@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773940141
+ItemStorageDB_LastUpdate = 1773940194
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9167,7 +9167,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-03-09 16:05:50",
+        updated_at = "2026-03-19 19:08:56",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -14315,7 +14315,7 @@ ItemStorageDB = {
     },
     {
         name = "Тернистая",
-        updated_at = "2026-03-19 16:34:21",
+        updated_at = "2026-03-19 19:09:33",
         money = 5468,
         empty = 0,
         location = "Оргриммар",
@@ -14393,9 +14393,45 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2732:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 8]|h|r",
+                name = "Зеленые холмы Тернистой долины: стр. 8",
+                count = 30,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2735:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 11]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 11",
                 count = 23,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2725:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 1]|h|r",
+                name = "Зеленые холмы Тернистой долины: стр. 1",
+                count = 24,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2728:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 4]|h|r",
+                name = "Зеленые холмы Тернистой долины: стр. 4",
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
@@ -14431,7 +14467,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2748:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 24]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 24",
-                count = 26,
+                count = 27,
                 details = {
                     quality = 1,
                     type = "",
@@ -14456,42 +14492,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2751:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 27]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 27",
                 count = 28,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2725:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 1]|h|r",
-                name = "Зеленые холмы Тернистой долины: стр. 1",
-                count = 24,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2728:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 4]|h|r",
-                name = "Зеленые холмы Тернистой долины: стр. 4",
-                count = 25,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2732:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 8]|h|r",
-                name = "Зеленые холмы Тернистой долины: стр. 8",
-                count = 30,
                 details = {
                     quality = 1,
                     type = "",
