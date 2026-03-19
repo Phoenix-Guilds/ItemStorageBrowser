@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773943148
+ItemStorageDB_LastUpdate = 1773943334
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6890,7 +6890,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-03-19 19:19:11",
+        updated_at = "2026-03-19 20:01:14",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -7004,6 +7004,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
+                name = "Медный слиток",
+                count = 373,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
                 name = "Медная руда",
                 count = 220,
@@ -7042,7 +7054,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                 name = "Бронзовый слиток",
-                count = 211,
+                count = 100,
                 details = {
                     quality = 1,
                     type = "",
@@ -7067,18 +7079,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
                 name = "Железный слиток",
                 count = 365,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
-                name = "Медный слиток",
-                count = 673,
                 details = {
                     quality = 1,
                     type = "",
