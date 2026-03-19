@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773921081
+ItemStorageDB_LastUpdate = 1773921142
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17684,7 +17684,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-19 12:22:53",
+        updated_at = "2026-03-19 13:51:58",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -17822,6 +17822,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13102:0:0:0:0:0:0:0:10|h[Милость Кассандры]|h|r",
+                name = "Милость Кассандры",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "42",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
                 name = "Шлем Большого Берга",
                 count = 2,
@@ -17882,6 +17894,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
+                name = "Решетчатые костяные рукавицы",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "31",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:16724:0:0:0:0:0:0:0:10|h[Рукавицы из светлостали]|h|r",
                 name = "Рукавицы из светлостали",
                 count = 2,
@@ -17926,18 +17950,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "32",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13070:0:0:0:0:0:0:0:10|h[Чешуйчатые сапоги Сапфирона]|h|r",
-                name = "Чешуйчатые сапоги Сапфирона",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "53",
                     retention = "",
                 },
             },
@@ -18148,7 +18160,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16681:0:0:0:0:0:0:0:10|h[Наручники загонщика]|h|r",
                 name = "Наручники загонщика",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18172,7 +18184,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13076:0:0:0:0:0:0:0:10|h[Наручи истребителя великанов]|h|r",
                 name = "Наручи истребителя великанов",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18422,6 +18434,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:12999:0:0:0:0:0:0:0:10|h[Драконокрылые поручи]|h|r",
+                name = "Драконокрылые поручи",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13072:0:0:0:0:0:0:0:10|h[Рукавицы Каменной хватки]|h|r",
                 name = "Рукавицы Каменной хватки",
                 count = 1,
@@ -18494,18 +18518,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
-                name = "Решетчатые костяные рукавицы",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "31",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
                 name = "Перчатки Старины",
                 count = 2,
@@ -18526,18 +18538,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
-                name = "Поножи Огненной Гривы",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "34",
                     retention = "",
                 },
             },
@@ -18574,6 +18574,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "54",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13070:0:0:0:0:0:0:0:10|h[Чешуйчатые сапоги Сапфирона]|h|r",
+                name = "Чешуйчатые сапоги Сапфирона",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "53",
                     retention = "",
                 },
             },
@@ -18616,7 +18628,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
                 name = "Сапоги из чешуи равазавра",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -18686,18 +18698,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:4253:0:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
-                name = "Укрепленные кожаные перчатки",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6597:0:0:0:0:0:1193:0:10|h[Наплечные щитки боевого горна со знаком медведя]|h|r",
                 name = "Наплечные щитки боевого горна со знаком медведя",
                 count = 1,
@@ -18706,6 +18706,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4253:0:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
+                name = "Укрепленные кожаные перчатки",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "22",
                     retention = "",
                 },
             },
@@ -18994,6 +19006,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "38",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
+                name = "Поножи Огненной Гривы",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "34",
                     retention = "",
                 },
             },
