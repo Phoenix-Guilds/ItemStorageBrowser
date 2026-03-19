@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773939703
+ItemStorageDB_LastUpdate = 1773939764
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9428,7 +9428,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-19 15:19:19",
+        updated_at = "2026-03-19 19:02:23",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9538,18 +9538,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Лук",
                     required_level = "27",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
-                name = "Выдавливатель внутренностей",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "45",
                     retention = "",
                 },
             },
@@ -9698,18 +9686,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
-                name = "Раскалывающий череп арбалет",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "43",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:10512:0:0:0:0:0:0:0:10|h[Бронебойные мифриловые пули]|h|r",
                 name = "Бронебойные мифриловые пули",
                 count = 5000,
@@ -9794,6 +9770,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
+                name = "Выдавливатель внутренностей",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "45",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                 name = "Жезл Аллистария",
                 count = 4,
@@ -9808,7 +9796,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                 name = "Железноткач",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 3,
                     type = "2",
@@ -9838,6 +9826,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Арбалет",
                     required_level = "27",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
+                name = "Раскалывающий череп арбалет",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "43",
                     retention = "",
                 },
             },
