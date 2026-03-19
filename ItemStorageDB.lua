@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773921204
+ItemStorageDB_LastUpdate = 1773921236
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10310,7 +10310,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-18 15:14:44",
+        updated_at = "2026-03-19 13:53:42",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10592,18 +10592,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4597:0:0:0:0:0:0:0:10|h[Рецепт: флакон с бесцветным лечебным зельем]|h|r",
-                name = "Рецепт: флакон с бесцветным лечебным зельем",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
                 name = "Рецепт: зелье скорости",
                 count = 6,
@@ -10661,6 +10649,18 @@ ItemStorageDB = {
                     subtype = "Кольчуга",
                     required_level = "29",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12827:0:0:0:0:0:0:0:10|h[Чертеж: Безмятежность]|h|r",
+                name = "Чертеж: Безмятежность",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "52",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -10816,6 +10816,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "2",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4597:0:0:0:0:0:0:0:10|h[Рецепт: флакон с бесцветным лечебным зельем]|h|r",
+                name = "Рецепт: флакон с бесцветным лечебным зельем",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
                     retention = "",
                 },
             },
@@ -11645,18 +11657,6 @@ ItemStorageDB = {
                     subtype = "",
                     required_level = "",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12827:0:0:0:0:0:0:0:10|h[Чертеж: Безмятежность]|h|r",
-                name = "Чертеж: Безмятежность",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "52",
-                    retention = "Одноручное",
                 },
             },
             {
