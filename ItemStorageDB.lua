@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773921666
+ItemStorageDB_LastUpdate = 1773921729
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14204,7 +14204,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-19 13:59:58",
+        updated_at = "2026-03-19 14:01:44",
         money = 105542,
         empty = 0,
         location = "Оргриммар",
@@ -14285,6 +14285,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
                 name = "Ткань Скверны",
                 count = 4,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
+                name = "Магическая ткань",
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -14438,18 +14450,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
-                name = "Рулон шерсти",
-                count = 512,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
                 count = 501,
@@ -14465,6 +14465,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                 name = "Рулон льняной ткани",
                 count = 324,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
+                name = "Рулон шерсти",
+                count = 512,
                 details = {
                     quality = 1,
                     type = "",
