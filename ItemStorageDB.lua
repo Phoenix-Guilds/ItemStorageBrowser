@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773998958
+ItemStorageDB_LastUpdate = 1773998989
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9452,7 +9452,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-20 11:11:03",
+        updated_at = "2026-03-20 11:29:31",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9460,7 +9460,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
                 name = "Гроза",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 4,
                     type = "2",
@@ -9562,18 +9562,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Лук",
                     required_level = "27",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
-                name = "Крупнокалиберный дробовик",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "53",
                     retention = "",
                 },
             },
@@ -9686,6 +9674,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
+                name = "Пугач маленького Тимми",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4087:0:0:0:0:0:114:0:10|h[Лук верного прицела с печатью выносливости]|h|r",
+                name = "Лук верного прицела с печатью выносливости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Лук",
+                    required_level = "36",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
                 count = 5,
@@ -9746,30 +9758,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
-                name = "Пугач маленького Тимми",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4087:0:0:0:0:0:114:0:10|h[Лук верного прицела с печатью выносливости]|h|r",
-                name = "Лук верного прицела с печатью выносливости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Лук",
-                    required_level = "36",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:23772:0:0:0:0:0:0:0:10|h[Патроны из оскверненного железа]|h|r",
                 name = "Патроны из оскверненного железа",
                 count = 16495,
@@ -9814,6 +9802,18 @@ ItemStorageDB = {
                     type = "6",
                     subtype = "Пули",
                     required_level = "62",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
+                name = "Крупнокалиберный дробовик",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "53",
                     retention = "",
                 },
             },
@@ -9868,7 +9868,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
                 name = "Огнеиспускатель Джайны",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "2",
@@ -9880,7 +9880,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                 name = "Быстроветр",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "2",
