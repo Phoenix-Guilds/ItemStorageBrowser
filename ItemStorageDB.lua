@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774023845
+ItemStorageDB_LastUpdate = 1774023909
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10550,7 +10550,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-20 12:23:57",
+        updated_at = "2026-03-20 18:24:59",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10964,6 +10964,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:32381:0:0:0:0:0:0:0:10|h[Схема: кабельная система с плавкими предохранителями]|h|r",
+                name = "Схема: кабельная система с плавкими предохранителями",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:16050:0:0:0:0:0:0:0:10|h[Схема: сверхточный арканитовый преобразователь]|h|r",
+                name = "Схема: сверхточный арканитовый преобразователь",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:10318:0:0:0:0:0:0:0:10|h[Выкройка: адмиральская шляпа]|h|r",
                 name = "Выкройка: адмиральская шляпа",
                 count = 4,
@@ -10988,23 +11012,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
-                name = "Рецепт: эликсир увеличения",
-                count = 4,
+                link = "|cff1eff00|Hitem:6342:0:0:0:0:0:0:0:10|h[Формула чар для нагрудника - мана I]|h|r",
+                name = "Формула чар для нагрудника - мана I",
+                count = 3,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "8",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:32381:0:0:0:0:0:0:0:10|h[Схема: кабельная система с плавкими предохранителями]|h|r",
-                name = "Схема: кабельная система с плавкими предохранителями",
-                count = 1,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -11012,11 +11024,35 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:16050:0:0:0:0:0:0:0:10|h[Схема: сверхточный арканитовый преобразователь]|h|r",
-                name = "Схема: сверхточный арканитовый преобразователь",
-                count = 1,
+                link = "|cff1eff00|Hitem:6348:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель зверей I]|h|r",
+                name = "Формула чар для оружия - истребитель зверей I",
+                count = 2,
                 details = {
-                    quality = 1,
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11081:0:0:0:0:0:0:0:10|h[Формула чар для щита - броня]|h|r",
+                name = "Формула чар для щита - броня",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6375:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух II]|h|r",
+                name = "Формула чар для наручей - дух II",
+                count = 3,
+                details = {
+                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -11068,6 +11104,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "18",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
+                name = "Рецепт: эликсир увеличения",
+                count = 4,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "8",
                     retention = "",
                 },
             },
@@ -11324,54 +11372,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6375:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух II]|h|r",
-                name = "Формула чар для наручей - дух II",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11081:0:0:0:0:0:0:0:10|h[Формула чар для щита - броня]|h|r",
-                name = "Формула чар для щита - броня",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6348:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель зверей I]|h|r",
-                name = "Формула чар для оружия - истребитель зверей I",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6342:0:0:0:0:0:0:0:10|h[Формула чар для нагрудника - мана I]|h|r",
-                name = "Формула чар для нагрудника - мана I",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:15742:0:0:0:0:0:0:0:10|h[Выкройка: портупея боевого медведя]|h|r",
                 name = "Выкройка: портупея боевого медведя",
                 count = 1,
@@ -11612,6 +11612,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:7993:0:0:0:0:0:0:0:10|h[Чертеж: ослепительная мифриловая рапира]|h|r",
+                name = "Чертеж: ослепительная мифриловая рапира",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "43",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:12827:0:0:0:0:0:0:0:10|h[Чертеж: Безмятежность]|h|r",
                 name = "Чертеж: Безмятежность",
                 count = 2,
@@ -11621,6 +11633,18 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "52",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12697:0:0:0:0:0:0:0:10|h[Чертеж: светозарные сапоги]|h|r",
+                name = "Чертеж: светозарные сапоги",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "53",
+                    retention = "",
                 },
             },
             {
@@ -12521,7 +12545,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-20 13:07:03",
+        updated_at = "2026-03-20 18:24:08",
         money = 377705,
         empty = 0,
         location = "Оргриммар",
@@ -14443,6 +14467,42 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:789:0:0:0:0:0:587:0:10|h[Боевой молот упорства со знаком мартышки]|h|r",
+                name = "Боевой молот упорства со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9783:0:0:0:0:0:136:0:10|h[Разбойничий нагрудник со знаком силы]|h|r",
+                name = "Разбойничий нагрудник со знаком силы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6575:0:0:0:0:0:1182:0:10|h[Плащ поборника со знаком медведя]|h|r",
+                name = "Плащ поборника со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "15",
                     retention = "",
                 },
             },
