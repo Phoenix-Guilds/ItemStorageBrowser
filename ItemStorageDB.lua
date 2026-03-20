@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773999897
+ItemStorageDB_LastUpdate = 1773999959
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1751,7 +1751,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-20 11:28:54",
+        updated_at = "2026-03-20 11:45:34",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2117,14 +2117,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
-                name = "Жезл расплавленного огня",
+                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
+                name = "Рыцарский щит Красной бороды",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Левая рука",
-                    required_level = "30",
+                    subtype = "Щит",
+                    required_level = "19",
                     retention = "",
                 },
             },
@@ -2210,6 +2210,18 @@ ItemStorageDB = {
                     subtype = "Щит",
                     required_level = "54",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
+                name = "Клык Боана",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "15",
+                    retention = "Двуручное",
                 },
             },
             {
@@ -2377,18 +2389,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "16",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
-                name = "Клык Боана",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "15",
                     retention = "Двуручное",
                 },
             },
@@ -2719,7 +2719,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
                 name = "Рапира из быстростали",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2906,6 +2906,18 @@ ItemStorageDB = {
                     subtype = "Посох",
                     required_level = "57",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
                 },
             },
             {
