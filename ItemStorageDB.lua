@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774002163
+ItemStorageDB_LastUpdate = 1774002255
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10406,7 +10406,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-20 10:52:39",
+        updated_at = "2026-03-20 12:23:57",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10844,6 +10844,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
+                name = "Рецепт: эликсир увеличения",
+                count = 4,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "8",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:32381:0:0:0:0:0:0:0:10|h[Схема: кабельная система с плавкими предохранителями]|h|r",
                 name = "Схема: кабельная система с плавкими предохранителями",
                 count = 1,
@@ -10912,18 +10924,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "18",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
-                name = "Рецепт: эликсир увеличения",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "8",
                     retention = "",
                 },
             },
