@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774000953
+ItemStorageDB_LastUpdate = 1774001015
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9464,7 +9464,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-20 11:29:31",
+        updated_at = "2026-03-20 12:03:12",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9686,54 +9686,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
-                name = "Пугач маленького Тимми",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4087:0:0:0:0:0:114:0:10|h[Лук верного прицела с печатью выносливости]|h|r",
-                name = "Лук верного прицела с печатью выносливости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Лук",
-                    required_level = "36",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
-                name = "Звездопад",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "29",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
-                name = "Оса Хрустальных сосен",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "27",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                 name = "Громодерево",
                 count = 5,
@@ -9766,6 +9718,66 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
+                name = "Пугач маленького Тимми",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4087:0:0:0:0:0:114:0:10|h[Лук верного прицела с печатью выносливости]|h|r",
+                name = "Лук верного прицела с печатью выносливости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Лук",
+                    required_level = "36",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
+                name = "Железноткач",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "29",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
+                name = "Звездопад",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "29",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
+                name = "Оса Хрустальных сосен",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "27",
                     retention = "",
                 },
             },
@@ -9820,7 +9832,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
                 name = "Крупнокалиберный дробовик",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "2",
@@ -9844,7 +9856,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
                 name = "Арбалет Ищущий Сердце",
-                count = 3,
+                count = 5,
                 details = {
                     quality = 3,
                     type = "2",
@@ -9854,21 +9866,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
-                name = "Выдавливатель внутренностей",
-                count = 6,
+                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
+                name = "Раскалывающий череп арбалет",
+                count = 5,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "45",
+                    subtype = "Арбалет",
+                    required_level = "43",
                     retention = "",
                 },
             },
             {
                 link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
                 name = "Глушитель",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 3,
                     type = "2",
@@ -9902,14 +9914,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
-                name = "Железноткач",
-                count = 5,
+                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
+                name = "Выдавливатель внутренностей",
+                count = 6,
                 details = {
                     quality = 3,
                     type = "2",
                     subtype = "Огнестрельное",
-                    required_level = "29",
+                    required_level = "45",
                     retention = "",
                 },
             },
@@ -9922,18 +9934,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
-                name = "Раскалывающий череп арбалет",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "43",
                     retention = "",
                 },
             },
