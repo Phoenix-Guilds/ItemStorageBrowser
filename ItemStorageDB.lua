@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774000350
+ItemStorageDB_LastUpdate = 1774000953
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14426,7 +14426,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-03-19 18:23:46",
+        updated_at = "2026-03-20 12:02:18",
         money = 59245,
         empty = 15,
         location = "Оргриммар",
@@ -14434,7 +14434,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:51809:0:0:0:0:0:0:0:10|h[Переносная дыра в пространстве]|h|r",
                 name = "Переносная дыра в пространстве",
-                count = 3,
+                count = 1,
                 details = {
                     quality = 4,
                     type = "",
