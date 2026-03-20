@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773998896
+ItemStorageDB_LastUpdate = 1773998958
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1751,7 +1751,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-20 11:07:47",
+        updated_at = "2026-03-20 11:28:54",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2201,6 +2201,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
+                name = "Щит пылающего черепа",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "54",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
                 name = "Клинок титанов",
                 count = 2,
@@ -2609,18 +2621,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
-                name = "Щит пылающего черепа",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "54",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
                 name = "Горящая секира",
                 count = 1,
@@ -2629,6 +2629,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "28",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
+                name = "Каменный ворон",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Древковое",
+                    required_level = "47",
                     retention = "Двуручное",
                 },
             },
