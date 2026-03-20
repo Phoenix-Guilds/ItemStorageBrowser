@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774024188
+ItemStorageDB_LastUpdate = 1774024279
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18548,7 +18548,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-20 12:05:11",
+        updated_at = "2026-03-20 18:31:17",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -18758,18 +18758,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
-                name = "Окованные серебром прочные ботинки",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "16",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
                 name = "Сапоги Фьюрена",
                 count = 2,
@@ -18902,6 +18890,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
+                name = "Оплечье старшего волшебника",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "51",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
                 name = "Корона северного разбойника",
                 count = 1,
@@ -18950,18 +18950,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:15383:0:0:0:0:0:693:0:10|h[Перчатки Яростного Когтя со знаком тигра]|h|r",
-                name = "Перчатки Яростного Когтя со знаком тигра",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "43",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15084:0:0:0:0:0:0:0:10|h[Гибельные кожаные наручи]|h|r",
                 name = "Гибельные кожаные наручи",
                 count = 2,
@@ -18970,6 +18958,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "48",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4052:0:0:0:0:0:0:0:10|h[Орденская шапка]|h|r",
+                name = "Орденская шапка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "30",
                     retention = "",
                 },
             },
@@ -19022,18 +19022,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4052:0:0:0:0:0:0:0:10|h[Орденская шапка]|h|r",
-                name = "Орденская шапка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:8120:0:0:0:0:0:0:0:10|h[Геральдический плащ]|h|r",
                 name = "Геральдический плащ",
                 count = 1,
@@ -19042,6 +19030,42 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Спина",
                     required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2622:0:0:0:0:0:0:0:10|h[Племенной головной убор Нимара]|h|r",
+                name = "Племенной головной убор Нимара",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "32",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15383:0:0:0:0:0:693:0:10|h[Перчатки Яростного Когтя со знаком тигра]|h|r",
+                name = "Перчатки Яростного Когтя со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "43",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:5624:0:0:0:0:0:0:0:10|h[Венец порядка]|h|r",
+                name = "Венец порядка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "33",
                     retention = "",
                 },
             },
@@ -19072,7 +19096,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16714:0:0:0:0:0:0:0:10|h[Наручи дикого сердца]|h|r",
                 name = "Наручи дикого сердца",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -19658,26 +19682,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2622:0:0:0:0:0:0:0:10|h[Племенной головной убор Нимара]|h|r",
-                name = "Племенной головной убор Нимара",
-                count = 1,
+                link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
+                name = "Окованные серебром прочные ботинки",
+                count = 2,
                 details = {
-                    quality = 2,
+                    quality = 3,
                     type = "4",
-                    subtype = "Ткань",
-                    required_level = "32",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:5624:0:0:0:0:0:0:0:10|h[Венец порядка]|h|r",
-                name = "Венец порядка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "33",
+                    subtype = "Кольчуга",
+                    required_level = "16",
                     retention = "",
                 },
             },
@@ -19798,18 +19810,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "54",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
-                name = "Оплечье старшего волшебника",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "51",
                     retention = "",
                 },
             },
