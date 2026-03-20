@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774042325
+ItemStorageDB_LastUpdate = 1774042386
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6491,7 +6491,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-03-17 22:00:22",
+        updated_at = "2026-03-20 23:32:42",
         money = 12939,
         empty = 0,
         location = "Оргриммар",
@@ -6511,7 +6511,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42942:0:0:0:0:0:0:0:10|h[Печеный морской дьявол]|h|r",
                 name = "Печеный морской дьявол",
-                count = 76,
+                count = 69,
                 details = {
                     quality = 1,
                     type = "",
@@ -6571,7 +6571,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
-                count = 39,
+                count = 27,
                 details = {
                     quality = 1,
                     type = "",
