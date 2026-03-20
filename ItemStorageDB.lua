@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773995508
+ItemStorageDB_LastUpdate = 1773995540
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1751,7 +1751,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-19 14:05:11",
+        updated_at = "2026-03-20 10:32:06",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2189,6 +2189,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
+                name = "Черночерепный щит",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "41",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
+                name = "Щит пылающего черепа",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "54",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
                 name = "Клинок титанов",
                 count = 2,
@@ -2359,7 +2383,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                 name = "Клык Боана",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2597,30 +2621,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
-                name = "Черночерепный щит",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "41",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
-                name = "Щит пылающего черепа",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "54",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
                 name = "Горящая секира",
                 count = 1,
@@ -2689,6 +2689,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "18",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2256:0:0:0:0:0:0:0:10|h[Скелетная дубина]|h|r",
+                name = "Скелетная дубина",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "19",
                     retention = "Одноручное",
                 },
             },
