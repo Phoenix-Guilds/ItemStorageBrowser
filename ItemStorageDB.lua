@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774004041
+ItemStorageDB_LastUpdate = 1774004073
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1751,7 +1751,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-20 11:45:34",
+        updated_at = "2026-03-20 12:54:30",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2117,18 +2117,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
-                name = "Рыцарский щит Красной бороды",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
                 count = 2,
@@ -2210,6 +2198,18 @@ ItemStorageDB = {
                     subtype = "Щит",
                     required_level = "54",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15260:0:0:0:0:0:695:0:10|h[Каменный молот со знаком тигра]|h|r",
+                name = "Каменный молот со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "33",
+                    retention = "Двуручное",
                 },
             },
             {
@@ -2741,6 +2741,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
+                name = "Рыцарский щит Красной бороды",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13015:0:0:0:0:0:0:0:10|h[Сератил]|h|r",
                 name = "Сератил",
                 count = 2,
@@ -2906,18 +2930,6 @@ ItemStorageDB = {
                     subtype = "Посох",
                     required_level = "57",
                     retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
-                name = "Жезл расплавленного огня",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "30",
-                    retention = "",
                 },
             },
             {
