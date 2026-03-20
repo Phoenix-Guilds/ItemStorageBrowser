@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774023107
+ItemStorageDB_LastUpdate = 1774023230
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3554,7 +3554,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-20 12:25:51",
+        updated_at = "2026-03-20 18:13:25",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -3778,7 +3778,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
                 name = "Субстанция Огня",
-                count = 3,
+                count = 5,
                 details = {
                     quality = 2,
                     type = "",
@@ -3790,7 +3790,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 16,
+                count = 19,
                 details = {
                     quality = 2,
                     type = "",
@@ -4102,7 +4102,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
                 name = "Дыхание ветра",
-                count = 54,
+                count = 55,
                 details = {
                     quality = 1,
                     type = "",
@@ -4150,7 +4150,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 6,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
