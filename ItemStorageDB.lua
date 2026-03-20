@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773998989
+ItemStorageDB_LastUpdate = 1773999021
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15755,7 +15755,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-03-20 10:54:09",
+        updated_at = "2026-03-20 11:30:18",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -17321,6 +17321,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:31164:0:0:0:0:0:-43:44:10|h[Рукавицы из стали Пустоты с меткой солдата]|h|r",
+                name = "Рукавицы из стали Пустоты с меткой солдата",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "66",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:37795:0:0:0:0:0:0:0:10|h[Захваты доблестного воителя]|h|r",
                 name = "Захваты доблестного воителя",
                 count = 1,
@@ -17341,6 +17353,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "72",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31175:0:0:0:0:0:0:0:10|h[Накулачники танцора клинков]|h|r",
+                name = "Накулачники танцора клинков",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "63",
                     retention = "",
                 },
             },
