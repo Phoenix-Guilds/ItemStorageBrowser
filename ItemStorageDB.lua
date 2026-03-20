@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773995198
+ItemStorageDB_LastUpdate = 1773995320
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12341,10 +12341,10 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-20 10:26:10",
+        updated_at = "2026-03-20 10:28:21",
         money = 47705,
         empty = 0,
-        location = "",
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:4251:0:0:0:0:0:0:0:10|h[Наплечники жителя холмов]|h|r",
@@ -12587,8 +12587,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4562:20319:0:0:0:0:672:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:4562:20319:0:0:0:0:672:0:10|h[Сверхострый топор со знаком тигра]|h|r",
+                name = "Сверхострый топор со знаком тигра",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12599,8 +12599,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4562:20319:0:0:0:0:1181:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:4562:20319:0:0:0:0:1181:0:10|h[Сверхострый топор со знаком медведя]|h|r",
+                name = "Сверхострый топор со знаком медведя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12611,8 +12611,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4562:0:0:0:0:0:18:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:4562:0:0:0:0:0:18:0:10|h[Сверхострый топор со знаком ловкости]|h|r",
+                name = "Сверхострый топор со знаком ловкости",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12623,20 +12623,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4562:0:0:0:0:0:502:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "5",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3192:20320:0:0:0:0:1013:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:3192:20319:0:0:0:0:24:0:10|h[Короткий полуторный меч со знаком силы]|h|r",
+                name = "Короткий полуторный меч со знаком силы",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12647,8 +12635,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3192:20319:0:0:0:0:24:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:3192:20320:0:0:0:0:1013:0:10|h[Короткий полуторный меч со знаком кита]|h|r",
+                name = "Короткий полуторный меч со знаком кита",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12659,8 +12647,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4567:20319:0:0:0:0:93:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:4567:20319:0:0:0:0:93:0:10|h[Меч наемного воина со знаком ловкости]|h|r",
+                name = "Меч наемного воина со знаком ловкости",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12671,8 +12659,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3196:20319:0:0:0:0:1183:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:3196:20319:0:0:0:0:590:0:10|h[Наточенный полуторный меч со знаком мартышки]|h|r",
+                name = "Наточенный полуторный меч со знаком мартышки",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12683,8 +12671,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3196:20319:0:0:0:0:590:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:3196:20319:0:0:0:0:1183:0:10|h[Наточенный полуторный меч со знаком медведя]|h|r",
+                name = "Наточенный полуторный меч со знаком медведя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12695,8 +12683,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4777:20319:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:4777:20319:0:0:0:0:0:0:10|h[Кувалда железного дерева]|h|r",
+                name = "Кувалда железного дерева",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12707,8 +12695,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3195:20320:0:0:0:0:588:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:3195:20320:0:0:0:0:588:0:10|h[Варварский боевой топор со знаком мартышки]|h|r",
+                name = "Варварский боевой топор со знаком мартышки",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12719,8 +12707,20 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:727:20239:0:0:0:0:1547:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:4575:0:0:0:0:0:845:0:10|h[Лечебный посох со знаком орла]|h|r",
+                name = "Лечебный посох со знаком орла",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "14",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:727:20239:0:0:0:0:1547:0:10|h[Зубчатый короткий меч с печатью могущества]|h|r",
+                name = "Зубчатый короткий меч с печатью могущества",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12731,8 +12731,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3184:20235:0:0:0:0:2028:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:3184:20235:0:0:0:0:2028:0:10|h[Кинжал-крюк с печатью исцеления]|h|r",
+                name = "Кинжал-крюк с печатью исцеления",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12743,8 +12743,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:15224:20244:0:0:0:0:1182:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:15224:20244:0:0:0:0:1182:0:10|h[Боевой сокрушитель со знаком медведя]|h|r",
+                name = "Боевой сокрушитель со знаком медведя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12755,20 +12755,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2965:1892:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "6",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:9765:1892:0:0:0:0:1180:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:9765:1892:0:0:0:0:1180:0:10|h[Жилет оруженосца со знаком медведя]|h|r",
+                name = "Жилет оруженосца со знаком медведя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12779,8 +12767,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:15487:1892:0:0:0:0:1182:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:15487:1892:0:0:0:0:1182:0:10|h[Потрепанный в бою мундир со знаком медведя]|h|r",
+                name = "Потрепанный в бою мундир со знаком медведя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12791,8 +12779,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2985:1892:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:2985:1892:0:0:0:0:0:0:10|h[Расписанная кожаная кираса]|h|r",
+                name = "Расписанная кожаная кираса",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12803,8 +12791,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:5069:0:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
+                name = "Огненный жезл",
                 count = 2,
                 details = {
                     quality = 2,
@@ -12815,8 +12803,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4577:0:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:4577:0:0:0:0:0:0:0:10|h[Компактный дробовик]|h|r",
+                name = "Компактный дробовик",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12827,8 +12815,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11287:0:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
+                name = "Малый магический жезл",
                 count = 2,
                 details = {
                     quality = 2,
@@ -12839,8 +12827,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:5212:0:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:5212:0:0:0:0:0:0:0:10|h[Пылающий жезл]|h|r",
+                name = "Пылающий жезл",
                 count = 2,
                 details = {
                     quality = 2,
@@ -12851,8 +12839,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3040:0:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:3040:0:0:0:0:0:0:0:10|h[Охотничья фузея]|h|r",
+                name = "Охотничья фузея",
                 count = 2,
                 details = {
                     quality = 2,
@@ -12863,8 +12851,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11288:0:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
+                name = "Большой магический жезл",
                 count = 3,
                 details = {
                     quality = 2,
@@ -13463,8 +13451,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11304:0:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
+                name = "Тонкий длинный лук",
                 count = 2,
                 details = {
                     quality = 2,
@@ -13475,8 +13463,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3039:0:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:3039:0:0:0:0:0:0:0:10|h[Короткий ясеневый лук]|h|r",
+                name = "Короткий ясеневый лук",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13487,8 +13475,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2075:20239:0:0:0:0:15:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:2075:20239:0:0:0:0:15:0:10|h[Палица жреца с печатью выносливости]|h|r",
+                name = "Палица жреца с печатью выносливости",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13499,8 +13487,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:15222:20239:0:0:0:0:1550:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:15222:20239:0:0:0:0:1550:0:10|h[Колючая дубина с печатью могущества]|h|r",
+                name = "Колючая дубина с печатью могущества",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13511,8 +13499,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3740:20239:0:0:0:0:671:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:3740:20239:0:0:0:0:671:0:10|h[Обезглавливающий меч со знаком тигра]|h|r",
+                name = "Обезглавливающий меч со знаком тигра",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13523,8 +13511,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8178:20319:0:0:0:0:1096:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:8178:20319:0:0:0:0:501:0:10|h[Тренировочный меч со знаком волка]|h|r",
+                name = "Тренировочный меч со знаком волка",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13535,8 +13523,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8178:20319:0:0:0:0:1181:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:8178:20319:0:0:0:0:1096:0:10|h[Тренировочный меч со знаком вепря]|h|r",
+                name = "Тренировочный меч со знаком вепря",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13547,8 +13535,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8178:0:0:0:0:0:501:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:8178:20319:0:0:0:0:1181:0:10|h[Тренировочный меч со знаком медведя]|h|r",
+                name = "Тренировочный меч со знаком медведя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13559,8 +13547,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8178:20319:0:0:0:0:502:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:8178:0:0:0:0:0:501:0:10|h[Тренировочный меч со знаком волка]|h|r",
+                name = "Тренировочный меч со знаком волка",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13571,8 +13559,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8178:20319:0:0:0:0:501:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:8178:20319:0:0:0:0:502:0:10|h[Тренировочный меч со знаком волка]|h|r",
+                name = "Тренировочный меч со знаком волка",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13583,8 +13571,20 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4562:20319:0:0:0:0:670:0:10|h[]|h|r",
-                name = "",
+                link = "|cff1eff00|Hitem:4562:0:0:0:0:0:502:0:10|h[Сверхострый топор со знаком волка]|h|r",
+                name = "Сверхострый топор со знаком волка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "5",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4562:20319:0:0:0:0:670:0:10|h[Сверхострый топор со знаком тигра]|h|r",
+                name = "Сверхострый топор со знаком тигра",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13693,7 +13693,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2965:1892:0:0:0:0:0:0:10|h[Воинский мундир]|h|r",
                 name = "Воинский мундир",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -13723,150 +13723,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "6",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:15969:0:0:0:0:0:2027:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:15933:0:0:0:0:0:839:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7554:0:0:0:0:0:94:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7554:0:0:0:0:0:95:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7108:929:0:0:0:0:669:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "6",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:15504:929:0:0:0:0:1185:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2580:884:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "7",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:9779:884:0:0:0:0:754:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2316:884:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3211:929:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:9777:929:0:0:0:0:94:0:10|h[]|h|r",
-                name = "",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2315:929:0:0:0:0:0:0:10|h[]|h|r",
-                name = "",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "15",
                     retention = "",
                 },
             },
@@ -14023,6 +13879,198 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "7",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7108:929:0:0:0:0:669:0:10|h[Щит пехотинца со знаком тигра]|h|r",
+                name = "Щит пехотинца со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "6",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15504:929:0:0:0:0:1185:0:10|h[Походный щит со знаком медведя]|h|r",
+                name = "Походный щит со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2580:884:0:0:0:0:0:0:10|h[Усиленная льняная накидка]|h|r",
+                name = "Усиленная льняная накидка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "7",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9779:884:0:0:0:0:754:0:10|h[Бандитский плащ со знаком совы]|h|r",
+                name = "Бандитский плащ со знаком совы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2316:884:0:0:0:0:0:0:10|h[Темный кожаный плащ]|h|r",
+                name = "Темный кожаный плащ",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3211:929:0:0:0:0:0:0:10|h[Вороненые наручи]|h|r",
+                name = "Вороненые наручи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9777:929:0:0:0:0:94:0:10|h[Бандитские наручи со знаком интеллекта]|h|r",
+                name = "Бандитские наручи со знаком интеллекта",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2315:929:0:0:0:0:0:0:10|h[Темные кожаные сапоги]|h|r",
+                name = "Темные кожаные сапоги",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14379:0:0:0:0:0:0:0:10|h[Брюки цвета крови]|h|r",
+                name = "Брюки цвета крови",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "24",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4785:0:0:0:0:0:0:0:10|h[Серный пояс]|h|r",
+                name = "Серный пояс",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14373:0:0:0:0:0:0:0:10|h[Пояс цвета крови]|h|r",
+                name = "Пояс цвета крови",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14185:0:0:0:0:0:2032:0:10|h[Кушак смотрителя с печатью исцеления]|h|r",
+                name = "Кушак смотрителя с печатью исцеления",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
+                name = "Ивовая ветвь со знаком интеллекта",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15933:0:0:0:0:0:839:0:10|h[Простая ветвь со знаком орла]|h|r",
+                name = "Простая ветвь со знаком орла",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
+                name = "Сфера Бусин с печатью исцеления",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
+                name = "Ивовая ветвь со знаком духа",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "14",
                     retention = "",
                 },
             },
