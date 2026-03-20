@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773996112
+ItemStorageDB_LastUpdate = 1773996323
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1751,7 +1751,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-20 10:32:06",
+        updated_at = "2026-03-20 10:45:07",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2191,24 +2191,12 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                 name = "Черночерепный щит",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 4,
                     type = "4",
                     subtype = "Щит",
                     required_level = "41",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
-                name = "Щит пылающего черепа",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "54",
                     retention = "",
                 },
             },
@@ -2525,14 +2513,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
-                name = "Посох сильного магического огня",
-                count = 2,
+                link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
+                name = "Игольщик",
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Посох",
-                    required_level = "57",
+                    subtype = "Древковое",
+                    required_level = "55",
                     retention = "Двуручное",
                 },
             },
@@ -2621,6 +2609,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
+                name = "Щит пылающего черепа",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "54",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
                 name = "Горящая секира",
                 count = 1,
@@ -2641,18 +2641,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "52",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
-                name = "Игольщик",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Древковое",
-                    required_level = "55",
                     retention = "Двуручное",
                 },
             },
@@ -2701,18 +2689,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "19",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
-                name = "Зазубренный боевой топор",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "25",
                     retention = "Одноручное",
                 },
             },
@@ -2906,6 +2882,18 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "20",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
+                name = "Посох сильного магического огня",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "57",
+                    retention = "Двуручное",
                 },
             },
             {
