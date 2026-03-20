@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774024156
+ItemStorageDB_LastUpdate = 1774024188
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10550,7 +10550,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-20 18:24:59",
+        updated_at = "2026-03-20 18:29:39",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -11624,6 +11624,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:12691:0:0:0:0:0:0:0:10|h[Чертеж: доспех дикого терна]|h|r",
+                name = "Чертеж: доспех дикого терна",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "49",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:12827:0:0:0:0:0:0:0:10|h[Чертеж: Безмятежность]|h|r",
                 name = "Чертеж: Безмятежность",
                 count = 2,
@@ -11788,18 +11800,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12691:0:0:0:0:0:0:0:10|h[Чертеж: доспех дикого терна]|h|r",
-                name = "Чертеж: доспех дикого терна",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "49",
                     retention = "",
                 },
             },
