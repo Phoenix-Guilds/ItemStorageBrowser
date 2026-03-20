@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774029315
+ItemStorageDB_LastUpdate = 1774029347
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15116,7 +15116,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-20 19:09:39",
+        updated_at = "2026-03-20 19:55:40",
         money = 105542,
         empty = 0,
         location = "Оргриммар",
@@ -15256,7 +15256,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 582,
+                count = 757,
                 details = {
                     quality = 1,
                     type = "",
@@ -15362,30 +15362,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
-                name = "Рулон льняной ткани",
-                count = 254,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
-                name = "Рулон шерсти",
-                count = 512,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
                 count = 559,
@@ -15398,9 +15374,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
+                name = "Рулон льняной ткани",
+                count = 254,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
                 count = 295,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
+                name = "Рулон шерсти",
+                count = 512,
                 details = {
                     quality = 1,
                     type = "",
