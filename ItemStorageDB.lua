@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774004073
+ItemStorageDB_LastUpdate = 1774004225
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20021,7 +20021,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-20 11:42:38",
+        updated_at = "2026-03-20 12:56:38",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -20503,6 +20503,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12010:0:0:0:0:0:599:0:10|h[Кольцо топей со знаком мартышки]|h|r",
+                name = "Кольцо топей со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "32",
                     retention = "",
                 },
             },
