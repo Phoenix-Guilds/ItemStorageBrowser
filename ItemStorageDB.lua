@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1773996718
+ItemStorageDB_LastUpdate = 1773996780
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10394,7 +10394,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-19 19:08:14",
+        updated_at = "2026-03-20 10:52:39",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10570,7 +10570,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4293:0:0:0:0:0:0:0:10|h[Выкройка: кожаный жилет жителя холмов]|h|r",
                 name = "Выкройка: кожаный жилет жителя холмов",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "4",
@@ -10676,30 +10676,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3872:0:0:0:0:0:0:0:10|h[Чертеж: золотые чешуйчатые поножи]|h|r",
-                name = "Чертеж: золотые чешуйчатые поножи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "29",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12827:0:0:0:0:0:0:0:10|h[Чертеж: Безмятежность]|h|r",
-                name = "Чертеж: Безмятежность",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "52",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:10604:0:0:0:0:0:0:0:10|h[Схема: мифриловая крупнокалиберная винтовка]|h|r",
                 name = "Схема: мифриловая крупнокалиберная винтовка",
                 count = 1,
@@ -10714,7 +10690,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4292:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шерстяная сумка]|h|r",
                 name = "Выкройка: зеленая шерстяная сумка",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
@@ -10840,6 +10816,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "43",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8385:0:0:0:0:0:0:0:10|h[Выкройка: перчатки из черепашьего панциря]|h|r",
+                name = "Выкройка: перчатки из черепашьего панциря",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "36",
                     retention = "",
                 },
             },
@@ -11420,18 +11408,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8385:0:0:0:0:0:0:0:10|h[Выкройка: перчатки из черепашьего панциря]|h|r",
-                name = "Выкройка: перчатки из черепашьего панциря",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "36",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9295:0:0:0:0:0:0:0:10|h[Рецепт: зелье невидимости]|h|r",
                 name = "Рецепт: зелье невидимости",
                 count = 1,
@@ -11465,6 +11441,30 @@ ItemStorageDB = {
                     subtype = "",
                     required_level = "",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3872:0:0:0:0:0:0:0:10|h[Чертеж: золотые чешуйчатые поножи]|h|r",
+                name = "Чертеж: золотые чешуйчатые поножи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "29",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12827:0:0:0:0:0:0:0:10|h[Чертеж: Безмятежность]|h|r",
+                name = "Чертеж: Безмятежность",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "52",
+                    retention = "Одноручное",
                 },
             },
             {
