@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774024461
+ItemStorageDB_LastUpdate = 1774024612
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12545,7 +12545,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-20 18:24:08",
+        updated_at = "2026-03-20 18:36:43",
         money = 377705,
         empty = 0,
         location = "Оргриммар",
@@ -14243,6 +14243,66 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:14564:0:0:0:0:0:0:0:10|h[Полуперчатки геолога]|h|r",
+                name = "Полуперчатки геолога",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14747:0:0:0:0:0:0:0:10|h[Громадные рукавицы]|h|r",
+                name = "Громадные рукавицы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "18",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:789:0:0:0:0:0:587:0:10|h[Боевой молот упорства со знаком мартышки]|h|r",
+                name = "Боевой молот упорства со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9783:0:0:0:0:0:136:0:10|h[Разбойничий нагрудник со знаком силы]|h|r",
+                name = "Разбойничий нагрудник со знаком силы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6575:0:0:0:0:0:1182:0:10|h[Плащ поборника со знаком медведя]|h|r",
+                name = "Плащ поборника со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:15503:0:0:0:0:0:1190:0:10|h[Походные набедренники со знаком медведя]|h|r",
                 name = "Походные набедренники со знаком медведя",
                 count = 1,
@@ -14467,42 +14527,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:789:0:0:0:0:0:587:0:10|h[Боевой молот упорства со знаком мартышки]|h|r",
-                name = "Боевой молот упорства со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:9783:0:0:0:0:0:136:0:10|h[Разбойничий нагрудник со знаком силы]|h|r",
-                name = "Разбойничий нагрудник со знаком силы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6575:0:0:0:0:0:1182:0:10|h[Плащ поборника со знаком медведя]|h|r",
-                name = "Плащ поборника со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "15",
                     retention = "",
                 },
             },
