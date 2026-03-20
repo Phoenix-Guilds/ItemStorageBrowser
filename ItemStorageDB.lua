@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774004350
+ItemStorageDB_LastUpdate = 1774004382
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7319,7 +7319,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-20 12:11:24",
+        updated_at = "2026-03-20 12:59:27",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7625,6 +7625,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:44939:0:0:0:0:0:0:0:10|h[Малый настой сопротивления]|h|r",
+                name = "Малый настой сопротивления",
+                count = 3,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
                 name = "Масло льда",
                 count = 1,
@@ -7721,9 +7733,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
-                name = "Эликсир львиной силы",
-                count = 31,
+                link = "|cffffffff|Hitem:5997:0:0:0:0:0:0:0:10|h[Слабый эликсир защиты]|h|r",
+                name = "Слабый эликсир защиты",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -7733,14 +7745,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:44939:0:0:0:0:0:0:0:10|h[Малый настой сопротивления]|h|r",
-                name = "Малый настой сопротивления",
-                count = 3,
+                link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
+                name = "Эликсир львиной силы",
+                count = 31,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "70",
+                    required_level = "",
                     retention = "",
                 },
             },
