@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774023353
+ItemStorageDB_LastUpdate = 1774023475
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8525,7 +8525,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-03-19 19:05:24",
+        updated_at = "2026-03-20 18:17:26",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -8879,6 +8879,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:6889:0:0:0:0:0:0:0:10|h[Небольшое яйцо]|h|r",
+                name = "Небольшое яйцо",
+                count = 95,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:27668:0:0:0:0:0:0:0:10|h[Рысье мясо]|h|r",
                 name = "Рысье мясо",
                 count = 35,
@@ -8963,9 +8975,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6889:0:0:0:0:0:0:0:10|h[Небольшое яйцо]|h|r",
-                name = "Небольшое яйцо",
-                count = 95,
+                link = "|cffffffff|Hitem:5465:0:0:0:0:0:0:0:10|h[Небольшая паучья лапка]|h|r",
+                name = "Небольшая паучья лапка",
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
@@ -9025,7 +9037,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
                 name = "Нежная волчатина",
-                count = 57,
+                count = 58,
                 details = {
                     quality = 1,
                     type = "",
@@ -9205,7 +9217,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
                 name = "Красное волчье мясо",
-                count = 130,
+                count = 131,
                 details = {
                     quality = 1,
                     type = "",
