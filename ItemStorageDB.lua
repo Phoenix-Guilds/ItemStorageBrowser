@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774023783
+ItemStorageDB_LastUpdate = 1774023814
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4640,7 +4640,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-20 18:21:45",
+        updated_at = "2026-03-20 18:23:20",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -4672,7 +4672,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                 name = "Твердый камень",
-                count = 647,
+                count = 696,
                 details = {
                     quality = 1,
                     type = "",
@@ -4685,18 +4685,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
                 name = "Твердый шлифовальный камень",
                 count = 58,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
-                name = "Тяжелый камень",
-                count = 315,
                 details = {
                     quality = 1,
                     type = "",
@@ -4793,6 +4781,18 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:11754:0:0:0:0:0:0:0:10|h[Черный алмаз]|h|r",
                 name = "Черный алмаз",
                 count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12800:0:0:0:0:0:0:0:10|h[Азеротский алмаз]|h|r",
+                name = "Азеротский алмаз",
+                count = 12,
                 details = {
                     quality = 2,
                     type = "",
@@ -4922,6 +4922,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
+                name = "Тяжелый камень",
+                count = 315,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
                 name = "Тяжелый шлифовальный камень",
                 count = 130,
@@ -4939,6 +4951,18 @@ ItemStorageDB = {
                 count = 112,
                 details = {
                     quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:23437:0:0:0:0:0:0:0:10|h[Талассит]|h|r",
+                name = "Талассит",
+                count = 15,
+                details = {
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -5102,18 +5126,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:12800:0:0:0:0:0:0:0:10|h[Азеротский алмаз]|h|r",
-                name = "Азеротский алмаз",
-                count = 12,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
                 name = "Животворный рубин",
                 count = 1,
@@ -5165,18 +5177,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:23441:0:0:0:0:0:0:0:10|h[Око ночи]|h|r",
                 name = "Око ночи",
                 count = 10,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:23437:0:0:0:0:0:0:0:10|h[Талассит]|h|r",
-                name = "Талассит",
-                count = 15,
                 details = {
                     quality = 3,
                     type = "",
