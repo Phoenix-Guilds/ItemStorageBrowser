@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774114878
+ItemStorageDB_LastUpdate = 1774115001
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9632,7 +9632,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-20 12:03:12",
+        updated_at = "2026-03-21 19:43:13",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9736,7 +9736,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                 name = "Короткий лук из когтя гарпии",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "2",
@@ -9892,7 +9892,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "2",
