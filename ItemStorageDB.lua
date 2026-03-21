@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774117357
+ItemStorageDB_LastUpdate = 1774117419
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18740,7 +18740,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-21 19:34:29",
+        updated_at = "2026-03-21 20:23:25",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -18950,18 +18950,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
-                name = "Окованные серебром прочные ботинки",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "16",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
                 name = "Сапоги Фьюрена",
                 count = 2,
@@ -19120,7 +19108,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
                 name = "Венец из ткани Грез",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -19178,6 +19166,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
+                name = "Сапоги из пепельной ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "44",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:8193:0:0:0:0:0:0:0:10|h[Ночные штаны]|h|r",
                 name = "Ночные штаны",
                 count = 2,
@@ -19210,6 +19210,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14660:0:0:0:0:0:0:0:10|h[Наплечные пластины скорпиона]|h|r",
+                name = "Наплечные пластины скорпиона",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "42",
                     retention = "",
                 },
             },
@@ -19826,14 +19838,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:14660:0:0:0:0:0:0:0:10|h[Наплечные пластины скорпиона]|h|r",
-                name = "Наплечные пластины скорпиона",
-                count = 1,
+                link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
+                name = "Окованные серебром прочные ботинки",
+                count = 2,
                 details = {
-                    quality = 2,
+                    quality = 3,
                     type = "4",
-                    subtype = "Кожа",
-                    required_level = "42",
+                    subtype = "Кольчуга",
+                    required_level = "16",
                     retention = "",
                 },
             },
