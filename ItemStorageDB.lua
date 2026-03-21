@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774134763
+ItemStorageDB_LastUpdate = 1774135185
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20369,7 +20369,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-22 00:07:55",
+        updated_at = "2026-03-22 01:19:31",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -20869,7 +20869,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20820:0:0:0:0:0:0:0:10|h[Простое жемчужное кольцо]|h|r",
                 name = "Простое жемчужное кольцо",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
