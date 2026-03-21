@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1774127985
+ItemStorageDB_LastUpdate = 1774128112
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-20 19:46:52",
+        updated_at = "2026-03-21 23:21:36",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -586,7 +586,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42743:0:0:0:0:0:0:0:10|h[Символ ледяного доспеха]|h|r",
                 name = "Символ ледяного доспеха",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -610,7 +610,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                 name = "Символ замедленного падения",
-                count = 13,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -802,7 +802,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                 name = "Символ шипов",
-                count = 4,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -814,7 +814,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
                 name = "Символ трепки",
-                count = 12,
+                count = 11,
                 details = {
                     quality = 1,
                     type = "",
@@ -1654,7 +1654,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43380:0:0:0:0:0:0:0:10|h[Символ исчезновения]|h|r",
                 name = "Символ исчезновения",
-                count = 14,
+                count = 13,
                 details = {
                     quality = 1,
                     type = "",
@@ -1678,7 +1678,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42966:0:0:0:0:0:0:0:10|h[Символ парализующего удара]|h|r",
                 name = "Символ парализующего удара",
-                count = 13,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -1738,7 +1738,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
                 name = "Символ левитации",
-                count = 3,
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -1750,7 +1750,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
                 name = "Символ Тьмы",
-                count = 18,
+                count = 16,
                 details = {
                     quality = 1,
                     type = "",
