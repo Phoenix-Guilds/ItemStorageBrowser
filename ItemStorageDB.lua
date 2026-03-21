@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774117419
+ItemStorageDB_LastUpdate = 1774117481
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10121,7 +10121,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-19 23:31:20",
+        updated_at = "2026-03-21 20:24:11",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -10259,9 +10259,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:11139:0:0:0:0:0:0:0:10|h[Большой светящийся осколок]|h|r",
+                name = "Большой светящийся осколок",
+                count = 111,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
                 name = "Жезл из истинного серебра",
-                count = 2,
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
@@ -10367,18 +10379,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:11139:0:0:0:0:0:0:0:10|h[Большой светящийся осколок]|h|r",
-                name = "Большой светящийся осколок",
-                count = 111,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:11138:0:0:0:0:0:0:0:10|h[Малый светящийся осколок]|h|r",
                 name = "Малый светящийся осколок",
                 count = 59,
@@ -10463,6 +10463,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:11174:0:0:0:0:0:0:0:10|h[Простая субстанция Пустоты]|h|r",
+                name = "Простая субстанция Пустоты",
+                count = 4,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
+                name = "Великая таинственная субстанция",
+                count = 90,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
                 name = "Сонная пыль",
                 count = 286,
@@ -10492,30 +10516,6 @@ ItemStorageDB = {
                 count = 379,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11174:0:0:0:0:0:0:0:10|h[Простая субстанция Пустоты]|h|r",
-                name = "Простая субстанция Пустоты",
-                count = 4,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
-                name = "Великая таинственная субстанция",
-                count = 90,
-                details = {
-                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
