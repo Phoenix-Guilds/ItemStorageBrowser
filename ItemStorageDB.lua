@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774114423
+ItemStorageDB_LastUpdate = 1774114485
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18728,7 +18728,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-20 19:44:42",
+        updated_at = "2026-03-21 19:34:29",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -19202,18 +19202,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:14660:0:0:0:0:0:0:0:10|h[Наплечные пластины скорпиона]|h|r",
-                name = "Наплечные пластины скорпиона",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "42",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13135:0:0:0:0:0:0:0:10|h[Властные боевые наручи]|h|r",
                 name = "Властные боевые наручи",
                 count = 2,
@@ -19252,7 +19240,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16710:0:0:0:0:0:0:0:10|h[Наручи незаметности]|h|r",
                 name = "Наручи незаметности",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -19378,18 +19366,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "34",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:4253:904:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
-                name = "Укрепленные кожаные перчатки",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "22",
                     retention = "",
                 },
             },
@@ -19706,6 +19682,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:4253:904:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
+                name = "Укрепленные кожаные перчатки",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
                 name = "Поножи Огненной Гривы",
                 count = 2,
@@ -19822,6 +19810,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "24",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14660:0:0:0:0:0:0:0:10|h[Наплечные пластины скорпиона]|h|r",
+                name = "Наплечные пластины скорпиона",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "42",
                     retention = "",
                 },
             },
@@ -20080,7 +20080,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
                 name = "Полированная джазерентская броня",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -20091,18 +20091,6 @@ ItemStorageDB = {
             },
             {
                 link = "|cff0070dd|Hitem:9434:0:0:0:0:0:0:0:10|h[Облачение стихий]|h|r",
-                name = "Облачение стихий",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "36",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:9434:3150:0:0:0:0:0:0:10|h[Облачение стихий]|h|r",
                 name = "Облачение стихий",
                 count = 1,
                 details = {
@@ -20246,6 +20234,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:9434:3150:0:0:0:0:0:0:10|h[Облачение стихий]|h|r",
+                name = "Облачение стихий",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "36",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
                 name = "Одеяние мага",
                 count = 2,
@@ -20332,7 +20332,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
                 name = "Змеиный кушак",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
