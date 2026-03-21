@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774113398
+ItemStorageDB_LastUpdate = 1774113463
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8300,7 +8300,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-20 18:25:32",
+        updated_at = "2026-03-21 19:17:36",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -8332,7 +8332,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 19,
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
@@ -8476,7 +8476,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 25,
+                count = 22,
                 details = {
                     quality = 2,
                     type = "2",
@@ -8524,7 +8524,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
-                count = 12,
+                count = 11,
                 details = {
                     quality = 1,
                     type = "",
@@ -10574,7 +10574,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-20 18:29:39",
+        updated_at = "2026-03-21 19:17:06",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -10856,42 +10856,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:10604:0:0:0:0:0:0:0:10|h[Схема: мифриловая крупнокалиберная винтовка]|h|r",
-                name = "Схема: мифриловая крупнокалиберная винтовка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "39",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4292:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шерстяная сумка]|h|r",
-                name = "Выкройка: зеленая шерстяная сумка",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7091:0:0:0:0:0:0:0:10|h[Выкройка: перчатки истинной веры]|h|r",
-                name = "Выкройка: перчатки истинной веры",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4356:0:0:0:0:0:0:0:10|h[Выкройка: звездный пояс]|h|r",
                 name = "Выкройка: звездный пояс",
                 count = 1,
@@ -10900,6 +10864,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14494:0:0:0:0:0:0:0:10|h[Выкройка: штаны из яркой ткани]|h|r",
+                name = "Выкройка: штаны из яркой ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14498:0:0:0:0:0:0:0:10|h[Выкройка: головная повязка из рунной ткани]|h|r",
+                name = "Выкройка: головная повязка из рунной ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "54",
                     retention = "",
                 },
             },
@@ -10964,6 +10952,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:15746:0:0:0:0:0:0:0:10|h[Выкройка: химерические поножи]|h|r",
+                name = "Выкройка: химерические поножи",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "51",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:12839:0:0:0:0:0:0:0:10|h[Чертеж: пронзатель сердец]|h|r",
                 name = "Чертеж: пронзатель сердец",
                 count = 1,
@@ -10983,30 +10983,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:32381:0:0:0:0:0:0:0:10|h[Схема: кабельная система с плавкими предохранителями]|h|r",
-                name = "Схема: кабельная система с плавкими предохранителями",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:16050:0:0:0:0:0:0:0:10|h[Схема: сверхточный арканитовый преобразователь]|h|r",
-                name = "Схема: сверхточный арканитовый преобразователь",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
                     required_level = "",
                     retention = "",
                 },
@@ -11084,6 +11060,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4597:0:0:0:0:0:0:0:10|h[Рецепт: флакон с бесцветным лечебным зельем]|h|r",
+                name = "Рецепт: флакон с бесцветным лечебным зельем",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
+                name = "Рецепт: зелье скорости",
+                count = 8,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
+                name = "Рецепт: эликсир увеличения",
+                count = 4,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "8",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:3395:0:0:0:0:0:0:0:10|h[Рецепт: слабое зелье неуязвимости]|h|r",
                 name = "Рецепт: слабое зелье неуязвимости",
                 count = 2,
@@ -11132,30 +11144,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
-                name = "Рецепт: эликсир увеличения",
-                count = 4,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "8",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
-                name = "Рецепт: зелье скорости",
-                count = 8,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:2553:0:0:0:0:0:0:0:10|h[Рецепт: слабый эликсир ловкости]|h|r",
                 name = "Рецепт: слабый эликсир ловкости",
                 count = 2,
@@ -11164,18 +11152,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "2",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4597:0:0:0:0:0:0:0:10|h[Рецепт: флакон с бесцветным лечебным зельем]|h|r",
-                name = "Рецепт: флакон с бесцветным лечебным зельем",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
                     retention = "",
                 },
             },
@@ -11684,6 +11660,90 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
+                name = "Схема: динамит \"Pro-100-брос\"",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10604:0:0:0:0:0:0:0:10|h[Схема: мифриловая крупнокалиберная винтовка]|h|r",
+                name = "Схема: мифриловая крупнокалиберная винтовка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "39",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:18658:0:0:0:0:0:0:0:10|h[Схема: ультра-вспышечный отражатель тьмы]|h|r",
+                name = "Схема: ультра-вспышечный отражатель тьмы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4292:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шерстяная сумка]|h|r",
+                name = "Выкройка: зеленая шерстяная сумка",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7091:0:0:0:0:0:0:0:10|h[Выкройка: перчатки истинной веры]|h|r",
+                name = "Выкройка: перчатки истинной веры",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:32381:0:0:0:0:0:0:0:10|h[Схема: кабельная система с плавкими предохранителями]|h|r",
+                name = "Схема: кабельная система с плавкими предохранителями",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:16050:0:0:0:0:0:0:0:10|h[Схема: сверхточный арканитовый преобразователь]|h|r",
+                name = "Схема: сверхточный арканитовый преобразователь",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4353:0:0:0:0:0:0:0:10|h[Выкройка: паучий пояс]|h|r",
                 name = "Выкройка: паучий пояс",
                 count = 2,
@@ -11968,18 +12028,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
-                name = "Схема: динамит \"Pro-100-брос\"",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "10",
                     retention = "",
                 },
             },
