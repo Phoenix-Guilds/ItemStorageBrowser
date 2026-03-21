@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774113776
+ItemStorageDB_LastUpdate = 1774113808
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7355,7 +7355,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-20 22:02:43",
+        updated_at = "2026-03-21 19:23:16",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7459,7 +7459,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
                 name = "Огромный флакон с зельем маны",
-                count = 23,
+                count = 27,
                 details = {
                     quality = 1,
                     type = "",
@@ -7483,7 +7483,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
                 name = "Огромный флакон с лечебным зельем",
-                count = 44,
+                count = 51,
                 details = {
                     quality = 1,
                     type = "",
@@ -7531,7 +7531,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                 name = "Большой флакон с лечебным зельем",
-                count = 12,
+                count = 17,
                 details = {
                     quality = 1,
                     type = "",
@@ -7649,6 +7649,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
+                name = "Зелье скорости",
+                count = 37,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2458:0:0:0:0:0:0:0:10|h[Слабый эликсир стойкости]|h|r",
                 name = "Слабый эликсир стойкости",
                 count = 84,
@@ -7729,18 +7741,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "24",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
-                name = "Эликсир ловкости",
-                count = 20,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "27",
                     retention = "",
                 },
             },
@@ -7865,18 +7865,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
-                name = "Зелье скорости",
-                count = 37,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                 name = "Крохотный флакон с зельем маны",
                 count = 36,
@@ -7891,7 +7879,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:858:0:0:0:0:0:0:0:10|h[Маленький флакон с лечебным зельем]|h|r",
                 name = "Маленький флакон с лечебным зельем",
-                count = 36,
+                count = 37,
                 details = {
                     quality = 1,
                     type = "",
@@ -7927,7 +7915,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40073:0:0:0:0:0:0:0:10|h[Мощный эликсир силы]|h|r",
                 name = "Мощный эликсир силы",
-                count = 50,
+                count = 43,
                 details = {
                     quality = 1,
                     type = "",
@@ -8021,14 +8009,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
-                name = "Эликсир грубой силы",
-                count = 48,
+                link = "|cffffffff|Hitem:40070:0:0:0:0:0:0:0:10|h[Эликсир силы заклинаний]|h|r",
+                name = "Эликсир силы заклинаний",
+                count = 125,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "45",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -8153,14 +8141,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:40070:0:0:0:0:0:0:0:10|h[Эликсир силы заклинаний]|h|r",
-                name = "Эликсир силы заклинаний",
-                count = 125,
+                link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
+                name = "Эликсир ловкости",
+                count = 20,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "70",
+                    required_level = "27",
                     retention = "",
                 },
             },
@@ -8281,6 +8269,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "46",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
+                name = "Эликсир грубой силы",
+                count = 48,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "45",
                     retention = "",
                 },
             },
