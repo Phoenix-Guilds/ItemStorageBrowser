@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774187141
+ItemStorageDB_LastUpdate = 1774187443
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18764,7 +18764,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-22 06:15:58",
+        updated_at = "2026-03-22 15:50:33",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -18830,7 +18830,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:14551:0:0:0:0:0:0:0:10|h[Боевые рукавицы виртуоза клинка]|h|r",
+                link = "|cffa335ee|Hitem:14551:1594:0:0:0:0:0:0:10|h[Боевые рукавицы виртуоза клинка]|h|r",
                 name = "Боевые рукавицы виртуоза клинка",
                 count = 1,
                 details = {
@@ -18842,7 +18842,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:14551:1594:0:0:0:0:0:0:10|h[Боевые рукавицы виртуоза клинка]|h|r",
+                link = "|cffa335ee|Hitem:14551:0:0:0:0:0:0:0:10|h[Боевые рукавицы виртуоза клинка]|h|r",
                 name = "Боевые рукавицы виртуоза клинка",
                 count = 1,
                 details = {
@@ -19454,18 +19454,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:10413:856:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
-                name = "Перчатки Клыка",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:18743:0:0:0:0:0:0:0:10|h[Благодатная накидка]|h|r",
                 name = "Благодатная накидка",
                 count = 1,
@@ -19594,18 +19582,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12999:0:0:0:0:0:0:0:10|h[Драконокрылые поручи]|h|r",
-                name = "Драконокрылые поручи",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "20",
                     retention = "",
                 },
             },
@@ -20332,7 +20308,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2314:1892:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
                 name = "Укрепленный кожаный доспех",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
