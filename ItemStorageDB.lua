@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774198819
+ItemStorageDB_LastUpdate = 1774198881
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12677,7 +12677,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-22 15:44:28",
+        updated_at = "2026-03-22 19:01:10",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -13187,6 +13187,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
+                name = "Сфера Бусин с печатью исцеления",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:15933:0:0:0:0:0:839:0:10|h[Простая ветвь со знаком орла]|h|r",
                 name = "Простая ветвь со знаком орла",
                 count = 1,
@@ -13199,18 +13211,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
-                name = "Ивовая ветвь со знаком интеллекта",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15926:0:0:0:0:0:0:0:10|h[Сфера заклинателя]|h|r",
                 name = "Сфера заклинателя",
                 count = 1,
@@ -13219,6 +13219,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Левая рука",
                     required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
+                name = "Ивовая ветвь со знаком интеллекта",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "14",
                     retention = "",
                 },
             },
@@ -13266,18 +13278,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Жезл",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
-                name = "Сфера Бусин с печатью исцеления",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
                     required_level = "5",
                     retention = "",
                 },
@@ -13955,18 +13955,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2315:3858:0:0:0:0:0:0:10|h[Темные кожаные сапоги]|h|r",
-                name = "Темные кожаные сапоги",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:2315:929:0:0:0:0:0:0:10|h[Темные кожаные сапоги]|h|r",
                 name = "Темные кожаные сапоги",
                 count = 1,
@@ -14478,18 +14466,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кольчуга",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:5961:0:0:0:0:0:0:0:10|h[Темные кожаные штаны]|h|r",
-                name = "Темные кожаные штаны",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
                     required_level = "18",
                     retention = "",
                 },
