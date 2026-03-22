@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774143106
+ItemStorageDB_LastUpdate = 1774143168
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10610,7 +10610,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-21 19:33:25",
+        updated_at = "2026-03-22 03:32:27",
         money = 3991,
         empty = 0,
         location = "Оргриммар",
@@ -11350,7 +11350,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
                 name = "Рецепт: эликсир силы огра",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -11924,30 +11924,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:10318:0:0:0:0:0:0:0:10|h[Выкройка: адмиральская шляпа]|h|r",
-                name = "Выкройка: адмиральская шляпа",
-                count = 4,
-                details = {
-                    quality = 1,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "43",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8385:0:0:0:0:0:0:0:10|h[Выкройка: перчатки из черепашьего панциря]|h|r",
-                name = "Выкройка: перчатки из черепашьего панциря",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "36",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:32381:0:0:0:0:0:0:0:10|h[Схема: кабельная система с плавкими предохранителями]|h|r",
                 name = "Схема: кабельная система с плавкими предохранителями",
                 count = 1,
@@ -11968,6 +11944,30 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:10318:0:0:0:0:0:0:0:10|h[Выкройка: адмиральская шляпа]|h|r",
+                name = "Выкройка: адмиральская шляпа",
+                count = 4,
+                details = {
+                    quality = 1,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "43",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8385:0:0:0:0:0:0:0:10|h[Выкройка: перчатки из черепашьего панциря]|h|r",
+                name = "Выкройка: перчатки из черепашьего панциря",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "36",
                     retention = "",
                 },
             },
