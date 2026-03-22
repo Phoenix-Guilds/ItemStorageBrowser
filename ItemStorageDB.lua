@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774200791
+ItemStorageDB_LastUpdate = 1774200823
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12809,7 +12809,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-22 19:01:10",
+        updated_at = "2026-03-22 19:33:29",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -14396,6 +14396,42 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "5",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2991:0:0:0:0:0:0:0:10|h[Вороненые сапоги]|h|r",
+                name = "Вороненые сапоги",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2978:0:0:0:0:0:0:0:10|h[Поножи ветерана]|h|r",
+                name = "Поножи ветерана",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6553:0:0:0:0:0:588:0:10|h[Брюки барда со знаком мартышки]|h|r",
+                name = "Брюки барда со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "13",
+                    retention = "",
                 },
             },
             {
