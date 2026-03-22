@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774198757
+ItemStorageDB_LastUpdate = 1774198819
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15557,7 +15557,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-22 03:35:05",
+        updated_at = "2026-03-22 19:00:04",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -15685,7 +15685,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
                 name = "Ползучий кошмарник",
-                count = 153,
+                count = 138,
                 details = {
                     quality = 1,
                     type = "",
