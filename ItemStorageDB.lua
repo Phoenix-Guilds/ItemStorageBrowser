@@ -1,10 +1,10 @@
-ItemStorageDB_LastUpdate = 1774153059
+ItemStorageDB_LastUpdate = 1774162735
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-21 23:21:36",
+        updated_at = "2026-03-21 18:22:10",
         money = 9404,
-        empty = 15,
+        empty = 0,
         location = "Оргриммар",
         items = {
             {
@@ -586,7 +586,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42743:0:0:0:0:0:0:0:10|h[Символ ледяного доспеха]|h|r",
                 name = "Символ ледяного доспеха",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
@@ -610,7 +610,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                 name = "Символ замедленного падения",
-                count = 12,
+                count = 13,
                 details = {
                     quality = 1,
                     type = "",
@@ -1184,6 +1184,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
+                name = "Символ вызывающего рева",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "28",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:45604:0:0:0:0:0:0:0:10|h[Символ дикого рева]|h|r",
                 name = "Символ дикого рева",
                 count = 3,
@@ -1204,18 +1216,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
-                name = "Символ вызывающего рева",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "28",
                     retention = "",
                 },
             },
