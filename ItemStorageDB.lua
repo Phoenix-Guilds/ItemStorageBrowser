@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774299745
+ItemStorageDB_LastUpdate = 1774300017
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10133,7 +10133,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-22 19:43:34",
+        updated_at = "2026-03-23 23:06:29",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -10237,7 +10237,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
                 name = "Малый сверкающий осколок",
-                count = 102,
+                count = 97,
                 details = {
                     quality = 3,
                     type = "",
@@ -10333,7 +10333,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -10465,7 +10465,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
                 name = "Пыль иллюзий",
-                count = 10,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
