@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774384393
+ItemStorageDB_LastUpdate = 1774384531
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1751,7 +1751,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-24 20:31:48",
+        updated_at = "2026-03-24 22:35:09",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1985,13 +1985,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
-                name = "Изогнутый мясницкий нож",
-                count = 2,
+                link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
+                name = "Кортик Новолуния",
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Топор",
+                    subtype = "Кинжал",
                     required_level = "40",
                     retention = "Одноручное",
                 },
@@ -2225,18 +2225,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
-                name = "Дубина Ракзура",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "16",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
                 name = "Клинок титанов",
                 count = 2,
@@ -2401,6 +2389,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "18",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
+                name = "Дубина Ракзура",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "16",
                     retention = "Двуручное",
                 },
             },
@@ -2753,18 +2753,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
-                name = "Кортик Новолуния",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "40",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13015:0:0:0:0:0:0:0:10|h[Сератил]|h|r",
                 name = "Сератил",
                 count = 2,
@@ -2833,6 +2821,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "44",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
+                name = "Клинок фанатика",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "29",
                     retention = "Одноручное",
                 },
             },
@@ -2921,6 +2921,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
+                name = "Рыцарский щит Красной бороды",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
                 name = "Жезл расплавленного огня",
                 count = 1,
@@ -2933,15 +2945,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
-                name = "Рыцарский щит Красной бороды",
+                link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
+                name = "Изогнутый мясницкий нож",
                 count = 1,
                 details = {
                     quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "19",
-                    retention = "",
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "40",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -3013,18 +3025,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "32",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
-                name = "Клинок фанатика",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "29",
                     retention = "Одноручное",
                 },
             },
