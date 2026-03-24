@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774383415
+ItemStorageDB_LastUpdate = 1774383477
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5117,7 +5117,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-03-24 19:31:59",
+        updated_at = "2026-03-24 22:17:27",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -5521,7 +5521,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "",
