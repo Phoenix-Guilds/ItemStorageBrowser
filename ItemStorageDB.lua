@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774369208
+ItemStorageDB_LastUpdate = 1774369300
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3389,7 +3389,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-24 18:18:00",
+        updated_at = "2026-03-24 18:21:22",
         money = 13330,
         empty = 0,
         location = "Оргриммар",
@@ -3419,18 +3419,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:24705:0:0:0:0:0:-40:38:10|h[Хаал\'ешская шляпа с меткой преступника]|h|r",
-                name = "Хаал\'ешская шляпа с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "58",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25058:0:0:0:0:0:-36:21:10|h[Колье Ангелисты с меткой волшебника]|h|r",
                 name = "Колье Ангелисты с меткой волшебника",
                 count = 1,
@@ -3451,18 +3439,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "59",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:24701:0:0:0:0:0:-40:29:10|h[Хаал\'ешский шнурованный ремень с меткой преступника]|h|r",
-                name = "Хаал\'ешский шнурованный ремень с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "58",
                     retention = "",
                 },
             },
@@ -3499,18 +3475,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "59",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:24708:0:0:0:0:0:-40:21:10|h[Хаал\'ешские наручники с меткой преступника]|h|r",
-                name = "Хаал\'ешские наручники с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "58",
                     retention = "",
                 },
             },
