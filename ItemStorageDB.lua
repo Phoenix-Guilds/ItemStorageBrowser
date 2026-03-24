@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774385891
+ItemStorageDB_LastUpdate = 1774386014
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16715,7 +16715,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-03-20 12:24:35",
+        updated_at = "2026-03-24 22:59:56",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -16753,18 +16753,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "76",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37787:0:0:0:0:0:0:0:10|h[Великий рогатый шлем непреклонности]|h|r",
-                name = "Великий рогатый шлем непреклонности",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "75",
                     retention = "",
                 },
             },
@@ -17173,18 +17161,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "66",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44670:0:0:0:0:0:-41:75:10|h[Пояс Печати душ с меткой зверя]|h|r",
-                name = "Пояс Печати душ с меткой зверя",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "70",
                     retention = "",
                 },
             },
@@ -18709,18 +18685,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "71",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31229:0:0:0:0:0:-40:40:10|h[Оперенный боевой пояс с меткой преступника]|h|r",
-                name = "Оперенный боевой пояс с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "62",
                     retention = "",
                 },
             },
