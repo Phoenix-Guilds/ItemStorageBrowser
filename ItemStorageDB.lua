@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774390514
+ItemStorageDB_LastUpdate = 1774390576
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8489,7 +8489,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-03-24 18:58:01",
+        updated_at = "2026-03-25 00:15:54",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -8545,7 +8545,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
                 name = "Нордскольское яйцо",
-                count = 51,
+                count = 57,
                 details = {
                     quality = 1,
                     type = "",
@@ -8855,6 +8855,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
+                name = "Жилистая волчатина",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:769:0:0:0:0:0:0:0:10|h[Кусок кабанины]|h|r",
                 name = "Кусок кабанины",
                 count = 111,
@@ -8927,6 +8939,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
+                name = "Постный волчий бок",
+                count = 4,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
+                name = "Хрустящая паучья лапка",
+                count = 24,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
+                name = "Хрустящее паучье мясо",
+                count = 30,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2924:0:0:0:0:0:0:0:10|h[Мясо кроколиска]|h|r",
                 name = "Мясо кроколиска",
                 count = 9,
@@ -8941,7 +8989,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
                 name = "Мясо моллюска",
-                count = 3,
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
@@ -9002,18 +9050,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:5466:0:0:0:0:0:0:0:10|h[Жало скорпида]|h|r",
                 name = "Жало скорпида",
                 count = 20,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
-                name = "Жилистая волчатина",
-                count = 10,
                 details = {
                     quality = 1,
                     type = "",
@@ -9133,7 +9169,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
                 name = "Нежное мясо кроколиска",
-                count = 126,
+                count = 137,
                 details = {
                     quality = 1,
                     type = "",
@@ -9191,30 +9227,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
-                name = "Хрустящая паучья лапка",
-                count = 24,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
-                name = "Хрустящее паучье мясо",
-                count = 30,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
                 name = "Красное волчье мясо",
                 count = 131,
@@ -9229,7 +9241,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
                 name = "Мясо тигра",
-                count = 78,
+                count = 131,
                 details = {
                     quality = 1,
                     type = "",
@@ -9241,7 +9253,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12184:0:0:0:0:0:0:0:10|h[Плоть ящера]|h|r",
                 name = "Плоть ящера",
-                count = 90,
+                count = 104,
                 details = {
                     quality = 1,
                     type = "",
