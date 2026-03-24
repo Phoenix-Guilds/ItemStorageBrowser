@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774372367
+ItemStorageDB_LastUpdate = 1774372556
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15572,8 +15572,8 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-24 19:02:08",
-        money = 105542,
+        updated_at = "2026-03-24 19:15:32",
+        money = 107542,
         empty = 0,
         location = "Оргриммар",
         items = {
@@ -15724,7 +15724,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                 name = "Рулон шелка",
-                count = 377,
+                count = 554,
                 details = {
                     quality = 1,
                     type = "",
@@ -15832,7 +15832,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                 name = "Рулон льняной ткани",
-                count = 262,
+                count = 362,
                 details = {
                     quality = 1,
                     type = "",
@@ -15844,19 +15844,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 1248,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
-                name = "Рулон шерсти",
-                count = 467,
+                count = 948,
                 details = {
                     quality = 1,
                     type = "",
@@ -15880,7 +15868,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 1808,
+                count = 1100,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
+                name = "Рулон шерсти",
+                count = 467,
                 details = {
                     quality = 1,
                     type = "",
