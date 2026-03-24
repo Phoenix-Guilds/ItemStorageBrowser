@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774371618
+ItemStorageDB_LastUpdate = 1774371740
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15572,7 +15572,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-24 18:19:38",
+        updated_at = "2026-03-24 19:02:08",
         money = 105542,
         empty = 0,
         location = "Оргриммар",
@@ -15617,6 +15617,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:21881:0:0:0:0:0:0:0:10|h[Шелковая паутина Пустоты]|h|r",
                 name = "Шелковая паутина Пустоты",
                 count = 54,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:14048:0:0:0:0:0:0:0:10|h[Рулон рунической ткани]|h|r",
+                name = "Рулон рунической ткани",
+                count = 43,
                 details = {
                     quality = 1,
                     type = "",
@@ -15760,7 +15772,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4589:0:0:0:0:0:0:0:10|h[Длинное элегантное перо]|h|r",
                 name = "Длинное элегантное перо",
-                count = 81,
+                count = 98,
                 details = {
                     quality = 1,
                     type = "",
@@ -15857,18 +15869,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
                 count = 304,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:14048:0:0:0:0:0:0:0:10|h[Рулон рунической ткани]|h|r",
-                name = "Рулон рунической ткани",
-                count = 43,
                 details = {
                     quality = 1,
                     type = "",
