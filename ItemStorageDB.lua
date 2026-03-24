@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774390608
+ItemStorageDB_LastUpdate = 1774390670
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6902,7 +6902,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-03-24 20:01:00",
+        updated_at = "2026-03-25 00:17:34",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -7009,18 +7009,6 @@ ItemStorageDB = {
                 count = 531,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
-                name = "Медный слиток",
-                count = 373,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -7136,9 +7124,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
+                name = "Медный слиток",
+                count = 373,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
                 name = "Золотой слиток",
-                count = 256,
+                count = 300,
                 details = {
                     quality = 2,
                     type = "",
@@ -7153,18 +7153,6 @@ ItemStorageDB = {
                 count = 391,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:36913:0:0:0:0:0:0:0:10|h[Слиток саронита]|h|r",
-                name = "Слиток саронита",
-                count = 3,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -7273,6 +7261,18 @@ ItemStorageDB = {
                 count = 463,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:36913:0:0:0:0:0:0:0:10|h[Слиток саронита]|h|r",
+                name = "Слиток саронита",
+                count = 3,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
