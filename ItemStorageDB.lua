@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774371766
+ItemStorageDB_LastUpdate = 1774371953
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3494,7 +3494,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-24 18:59:15",
+        updated_at = "2026-03-24 19:02:50",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -3562,7 +3562,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35624:0:0:0:0:0:0:0:10|h[Извечная земля]|h|r",
                 name = "Извечная земля",
-                count = 9,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
