@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774386588
+ItemStorageDB_LastUpdate = 1774386680
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19172,7 +19172,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-24 21:49:56",
+        updated_at = "2026-03-24 23:11:15",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -19828,7 +19828,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
                 name = "Чаропламенный плащ",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -20614,18 +20614,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "55",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:18745:0:0:0:0:0:0:0:10|h[Священные матерчатые поножи]|h|r",
-                name = "Священные матерчатые поножи",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "52",
                     retention = "",
                 },
             },
