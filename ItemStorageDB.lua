@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774368994
+ItemStorageDB_LastUpdate = 1774369086
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3389,23 +3389,11 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-15 17:35:59",
+        updated_at = "2026-03-24 18:18:00",
         money = 13330,
         empty = 0,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff1eff00|Hitem:25226:0:0:0:0:0:-40:37:10|h[Коса с меткой преступника]|h|r",
-                name = "Коса с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Древковое",
-                    required_level = "57",
-                    retention = "Двуручное",
-                },
-            },
             {
                 link = "|cff1eff00|Hitem:25240:0:0:0:0:0:-45:12:10|h[Азеротский длинный лук с меткой победителя]|h|r",
                 name = "Азеротский длинный лук с меткой победителя",
@@ -3467,18 +3455,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:24695:0:0:0:0:0:-40:37:10|h[Нагрудник Костеглодов с меткой преступника]|h|r",
-                name = "Нагрудник Костеглодов с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "57",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:24701:0:0:0:0:0:-40:29:10|h[Хаал\'ешский шнурованный ремень с меткой преступника]|h|r",
                 name = "Хаал\'ешский шнурованный ремень с меткой преступника",
                 count = 1,
@@ -3523,18 +3499,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "59",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:24694:0:0:0:0:0:-40:27:10|h[Опорки Костеглодов с меткой преступника]|h|r",
-                name = "Опорки Костеглодов с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "57",
                     retention = "",
                 },
             },
