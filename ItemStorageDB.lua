@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774392740
+ItemStorageDB_LastUpdate = 1774392803
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8525,7 +8525,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-03-25 00:15:54",
+        updated_at = "2026-03-25 00:52:32",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -9133,7 +9133,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12205:0:0:0:0:0:0:0:10|h[Белое мясо паука]|h|r",
                 name = "Белое мясо паука",
-                count = 56,
+                count = 61,
                 details = {
                     quality = 1,
                     type = "",
@@ -9157,7 +9157,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12206:0:0:0:0:0:0:0:10|h[Нежное крабовое мясо]|h|r",
                 name = "Нежное крабовое мясо",
-                count = 56,
+                count = 67,
                 details = {
                     quality = 1,
                     type = "",
@@ -16289,7 +16289,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-25 00:14:22",
+        updated_at = "2026-03-25 00:53:04",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -16571,6 +16571,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
+                name = "Скорополох",
+                count = 97,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
                 count = 171,
@@ -16811,18 +16823,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
-                name = "Скорополох",
-                count = 97,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                 name = "Призрачная поганка",
                 count = 43,
@@ -16897,7 +16897,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
                 name = "Кадгаров ус",
-                count = 104,
+                count = 143,
                 details = {
                     quality = 1,
                     type = "",
@@ -16909,7 +16909,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
-                count = 99,
+                count = 149,
                 details = {
                     quality = 1,
                     type = "",
