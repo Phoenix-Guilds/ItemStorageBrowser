@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774386680
+ItemStorageDB_LastUpdate = 1774386772
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1751,7 +1751,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-24 22:35:09",
+        updated_at = "2026-03-24 23:12:26",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1879,7 +1879,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:812:0:0:0:0:0:0:0:10|h[Светящийся посох Светлой рощи]|h|r",
                 name = "Светящийся посох Светлой рощи",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 4,
                     type = "2",
