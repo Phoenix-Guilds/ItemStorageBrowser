@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774373219
+ItemStorageDB_LastUpdate = 1774373461
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8228,7 +8228,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-21 23:19:45",
+        updated_at = "2026-03-24 19:30:34",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -8242,6 +8242,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
+                name = "Жареное крыло канюка",
+                count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
                     retention = "",
                 },
             },
@@ -8260,7 +8272,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 15,
+                count = 54,
                 details = {
                     quality = 1,
                     type = "",
@@ -8344,7 +8356,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
                 name = "Радужное перо",
-                count = 25,
+                count = 30,
                 details = {
                     quality = 1,
                     type = "",
@@ -8368,7 +8380,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 373,
+                count = 465,
                 details = {
                     quality = 1,
                     type = "",
