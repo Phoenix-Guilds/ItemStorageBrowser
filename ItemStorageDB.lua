@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774393801
+ItemStorageDB_LastUpdate = 1774393982
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10097,7 +10097,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-24 19:58:08",
+        updated_at = "2026-03-25 01:12:36",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -10465,7 +10465,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
                 name = "Сонная пыль",
-                count = 336,
+                count = 200,
                 details = {
                     quality = 1,
                     type = "",
