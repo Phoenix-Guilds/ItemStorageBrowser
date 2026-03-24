@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774384994
+ItemStorageDB_LastUpdate = 1774385194
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15374,7 +15374,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-03-24 21:48:12",
+        updated_at = "2026-03-24 22:46:17",
         money = 59245,
         empty = 15,
         location = "Оргриммар",
@@ -15454,7 +15454,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:30744:0:0:0:0:0:0:0:10|h[Дренейская кожаная сума]|h|r",
                 name = "Дренейская кожаная сума",
-                count = 33,
+                count = 29,
                 details = {
                     quality = 2,
                     type = "",
