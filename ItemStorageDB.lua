@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774385225
+ItemStorageDB_LastUpdate = 1774385408
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12917,7 +12917,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-24 18:51:15",
+        updated_at = "2026-03-24 22:50:03",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -13057,7 +13057,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:39509:1892:0:0:0:0:-18:6:10|h[Жилет Новолуния со знаком ловкости]|h|r",
                 name = "Жилет Новолуния со знаком ловкости",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -13939,18 +13939,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "19",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3314:904:0:0:0:0:0:0:10|h[Парадные кожаные перчатки]|h|r",
-                name = "Парадные кожаные перчатки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
                     retention = "",
                 },
             },
