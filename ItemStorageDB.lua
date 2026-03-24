@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774392803
+ItemStorageDB_LastUpdate = 1774392897
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7319,7 +7319,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-25 00:18:20",
+        updated_at = "2026-03-25 00:54:27",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7567,7 +7567,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
                 name = "Маленький флакон с зельем маны",
-                count = 127,
+                count = 131,
                 details = {
                     quality = 1,
                     type = "",
@@ -7585,6 +7585,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3383:0:0:0:0:0:0:0:10|h[Эликсир мудрости]|h|r",
+                name = "Эликсир мудрости",
+                count = 100,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "10",
                     retention = "",
                 },
             },
@@ -7705,6 +7717,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "24",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
+                name = "Эликсир великанов",
+                count = 34,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "38",
                     retention = "",
                 },
             },
@@ -7841,18 +7865,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3383:0:0:0:0:0:0:0:10|h[Эликсир мудрости]|h|r",
-                name = "Эликсир мудрости",
-                count = 100,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:3384:0:0:0:0:0:0:0:10|h[Слабое зелье защиты от магии]|h|r",
                 name = "Слабое зелье защиты от магии",
                 count = 15,
@@ -7891,7 +7903,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                 name = "Крохотный флакон с зельем маны",
-                count = 50,
+                count = 55,
                 details = {
                     quality = 1,
                     type = "",
@@ -7903,7 +7915,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:858:0:0:0:0:0:0:0:10|h[Маленький флакон с лечебным зельем]|h|r",
                 name = "Маленький флакон с лечебным зельем",
-                count = 64,
+                count = 89,
                 details = {
                     quality = 1,
                     type = "",
@@ -7976,18 +7988,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:40068:0:0:0:0:0:0:0:10|h[Эликсир гнева]|h|r",
                 name = "Эликсир гнева",
                 count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:40076:0:0:0:0:0:0:0:10|h[Эликсир гуру]|h|r",
-                name = "Эликсир гуру",
-                count = 35,
                 details = {
                     quality = 1,
                     type = "",
@@ -8105,14 +8105,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
-                name = "Эликсир великанов",
-                count = 34,
+                link = "|cffffffff|Hitem:40076:0:0:0:0:0:0:0:10|h[Эликсир гуру]|h|r",
+                name = "Эликсир гуру",
+                count = 35,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "38",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -15779,7 +15779,7 @@ ItemStorageDB = {
     },
     {
         name = "Тернистая",
-        updated_at = "2026-03-24 23:47:00",
+        updated_at = "2026-03-25 00:53:52",
         money = 5468,
         empty = 0,
         location = "Оргриммар",
@@ -15799,7 +15799,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2734:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 10]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 10",
-                count = 40,
+                count = 41,
                 details = {
                     quality = 1,
                     type = "",
@@ -15895,7 +15895,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2749:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 25]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 25",
-                count = 42,
+                count = 43,
                 details = {
                     quality = 1,
                     type = "",
@@ -15943,7 +15943,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2730:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 6]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 6",
-                count = 45,
+                count = 47,
                 details = {
                     quality = 1,
                     type = "",
