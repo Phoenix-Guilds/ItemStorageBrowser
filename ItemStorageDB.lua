@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774376277
+ItemStorageDB_LastUpdate = 1774376308
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20885,7 +20885,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-24 18:42:28",
+        updated_at = "2026-03-24 20:18:22",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -21151,18 +21151,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "55",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
-                name = "Колье Ярости Реки",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "28",
                     retention = "",
                 },
             },
@@ -21445,12 +21433,24 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                 name = "Сила Утера",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Аксессуар",
                     required_level = "47",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
+                name = "Колье Ярости Реки",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "28",
                     retention = "",
                 },
             },
