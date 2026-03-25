@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774457784
+ItemStorageDB_LastUpdate = 1774457816
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8252,7 +8252,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-24 19:45:58",
+        updated_at = "2026-03-25 18:56:47",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -8500,7 +8500,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                 name = "Зеленый кожаный доспех",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -8512,7 +8512,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 22,
+                count = 21,
                 details = {
                     quality = 2,
                     type = "2",
