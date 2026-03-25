@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774426415
+ItemStorageDB_LastUpdate = 1774426447
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19340,7 +19340,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-25 00:42:14",
+        updated_at = "2026-03-25 10:14:05",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -19538,18 +19538,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
-                name = "Сапоги Фьюрена",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "39",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
                 name = "Эльфийские плетеные сапоги",
                 count = 2,
@@ -19582,6 +19570,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
+                name = "Штаны из шкуры василиска",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "38",
                     retention = "",
                 },
             },
@@ -19798,6 +19798,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "48",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
+                name = "Сапоги из пепельной ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "44",
                     retention = "",
                 },
             },
@@ -20342,6 +20354,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
+                name = "Сапоги Фьюрена",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "39",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
                 name = "Сапоги из чешуи равазавра",
                 count = 2,
@@ -20410,18 +20434,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "52",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
-                name = "Сапоги из пепельной ткани",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "44",
                     retention = "",
                 },
             },
@@ -20830,18 +20842,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "41",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
-                name = "Штаны из шкуры василиска",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "38",
                     retention = "",
                 },
             },
