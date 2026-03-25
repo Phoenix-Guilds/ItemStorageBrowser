@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774457237
+ItemStorageDB_LastUpdate = 1774457479
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10085,7 +10085,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-25 01:12:36",
+        updated_at = "2026-03-25 18:51:15",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -10141,7 +10141,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:10|h[Осколок грез]|h|r",
                 name = "Осколок грез",
-                count = 148,
+                count = 100,
                 details = {
                     quality = 3,
                     type = "",
@@ -10478,18 +10478,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:16202:0:0:0:0:0:0:0:10|h[Простая вечная субстанция]|h|r",
                 name = "Простая вечная субстанция",
                 count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11175:0:0:0:0:0:0:0:10|h[Великая субстанция Пустоты]|h|r",
-                name = "Великая субстанция Пустоты",
-                count = 15,
                 details = {
                     quality = 2,
                     type = "",
