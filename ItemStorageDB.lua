@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774457691
+ItemStorageDB_LastUpdate = 1774457753
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20969,7 +20969,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-25 00:51:12",
+        updated_at = "2026-03-25 18:55:26",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -21371,18 +21371,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:12007:0:0:0:0:0:1752:0:10|h[Кольцо прерий с печатью уклонения]|h|r",
-                name = "Кольцо прерий с печатью уклонения",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:11993:0:0:0:0:0:115:0:10|h[Глиняное кольцо со знаком силы]|h|r",
                 name = "Глиняное кольцо со знаком силы",
                 count = 1,
@@ -21709,7 +21697,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
                 name = "Подвеска Агатового Щита",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
