@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774468638
+ItemStorageDB_LastUpdate = 1774468851
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8264,7 +8264,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-25 18:56:47",
+        updated_at = "2026-03-25 22:00:46",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -8450,6 +8450,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
+                name = "Смертоносный мушкетон",
+                count = 18,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
                 name = "Украшенные узором бронзовые наручи",
                 count = 1,
@@ -8518,18 +8530,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "26",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
-                name = "Смертоносный мушкетон",
-                count = 21,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "16",
                     retention = "",
                 },
             },
