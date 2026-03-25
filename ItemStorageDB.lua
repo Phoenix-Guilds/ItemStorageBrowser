@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774426447
+ItemStorageDB_LastUpdate = 1774426630
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9620,7 +9620,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-21 22:48:42",
+        updated_at = "2026-03-25 10:16:58",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -9658,18 +9658,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
-                name = "Пристрелянный огнестрел",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "43",
                     retention = "",
                 },
             },
@@ -9784,7 +9772,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
                 name = "Снайперский прицел",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -10060,7 +10048,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                 name = "Быстроветр",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "2",
