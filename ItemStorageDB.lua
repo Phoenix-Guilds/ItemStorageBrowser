@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774458393
+ItemStorageDB_LastUpdate = 1774458485
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3554,7 +3554,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-25 10:12:26",
+        updated_at = "2026-03-25 19:07:42",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -3610,7 +3610,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35625:0:0:0:0:0:0:0:10|h[Извечная жизнь]|h|r",
                 name = "Извечная жизнь",
-                count = 6,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
@@ -3790,7 +3790,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 7,
+                count = 10,
                 details = {
                     quality = 2,
                     type = "",
@@ -3922,7 +3922,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
                 name = "Кристаллизованная жизнь",
-                count = 15,
+                count = 19,
                 details = {
                     quality = 1,
                     type = "",
@@ -4030,7 +4030,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
-                count = 8,
+                count = 9,
                 details = {
                     quality = 1,
                     type = "",
@@ -4150,7 +4150,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 26,
+                count = 27,
                 details = {
                     quality = 1,
                     type = "",
