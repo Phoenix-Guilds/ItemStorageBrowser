@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774507846
+ItemStorageDB_LastUpdate = 1774507878
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10097,7 +10097,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-25 18:51:15",
+        updated_at = "2026-03-26 08:51:07",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -10153,7 +10153,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:10|h[Осколок грез]|h|r",
                 name = "Осколок грез",
-                count = 100,
+                count = 124,
                 details = {
                     quality = 3,
                     type = "",
@@ -10427,18 +10427,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:34054:0:0:0:0:0:0:0:10|h[Абсолютная пыль]|h|r",
-                name = "Абсолютная пыль",
-                count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22445:0:0:0:0:0:0:0:10|h[Чародейная пыль]|h|r",
                 name = "Чародейная пыль",
                 count = 25,
@@ -10576,6 +10564,18 @@ ItemStorageDB = {
                 count = 15,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:34054:0:0:0:0:0:0:0:10|h[Абсолютная пыль]|h|r",
+                name = "Абсолютная пыль",
+                count = 4,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
