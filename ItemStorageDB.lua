@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774507178
+ItemStorageDB_LastUpdate = 1774507243
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5762,7 +5762,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-25 19:19:58",
+        updated_at = "2026-03-26 08:40:02",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -5950,7 +5950,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4232:0:0:0:0:0:0:0:10|h[Средняя шкура]|h|r",
                 name = "Средняя шкура",
-                count = 83,
+                count = 85,
                 details = {
                     quality = 1,
                     type = "",
@@ -16325,7 +16325,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-25 19:11:11",
+        updated_at = "2026-03-26 08:40:33",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -16717,7 +16717,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 106,
+                count = 150,
                 details = {
                     quality = 1,
                     type = "",
@@ -16741,7 +16741,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
                 name = "Могильный мох",
-                count = 2,
+                count = 22,
                 details = {
                     quality = 1,
                     type = "",
@@ -16849,7 +16849,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
                 name = "Кровь Грома",
-                count = 58,
+                count = 61,
                 details = {
                     quality = 1,
                     type = "",
@@ -16897,7 +16897,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
                 name = "Слезы Артаса",
-                count = 1,
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
