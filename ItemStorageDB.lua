@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1774510387
+ItemStorageDB_LastUpdate = 1774510660
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-25 18:54:37",
+        updated_at = "2026-03-26 09:37:13",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -406,7 +406,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42967:0:0:0:0:0:0:0:10|h[Символ кровоизлияния]|h|r",
                 name = "Символ кровоизлияния",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -1220,6 +1220,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:42965:0:0:0:0:0:0:0:10|h[Символ призрачного удара]|h|r",
+                name = "Символ призрачного удара",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:40912:0:0:0:0:0:0:0:10|h[Символ восстановления]|h|r",
                 name = "Символ восстановления",
                 count = 10,
@@ -1642,7 +1654,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42958:0:0:0:0:0:0:0:10|h[Символ калечащего яда]|h|r",
                 name = "Символ калечащего яда",
-                count = 8,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
