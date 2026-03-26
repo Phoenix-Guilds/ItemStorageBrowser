@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774555003
+ItemStorageDB_LastUpdate = 1774555034
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21425,7 +21425,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-26 20:46:08",
+        updated_at = "2026-03-26 21:57:10",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -21695,18 +21695,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:12040:0:0:0:0:0:167:0:10|h[Лесная подвеска со знаком ловкости]|h|r",
-                name = "Лесная подвеска со знаком ловкости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "33",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
                 name = "Аквамариновая подвеска воина",
                 count = 2,
@@ -21745,7 +21733,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
                 name = "Крест Жизни",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -22103,6 +22091,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:12040:0:0:0:0:0:167:0:10|h[Лесная подвеска со знаком ловкости]|h|r",
+                name = "Лесная подвеска со знаком ловкости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7552:0:0:0:0:0:0:0:10|h[Драгоценность Сокола]|h|r",
+                name = "Драгоценность Сокола",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "39",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:11987:0:0:0:0:0:772:0:10|h[Иридиевый обруч со знаком совы]|h|r",
                 name = "Иридиевый обруч со знаком совы",
                 count = 1,
@@ -22247,6 +22259,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:12013:0:0:0:0:0:688:0:10|h[Кольцо пустыни со знаком тигра]|h|r",
+                name = "Кольцо пустыни со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "44",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:21765:0:0:0:0:0:0:0:10|h[Целительное кольцо из истинного серебра]|h|r",
                 name = "Целительное кольцо из истинного серебра",
                 count = 2,
@@ -22255,18 +22279,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "43",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7552:0:0:0:0:0:0:0:10|h[Драгоценность Сокола]|h|r",
-                name = "Драгоценность Сокола",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "39",
                     retention = "",
                 },
             },
