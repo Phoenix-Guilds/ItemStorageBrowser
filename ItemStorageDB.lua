@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774510660
+ItemStorageDB_LastUpdate = 1774510933
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10241,7 +10241,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-26 08:51:07",
+        updated_at = "2026-03-26 09:42:08",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -10321,7 +10321,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
                 name = "Малый радужный осколок",
-                count = 50,
+                count = 63,
                 details = {
                     quality = 3,
                     type = "",
@@ -10357,19 +10357,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:11178:0:0:0:0:0:0:0:10|h[Большой светозарный осколок]|h|r",
                 name = "Большой светозарный осколок",
-                count = 14,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11177:0:0:0:0:0:0:0:10|h[Малый светозарный осколок]|h|r",
-                name = "Малый светозарный осколок",
-                count = 158,
+                count = 23,
                 details = {
                     quality = 3,
                     type = "",
@@ -10477,7 +10465,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
                 name = "Пыль духа",
-                count = 380,
+                count = 583,
                 details = {
                     quality = 1,
                     type = "",
@@ -10489,9 +10477,33 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
-                count = 322,
+                count = 450,
                 details = {
                     quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
+                name = "Пыль провидения",
+                count = 175,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:11177:0:0:0:0:0:0:0:10|h[Малый светозарный осколок]|h|r",
+                name = "Малый светозарный осколок",
+                count = 163,
+                details = {
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -10513,7 +10525,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:11138:0:0:0:0:0:0:0:10|h[Малый светящийся осколок]|h|r",
                 name = "Малый светящийся осколок",
-                count = 59,
+                count = 68,
                 details = {
                     quality = 3,
                     type = "",
@@ -10525,7 +10537,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:11084:0:0:0:0:0:0:0:10|h[Большой мерцающий осколок]|h|r",
                 name = "Большой мерцающий осколок",
-                count = 70,
+                count = 128,
                 details = {
                     quality = 3,
                     type = "",
@@ -10537,153 +10549,9 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
                 name = "Малый мерцающий осколок",
-                count = 92,
+                count = 93,
                 details = {
                     quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:34055:0:0:0:0:0:0:0:10|h[Великая космическая субстанция]|h|r",
-                name = "Великая космическая субстанция",
-                count = 45,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:22447:0:0:0:0:0:0:0:10|h[Простая планарная субстанция]|h|r",
-                name = "Простая планарная субстанция",
-                count = 20,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22445:0:0:0:0:0:0:0:10|h[Чародейная пыль]|h|r",
-                name = "Чародейная пыль",
-                count = 25,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
-                name = "Пыль иллюзий",
-                count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
-                name = "Сонная пыль",
-                count = 200,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
-                name = "Пыль провидения",
-                count = 36,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:16202:0:0:0:0:0:0:0:10|h[Простая вечная субстанция]|h|r",
-                name = "Простая вечная субстанция",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11174:0:0:0:0:0:0:0:10|h[Простая субстанция Пустоты]|h|r",
-                name = "Простая субстанция Пустоты",
-                count = 5,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
-                name = "Великая таинственная субстанция",
-                count = 90,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11134:0:0:0:0:0:0:0:10|h[Простая таинственная субстанция]|h|r",
-                name = "Простая таинственная субстанция",
-                count = 23,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11082:0:0:0:0:0:0:0:10|h[Великая астральная субстанция]|h|r",
-                name = "Великая астральная субстанция",
-                count = 77,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:10998:0:0:0:0:0:0:0:10|h[Простая Астральная субстанция]|h|r",
-                name = "Простая Астральная субстанция",
-                count = 6,
-                details = {
-                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -10720,6 +10588,150 @@ ItemStorageDB = {
                 count = 4,
                 details = {
                     quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22445:0:0:0:0:0:0:0:10|h[Чародейная пыль]|h|r",
+                name = "Чародейная пыль",
+                count = 68,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
+                name = "Пыль иллюзий",
+                count = 4,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
+                name = "Сонная пыль",
+                count = 250,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:34055:0:0:0:0:0:0:0:10|h[Великая космическая субстанция]|h|r",
+                name = "Великая космическая субстанция",
+                count = 83,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:34056:0:0:0:0:0:0:0:10|h[Малая космическая субстанция]|h|r",
+                name = "Малая космическая субстанция",
+                count = 39,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:22447:0:0:0:0:0:0:0:10|h[Простая планарная субстанция]|h|r",
+                name = "Простая планарная субстанция",
+                count = 20,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:16202:0:0:0:0:0:0:0:10|h[Простая вечная субстанция]|h|r",
+                name = "Простая вечная субстанция",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11174:0:0:0:0:0:0:0:10|h[Простая субстанция Пустоты]|h|r",
+                name = "Простая субстанция Пустоты",
+                count = 5,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
+                name = "Великая таинственная субстанция",
+                count = 140,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11134:0:0:0:0:0:0:0:10|h[Простая таинственная субстанция]|h|r",
+                name = "Простая таинственная субстанция",
+                count = 23,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11082:0:0:0:0:0:0:0:10|h[Великая астральная субстанция]|h|r",
+                name = "Великая астральная субстанция",
+                count = 98,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10998:0:0:0:0:0:0:0:10|h[Простая Астральная субстанция]|h|r",
+                name = "Простая Астральная субстанция",
+                count = 6,
+                details = {
+                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
