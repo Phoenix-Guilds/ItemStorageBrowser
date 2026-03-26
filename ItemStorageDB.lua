@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774507878
+ItemStorageDB_LastUpdate = 1774507971
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3449,7 +3449,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-24 18:21:22",
+        updated_at = "2026-03-26 08:52:33",
         money = 13330,
         empty = 0,
         location = "Оргриммар",
@@ -3479,6 +3479,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:24705:0:0:0:0:0:-40:38:10|h[Хаал\'ешская шляпа с меткой преступника]|h|r",
+                name = "Хаал\'ешская шляпа с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24585:0:0:0:0:0:-38:37:10|h[Хиджаб чужеземца с меткой пророка]|h|r",
+                name = "Хиджаб чужеземца с меткой пророка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:25058:0:0:0:0:0:-36:21:10|h[Колье Ангелисты с меткой волшебника]|h|r",
                 name = "Колье Ангелисты с меткой волшебника",
                 count = 1,
@@ -3503,8 +3527,56 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:24816:0:0:0:0:0:-40:38:10|h[Плетеный нагрудник Камня Скверны с меткой преступника]|h|r",
+                name = "Плетеный нагрудник Камня Скверны с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24920:0:0:0:0:0:-41:37:10|h[Броня Лютой чешуи с меткой зверя]|h|r",
+                name = "Броня Лютой чешуи с меткой зверя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24701:0:0:0:0:0:-40:29:10|h[Хаал\'ешский шнурованный ремень с меткой преступника]|h|r",
+                name = "Хаал\'ешский шнурованный ремень с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:24693:0:0:0:0:0:-7:27:10|h[Кожаный ремень Костеглодов со знаком медведя]|h|r",
                 name = "Кожаный ремень Костеглодов со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24693:0:0:0:0:0:-40:27:10|h[Кожаный ремень Костеглодов с меткой преступника]|h|r",
+                name = "Кожаный ремень Костеглодов с меткой преступника",
                 count = 1,
                 details = {
                     quality = 2,
@@ -3535,6 +3607,42 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24821:0:0:0:0:0:-39:21:10|h[Наручники Камня Скверны с меткой заклинателя]|h|r",
+                name = "Наручники Камня Скверны с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24600:0:0:0:0:0:-39:30:10|h[Перчатки Звездного огня с меткой заклинателя]|h|r",
+                name = "Перчатки Звездного огня с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24584:0:0:0:0:0:-38:27:10|h[Перчатки чужеземца с меткой пророка]|h|r",
+                name = "Перчатки чужеземца с меткой пророка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "57",
                     retention = "",
                 },
             },
