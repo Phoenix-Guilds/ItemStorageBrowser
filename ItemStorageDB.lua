@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774508155
+ItemStorageDB_LastUpdate = 1774508217
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17090,7 +17090,7 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        updated_at = "2026-03-24 18:57:12",
+        updated_at = "2026-03-26 08:56:27",
         money = 14451,
         empty = 0,
         location = "Оргриммар",
@@ -17110,7 +17110,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4402:0:0:0:0:0:0:0:10|h[Малая пламенная железа]|h|r",
                 name = "Малая пламенная железа",
-                count = 37,
+                count = 46,
                 details = {
                     quality = 1,
                     type = "",
