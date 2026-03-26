@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774550551
+ItemStorageDB_LastUpdate = 1774550682
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7595,7 +7595,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-26 10:16:30",
+        updated_at = "2026-03-26 20:42:38",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7915,7 +7915,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6662:0:0:0:0:0:0:0:10|h[Эликсир увеличения]|h|r",
                 name = "Эликсир увеличения",
-                count = 15,
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
@@ -19808,7 +19808,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-26 20:34:26",
+        updated_at = "2026-03-26 20:44:40",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -19900,7 +19900,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
                 name = "Шлем Маг-Тола",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -20470,18 +20470,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:10413:904:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
-                name = "Перчатки Клыка",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "14",
                     retention = "",
                 },
             },
@@ -21196,7 +21184,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
                 name = "Наплеч Змееубийцы",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
