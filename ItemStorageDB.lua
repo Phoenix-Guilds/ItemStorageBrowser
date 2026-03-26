@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774554692
+ItemStorageDB_LastUpdate = 1774554767
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16589,7 +16589,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-26 21:27:21",
+        updated_at = "2026-03-26 21:52:10",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -17063,6 +17063,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
+                name = "Бледнолист",
+                count = 54,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                 name = "Корень жизни",
                 count = 66,
@@ -17077,7 +17089,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 140,
+                count = 151,
                 details = {
                     quality = 1,
                     type = "",
@@ -17089,7 +17101,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 63,
+                count = 67,
                 details = {
                     quality = 1,
                     type = "",
@@ -17209,7 +17221,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
                 name = "Кадгаров ус",
-                count = 149,
+                count = 151,
                 details = {
                     quality = 1,
                     type = "",
@@ -17222,18 +17234,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
                 count = 156,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
-                name = "Бледнолист",
-                count = 54,
                 details = {
                     quality = 1,
                     type = "",
