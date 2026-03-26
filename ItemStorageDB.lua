@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774506964
+ItemStorageDB_LastUpdate = 1774507116
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13073,7 +13073,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-25 10:07:21",
+        updated_at = "2026-03-26 08:38:31",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -14768,6 +14768,114 @@ ItemStorageDB = {
                     subtype = "Топор",
                     required_level = "5",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:38318:0:0:0:0:0:-73:6:10|h[Одеяние Новолуния с меткой старца]|h|r",
+                name = "Одеяние Новолуния с меткой старца",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6560:0:0:0:0:0:1180:0:10|h[Солдатский щит со знаком медведя]|h|r",
+                name = "Солдатский щит со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3202:0:0:0:0:0:0:0:10|h[Лесные кожаные наручи]|h|r",
+                name = "Лесные кожаные наручи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-78:6:10|h[Жилет Новолуния со знаком мартышки]|h|r",
+                name = "Жилет Новолуния со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:39509:0:0:0:0:0:-14:6:10|h[Жилет Новолуния со знаком тигра]|h|r",
+                name = "Жилет Новолуния со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15122:0:0:0:0:0:846:0:10|h[Прочные наручи со знаком орла]|h|r",
+                name = "Прочные наручи со знаком орла",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2991:0:0:0:0:0:0:0:10|h[Вороненые сапоги]|h|r",
+                name = "Вороненые сапоги",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3309:0:0:0:0:0:0:0:10|h[Варварская набедренная повязка]|h|r",
+                name = "Варварская набедренная повязка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "11",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:39507:0:0:0:0:0:-86:6:10|h[Плетеная рубашка Новолуния с меткой солдата]|h|r",
+                name = "Плетеная рубашка Новолуния с меткой солдата",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "10",
+                    retention = "",
                 },
             },
             {
