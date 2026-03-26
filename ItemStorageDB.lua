@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774513816
+ItemStorageDB_LastUpdate = 1774513908
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7178,7 +7178,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-03-26 10:04:03",
+        updated_at = "2026-03-26 10:31:33",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -7364,6 +7364,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:11371:0:0:0:0:0:0:0:10|h[Слиток черного железа]|h|r",
+                name = "Слиток черного железа",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                 name = "Мифриловая руда",
                 count = 170,
@@ -7414,7 +7426,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
                 name = "Золотой слиток",
-                count = 350,
+                count = 352,
                 details = {
                     quality = 2,
                     type = "",
@@ -7438,7 +7450,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
                 name = "Серебряный слиток",
-                count = 492,
+                count = 498,
                 details = {
                     quality = 2,
                     type = "",
@@ -7523,18 +7535,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
                 name = "Зачарованный ториевый слиток",
                 count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11371:0:0:0:0:0:0:0:10|h[Слиток черного железа]|h|r",
-                name = "Слиток черного железа",
-                count = 2,
                 details = {
                     quality = 1,
                     type = "",
