@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774554816
+ItemStorageDB_LastUpdate = 1774554912
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8540,7 +8540,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-26 20:51:03",
+        updated_at = "2026-03-26 21:53:36",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -9623,7 +9623,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-03-19 19:08:56",
+        updated_at = "2026-03-26 21:54:54",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -9631,6 +9631,18 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44688:0:0:0:0:0:-92:65:10|h[Отрубленный клык Лок\'Нахак с меткой оруженосца]|h|r",
                 name = "Отрубленный клык Лок\'Нахак с меткой оруженосца",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "74",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44688:0:0:0:0:0:-93:65:10|h[Отрубленный клык Лок\'Нахак с печатью восстановления]|h|r",
+                name = "Отрубленный клык Лок\'Нахак с печатью восстановления",
                 count = 1,
                 details = {
                     quality = 3,
@@ -9692,18 +9704,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:31196:0:0:0:0:0:0:0:10|h[Амулет посвящения]|h|r",
                 name = "Амулет посвящения",
                 count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "64",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31194:0:0:0:0:0:-5:31:10|h[Боевые бусы Благословения Гроннов со знаком мартышки]|h|r",
-                name = "Боевые бусы Благословения Гроннов со знаком мартышки",
-                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -10874,7 +10874,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-26 10:29:30",
+        updated_at = "2026-03-26 21:54:15",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -12152,18 +12152,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11152:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - рыбная ловля]|h|r",
-                name = "Формула чар для перчаток - рыбная ловля",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:11205:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - травничество II]|h|r",
                 name = "Формула чар для перчаток - травничество II",
                 count = 1,
@@ -12184,6 +12172,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3396:0:0:0:0:0:0:0:10|h[Рецепт: малый эликсир ловкости]|h|r",
+                name = "Рецепт: малый эликсир ловкости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "18",
                     retention = "",
                 },
             },
@@ -12212,6 +12212,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:11038:0:0:0:0:0:0:0:10|h[Формула чар для двуручного оружия - дух I]|h|r",
+                name = "Формула чар для двуручного оружия - дух I",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:18046:0:0:0:0:0:0:0:10|h[Рецепт: нежный стейк из волчатины]|h|r",
                 name = "Рецепт: нежный стейк из волчатины",
                 count = 1,
@@ -12224,8 +12236,20 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11038:0:0:0:0:0:0:0:10|h[Формула чар для двуручного оружия - дух I]|h|r",
-                name = "Формула чар для двуручного оружия - дух I",
+                link = "|cff1eff00|Hitem:11152:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - рыбная ловля]|h|r",
+                name = "Формула чар для перчаток - рыбная ловля",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11206:0:0:0:0:0:0:0:10|h[Формула чар для плаща - ловкость II]|h|r",
+                name = "Формула чар для плаща - ловкость II",
                 count = 1,
                 details = {
                     quality = 2,
