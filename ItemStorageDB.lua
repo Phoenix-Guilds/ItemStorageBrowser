@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774513753
+ItemStorageDB_LastUpdate = 1774513816
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4820,7 +4820,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-26 10:13:46",
+        updated_at = "2026-03-26 10:30:05",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -4960,7 +4960,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 276,
+                count = 287,
                 details = {
                     quality = 2,
                     type = "",
@@ -4972,7 +4972,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                 name = "Тигровый глаз",
-                count = 289,
+                count = 297,
                 details = {
                     quality = 2,
                     type = "",
@@ -4984,7 +4984,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
                 name = "Малахит",
-                count = 285,
+                count = 290,
                 details = {
                     quality = 2,
                     type = "",
@@ -5032,7 +5032,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                 name = "Нефрит",
-                count = 25,
+                count = 29,
                 details = {
                     quality = 2,
                     type = "",
@@ -5044,7 +5044,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                 name = "Малый лунный камень",
-                count = 66,
+                count = 68,
                 details = {
                     quality = 2,
                     type = "",
@@ -10826,7 +10826,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-26 09:25:22",
+        updated_at = "2026-03-26 10:29:30",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -11168,18 +11168,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3608:0:0:0:0:0:0:0:10|h[Чертеж: тяжелый железный молот]|h|r",
-                name = "Чертеж: тяжелый железный молот",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "25",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:3872:0:0:0:0:0:0:0:10|h[Чертеж: золотые чешуйчатые поножи]|h|r",
                 name = "Чертеж: золотые чешуйчатые поножи",
                 count = 1,
@@ -11357,6 +11345,18 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "58",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4301:0:0:0:0:0:0:0:10|h[Выкройка: варварский пояс]|h|r",
+                name = "Выкройка: варварский пояс",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "35",
+                    retention = "",
                 },
             },
             {
@@ -12104,18 +12104,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11038:0:0:0:0:0:0:0:10|h[Формула чар для двуручного оружия - дух I]|h|r",
-                name = "Формула чар для двуручного оружия - дух I",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:11152:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - рыбная ловля]|h|r",
                 name = "Формула чар для перчаток - рыбная ловля",
                 count = 1,
@@ -12164,6 +12152,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:3608:0:0:0:0:0:0:0:10|h[Чертеж: тяжелый железный молот]|h|r",
+                name = "Чертеж: тяжелый железный молот",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "25",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:18046:0:0:0:0:0:0:0:10|h[Рецепт: нежный стейк из волчатины]|h|r",
                 name = "Рецепт: нежный стейк из волчатины",
                 count = 1,
@@ -12172,6 +12172,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11038:0:0:0:0:0:0:0:10|h[Формула чар для двуручного оружия - дух I]|h|r",
+                name = "Формула чар для двуручного оружия - дух I",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
