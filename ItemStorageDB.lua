@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774637810
+ItemStorageDB_LastUpdate = 1774637963
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17255,7 +17255,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-03-27 15:49:03",
+        updated_at = "2026-03-27 20:59:18",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -17477,13 +17477,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37764:0:0:0:0:0:0:0:10|h[Наплечные пластины из клыков гончей Недр]|h|r",
-                name = "Наплечные пластины из клыков гончей Недр",
+                link = "|cff0070dd|Hitem:37796:0:0:0:0:0:0:0:10|h[Накидка связи с землей]|h|r",
+                name = "Накидка связи с землей",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Кожа",
+                    subtype = "Спина",
                     required_level = "72",
                     retention = "",
                 },
@@ -17705,14 +17705,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:44671:0:0:0:0:0:-91:108:10|h[Стеганые набедренники Верховного лорда с меткой стрелка]|h|r",
-                name = "Стеганые набедренники Верховного лорда с меткой стрелка",
+                link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
+                name = "Тотем бури",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "72",
+                    subtype = "Тотем",
+                    required_level = "60",
                     retention = "",
                 },
             },
@@ -18205,18 +18205,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Спина",
                     required_level = "74",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37796:0:0:0:0:0:0:0:10|h[Накидка связи с землей]|h|r",
-                name = "Накидка связи с землей",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "72",
                     retention = "",
                 },
             },
@@ -18797,18 +18785,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
-                name = "Тотем бури",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Тотем",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:31176:0:0:0:0:0:-45:40:10|h[Латные боевые рукавицы из камнечервя с меткой победителя]|h|r",
                 name = "Латные боевые рукавицы из камнечервя с меткой победителя",
                 count = 1,
@@ -19157,18 +19133,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:44666:0:0:0:0:0:-40:101:10|h[Подушка на сиденье Флумблуба с меткой преступника]|h|r",
-                name = "Подушка на сиденье Флумблуба с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:37753:0:0:0:0:0:0:0:10|h[Одеяние монаха-обманщика]|h|r",
                 name = "Одеяние монаха-обманщика",
                 count = 1,
@@ -19375,18 +19339,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44676:0:0:0:0:0:-39:108:10|h[Поножи Сиреяна с меткой заклинателя]|h|r",
                 name = "Поножи Сиреяна с меткой заклинателя",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "72",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44676:0:0:0:0:0:-40:108:10|h[Поножи Сиреяна с меткой преступника]|h|r",
-                name = "Поножи Сиреяна с меткой преступника",
                 count = 1,
                 details = {
                     quality = 3,
