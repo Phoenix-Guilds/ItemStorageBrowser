@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774636120
+ItemStorageDB_LastUpdate = 1774636182
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19688,7 +19688,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-27 16:30:08",
+        updated_at = "2026-03-27 20:29:14",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -20926,18 +20926,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "54",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
-                name = "Эльфийские плетеные сапоги",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "45",
                     retention = "",
                 },
             },
