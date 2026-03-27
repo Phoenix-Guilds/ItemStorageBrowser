@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774620995
+ItemStorageDB_LastUpdate = 1774621119
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3437,7 +3437,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-27 16:16:16",
+        updated_at = "2026-03-27 16:16:57",
         money = 13330,
         empty = 0,
         location = "Оргриммар",
@@ -3659,15 +3659,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25324:0:0:0:0:0:-41:37:10|h[Гневный посох с меткой зверя]|h|r",
-                name = "Гневный посох с меткой зверя",
+                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-40:12:10|h[Арбалет башни с меткой преступника]|h|r",
+                name = "Арбалет башни с меткой преступника",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "2",
-                    subtype = "Посох",
+                    subtype = "Арбалет",
                     required_level = "57",
-                    retention = "Двуручное",
+                    retention = "",
                 },
             },
             {
@@ -3683,15 +3683,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-40:12:10|h[Арбалет башни с меткой преступника]|h|r",
-                name = "Арбалет башни с меткой преступника",
+                link = "|cff1eff00|Hitem:25324:0:0:0:0:0:-7:37:10|h[Гневный посох со знаком медведя]|h|r",
+                name = "Гневный посох со знаком медведя",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "2",
-                    subtype = "Арбалет",
+                    subtype = "Посох",
                     required_level = "57",
-                    retention = "",
+                    retention = "Двуручное",
                 },
             },
             {
@@ -3704,6 +3704,18 @@ ItemStorageDB = {
                     subtype = "Лук",
                     required_level = "57",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25324:0:0:0:0:0:-41:37:10|h[Гневный посох с меткой зверя]|h|r",
+                name = "Гневный посох с меткой зверя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "57",
+                    retention = "Двуручное",
                 },
             },
         },
@@ -21437,7 +21449,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-26 21:57:10",
+        updated_at = "2026-03-27 16:18:21",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -21707,18 +21719,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
-                name = "Аквамариновая подвеска воина",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "39",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:21764:0:0:0:0:0:0:0:10|h[Рубиновая подвеска огня]|h|r",
                 name = "Рубиновая подвеска огня",
                 count = 2,
@@ -21733,7 +21733,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
                 name = "Пылающая эмблема",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -21769,7 +21769,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                 name = "Сила Утера",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -21947,6 +21947,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
+                name = "Кольцо побегов",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "31",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
                 count = 3,
@@ -22015,18 +22027,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
                     retention = "",
                 },
             },
@@ -22111,6 +22111,42 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
+                name = "Аквамариновая подвеска воина",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "39",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
+                name = "Малахитовая подвеска",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21765:0:0:0:0:0:0:0:10|h[Целительное кольцо из истинного серебра]|h|r",
+                name = "Целительное кольцо из истинного серебра",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "43",
                     retention = "",
                 },
             },
@@ -22279,18 +22315,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "44",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21765:0:0:0:0:0:0:0:10|h[Целительное кольцо из истинного серебра]|h|r",
-                name = "Целительное кольцо из истинного серебра",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "43",
                     retention = "",
                 },
             },
