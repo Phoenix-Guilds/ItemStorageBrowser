@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774620650
+ItemStorageDB_LastUpdate = 1774620682
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10349,7 +10349,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-03-27 15:54:17",
+        updated_at = "2026-03-27 16:11:20",
         money = 9461,
         empty = 0,
         location = "Оргриммар",
@@ -10571,6 +10571,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
+                name = "Пыль духа",
+                count = 597,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
                 count = 450,
@@ -10585,19 +10597,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
                 name = "Пыль провидения",
-                count = 175,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
-                name = "Пыль духа",
-                count = 583,
+                count = 216,
                 details = {
                     quality = 1,
                     type = "",
@@ -10705,7 +10705,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22445:0:0:0:0:0:0:0:10|h[Чародейная пыль]|h|r",
                 name = "Чародейная пыль",
-                count = 68,
+                count = 91,
                 details = {
                     quality = 1,
                     type = "",
@@ -10729,7 +10729,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
                 name = "Сонная пыль",
-                count = 250,
+                count = 266,
                 details = {
                     quality = 1,
                     type = "",
