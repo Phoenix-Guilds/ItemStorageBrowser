@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774641819
+ItemStorageDB_LastUpdate = 1774641911
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9920,7 +9920,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-26 22:22:21",
+        updated_at = "2026-03-27 22:04:42",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -10138,18 +10138,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
-                name = "Зов небес",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "16",
                     retention = "",
                 },
             },
