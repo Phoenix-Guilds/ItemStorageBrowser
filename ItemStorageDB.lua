@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774621547
+ItemStorageDB_LastUpdate = 1774621819
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19820,7 +19820,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-27 16:18:56",
+        updated_at = "2026-03-27 16:30:08",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -20362,18 +20362,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "52",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
-                name = "Наручи Гневливого",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "50",
                     retention = "",
                 },
             },
