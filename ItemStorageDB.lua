@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774618948
+ItemStorageDB_LastUpdate = 1774619040
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17351,7 +17351,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-03-24 22:59:56",
+        updated_at = "2026-03-27 15:43:33",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -18221,18 +18221,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31126:1887:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
-                name = "Перчатки лютости",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:37797:0:0:0:0:0:0:0:10|h[Плащ сообразительности]|h|r",
                 name = "Плащ сообразительности",
                 count = 1,
@@ -19033,18 +19021,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31244:0:0:0:0:0:-40:51:10|h[Штаны из шкуры нага с меткой преступника]|h|r",
-                name = "Штаны из шкуры нага с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "61",
                     retention = "",
                 },
             },
