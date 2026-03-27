@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774619101
+ItemStorageDB_LastUpdate = 1774619134
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1799,7 +1799,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-26 22:15:10",
+        updated_at = "2026-03-27 15:45:10",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1855,7 +1855,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
                 name = "Топор шквала",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 4,
                     type = "2",
@@ -2125,18 +2125,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "36",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:2164:0:0:0:0:0:0:0:10|h[Потрошитель]|h|r",
-                name = "Потрошитель",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "40",
                     retention = "Одноручное",
                 },
             },
@@ -2837,102 +2825,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
-                name = "Убийственный клинок",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "52",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
-                name = "Меч Ханзо",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "50",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:1721:0:0:0:0:0:0:0:10|h[Боевой молот викинга]|h|r",
-                name = "Боевой молот викинга",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "49",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
-                name = "Костегрыз",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "48",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13035:0:0:0:0:0:0:0:10|h[Змеиный тесак]|h|r",
-                name = "Змеиный тесак",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "44",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
-                name = "Жезл расплавленного огня",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                name = "Щит Торсена",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
-                name = "Рыцарский щит Красной бороды",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
                 name = "Коготь Тенеманта",
                 count = 2,
@@ -3026,6 +2918,102 @@ ItemStorageDB = {
                     subtype = "Посох",
                     required_level = "57",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
+                name = "Убийственный клинок",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "52",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
+                name = "Меч Ханзо",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "50",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:1721:0:0:0:0:0:0:0:10|h[Боевой молот викинга]|h|r",
+                name = "Боевой молот викинга",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "49",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
+                name = "Костегрыз",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "48",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13035:0:0:0:0:0:0:0:10|h[Змеиный тесак]|h|r",
+                name = "Змеиный тесак",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "44",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
+                name = "Рыцарский щит Красной бороды",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "19",
+                    retention = "",
                 },
             },
             {
