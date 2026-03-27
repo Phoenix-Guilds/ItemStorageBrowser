@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774636182
+ItemStorageDB_LastUpdate = 1774636304
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21329,7 +21329,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-27 16:18:21",
+        updated_at = "2026-03-27 20:31:36",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -21529,7 +21529,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                 name = "Подвеска Скиби",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -22007,18 +22007,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:21765:0:0:0:0:0:0:0:10|h[Целительное кольцо из истинного серебра]|h|r",
                 name = "Целительное кольцо из истинного серебра",
                 count = 2,
@@ -22111,6 +22099,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "28",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
+                name = "Малахитовая подвеска",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "13",
                     retention = "",
                 },
             },
