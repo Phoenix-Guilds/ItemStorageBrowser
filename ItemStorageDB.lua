@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774621119
+ItemStorageDB_LastUpdate = 1774621151
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19784,7 +19784,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-27 15:56:44",
+        updated_at = "2026-03-27 16:18:56",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -20258,18 +20258,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:16703:0:0:0:0:0:0:0:10|h[Наручи Багрового Тумана]|h|r",
-                name = "Наручи Багрового Тумана",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "52",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:16714:0:0:0:0:0:0:0:10|h[Наручи дикого сердца]|h|r",
                 name = "Наручи дикого сердца",
                 count = 2,
@@ -20414,14 +20402,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
-                name = "Перчатки Старины",
+                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
+                name = "Светящиеся магические браслеты",
                 count = 2,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "29",
+                    required_level = "26",
                     retention = "",
                 },
             },
@@ -20536,7 +20524,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
                 name = "Мантия тигриного прыжка",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -20590,18 +20578,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Левая рука",
                     required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
-                name = "Светящиеся магические браслеты",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "26",
                     retention = "",
                 },
             },
@@ -20734,6 +20710,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "31",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
+                name = "Перчатки Старины",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "29",
                     retention = "",
                 },
             },
@@ -20890,6 +20878,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "54",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:16703:0:0:0:0:0:0:0:10|h[Наручи Багрового Тумана]|h|r",
+                name = "Наручи Багрового Тумана",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "52",
                     retention = "",
                 },
             },
