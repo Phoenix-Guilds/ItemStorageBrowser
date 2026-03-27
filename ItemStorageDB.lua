@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774641637
+ItemStorageDB_LastUpdate = 1774641819
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19580,7 +19580,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-27 20:29:14",
+        updated_at = "2026-03-27 22:03:19",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -20234,18 +20234,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
-                name = "Перчатки Волшебного кулака",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:18743:0:0:0:0:0:0:0:10|h[Благодатная накидка]|h|r",
                 name = "Благодатная накидка",
                 count = 1,
@@ -20536,7 +20524,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
                 name = "Темнотканые брюки",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
