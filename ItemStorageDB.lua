@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774619771
+ItemStorageDB_LastUpdate = 1774619834
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19736,7 +19736,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-26 22:16:06",
+        updated_at = "2026-03-27 15:56:44",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -20774,18 +20774,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
-                name = "Эльфийские плетеные сапоги",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
                 name = "Сапоги Фьюрена",
                 count = 2,
@@ -20998,6 +20986,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "54",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
+                name = "Эльфийские плетеные сапоги",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "45",
                     retention = "",
                 },
             },
