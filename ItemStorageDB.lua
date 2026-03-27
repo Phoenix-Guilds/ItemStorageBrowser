@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774620931
+ItemStorageDB_LastUpdate = 1774620995
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3437,7 +3437,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-26 08:57:15",
+        updated_at = "2026-03-27 16:16:16",
         money = 13330,
         empty = 0,
         location = "Оргриммар",
@@ -3479,6 +3479,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:24836:0:0:0:0:0:-39:31:10|h[Оплечье скитальца Нексуса с меткой заклинателя]|h|r",
+                name = "Оплечье скитальца Нексуса с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24932:0:0:0:0:0:-7:29:10|h[Анго\'рошское наплечье со знаком медведя]|h|r",
+                name = "Анго\'рошское наплечье со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:24711:0:0:0:0:0:-17:40:10|h[Нагрудник Отмщения со знаком силы]|h|r",
                 name = "Нагрудник Отмщения со знаком силы",
                 count = 1,
@@ -3511,6 +3535,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24926:0:0:0:0:0:-36:29:10|h[Анго\'рошский пояс с меткой волшебника]|h|r",
+                name = "Анго\'рошский пояс с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "58",
                     retention = "",
                 },
             },
@@ -15926,7 +15962,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-03-26 21:53:10",
+        updated_at = "2026-03-27 16:15:36",
         money = 59245,
         empty = 15,
         location = "Оргриммар",
@@ -16030,7 +16066,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4500:0:0:0:0:0:0:0:10|h[Рюкзак путника]|h|r",
                 name = "Рюкзак путника",
-                count = 13,
+                count = 14,
                 details = {
                     quality = 2,
                     type = "",
