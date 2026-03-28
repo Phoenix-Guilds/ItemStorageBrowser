@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774728078
+ItemStorageDB_LastUpdate = 1774728260
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16337,7 +16337,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-03-28 18:02:46",
+        updated_at = "2026-03-28 22:03:51",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -16535,6 +16535,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
+                name = "Масляный черноротик",
+                count = 125,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
                 count = 78,
@@ -16550,18 +16562,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
                 name = "Огнеперый луциан",
                 count = 11,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6371:0:0:0:0:0:0:0:10|h[Зажигательное масло]|h|r",
-                name = "Зажигательное масло",
-                count = 13,
                 details = {
                     quality = 1,
                     type = "",
@@ -16694,18 +16694,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
                 count = 289,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
-                name = "Масляный черноротик",
-                count = 125,
                 details = {
                     quality = 1,
                     type = "",
@@ -16861,7 +16849,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 151,
+                count = 139,
                 details = {
                     quality = 1,
                     type = "",
