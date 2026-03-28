@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774714749
+ItemStorageDB_LastUpdate = 1774714931
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19508,7 +19508,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-28 10:54:34",
+        updated_at = "2026-03-28 18:22:06",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -19942,18 +19942,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "48",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
-                name = "Сапоги из пепельной ткани",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "44",
                     retention = "",
                 },
             },
@@ -20582,6 +20570,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
+                name = "Сапоги из пепельной ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "44",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:8193:0:0:0:0:0:0:0:10|h[Ночные штаны]|h|r",
                 name = "Ночные штаны",
                 count = 2,
@@ -20614,18 +20614,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14660:0:0:0:0:0:0:0:10|h[Наплечные пластины скорпиона]|h|r",
-                name = "Наплечные пластины скорпиона",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "42",
                     retention = "",
                 },
             },
