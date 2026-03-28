@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774727956
+ItemStorageDB_LastUpdate = 1774728078
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1811,7 +1811,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-28 11:58:08",
+        updated_at = "2026-03-28 22:00:57",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2557,18 +2557,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Древковое",
                     required_level = "31",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
-                name = "Вязкий молот",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "30",
                     retention = "Двуручное",
                 },
             },
