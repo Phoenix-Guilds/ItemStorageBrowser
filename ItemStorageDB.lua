@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774704198
+ItemStorageDB_LastUpdate = 1774704260
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21185,7 +21185,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-28 10:53:50",
+        updated_at = "2026-03-28 15:24:18",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -21599,30 +21599,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11993:0:0:0:0:0:115:0:10|h[Глиняное кольцо со знаком силы]|h|r",
-                name = "Глиняное кольцо со знаком силы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11993:0:0:0:0:0:1185:0:10|h[Глиняное кольцо со знаком медведя]|h|r",
-                name = "Глиняное кольцо со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:20818:0:0:0:0:0:0:0:10|h[Элегантное серебряное кольцо]|h|r",
                 name = "Элегантное серебряное кольцо",
                 count = 3,
@@ -21679,18 +21655,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "38",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
                     retention = "",
                 },
             },
