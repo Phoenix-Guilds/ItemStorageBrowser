@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774691774
+ItemStorageDB_LastUpdate = 1774691896
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1811,7 +1811,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-28 11:52:59",
+        updated_at = "2026-03-28 11:58:08",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -1861,18 +1861,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "45",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
-                name = "Топор шквала",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "42",
                     retention = "Одноручное",
                 },
             },
@@ -2921,6 +2909,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
                 name = "Клинок фанатика",
                 count = 2,
@@ -3014,18 +3014,6 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "20",
                     retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
-                name = "Жезл расплавленного огня",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "30",
-                    retention = "",
                 },
             },
             {
