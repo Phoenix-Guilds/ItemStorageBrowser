@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774687875
+ItemStorageDB_LastUpdate = 1774687997
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9920,7 +9920,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-03-27 22:04:42",
+        updated_at = "2026-03-28 10:53:08",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -10142,6 +10142,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
+                name = "Железноткач",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "29",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
                 count = 3,
@@ -10166,14 +10178,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
-                name = "Железноткач",
+                link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
+                name = "Быстроветр",
                 count = 5,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "29",
+                    subtype = "Арбалет",
+                    required_level = "35",
                     retention = "",
                 },
             },
@@ -10330,18 +10342,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
-                name = "Быстроветр",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "35",
                     retention = "",
                 },
             },
