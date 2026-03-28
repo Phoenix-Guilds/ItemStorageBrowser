@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774717067
+ItemStorageDB_LastUpdate = 1774717080
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19508,7 +19508,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-28 18:22:06",
+        updated_at = "2026-03-28 18:57:22",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -20770,18 +20770,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "33",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
-                name = "Эполеты лесного следопыта",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "26",
                     retention = "",
                 },
             },
