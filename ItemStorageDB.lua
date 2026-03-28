@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774688152
+ItemStorageDB_LastUpdate = 1774688694
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5990,7 +5990,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-28 10:50:22",
+        updated_at = "2026-03-28 11:04:27",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -6442,7 +6442,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21887:0:0:0:0:0:0:0:10|h[Узловатая кожа]|h|r",
                 name = "Узловатая кожа",
-                count = 60,
+                count = 122,
                 details = {
                     quality = 1,
                     type = "",
@@ -6584,18 +6584,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:15412:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракона]|h|r",
-                name = "Чешуя зеленого дракона",
-                count = 33,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
                 count = 949,
@@ -6623,6 +6611,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
                 name = "Шкура ящера",
                 count = 51,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:15412:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракона]|h|r",
+                name = "Чешуя зеленого дракона",
+                count = 33,
                 details = {
                     quality = 1,
                     type = "",
