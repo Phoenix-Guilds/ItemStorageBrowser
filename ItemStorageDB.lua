@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774774143
+ItemStorageDB_LastUpdate = 1774774205
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21173,7 +21173,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-28 15:24:18",
+        updated_at = "2026-03-29 11:49:37",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -21361,7 +21361,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                 name = "Подвеска Скиби",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
@@ -21443,6 +21443,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
+                name = "Аквамариновая подвеска воина",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "39",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:21764:0:0:0:0:0:0:0:10|h[Рубиновая подвеска огня]|h|r",
                 name = "Рубиновая подвеска огня",
                 count = 2,
@@ -21505,7 +21517,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                 name = "Колье Ярости Реки",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -21517,24 +21529,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:45627:0:0:0:0:0:0:0:10|h[Амулет проницательности]|h|r",
                 name = "Амулет проницательности",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Шея",
                     required_level = "29",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21931:0:0:0:0:0:0:0:10|h[Плетеное медное кольцо]|h|r",
-                name = "Плетеное медное кольцо",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "10",
                     retention = "",
                 },
             },
@@ -21607,6 +21607,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21931:0:0:0:0:0:0:0:10|h[Плетеное медное кольцо]|h|r",
+                name = "Плетеное медное кольцо",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "10",
                     retention = "",
                 },
             },
@@ -21823,18 +21835,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "33",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
-                name = "Аквамариновая подвеска воина",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "39",
                     retention = "",
                 },
             },
