@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774774536
+ItemStorageDB_LastUpdate = 1774796030
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6002,7 +6002,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-29 11:22:31",
+        updated_at = "2026-03-29 12:26:29",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -6136,18 +6136,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4265:0:0:0:0:0:0:0:10|h[Накладки из толстой кожи]|h|r",
-                name = "Накладки из толстой кожи",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
                     retention = "",
                 },
             },
