@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774807463
+ItemStorageDB_LastUpdate = 1774807615
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1811,7 +1811,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-29 11:48:55",
+        updated_at = "2026-03-29 21:06:25",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2431,7 +2431,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13016:0:0:0:0:0:0:0:10|h[Убойная алебарда]|h|r",
                 name = "Убойная алебарда",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2717,18 +2717,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:15260:0:0:0:0:0:695:0:10|h[Каменный молот со знаком тигра]|h|r",
-                name = "Каменный молот со знаком тигра",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "33",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
                 name = "Горящая секира",
                 count = 1,
@@ -2846,6 +2834,18 @@ ItemStorageDB = {
                     subtype = "Кинжал",
                     required_level = "40",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
                 },
             },
             {
@@ -3017,15 +3017,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
-                name = "Жезл расплавленного огня",
+                link = "|cff1eff00|Hitem:15260:0:0:0:0:0:695:0:10|h[Каменный молот со знаком тигра]|h|r",
+                name = "Каменный молот со знаком тигра",
                 count = 1,
                 details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "30",
-                    retention = "",
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "33",
+                    retention = "Двуручное",
                 },
             },
             {
