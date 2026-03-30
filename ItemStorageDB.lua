@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774871932
+ItemStorageDB_LastUpdate = 1774872084
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19508,7 +19508,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-30 14:21:33",
+        updated_at = "2026-03-30 15:01:07",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -20462,18 +20462,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
-                name = "Темнотканые брюки",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13101:929:0:0:0:0:0:0:10|h[Ботинки Волкогонца]|h|r",
                 name = "Ботинки Волкогонца",
                 count = 1,
@@ -20932,7 +20920,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
