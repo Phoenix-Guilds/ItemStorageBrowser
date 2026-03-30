@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774889623
+ItemStorageDB_LastUpdate = 1774889955
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6827,7 +6827,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-03-27 16:20:39",
+        updated_at = "2026-03-30 19:59:02",
         money = 12939,
         empty = 0,
         location = "Оргриммар",
@@ -6907,7 +6907,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3665:0:0:0:0:0:0:0:10|h[Невероятно вкусный омлет]|h|r",
                 name = "Невероятно вкусный омлет",
-                count = 37,
+                count = 21,
                 details = {
                     quality = 1,
                     type = "",
@@ -6919,7 +6919,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 30,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -6961,6 +6961,42 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
+                name = "Десерт из мертвечины",
+                count = 7,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
+                name = "Жареный ящер",
+                count = 54,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3726:0:0:0:0:0:0:0:10|h[Большой медвежий стейк]|h|r",
+                name = "Большой медвежий стейк",
+                count = 8,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
                     retention = "",
                 },
             },
