@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774876526
+ItemStorageDB_LastUpdate = 1774876588
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3698,7 +3698,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-30 16:03:17",
+        updated_at = "2026-03-30 16:16:14",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -3934,7 +3934,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                 name = "Маленькая блестящая жемчужина",
-                count = 55,
+                count = 57,
                 details = {
                     quality = 2,
                     type = "",
@@ -3958,7 +3958,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 20,
+                count = 22,
                 details = {
                     quality = 2,
                     type = "",
@@ -3982,7 +3982,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                 name = "Золотая жемчужина",
-                count = 124,
+                count = 125,
                 details = {
                     quality = 2,
                     type = "",
@@ -4066,7 +4066,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 23,
+                count = 32,
                 details = {
                     quality = 2,
                     type = "",
@@ -4222,7 +4222,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
                 name = "Настой большого колдунства",
-                count = 14,
+                count = 27,
                 details = {
                     quality = 1,
                     type = "",
@@ -4342,7 +4342,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                 name = "Сердце дикой природы",
-                count = 81,
+                count = 86,
                 details = {
                     quality = 1,
                     type = "",
