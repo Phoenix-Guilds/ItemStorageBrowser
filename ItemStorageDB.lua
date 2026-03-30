@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1774873453
+ItemStorageDB_LastUpdate = 1774873666
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-30 15:04:21",
+        updated_at = "2026-03-30 15:27:29",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -370,7 +370,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                 name = "Символ прилива сил",
-                count = 19,
+                count = 18,
                 details = {
                     quality = 1,
                     type = "",
@@ -622,7 +622,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                 name = "Символ замедленного падения",
-                count = 10,
+                count = 9,
                 details = {
                     quality = 1,
                     type = "",
@@ -16088,7 +16088,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-30 15:13:56",
+        updated_at = "2026-03-30 15:24:36",
         money = 187542,
         empty = 0,
         location = "Оргриммар",
@@ -16370,18 +16370,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
-                name = "Рулон шерсти",
-                count = 203,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
                 count = 300,
@@ -16396,7 +16384,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 460,
+                count = 450,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
+                name = "Рулон шерсти",
+                count = 150,
                 details = {
                     quality = 1,
                     type = "",
