@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774879620
+ItemStorageDB_LastUpdate = 1774879682
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10970,7 +10970,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-30 16:17:04",
+        updated_at = "2026-03-30 17:07:56",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -11312,18 +11312,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:12702:0:0:0:0:0:0:0:10|h[Чертеж: светозарный венец]|h|r",
-                name = "Чертеж: светозарный венец",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "54",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:12704:0:0:0:0:0:0:0:10|h[Чертеж: ториевые поножи]|h|r",
                 name = "Чертеж: ториевые поножи",
                 count = 1,
@@ -11398,6 +11386,18 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:10300:0:0:0:0:0:0:0:10|h[Выкройка: красный жилет из магической ткани]|h|r",
                 name = "Выкройка: красный жилет из магической ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "38",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10301:0:0:0:0:0:0:0:10|h[Выкройка: белая бандитская маска]|h|r",
+                name = "Выкройка: белая бандитская маска",
                 count = 1,
                 details = {
                     quality = 2,
@@ -12364,6 +12364,42 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "29",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12683:0:0:0:0:0:0:0:10|h[Чертеж: ториевый пояс]|h|r",
+                name = "Чертеж: ториевый пояс",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12689:0:0:0:0:0:0:0:10|h[Чертеж: светозарная кираса]|h|r",
+                name = "Чертеж: светозарная кираса",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "49",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12702:0:0:0:0:0:0:0:10|h[Чертеж: светозарный венец]|h|r",
+                name = "Чертеж: светозарный венец",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "54",
                     retention = "",
                 },
             },
