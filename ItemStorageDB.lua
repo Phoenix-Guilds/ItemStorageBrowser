@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774878209
+ItemStorageDB_LastUpdate = 1774878270
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8933,7 +8933,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-03-30 16:19:03",
+        updated_at = "2026-03-30 16:44:05",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -8977,7 +8977,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43010:0:0:0:0:0:0:0:10|h[Мясо червя]|h|r",
                 name = "Мясо червя",
-                count = 16,
+                count = 20,
                 details = {
                     quality = 1,
                     type = "",
@@ -9013,7 +9013,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 297,
+                count = 307,
                 details = {
                     quality = 1,
                     type = "",
@@ -9122,18 +9122,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                 name = "Гигантское яйцо",
                 count = 75,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7974:0:0:0:0:0:0:0:10|h[Острое мясо моллюска]|h|r",
-                name = "Острое мясо моллюска",
-                count = 164,
                 details = {
                     quality = 1,
                     type = "",
@@ -9299,6 +9287,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
+                name = "Жилистая волчатина",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:769:0:0:0:0:0:0:0:10|h[Кусок кабанины]|h|r",
                 name = "Кусок кабанины",
                 count = 111,
@@ -9371,9 +9371,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
+                name = "Постный волчий бок",
+                count = 4,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
+                name = "Хрустящая паучья лапка",
+                count = 24,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
                 name = "Хрустящее паучье мясо",
-                count = 30,
+                count = 31,
                 details = {
                     quality = 1,
                     type = "",
@@ -9467,18 +9491,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
-                name = "Жилистая волчатина",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
                 name = "Сырой солнечный лосось",
                 count = 28,
@@ -9511,6 +9523,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7974:0:0:0:0:0:0:0:10|h[Острое мясо моллюска]|h|r",
+                name = "Острое мясо моллюска",
+                count = 164,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -9647,30 +9671,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
-                name = "Постный волчий бок",
-                count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
-                name = "Хрустящая паучья лапка",
-                count = 24,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
                 name = "Красное волчье мясо",
                 count = 131,
@@ -9698,6 +9698,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12184:0:0:0:0:0:0:0:10|h[Плоть ящера]|h|r",
                 name = "Плоть ящера",
                 count = 50,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12037:0:0:0:0:0:0:0:10|h[Таинственное мясо]|h|r",
+                name = "Таинственное мясо",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
