@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774902296
+ItemStorageDB_LastUpdate = 1774902418
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7799,7 +7799,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-30 21:22:37",
+        updated_at = "2026-03-30 23:26:57",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -7903,7 +7903,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
                 name = "Огромный флакон с зельем маны",
-                count = 27,
+                count = 32,
                 details = {
                     quality = 1,
                     type = "",
@@ -7951,7 +7951,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13443:0:0:0:0:0:0:0:10|h[Большой флакон с зельем маны]|h|r",
                 name = "Большой флакон с зельем маны",
-                count = 14,
+                count = 15,
                 details = {
                     quality = 1,
                     type = "",
@@ -7975,7 +7975,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                 name = "Большой флакон с лечебным зельем",
-                count = 205,
+                count = 222,
                 details = {
                     quality = 1,
                     type = "",
@@ -7987,7 +7987,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4623:0:0:0:0:0:0:0:10|h[Простое зелье каменного щита]|h|r",
                 name = "Простое зелье каменного щита",
-                count = 34,
+                count = 35,
                 details = {
                     quality = 1,
                     type = "",
@@ -7997,9 +7997,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:9036:0:0:0:0:0:0:0:10|h[Зелье защиты от магии]|h|r",
+                name = "Зелье защиты от магии",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "32",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                 name = "Средний флакон с зельем маны",
-                count = 233,
+                count = 235,
                 details = {
                     quality = 1,
                     type = "",
@@ -8021,14 +8033,26 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
-                name = "Зелье маны",
+                link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
+                name = "Эликсир ловкости",
+                count = 20,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "27",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3826:0:0:0:0:0:0:0:10|h[Большой эликсир тролльей крови]|h|r",
+                name = "Большой эликсир тролльей крови",
                 count = 21,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "22",
+                    required_level = "26",
                     retention = "",
                 },
             },
@@ -8203,7 +8227,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
                 name = "Масло льда",
-                count = 11,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -8299,7 +8323,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
                 name = "Эликсир великанов",
-                count = 34,
+                count = 35,
                 details = {
                     quality = 1,
                     type = "",
@@ -8311,7 +8335,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9179:0:0:0:0:0:0:0:10|h[Сильный эликсир интеллекта]|h|r",
                 name = "Сильный эликсир интеллекта",
-                count = 50,
+                count = 51,
                 details = {
                     quality = 1,
                     type = "",
@@ -8323,7 +8347,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9155:0:0:0:0:0:0:0:10|h[Чародейский эликсир]|h|r",
                 name = "Чародейский эликсир",
-                count = 38,
+                count = 39,
                 details = {
                     quality = 1,
                     type = "",
@@ -8345,6 +8369,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
+                name = "Эликсир \"Кошачий глаз\"",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
                 name = "Сильный эликсир защиты",
                 count = 10,
@@ -8357,26 +8393,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
-                name = "Эликсир ловкости",
-                count = 20,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "27",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3826:0:0:0:0:0:0:0:10|h[Большой эликсир тролльей крови]|h|r",
-                name = "Большой эликсир тролльей крови",
+                link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
+                name = "Зелье маны",
                 count = 21,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "26",
+                    required_level = "22",
                     retention = "",
                 },
             },
