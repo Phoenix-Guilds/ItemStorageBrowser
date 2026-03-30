@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774879896
+ItemStorageDB_LastUpdate = 1774879927
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21389,7 +21389,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-30 16:49:44",
+        updated_at = "2026-03-30 17:11:46",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -21601,7 +21601,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
                 name = "Подвеска леди Ализабет",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
@@ -21625,7 +21625,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
                 name = "Гирлянда из лилий",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 4,
                     type = "4",
@@ -21643,18 +21643,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "55",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21764:0:0:0:0:0:0:0:10|h[Рубиновая подвеска огня]|h|r",
-                name = "Рубиновая подвеска огня",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "42",
                     retention = "",
                 },
             },
@@ -21863,90 +21851,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
-                name = "Амулет Луны",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
-                name = "Подвеска Агатового Щита",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "26",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
-                name = "Тяжелое золотое ожерелье битвы",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20966:0:0:0:0:0:0:0:10|h[Нефритовая подвеска взрыва]|h|r",
-                name = "Нефритовая подвеска взрыва",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "31",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12040:0:0:0:0:0:167:0:10|h[Лесная подвеска со знаком ловкости]|h|r",
-                name = "Лесная подвеска со знаком ловкости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "33",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12042:0:0:0:0:0:514:0:10|h[Болотная цепь со знаком волка]|h|r",
-                name = "Болотная цепь со знаком волка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
-                name = "Аквамариновая подвеска воина",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "39",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
                 name = "Кольцо тлеющих углей",
                 count = 1,
@@ -22135,6 +22039,102 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "28",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
+                name = "Амулет Луны",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
+                name = "Подвеска Агатового Щита",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "26",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
+                name = "Тяжелое золотое ожерелье битвы",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20966:0:0:0:0:0:0:0:10|h[Нефритовая подвеска взрыва]|h|r",
+                name = "Нефритовая подвеска взрыва",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "31",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12040:0:0:0:0:0:167:0:10|h[Лесная подвеска со знаком ловкости]|h|r",
+                name = "Лесная подвеска со знаком ловкости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12042:0:0:0:0:0:514:0:10|h[Болотная цепь со знаком волка]|h|r",
+                name = "Болотная цепь со знаком волка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "37",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
+                name = "Аквамариновая подвеска воина",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "39",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21764:0:0:0:0:0:0:0:10|h[Рубиновая подвеска огня]|h|r",
+                name = "Рубиновая подвеска огня",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "42",
                     retention = "",
                 },
             },
