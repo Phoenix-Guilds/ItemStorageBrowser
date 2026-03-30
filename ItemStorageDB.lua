@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774895053
+ItemStorageDB_LastUpdate = 1774895085
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19844,23 +19844,11 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-30 21:16:43",
+        updated_at = "2026-03-30 21:24:26",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cffa335ee|Hitem:2245:0:0:0:0:0:0:0:10|h[Шлем Нарва]|h|r",
-                name = "Шлем Нарва",
-                count = 2,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "54",
-                    retention = "",
-                },
-            },
             {
                 link = "|cffa335ee|Hitem:14552:0:0:0:0:0:0:0:10|h[Тюремное наплечье]|h|r",
                 name = "Тюремное наплечье",
@@ -20218,6 +20206,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "39",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:2245:0:0:0:0:0:0:0:10|h[Шлем Нарва]|h|r",
+                name = "Шлем Нарва",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "54",
                     retention = "",
                 },
             },
@@ -20884,7 +20884,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13135:0:0:0:0:0:0:0:10|h[Властные боевые наручи]|h|r",
                 name = "Властные боевые наручи",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
