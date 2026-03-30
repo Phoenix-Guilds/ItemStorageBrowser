@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774901690
+ItemStorageDB_LastUpdate = 1774901932
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3509,11 +3509,35 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-27 21:50:37",
+        updated_at = "2026-03-30 23:18:38",
         money = 13330,
         empty = 0,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff1eff00|Hitem:25312:0:0:0:0:0:-44:17:10|h[Славный скипетр с меткой старца]|h|r",
+                name = "Славный скипетр с меткой старца",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24609:0:0:0:0:0:-38:41:10|h[Шляпа Веселого Черепа с меткой пророка]|h|r",
+                name = "Шляпа Веселого Черепа с меткой пророка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
             {
                 link = "|cff1eff00|Hitem:24585:0:0:0:0:0:-38:37:10|h[Хиджаб чужеземца с меткой пророка]|h|r",
                 name = "Хиджаб чужеземца с меткой пророка",
@@ -3611,6 +3635,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:24589:0:0:0:0:0:-39:29:10|h[Ремень Огненного Сердца с меткой заклинателя]|h|r",
+                name = "Ремень Огненного Сердца с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:24693:0:0:0:0:0:-7:27:10|h[Кожаный ремень Костеглодов со знаком медведя]|h|r",
                 name = "Кожаный ремень Костеглодов со знаком медведя",
                 count = 1,
@@ -3630,6 +3666,18 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кожа",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24610:0:0:0:0:0:-36:41:10|h[Штаны Веселого Черепа с меткой волшебника]|h|r",
+                name = "Штаны Веселого Черепа с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
                     required_level = "60",
                     retention = "",
                 },
@@ -3695,18 +3743,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-40:12:10|h[Арбалет башни с меткой преступника]|h|r",
-                name = "Арбалет башни с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "57",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25324:0:0:0:0:0:-7:37:10|h[Гневный посох со знаком медведя]|h|r",
                 name = "Гневный посох со знаком медведя",
                 count = 1,
@@ -3716,6 +3752,18 @@ ItemStorageDB = {
                     subtype = "Посох",
                     required_level = "57",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-40:12:10|h[Арбалет башни с меткой преступника]|h|r",
+                name = "Арбалет башни с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "57",
+                    retention = "",
                 },
             },
             {
@@ -3738,6 +3786,18 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Лук",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25296:0:0:0:0:0:-44:15:10|h[Кинжал поглощения с меткой старца]|h|r",
+                name = "Кинжал поглощения с меткой старца",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кинжал",
                     required_level = "57",
                     retention = "",
                 },
