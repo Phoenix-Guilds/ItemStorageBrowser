@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774876588
+ItemStorageDB_LastUpdate = 1774876651
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10898,7 +10898,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-26 21:54:15",
+        updated_at = "2026-03-30 16:17:04",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -11240,18 +11240,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3872:0:0:0:0:0:0:0:10|h[Чертеж: золотые чешуйчатые поножи]|h|r",
-                name = "Чертеж: золотые чешуйчатые поножи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "29",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:12702:0:0:0:0:0:0:0:10|h[Чертеж: светозарный венец]|h|r",
                 name = "Чертеж: светозарный венец",
                 count = 1,
@@ -11404,6 +11392,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:8399:0:0:0:0:0:0:0:10|h[Выкройка: жесткие сапоги из чешуи скорпида]|h|r",
+                name = "Выкройка: жесткие сапоги из чешуи скорпида",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "42",
                     retention = "",
                 },
             },
@@ -12176,6 +12176,54 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:18046:0:0:0:0:0:0:0:10|h[Рецепт: нежный стейк из волчатины]|h|r",
+                name = "Рецепт: нежный стейк из волчатины",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11038:0:0:0:0:0:0:0:10|h[Формула чар для двуручного оружия - дух I]|h|r",
+                name = "Формула чар для двуручного оружия - дух I",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11152:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - рыбная ловля]|h|r",
+                name = "Формула чар для перчаток - рыбная ловля",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11206:0:0:0:0:0:0:0:10|h[Формула чар для плаща - ловкость II]|h|r",
+                name = "Формула чар для плаща - ловкость II",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:11205:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - травничество II]|h|r",
                 name = "Формула чар для перчаток - травничество II",
                 count = 1,
@@ -12236,50 +12284,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11038:0:0:0:0:0:0:0:10|h[Формула чар для двуручного оружия - дух I]|h|r",
-                name = "Формула чар для двуручного оружия - дух I",
+                link = "|cff1eff00|Hitem:3872:0:0:0:0:0:0:0:10|h[Чертеж: золотые чешуйчатые поножи]|h|r",
+                name = "Чертеж: золотые чешуйчатые поножи",
                 count = 1,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:18046:0:0:0:0:0:0:0:10|h[Рецепт: нежный стейк из волчатины]|h|r",
-                name = "Рецепт: нежный стейк из волчатины",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "40",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11152:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - рыбная ловля]|h|r",
-                name = "Формула чар для перчаток - рыбная ловля",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11206:0:0:0:0:0:0:0:10|h[Формула чар для плаща - ловкость II]|h|r",
-                name = "Формула чар для плаща - ловкость II",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "29",
                     retention = "",
                 },
             },
