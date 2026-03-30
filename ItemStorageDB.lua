@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774872084
+ItemStorageDB_LastUpdate = 1774872146
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21137,7 +21137,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-03-30 14:23:11",
+        updated_at = "2026-03-30 15:02:25",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -21541,7 +21541,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20818:0:0:0:0:0:0:0:10|h[Элегантное серебряное кольцо]|h|r",
                 name = "Элегантное серебряное кольцо",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -21791,18 +21791,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
-                name = "Сверкающее ожерелье",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
                 name = "Варварский железный ошейник",
                 count = 2,
@@ -21925,7 +21913,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
                 name = "Кольцо очищения",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
