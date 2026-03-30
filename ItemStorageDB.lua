@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774878393
+ItemStorageDB_LastUpdate = 1774878517
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4832,7 +4832,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-30 16:20:14",
+        updated_at = "2026-03-30 16:46:53",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -5044,7 +5044,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 297,
+                count = 300,
                 details = {
                     quality = 2,
                     type = "",
@@ -5056,7 +5056,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                 name = "Тигровый глаз",
-                count = 304,
+                count = 308,
                 details = {
                     quality = 2,
                     type = "",
@@ -5068,7 +5068,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
                 name = "Малахит",
-                count = 299,
+                count = 300,
                 details = {
                     quality = 2,
                     type = "",
@@ -5227,6 +5227,30 @@ ItemStorageDB = {
                 count = 44,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
+                name = "Твердый шлифовальный камень",
+                count = 58,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
+                name = "Тяжелый камень",
+                count = 340,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -5395,30 +5419,6 @@ ItemStorageDB = {
                 count = 10,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
-                name = "Твердый шлифовальный камень",
-                count = 58,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
-                name = "Тяжелый камень",
-                count = 340,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -19676,7 +19676,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-30 15:39:36",
+        updated_at = "2026-03-30 16:48:31",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -20114,6 +20114,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
+                name = "Сапоги из пепельной ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "44",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:16714:0:0:0:0:0:0:0:10|h[Наручи дикого сердца]|h|r",
                 name = "Наручи дикого сердца",
                 count = 2,
@@ -20392,7 +20404,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -20734,18 +20746,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "52",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
-                name = "Сапоги из пепельной ткани",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "44",
                     retention = "",
                 },
             },
