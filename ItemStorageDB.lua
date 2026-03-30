@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774875886
+ItemStorageDB_LastUpdate = 1774875950
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1811,7 +1811,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-30 14:20:56",
+        updated_at = "2026-03-30 16:05:01",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2189,18 +2189,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
-                name = "Жезл расплавленного огня",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
                 name = "Рыцарский щит Красной бороды",
                 count = 1,
@@ -2281,6 +2269,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "41",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
+                name = "Стена мертвых",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "45",
                     retention = "",
                 },
             },
@@ -2705,18 +2705,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
-                name = "Стена мертвых",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
                 count = 1,
@@ -2761,6 +2749,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "52",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13053:0:0:0:0:0:0:0:10|h[Носитель Рока]|h|r",
+                name = "Носитель Рока",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "55",
                     retention = "Двуручное",
                 },
             },
@@ -3014,6 +3014,18 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "20",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
                 },
             },
             {
@@ -5429,7 +5441,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-03-30 15:05:41",
+        updated_at = "2026-03-30 16:05:46",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -5713,7 +5725,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19280:0:0:0:0:0:0:0:10|h[Четверка из колоды Порталов]|h|r",
                 name = "Четверка из колоды Порталов",
-                count = 6,
+                count = 7,
                 details = {
                     quality = 3,
                     type = "",
@@ -5779,6 +5791,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
+                name = "Осколок души",
+                count = 8,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -5977,18 +6001,6 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37156:0:0:0:0:0:0:0:10|h[Тройка из колоды Разбойников]|h|r",
                 name = "Тройка из колоды Разбойников",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
-                name = "Осколок души",
                 count = 1,
                 details = {
                     quality = 1,
