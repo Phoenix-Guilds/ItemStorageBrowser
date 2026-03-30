@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774902759
+ItemStorageDB_LastUpdate = 1774902821
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6146,7 +6146,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-03-30 23:07:10",
+        updated_at = "2026-03-30 23:33:23",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -6754,7 +6754,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:15416:0:0:0:0:0:0:0:10|h[Чешуя черного дракона]|h|r",
                 name = "Чешуя черного дракона",
-                count = 6,
+                count = 8,
                 details = {
                     quality = 1,
                     type = "",
