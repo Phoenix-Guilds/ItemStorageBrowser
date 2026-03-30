@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774879682
+ItemStorageDB_LastUpdate = 1774879834
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13541,7 +13541,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-30 16:50:34",
+        updated_at = "2026-03-30 17:10:30",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -15287,6 +15287,66 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:15933:0:0:0:0:0:839:0:10|h[Простая ветвь со знаком орла]|h|r",
+                name = "Простая ветвь со знаком орла",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15926:0:0:0:0:0:0:0:10|h[Сфера заклинателя]|h|r",
+                name = "Сфера заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9814:0:0:0:0:0:1186:0:10|h[Укрепленный пояс со знаком медведя]|h|r",
+                name = "Укрепленный пояс со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
+                name = "Сфера Бусин с печатью исцеления",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15011:0:0:0:0:0:584:0:10|h[Волчий шнурованный ремень со знаком мартышки]|h|r",
+                name = "Волчий шнурованный ремень со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:6545:1892:0:0:0:0:96:0:10|h[Солдатская броня с печатью выносливости]|h|r",
                 name = "Солдатская броня с печатью выносливости",
                 count = 1,
@@ -15487,42 +15547,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "6",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15933:0:0:0:0:0:839:0:10|h[Простая ветвь со знаком орла]|h|r",
-                name = "Простая ветвь со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15926:0:0:0:0:0:0:0:10|h[Сфера заклинателя]|h|r",
-                name = "Сфера заклинателя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "12",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
-                name = "Сфера Бусин с печатью исцеления",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "5",
                     retention = "",
                 },
             },
@@ -15739,18 +15763,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "9",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4331:0:0:0:0:0:0:0:10|h[Перчатки Феникса]|h|r",
-                name = "Перчатки Феникса",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "20",
                     retention = "",
                 },
             },
