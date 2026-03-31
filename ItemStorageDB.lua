@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774960876
+ItemStorageDB_LastUpdate = 1774960938
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11438,7 +11438,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-03-31 15:22:00",
+        updated_at = "2026-03-31 15:41:54",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -11780,18 +11780,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:12704:0:0:0:0:0:0:0:10|h[Чертеж: ториевые поножи]|h|r",
-                name = "Чертеж: ториевые поножи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "55",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:10604:0:0:0:0:0:0:0:10|h[Схема: мифриловая крупнокалиберная винтовка]|h|r",
                 name = "Схема: мифриловая крупнокалиберная винтовка",
                 count = 1,
@@ -11932,6 +11920,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:17722:0:0:0:0:0:0:0:10|h[Выкройка: перчатки Великого Отца]|h|r",
+                name = "Выкройка: перчатки Великого Отца",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "33",
                     retention = "",
                 },
             },
@@ -12764,6 +12764,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:14634:0:0:0:0:0:0:0:10|h[Рецепт: масло льда]|h|r",
+                name = "Рецепт: масло льда",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:12683:0:0:0:0:0:0:0:10|h[Чертеж: ториевый пояс]|h|r",
                 name = "Чертеж: ториевый пояс",
                 count = 1,
@@ -12796,6 +12808,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "54",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12704:0:0:0:0:0:0:0:10|h[Чертеж: ториевые поножи]|h|r",
+                name = "Чертеж: ториевые поножи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "55",
                     retention = "",
                 },
             },
