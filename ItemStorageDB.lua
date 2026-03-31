@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774979687
+ItemStorageDB_LastUpdate = 1774980019
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5060,7 +5060,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-31 15:23:09",
+        updated_at = "2026-03-31 20:59:53",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -5242,6 +5242,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:39974:0:0:0:0:0:0:0:10|h[Зазубренный темный нефрит]|h|r",
+                name = "Зазубренный темный нефрит",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -5558,18 +5570,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
-                name = "Стремительный алмаз небесного сияния",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
                 name = "Грубый камень",
                 count = 301,
@@ -5671,6 +5671,18 @@ ItemStorageDB = {
                 count = 10,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
+                name = "Стремительный алмаз небесного сияния",
+                count = 4,
+                details = {
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
