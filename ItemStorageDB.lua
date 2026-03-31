@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774954239
+ItemStorageDB_LastUpdate = 1774954331
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9065,7 +9065,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-03-31 13:03:54",
+        updated_at = "2026-03-31 13:51:42",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -9263,33 +9263,33 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
-                name = "Сырой летний окунь",
-                count = 188,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "35",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
-                name = "Сырая блестящая мощь-рыба",
-                count = 166,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "35",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:41813:0:0:0:0:0:0:0:10|h[Медуза]|h|r",
                 name = "Медуза",
-                count = 50,
+                count = 245,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:41808:0:0:0:0:0:0:0:10|h[Костечешуйный луциан]|h|r",
+                name = "Костечешуйный луциан",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:41812:0:0:0:0:0:0:0:10|h[Бочкоголовый бычок]|h|r",
+                name = "Бочкоголовый бычок",
+                count = 8,
                 details = {
                     quality = 1,
                     type = "",
@@ -9331,18 +9331,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "35",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
-                name = "Молниевый угорь",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
@@ -9403,6 +9391,42 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
+                name = "Сырая мифрилоголовая форель",
+                count = 20,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
+                name = "Сырая каменношкурая треска",
+                count = 151,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
+                name = "Сырой солнечный лосось",
+                count = 28,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
                     retention = "",
                 },
             },
@@ -9623,33 +9647,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
-                name = "Сырая мифрилоголовая форель",
-                count = 20,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
-                name = "Сырая каменношкурая треска",
-                count = 151,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
-                name = "Сырой солнечный лосось",
-                count = 28,
+                link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
+                name = "Сырой пятнистый желтохвост",
+                count = 260,
                 details = {
                     quality = 1,
                     type = "",
@@ -9659,9 +9659,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
-                name = "Сырой пятнистый желтохвост",
-                count = 260,
+                link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
+                name = "Сырой летний окунь",
+                count = 188,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
+                name = "Сырая блестящая мощь-рыба",
+                count = 166,
                 details = {
                     quality = 1,
                     type = "",
@@ -9806,6 +9818,30 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
                 name = "Хвост рокочущей ящерицы",
                 count = 51,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
+                name = "Карликовый сосокунь",
+                count = 181,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
+                name = "Молниевый угорь",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
