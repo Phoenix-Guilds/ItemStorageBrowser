@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774955479
+ItemStorageDB_LastUpdate = 1774955991
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13925,7 +13925,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-30 23:14:35",
+        updated_at = "2026-03-31 14:19:20",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -14447,18 +14447,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2973:1892:0:0:0:0:0:0:10|h[Охотничий мундир]|h|r",
-                name = "Охотничий мундир",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "12",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15018:1892:0:0:0:0:595:0:10|h[Волчий жилет со знаком мартышки]|h|r",
                 name = "Волчий жилет со знаком мартышки",
                 count = 1,
@@ -14467,6 +14455,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4314:0:0:0:0:0:0:0:10|h[Шерстяные наплечники с двойным швом]|h|r",
+                name = "Шерстяные наплечники с двойным швом",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "17",
                     retention = "",
                 },
             },
@@ -15887,8 +15887,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
-                name = "Ивовая ветвь со знаком духа",
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
+                name = "Ивовая ветвь со знаком интеллекта",
                 count = 1,
                 details = {
                     quality = 2,
@@ -15899,8 +15899,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
-                name = "Ивовая ветвь со знаком интеллекта",
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
+                name = "Ивовая ветвь со знаком духа",
                 count = 1,
                 details = {
                     quality = 2,
@@ -16015,6 +16015,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2973:1892:0:0:0:0:0:0:10|h[Охотничий мундир]|h|r",
+                name = "Охотничий мундир",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "12",
                     retention = "",
                 },
             },
