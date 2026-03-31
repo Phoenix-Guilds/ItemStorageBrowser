@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774955074
+ItemStorageDB_LastUpdate = 1774955106
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3818,7 +3818,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-03-31 14:00:16",
+        updated_at = "2026-03-31 14:04:42",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -4366,7 +4366,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
-                count = 95,
+                count = 103,
                 details = {
                     quality = 1,
                     type = "",
