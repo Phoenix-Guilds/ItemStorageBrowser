@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774968250
+ItemStorageDB_LastUpdate = 1774968552
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3509,7 +3509,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-30 23:18:38",
+        updated_at = "2026-03-31 17:49:04",
         money = 13330,
         empty = 0,
         location = "Оргриммар",
@@ -3559,6 +3559,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24739:0:0:0:0:0:-40:33:10|h[Наплечные щитки солнцеруха с меткой преступника]|h|r",
+                name = "Наплечные щитки солнцеруха с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "62",
                     retention = "",
                 },
             },
@@ -3623,6 +3635,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:24597:0:0:0:0:0:-37:30:10|h[Кушак Звездного огня с меткой целителя]|h|r",
+                name = "Кушак Звездного огня с меткой целителя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24822:0:0:0:0:0:-39:30:10|h[Пояс ловчего Пустоты с меткой заклинателя]|h|r",
+                name = "Пояс ловчего Пустоты с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:24926:0:0:0:0:0:-36:29:10|h[Анго\'рошский пояс с меткой волшебника]|h|r",
                 name = "Анго\'рошский пояс с меткой волшебника",
                 count = 1,
@@ -3683,6 +3719,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:24706:0:0:0:0:0:-14:38:10|h[Хаал\'ешские поножи со знаком тигра]|h|r",
+                name = "Хаал\'ешские поножи со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:24710:0:0:0:0:0:-40:30:10|h[Сапоги отмщения с меткой преступника]|h|r",
                 name = "Сапоги отмщения с меткой преступника",
                 count = 1,
@@ -3703,6 +3751,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24608:0:0:0:0:0:-22:31:10|h[Перчатки Веселого Черепа с магической аурой]|h|r",
+                name = "Перчатки Веселого Черепа с магической аурой",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24833:0:0:0:0:0:-39:31:10|h[Перчатки скитальца Нексуса с меткой заклинателя]|h|r",
+                name = "Перчатки скитальца Нексуса с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "60",
                     retention = "",
                 },
             },
@@ -3743,6 +3815,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:25284:0:0:0:0:0:-39:12:10|h[Жезл Лилового сердца с меткой заклинателя]|h|r",
+                name = "Жезл Лилового сердца с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25297:0:0:0:0:0:-44:16:10|h[Отрегулированный нож с меткой старца]|h|r",
+                name = "Отрегулированный нож с меткой старца",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25088:0:0:0:0:0:-39:22:10|h[Сфера Веселого Черепа с меткой заклинателя]|h|r",
+                name = "Сфера Веселого Черепа с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:25324:0:0:0:0:0:-7:37:10|h[Гневный посох со знаком медведя]|h|r",
                 name = "Гневный посох со знаком медведя",
                 count = 1,
@@ -3751,6 +3859,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Посох",
                     required_level = "57",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25227:0:0:0:0:0:-14:38:10|h[Длинное копье Ша\'тар со знаком тигра]|h|r",
+                name = "Длинное копье Ша\'тар со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Древковое",
+                    required_level = "58",
                     retention = "Двуручное",
                 },
             },
@@ -3764,6 +3884,30 @@ ItemStorageDB = {
                     subtype = "Арбалет",
                     required_level = "57",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25325:0:0:0:0:0:-14:38:10|h[Грубый шрамодел со знаком тигра]|h|r",
+                name = "Грубый шрамодел со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "58",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25200:0:0:0:0:0:-18:17:10|h[Зазубренный широкий топор со знаком ловкости]|h|r",
+                name = "Зазубренный широкий топор со знаком ловкости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "59",
+                    retention = "Одноручное",
                 },
             },
             {
