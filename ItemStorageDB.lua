@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774951147
+ItemStorageDB_LastUpdate = 1774951210
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1847,7 +1847,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-03-30 23:53:48",
+        updated_at = "2026-03-31 12:59:40",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2287,7 +2287,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 4,
                     type = "4",
@@ -2309,18 +2309,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
-                name = "Клык Боана",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "15",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
                 name = "Горящая секира",
                 count = 1,
@@ -2329,18 +2317,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "28",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
-                name = "Отвага Бланчарда",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "45",
                     retention = "Двуручное",
                 },
             },
@@ -2429,14 +2405,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:791:20306:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
-                name = "Корявый ясеневый посох",
-                count = 1,
+                link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
+                name = "Острокаменная кувалда",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Посох",
-                    required_level = "26",
+                    subtype = "Дробящее",
+                    required_level = "37",
                     retention = "Двуручное",
                 },
             },
@@ -2525,8 +2501,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
-                name = "Топор геолога",
+                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
+                name = "Клык Боана",
                 count = 2,
                 details = {
                     quality = 3,
@@ -2537,14 +2513,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
-                name = "Острокаменная кувалда",
+                link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
+                name = "Топор геолога",
                 count = 2,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Дробящее",
-                    required_level = "37",
+                    subtype = "Топор",
+                    required_level = "15",
                     retention = "Двуручное",
                 },
             },
@@ -2645,6 +2621,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:791:20306:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
+                name = "Корявый ясеневый посох",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "26",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
                 name = "Посох сильного магического огня",
                 count = 2,
@@ -2737,6 +2725,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "47",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
+                name = "Отвага Бланчарда",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "45",
                     retention = "Двуручное",
                 },
             },
@@ -2870,54 +2870,6 @@ ItemStorageDB = {
                     subtype = "Топор",
                     required_level = "40",
                     retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
-                name = "Жезл расплавленного огня",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
-                name = "Рыцарский щит Красной бороды",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                name = "Щит Торсена",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
-                name = "Лапидийская пинта Пьющего Прибой",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "54",
-                    retention = "",
                 },
             },
             {
@@ -3086,6 +3038,54 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "20",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
+                name = "Жезл расплавленного огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
+                name = "Рыцарский щит Красной бороды",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
+                name = "Лапидийская пинта Пьющего Прибой",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "54",
+                    retention = "",
                 },
             },
             {
