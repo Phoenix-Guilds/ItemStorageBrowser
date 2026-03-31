@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774951493
+ItemStorageDB_LastUpdate = 1774951587
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5561,7 +5561,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-03-30 16:27:26",
+        updated_at = "2026-03-31 13:05:05",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -5915,6 +5915,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
+                name = "Осколок души",
+                count = 18,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
                 name = "Карта Новолуния: Синий Дракон",
                 count = 1,
@@ -5923,18 +5935,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Аксессуар",
                     required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
-                name = "Осколок души",
-                count = 13,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
@@ -5953,7 +5953,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
-                count = 6,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
@@ -8768,7 +8768,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-30 23:11:17",
+        updated_at = "2026-03-31 13:05:58",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -8860,7 +8860,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун\'Горо]|h|r",
                 name = "Земля Ун\'Горо",
-                count = 300,
+                count = 303,
                 details = {
                     quality = 1,
                     type = "",
