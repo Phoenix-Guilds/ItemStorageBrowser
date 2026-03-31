@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774956565
+ItemStorageDB_LastUpdate = 1774959185
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4916,7 +4916,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-03-31 14:06:24",
+        updated_at = "2026-03-31 15:11:51",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -4958,18 +4958,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
-                name = "Стремительный алмаз небесного сияния",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:45881:0:0:0:0:0:0:0:10|h[Искрящийся самоцвет бури]|h|r",
                 name = "Искрящийся самоцвет бури",
                 count = 1,
@@ -5002,6 +4990,30 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7965:0:0:0:0:0:0:0:10|h[Твердое грузило]|h|r",
+                name = "Твердое грузило",
+                count = 4,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12404:0:0:0:0:0:0:0:10|h[Массивное точило]|h|r",
+                name = "Массивное точило",
+                count = 25,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
                     retention = "",
                 },
             },
@@ -5104,7 +5116,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
                 name = "Синий сапфир",
-                count = 7,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
@@ -5395,6 +5407,18 @@ ItemStorageDB = {
                 count = 3,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
+                name = "Стремительный алмаз небесного сияния",
+                count = 4,
+                details = {
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
