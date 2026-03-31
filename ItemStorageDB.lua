@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774956082
+ItemStorageDB_LastUpdate = 1774956565
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3176,7 +3176,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-03-30 23:12:54",
+        updated_at = "2026-03-31 14:28:58",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3190,18 +3190,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "78",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37807:0:0:0:0:0:0:0:10|h[Заостренный мечелом Линдии]|h|r",
-                name = "Заостренный мечелом Линдии",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "74",
                     retention = "Одноручное",
                 },
             },
