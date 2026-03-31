@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774959885
+ItemStorageDB_LastUpdate = 1774959917
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20228,7 +20228,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-03-31 14:10:30",
+        updated_at = "2026-03-31 15:24:49",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -20450,18 +20450,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
-                name = "Эльфийские плетеные сапоги",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
                 name = "Пояс безмятежности",
                 count = 2,
@@ -20546,6 +20534,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:9375:0:0:0:0:0:0:0:10|h[Каска золотодобытчика-умельца]|h|r",
+                name = "Каска золотодобытчика-умельца",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "33",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:21774:0:0:0:0:0:0:0:10|h[Изумрудная корона разрушения]|h|r",
                 name = "Изумрудная корона разрушения",
                 count = 1,
@@ -20618,18 +20618,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:14451:0:0:0:0:0:0:0:10|h[Перчатки высокорожденных]|h|r",
-                name = "Перчатки высокорожденных",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "48",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15084:0:0:0:0:0:0:0:10|h[Гибельные кожаные наручи]|h|r",
                 name = "Гибельные кожаные наручи",
                 count = 2,
@@ -20662,6 +20650,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "43",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14451:0:0:0:0:0:0:0:10|h[Перчатки высокорожденных]|h|r",
+                name = "Перчатки высокорожденных",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "48",
                     retention = "",
                 },
             },
@@ -21250,6 +21250,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "49",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
+                name = "Эльфийские плетеные сапоги",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "45",
                     retention = "",
                 },
             },
