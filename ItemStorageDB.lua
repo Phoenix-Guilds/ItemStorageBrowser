@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774959662
+ItemStorageDB_LastUpdate = 1774959694
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8876,7 +8876,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-31 14:05:24",
+        updated_at = "2026-03-31 15:21:21",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -8968,7 +8968,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун\'Горо]|h|r",
                 name = "Земля Ун\'Горо",
-                count = 303,
+                count = 283,
                 details = {
                     quality = 1,
                     type = "",
@@ -9005,6 +9005,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
                 name = "Радужное перо",
                 count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
+                name = "Разорванная шкура медведя",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -9122,18 +9134,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
-                name = "Зеленый кожаный доспех",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "26",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
                 count = 16,
@@ -9142,6 +9142,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
+                name = "Зеленый кожаный доспех",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "26",
                     retention = "",
                 },
             },
