@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774982103
+ItemStorageDB_LastUpdate = 1774982645
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10499,7 +10499,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-03-31 15:19:40",
+        updated_at = "2026-03-31 21:44:03",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -10621,18 +10621,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "62",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:43251:0:3467:0:0:0:0:0:10|h[Кольцо алых теней]|h|r",
-                name = "Кольцо алых теней",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "78",
                     retention = "",
                 },
             },
