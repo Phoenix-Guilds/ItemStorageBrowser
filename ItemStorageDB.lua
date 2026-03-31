@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774951828
+ItemStorageDB_LastUpdate = 1774952340
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16664,7 +16664,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-30 23:05:59",
+        updated_at = "2026-03-31 13:18:55",
         money = 187542,
         empty = 0,
         location = "Оргриммар",
@@ -16696,7 +16696,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
                 name = "Паутина паука-ледопряда",
-                count = 100,
+                count = 104,
                 details = {
                     quality = 1,
                     type = "",
@@ -16720,7 +16720,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14048:0:0:0:0:0:0:0:10|h[Рулон рунической ткани]|h|r",
                 name = "Рулон рунической ткани",
-                count = 43,
+                count = 168,
                 details = {
                     quality = 1,
                     type = "",
@@ -16744,7 +16744,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 751,
+                count = 588,
                 details = {
                     quality = 1,
                     type = "",
@@ -16756,7 +16756,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
                 name = "Ткань Скверны",
-                count = 4,
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
@@ -16768,7 +16768,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
                 name = "Рулон магической ткани",
-                count = 11,
+                count = 98,
                 details = {
                     quality = 1,
                     type = "",
@@ -16780,7 +16780,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                 name = "Магическая ткань",
-                count = 1011,
+                count = 703,
                 details = {
                     quality = 1,
                     type = "",
@@ -16922,9 +16922,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
-                name = "Шелковый материал",
-                count = 1043,
+                link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
+                name = "Плотная паутина",
+                count = 100,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
+                name = "Рулон шелка",
+                count = 212,
                 details = {
                     quality = 1,
                     type = "",
@@ -16958,21 +16970,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
-                name = "Плотная паутина",
-                count = 100,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
-                name = "Рулон шелка",
-                count = 150,
+                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
+                name = "Шелковый материал",
+                count = 795,
                 details = {
                     quality = 1,
                     type = "",
