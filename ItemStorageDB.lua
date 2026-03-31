@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774959949
+ItemStorageDB_LastUpdate = 1774960071
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13973,7 +13973,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-03-31 14:19:20",
+        updated_at = "2026-03-31 15:27:41",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -15707,6 +15707,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4564:0:0:0:0:0:1183:0:10|h[Шипастая дубина со знаком медведя]|h|r",
+                name = "Шипастая дубина со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "8",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9748:0:0:0:0:0:26:0:10|h[Простое одеяние со знаком интеллекта]|h|r",
+                name = "Простое одеяние со знаком интеллекта",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:6528:1892:0:0:0:0:0:0:10|h[Одеяние заклинателя]|h|r",
                 name = "Одеяние заклинателя",
                 count = 1,
@@ -15895,6 +15919,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "6",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15308:0:0:0:0:0:234:0:10|h[Дикий шнурованный ремень со знаком сокола]|h|r",
+                name = "Дикий шнурованный ремень со знаком сокола",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6553:0:0:0:0:0:589:0:10|h[Брюки барда со знаком мартышки]|h|r",
+                name = "Брюки барда со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "13",
                     retention = "",
                 },
             },
