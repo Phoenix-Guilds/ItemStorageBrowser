@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774980019
+ItemStorageDB_LastUpdate = 1774980081
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10178,11 +10178,23 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-03-31 12:57:54",
+        updated_at = "2026-03-31 21:01:11",
         money = 3590,
         empty = 0,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff1eff00|Hitem:36207:0:0:0:0:0:-37:75:10|h[Ниффлварский шлем с меткой целителя]|h|r",
+                name = "Ниффлварский шлем с меткой целителя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
             {
                 link = "|cff1eff00|Hitem:35975:0:0:0:0:0:-36:72:10|h[Мур\'далакский шлем с меткой волшебника]|h|r",
                 name = "Мур\'далакский шлем с меткой волшебника",
@@ -10232,6 +10244,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:36191:0:0:0:0:0:-14:69:10|h[Ньордский шлем со знаком тигра]|h|r",
+                name = "Ньордский шлем со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "68",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36432:0:0:0:0:0:-14:39:10|h[Серебряная цепь со знаком тигра]|h|r",
+                name = "Серебряная цепь со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "68",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:35985:0:0:0:0:0:-39:56:10|h[Наплечные пластины опоры с меткой заклинателя]|h|r",
                 name = "Наплечные пластины опоры с меткой заклинателя",
                 count = 1,
@@ -10239,6 +10275,18 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36209:0:0:0:0:0:-40:56:10|h[Ниффлварские наплечные щитки с меткой преступника]|h|r",
+                name = "Ниффлварские наплечные щитки с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
                     required_level = "70",
                     retention = "",
                 },
@@ -10256,8 +10304,56 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:36083:0:0:0:0:0:-18:53:10|h[Пояс Терзающего Бича со знаком ловкости]|h|r",
+                name = "Пояс Терзающего Бича со знаком ловкости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "69",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:35963:0:0:0:0:0:-37:52:10|h[Кровоспоровый кушак с меткой целителя]|h|r",
                 name = "Кровоспоровый кушак с меткой целителя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "68",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35963:0:0:0:0:0:-36:52:10|h[Кровоспоровый кушак с меткой волшебника]|h|r",
+                name = "Кровоспоровый кушак с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "68",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35955:0:0:0:0:0:-36:50:10|h[Далеченский пояс с меткой волшебника]|h|r",
+                name = "Далеченский пояс с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35968:0:0:0:0:0:-38:69:10|h[Кровоспоровые поножи с меткой пророка]|h|r",
+                name = "Кровоспоровые поножи с меткой пророка",
                 count = 1,
                 details = {
                     quality = 2,
@@ -10294,7 +10390,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35966:0:0:0:0:0:-37:52:10|h[Кровоспоровые перчатки с меткой целителя]|h|r",
                 name = "Кровоспоровые перчатки с меткой целителя",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -10311,6 +10407,18 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
+                    required_level = "68",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36190:0:0:0:0:0:-40:52:10|h[Ньордские рукавицы с меткой преступника]|h|r",
+                name = "Ньордские рукавицы с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
                     required_level = "68",
                     retention = "",
                 },
@@ -10336,6 +10444,30 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кистевое оружие",
                     required_level = "70",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36658:0:0:0:0:0:-36:23:10|h[Потухшая искра с меткой волшебника]|h|r",
+                name = "Потухшая искра с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36559:0:0:0:0:0:-40:31:10|h[Ценные ручные серпы с меткой преступника]|h|r",
+                name = "Ценные ручные серпы с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кистевое оружие",
+                    required_level = "69",
                     retention = "Одноручное",
                 },
             },
