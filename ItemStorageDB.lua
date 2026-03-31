@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1774973065
+ItemStorageDB_LastUpdate = 1774973307
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8039,7 +8039,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-03-31 17:49:48",
+        updated_at = "2026-03-31 19:08:25",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -8957,18 +8957,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:40078:0:0:0:0:0:0:0:10|h[Мощный эликсир стойкости]|h|r",
-                name = "Мощный эликсир стойкости",
-                count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:40097:0:0:0:0:0:0:0:10|h[Охранный эликсир]|h|r",
                 name = "Охранный эликсир",
                 count = 2,
@@ -8995,7 +8983,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40076:0:0:0:0:0:0:0:10|h[Эликсир гуру]|h|r",
                 name = "Эликсир гуру",
-                count = 35,
+                count = 20,
                 details = {
                     quality = 1,
                     type = "",
