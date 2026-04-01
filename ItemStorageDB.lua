@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775029293
+ItemStorageDB_LastUpdate = 1775029385
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9926,8 +9926,8 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-03-31 21:01:11",
-        money = 3590,
+        updated_at = "2026-04-01 10:42:42",
+        money = 3778,
         empty = 0,
         location = "Оргриммар",
         items = {
@@ -10184,18 +10184,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:36560:0:0:0:0:0:-40:32:10|h[Захваты бойца с меткой преступника]|h|r",
-                name = "Захваты бойца с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Кистевое оружие",
-                    required_level = "70",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:36658:0:0:0:0:0:-36:23:10|h[Потухшая искра с меткой волшебника]|h|r",
                 name = "Потухшая искра с меткой волшебника",
                 count = 1,
@@ -10205,6 +10193,18 @@ ItemStorageDB = {
                     subtype = "Жезл",
                     required_level = "70",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36560:0:0:0:0:0:-40:32:10|h[Захваты бойца с меткой преступника]|h|r",
+                name = "Захваты бойца с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кистевое оружие",
+                    required_level = "70",
+                    retention = "Одноручное",
                 },
             },
             {
