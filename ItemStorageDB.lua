@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775029385
+ItemStorageDB_LastUpdate = 1775029657
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3509,8 +3509,8 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-03-31 17:49:04",
-        money = 13330,
+        updated_at = "2026-04-01 10:47:06",
+        money = 13629,
         empty = 0,
         location = "Оргриммар",
         items = {
@@ -3815,30 +3815,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25284:0:0:0:0:0:-39:12:10|h[Жезл Лилового сердца с меткой заклинателя]|h|r",
-                name = "Жезл Лилового сердца с меткой заклинателя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "59",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25297:0:0:0:0:0:-44:16:10|h[Отрегулированный нож с меткой старца]|h|r",
-                name = "Отрегулированный нож с меткой старца",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "58",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25088:0:0:0:0:0:-39:22:10|h[Сфера Веселого Черепа с меткой заклинателя]|h|r",
                 name = "Сфера Веселого Черепа с меткой заклинателя",
                 count = 1,
@@ -3848,30 +3824,6 @@ ItemStorageDB = {
                     subtype = "Левая рука",
                     required_level = "59",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25324:0:0:0:0:0:-7:37:10|h[Гневный посох со знаком медведя]|h|r",
-                name = "Гневный посох со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Посох",
-                    required_level = "57",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25227:0:0:0:0:0:-14:38:10|h[Длинное копье Ша\'тар со знаком тигра]|h|r",
-                name = "Длинное копье Ша\'тар со знаком тигра",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Древковое",
-                    required_level = "58",
-                    retention = "Двуручное",
                 },
             },
             {
@@ -3887,27 +3839,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25325:0:0:0:0:0:-14:38:10|h[Грубый шрамодел со знаком тигра]|h|r",
-                name = "Грубый шрамодел со знаком тигра",
+                link = "|cff1eff00|Hitem:25284:0:0:0:0:0:-39:12:10|h[Жезл Лилового сердца с меткой заклинателя]|h|r",
+                name = "Жезл Лилового сердца с меткой заклинателя",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "2",
-                    subtype = "Посох",
-                    required_level = "58",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25200:0:0:0:0:0:-18:17:10|h[Зазубренный широкий топор со знаком ловкости]|h|r",
-                name = "Зазубренный широкий топор со знаком ловкости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Топор",
+                    subtype = "Жезл",
                     required_level = "59",
-                    retention = "Одноручное",
+                    retention = "",
                 },
             },
             {
@@ -3944,6 +3884,66 @@ ItemStorageDB = {
                     subtype = "Кинжал",
                     required_level = "57",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25297:0:0:0:0:0:-44:16:10|h[Отрегулированный нож с меткой старца]|h|r",
+                name = "Отрегулированный нож с меткой старца",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25324:0:0:0:0:0:-7:37:10|h[Гневный посох со знаком медведя]|h|r",
+                name = "Гневный посох со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "57",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25227:0:0:0:0:0:-14:38:10|h[Длинное копье Ша\'тар со знаком тигра]|h|r",
+                name = "Длинное копье Ша\'тар со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Древковое",
+                    required_level = "58",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25325:0:0:0:0:0:-14:38:10|h[Грубый шрамодел со знаком тигра]|h|r",
+                name = "Грубый шрамодел со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "58",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25200:0:0:0:0:0:-18:17:10|h[Зазубренный широкий топор со знаком ловкости]|h|r",
+                name = "Зазубренный широкий топор со знаком ловкости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "59",
+                    retention = "Одноручное",
                 },
             },
         },
