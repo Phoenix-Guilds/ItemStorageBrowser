@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775070965
+ItemStorageDB_LastUpdate = 1775071028
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3938,7 +3938,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-01 20:12:36",
+        updated_at = "2026-04-01 22:16:54",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -3982,7 +3982,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
                 name = "Извечная вода",
-                count = 55,
+                count = 52,
                 details = {
                     quality = 2,
                     type = "",
@@ -4006,7 +4006,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35624:0:0:0:0:0:0:0:10|h[Извечная земля]|h|r",
                 name = "Извечная земля",
-                count = 8,
+                count = 5,
                 details = {
                     quality = 2,
                     type = "",
@@ -4018,7 +4018,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35627:0:0:0:0:0:0:0:10|h[Извечная тьма]|h|r",
                 name = "Извечная тьма",
-                count = 43,
+                count = 40,
                 details = {
                     quality = 2,
                     type = "",
