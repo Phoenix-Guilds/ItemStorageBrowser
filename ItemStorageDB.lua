@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775029657
+ItemStorageDB_LastUpdate = 1775029781
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13391,7 +13391,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-01 10:16:37",
+        updated_at = "2026-04-01 10:47:49",
         money = 3609,
         empty = 0,
         location = "Оргриммар",
@@ -17180,7 +17180,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-03-31 16:45:25",
+        updated_at = "2026-04-01 10:49:20",
         money = 187542,
         empty = 0,
         location = "Оргриммар",
@@ -17306,6 +17306,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
+                name = "Грубая нить",
+                count = 30,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:4589:0:0:0:0:0:0:0:10|h[Длинное элегантное перо]|h|r",
                 name = "Длинное элегантное перо",
                 count = 98,
@@ -17405,18 +17417,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                 name = "Рулон льняной ткани",
                 count = 274,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
-                name = "Грубая нить",
-                count = 50,
                 details = {
                     quality = 1,
                     type = "",
