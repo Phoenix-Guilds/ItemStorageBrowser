@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1775060612
+ItemStorageDB_LastUpdate = 1775060857
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-03-30 23:09:41",
+        updated_at = "2026-04-01 19:27:07",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -1726,7 +1726,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42955:0:0:0:0:0:0:0:10|h[Символ внезапного удара]|h|r",
                 name = "Символ внезапного удара",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -1810,7 +1810,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
                 name = "Символ обшаривания карманов",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
