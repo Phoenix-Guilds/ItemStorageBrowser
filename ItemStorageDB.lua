@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775027171
+ItemStorageDB_LastUpdate = 1775027203
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18215,7 +18215,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-03-31 15:20:22",
+        updated_at = "2026-04-01 10:06:20",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -19825,6 +19825,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "61",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44732:0:0:0:0:0:-42:126:10|h[Шлем из кожи лазурного дракона с меткой оракула]|h|r",
+                name = "Шлем из кожи лазурного дракона с меткой оракула",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "78",
                     retention = "",
                 },
             },
