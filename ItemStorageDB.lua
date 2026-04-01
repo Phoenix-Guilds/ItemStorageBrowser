@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775071282
+ItemStorageDB_LastUpdate = 1775071344
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5048,7 +5048,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-01 16:08:01",
+        updated_at = "2026-04-01 22:21:55",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -5224,7 +5224,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
                 name = "Извечная поясная пряжка",
-                count = 2,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
