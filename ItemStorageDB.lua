@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775134939
+ItemStorageDB_LastUpdate = 1775135182
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10259,7 +10259,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-03-31 21:44:03",
+        updated_at = "2026-04-02 16:05:56",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -10279,6 +10279,18 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44688:0:0:0:0:0:-93:65:10|h[Отрубленный клык Лок\'Нахак с печатью восстановления]|h|r",
                 name = "Отрубленный клык Лок\'Нахак с печатью восстановления",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "74",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44688:0:0:0:0:0:-90:65:10|h[Отрубленный клык Лок\'Нахак с меткой некроманта]|h|r",
+                name = "Отрубленный клык Лок\'Нахак с меткой некроманта",
                 count = 1,
                 details = {
                     quality = 3,
@@ -10381,6 +10393,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "62",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44683:0:0:0:0:0:-39:65:10|h[Королевская глазница с меткой заклинателя]|h|r",
+                name = "Королевская глазница с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "74",
                     retention = "",
                 },
             },
