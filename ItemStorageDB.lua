@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775133287
+ItemStorageDB_LastUpdate = 1775133351
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10496,7 +10496,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-04-01 19:55:27",
+        updated_at = "2026-04-02 15:34:58",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -10516,7 +10516,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 4,
                     type = "2",
@@ -10850,42 +10850,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
-                name = "Крупнокалиберный дробовик",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
-                name = "Факел Остен",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
-                name = "Арбалет Ищущий Сердце",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "51",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
                 name = "Раскалывающий череп арбалет",
                 count = 5,
@@ -10918,6 +10882,42 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "37",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
+                name = "Крупнокалиберный дробовик",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
+                name = "Факел Остен",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
+                name = "Арбалет Ищущий Сердце",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "51",
                     retention = "",
                 },
             },
@@ -22253,7 +22253,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-02 12:53:09",
+        updated_at = "2026-04-02 15:35:41",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -22429,24 +22429,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:29158:0:0:0:0:0:0:0:10|h[Кольцо командора из истинного серебра]|h|r",
                 name = "Кольцо командора из истинного серебра",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Палец",
                     required_level = "35",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
-                name = "Кольцо тлеющих углей",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "32",
                     retention = "",
                 },
             },
@@ -22727,6 +22715,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
+                name = "Кольцо тлеющих углей",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "32",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:29157:0:0:0:0:0:0:0:10|h[Золотое кольцо власти]|h|r",
                 name = "Золотое кольцо власти",
                 count = 2,
@@ -22759,18 +22759,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1187:0:10|h[Тяжелое серебряное кольцо со знаком медведя]|h|r",
-                name = "Тяжелое серебряное кольцо со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "22",
                     retention = "",
                 },
             },
@@ -22812,6 +22800,18 @@ ItemStorageDB = {
             },
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1186:0:10|h[Тяжелое серебряное кольцо со знаком медведя]|h|r",
+                name = "Тяжелое серебряное кольцо со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1187:0:10|h[Тяжелое серебряное кольцо со знаком медведя]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком медведя",
                 count = 1,
                 details = {
@@ -22909,7 +22909,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
                 name = "Пылающая эмблема",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
@@ -22919,9 +22919,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
-                name = "Амулет Луны",
-                count = 3,
+                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
+                name = "Варварский железный ошейник",
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -22931,9 +22931,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
-                name = "Варварский железный ошейник",
-                count = 2,
+                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
+                name = "Амулет Луны",
+                count = 3,
                 details = {
                     quality = 2,
                     type = "4",
