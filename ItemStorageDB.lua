@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775134908
+ItemStorageDB_LastUpdate = 1775134939
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18191,7 +18191,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-02 15:42:06",
+        updated_at = "2026-04-02 16:02:17",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -19789,6 +19789,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "77",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:20665:0:0:0:0:0:2157:0:10|h[Кожаные поножи Бездны с печатью удара]|h|r",
+                name = "Кожаные поножи Бездны с печатью удара",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "57",
                     retention = "",
                 },
             },
