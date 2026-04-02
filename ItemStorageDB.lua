@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775138931
+ItemStorageDB_LastUpdate = 1775139415
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18611,7 +18611,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-02 16:02:17",
+        updated_at = "2026-04-02 17:16:44",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -20177,6 +20177,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:31254:0:0:0:0:0:-45:31:10|h[Плащ из шкуры долгонога с меткой победителя]|h|r",
+                name = "Плащ из шкуры долгонога с меткой победителя",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "64",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31181:0:0:0:0:0:-6:40:10|h[Повязки из шкуры камнечервя со знаком орла]|h|r",
+                name = "Повязки из шкуры камнечервя со знаком орла",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "62",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31149:0:0:0:0:0:0:0:10|h[Перчатки столпотворения]|h|r",
+                name = "Перчатки столпотворения",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "62",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:31176:0:0:0:0:0:-45:40:10|h[Латные боевые рукавицы из камнечервя с меткой победителя]|h|r",
                 name = "Латные боевые рукавицы из камнечервя с меткой победителя",
                 count = 1,
@@ -20185,6 +20221,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "62",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37782:0:0:0:0:0:0:0:10|h[Рукавицы веселого пламени]|h|r",
+                name = "Рукавицы веселого пламени",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44649:0:0:0:0:0:-37:75:10|h[Ноготь Хрусталедуба с меткой целителя]|h|r",
+                name = "Ноготь Хрусталедуба с меткой целителя",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "70",
                     retention = "",
                 },
             },
