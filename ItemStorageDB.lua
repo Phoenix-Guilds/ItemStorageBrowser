@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775123523
+ItemStorageDB_LastUpdate = 1775123615
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22253,7 +22253,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-01 20:34:54",
+        updated_at = "2026-04-02 12:53:09",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -22451,18 +22451,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
-                name = "Колье Горизонта",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "46",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
                 name = "Медальон главнокомандующего Морриса",
                 count = 4,
@@ -22519,6 +22507,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:14558:0:0:0:0:0:0:0:10|h[Подвеска леди Мэй]|h|r",
+                name = "Подвеска леди Мэй",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "59",
                     retention = "",
                 },
             },
@@ -22591,6 +22591,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
+                name = "Оберег Газлова",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "36",
                     retention = "",
                 },
             },
@@ -22679,18 +22691,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
-                name = "Оберег Газлова",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "36",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
                 name = "Ожерелье Калисеи",
                 count = 6,
@@ -22711,6 +22711,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "44",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
+                name = "Колье Горизонта",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "46",
                     retention = "",
                 },
             },
@@ -22811,18 +22823,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
-                name = "Амулет Луны",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
                 name = "Подвеска Агатового Щита",
                 count = 2,
@@ -22915,6 +22915,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Аксессуар",
                     required_level = "38",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
+                name = "Амулет Луны",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "25",
                     retention = "",
                 },
             },
