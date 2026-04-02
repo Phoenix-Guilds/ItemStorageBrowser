@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775158003
+ItemStorageDB_LastUpdate = 1775161898
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17804,7 +17804,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-02 22:08:27",
+        updated_at = "2026-04-02 23:31:09",
         money = 194502,
         empty = 0,
         location = "Оргриммар",
@@ -17884,7 +17884,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 514,
+                count = 464,
                 details = {
                     quality = 1,
                     type = "",
@@ -18026,6 +18026,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
+                name = "Паутина",
+                count = 314,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
+                name = "Шерсть",
+                count = 530,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                 name = "Магическая ткань",
                 count = 504,
@@ -18065,30 +18089,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                 name = "Рулон шелка",
                 count = 169,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
-                name = "Паутина",
-                count = 314,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
-                name = "Шерсть",
-                count = 530,
                 details = {
                     quality = 1,
                     type = "",
