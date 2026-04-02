@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775135741
+ItemStorageDB_LastUpdate = 1775135772
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11546,7 +11546,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-02 16:06:32",
+        updated_at = "2026-04-02 16:16:11",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -12820,6 +12820,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:27684:0:0:0:0:0:0:0:10|h[Рецепт: закуска из канюка]|h|r",
+                name = "Рецепт: закуска из канюка",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "55",
                     retention = "",
                 },
             },
