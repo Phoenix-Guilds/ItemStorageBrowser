@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775143828
+ItemStorageDB_LastUpdate = 1775143859
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11930,7 +11930,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-02 16:16:11",
+        updated_at = "2026-04-02 18:30:44",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -13228,6 +13228,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
+                name = "Рецепт: зелье скорости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
                     retention = "",
                 },
             },
