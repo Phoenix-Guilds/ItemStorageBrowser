@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775142938
+ItemStorageDB_LastUpdate = 1775142970
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18671,7 +18671,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-02 17:16:44",
+        updated_at = "2026-04-02 18:16:02",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -19013,18 +19013,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31237:0:0:0:0:0:0:0:10|h[Поножи из шкуры элекка]|h|r",
-                name = "Поножи из шкуры элекка",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "66",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:31212:0:0:0:0:0:-8:60:10|h[Поножи из шкуры химеры со знаком кита]|h|r",
                 name = "Поножи из шкуры химеры со знаком кита",
                 count = 1,
@@ -19157,6 +19145,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37764:0:0:0:0:0:0:0:10|h[Наплечные пластины из клыков гончей Недр]|h|r",
+                name = "Наплечные пластины из клыков гончей Недр",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "72",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:37779:0:0:0:0:0:0:0:10|h[Опутанный цепями наплеч Никсода]|h|r",
                 name = "Опутанный цепями наплеч Никсода",
                 count = 1,
@@ -19250,6 +19250,18 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "74",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
+                name = "Тотем бури",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Тотем",
+                    required_level = "60",
+                    retention = "",
                 },
             },
             {
@@ -20213,18 +20225,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
-                name = "Тотем бури",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Тотем",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:31140:0:0:0:0:0:0:0:10|h[Плащ пустоты]|h|r",
                 name = "Плащ пустоты",
                 count = 1,
@@ -20263,6 +20263,18 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31149:0:0:0:0:0:0:0:10|h[Перчатки столпотворения]|h|r",
                 name = "Перчатки столпотворения",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "62",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31150:0:0:0:0:0:0:0:10|h[Перчатки благочестия]|h|r",
+                name = "Перчатки благочестия",
                 count = 1,
                 details = {
                     quality = 3,
@@ -20369,18 +20381,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-11:51:10|h[Ножные латы из чешуи нага со знаком сокола]|h|r",
-                name = "Ножные латы из чешуи нага со знаком сокола",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "61",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-6:51:10|h[Ножные латы из чешуи нага со знаком орла]|h|r",
                 name = "Ножные латы из чешуи нага со знаком орла",
                 count = 1,
@@ -20393,13 +20393,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-35:51:10|h[Набедренники из чешуи нага с защитой от темной магии]|h|r",
-                name = "Набедренники из чешуи нага с защитой от темной магии",
+                link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-11:51:10|h[Ножные латы из чешуи нага со знаком сокола]|h|r",
+                name = "Ножные латы из чешуи нага со знаком сокола",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Кольчуга",
+                    subtype = "Латы",
                     required_level = "61",
                     retention = "",
                 },
@@ -20417,6 +20417,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-35:51:10|h[Набедренники из чешуи нага с защитой от темной магии]|h|r",
+                name = "Набедренники из чешуи нага с защитой от темной магии",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "61",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:31240:0:0:0:0:0:0:0:10|h[Чешуя Зверя]|h|r",
                 name = "Чешуя Зверя",
                 count = 1,
@@ -20424,6 +20436,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "4",
                     subtype = "Кольчуга",
+                    required_level = "66",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31237:0:0:0:0:0:0:0:10|h[Поножи из шкуры элекка]|h|r",
+                name = "Поножи из шкуры элекка",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
                     required_level = "66",
                     retention = "",
                 },
