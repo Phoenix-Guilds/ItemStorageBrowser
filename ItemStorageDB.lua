@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775133693
+ItemStorageDB_LastUpdate = 1775133755
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18191,7 +18191,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-01 11:40:53",
+        updated_at = "2026-04-02 15:42:06",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -19745,6 +19745,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:31140:0:0:0:0:0:0:0:10|h[Плащ пустоты]|h|r",
+                name = "Плащ пустоты",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "61",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:31176:0:0:0:0:0:-45:40:10|h[Латные боевые рукавицы из камнечервя с меткой победителя]|h|r",
                 name = "Латные боевые рукавицы из камнечервя с меткой победителя",
                 count = 1,
@@ -19777,6 +19789,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "77",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31133:0:0:0:0:0:0:0:10|h[Поножи сгустка тьмы]|h|r",
+                name = "Поножи сгустка тьмы",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "60",
                     retention = "",
                 },
             },
