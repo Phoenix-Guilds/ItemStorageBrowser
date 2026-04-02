@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775133937
+ItemStorageDB_LastUpdate = 1775134753
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17156,7 +17156,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-02 12:41:43",
+        updated_at = "2026-04-02 15:58:52",
         money = 187542,
         empty = 0,
         location = "Оргриммар",
@@ -17224,7 +17224,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14227:0:0:0:0:0:0:0:10|h[Железношелковая паутина]|h|r",
                 name = "Железношелковая паутина",
-                count = 42,
+                count = 52,
                 details = {
                     quality = 1,
                     type = "",
@@ -17236,7 +17236,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 917,
+                count = 1067,
                 details = {
                     quality = 1,
                     type = "",
@@ -17416,7 +17416,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
                 name = "Рулон шерсти",
-                count = 134,
+                count = 100,
                 details = {
                     quality = 1,
                     type = "",
@@ -17428,7 +17428,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                 name = "Тенешелк",
-                count = 94,
+                count = 100,
                 details = {
                     quality = 1,
                     type = "",
@@ -17440,7 +17440,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                 name = "Плотная паутина",
-                count = 110,
+                count = 114,
                 details = {
                     quality = 1,
                     type = "",
@@ -17452,7 +17452,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                 name = "Рулон шелка",
-                count = 212,
+                count = 62,
                 details = {
                     quality = 1,
                     type = "",
