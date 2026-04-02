@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775141206
+ItemStorageDB_LastUpdate = 1775141570
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5108,7 +5108,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-02 16:16:51",
+        updated_at = "2026-04-02 17:52:22",
         money = 9572,
         empty = 15,
         location = "Оргриммар",
@@ -5140,7 +5140,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                 name = "Твердый камень",
-                count = 975,
+                count = 988,
                 details = {
                     quality = 1,
                     type = "",
@@ -5320,7 +5320,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
                 name = "Чародейный кристалл",
-                count = 27,
+                count = 30,
                 details = {
                     quality = 2,
                     type = "",
@@ -5332,7 +5332,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12799:0:0:0:0:0:0:0:10|h[Большой опал]|h|r",
                 name = "Большой опал",
-                count = 3,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
@@ -5344,7 +5344,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
                 name = "Синий сапфир",
-                count = 8,
+                count = 10,
                 details = {
                     quality = 2,
                     type = "",
@@ -5356,7 +5356,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                 name = "Звездный рубин",
-                count = 29,
+                count = 37,
                 details = {
                     quality = 2,
                     type = "",
@@ -5368,7 +5368,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
                 name = "Аквамарин",
-                count = 87,
+                count = 93,
                 details = {
                     quality = 2,
                     type = "",
@@ -5380,7 +5380,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3864:0:0:0:0:0:0:0:10|h[Цитрин]|h|r",
                 name = "Цитрин",
-                count = 55,
+                count = 61,
                 details = {
                     quality = 2,
                     type = "",
@@ -5404,7 +5404,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                 name = "Малый лунный камень",
-                count = 81,
+                count = 82,
                 details = {
                     quality = 2,
                     type = "",
@@ -5416,7 +5416,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
-                count = 138,
+                count = 140,
                 details = {
                     quality = 2,
                     type = "",
@@ -5440,7 +5440,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11754:0:0:0:0:0:0:0:10|h[Черный алмаз]|h|r",
                 name = "Черный алмаз",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
@@ -5452,7 +5452,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 303,
+                count = 307,
                 details = {
                     quality = 2,
                     type = "",
@@ -5620,7 +5620,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12800:0:0:0:0:0:0:0:10|h[Азеротский алмаз]|h|r",
                 name = "Азеротский алмаз",
-                count = 12,
+                count = 14,
                 details = {
                     quality = 2,
                     type = "",
@@ -5632,21 +5632,9 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
                 name = "Огромный изумруд",
-                count = 13,
+                count = 14,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
-                name = "Стремительный алмаз небесного сияния",
-                count = 4,
-                details = {
-                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -5741,6 +5729,18 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:23437:0:0:0:0:0:0:0:10|h[Талассит]|h|r",
                 name = "Талассит",
                 count = 15,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
+                name = "Стремительный алмаз небесного сияния",
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
