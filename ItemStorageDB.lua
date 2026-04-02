@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775135182
+ItemStorageDB_LastUpdate = 1775135214
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11534,7 +11534,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-02 12:45:47",
+        updated_at = "2026-04-02 16:06:32",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -11876,14 +11876,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:12704:0:0:0:0:0:0:0:10|h[Чертеж: ториевые поножи]|h|r",
-                name = "Чертеж: ториевые поножи",
+                link = "|cff1eff00|Hitem:16055:0:0:0:0:0:0:0:10|h[Схема: чародейская бомба]|h|r",
+                name = "Схема: чародейская бомба",
                 count = 1,
                 details = {
                     quality = 2,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "55",
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -12812,6 +12812,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:16245:0:0:0:0:0:0:0:10|h[Формула: зачаровывание обуви - ловкость, III ступень]|h|r",
+                name = "Формула: зачаровывание обуви - ловкость, III ступень",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:12702:0:0:0:0:0:0:0:10|h[Чертеж: светозарный венец]|h|r",
                 name = "Чертеж: светозарный венец",
                 count = 1,
@@ -12820,6 +12832,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "54",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12704:0:0:0:0:0:0:0:10|h[Чертеж: ториевые поножи]|h|r",
+                name = "Чертеж: ториевые поножи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "55",
                     retention = "",
                 },
             },
