@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775123648
+ItemStorageDB_LastUpdate = 1775133287
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13319,7 +13319,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-01 10:52:36",
+        updated_at = "2026-04-02 15:34:17",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -13471,7 +13471,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
                 name = "Сырой солнечный лосось",
-                count = 49,
+                count = 39,
                 details = {
                     quality = 1,
                     type = "",
@@ -13483,7 +13483,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
                 name = "Сырая каменношкурая треска",
-                count = 153,
+                count = 121,
                 details = {
                     quality = 1,
                     type = "",
@@ -13531,7 +13531,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                 name = "Сырой острозубый илистый луциан",
-                count = 104,
+                count = 130,
                 details = {
                     quality = 1,
                     type = "",
@@ -13555,7 +13555,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                 name = "Сырая блестящая рыбка",
-                count = 59,
+                count = 69,
                 details = {
                     quality = 1,
                     type = "",
