@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775135277
+ItemStorageDB_LastUpdate = 1775135430
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5753,7 +5753,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-04-02 12:47:42",
+        updated_at = "2026-04-02 16:10:02",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -5917,7 +5917,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19281:0:0:0:0:0:0:0:10|h[Пятерка из колоды Порталов]|h|r",
                 name = "Пятерка из колоды Порталов",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
@@ -6107,6 +6107,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
+                name = "Осколок души",
+                count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
                 name = "Карта Новолуния: Синий Дракон",
                 count = 1,
@@ -6115,18 +6127,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Аксессуар",
                     required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
-                name = "Осколок души",
-                count = 24,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
@@ -6169,7 +6169,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "",
