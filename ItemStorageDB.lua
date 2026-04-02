@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775139694
+ItemStorageDB_LastUpdate = 1775139726
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6374,7 +6374,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-02 16:54:19",
+        updated_at = "2026-04-02 17:22:05",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -6670,7 +6670,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 724,
+                count = 726,
                 details = {
                     quality = 1,
                     type = "",
@@ -6694,7 +6694,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4232:0:0:0:0:0:0:0:10|h[Средняя шкура]|h|r",
                 name = "Средняя шкура",
-                count = 65,
+                count = 66,
                 details = {
                     quality = 1,
                     type = "",
@@ -6946,7 +6946,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
                 name = "Черепаший панцирь",
-                count = 52,
+                count = 55,
                 details = {
                     quality = 1,
                     type = "",
@@ -6970,7 +6970,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
                 name = "Тяжелая шкура",
-                count = 96,
+                count = 102,
                 details = {
                     quality = 1,
                     type = "",
@@ -7138,7 +7138,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
                 name = "Плотная шкура",
-                count = 50,
+                count = 58,
                 details = {
                     quality = 1,
                     type = "",
