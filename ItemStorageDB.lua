@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1775138171
+ItemStorageDB_LastUpdate = 1775138264
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-04-01 19:27:07",
+        updated_at = "2026-04-02 16:57:30",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -1138,7 +1138,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41532:0:0:0:0:0:0:0:10|h[Символ оружия языка пламени]|h|r",
                 name = "Символ оружия языка пламени",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -1474,7 +1474,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42907:0:0:0:0:0:0:0:10|h[Символ метки охотника]|h|r",
                 name = "Символ метки охотника",
-                count = 9,
+                count = 14,
                 details = {
                     quality = 1,
                     type = "",
