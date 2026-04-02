@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775143703
+ItemStorageDB_LastUpdate = 1775143766
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11381,23 +11381,11 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-04-01 12:33:53",
+        updated_at = "2026-04-02 18:29:13",
         money = 38278,
         empty = 0,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
-                name = "Рунический серебряный жезл",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
             {
                 link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
                 name = "Превосходное волшебное масло",
@@ -11507,6 +11495,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:11178:0:0:0:0:0:0:0:10|h[Большой светозарный осколок]|h|r",
+                name = "Большой светозарный осколок",
+                count = 23,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
                 name = "Жезл из истинного серебра",
                 count = 5,
@@ -11605,7 +11605,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
                 name = "Пыль духа",
-                count = 597,
+                count = 762,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
+                name = "Рунический серебряный жезл",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -11617,7 +11629,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
-                count = 150,
+                count = 350,
                 details = {
                     quality = 1,
                     type = "",
@@ -11656,78 +11668,6 @@ ItemStorageDB = {
                 count = 216,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11178:0:0:0:0:0:0:0:10|h[Большой светозарный осколок]|h|r",
-                name = "Большой светозарный осколок",
-                count = 23,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11177:0:0:0:0:0:0:0:10|h[Малый светозарный осколок]|h|r",
-                name = "Малый светозарный осколок",
-                count = 163,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11139:0:0:0:0:0:0:0:10|h[Большой светящийся осколок]|h|r",
-                name = "Большой светящийся осколок",
-                count = 111,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11138:0:0:0:0:0:0:0:10|h[Малый светящийся осколок]|h|r",
-                name = "Малый светящийся осколок",
-                count = 68,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11084:0:0:0:0:0:0:0:10|h[Большой мерцающий осколок]|h|r",
-                name = "Большой мерцающий осколок",
-                count = 128,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
-                name = "Малый мерцающий осколок",
-                count = 93,
-                details = {
-                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -11800,6 +11740,66 @@ ItemStorageDB = {
                 count = 266,
                 details = {
                     quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:11177:0:0:0:0:0:0:0:10|h[Малый светозарный осколок]|h|r",
+                name = "Малый светозарный осколок",
+                count = 163,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:11139:0:0:0:0:0:0:0:10|h[Большой светящийся осколок]|h|r",
+                name = "Большой светящийся осколок",
+                count = 111,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:11138:0:0:0:0:0:0:0:10|h[Малый светящийся осколок]|h|r",
+                name = "Малый светящийся осколок",
+                count = 68,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:11084:0:0:0:0:0:0:0:10|h[Большой мерцающий осколок]|h|r",
+                name = "Большой мерцающий осколок",
+                count = 128,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
+                name = "Малый мерцающий осколок",
+                count = 93,
+                details = {
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
