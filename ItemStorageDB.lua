@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775137922
+ItemStorageDB_LastUpdate = 1775138045
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17657,7 +17657,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-02 16:13:57",
+        updated_at = "2026-04-02 16:53:46",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -18241,7 +18241,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                 name = "Призрачная поганка",
-                count = 56,
+                count = 73,
                 details = {
                     quality = 1,
                     type = "",
