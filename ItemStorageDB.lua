@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775123150
+ItemStorageDB_LastUpdate = 1775123212
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9008,7 +9008,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-03-31 15:21:21",
+        updated_at = "2026-04-02 12:46:26",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -9134,9 +9134,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
+                name = "Пластины из темного железа",
+                count = 147,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
                 name = "Радужное перо",
-                count = 32,
+                count = 34,
                 details = {
                     quality = 1,
                     type = "",
