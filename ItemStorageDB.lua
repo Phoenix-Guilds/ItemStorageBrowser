@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775135430
+ItemStorageDB_LastUpdate = 1775135553
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8063,7 +8063,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-02 12:47:06",
+        updated_at = "2026-04-02 16:10:55",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -8167,7 +8167,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
                 name = "Огромный флакон с зельем маны",
-                count = 33,
+                count = 35,
                 details = {
                     quality = 1,
                     type = "",
@@ -8455,7 +8455,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
                 name = "Масло льда",
-                count = 12,
+                count = 13,
                 details = {
                     quality = 1,
                     type = "",
@@ -17204,7 +17204,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-02 15:58:52",
+        updated_at = "2026-04-02 16:12:26",
         money = 187542,
         empty = 0,
         location = "Оргриммар",
@@ -17284,7 +17284,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 1067,
+                count = 1130,
                 details = {
                     quality = 1,
                     type = "",
@@ -17392,7 +17392,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
-                count = 310,
+                count = 314,
                 details = {
                     quality = 1,
                     type = "",
@@ -17417,6 +17417,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                 name = "Рулон льняной ткани",
                 count = 274,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
+                name = "Ткань Скверны",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
