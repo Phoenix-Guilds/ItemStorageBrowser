@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775155511
+ItemStorageDB_LastUpdate = 1775155574
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5981,7 +5981,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-04-02 16:10:02",
+        updated_at = "2026-04-02 21:46:14",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -6085,7 +6085,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19259:0:0:0:0:0:0:0:10|h[Двойка из колоды Полководцев]|h|r",
                 name = "Двойка из колоды Полководцев",
-                count = 7,
+                count = 8,
                 details = {
                     quality = 3,
                     type = "",
@@ -6335,18 +6335,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
-                name = "Осколок души",
-                count = 32,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
                 name = "Карта Новолуния: Синий Дракон",
                 count = 1,
@@ -6355,6 +6343,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Аксессуар",
                     required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
+                name = "Осколок души",
+                count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -11084,7 +11084,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-04-02 15:34:58",
+        updated_at = "2026-04-02 21:45:32",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -11380,7 +11380,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:15997:0:0:0:0:0:0:0:10|h[Ториевые патроны]|h|r",
                 name = "Ториевые патроны",
-                count = 15705,
+                count = 17710,
                 details = {
                     quality = 2,
                     type = "6",
@@ -11438,42 +11438,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
-                name = "Раскалывающий череп арбалет",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "43",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
-                name = "Глушитель",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
-                name = "Огнеиспускатель Джайны",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "37",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
                 name = "Крупнокалиберный дробовик",
                 count = 5,
@@ -11506,6 +11470,42 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Арбалет",
                     required_level = "51",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
+                name = "Раскалывающий череп арбалет",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "43",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
+                name = "Глушитель",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "37",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
+                name = "Огнеиспускатель Джайны",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "37",
                     retention = "",
                 },
             },
