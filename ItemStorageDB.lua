@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775133600
+ItemStorageDB_LastUpdate = 1775133693
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3497,7 +3497,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-01 10:47:06",
+        updated_at = "2026-04-02 15:41:22",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -3799,6 +3799,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25045:0:0:0:0:0:-40:21:10|h[Азуритовое кольцо с меткой преступника]|h|r",
+                name = "Азуритовое кольцо с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25031:0:0:0:0:0:-40:21:10|h[Луносветский королевский плащ с меткой преступника]|h|r",
+                name = "Луносветский королевский плащ с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "58",
                     retention = "",
                 },
             },
