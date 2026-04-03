@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775246429
+ItemStorageDB_LastUpdate = 1775246451
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21584,7 +21584,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-03 22:04:37",
+        updated_at = "2026-04-03 23:00:31",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -22738,18 +22738,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "24",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
-                name = "Окованные серебром прочные ботинки",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "16",
                     retention = "",
                 },
             },
