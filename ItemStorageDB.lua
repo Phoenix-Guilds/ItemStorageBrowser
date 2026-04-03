@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775242138
+ItemStorageDB_LastUpdate = 1775242192
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3653,7 +3653,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-03 08:38:05",
+        updated_at = "2026-04-03 21:49:43",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -4187,18 +4187,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25284:0:0:0:0:0:-39:12:10|h[Жезл Лилового сердца с меткой заклинателя]|h|r",
-                name = "Жезл Лилового сердца с меткой заклинателя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "59",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25282:0:0:0:0:0:-37:12:10|h[Жезл из красного дерева с меткой целителя]|h|r",
                 name = "Жезл из красного дерева с меткой целителя",
                 count = 1,
@@ -4206,6 +4194,18 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Жезл",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-41:12:10|h[Арбалет башни с меткой зверя]|h|r",
+                name = "Арбалет башни с меткой зверя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Арбалет",
                     required_level = "57",
                     retention = "",
                 },
@@ -4223,30 +4223,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25088:0:0:0:0:0:-39:22:10|h[Сфера Веселого Черепа с меткой заклинателя]|h|r",
-                name = "Сфера Веселого Черепа с меткой заклинателя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "59",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-41:12:10|h[Арбалет башни с меткой зверя]|h|r",
-                name = "Арбалет башни с меткой зверя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "57",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25270:0:0:0:0:0:-40:12:10|h[Штурмовая винтовка гномов с меткой преступника]|h|r",
                 name = "Штурмовая винтовка гномов с меткой преступника",
                 count = 1,
@@ -4254,6 +4230,30 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Огнестрельное",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25284:0:0:0:0:0:-39:12:10|h[Жезл Лилового сердца с меткой заклинателя]|h|r",
+                name = "Жезл Лилового сердца с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25088:0:0:0:0:0:-39:22:10|h[Сфера Веселого Черепа с меткой заклинателя]|h|r",
+                name = "Сфера Веселого Черепа с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
                     required_level = "59",
                     retention = "",
                 },
@@ -10979,7 +10979,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-02 16:05:56",
+        updated_at = "2026-04-03 21:48:50",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
