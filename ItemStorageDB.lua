@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775244781
+ItemStorageDB_LastUpdate = 1775244812
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9428,7 +9428,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-03 21:47:06",
+        updated_at = "2026-04-03 22:33:09",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -9448,7 +9448,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 12,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
