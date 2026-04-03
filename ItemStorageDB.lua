@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775243180
+ItemStorageDB_LastUpdate = 1775243212
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5051,7 +5051,7 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = "2026-03-17 16:51:46",
+        updated_at = "2026-04-03 22:06:47",
         money = 16160,
         empty = 0,
         location = "Оргриммар",
@@ -5144,18 +5144,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:23782:0:0:0:0:0:0:0:10|h[Обшивка из оскверненного железа]|h|r",
                 name = "Обшивка из оскверненного железа",
                 count = 36,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:16006:0:0:0:0:0:0:0:10|h[Сверхточный арканитовый преобразователь]|h|r",
-                name = "Сверхточный арканитовый преобразователь",
-                count = 1,
                 details = {
                     quality = 1,
                     type = "",
