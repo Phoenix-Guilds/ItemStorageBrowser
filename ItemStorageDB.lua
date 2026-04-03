@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775241587
+ItemStorageDB_LastUpdate = 1775241619
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14432,7 +14432,7 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = "2026-04-02 22:00:43",
+        updated_at = "2026-04-03 21:40:15",
         money = 4291,
         empty = 0,
         location = "Оргриммар",
@@ -14822,30 +14822,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:33462:0:0:0:0:0:0:0:10|h[Свиток силы VI]|h|r",
-                name = "Свиток силы VI",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:27498:0:0:0:0:0:0:0:10|h[Свиток ловкости V]|h|r",
-                name = "Свиток ловкости V",
-                count = 50,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "50",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:38866:0:0:0:0:0:0:0:10|h[Свиток чар для нагрудника - здоровье VI]|h|r",
                 name = "Свиток чар для нагрудника - здоровье VI",
                 count = 4,
@@ -15002,14 +14978,26 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2290:0:0:0:0:0:0:0:10|h[Свиток интеллекта II]|h|r",
-                name = "Свиток интеллекта II",
-                count = 23,
+                link = "|cffffffff|Hitem:33462:0:0:0:0:0:0:0:10|h[Свиток силы VI]|h|r",
+                name = "Свиток силы VI",
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "15",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:27498:0:0:0:0:0:0:0:10|h[Свиток ловкости V]|h|r",
+                name = "Свиток ловкости V",
+                count = 50,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "50",
                     retention = "",
                 },
             },
@@ -15022,6 +15010,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2290:0:0:0:0:0:0:0:10|h[Свиток интеллекта II]|h|r",
+                name = "Свиток интеллекта II",
+                count = 23,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
                     retention = "",
                 },
             },
