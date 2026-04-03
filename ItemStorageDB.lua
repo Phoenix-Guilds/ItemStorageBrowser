@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775242076
+ItemStorageDB_LastUpdate = 1775242107
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3332,7 +3332,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-03-31 15:20:49",
+        updated_at = "2026-04-03 21:48:00",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3382,18 +3382,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "63",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
-                name = "Боевая перчатка расплаты",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "61",
                     retention = "Одноручное",
                 },
             },
