@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775308256
+ItemStorageDB_LastUpdate = 1775308438
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8591,7 +8591,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-04 14:43:21",
+        updated_at = "2026-04-04 16:13:34",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -8791,7 +8791,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                 name = "Средний флакон с зельем маны",
-                count = 276,
+                count = 246,
                 details = {
                     quality = 1,
                     type = "",
