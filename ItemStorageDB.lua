@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775297323
+ItemStorageDB_LastUpdate = 1775297355
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23225,7 +23225,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-04 12:08:20",
+        updated_at = "2026-04-04 13:08:46",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -23879,18 +23879,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
-                name = "Сверкающее ожерелье",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
                 name = "Варварский железный ошейник",
                 count = 2,
@@ -23905,7 +23893,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
                 name = "Амулет Луны",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -23915,14 +23903,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:12013:0:0:0:0:0:688:0:10|h[Кольцо пустыни со знаком тигра]|h|r",
-                name = "Кольцо пустыни со знаком тигра",
+                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
+                name = "Сверкающее ожерелье",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Палец",
-                    required_level = "44",
+                    subtype = "Шея",
+                    required_level = "20",
                     retention = "",
                 },
             },
@@ -24115,6 +24103,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "47",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12013:0:0:0:0:0:688:0:10|h[Кольцо пустыни со знаком тигра]|h|r",
+                name = "Кольцо пустыни со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "44",
                     retention = "",
                 },
             },
