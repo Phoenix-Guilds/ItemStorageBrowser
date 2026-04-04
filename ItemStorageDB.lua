@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775294851
+ItemStorageDB_LastUpdate = 1775294905
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10979,7 +10979,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-03 21:52:07",
+        updated_at = "2026-04-04 12:27:50",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -11173,18 +11173,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "77",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37821:0:0:0:0:0:0:0:10|h[Разрушительный перстень Рейна]|h|r",
-                name = "Разрушительный перстень Рейна",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "74",
                     retention = "",
                 },
             },
