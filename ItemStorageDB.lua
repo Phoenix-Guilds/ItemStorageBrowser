@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775295195
+ItemStorageDB_LastUpdate = 1775295377
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10979,7 +10979,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-04 12:27:50",
+        updated_at = "2026-04-04 12:35:39",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -11045,21 +11045,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37758:0:0:0:0:0:0:0:10|h[Неугасающее колье Рейна]|h|r",
-                name = "Неугасающее колье Рейна",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "76",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:37748:0:0:0:0:0:0:0:10|h[Ледяное ожерелье Зимней Спячки]|h|r",
                 name = "Ледяное ожерелье Зимней Спячки",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
