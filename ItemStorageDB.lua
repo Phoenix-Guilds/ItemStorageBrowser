@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775301954
+ItemStorageDB_LastUpdate = 1775302559
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19067,7 +19067,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-04 13:50:58",
+        updated_at = "2026-04-04 14:35:56",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -19409,18 +19409,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37765:0:0:0:0:0:0:0:10|h[Поножи хождения по воде]|h|r",
-                name = "Поножи хождения по воде",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "74",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:40674:0:0:0:0:0:0:0:10|h[Закаленные саронитовые ножные латы]|h|r",
                 name = "Закаленные саронитовые ножные латы",
                 count = 1,
@@ -19589,6 +19577,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:31182:0:0:0:0:0:-5:49:10|h[Шлем Легиона со знаком мартышки]|h|r",
+                name = "Шлем Легиона со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:31183:0:0:0:0:0:-8:49:10|h[Капюшон Легиона со знаком кита]|h|r",
                 name = "Капюшон Легиона со знаком кита",
                 count = 1,
@@ -19646,6 +19646,42 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "74",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31140:0:0:0:0:0:0:0:10|h[Плащ пустоты]|h|r",
+                name = "Плащ пустоты",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "61",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31254:0:0:0:0:0:-16:31:10|h[Плащ из шкуры долгонога с печатью выносливости]|h|r",
+                name = "Плащ из шкуры долгонога с печатью выносливости",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "64",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:23490:0:0:0:0:0:0:0:10|h[Плетеный мундир из оскверненного железа]|h|r",
+                name = "Плетеный мундир из оскверненного железа",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "63",
+                    retention = "",
                 },
             },
             {
@@ -20609,32 +20645,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31140:0:0:0:0:0:0:0:10|h[Плащ пустоты]|h|r",
-                name = "Плащ пустоты",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "61",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:31254:0:0:0:0:0:-45:31:10|h[Плащ из шкуры долгонога с меткой победителя]|h|r",
                 name = "Плащ из шкуры долгонога с меткой победителя",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "64",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31254:0:0:0:0:0:-16:31:10|h[Плащ из шкуры долгонога с печатью выносливости]|h|r",
-                name = "Плащ из шкуры долгонога с печатью выносливости",
                 count = 1,
                 details = {
                     quality = 3,
@@ -20652,6 +20664,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "4",
                     subtype = "Ткань",
+                    required_level = "62",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31179:0:0:0:0:0:-13:40:10|h[Перчатки из шкуры камнечервя со знаком волка]|h|r",
+                name = "Перчатки из шкуры камнечервя со знаком волка",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
                     required_level = "62",
                     retention = "",
                 },
@@ -20741,6 +20765,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-6:51:10|h[Ножные латы из чешуи нага со знаком орла]|h|r",
+                name = "Ножные латы из чешуи нага со знаком орла",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "61",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-13:51:10|h[Ножные латы из чешуи нага со знаком волка]|h|r",
                 name = "Ножные латы из чешуи нага со знаком волка",
                 count = 1,
@@ -20765,20 +20801,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-6:51:10|h[Ножные латы из чешуи нага со знаком орла]|h|r",
-                name = "Ножные латы из чешуи нага со знаком орла",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "61",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-40:51:10|h[Набедренники из чешуи нага с меткой преступника]|h|r",
-                name = "Набедренники из чешуи нага с меткой преступника",
+                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-35:51:10|h[Набедренники из чешуи нага с защитой от темной магии]|h|r",
+                name = "Набедренники из чешуи нага с защитой от темной магии",
                 count = 1,
                 details = {
                     quality = 3,
@@ -20789,8 +20813,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-35:51:10|h[Набедренники из чешуи нага с защитой от темной магии]|h|r",
-                name = "Набедренники из чешуи нага с защитой от темной магии",
+                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-40:51:10|h[Набедренники из чешуи нага с меткой преступника]|h|r",
+                name = "Набедренники из чешуи нага с меткой преступника",
                 count = 1,
                 details = {
                     quality = 3,
@@ -20845,6 +20869,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "72",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37765:0:0:0:0:0:0:0:10|h[Поножи хождения по воде]|h|r",
+                name = "Поножи хождения по воде",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "74",
                     retention = "",
                 },
             },
