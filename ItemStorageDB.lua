@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775293502
+ItemStorageDB_LastUpdate = 1775293533
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21512,7 +21512,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-04 12:03:18",
+        updated_at = "2026-04-04 12:05:08",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -22006,18 +22006,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "44",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
-                name = "Жезл антиподов",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "17",
                     retention = "",
                 },
             },
