@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775302900
+ItemStorageDB_LastUpdate = 1775303024
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8591,7 +8591,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-04 12:13:33",
+        updated_at = "2026-04-04 14:43:21",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -8719,7 +8719,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
                 name = "Огромный флакон с лечебным зельем",
-                count = 5,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -8755,7 +8755,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                 name = "Большой флакон с лечебным зельем",
-                count = 254,
+                count = 256,
                 details = {
                     quality = 1,
                     type = "",
@@ -8791,7 +8791,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                 name = "Средний флакон с зельем маны",
-                count = 273,
+                count = 276,
                 details = {
                     quality = 1,
                     type = "",
@@ -9139,7 +9139,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
                 name = "Эликсир великанов",
-                count = 36,
+                count = 37,
                 details = {
                     quality = 1,
                     type = "",
