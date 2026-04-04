@@ -1,10 +1,10 @@
-ItemStorageDB_LastUpdate = 1775295555
+ItemStorageDB_LastUpdate = 1775295588
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-04-04 11:15:39",
+        updated_at = "2026-04-04 12:39:39",
         money = 9404,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -526,7 +526,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40914:0:0:0:0:0:0:0:10|h[Символ целительного прикосновения]|h|r",
                 name = "Символ целительного прикосновения",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -538,7 +538,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                 name = "Символ шипов",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -1628,18 +1628,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
-                name = "Поварская книга",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
                 name = "Символ пытки разума",
                 count = 8,
@@ -1792,6 +1780,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "32",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
+                name = "Поварская книга",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
