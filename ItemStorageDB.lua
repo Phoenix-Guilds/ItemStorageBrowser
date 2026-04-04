@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775293124
+ItemStorageDB_LastUpdate = 1775293157
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11717,11 +11717,23 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-04-03 21:44:13",
+        updated_at = "2026-04-04 11:59:14",
         money = 38278,
         empty = 0,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
+                name = "Рунический серебряный жезл",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
             {
                 link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
                 name = "Превосходное волшебное масло",
@@ -11735,6 +11747,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
+                name = "Простое волшебное масло",
+                count = 14,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:20744:0:0:0:0:0:0:0:10|h[Слабое волшебное масло]|h|r",
                 name = "Слабое волшебное масло",
                 count = 5,
@@ -11743,102 +11767,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:34057:0:0:0:0:0:0:0:10|h[Кристалл пропасти]|h|r",
-                name = "Кристалл пропасти",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:20725:0:0:0:0:0:0:0:10|h[Кристалл-источник]|h|r",
-                name = "Кристалл-источник",
-                count = 50,
-                details = {
-                    quality = 4,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:10|h[Маленький осколок грез]|h|r",
-                name = "Маленький осколок грез",
-                count = 57,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:10|h[Осколок грез]|h|r",
-                name = "Осколок грез",
-                count = 124,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:22449:0:0:0:0:0:0:0:10|h[Большой радужный осколок]|h|r",
-                name = "Большой радужный осколок",
-                count = 20,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
-                name = "Малый радужный осколок",
-                count = 63,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
-                name = "Малый сверкающий осколок",
-                count = 97,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11178:0:0:0:0:0:0:0:10|h[Большой светозарный осколок]|h|r",
-                name = "Большой светозарный осколок",
-                count = 23,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
@@ -11939,9 +11867,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
-                name = "Пыль духа",
-                count = 762,
+                link = "|cffffffff|Hitem:22445:0:0:0:0:0:0:0:10|h[Чародейная пыль]|h|r",
+                name = "Чародейная пыль",
+                count = 141,
                 details = {
                     quality = 1,
                     type = "",
@@ -11951,9 +11879,45 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
-                name = "Рунический серебряный жезл",
-                count = 1,
+                link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
+                name = "Пыль иллюзий",
+                count = 54,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
+                name = "Сонная пыль",
+                count = 266,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
+                name = "Пыль провидения",
+                count = 216,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
+                name = "Пыль духа",
+                count = 762,
                 details = {
                     quality = 1,
                     type = "",
@@ -11971,18 +11935,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
-                name = "Простое волшебное масло",
-                count = 14,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "30",
                     retention = "",
                 },
             },
@@ -12011,11 +11963,47 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
-                name = "Пыль провидения",
-                count = 216,
+                link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
+                name = "Великая таинственная субстанция",
+                count = 140,
                 details = {
-                    quality = 1,
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11134:0:0:0:0:0:0:0:10|h[Простая таинственная субстанция]|h|r",
+                name = "Простая таинственная субстанция",
+                count = 23,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11082:0:0:0:0:0:0:0:10|h[Великая астральная субстанция]|h|r",
+                name = "Великая астральная субстанция",
+                count = 114,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10998:0:0:0:0:0:0:0:10|h[Простая Астральная субстанция]|h|r",
+                name = "Простая Астральная субстанция",
+                count = 20,
+                details = {
+                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -12059,11 +12047,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22445:0:0:0:0:0:0:0:10|h[Чародейная пыль]|h|r",
-                name = "Чародейная пыль",
-                count = 91,
+                link = "|cffa335ee|Hitem:34057:0:0:0:0:0:0:0:10|h[Кристалл пропасти]|h|r",
+                name = "Кристалл пропасти",
+                count = 1,
                 details = {
-                    quality = 1,
+                    quality = 4,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -12071,11 +12059,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
-                name = "Пыль иллюзий",
-                count = 4,
+                link = "|cffa335ee|Hitem:20725:0:0:0:0:0:0:0:10|h[Кристалл-источник]|h|r",
+                name = "Кристалл-источник",
+                count = 50,
                 details = {
-                    quality = 1,
+                    quality = 4,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -12083,21 +12071,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
-                name = "Сонная пыль",
-                count = 266,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11177:0:0:0:0:0:0:0:10|h[Малый светозарный осколок]|h|r",
-                name = "Малый светозарный осколок",
-                count = 163,
+                link = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:10|h[Маленький осколок грез]|h|r",
+                name = "Маленький осколок грез",
+                count = 57,
                 details = {
                     quality = 3,
                     type = "",
@@ -12107,9 +12083,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:11139:0:0:0:0:0:0:0:10|h[Большой светящийся осколок]|h|r",
-                name = "Большой светящийся осколок",
-                count = 111,
+                link = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:10|h[Осколок грез]|h|r",
+                name = "Осколок грез",
+                count = 124,
                 details = {
                     quality = 3,
                     type = "",
@@ -12119,9 +12095,33 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:11138:0:0:0:0:0:0:0:10|h[Малый светящийся осколок]|h|r",
-                name = "Малый светящийся осколок",
-                count = 68,
+                link = "|cff0070dd|Hitem:22449:0:0:0:0:0:0:0:10|h[Большой радужный осколок]|h|r",
+                name = "Большой радужный осколок",
+                count = 20,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
+                name = "Малый радужный осколок",
+                count = 113,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
+                name = "Малый сверкающий осколок",
+                count = 149,
                 details = {
                     quality = 3,
                     type = "",
@@ -12145,7 +12145,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
                 name = "Малый мерцающий осколок",
-                count = 93,
+                count = 96,
                 details = {
                     quality = 3,
                     type = "",
@@ -12181,7 +12181,19 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22447:0:0:0:0:0:0:0:10|h[Простая планарная субстанция]|h|r",
                 name = "Простая планарная субстанция",
-                count = 20,
+                count = 70,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
+                name = "Великая вечная субстанция",
+                count = 10,
                 details = {
                     quality = 2,
                     type = "",
@@ -12193,7 +12205,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:16202:0:0:0:0:0:0:0:10|h[Простая вечная субстанция]|h|r",
                 name = "Простая вечная субстанция",
-                count = 1,
+                count = 27,
                 details = {
                     quality = 2,
                     type = "",
@@ -12215,11 +12227,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
-                name = "Великая таинственная субстанция",
-                count = 140,
+                link = "|cff0070dd|Hitem:11178:0:0:0:0:0:0:0:10|h[Большой светозарный осколок]|h|r",
+                name = "Большой светозарный осколок",
+                count = 73,
                 details = {
-                    quality = 2,
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -12227,11 +12239,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11134:0:0:0:0:0:0:0:10|h[Простая таинственная субстанция]|h|r",
-                name = "Простая таинственная субстанция",
-                count = 23,
+                link = "|cff0070dd|Hitem:11177:0:0:0:0:0:0:0:10|h[Малый светозарный осколок]|h|r",
+                name = "Малый светозарный осколок",
+                count = 163,
                 details = {
-                    quality = 2,
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -12239,11 +12251,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11082:0:0:0:0:0:0:0:10|h[Великая астральная субстанция]|h|r",
-                name = "Великая астральная субстанция",
-                count = 84,
+                link = "|cff0070dd|Hitem:11139:0:0:0:0:0:0:0:10|h[Большой светящийся осколок]|h|r",
+                name = "Большой светящийся осколок",
+                count = 111,
                 details = {
-                    quality = 2,
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -12251,11 +12263,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:10998:0:0:0:0:0:0:0:10|h[Простая Астральная субстанция]|h|r",
-                name = "Простая Астральная субстанция",
-                count = 20,
+                link = "|cff0070dd|Hitem:11138:0:0:0:0:0:0:0:10|h[Малый светящийся осколок]|h|r",
+                name = "Малый светящийся осколок",
+                count = 118,
                 details = {
-                    quality = 2,
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
