@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775296550
+ItemStorageDB_LastUpdate = 1775296582
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11027,7 +11027,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-04 12:35:39",
+        updated_at = "2026-04-04 12:56:16",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -11245,18 +11245,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "70",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31258:0:0:0:0:0:0:0:10|h[Кольцо скорби]|h|r",
-                name = "Кольцо скорби",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "66",
                     retention = "",
                 },
             },
