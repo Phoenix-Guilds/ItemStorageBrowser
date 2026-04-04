@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1775295992
+ItemStorageDB_LastUpdate = 1775296144
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-04-04 12:39:39",
+        updated_at = "2026-04-04 12:48:59",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -500,30 +500,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
-                name = "Книга познания символов",
-                count = 54,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
-                name = "Символ омоложения",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:40914:0:0:0:0:0:0:0:10|h[Символ целительного прикосновения]|h|r",
                 name = "Символ целительного прикосновения",
                 count = 4,
@@ -550,7 +526,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40912:0:0:0:0:0:0:0:10|h[Символ восстановления]|h|r",
                 name = "Символ восстановления",
-                count = 10,
+                count = 9,
                 details = {
                     quality = 1,
                     type = "",
@@ -584,6 +560,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:40908:0:0:0:0:0:0:0:10|h[Символ озарения]|h|r",
+                name = "Символ озарения",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "40",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:45604:0:0:0:0:0:0:0:10|h[Символ дикого рева]|h|r",
                 name = "Символ дикого рева",
                 count = 3,
@@ -598,12 +586,24 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40906:0:0:0:0:0:0:0:10|h[Символ быстрого восстановления]|h|r",
                 name = "Символ быстрого восстановления",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:45602:0:0:0:0:0:0:0:10|h[Символ буйного роста]|h|r",
+                name = "Символ буйного роста",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "60",
                     retention = "",
                 },
             },
@@ -1414,7 +1414,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42400:0:0:0:0:0:0:0:10|h[Символ быстрого исцеления]|h|r",
                 name = "Символ быстрого исцеления",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -1456,6 +1456,66 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
+                name = "Книга познания символов",
+                count = 54,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:43335:0:0:0:0:0:0:0:10|h[Символ дикой природы]|h|r",
+                name = "Символ дикой природы",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
+                name = "Символ омоложения",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:50125:0:0:0:0:0:0:0:10|h[Символ стремительного омоложения]|h|r",
+                name = "Символ стремительного омоложения",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
+                name = "Поварская книга",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -1780,18 +1840,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "32",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
-                name = "Поварская книга",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
