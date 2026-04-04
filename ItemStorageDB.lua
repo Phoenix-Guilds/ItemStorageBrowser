@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775299263
+ItemStorageDB_LastUpdate = 1775299324
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3689,7 +3689,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-03 21:49:43",
+        updated_at = "2026-04-04 13:41:50",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -4387,6 +4387,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25044:0:0:0:0:0:-44:21:10|h[Рубеллитовое кольцо с меткой старца]|h|r",
+                name = "Рубеллитовое кольцо с меткой старца",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "57",
                     retention = "",
                 },
             },
