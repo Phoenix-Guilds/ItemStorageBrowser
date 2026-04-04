@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775292998
+ItemStorageDB_LastUpdate = 1775293030
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18257,7 +18257,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-03 21:42:43",
+        updated_at = "2026-04-04 11:56:55",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -18551,6 +18551,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
+                name = "Удавник",
+                count = 229,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
                 count = 285,
@@ -18671,18 +18683,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
-                name = "Удавник",
-                count = 229,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
                 name = "Сквернопля",
                 count = 185,
@@ -18721,7 +18721,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
                 name = "Чумоцвет",
-                count = 43,
+                count = 76,
                 details = {
                     quality = 1,
                     type = "",
@@ -18733,7 +18733,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                 name = "Горный серебряный шалфей",
-                count = 2,
+                count = 15,
                 details = {
                     quality = 1,
                     type = "",
@@ -18745,7 +18745,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                 name = "Снолист",
-                count = 16,
+                count = 36,
                 details = {
                     quality = 1,
                     type = "",
@@ -18757,7 +18757,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                 name = "Золотой сансам",
-                count = 159,
+                count = 171,
                 details = {
                     quality = 1,
                     type = "",
@@ -18781,7 +18781,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3819:0:0:0:0:0:0:0:10|h[Морозник]|h|r",
                 name = "Морозник",
-                count = 37,
+                count = 38,
                 details = {
                     quality = 1,
                     type = "",
