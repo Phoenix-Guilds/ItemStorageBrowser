@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775299201
+ItemStorageDB_LastUpdate = 1775299263
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12290,7 +12290,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-04 13:25:26",
+        updated_at = "2026-04-04 13:40:28",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -12632,18 +12632,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6390:0:0:0:0:0:0:0:10|h[Выкройка: стильная синяя рубашка]|h|r",
-                name = "Выкройка: стильная синяя рубашка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:7090:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шелковая броня]|h|r",
                 name = "Выкройка: зеленая шелковая броня",
                 count = 1,
@@ -12796,6 +12784,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:15760:0:0:0:0:0:0:0:10|h[Выкройка: железноперая кираса]|h|r",
+                name = "Выкройка: железноперая кираса",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "53",
                     retention = "",
                 },
             },
@@ -13660,6 +13660,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6390:0:0:0:0:0:0:0:10|h[Выкройка: стильная синяя рубашка]|h|r",
+                name = "Выкройка: стильная синяя рубашка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
