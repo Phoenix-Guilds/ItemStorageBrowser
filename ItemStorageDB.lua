@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775303087
+ItemStorageDB_LastUpdate = 1775303149
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9845,7 +9845,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-04 14:41:24",
+        updated_at = "2026-04-04 14:45:30",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -9995,6 +9995,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:27681:0:0:0:0:0:0:0:10|h[Плоть прыгуаны]|h|r",
+                name = "Плоть прыгуаны",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:27439:0:0:0:0:0:0:0:10|h[Разъяренный речной рак]|h|r",
                 name = "Разъяренный речной рак",
                 count = 11,
@@ -10021,7 +10033,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27677:0:0:0:0:0:0:0:10|h[Шмат мяса василиска]|h|r",
                 name = "Шмат мяса василиска",
-                count = 7,
+                count = 22,
                 details = {
                     quality = 1,
                     type = "",
@@ -10154,6 +10166,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
                 name = "Конечности и панцири некрорахнидов",
                 count = 28,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
+                name = "Нежное мясо кроколиска",
+                count = 146,
                 details = {
                     quality = 1,
                     type = "",
@@ -10367,9 +10391,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3404:0:0:0:0:0:0:0:10|h[Крыло канюка]|h|r",
-                name = "Крыло канюка",
-                count = 1,
+                link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
+                name = "Мясо тигра",
+                count = 136,
                 details = {
                     quality = 1,
                     type = "",
@@ -10427,9 +10451,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
-                name = "Нежное мясо кроколиска",
-                count = 146,
+                link = "|cffffffff|Hitem:3404:0:0:0:0:0:0:0:10|h[Крыло канюка]|h|r",
+                name = "Крыло канюка",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -10454,18 +10478,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
                 name = "Красное волчье мясо",
                 count = 132,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
-                name = "Мясо тигра",
-                count = 136,
                 details = {
                     quality = 1,
                     type = "",
