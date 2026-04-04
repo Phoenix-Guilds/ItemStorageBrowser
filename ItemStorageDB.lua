@@ -1,10 +1,10 @@
-ItemStorageDB_LastUpdate = 1775290514
+ItemStorageDB_LastUpdate = 1775290546
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-04-03 22:20:54",
+        updated_at = "2026-04-04 11:15:39",
         money = 9404,
-        empty = 15,
+        empty = 0,
         location = "Оргриммар",
         items = {
             {
@@ -946,7 +946,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:46372:0:0:0:0:0:0:0:10|h[Символ инстинкта выживания]|h|r",
                 name = "Символ инстинкта выживания",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -1328,18 +1328,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
-                name = "Поварская книга",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                 name = "Символ прилива сил",
                 count = 23,
@@ -1636,6 +1624,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
+                name = "Поварская книга",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
