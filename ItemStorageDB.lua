@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775300960
+ItemStorageDB_LastUpdate = 1775301954
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9500,7 +9500,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-04 12:36:16",
+        updated_at = "2026-04-04 14:25:27",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -9748,7 +9748,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
