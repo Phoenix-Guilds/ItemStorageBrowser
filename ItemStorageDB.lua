@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775298109
+ItemStorageDB_LastUpdate = 1775298140
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18269,7 +18269,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-04 11:56:55",
+        updated_at = "2026-04-04 13:22:08",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -18457,19 +18457,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22787:0:0:0:0:0:0:0:10|h[Кисейница]|h|r",
                 name = "Кисейница",
-                count = 100,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
-                name = "Сияние грез",
-                count = 307,
+                count = 101,
                 details = {
                     quality = 1,
                     type = "",
@@ -18647,6 +18635,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
+                name = "Корень жизни",
+                count = 152,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
                 count = 218,
@@ -18686,6 +18686,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
                 count = 315,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
+                name = "Сияние грез",
+                count = 307,
                 details = {
                     quality = 1,
                     type = "",
@@ -18830,18 +18842,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
                 name = "Бледнолист",
                 count = 102,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
-                name = "Корень жизни",
-                count = 152,
                 details = {
                     quality = 1,
                     type = "",
