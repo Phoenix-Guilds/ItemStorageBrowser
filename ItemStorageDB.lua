@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775421281
+ItemStorageDB_LastUpdate = 1775421672
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7919,7 +7919,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-04-04 21:40:16",
+        updated_at = "2026-04-05 23:41:10",
         money = 13238,
         empty = 0,
         location = "Оргриммар",
@@ -8083,7 +8083,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
                 name = "Десерт из мертвечины",
-                count = 16,
+                count = 24,
                 details = {
                     quality = 1,
                     type = "",
