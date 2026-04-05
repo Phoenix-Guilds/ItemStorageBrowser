@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775403022
+ItemStorageDB_LastUpdate = 1775403958
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9836,7 +9836,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-05 11:17:21",
+        updated_at = "2026-04-05 18:45:31",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -9928,7 +9928,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун\'Горо]|h|r",
                 name = "Земля Ун\'Горо",
-                count = 308,
+                count = 337,
                 details = {
                     quality = 1,
                     type = "",
@@ -9988,7 +9988,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
                 name = "Радужное перо",
-                count = 34,
+                count = 36,
                 details = {
                     quality = 1,
                     type = "",
@@ -10118,18 +10118,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
-                name = "Неопознанные части растений",
-                count = 200,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
                 count = 14,
@@ -10138,6 +10126,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
+                name = "Неопознанные части растений",
+                count = 200,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
