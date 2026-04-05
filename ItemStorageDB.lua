@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775375981
+ItemStorageDB_LastUpdate = 1775376103
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14783,7 +14783,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-03 21:45:13",
+        updated_at = "2026-04-05 11:01:30",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -14792,6 +14792,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13755:0:0:0:0:0:0:0:10|h[Зимний кальмар]|h|r",
                 name = "Зимний кальмар",
                 count = 235,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
+                name = "Мощь-рыба в кляре",
+                count = 15,
                 details = {
                     quality = 1,
                     type = "",
@@ -14875,7 +14887,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
                 name = "Сырая блестящая мощь-рыба",
-                count = 316,
+                count = 301,
                 details = {
                     quality = 1,
                     type = "",
@@ -14899,7 +14911,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                 name = "Сырой летний окунь",
-                count = 188,
+                count = 129,
                 details = {
                     quality = 1,
                     type = "",
@@ -14947,7 +14959,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
                 name = "Сырая каменношкурая треска",
-                count = 121,
+                count = 261,
                 details = {
                     quality = 1,
                     type = "",
@@ -14995,7 +15007,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                 name = "Сырой острозубый илистый луциан",
-                count = 130,
+                count = 222,
                 details = {
                     quality = 1,
                     type = "",
@@ -15019,7 +15031,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                 name = "Сырая блестящая рыбка",
-                count = 69,
+                count = 99,
                 details = {
                     quality = 1,
                     type = "",
