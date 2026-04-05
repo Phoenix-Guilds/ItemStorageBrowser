@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775421829
+ItemStorageDB_LastUpdate = 1775422103
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12854,7 +12854,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-05 18:11:16",
+        updated_at = "2026-04-05 23:48:21",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -14120,54 +14120,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6344:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух I]|h|r",
-                name = "Формула чар для наручей - дух I",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:16245:0:0:0:0:0:0:0:10|h[Формула: зачаровывание обуви - ловкость, III ступень]|h|r",
-                name = "Формула: зачаровывание обуви - ловкость, III ступень",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
-                name = "Рецепт: зелье скорости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:13488:0:0:0:0:0:0:0:10|h[Рецепт: трансмутация жизни в землю]|h|r",
-                name = "Рецепт: трансмутация жизни в землю",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:12702:0:0:0:0:0:0:0:10|h[Чертеж: светозарный венец]|h|r",
                 name = "Чертеж: светозарный венец",
                 count = 1,
@@ -14216,6 +14168,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6344:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух I]|h|r",
+                name = "Формула чар для наручей - дух I",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:16245:0:0:0:0:0:0:0:10|h[Формула: зачаровывание обуви - ловкость, III ступень]|h|r",
+                name = "Формула: зачаровывание обуви - ловкость, III ступень",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:10300:0:0:0:0:0:0:0:10|h[Выкройка: красный жилет из магической ткани]|h|r",
                 name = "Выкройка: красный жилет из магической ткани",
                 count = 1,
@@ -14224,6 +14200,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "38",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
+                name = "Рецепт: зелье скорости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:13488:0:0:0:0:0:0:0:10|h[Рецепт: трансмутация жизни в землю]|h|r",
+                name = "Рецепт: трансмутация жизни в землю",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
