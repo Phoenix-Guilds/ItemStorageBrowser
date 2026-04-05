@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775400134
+ItemStorageDB_LastUpdate = 1775400528
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2015,7 +2015,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-05 10:09:59",
+        updated_at = "2026-04-05 17:48:37",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2023,7 +2023,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                 name = "Клинок Крола",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 4,
                     type = "2",
@@ -2041,6 +2041,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "49",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:2163:0:0:0:0:0:0:0:10|h[Теневой клинок]|h|r",
+                name = "Теневой клинок",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "48",
                     retention = "Одноручное",
                 },
             },
@@ -2341,18 +2353,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "52",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:2163:0:0:0:0:0:0:0:10|h[Теневой клинок]|h|r",
-                name = "Теневой клинок",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "48",
                     retention = "Одноручное",
                 },
             },
