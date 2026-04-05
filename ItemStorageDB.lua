@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775402558
+ItemStorageDB_LastUpdate = 1775402620
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7130,7 +7130,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-05 18:20:55",
+        updated_at = "2026-04-05 18:23:19",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -7162,7 +7162,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
                 name = "Глубокоскальная соль",
-                count = 112,
+                count = 120,
                 details = {
                     quality = 1,
                     type = "",
