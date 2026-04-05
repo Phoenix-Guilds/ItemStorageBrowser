@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775377158
+ItemStorageDB_LastUpdate = 1775378064
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8450,7 +8450,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-05 10:08:53",
+        updated_at = "2026-04-05 11:34:06",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -8542,7 +8542,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6037:0:0:0:0:0:0:0:10|h[Слиток истинного серебра]|h|r",
                 name = "Слиток истинного серебра",
-                count = 441,
+                count = 484,
                 details = {
                     quality = 2,
                     type = "",
@@ -8602,7 +8602,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                 name = "Оловянная руда",
-                count = 157,
+                count = 176,
                 details = {
                     quality = 1,
                     type = "",
@@ -8650,7 +8650,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
-                count = 50,
+                count = 87,
                 details = {
                     quality = 1,
                     type = "",
@@ -8686,7 +8686,31 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
                 name = "Железный слиток",
-                count = 375,
+                count = 418,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
+                name = "Адамантитовый слиток",
+                count = 292,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
+                name = "Слиток оскверненного железа",
+                count = 180,
                 details = {
                     quality = 1,
                     type = "",
@@ -8720,33 +8744,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
-                name = "Адамантитовый слиток",
-                count = 181,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
                 name = "Руда оскверненного железа",
                 count = 178,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
-                name = "Слиток оскверненного железа",
-                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -8818,7 +8818,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
                 name = "Кобальтовая руда",
-                count = 101,
+                count = 71,
                 details = {
                     quality = 1,
                     type = "",
