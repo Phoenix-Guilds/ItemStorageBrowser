@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775376940
+ItemStorageDB_LastUpdate = 1775377002
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12806,7 +12806,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-05 11:04:39",
+        updated_at = "2026-04-05 11:16:22",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -13324,6 +13324,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:27684:0:0:0:0:0:0:0:10|h[Рецепт: закуска из канюка]|h|r",
+                name = "Рецепт: закуска из канюка",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6344:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух I]|h|r",
+                name = "Формула чар для наручей - дух I",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -14072,18 +14096,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:27684:0:0:0:0:0:0:0:10|h[Рецепт: закуска из канюка]|h|r",
-                name = "Рецепт: закуска из канюка",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "55",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:16245:0:0:0:0:0:0:0:10|h[Формула: зачаровывание обуви - ловкость, III ступень]|h|r",
                 name = "Формула: зачаровывание обуви - ловкость, III ступень",
                 count = 1,
@@ -14140,6 +14152,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4410:0:0:0:0:0:0:0:10|h[Схема: теневые очки]|h|r",
+                name = "Схема: теневые очки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "",
                     retention = "",
                 },
             },
