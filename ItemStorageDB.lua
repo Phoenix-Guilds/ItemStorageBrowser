@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775412976
+ItemStorageDB_LastUpdate = 1775413007
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15749,7 +15749,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-05 18:29:03",
+        updated_at = "2026-04-05 21:16:24",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -17459,6 +17459,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6263:0:0:0:0:0:0:0:10|h[Синий комбинезон]|h|r",
+                name = "Синий комбинезон",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:6545:1892:0:0:0:0:96:0:10|h[Солдатская броня с печатью выносливости]|h|r",
                 name = "Солдатская броня с печатью выносливости",
                 count = 1,
@@ -17659,18 +17671,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "6",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6263:0:0:0:0:0:0:0:10|h[Синий комбинезон]|h|r",
-                name = "Синий комбинезон",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "15",
                     retention = "",
                 },
             },
