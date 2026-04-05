@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775376721
+ItemStorageDB_LastUpdate = 1775376784
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8855,7 +8855,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-05 11:06:18",
+        updated_at = "2026-04-05 11:12:01",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9487,7 +9487,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
                 name = "Маленький флакон с зельем маны",
-                count = 115,
+                count = 117,
                 details = {
                     quality = 1,
                     type = "",
@@ -18536,7 +18536,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-05 10:57:44",
+        updated_at = "2026-04-05 11:12:42",
         money = 194502,
         empty = 0,
         location = "Оргриммар",
@@ -18796,7 +18796,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 379,
+                count = 380,
                 details = {
                     quality = 1,
                     type = "",
@@ -18808,7 +18808,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 530,
+                count = 547,
                 details = {
                     quality = 1,
                     type = "",
