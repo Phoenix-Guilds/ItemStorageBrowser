@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775402868
+ItemStorageDB_LastUpdate = 1775402960
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15749,7 +15749,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-05 10:40:51",
+        updated_at = "2026-04-05 18:29:03",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -15781,7 +15781,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4314:0:0:0:0:0:0:0:10|h[Шерстяные наплечники с двойным швом]|h|r",
                 name = "Шерстяные наплечники с двойным швом",
-                count = 1,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "4",
@@ -17663,6 +17663,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6263:0:0:0:0:0:0:0:10|h[Синий комбинезон]|h|r",
+                name = "Синий комбинезон",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:6379:0:0:0:0:0:0:0:10|h[Покрытый письменами кожаный пояс]|h|r",
                 name = "Покрытый письменами кожаный пояс",
                 count = 3,
@@ -17863,6 +17875,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "11",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4315:0:0:0:0:0:0:0:10|h[Усиленные шерстяные наплечники]|h|r",
+                name = "Усиленные шерстяные наплечники",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "19",
                     retention = "",
                 },
             },
