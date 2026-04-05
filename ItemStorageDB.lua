@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775379314
+ItemStorageDB_LastUpdate = 1775379376
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11567,7 +11567,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-05 11:52:20",
+        updated_at = "2026-04-05 11:55:57",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -11647,6 +11647,18 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31196:0:0:0:0:0:0:0:10|h[Амулет посвящения]|h|r",
                 name = "Амулет посвящения",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "64",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31194:0:0:0:0:0:-45:31:10|h[Боевые бусы Благословения Гроннов с меткой победителя]|h|r",
+                name = "Боевые бусы Благословения Гроннов с меткой победителя",
                 count = 1,
                 details = {
                     quality = 3,
@@ -11753,18 +11765,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37751:0:0:0:0:0:0:0:10|h[Потеряный коготь Туги]|h|r",
-                name = "Потеряный коготь Туги",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:37820:0:0:0:0:0:0:0:10|h[Воргенское кольцо возрождения]|h|r",
                 name = "Воргенское кольцо возрождения",
                 count = 1,
@@ -11785,6 +11785,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "71",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37751:0:0:0:0:0:0:0:10|h[Потеряный коготь Туги]|h|r",
+                name = "Потеряный коготь Туги",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31277:0:0:0:0:0:0:0:10|h[Кольцо землепроходца]|h|r",
+                name = "Кольцо землепроходца",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "67",
                     retention = "",
                 },
             },
