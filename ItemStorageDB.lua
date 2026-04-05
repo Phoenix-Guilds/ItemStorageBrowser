@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775377002
+ItemStorageDB_LastUpdate = 1775377064
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9812,7 +9812,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-05 10:14:28",
+        updated_at = "2026-04-05 11:17:21",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -9844,7 +9844,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                 name = "Блестящая рыбья чешуя",
-                count = 37,
+                count = 55,
                 details = {
                     quality = 1,
                     type = "",
@@ -9856,7 +9856,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 68,
+                count = 82,
                 details = {
                     quality = 1,
                     type = "",
@@ -9905,6 +9905,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун\'Горо]|h|r",
                 name = "Земля Ун\'Горо",
                 count = 308,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил\'джедена]|h|r",
+                name = "Знак Кил\'джедена",
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
@@ -10010,30 +10022,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
-                name = "Неопознанные части растений",
-                count = 200,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил\'джедена]|h|r",
-                name = "Знак Кил\'джедена",
-                count = 25,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
                 name = "Украшенные узором бронзовые наручи",
                 count = 1,
@@ -10102,6 +10090,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "26",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
+                name = "Неопознанные части растений",
+                count = 200,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
