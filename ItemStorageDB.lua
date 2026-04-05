@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775419591
+ItemStorageDB_LastUpdate = 1775419623
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8462,7 +8462,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-05 11:34:06",
+        updated_at = "2026-04-05 23:06:33",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -8542,7 +8542,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
                 name = "Арканитовый слиток",
-                count = 7,
+                count = 27,
                 details = {
                     quality = 2,
                     type = "",
@@ -8638,7 +8638,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                 name = "Ториевый слиток",
-                count = 118,
+                count = 68,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
+                name = "Слиток оскверненного железа",
+                count = 130,
                 details = {
                     quality = 1,
                     type = "",
@@ -8711,18 +8723,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
                 name = "Адамантитовый слиток",
                 count = 292,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
-                name = "Слиток оскверненного железа",
-                count = 180,
                 details = {
                     quality = 1,
                     type = "",
