@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775379129
+ItemStorageDB_LastUpdate = 1775379192
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3713,7 +3713,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-05 10:48:14",
+        updated_at = "2026-04-05 11:52:42",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -11567,7 +11567,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-04 12:56:16",
+        updated_at = "2026-04-05 11:52:20",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -11753,6 +11753,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37751:0:0:0:0:0:0:0:10|h[Потеряный коготь Туги]|h|r",
+                name = "Потеряный коготь Туги",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:37820:0:0:0:0:0:0:0:10|h[Воргенское кольцо возрождения]|h|r",
                 name = "Воргенское кольцо возрождения",
                 count = 1,
@@ -11773,18 +11785,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "71",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37751:0:0:0:0:0:0:0:10|h[Потеряный коготь Туги]|h|r",
-                name = "Потеряный коготь Туги",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "70",
                     retention = "",
                 },
             },
