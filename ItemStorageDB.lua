@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775334393
+ItemStorageDB_LastUpdate = 1775372956
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8174,7 +8174,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-04 22:18:30",
+        updated_at = "2026-04-05 10:08:53",
         money = 9467,
         empty = 0,
         location = "Оргриммар",
@@ -8254,7 +8254,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
                 name = "Арканитовый слиток",
-                count = 8,
+                count = 7,
                 details = {
                     quality = 2,
                     type = "",
@@ -8504,6 +8504,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
+                name = "Золотой слиток",
+                count = 352,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
                 name = "Серебряный слиток",
                 count = 498,
@@ -8533,18 +8545,6 @@ ItemStorageDB = {
                 count = 101,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
-                name = "Золотой слиток",
-                count = 352,
-                details = {
-                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
