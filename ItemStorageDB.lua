@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775375309
+ItemStorageDB_LastUpdate = 1775375372
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12806,7 +12806,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-04 13:40:28",
+        updated_at = "2026-04-05 10:49:21",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -13148,42 +13148,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7090:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шелковая броня]|h|r",
-                name = "Выкройка: зеленая шелковая броня",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "28",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:10300:0:0:0:0:0:0:0:10|h[Выкройка: красный жилет из магической ткани]|h|r",
-                name = "Выкройка: красный жилет из магической ткани",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "38",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:10301:0:0:0:0:0:0:0:10|h[Выкройка: белая бандитская маска]|h|r",
-                name = "Выкройка: белая бандитская маска",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "38",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:14467:0:0:0:0:0:0:0:10|h[Выкройка: одеяние из ледяной ткани]|h|r",
                 name = "Выкройка: одеяние из ледяной ткани",
                 count = 1,
@@ -13204,6 +13168,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "49",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14489:0:0:0:0:0:0:0:10|h[Выкройка: штаны из ледяной ткани]|h|r",
+                name = "Выкройка: штаны из ледяной ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "51",
                     retention = "",
                 },
             },
@@ -13264,6 +13240,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "42",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15747:0:0:0:0:0:0:0:10|h[Выкройка: поножи из кожи ледопарда]|h|r",
+                name = "Выкройка: поножи из кожи ледопарда",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "52",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15779:0:0:0:0:0:0:0:10|h[Выкройка: мундир из кожи ледопарда]|h|r",
+                name = "Выкройка: мундир из кожи ледопарда",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "57",
                     retention = "",
                 },
             },
@@ -14108,6 +14108,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:13488:0:0:0:0:0:0:0:10|h[Рецепт: трансмутация жизни в землю]|h|r",
+                name = "Рецепт: трансмутация жизни в землю",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:12702:0:0:0:0:0:0:0:10|h[Чертеж: светозарный венец]|h|r",
                 name = "Чертеж: светозарный венец",
                 count = 1,
@@ -14188,6 +14200,42 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7090:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шелковая броня]|h|r",
+                name = "Выкройка: зеленая шелковая броня",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "28",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10300:0:0:0:0:0:0:0:10|h[Выкройка: красный жилет из магической ткани]|h|r",
+                name = "Выкройка: красный жилет из магической ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "38",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10301:0:0:0:0:0:0:0:10|h[Выкройка: белая бандитская маска]|h|r",
+                name = "Выкройка: белая бандитская маска",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "38",
                     retention = "",
                 },
             },
