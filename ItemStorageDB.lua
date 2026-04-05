@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775376167
+ItemStorageDB_LastUpdate = 1775376289
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12806,7 +12806,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-05 10:49:21",
+        updated_at = "2026-04-05 11:04:39",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -13148,30 +13148,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:14467:0:0:0:0:0:0:0:10|h[Выкройка: одеяние из ледяной ткани]|h|r",
-                name = "Выкройка: одеяние из ледяной ткани",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "46",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14478:0:0:0:0:0:0:0:10|h[Выкройка: одеяние из яркой ткани]|h|r",
-                name = "Выкройка: одеяние из яркой ткани",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "49",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:14489:0:0:0:0:0:0:0:10|h[Выкройка: штаны из ледяной ткани]|h|r",
                 name = "Выкройка: штаны из ледяной ткани",
                 count = 1,
@@ -13292,6 +13268,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:14501:0:0:0:0:0:0:0:10|h[Выкройка: жилет из луноткани]|h|r",
+                name = "Выкройка: жилет из луноткани",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "55",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:4301:0:0:0:0:0:0:0:10|h[Выкройка: варварский пояс]|h|r",
                 name = "Выкройка: варварский пояс",
                 count = 1,
@@ -13300,6 +13288,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:15752:0:0:0:0:0:0:0:10|h[Выкройка: поножи жизни]|h|r",
+                name = "Выкройка: поножи жизни",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "52",
                     retention = "",
                 },
             },
@@ -14236,6 +14236,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "38",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14467:0:0:0:0:0:0:0:10|h[Выкройка: одеяние из ледяной ткани]|h|r",
+                name = "Выкройка: одеяние из ледяной ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "46",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14478:0:0:0:0:0:0:0:10|h[Выкройка: одеяние из яркой ткани]|h|r",
+                name = "Выкройка: одеяние из яркой ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "49",
                     retention = "",
                 },
             },
