@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775411286
+ItemStorageDB_LastUpdate = 1775412797
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6545,7 +6545,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-04-04 19:36:03",
+        updated_at = "2026-04-05 21:13:01",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -6899,18 +6899,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
-                name = "Карта Новолуния: Синий Дракон",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Аксессуар",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
                 name = "Осколок души",
                 count = 32,
@@ -6919,6 +6907,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
+                name = "Карта Новолуния: Синий Дракон",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "60",
                     retention = "",
                 },
             },
@@ -6949,7 +6949,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
                 name = "Колода Мечей",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "",
