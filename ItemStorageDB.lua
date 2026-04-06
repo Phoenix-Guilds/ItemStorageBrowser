@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775439904
+ItemStorageDB_LastUpdate = 1775439996
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3701,7 +3701,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-05 11:52:42",
+        updated_at = "2026-04-06 04:46:12",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -4247,18 +4247,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-40:12:10|h[Арбалет башни с меткой преступника]|h|r",
-                name = "Арбалет башни с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "57",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-41:12:10|h[Арбалет башни с меткой зверя]|h|r",
                 name = "Арбалет башни с меткой зверя",
                 count = 1,
@@ -4271,8 +4259,32 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-40:12:10|h[Арбалет башни с меткой преступника]|h|r",
+                name = "Арбалет башни с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:25255:0:0:0:0:0:-14:12:10|h[Арбалет лобового штурма со знаком тигра]|h|r",
                 name = "Арбалет лобового штурма со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25255:0:0:0:0:0:-40:12:10|h[Арбалет лобового штурма с меткой преступника]|h|r",
+                name = "Арбалет лобового штурма с меткой преступника",
                 count = 1,
                 details = {
                     quality = 2,
