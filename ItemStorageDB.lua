@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775496713
+ItemStorageDB_LastUpdate = 1775496744
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22160,7 +22160,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-06 20:24:39",
+        updated_at = "2026-04-06 20:32:05",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -22168,12 +22168,24 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:14552:0:0:0:0:0:0:0:10|h[Тюремное наплечье]|h|r",
                 name = "Тюремное наплечье",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 4,
                     type = "4",
                     subtype = "Латы",
                     required_level = "50",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13077:0:0:0:0:0:0:0:10|h[Ремень Утера]|h|r",
+                name = "Ремень Утера",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "52",
                     retention = "",
                 },
             },
@@ -22660,7 +22672,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16735:0:0:0:0:0:0:0:10|h[Наручи доблести]|h|r",
                 name = "Наручи доблести",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -23054,18 +23066,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:16737:0:0:0:0:0:0:0:10|h[Рукавицы доблести]|h|r",
-                name = "Рукавицы доблести",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "54",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:16724:0:0:0:0:0:0:0:10|h[Рукавицы из светлостали]|h|r",
                 name = "Рукавицы из светлостали",
                 count = 2,
@@ -23164,7 +23164,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13070:0:0:0:0:0:0:0:10|h[Чешуйчатые сапоги Сапфирона]|h|r",
                 name = "Чешуйчатые сапоги Сапфирона",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -23878,30 +23878,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:16736:0:0:0:0:0:0:0:10|h[Пояс доблести]|h|r",
-                name = "Пояс доблести",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13077:0:0:0:0:0:0:0:10|h[Ремень Утера]|h|r",
-                name = "Ремень Утера",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "52",
                     retention = "",
                 },
             },
