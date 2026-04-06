@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775495713
+ItemStorageDB_LastUpdate = 1775495736
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5411,7 +5411,7 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = "2026-04-05 11:05:21",
+        updated_at = "2026-04-06 20:15:08",
         money = 16160,
         empty = 0,
         location = "Оргриммар",
@@ -5551,7 +5551,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10560:0:0:0:0:0:0:0:10|h[Нестабильное пусковое устройство]|h|r",
                 name = "Нестабильное пусковое устройство",
-                count = 42,
+                count = 34,
                 details = {
                     quality = 1,
                     type = "",
