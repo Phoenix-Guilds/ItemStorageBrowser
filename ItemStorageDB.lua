@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775440153
+ItemStorageDB_LastUpdate = 1775440819
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22172,7 +22172,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-05 21:17:31",
+        updated_at = "2026-04-06 05:00:06",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -22718,6 +22718,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13135:0:0:0:0:0:0:0:10|h[Властные боевые наручи]|h|r",
+                name = "Властные боевые наручи",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "54",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:16714:0:0:0:0:0:0:0:10|h[Наручи дикого сердца]|h|r",
                 name = "Наручи дикого сердца",
                 count = 2,
@@ -23236,24 +23248,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13099:0:0:0:0:0:0:0:10|h[Мокасины Белого кролика]|h|r",
                 name = "Мокасины Белого кролика",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Ткань",
                     required_level = "24",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13135:0:0:0:0:0:0:0:10|h[Властные боевые наручи]|h|r",
-                name = "Властные боевые наручи",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "54",
                     retention = "",
                 },
             },
@@ -23782,6 +23782,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7048:0:0:0:0:0:0:0:10|h[Лазурный шелковый капюшон]|h|r",
+                name = "Лазурный шелковый капюшон",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "24",
                     retention = "",
                 },
             },
