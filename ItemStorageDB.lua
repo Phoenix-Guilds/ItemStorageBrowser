@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775496172
+ItemStorageDB_LastUpdate = 1775496295
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22208,7 +22208,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-06 14:24:48",
+        updated_at = "2026-04-06 20:24:39",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -22389,18 +22389,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "4",
                     subtype = "Кольчуга",
-                    required_level = "27",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
-                name = "Святой капюшон",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
                     required_level = "27",
                     retention = "",
                 },
@@ -22706,18 +22694,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
-                name = "Светящиеся магические браслеты",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "26",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:16710:0:0:0:0:0:0:0:10|h[Наручи незаметности]|h|r",
                 name = "Наручи незаметности",
                 count = 2,
@@ -22924,7 +22900,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
                 name = "Перчатки Старины",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -23038,6 +23014,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Левая рука",
                     required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
+                name = "Светящиеся магические браслеты",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "26",
                     retention = "",
                 },
             },
@@ -23176,7 +23164,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -23690,18 +23678,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7048:0:0:0:0:0:0:0:10|h[Лазурный шелковый капюшон]|h|r",
-                name = "Лазурный шелковый капюшон",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "24",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4052:0:0:0:0:0:0:0:10|h[Орденская шапка]|h|r",
                 name = "Орденская шапка",
                 count = 1,
@@ -23776,7 +23752,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13105:0:0:0:0:0:0:0:10|h[Опоясок Сутарна]|h|r",
                 name = "Опоясок Сутарна",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
