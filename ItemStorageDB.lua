@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775498708
+ItemStorageDB_LastUpdate = 1775498739
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10730,7 +10730,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-05 10:47:22",
+        updated_at = "2026-04-06 21:05:09",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11264,14 +11264,38 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:36658:0:0:0:0:0:-36:23:10|h[Потухшая искра с меткой волшебника]|h|r",
-                name = "Потухшая искра с меткой волшебника",
+                link = "|cff1eff00|Hitem:36445:0:0:0:0:0:-44:37:10|h[Склепанный щит с меткой старца]|h|r",
+                name = "Склепанный щит с меткой старца",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36431:0:0:0:0:0:-7:37:10|h[Крашеные деревянные бусы со знаком медведя]|h|r",
+                name = "Крашеные деревянные бусы со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36655:0:0:0:0:0:-37:21:10|h[Украшенный жемчугом жезл с меткой целителя]|h|r",
+                name = "Украшенный жемчугом жезл с меткой целителя",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "2",
                     subtype = "Жезл",
-                    required_level = "70",
+                    required_level = "67",
                     retention = "",
                 },
             },
@@ -11284,6 +11308,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "68",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36658:0:0:0:0:0:-36:23:10|h[Потухшая искра с меткой волшебника]|h|r",
+                name = "Потухшая искра с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -11319,42 +11355,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Дробящее",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36445:0:0:0:0:0:-44:37:10|h[Склепанный щит с меткой старца]|h|r",
-                name = "Склепанный щит с меткой старца",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36431:0:0:0:0:0:-7:37:10|h[Крашеные деревянные бусы со знаком медведя]|h|r",
-                name = "Крашеные деревянные бусы со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36655:0:0:0:0:0:-37:21:10|h[Украшенный жемчугом жезл с меткой целителя]|h|r",
-                name = "Украшенный жемчугом жезл с меткой целителя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Жезл",
                     required_level = "67",
                     retention = "",
                 },
@@ -11464,18 +11464,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "68",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25047:0:0:0:0:0:-40:23:10|h[Турмалиновое кольцо с меткой преступника]|h|r",
-                name = "Турмалиновое кольцо с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "60",
                     retention = "",
                 },
             },
