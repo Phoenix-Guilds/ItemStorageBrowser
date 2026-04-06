@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775442279
+ItemStorageDB_LastUpdate = 1775442552
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10169,7 +10169,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-06 05:24:01",
+        updated_at = "2026-04-06 05:28:59",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10355,18 +10355,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
-                name = "Мясо моллюска",
-                count = 14,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2675:0:0:0:0:0:0:0:10|h[Клешня краба]|h|r",
                 name = "Клешня краба",
                 count = 7,
@@ -10537,7 +10525,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
-                count = 58,
+                count = 30,
                 details = {
                     quality = 1,
                     type = "",
@@ -10609,6 +10597,18 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2924:0:0:0:0:0:0:0:10|h[Мясо кроколиска]|h|r",
                 name = "Мясо кроколиска",
+                count = 14,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
+                name = "Мясо моллюска",
                 count = 14,
                 details = {
                     quality = 1,
