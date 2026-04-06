@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775497215
+ItemStorageDB_LastUpdate = 1775497246
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15785,7 +15785,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-06 20:28:08",
+        updated_at = "2026-04-06 20:40:19",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -16333,7 +16333,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5212:0:0:0:0:0:0:0:10|h[Пылающий жезл]|h|r",
                 name = "Пылающий жезл",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "2",
@@ -16357,7 +16357,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
                 name = "Большой магический жезл",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 2,
                     type = "2",
@@ -17435,6 +17435,126 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
+                name = "Сфера Бусин с печатью исцеления",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15933:0:0:0:0:0:839:0:10|h[Простая ветвь со знаком орла]|h|r",
+                name = "Простая ветвь со знаком орла",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
+                name = "Ивовая ветвь со знаком духа",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
+                name = "Ивовая ветвь со знаком интеллекта",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3058:1887:0:0:0:0:0:0:10|h[Лесные кожаные перчатки]|h|r",
+                name = "Лесные кожаные перчатки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3205:1883:0:0:0:0:0:0:10|h[Покрытые письменами кожаные наручи]|h|r",
+                name = "Покрытые письменами кожаные наручи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6551:3858:0:0:0:0:1183:0:10|h[Солдатские сапоги со знаком медведя]|h|r",
+                name = "Солдатские сапоги со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6568:0:0:0:0:0:851:0:10|h[Мерцающие брюки со знаком орла]|h|r",
+                name = "Мерцающие брюки со знаком орла",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9788:0:0:0:0:0:24:0:10|h[Разбойничий пояс со знаком силы]|h|r",
+                name = "Разбойничий пояс со знаком силы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6263:1893:0:0:0:0:0:0:10|h[Синий комбинезон]|h|r",
+                name = "Синий комбинезон",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:9783:1892:0:0:0:0:155:0:10|h[Разбойничий нагрудник со знаком силы]|h|r",
                 name = "Разбойничий нагрудник со знаком силы",
                 count = 1,
@@ -17636,6 +17756,18 @@ ItemStorageDB = {
                     subtype = "Кольчуга",
                     required_level = "8",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
+                name = "Тяжелая шипастая палица",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "14",
+                    retention = "Двуручное",
                 },
             },
             {
@@ -17852,138 +17984,6 @@ ItemStorageDB = {
                     subtype = "Ткань",
                     required_level = "13",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
-                name = "Сфера Бусин с печатью исцеления",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15933:0:0:0:0:0:839:0:10|h[Простая ветвь со знаком орла]|h|r",
-                name = "Простая ветвь со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
-                name = "Ивовая ветвь со знаком духа",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
-                name = "Ивовая ветвь со знаком интеллекта",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3058:1887:0:0:0:0:0:0:10|h[Лесные кожаные перчатки]|h|r",
-                name = "Лесные кожаные перчатки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3205:1883:0:0:0:0:0:0:10|h[Покрытые письменами кожаные наручи]|h|r",
-                name = "Покрытые письменами кожаные наручи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "12",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6551:3858:0:0:0:0:1183:0:10|h[Солдатские сапоги со знаком медведя]|h|r",
-                name = "Солдатские сапоги со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "12",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6568:0:0:0:0:0:851:0:10|h[Мерцающие брюки со знаком орла]|h|r",
-                name = "Мерцающие брюки со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:9788:0:0:0:0:0:24:0:10|h[Разбойничий пояс со знаком силы]|h|r",
-                name = "Разбойничий пояс со знаком силы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6263:1893:0:0:0:0:0:0:10|h[Синий комбинезон]|h|r",
-                name = "Синий комбинезон",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
-                name = "Тяжелая шипастая палица",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "14",
-                    retention = "Двуручное",
                 },
             },
             {
