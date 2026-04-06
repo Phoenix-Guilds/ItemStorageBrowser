@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775493982
+ItemStorageDB_LastUpdate = 1775495331
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3737,7 +3737,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-06 04:46:12",
+        updated_at = "2026-04-06 20:08:21",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -3775,18 +3775,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "58",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:24697:0:0:0:0:0:-40:37:10|h[Скальп Костеглодов с меткой преступника]|h|r",
-                name = "Скальп Костеглодов с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "57",
                     retention = "",
                 },
             },
@@ -3925,7 +3913,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24703:0:0:0:0:0:-40:38:10|h[Хаал\'ешский жакет с меткой преступника]|h|r",
                 name = "Хаал\'ешский жакет с меткой преступника",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -4223,18 +4211,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25143:0:0:0:0:0:-40:16:10|h[Серебряный ручной клинок с меткой преступника]|h|r",
-                name = "Серебряный ручной клинок с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "58",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25200:0:0:0:0:0:-18:17:10|h[Зазубренный широкий топор со знаком ловкости]|h|r",
                 name = "Зазубренный широкий топор со знаком ловкости",
                 count = 1,
@@ -4393,18 +4369,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25240:0:0:0:0:0:-45:12:10|h[Азеротский длинный лук с меткой победителя]|h|r",
                 name = "Азеротский длинный лук с меткой победителя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Лук",
-                    required_level = "57",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25240:0:0:0:0:0:-40:12:10|h[Азеротский длинный лук с меткой преступника]|h|r",
-                name = "Азеротский длинный лук с меткой преступника",
                 count = 1,
                 details = {
                     quality = 2,
@@ -4739,18 +4703,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25045:0:0:0:0:0:-40:21:10|h[Азуритовое кольцо с меткой преступника]|h|r",
-                name = "Азуритовое кольцо с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "58",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25044:0:0:0:0:0:-44:21:10|h[Рубеллитовое кольцо с меткой старца]|h|r",
                 name = "Рубеллитовое кольцо с меткой старца",
                 count = 1,
@@ -4759,18 +4711,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "57",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25031:0:0:0:0:0:-40:21:10|h[Луносветский королевский плащ с меткой преступника]|h|r",
-                name = "Луносветский королевский плащ с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "58",
                     retention = "",
                 },
             },
