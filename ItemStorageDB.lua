@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775444851
+ItemStorageDB_LastUpdate = 1775444913
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14879,7 +14879,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-06 06:00:39",
+        updated_at = "2026-04-06 06:08:06",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -14971,7 +14971,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
                 name = "Сырая блестящая мощь-рыба",
-                count = 301,
+                count = 201,
                 details = {
                     quality = 1,
                     type = "",
