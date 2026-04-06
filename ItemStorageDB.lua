@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775498175
+ItemStorageDB_LastUpdate = 1775498229
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8867,7 +8867,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-06 06:17:27",
+        updated_at = "2026-04-06 20:56:23",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -8945,18 +8945,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
-                name = "Гигантский флакон с лечебным зельем",
-                count = 48,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "55",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:28101:0:0:0:0:0:0:0:10|h[Флакон с нестойким зельем маны]|h|r",
                 name = "Флакон с нестойким зельем маны",
                 count = 27,
@@ -8995,7 +8983,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
                 name = "Огромный флакон с лечебным зельем",
-                count = 55,
+                count = 105,
                 details = {
                     quality = 1,
                     type = "",
@@ -9607,7 +9595,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22831:0:0:0:0:0:0:0:10|h[Большой эликсир ловкости]|h|r",
                 name = "Большой эликсир ловкости",
-                count = 29,
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
@@ -9691,7 +9679,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13452:0:0:0:0:0:0:0:10|h[Эликсир мангуста]|h|r",
                 name = "Эликсир мангуста",
-                count = 29,
+                count = 48,
                 details = {
                     quality = 1,
                     type = "",
