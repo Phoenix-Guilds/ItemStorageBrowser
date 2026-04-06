@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775498510
+ItemStorageDB_LastUpdate = 1775498542
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3713,7 +3713,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-06 20:08:21",
+        updated_at = "2026-04-06 21:01:55",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -3907,18 +3907,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "57",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:24717:0:0:0:0:0:-40:31:10|h[Пояс Отребья с меткой преступника]|h|r",
-                name = "Пояс Отребья с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "60",
                     retention = "",
                 },
             },
@@ -4355,18 +4343,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:24722:0:0:0:0:0:-40:41:10|h[Брюки Отребья с меткой преступника]|h|r",
-                name = "Брюки Отребья с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:24610:0:0:0:0:0:-36:41:10|h[Штаны Веселого Черепа с меткой волшебника]|h|r",
                 name = "Штаны Веселого Черепа с меткой волшебника",
                 count = 1,
@@ -4446,18 +4422,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кольчуга",
-                    required_level = "59",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:24710:0:0:0:0:0:-40:30:10|h[Сапоги отмщения с меткой преступника]|h|r",
-                name = "Сапоги отмщения с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
                     required_level = "59",
                     retention = "",
                 },
