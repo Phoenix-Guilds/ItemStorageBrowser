@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775439996
+ItemStorageDB_LastUpdate = 1775440028
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11567,7 +11567,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-05 11:55:57",
+        updated_at = "2026-04-06 04:46:52",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -11633,6 +11633,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37758:0:0:0:0:0:0:0:10|h[Неугасающее колье Рейна]|h|r",
+                name = "Неугасающее колье Рейна",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "76",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:37748:0:0:0:0:0:0:0:10|h[Ледяное ожерелье Зимней Спячки]|h|r",
                 name = "Ледяное ожерелье Зимней Спячки",
                 count = 1,
@@ -11672,6 +11684,18 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:31194:0:0:0:0:0:-13:31:10|h[Боевые бусы Благословения Гроннов со знаком волка]|h|r",
                 name = "Боевые бусы Благословения Гроннов со знаком волка",
                 count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "64",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31194:0:0:0:0:0:-17:31:10|h[Боевые бусы Благословения Гроннов со знаком силы]|h|r",
+                name = "Боевые бусы Благословения Гроннов со знаком силы",
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -11809,6 +11833,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31238:0:0:0:0:0:-14:30:10|h[Кольцо из кости дракона со знаком тигра]|h|r",
+                name = "Кольцо из кости дракона со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "63",
                     retention = "",
                 },
             },
