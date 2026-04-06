@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775444457
+ItemStorageDB_LastUpdate = 1775444851
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7943,8 +7943,8 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-04-06 05:29:30",
-        money = 13238,
+        updated_at = "2026-04-06 06:07:29",
+        money = 0,
         empty = 0,
         location = "Оргриммар",
         items = {
@@ -8011,7 +8011,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
                 name = "Мощь-рыба в кляре",
-                count = 19,
+                count = 34,
                 details = {
                     quality = 1,
                     type = "",
@@ -8029,6 +8029,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
+                name = "Гигантский жареный моллюск",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
                     retention = "",
                 },
             },
