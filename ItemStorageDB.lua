@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775444395
+ItemStorageDB_LastUpdate = 1775444457
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14867,7 +14867,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-06 04:39:00",
+        updated_at = "2026-04-06 06:00:39",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -14876,18 +14876,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13755:0:0:0:0:0:0:0:10|h[Зимний кальмар]|h|r",
                 name = "Зимний кальмар",
                 count = 235,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "35",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
-                name = "Мощь-рыба в кляре",
-                count = 15,
                 details = {
                     quality = 1,
                     type = "",
