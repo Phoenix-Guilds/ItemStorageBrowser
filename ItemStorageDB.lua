@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775575131
+ItemStorageDB_LastUpdate = 1775576280
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3713,7 +3713,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-06 21:01:55",
+        updated_at = "2026-04-07 18:37:27",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -4187,18 +4187,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25201:0:0:0:0:0:-40:17:10|h[Серп похитителя с меткой преступника]|h|r",
-                name = "Серп похитителя с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "60",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25088:0:0:0:0:0:-39:22:10|h[Сфера Веселого Черепа с меткой заклинателя]|h|r",
                 name = "Сфера Веселого Черепа с меткой заклинателя",
                 count = 1,
@@ -4315,18 +4303,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Арбалет",
                     required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:28533:0:0:0:0:0:-40:12:10|h[Деревянный бумеранг с меткой преступника]|h|r",
-                name = "Деревянный бумеранг с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Метательное",
-                    required_level = "59",
                     retention = "",
                 },
             },
