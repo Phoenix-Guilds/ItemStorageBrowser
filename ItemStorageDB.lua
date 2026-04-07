@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775579133
+ItemStorageDB_LastUpdate = 1775579176
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23681,7 +23681,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-07 14:30:26",
+        updated_at = "2026-04-07 19:25:12",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -24143,6 +24143,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
+                name = "Подвеска Агатового Щита",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "26",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
+                name = "Амулет Луны",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
+                name = "Варварский железный ошейник",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
                 name = "Кольцо тлеющих углей",
                 count = 2,
@@ -24205,18 +24241,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1018:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком кита",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1186:0:10|h[Тяжелое серебряное кольцо со знаком медведя]|h|r",
-                name = "Тяжелое серебряное кольцо со знаком медведя",
                 count = 1,
                 details = {
                     quality = 3,
@@ -24319,42 +24343,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "28",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
-                name = "Варварский железный ошейник",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
-                name = "Амулет Луны",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
-                name = "Подвеска Агатового Щита",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "26",
                     retention = "",
                 },
             },
