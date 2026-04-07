@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775582028
+ItemStorageDB_LastUpdate = 1775582241
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12794,11 +12794,23 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-07 10:00:07",
+        updated_at = "2026-04-07 20:17:16",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cffa335ee|Hitem:24302:0:0:0:0:0:0:0:10|h[Выкройка: ремень Непреклонности]|h|r",
+                name = "Выкройка: ремень Непреклонности",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
             {
                 link = "|cff0070dd|Hitem:7452:0:0:0:0:0:0:0:10|h[Выкройка: мглистые сапоги]|h|r",
                 name = "Выкройка: мглистые сапоги",
@@ -12857,6 +12869,18 @@ ItemStorageDB = {
                     subtype = "Ткань",
                     required_level = "",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12836:0:0:0:0:0:0:0:10|h[Чертеж: ледяной страж]|h|r",
+                name = "Чертеж: ледяной страж",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "58",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -13112,14 +13136,26 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4293:0:0:0:0:0:0:0:10|h[Выкройка: кожаный жилет жителя холмов]|h|r",
-                name = "Выкройка: кожаный жилет жителя холмов",
+                link = "|cff1eff00|Hitem:7090:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шелковая броня]|h|r",
+                name = "Выкройка: зеленая шелковая броня",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Кожа",
-                    required_level = "15",
+                    subtype = "Ткань",
+                    required_level = "28",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10300:0:0:0:0:0:0:0:10|h[Выкройка: красный жилет из магической ткани]|h|r",
+                name = "Выкройка: красный жилет из магической ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "38",
                     retention = "",
                 },
             },
@@ -13220,18 +13256,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12836:0:0:0:0:0:0:0:10|h[Чертеж: ледяной страж]|h|r",
-                name = "Чертеж: ледяной страж",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "58",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:4415:0:0:0:0:0:0:0:10|h[Схема: монокль ремесленника]|h|r",
                 name = "Схема: монокль ремесленника",
                 count = 2,
@@ -13288,18 +13312,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:24302:0:0:0:0:0:0:0:10|h[Выкройка: ремень Непреклонности]|h|r",
-                name = "Выкройка: ремень Непреклонности",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "70",
                     retention = "",
                 },
             },
@@ -14144,26 +14156,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7090:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шелковая броня]|h|r",
-                name = "Выкройка: зеленая шелковая броня",
+                link = "|cff1eff00|Hitem:4293:0:0:0:0:0:0:0:10|h[Выкройка: кожаный жилет жителя холмов]|h|r",
+                name = "Выкройка: кожаный жилет жителя холмов",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Ткань",
-                    required_level = "28",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:10300:0:0:0:0:0:0:0:10|h[Выкройка: красный жилет из магической ткани]|h|r",
-                name = "Выкройка: красный жилет из магической ткани",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "38",
+                    subtype = "Кожа",
+                    required_level = "15",
                     retention = "",
                 },
             },
@@ -14326,18 +14326,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7084:0:0:0:0:0:0:0:10|h[Выкройка: багровые шелковые наплечники]|h|r",
                 name = "Выкройка: багровые шелковые наплечники",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "33",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7085:0:0:0:0:0:0:0:10|h[Выкройка: лазурные наплечники]|h|r",
-                name = "Выкройка: лазурные наплечники",
                 count = 1,
                 details = {
                     quality = 2,
