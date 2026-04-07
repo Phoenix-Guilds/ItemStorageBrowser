@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775578225
+ItemStorageDB_LastUpdate = 1775578862
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21968,7 +21968,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-07 14:22:13",
+        updated_at = "2026-04-07 19:20:49",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -22358,18 +22358,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6597:0:0:0:0:0:1193:0:10|h[Наплечные щитки боевого горна со знаком медведя]|h|r",
-                name = "Наплечные щитки боевого горна со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "23",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4052:0:0:0:0:0:0:0:10|h[Орденская шапка]|h|r",
                 name = "Орденская шапка",
                 count = 1,
@@ -22654,18 +22642,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "26",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
-                name = "Наручи Йоргена",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "22",
                     retention = "",
                 },
             },
@@ -23270,6 +23246,66 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:6615:0:0:0:0:0:599:0:10|h[Перчатки книжника со знаком мартышки]|h|r",
+                name = "Перчатки книжника со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "24",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15383:0:0:0:0:0:693:0:10|h[Перчатки Яростного Когтя со знаком тигра]|h|r",
+                name = "Перчатки Яростного Когтя со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "43",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14451:0:0:0:0:0:0:0:10|h[Перчатки высокорожденных]|h|r",
+                name = "Перчатки высокорожденных",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "48",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15084:0:0:0:0:0:0:0:10|h[Гибельные кожаные наручи]|h|r",
+                name = "Гибельные кожаные наручи",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "48",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
+                name = "Сапоги из пепельной ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "44",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
                 name = "Оплечье Бараньей стрижки",
                 count = 2,
@@ -23542,66 +23578,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6615:0:0:0:0:0:599:0:10|h[Перчатки книжника со знаком мартышки]|h|r",
-                name = "Перчатки книжника со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "24",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15383:0:0:0:0:0:693:0:10|h[Перчатки Яростного Когтя со знаком тигра]|h|r",
-                name = "Перчатки Яростного Когтя со знаком тигра",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "43",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14451:0:0:0:0:0:0:0:10|h[Перчатки высокорожденных]|h|r",
-                name = "Перчатки высокорожденных",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "48",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15084:0:0:0:0:0:0:0:10|h[Гибельные кожаные наручи]|h|r",
-                name = "Гибельные кожаные наручи",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "48",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
-                name = "Сапоги из пепельной ткани",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "44",
                     retention = "",
                 },
             },
