@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775546648
+ItemStorageDB_LastUpdate = 1775546740
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15713,7 +15713,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-07 10:22:25",
+        updated_at = "2026-04-07 10:25:27",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -15781,18 +15781,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:14175:1892:0:0:0:0:152:0:10|h[Жилет пирата со знаком интеллекта]|h|r",
                 name = "Жилет пирата со знаком интеллекта",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14369:1892:0:0:0:0:0:0:10|h[Кушак мистика]|h|r",
-                name = "Кушак мистика",
                 count = 1,
                 details = {
                     quality = 2,
@@ -16367,18 +16355,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3647:929:0:0:0:0:0:0:10|h[Яркие наручи]|h|r",
-                name = "Яркие наручи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9777:929:0:0:0:0:94:0:10|h[Бандитские наручи со знаком интеллекта]|h|r",
                 name = "Бандитские наручи со знаком интеллекта",
                 count = 1,
@@ -16477,7 +16453,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3066:931:0:0:0:0:0:0:10|h[Яркие перчатки]|h|r",
                 name = "Яркие перчатки",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -17363,6 +17339,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
+                name = "Тяжелая шипастая палица",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "14",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:9783:1892:0:0:0:0:155:0:10|h[Разбойничий нагрудник со знаком силы]|h|r",
                 name = "Разбойничий нагрудник со знаком силы",
                 count = 1,
@@ -17564,18 +17552,6 @@ ItemStorageDB = {
                     subtype = "Кольчуга",
                     required_level = "8",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
-                name = "Тяжелая шипастая палица",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "14",
-                    retention = "Двуручное",
                 },
             },
             {
