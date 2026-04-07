@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775590342
+ItemStorageDB_LastUpdate = 1775591521
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12149,11 +12149,23 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-04-07 22:29:47",
+        updated_at = "2026-04-07 22:51:58",
         money = 38278,
         empty = 0,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
+                name = "Рунический серебряный жезл",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
             {
                 link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
                 name = "Превосходное волшебное масло",
@@ -12275,21 +12287,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
-                name = "Малый сверкающий осколок",
-                count = 149,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
                 name = "Жезл из истинного серебра",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -12385,7 +12385,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
                 name = "Пыль провидения",
-                count = 216,
+                count = 214,
                 details = {
                     quality = 1,
                     type = "",
@@ -12407,33 +12407,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
-                name = "Семена клена",
-                count = 45,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
-                name = "Рунический серебряный жезл",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
-                count = 355,
+                count = 455,
                 details = {
                     quality = 1,
                     type = "",
@@ -12445,6 +12421,18 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3371:0:0:0:0:0:0:0:10|h[Пустая колба]|h|r",
                 name = "Пустая колба",
+                count = 45,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
+                name = "Семена клена",
                 count = 45,
                 details = {
                     quality = 1,
@@ -12484,6 +12472,18 @@ ItemStorageDB = {
                 count = 278,
                 details = {
                     quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
+                name = "Малый сверкающий осколок",
+                count = 149,
+                details = {
+                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -12541,7 +12541,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
                 name = "Великая таинственная субстанция",
-                count = 140,
+                count = 138,
                 details = {
                     quality = 2,
                     type = "",
@@ -12565,7 +12565,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11082:0:0:0:0:0:0:0:10|h[Великая астральная субстанция]|h|r",
                 name = "Великая астральная субстанция",
-                count = 93,
+                count = 117,
                 details = {
                     quality = 2,
                     type = "",
@@ -12589,7 +12589,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:10939:0:0:0:0:0:0:0:10|h[Большая магическая субстанция]|h|r",
                 name = "Большая магическая субстанция",
-                count = 156,
+                count = 160,
                 details = {
                     quality = 2,
                     type = "",
@@ -12601,7 +12601,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:10938:0:0:0:0:0:0:0:10|h[Малая магическая субстанция]|h|r",
                 name = "Малая магическая субстанция",
-                count = 3,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
@@ -12625,7 +12625,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:11084:0:0:0:0:0:0:0:10|h[Большой мерцающий осколок]|h|r",
                 name = "Большой мерцающий осколок",
-                count = 128,
+                count = 129,
                 details = {
                     quality = 3,
                     type = "",
