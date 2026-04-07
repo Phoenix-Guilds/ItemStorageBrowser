@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775591675
+ItemStorageDB_LastUpdate = 1775592250
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18236,7 +18236,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-07 22:24:14",
+        updated_at = "2026-04-07 23:03:50",
         money = 194502,
         empty = 0,
         location = "Оргриммар",
@@ -18482,21 +18482,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
-                name = "Рулон шелка",
-                count = 150,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
-                name = "Паутина",
-                count = 287,
+                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
+                name = "Шелковый материал",
+                count = 384,
                 details = {
                     quality = 1,
                     type = "",
@@ -18530,9 +18518,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
-                name = "Шелковый материал",
-                count = 384,
+                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
+                name = "Рулон шерсти",
+                count = 166,
                 details = {
                     quality = 1,
                     type = "",
@@ -18542,9 +18530,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
-                name = "Рулон шерсти",
-                count = 166,
+                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
+                name = "Паутина",
+                count = 277,
                 details = {
                     quality = 1,
                     type = "",
