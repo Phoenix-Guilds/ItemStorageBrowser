@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775589886
+ItemStorageDB_LastUpdate = 1775590190
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12149,7 +12149,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-04-07 20:07:01",
+        updated_at = "2026-04-07 22:29:47",
         money = 38278,
         empty = 0,
         location = "Оргриммар",
@@ -12373,7 +12373,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -12397,7 +12397,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
                 name = "Пыль духа",
-                count = 762,
+                count = 512,
                 details = {
                     quality = 1,
                     type = "",
@@ -12433,7 +12433,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
-                count = 405,
+                count = 355,
                 details = {
                     quality = 1,
                     type = "",
@@ -12565,7 +12565,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11082:0:0:0:0:0:0:0:10|h[Великая астральная субстанция]|h|r",
                 name = "Великая астральная субстанция",
-                count = 123,
+                count = 93,
                 details = {
                     quality = 2,
                     type = "",
