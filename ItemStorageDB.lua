@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775544686
+ItemStorageDB_LastUpdate = 1775544749
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18761,7 +18761,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-06 04:33:29",
+        updated_at = "2026-04-07 09:52:03",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19237,7 +19237,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                 name = "Горный серебряный шалфей",
-                count = 21,
+                count = 31,
                 details = {
                     quality = 1,
                     type = "",
@@ -19249,7 +19249,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                 name = "Снолист",
-                count = 19,
+                count = 22,
                 details = {
                     quality = 1,
                     type = "",
