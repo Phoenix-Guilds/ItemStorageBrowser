@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775545190
+ItemStorageDB_LastUpdate = 1775545227
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12842,23 +12842,11 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-06 06:12:25",
+        updated_at = "2026-04-07 10:00:07",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff0070dd|Hitem:15772:0:0:0:0:0:0:0:10|h[Выкройка: поножи дьявозавра]|h|r",
-                name = "Выкройка: поножи дьявозавра",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "55",
-                    retention = "",
-                },
-            },
             {
                 link = "|cff0070dd|Hitem:7452:0:0:0:0:0:0:0:10|h[Выкройка: мглистые сапоги]|h|r",
                 name = "Выкройка: мглистые сапоги",
