@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775544874
+ItemStorageDB_LastUpdate = 1775544907
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10085,7 +10085,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-06 06:08:50",
+        updated_at = "2026-04-07 09:54:45",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10262,18 +10262,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:27439:0:0:0:0:0:0:0:10|h[Разъяренный речной рак]|h|r",
                 name = "Разъяренный речной рак",
                 count = 11,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2675:0:0:0:0:0:0:0:10|h[Клешня краба]|h|r",
-                name = "Клешня краба",
-                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -10535,6 +10523,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2675:0:0:0:0:0:0:0:10|h[Клешня краба]|h|r",
+                name = "Клешня краба",
+                count = 7,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:31670:0:0:0:0:0:0:0:10|h[Ребра ящера]|h|r",
                 name = "Ребра ящера",
                 count = 11,
@@ -10573,7 +10573,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:35562:0:0:0:0:0:0:0:10|h[Бок медведя]|h|r",
                 name = "Бок медведя",
-                count = 9,
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
