@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775576341
+ItemStorageDB_LastUpdate = 1775576584
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2027,7 +2027,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-07 14:26:12",
+        updated_at = "2026-04-07 18:42:51",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2389,18 +2389,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "57",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:14555:0:0:0:0:0:0:0:10|h[Солнечное лезвие Алькора]|h|r",
-                name = "Солнечное лезвие Алькора",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "58",
                     retention = "Одноручное",
                 },
             },
