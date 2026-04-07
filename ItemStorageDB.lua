@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775544624
+ItemStorageDB_LastUpdate = 1775544686
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7046,7 +7046,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-06 04:32:27",
+        updated_at = "2026-04-07 09:51:23",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -7318,7 +7318,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6471:0:0:0:0:0:0:0:10|h[Идеальная искаженная чешуя]|h|r",
                 name = "Идеальная искаженная чешуя",
-                count = 21,
+                count = 22,
                 details = {
                     quality = 1,
                     type = "",
@@ -7330,7 +7330,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6470:0:0:0:0:0:0:0:10|h[Искаженная чешуя]|h|r",
                 name = "Искаженная чешуя",
-                count = 74,
+                count = 78,
                 details = {
                     quality = 1,
                     type = "",
@@ -7762,7 +7762,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:15419:0:0:0:0:0:0:0:10|h[Кожа боевого медведя]|h|r",
                 name = "Кожа боевого медведя",
-                count = 14,
+                count = 15,
                 details = {
                     quality = 1,
                     type = "",
