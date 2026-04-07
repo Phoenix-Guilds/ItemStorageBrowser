@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775544781
+ItemStorageDB_LastUpdate = 1775544874
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4658,7 +4658,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-06 20:50:37",
+        updated_at = "2026-04-07 09:54:09",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -4846,7 +4846,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
                 name = "Субстанция Воды",
-                count = 11,
+                count = 13,
                 details = {
                     quality = 2,
                     type = "",
@@ -4882,7 +4882,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
                 name = "Субстанция Земли",
-                count = 5,
+                count = 6,
                 details = {
                     quality = 2,
                     type = "",
@@ -4894,7 +4894,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                 name = "Маленькая блестящая жемчужина",
-                count = 68,
+                count = 71,
                 details = {
                     quality = 2,
                     type = "",
@@ -4991,6 +4991,78 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                 name = "Черный купорос",
                 count = 82,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
+                name = "Первородный воздух",
+                count = 98,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
+                name = "Первородный огонь",
+                count = 17,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
+                name = "Мощный амулет",
+                count = 3,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
+                name = "Настой большого колдунства",
+                count = 30,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
+                name = "Настой колдунства",
+                count = 103,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
+                name = "Синяя жемчужина",
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -5168,78 +5240,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
-                name = "Первородный воздух",
-                count = 98,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
-                name = "Первородный огонь",
-                count = 17,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
-                name = "Мощный амулет",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
-                name = "Настой большого колдунства",
-                count = 30,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
-                name = "Настой колдунства",
-                count = 103,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
-                name = "Синяя жемчужина",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
                 name = "Частица Тени",
                 count = 37,
@@ -5302,7 +5302,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 31,
+                count = 32,
                 details = {
                     quality = 1,
                     type = "",
@@ -5326,7 +5326,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 97,
+                count = 98,
                 details = {
                     quality = 1,
                     type = "",
@@ -5338,7 +5338,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
-                count = 48,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
