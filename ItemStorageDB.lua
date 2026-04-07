@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775560957
+ItemStorageDB_LastUpdate = 1775561201
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2027,7 +2027,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-06 20:36:02",
+        updated_at = "2026-04-07 14:26:12",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2609,18 +2609,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
-                name = "Острокаменная кувалда",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "37",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                 name = "Корявый ясеневый посох",
                 count = 1,
@@ -2713,6 +2701,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "15",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
+                name = "Острокаменная кувалда",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "37",
                     retention = "Двуручное",
                 },
             },
