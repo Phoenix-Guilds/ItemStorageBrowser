@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775670746
+ItemStorageDB_LastUpdate = 1775670778
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18368,7 +18368,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-08 10:37:06",
+        updated_at = "2026-04-08 20:52:26",
         money = 194502,
         empty = 0,
         location = "Оргриммар",
@@ -18496,7 +18496,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
                 name = "Чешуя наги",
-                count = 115,
+                count = 113,
                 details = {
                     quality = 1,
                     type = "",
