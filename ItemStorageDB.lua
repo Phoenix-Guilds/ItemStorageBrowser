@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775673319
+ItemStorageDB_LastUpdate = 1775674980
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9776,7 +9776,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-08 17:22:13",
+        updated_at = "2026-04-08 22:02:34",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10012,36 +10012,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 11,
+                count = 10,
                 details = {
                     quality = 2,
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
-                name = "Усовершенствованный манекен-мишень",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
-                name = "Мифриловая обшивка",
-                count = 32,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
@@ -10070,9 +10046,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
-                name = "Неопознанные части растений",
-                count = 200,
+                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
+                name = "Усовершенствованный манекен-мишень",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
+                name = "Мифриловая обшивка",
+                count = 32,
                 details = {
                     quality = 1,
                     type = "",
