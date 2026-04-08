@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775658357
+ItemStorageDB_LastUpdate = 1775658420
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15881,7 +15881,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-07 10:29:13",
+        updated_at = "2026-04-08 17:26:00",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -17819,18 +17819,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
-                name = "Сфера Бусин с печатью исцеления",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9788:0:0:0:0:0:24:0:10|h[Разбойничий пояс со знаком силы]|h|r",
                 name = "Разбойничий пояс со знаком силы",
                 count = 1,
@@ -18043,6 +18031,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "13",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
+                name = "Сфера Бусин с печатью исцеления",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "5",
                     retention = "",
                 },
             },
