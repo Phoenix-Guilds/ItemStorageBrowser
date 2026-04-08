@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775633985
+ItemStorageDB_LastUpdate = 1775651005
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5768,7 +5768,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-07 09:55:24",
+        updated_at = "2026-04-08 10:40:07",
         money = 82572,
         empty = 15,
         location = "Оргриммар",
@@ -6004,7 +6004,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
                 name = "Аквамарин",
-                count = 130,
+                count = 131,
                 details = {
                     quality = 2,
                     type = "",
@@ -6266,42 +6266,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
-                name = "Стремительный алмаз небесного сияния",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:45881:0:0:0:0:0:0:0:10|h[Искрящийся самоцвет бури]|h|r",
-                name = "Искрящийся самоцвет бури",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
-                name = "Твердый шлифовальный камень",
-                count = 58,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
                 name = "Грубый камень",
                 count = 301,
@@ -6415,6 +6379,42 @@ ItemStorageDB = {
                 count = 37,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
+                name = "Стремительный алмаз небесного сияния",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:45881:0:0:0:0:0:0:0:10|h[Искрящийся самоцвет бури]|h|r",
+                name = "Искрящийся самоцвет бури",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
+                name = "Твердый шлифовальный камень",
+                count = 58,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -18677,7 +18677,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-08 10:38:26",
+        updated_at = "2026-04-08 15:23:24",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -18973,7 +18973,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 353,
+                count = 329,
                 details = {
                     quality = 1,
                     type = "",
@@ -19024,6 +19024,18 @@ ItemStorageDB = {
                 count = 308,
                 details = {
                     quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:4093:0:0:0:0:0:0:0:10|h[Большой хвост василиска]|h|r",
+                name = "Большой хвост василиска",
+                count = 3,
+                details = {
+                    quality = 0,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -19093,7 +19105,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 345,
+                count = 407,
                 details = {
                     quality = 1,
                     type = "",
