@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775670557
+ItemStorageDB_LastUpdate = 1775670693
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23837,7 +23837,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-08 10:29:34",
+        updated_at = "2026-04-08 20:51:16",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -24265,7 +24265,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
                 name = "Инкрустированное малахитом кольцо",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -24277,7 +24277,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25439:0:0:0:0:0:0:0:10|h[Кольцо с тигровым глазом]|h|r",
                 name = "Кольцо с тигровым глазом",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -24553,7 +24553,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
                 name = "Малахитовая подвеска",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
