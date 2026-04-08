@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775657532
+ItemStorageDB_LastUpdate = 1775657564
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10085,7 +10085,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-08 16:27:31",
+        updated_at = "2026-04-08 17:12:37",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10391,6 +10391,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
+                name = "Нежное мясо кроколиска",
+                count = 159,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:5471:0:0:0:0:0:0:0:10|h[Оленина]|h|r",
                 name = "Оленина",
                 count = 17,
@@ -10585,7 +10597,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7974:0:0:0:0:0:0:0:10|h[Острое мясо моллюска]|h|r",
                 name = "Острое мясо моллюска",
-                count = 150,
+                count = 140,
                 details = {
                     quality = 1,
                     type = "",
@@ -10667,9 +10679,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
-                name = "Нежное мясо кроколиска",
-                count = 159,
+                link = "|cffffffff|Hitem:3404:0:0:0:0:0:0:0:10|h[Крыло канюка]|h|r",
+                name = "Крыло канюка",
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
