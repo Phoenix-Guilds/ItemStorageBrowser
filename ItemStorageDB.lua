@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775667414
+ItemStorageDB_LastUpdate = 1775667838
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15869,7 +15869,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-08 19:15:52",
+        updated_at = "2026-04-08 20:03:52",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -17231,18 +17231,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3282:0:0:0:0:0:0:0:10|h[Боевые плетеные штаны]|h|r",
-                name = "Боевые плетеные штаны",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "7",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6267:0:0:0:0:0:839:0:10|h[Штаны Посвященного со знаком орла]|h|r",
                 name = "Штаны Посвященного со знаком орла",
                 count = 1,
@@ -17497,18 +17485,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8178:20319:0:0:0:0:502:0:10|h[Тренировочный меч со знаком волка]|h|r",
                 name = "Тренировочный меч со знаком волка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "5",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:8178:20319:0:0:0:0:1181:0:10|h[Тренировочный меч со знаком медведя]|h|r",
-                name = "Тренировочный меч со знаком медведя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -18049,7 +18025,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2965:1892:0:0:0:0:0:0:10|h[Воинский мундир]|h|r",
                 name = "Воинский мундир",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
