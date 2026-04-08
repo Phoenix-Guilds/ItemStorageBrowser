@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775632549
+ItemStorageDB_LastUpdate = 1775632671
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11411,11 +11411,23 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-06 05:02:06",
+        updated_at = "2026-04-08 10:17:38",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:44682:0:0:0:0:0:-93:70:10|h[Талисман, ускоряющий время с печатью восстановления]|h|r",
+                name = "Талисман, ускоряющий время с печатью восстановления",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "76",
+                    retention = "",
+                },
+            },
             {
                 link = "|cff0070dd|Hitem:44688:0:0:0:0:0:-92:65:10|h[Отрубленный клык Лок\'Нахак с меткой оруженосца]|h|r",
                 name = "Отрубленный клык Лок\'Нахак с меткой оруженосца",
@@ -11573,6 +11585,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:44681:0:0:0:0:0:-93:70:10|h[Титановый мозговорот с печатью восстановления]|h|r",
+                name = "Титановый мозговорот с печатью восстановления",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "76",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44681:0:0:0:0:0:-88:70:10|h[Титановый мозговорот с меткой предсказателя]|h|r",
+                name = "Титановый мозговорот с меткой предсказателя",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "76",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:44683:0:0:0:0:0:-39:65:10|h[Королевская глазница с меткой заклинателя]|h|r",
                 name = "Королевская глазница с меткой заклинателя",
                 count = 1,
@@ -11611,6 +11647,42 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-42:65:10|h[Перстень грез с меткой оракула]|h|r",
                 name = "Перстень грез с меткой оракула",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "78",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-43:65:10|h[Перстень грез с меткой солдата]|h|r",
+                name = "Перстень грез с меткой солдата",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "78",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-39:65:10|h[Перстень грез с меткой заклинателя]|h|r",
+                name = "Перстень грез с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "78",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-90:65:10|h[Перстень грез с меткой некроманта]|h|r",
+                name = "Перстень грез с меткой некроманта",
                 count = 1,
                 details = {
                     quality = 3,
@@ -11672,6 +11744,18 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:37751:0:0:0:0:0:0:0:10|h[Потеряный коготь Туги]|h|r",
                 name = "Потеряный коготь Туги",
                 count = 3,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31290:0:0:0:0:0:0:0:10|h[Кольцо власти]|h|r",
+                name = "Кольцо власти",
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
