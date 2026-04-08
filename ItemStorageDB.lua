@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775651097
+ItemStorageDB_LastUpdate = 1775651340
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9776,7 +9776,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-07 21:42:52",
+        updated_at = "2026-04-08 15:28:50",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -9784,7 +9784,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8932:0:0:0:0:0:0:0:10|h[Альтеракский сыр]|h|r",
                 name = "Альтеракский сыр",
-                count = 27,
+                count = 47,
                 details = {
                     quality = 1,
                     type = "",
@@ -9794,21 +9794,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
-                name = "Гирохронатом",
-                count = 31,
+                link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
+                name = "Жареное крыло канюка",
+                count = 32,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "",
+                    required_level = "25",
                     retention = "",
                 },
             },
             {
-                link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
-                name = "Гномский армейский нож",
-                count = 3,
+                link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
+                name = "Блестящая рыбья чешуя",
+                count = 55,
                 details = {
                     quality = 1,
                     type = "",
@@ -9820,7 +9820,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 19,
+                count = 85,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
+                name = "Рыбий жир",
+                count = 67,
                 details = {
                     quality = 1,
                     type = "",
@@ -9832,7 +9844,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "",
@@ -9844,7 +9856,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
                 name = "Дикий росток",
-                count = 93,
+                count = 119,
                 details = {
                     quality = 1,
                     type = "",
@@ -9856,7 +9868,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун\'Горо]|h|r",
                 name = "Земля Ун\'Горо",
-                count = 300,
+                count = 343,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил\'джедена]|h|r",
+                name = "Знак Кил\'джедена",
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
@@ -9890,9 +9914,45 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
+                name = "Пластины из темного железа",
+                count = 193,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
                 name = "Радужное перо",
-                count = 10,
+                count = 36,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
+                name = "Разорванная шкура медведя",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
+                name = "Реликвия Ульдуара",
+                count = 32,
                 details = {
                     quality = 1,
                     type = "",
@@ -9904,7 +9964,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 250,
+                count = 632,
                 details = {
                     quality = 1,
                     type = "",
@@ -9916,19 +9976,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
                 name = "Усик болотника",
-                count = 19,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
-                name = "Неопознанные части растений",
-                count = 200,
+                count = 41,
                 details = {
                     quality = 1,
                     type = "",
@@ -9986,6 +10034,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
+                name = "Гирохронатом",
+                count = 30,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                 name = "Зеленый кожаный доспех",
                 count = 1,
@@ -9994,6 +10054,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "26",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
+                name = "Неопознанные части растений",
+                count = 200,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
