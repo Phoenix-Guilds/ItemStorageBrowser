@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775633701
+ItemStorageDB_LastUpdate = 1775633763
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19334,7 +19334,7 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        updated_at = "2026-04-06 04:44:55",
+        updated_at = "2026-04-08 10:35:40",
         money = 14656,
         empty = 0,
         location = "Оргриммар",
@@ -19342,7 +19342,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
                 name = "Большой клык",
-                count = 72,
+                count = 84,
                 details = {
                     quality = 1,
                     type = "",
@@ -19376,6 +19376,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
+                name = "Огромная ядовитая железа",
+                count = 13,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
                 name = "Большая ядовитая железа",
                 count = 4,
@@ -19391,18 +19403,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
                 name = "Малая ядовитая железа",
                 count = 43,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
-                name = "Огромная ядовитая железа",
-                count = 13,
                 details = {
                     quality = 1,
                     type = "",
