@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775658159
+ItemStorageDB_LastUpdate = 1775658201
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8831,7 +8831,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-08 17:18:48",
+        updated_at = "2026-04-08 17:22:59",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -8900,6 +8900,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
                 name = "Гигантский флакон с зельем маны",
                 count = 53,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
+                name = "Гигантский флакон с лечебным зельем",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -9025,6 +9037,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "31",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
+                name = "Сильный эликсир защиты",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "29",
                     retention = "",
                 },
             },
@@ -9281,6 +9305,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
+                name = "Эликсир грубой силы",
+                count = 75,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "45",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:13447:0:0:0:0:0:0:0:10|h[Эликсир мудрецов]|h|r",
                 name = "Эликсир мудрецов",
                 count = 52,
@@ -9401,18 +9437,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
-                name = "Сильный эликсир защиты",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "29",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
                 name = "Зелье простой невидимости",
                 count = 5,
@@ -9517,6 +9541,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:44331:0:0:0:0:0:0:0:10|h[Эликсир молниеносности]|h|r",
+                name = "Эликсир молниеносности",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -9641,18 +9677,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
-                name = "Эликсир грубой силы",
-                count = 75,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:858:0:0:0:0:0:0:0:10|h[Маленький флакон с лечебным зельем]|h|r",
                 name = "Маленький флакон с лечебным зельем",
                 count = 112,
@@ -9752,18 +9776,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:44325:0:0:0:0:0:0:0:10|h[Эликсир меткости]|h|r",
                 name = "Эликсир меткости",
                 count = 19,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:44331:0:0:0:0:0:0:0:10|h[Эликсир молниеносности]|h|r",
-                name = "Эликсир молниеносности",
-                count = 5,
                 details = {
                     quality = 1,
                     type = "",
