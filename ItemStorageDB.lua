@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775670507
+ItemStorageDB_LastUpdate = 1775670557
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15857,7 +15857,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-08 20:03:52",
+        updated_at = "2026-04-08 20:48:30",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -17015,18 +17015,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:14564:904:0:0:0:0:0:0:10|h[Полуперчатки геолога]|h|r",
-                name = "Полуперчатки геолога",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9787:856:0:0:0:0:674:0:10|h[Разбойничьи рукавицы со знаком тигра]|h|r",
                 name = "Разбойничьи рукавицы со знаком тигра",
                 count = 1,
@@ -17113,18 +17101,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:9770:884:0:0:0:0:1012:0:10|h[Зеленотканый плащ со знаком кита]|h|r",
                 name = "Зеленотканый плащ со знаком кита",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6575:884:0:0:0:0:672:0:10|h[Плащ поборника со знаком тигра]|h|r",
-                name = "Плащ поборника со знаком тигра",
                 count = 1,
                 details = {
                     quality = 2,
@@ -17303,18 +17279,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2315:929:0:0:0:0:0:0:10|h[Темные кожаные сапоги]|h|r",
-                name = "Темные кожаные сапоги",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:14364:3858:0:0:0:0:0:0:10|h[Туфли мистика]|h|r",
                 name = "Туфли мистика",
                 count = 1,
@@ -17335,18 +17299,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "12",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4576:0:0:0:0:0:0:0:10|h[Легкий лук]|h|r",
-                name = "Легкий лук",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Лук",
-                    required_level = "16",
                     retention = "",
                 },
             },
@@ -17747,6 +17699,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
+                name = "Тяжелая шипастая палица",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "14",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:9788:0:0:0:0:0:24:0:10|h[Разбойничий пояс со знаком силы]|h|r",
                 name = "Разбойничий пояс со знаком силы",
                 count = 1,
@@ -17755,18 +17719,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15308:0:0:0:0:0:234:0:10|h[Дикий шнурованный ремень со знаком сокола]|h|r",
-                name = "Дикий шнурованный ремень со знаком сокола",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "12",
                     retention = "",
                 },
             },
@@ -17960,18 +17912,6 @@ ItemStorageDB = {
                     subtype = "Ткань",
                     required_level = "13",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
-                name = "Тяжелая шипастая палица",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "14",
-                    retention = "Двуручное",
                 },
             },
             {
