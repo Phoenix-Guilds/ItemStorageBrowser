@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775668087
+ItemStorageDB_LastUpdate = 1775668121
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18182,65 +18182,17 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-04-08 18:36:02",
+        updated_at = "2026-04-08 20:08:16",
         money = 9245,
-        empty = 15,
+        empty = 0,
         location = "Оргриммар",
         items = {
             {
-                link = "|cffa335ee|Hitem:51809:0:0:0:0:0:0:0:10|h[Переносная дыра в пространстве]|h|r",
-                name = "Переносная дыра в пространстве",
-                count = 1,
+                link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
+                name = "Сумка из ткани Пустоты",
+                count = 46,
                 details = {
-                    quality = 4,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
-                name = "Титановый ящик с инструментами",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:38347:0:0:0:0:0:0:0:10|h[Шахтерская сумка из шкуры мамонта]|h|r",
-                name = "Шахтерская сумка из шкуры мамонта",
-                count = 7,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:38399:0:0:0:0:0:0:0:10|h[Походная сума зверолова]|h|r",
-                name = "Походная сума зверолова",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44446:0:0:0:0:0:0:0:10|h[Рюкзак с бесчисленными карманами]|h|r",
-                name = "Рюкзак с бесчисленными карманами",
-                count = 10,
-                details = {
-                    quality = 3,
+                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -18250,55 +18202,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                 name = "Сумка из ледяной ткани",
-                count = 19,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
-                name = "Сумка из прочной ткани Пустоты",
-                count = 6,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
-                name = "Сумка из ткани Пустоты",
-                count = 53,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4500:0:0:0:0:0:0:0:10|h[Рюкзак путника]|h|r",
-                name = "Рюкзак путника",
-                count = 14,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:30747:0:0:0:0:0:0:0:10|h[Мешочек для самоцветов]|h|r",
-                name = "Мешочек для самоцветов",
-                count = 1,
+                count = 16,
                 details = {
                     quality = 2,
                     type = "",
