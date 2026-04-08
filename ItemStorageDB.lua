@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775654872
+ItemStorageDB_LastUpdate = 1775656804
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19487,7 +19487,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-08 10:10:54",
+        updated_at = "2026-04-08 17:00:00",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -21725,18 +21725,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:23490:0:0:0:0:0:0:0:10|h[Плетеный мундир из оскверненного железа]|h|r",
-                name = "Плетеный мундир из оскверненного железа",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "63",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:31227:0:0:0:0:0:-44:40:10|h[Оперенный ремень с меткой старца]|h|r",
                 name = "Оперенный ремень с меткой старца",
                 count = 1,
@@ -21977,6 +21965,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:23490:0:0:0:0:0:0:0:10|h[Плетеный мундир из оскверненного железа]|h|r",
+                name = "Плетеный мундир из оскверненного железа",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "63",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:31282:0:0:0:0:0:0:0:10|h[Накидка духовной чистоты]|h|r",
                 name = "Накидка духовной чистоты",
                 count = 1,
@@ -22189,18 +22189,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "63",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31229:0:0:0:0:0:-41:40:10|h[Оперенный боевой пояс с меткой зверя]|h|r",
-                name = "Оперенный боевой пояс с меткой зверя",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "62",
                     retention = "",
                 },
             },
