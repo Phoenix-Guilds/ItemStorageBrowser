@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775662029
+ItemStorageDB_LastUpdate = 1775662061
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12353,7 +12353,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-04-07 22:54:14",
+        updated_at = "2026-04-08 18:27:23",
         money = 38278,
         empty = 0,
         location = "Оргриммар",
@@ -12493,7 +12493,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
                 name = "Жезл из истинного серебра",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
