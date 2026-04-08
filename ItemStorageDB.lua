@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775672403
+ItemStorageDB_LastUpdate = 1775672646
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18677,7 +18677,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-08 20:41:24",
+        updated_at = "2026-04-08 21:23:43",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -18911,18 +18911,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
-                name = "Огнеперый луциан",
-                count = 11,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
                 name = "Масло каменного угря",
                 count = 249,
@@ -19105,7 +19093,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 407,
+                count = 357,
                 details = {
                     quality = 1,
                     type = "",
