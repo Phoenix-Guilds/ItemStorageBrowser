@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775664869
+ItemStorageDB_LastUpdate = 1775664962
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15869,7 +15869,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-08 17:26:00",
+        updated_at = "2026-04-08 19:15:52",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -16057,18 +16057,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:39509:1892:0:0:0:0:-78:6:10|h[Жилет Новолуния со знаком мартышки]|h|r",
                 name = "Жилет Новолуния со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:39509:1892:0:0:0:0:-14:6:10|h[Жилет Новолуния со знаком тигра]|h|r",
-                name = "Жилет Новолуния со знаком тигра",
                 count = 1,
                 details = {
                     quality = 2,
@@ -16487,14 +16475,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3036:0:0:0:0:0:0:0:10|h[Тяжелый короткий лук]|h|r",
-                name = "Тяжелый короткий лук",
+                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
+                name = "Сфера Бусин с печатью исцеления",
                 count = 1,
                 details = {
                     quality = 2,
-                    type = "2",
-                    subtype = "Лук",
-                    required_level = "10",
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "5",
                     retention = "",
                 },
             },
@@ -17795,18 +17783,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
-                name = "Тяжелая шипастая палица",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "14",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9788:0:0:0:0:0:24:0:10|h[Разбойничий пояс со знаком силы]|h|r",
                 name = "Разбойничий пояс со знаком силы",
                 count = 1,
@@ -18023,15 +17999,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
-                name = "Сфера Бусин с печатью исцеления",
+                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
+                name = "Тяжелая шипастая палица",
                 count = 1,
                 details = {
                     quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "5",
-                    retention = "",
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "14",
+                    retention = "Двуручное",
                 },
             },
             {
