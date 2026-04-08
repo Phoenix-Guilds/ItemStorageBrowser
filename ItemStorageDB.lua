@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775632275
+ItemStorageDB_LastUpdate = 1775632549
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3356,15 +3356,15 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-05 10:16:59",
+        updated_at = "2026-04-08 10:15:23",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
         items = {
             {
-                link = "|cff0070dd|Hitem:44505:0:0:0:0:0:0:0:10|h[Повергатель]|h|r",
+                link = "|cff0070dd|Hitem:44505:20242:0:0:0:0:0:0:10|h[Повергатель]|h|r",
                 name = "Повергатель",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -3386,9 +3386,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37802:20242:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
+                name = "Острие Эланора",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "73",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:37802:0:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
                 name = "Острие Эланора",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -3458,6 +3470,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37812:0:0:0:0:0:0:0:10|h[Сокрушитель из окаменелого железного дерева]|h|r",
+                name = "Сокрушитель из окаменелого железного дерева",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "76",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:37811:0:0:0:0:0:0:0:10|h[Увещеватель капитана Карвера]|h|r",
                 name = "Увещеватель капитана Карвера",
                 count = 2,
@@ -3472,7 +3496,19 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37803:0:0:0:0:0:0:0:10|h[Животворная ветвь Лолы]|h|r",
                 name = "Животворная ветвь Лолы",
-                count = 2,
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "71",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37803:20322:0:0:0:0:0:0:10|h[Животворная ветвь Лолы]|h|r",
+                name = "Животворная ветвь Лолы",
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -3530,7 +3566,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37749:0:0:0:0:0:0:0:10|h[Ударные когти]|h|r",
+                link = "|cff0070dd|Hitem:37749:20242:0:0:0:0:0:0:10|h[Ударные когти]|h|r",
                 name = "Ударные когти",
                 count = 2,
                 details = {
@@ -3650,7 +3686,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37747:0:0:0:0:0:0:0:10|h[Благотворный оплот]|h|r",
+                link = "|cff0070dd|Hitem:37747:1128:0:0:0:0:0:0:10|h[Благотворный оплот]|h|r",
                 name = "Благотворный оплот",
                 count = 1,
                 details = {
@@ -3674,7 +3710,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31287:0:0:0:0:0:0:0:10|h[Щит дренейского отважного стража]|h|r",
+                link = "|cff0070dd|Hitem:31287:1128:0:0:0:0:0:0:10|h[Щит дренейского отважного стража]|h|r",
                 name = "Щит дренейского отважного стража",
                 count = 1,
                 details = {
