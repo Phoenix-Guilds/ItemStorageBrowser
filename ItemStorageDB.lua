@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775757166
+ItemStorageDB_LastUpdate = 1775757229
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3356,7 +3356,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-09 17:35:05",
+        updated_at = "2026-04-09 20:52:48",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3562,6 +3562,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Лук",
                     required_level = "77",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31303:0:0:0:0:0:0:0:10|h[Длинный лук Валаноса]|h|r",
+                name = "Длинный лук Валаноса",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Лук",
+                    required_level = "70",
                     retention = "",
                 },
             },
