@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775753924
+ItemStorageDB_LastUpdate = 1775753970
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12890,7 +12890,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-08 18:20:47",
+        updated_at = "2026-04-09 19:59:16",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -13232,18 +13232,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7090:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шелковая броня]|h|r",
-                name = "Выкройка: зеленая шелковая броня",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "28",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:10300:0:0:0:0:0:0:0:10|h[Выкройка: красный жилет из магической ткани]|h|r",
                 name = "Выкройка: красный жилет из магической ткани",
                 count = 1,
@@ -13352,6 +13340,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:24213:0:0:0:0:0:0:0:10|h[Эскиз: покрытый письменами благородный топаз]|h|r",
+                name = "Эскиз: покрытый письменами благородный топаз",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:4415:0:0:0:0:0:0:0:10|h[Схема: монокль ремесленника]|h|r",
                 name = "Схема: монокль ремесленника",
                 count = 2,
@@ -13412,18 +13412,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6369:0:0:0:0:0:0:0:10|h[Рецепт: каменношкурая треска]|h|r",
-                name = "Рецепт: каменношкурая треска",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:21099:0:0:0:0:0:0:0:10|h[Рецепт: копченый шалфокунь]|h|r",
                 name = "Рецепт: копченый шалфокунь",
                 count = 1,
@@ -13432,6 +13420,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6369:0:0:0:0:0:0:0:10|h[Рецепт: каменношкурая треска]|h|r",
+                name = "Рецепт: каменношкурая треска",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
                     retention = "",
                 },
             },
@@ -14380,6 +14380,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Спина",
                     required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7090:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шелковая броня]|h|r",
+                name = "Выкройка: зеленая шелковая броня",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "28",
                     retention = "",
                 },
             },
