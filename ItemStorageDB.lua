@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775754837
+ItemStorageDB_LastUpdate = 1775754868
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11531,7 +11531,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-08 10:17:38",
+        updated_at = "2026-04-09 20:13:43",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -11629,6 +11629,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "69",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31275:0:0:0:0:0:0:0:10|h[Ожерелье добычи]|h|r",
+                name = "Ожерелье добычи",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "67",
                     retention = "",
                 },
             },
