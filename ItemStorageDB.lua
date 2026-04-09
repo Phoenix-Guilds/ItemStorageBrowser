@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775739202
+ItemStorageDB_LastUpdate = 1775739687
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7070,95 +7070,11 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-08 20:11:42",
+        updated_at = "2026-04-09 16:01:20",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
-                name = "Плотная кожа",
-                count = 590,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
-                name = "Плотная шкура",
-                count = 74,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:5785:0:0:0:0:0:0:0:10|h[Толстая чешуя мурлока]|h|r",
-                name = "Толстая чешуя мурлока",
-                count = 55,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
-                name = "Черепаший панцирь",
-                count = 55,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
-                name = "Толстая кожа",
-                count = 674,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
-                name = "Тяжелая шкура",
-                count = 112,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
-                name = "Шкура ящера",
-                count = 57,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
@@ -7306,7 +7222,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38375:0:0:0:0:0:0:0:10|h[Накладки из борейской кожи]|h|r",
                 name = "Накладки из борейской кожи",
-                count = 10,
+                count = 18,
                 details = {
                     quality = 1,
                     type = "",
@@ -7324,18 +7240,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:38376:0:0:0:0:0:0:0:10|h[Накладки из толстой борейской кожи]|h|r",
-                name = "Накладки из толстой борейской кожи",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
                     retention = "",
                 },
             },
@@ -7390,7 +7294,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 1248,
+                count = 1300,
                 details = {
                     quality = 1,
                     type = "",
@@ -7414,7 +7318,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
                 name = "Обрывки кожи",
-                count = 158,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -7532,33 +7436,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:38425:0:0:0:0:0:0:0:10|h[Толстая борейская кожа]|h|r",
-                name = "Толстая борейская кожа",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:38561:0:0:0:0:0:0:0:10|h[Чешуя йормунгара]|h|r",
                 name = "Чешуя йормунгара",
                 count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
-                name = "Борейская кожа",
-                count = 54,
                 details = {
                     quality = 1,
                     type = "",
@@ -7666,7 +7546,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21887:0:0:0:0:0:0:0:10|h[Узловатая кожа]|h|r",
                 name = "Узловатая кожа",
-                count = 221,
+                count = 213,
                 details = {
                     quality = 1,
                     type = "",
@@ -7727,6 +7607,78 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:15408:0:0:0:0:0:0:0:10|h[Толстая чешуя скорпида]|h|r",
                 name = "Толстая чешуя скорпида",
                 count = 67,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
+                name = "Плотная шкура",
+                count = 74,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5785:0:0:0:0:0:0:0:10|h[Толстая чешуя мурлока]|h|r",
+                name = "Толстая чешуя мурлока",
+                count = 55,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
+                name = "Черепаший панцирь",
+                count = 55,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
+                name = "Толстая кожа",
+                count = 674,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
+                name = "Тяжелая шкура",
+                count = 112,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
+                name = "Шкура ящера",
+                count = 57,
                 details = {
                     quality = 1,
                     type = "",
@@ -7859,6 +7811,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:8172:0:0:0:0:0:0:0:10|h[Обработанная плотная шкура]|h|r",
                 name = "Обработанная плотная шкура",
                 count = 27,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
+                name = "Плотная кожа",
+                count = 590,
                 details = {
                     quality = 1,
                     type = "",
