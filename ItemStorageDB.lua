@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775754744
+ItemStorageDB_LastUpdate = 1775754775
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10754,7 +10754,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-09 17:13:39",
+        updated_at = "2026-04-09 20:12:16",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -10864,6 +10864,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "69",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36193:0:0:0:0:0:-40:52:10|h[Ньордские наплечные щитки с меткой преступника]|h|r",
+                name = "Ньордские наплечные щитки с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "68",
                     retention = "",
                 },
             },
@@ -11080,18 +11092,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "70",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:35970:0:0:0:0:0:-36:39:10|h[Кровоспоровые браслеты с меткой волшебника]|h|r",
-                name = "Кровоспоровые браслеты с меткой волшебника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "68",
                     retention = "",
                 },
             },
@@ -11416,6 +11416,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35970:0:0:0:0:0:-36:39:10|h[Кровоспоровые браслеты с меткой волшебника]|h|r",
+                name = "Кровоспоровые браслеты с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "68",
                     retention = "",
                 },
             },
