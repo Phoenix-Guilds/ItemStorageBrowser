@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775758738
+ItemStorageDB_LastUpdate = 1775758760
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10217,7 +10217,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-09 21:14:30",
+        updated_at = "2026-04-09 21:19:14",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10379,6 +10379,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
+                name = "Хрустящая паучья лапка",
+                count = 30,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
                 name = "Хрустящее паучье мясо",
                 count = 43,
@@ -10405,7 +10417,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
                 name = "Мясо моллюска",
-                count = 16,
+                count = 38,
                 details = {
                     quality = 1,
                     type = "",
@@ -10609,7 +10621,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
                 name = "Хвост рокочущей ящерицы",
-                count = 189,
+                count = 206,
                 details = {
                     quality = 1,
                     type = "",
@@ -10634,18 +10646,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
                 name = "Постный волчий бок",
                 count = 6,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
-                name = "Хрустящая паучья лапка",
-                count = 30,
                 details = {
                     quality = 1,
                     type = "",
