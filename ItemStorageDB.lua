@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775756792
+ItemStorageDB_LastUpdate = 1775756823
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8486,7 +8486,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-09 20:20:15",
+        updated_at = "2026-04-09 20:46:41",
         money = 124467,
         empty = 0,
         location = "Оргриммар",
@@ -8626,7 +8626,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                 name = "Оловянная руда",
-                count = 181,
+                count = 191,
                 details = {
                     quality = 1,
                     type = "",
