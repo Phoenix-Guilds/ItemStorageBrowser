@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775745242
+ItemStorageDB_LastUpdate = 1775745334
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3356,7 +3356,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-08 19:19:55",
+        updated_at = "2026-04-09 17:35:05",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3370,18 +3370,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "78",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37807:0:0:0:0:0:0:0:10|h[Заостренный мечелом Линдии]|h|r",
-                name = "Заостренный мечелом Линдии",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "74",
                     retention = "Одноручное",
                 },
             },
@@ -3406,18 +3394,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "73",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
-                name = "Клинок Неутолимой Жажды",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "64",
                     retention = "Одноручное",
                 },
             },
@@ -3611,18 +3587,6 @@ ItemStorageDB = {
                     subtype = "Огнестрельное",
                     required_level = "65",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36518:0:0:0:0:0:-45:32:10|h[Лезвие тундры с меткой победителя]|h|r",
-                name = "Лезвие тундры с меткой победителя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "70",
-                    retention = "Одноручное",
                 },
             },
             {
