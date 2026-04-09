@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775758505
+ItemStorageDB_LastUpdate = 1775758537
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4718,7 +4718,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-09 20:57:56",
+        updated_at = "2026-04-09 21:15:08",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -4954,7 +4954,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                 name = "Маленькая блестящая жемчужина",
-                count = 71,
+                count = 72,
                 details = {
                     quality = 2,
                     type = "",
@@ -4966,7 +4966,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 25,
+                count = 26,
                 details = {
                     quality = 2,
                     type = "",
@@ -5182,7 +5182,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
                 name = "Частица Жизни",
-                count = 57,
+                count = 63,
                 details = {
                     quality = 1,
                     type = "",
@@ -5218,7 +5218,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
-                count = 48,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -5314,7 +5314,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
                 name = "Частица Тени",
-                count = 53,
+                count = 62,
                 details = {
                     quality = 1,
                     type = "",
@@ -5386,7 +5386,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
                 name = "Ядро земли",
-                count = 6,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
