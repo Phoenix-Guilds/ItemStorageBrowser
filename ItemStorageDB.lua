@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775757734
+ItemStorageDB_LastUpdate = 1775757766
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16109,7 +16109,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-09 20:49:19",
+        updated_at = "2026-04-09 21:02:26",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -17747,66 +17747,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2078:0:0:0:0:0:23:0:10|h[Северный короткий меч со знаком силы]|h|r",
-                name = "Северный короткий меч со знаком силы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "13",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3314:0:0:0:0:0:0:0:10|h[Парадные кожаные перчатки]|h|r",
-                name = "Парадные кожаные перчатки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6550:0:0:0:0:0:1179:0:10|h[Солдатские накулачники со знаком медведя]|h|r",
-                name = "Солдатские накулачники со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2991:0:0:0:0:0:0:0:10|h[Вороненые сапоги]|h|r",
-                name = "Вороненые сапоги",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
-                name = "Тяжелая шипастая палица",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "14",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:14120:1892:0:0:0:0:760:0:10|h[Туземное одеяние со знаком совы]|h|r",
                 name = "Туземное одеяние со знаком совы",
                 count = 1,
@@ -18020,6 +17960,78 @@ ItemStorageDB = {
                     subtype = "Ткань",
                     required_level = "6",
                     retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2989:0:0:0:0:0:0:0:10|h[Вороненый мундир]|h|r",
+                name = "Вороненый мундир",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2078:0:0:0:0:0:23:0:10|h[Северный короткий меч со знаком силы]|h|r",
+                name = "Северный короткий меч со знаком силы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "13",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:3314:0:0:0:0:0:0:0:10|h[Парадные кожаные перчатки]|h|r",
+                name = "Парадные кожаные перчатки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6550:0:0:0:0:0:1179:0:10|h[Солдатские накулачники со знаком медведя]|h|r",
+                name = "Солдатские накулачники со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2991:0:0:0:0:0:0:0:10|h[Вороненые сапоги]|h|r",
+                name = "Вороненые сапоги",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4778:0:0:0:0:0:0:0:10|h[Тяжелая шипастая палица]|h|r",
+                name = "Тяжелая шипастая палица",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "14",
+                    retention = "Двуручное",
                 },
             },
             {
