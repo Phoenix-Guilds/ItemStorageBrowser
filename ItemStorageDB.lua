@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775758888
+ItemStorageDB_LastUpdate = 1775758920
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3725,7 +3725,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-09 20:58:46",
+        updated_at = "2026-04-09 21:21:36",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -4055,13 +4055,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:24610:0:0:0:0:0:-36:41:10|h[Штаны Веселого Черепа с меткой волшебника]|h|r",
-                name = "Штаны Веселого Черепа с меткой волшебника",
+                link = "|cff1eff00|Hitem:24835:0:0:0:0:0:-40:41:10|h[Бриджи скитальца Нексуса с меткой преступника]|h|r",
+                name = "Бриджи скитальца Нексуса с меткой преступника",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Ткань",
+                    subtype = "Кольчуга",
                     required_level = "60",
                     retention = "",
                 },
@@ -4374,6 +4374,30 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Арбалет",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24722:0:0:0:0:0:-40:41:10|h[Брюки Отребья с меткой преступника]|h|r",
+                name = "Брюки Отребья с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24610:0:0:0:0:0:-36:41:10|h[Штаны Веселого Черепа с меткой волшебника]|h|r",
+                name = "Штаны Веселого Черепа с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
                     required_level = "60",
                     retention = "",
                 },
