@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775745547
+ItemStorageDB_LastUpdate = 1775748839
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19427,7 +19427,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-09 15:32:51",
+        updated_at = "2026-04-09 18:33:47",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -20153,18 +20153,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:44675:3829:0:0:0:0:-89:81:10|h[Розовое покрывало скального великана с меткой вора]|h|r",
-                name = "Розовое покрывало скального великана с меткой вора",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "72",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:37781:3246:0:0:0:0:0:0:10|h[Захваты доброго сердца]|h|r",
                 name = "Захваты доброго сердца",
                 count = 1,
@@ -20377,18 +20365,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "72",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44669:0:0:0:0:0:-40:56:10|h[Воргенские кандалы с меткой преступника]|h|r",
-                name = "Воргенские кандалы с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "70",
                     retention = "",
                 },
             },
@@ -21409,18 +21385,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "75",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44671:0:0:0:0:0:-89:108:10|h[Стеганые набедренники Верховного лорда с меткой вора]|h|r",
-                name = "Стеганые набедренники Верховного лорда с меткой вора",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "72",
                     retention = "",
                 },
             },
