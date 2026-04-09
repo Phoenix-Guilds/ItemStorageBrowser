@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775754993
+ItemStorageDB_LastUpdate = 1775755055
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11567,11 +11567,23 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-09 20:13:43",
+        updated_at = "2026-04-09 20:16:09",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:31272:0:0:0:0:0:0:0:10|h[Корона безграничного знания]|h|r",
+                name = "Корона безграничного знания",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "66",
+                    retention = "",
+                },
+            },
             {
                 link = "|cff0070dd|Hitem:44682:0:0:0:0:0:-93:70:10|h[Талисман, ускоряющий время с печатью восстановления]|h|r",
                 name = "Талисман, ускоряющий время с печатью восстановления",
