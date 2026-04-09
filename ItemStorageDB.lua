@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775754525
+ItemStorageDB_LastUpdate = 1775754560
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7835,7 +7835,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-04-08 20:14:25",
+        updated_at = "2026-04-09 20:09:01",
         money = 0,
         empty = 0,
         location = "Оргриммар",
@@ -7880,6 +7880,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:27656:0:0:0:0:0:0:0:10|h[Закуска спорлингов]|h|r",
                 name = "Закуска спорлингов",
                 count = 8,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:27659:0:0:0:0:0:0:0:10|h[Котлета из прыгуаны]|h|r",
+                name = "Котлета из прыгуаны",
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
