@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775758920
+ItemStorageDB_LastUpdate = 1775758952
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16157,7 +16157,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-09 21:02:26",
+        updated_at = "2026-04-09 21:22:12",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -18007,6 +18007,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "6",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15306:0:0:0:0:0:17:0:10|h[Дикие наручники со знаком ловкости]|h|r",
+                name = "Дикие наручники со знаком ловкости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "11",
                     retention = "",
                 },
             },
