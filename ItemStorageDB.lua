@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775757070
+ItemStorageDB_LastUpdate = 1775757102
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12044,7 +12044,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-04-06 20:34:49",
+        updated_at = "2026-04-09 20:51:26",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -12256,7 +12256,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                 name = "Двуствольный дробовик",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "2",
