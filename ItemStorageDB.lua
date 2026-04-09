@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775759048
+ItemStorageDB_LastUpdate = 1775759080
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22700,7 +22700,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-09 20:50:05",
+        updated_at = "2026-04-09 21:24:13",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -23042,18 +23042,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:15084:0:0:0:0:0:0:0:10|h[Гибельные кожаные наручи]|h|r",
-                name = "Гибельные кожаные наручи",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "48",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:10044:3858:0:0:0:0:0:0:10|h[Сапоги из пепельной ткани]|h|r",
                 name = "Сапоги из пепельной ткани",
                 count = 1,
@@ -23258,6 +23246,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
+                name = "Светящиеся магические браслеты",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "26",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:16710:0:0:0:0:0:0:0:10|h[Наручи незаметности]|h|r",
                 name = "Наручи незаметности",
                 count = 2,
@@ -23320,7 +23320,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                 name = "Наручи Гневливого",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -23386,18 +23386,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "34",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
-                name = "Светящиеся магические браслеты",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "26",
                     retention = "",
                 },
             },
@@ -24278,14 +24266,26 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:14451:0:0:0:0:0:0:0:10|h[Перчатки высокорожденных]|h|r",
-                name = "Перчатки высокорожденных",
+                link = "|cff1eff00|Hitem:15084:0:0:0:0:0:0:0:10|h[Гибельные кожаные наручи]|h|r",
+                name = "Гибельные кожаные наручи",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "48",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6615:0:0:0:0:0:599:0:10|h[Перчатки книжника со знаком мартышки]|h|r",
+                name = "Перчатки книжника со знаком мартышки",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "48",
+                    required_level = "24",
                     retention = "",
                 },
             },
@@ -24302,14 +24302,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6615:0:0:0:0:0:599:0:10|h[Перчатки книжника со знаком мартышки]|h|r",
-                name = "Перчатки книжника со знаком мартышки",
+                link = "|cff1eff00|Hitem:14451:0:0:0:0:0:0:0:10|h[Перчатки высокорожденных]|h|r",
+                name = "Перчатки высокорожденных",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "24",
+                    required_level = "48",
                     retention = "",
                 },
             },
