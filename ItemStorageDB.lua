@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775756418
+ItemStorageDB_LastUpdate = 1775756438
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18905,7 +18905,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-09 20:18:59",
+        updated_at = "2026-04-09 20:40:14",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19165,7 +19165,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 329,
+                count = 353,
                 details = {
                     quality = 1,
                     type = "",
@@ -19177,7 +19177,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 206,
+                count = 218,
                 details = {
                     quality = 1,
                     type = "",
@@ -19237,7 +19237,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 247,
+                count = 248,
                 details = {
                     quality = 1,
                     type = "",
@@ -19273,7 +19273,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 407,
+                count = 410,
                 details = {
                     quality = 1,
                     type = "",
@@ -19417,7 +19417,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                 name = "Корень жизни",
-                count = 222,
+                count = 227,
                 details = {
                     quality = 1,
                     type = "",
