@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775757506
+ItemStorageDB_LastUpdate = 1775757547
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3713,7 +3713,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-09 15:31:11",
+        updated_at = "2026-04-09 20:58:46",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -3847,6 +3847,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24812:0:0:0:0:0:-14:27:10|h[Наплеч Непреклонности со знаком тигра]|h|r",
+                name = "Наплеч Непреклонности со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "57",
                     retention = "",
                 },
             },
@@ -4043,30 +4055,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:24706:0:0:0:0:0:-14:38:10|h[Хаал\'ешские поножи со знаком тигра]|h|r",
-                name = "Хаал\'ешские поножи со знаком тигра",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "58",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25257:0:0:0:0:0:-13:13:10|h[Цитадельский арбалет со знаком волка]|h|r",
-                name = "Цитадельский арбалет со знаком волка",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25240:0:0:0:0:0:-45:12:10|h[Азеротский длинный лук с меткой победителя]|h|r",
                 name = "Азеротский длинный лук с меткой победителя",
                 count = 1,
@@ -4223,6 +4211,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:25229:0:0:0:0:0:-41:41:10|h[Длинный протазан с меткой зверя]|h|r",
+                name = "Длинный протазан с меткой зверя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Древковое",
+                    required_level = "60",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:25114:0:0:0:0:0:-40:15:10|h[Палица Вестника рока с меткой преступника]|h|r",
                 name = "Палица Вестника рока с меткой преступника",
                 count = 1,
@@ -4271,18 +4271,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-40:12:10|h[Арбалет башни с меткой преступника]|h|r",
-                name = "Арбалет башни с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "57",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-41:12:10|h[Арбалет башни с меткой зверя]|h|r",
                 name = "Арбалет башни с меткой зверя",
                 count = 1,
@@ -4295,8 +4283,20 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25255:0:0:0:0:0:-40:12:10|h[Арбалет лобового штурма с меткой преступника]|h|r",
-                name = "Арбалет лобового штурма с меткой преступника",
+                link = "|cff1eff00|Hitem:25254:0:0:0:0:0:-40:12:10|h[Арбалет башни с меткой преступника]|h|r",
+                name = "Арбалет башни с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "57",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25255:0:0:0:0:0:-14:12:10|h[Арбалет лобового штурма со знаком тигра]|h|r",
+                name = "Арбалет лобового штурма со знаком тигра",
                 count = 1,
                 details = {
                     quality = 2,
@@ -4307,8 +4307,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25255:0:0:0:0:0:-14:12:10|h[Арбалет лобового штурма со знаком тигра]|h|r",
-                name = "Арбалет лобового штурма со знаком тигра",
+                link = "|cff1eff00|Hitem:25255:0:0:0:0:0:-40:12:10|h[Арбалет лобового штурма с меткой преступника]|h|r",
+                name = "Арбалет лобового штурма с меткой преступника",
                 count = 1,
                 details = {
                     quality = 2,
@@ -4343,6 +4343,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:25257:0:0:0:0:0:-13:13:10|h[Цитадельский арбалет со знаком волка]|h|r",
+                name = "Цитадельский арбалет со знаком волка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:25257:0:0:0:0:0:-7:13:10|h[Цитадельский арбалет со знаком медведя]|h|r",
                 name = "Цитадельский арбалет со знаком медведя",
                 count = 1,
@@ -4351,6 +4363,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Арбалет",
                     required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24706:0:0:0:0:0:-14:38:10|h[Хаал\'ешские поножи со знаком тигра]|h|r",
+                name = "Хаал\'ешские поножи со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "58",
                     retention = "",
                 },
             },
@@ -4573,11 +4597,23 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24608:0:0:0:0:0:-22:31:10|h[Перчатки Веселого Черепа с магической аурой]|h|r",
                 name = "Перчатки Веселого Черепа с магической аурой",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24720:0:0:0:0:0:-40:31:10|h[Перчатки Отребья с меткой преступника]|h|r",
+                name = "Перчатки Отребья с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
                     required_level = "60",
                     retention = "",
                 },
