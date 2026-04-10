@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775837028
+ItemStorageDB_LastUpdate = 1775837090
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10898,7 +10898,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-09 20:15:23",
+        updated_at = "2026-04-10 19:04:38",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11008,6 +11008,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "69",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35969:0:0:0:0:0:-37:52:10|h[Кровоспоровое оплечье с меткой целителя]|h|r",
+                name = "Кровоспоровое оплечье с меткой целителя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "68",
                     retention = "",
                 },
             },
@@ -11223,18 +11235,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36180:0:0:0:0:0:-40:50:10|h[Кованые сапоги с меткой преступника]|h|r",
-                name = "Кованые сапоги с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
                     required_level = "67",
                     retention = "",
                 },
@@ -11576,6 +11576,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:36180:0:0:0:0:0:-40:50:10|h[Кованые сапоги с меткой преступника]|h|r",
+                name = "Кованые сапоги с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:36068:0:0:0:0:0:-37:50:10|h[Сапоги бухты Кинжалов с меткой целителя]|h|r",
                 name = "Сапоги бухты Кинжалов с меткой целителя",
                 count = 1,
@@ -11620,6 +11632,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36086:0:0:0:0:0:-5:53:10|h[Перчатки Терзающего Бича со знаком мартышки]|h|r",
+                name = "Перчатки Терзающего Бича со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "69",
                     retention = "",
                 },
             },
