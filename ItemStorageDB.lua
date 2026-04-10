@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775837620
+ItemStorageDB_LastUpdate = 1775837743
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8570,7 +8570,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-09 22:05:21",
+        updated_at = "2026-04-10 19:15:24",
         money = 124467,
         empty = 0,
         location = "Оргриммар",
@@ -8770,7 +8770,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
                 name = "Железный слиток",
-                count = 509,
+                count = 616,
                 details = {
                     quality = 1,
                     type = "",
