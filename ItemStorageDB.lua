@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775837402
+ItemStorageDB_LastUpdate = 1775837464
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19253,7 +19253,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-10 18:56:06",
+        updated_at = "2026-04-10 19:10:37",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19309,7 +19309,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
                 name = "Огнелист",
-                count = 134,
+                count = 156,
                 details = {
                     quality = 1,
                     type = "",
@@ -19331,6 +19331,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
+                name = "Ползучий кошмарник",
+                count = 138,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
                 name = "Манаполох",
                 count = 35,
@@ -19343,9 +19355,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
-                name = "Ползучий кошмарник",
-                count = 138,
+                link = "|cffffffff|Hitem:22787:0:0:0:0:0:0:0:10|h[Кисейница]|h|r",
+                name = "Кисейница",
+                count = 112,
                 details = {
                     quality = 1,
                     type = "",
@@ -19370,18 +19382,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                 name = "Древний лишайник",
                 count = 9,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22787:0:0:0:0:0:0:0:10|h[Кисейница]|h|r",
-                name = "Кисейница",
-                count = 112,
                 details = {
                     quality = 1,
                     type = "",
@@ -19429,7 +19429,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                 name = "Масляный черноротик",
-                count = 55,
+                count = 119,
                 details = {
                     quality = 1,
                     type = "",
@@ -19465,7 +19465,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
                 name = "Масло каменного угря",
-                count = 249,
+                count = 299,
                 details = {
                     quality = 1,
                     type = "",
@@ -19499,9 +19499,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
-                name = "Удавник",
-                count = 244,
+                link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
+                name = "Синячник",
+                count = 441,
                 details = {
                     quality = 1,
                     type = "",
@@ -19513,7 +19513,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 378,
+                count = 379,
                 details = {
                     quality = 1,
                     type = "",
@@ -19535,9 +19535,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
+                name = "Удавник",
+                count = 244,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
                 count = 388,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
+                name = "Магороза",
+                count = 600,
                 details = {
                     quality = 1,
                     type = "",
@@ -19571,9 +19595,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
-                name = "Магороза",
-                count = 600,
+                link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
+                name = "Кадгаров ус",
+                count = 318,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
+                name = "Корень жизни",
+                count = 250,
                 details = {
                     quality = 1,
                     type = "",
@@ -19619,66 +19655,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
-                name = "Синячник",
-                count = 441,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
-                name = "Кадгаров ус",
-                count = 268,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
-                name = "Златошип",
-                count = 134,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
-                name = "Бледнолист",
-                count = 162,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
-                name = "Корень жизни",
-                count = 233,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
                 name = "Терошишка",
                 count = 150,
@@ -19715,9 +19691,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
-                name = "Горный серебряный шалфей",
-                count = 65,
+                link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
+                name = "Снолист",
+                count = 33,
                 details = {
                     quality = 1,
                     type = "",
@@ -19727,9 +19703,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
-                name = "Снолист",
-                count = 33,
+                link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
+                name = "Горный серебряный шалфей",
+                count = 65,
                 details = {
                     quality = 1,
                     type = "",
@@ -19763,6 +19739,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
+                name = "Златошип",
+                count = 167,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
+                name = "Бледнолист",
+                count = 162,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                 name = "Пастушья сумка",
                 count = 293,
@@ -19787,9 +19787,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
-                name = "Слезы Артаса",
-                count = 27,
+                link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
+                name = "Лиловый лотос",
+                count = 69,
                 details = {
                     quality = 1,
                     type = "",
@@ -19799,9 +19799,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
-                name = "Лиловый лотос",
-                count = 69,
+                link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
+                name = "Слезы Артаса",
+                count = 27,
                 details = {
                     quality = 1,
                     type = "",
