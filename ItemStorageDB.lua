@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775837090
+ItemStorageDB_LastUpdate = 1775837153
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8975,7 +8975,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-10 18:51:51",
+        updated_at = "2026-04-10 19:05:29",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9139,7 +9139,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                 name = "Большой флакон с лечебным зельем",
-                count = 269,
+                count = 274,
                 details = {
                     quality = 1,
                     type = "",
@@ -9151,7 +9151,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4623:0:0:0:0:0:0:0:10|h[Простое зелье каменного щита]|h|r",
                 name = "Простое зелье каменного щита",
-                count = 32,
+                count = 33,
                 details = {
                     quality = 1,
                     type = "",
@@ -9487,7 +9487,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
                 name = "Эликсир грубой силы",
-                count = 75,
+                count = 82,
                 details = {
                     quality = 1,
                     type = "",
@@ -9589,6 +9589,90 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "37",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
+                name = "Зелье простой невидимости",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
+                name = "Зелье маны",
+                count = 29,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "22",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
+                name = "Средний флакон с лечебным зельем",
+                count = 117,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "21",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
+                name = "Маленький флакон с зельем маны",
+                count = 71,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
+                name = "Лечебное зелье",
+                count = 100,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3384:0:0:0:0:0:0:0:10|h[Слабое зелье защиты от магии]|h|r",
+                name = "Слабое зелье защиты от магии",
+                count = 15,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "12",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6372:0:0:0:0:0:0:0:10|h[Зелье быстрого плавания]|h|r",
+                name = "Зелье быстрого плавания",
+                count = 50,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "10",
                     retention = "",
                 },
             },
@@ -9733,90 +9817,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "50",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
-                name = "Зелье простой невидимости",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
-                name = "Зелье маны",
-                count = 29,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
-                name = "Средний флакон с лечебным зельем",
-                count = 117,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "21",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
-                name = "Маленький флакон с зельем маны",
-                count = 71,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
-                name = "Лечебное зелье",
-                count = 100,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "12",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3384:0:0:0:0:0:0:0:10|h[Слабое зелье защиты от магии]|h|r",
-                name = "Слабое зелье защиты от магии",
-                count = 15,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "12",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6372:0:0:0:0:0:0:0:10|h[Зелье быстрого плавания]|h|r",
-                name = "Зелье быстрого плавания",
-                count = 50,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "10",
                     retention = "",
                 },
             },
