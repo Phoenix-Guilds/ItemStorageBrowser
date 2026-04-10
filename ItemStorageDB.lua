@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775843769
+ItemStorageDB_LastUpdate = 1775844646
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12593,7 +12593,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-04-09 20:07:49",
+        updated_at = "2026-04-10 21:10:20",
         money = 38278,
         empty = 0,
         location = "Оргриммар",
@@ -12781,7 +12781,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
                 name = "Этерниевый жезл",
-                count = 8,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -12806,18 +12806,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
                 count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
-                name = "Золотой жезл",
-                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -12911,6 +12899,66 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
+                name = "Малый сверкающий осколок",
+                count = 149,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:11178:0:0:0:0:0:0:0:10|h[Большой светозарный осколок]|h|r",
+                name = "Большой светозарный осколок",
+                count = 74,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:11177:0:0:0:0:0:0:0:10|h[Малый светозарный осколок]|h|r",
+                name = "Малый светозарный осколок",
+                count = 163,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:11139:0:0:0:0:0:0:0:10|h[Большой светящийся осколок]|h|r",
+                name = "Большой светящийся осколок",
+                count = 111,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:11138:0:0:0:0:0:0:0:10|h[Малый светящийся осколок]|h|r",
+                name = "Малый светящийся осколок",
+                count = 118,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
                 name = "Великая таинственная субстанция",
                 count = 137,
@@ -12988,66 +13036,6 @@ ItemStorageDB = {
                 count = 91,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
-                name = "Малый сверкающий осколок",
-                count = 149,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11178:0:0:0:0:0:0:0:10|h[Большой светозарный осколок]|h|r",
-                name = "Большой светозарный осколок",
-                count = 74,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11177:0:0:0:0:0:0:0:10|h[Малый светозарный осколок]|h|r",
-                name = "Малый светозарный осколок",
-                count = 163,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11139:0:0:0:0:0:0:0:10|h[Большой светящийся осколок]|h|r",
-                name = "Большой светящийся осколок",
-                count = 111,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:11138:0:0:0:0:0:0:0:10|h[Малый светящийся осколок]|h|r",
-                name = "Малый светящийся осколок",
-                count = 118,
-                details = {
-                    quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
