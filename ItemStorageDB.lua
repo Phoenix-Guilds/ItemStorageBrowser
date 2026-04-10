@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1775837931
+ItemStorageDB_LastUpdate = 1775838657
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-04-08 22:29:17",
+        updated_at = "2026-04-10 19:30:33",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -394,7 +394,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                 name = "Символ правосудия",
-                count = 9,
+                count = 8,
                 details = {
                     quality = 1,
                     type = "",
@@ -1328,78 +1328,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:50125:0:0:0:0:0:0:0:10|h[Символ стремительного омоложения]|h|r",
-                name = "Символ стремительного омоложения",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:40914:0:0:0:0:0:0:0:10|h[Символ целительного прикосновения]|h|r",
-                name = "Символ целительного прикосновения",
-                count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
-                name = "Символ омоложения",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
-                name = "Поварская книга",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
-                name = "Книга познания символов",
-                count = 6,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:43335:0:0:0:0:0:0:0:10|h[Символ дикой природы]|h|r",
-                name = "Символ дикой природы",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                 name = "Символ прилива сил",
                 count = 23,
@@ -1528,6 +1456,78 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:50125:0:0:0:0:0:0:0:10|h[Символ стремительного омоложения]|h|r",
+                name = "Символ стремительного омоложения",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:40914:0:0:0:0:0:0:0:10|h[Символ целительного прикосновения]|h|r",
+                name = "Символ целительного прикосновения",
+                count = 4,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
+                name = "Символ омоложения",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
+                name = "Поварская книга",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
+                name = "Книга познания символов",
+                count = 8,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:43335:0:0:0:0:0:0:0:10|h[Символ дикой природы]|h|r",
+                name = "Символ дикой природы",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
                     retention = "",
                 },
             },
