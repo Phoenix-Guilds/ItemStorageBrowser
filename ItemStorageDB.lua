@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775845352
+ItemStorageDB_LastUpdate = 1775845383
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2015,7 +2015,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-10 19:16:14",
+        updated_at = "2026-04-10 21:22:44",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2515,7 +2515,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
                 name = "Клинок титанов",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2527,7 +2527,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13018:0:0:0:0:0:0:0:10|h[Колун палача]|h|r",
                 name = "Колун палача",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
