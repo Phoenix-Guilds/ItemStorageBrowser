@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775837869
+ItemStorageDB_LastUpdate = 1775837931
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9932,7 +9932,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-10 19:01:04",
+        updated_at = "2026-04-10 19:18:23",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10118,18 +10118,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
-                name = "Одеяния Тайны",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                 name = "Зеленый кожаный доспех",
                 count = 1,
@@ -10144,7 +10132,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 10,
+                count = 13,
                 details = {
                     quality = 2,
                     type = "2",
@@ -10154,9 +10142,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
-                name = "Гирохронатом",
-                count = 30,
+                link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
+                name = "Одеяния Тайны",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
+                name = "Усовершенствованный манекен-мишень",
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -10166,21 +10166,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
-                name = "Украшенные узором бронзовые наручи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
-                name = "Усовершенствованный манекен-мишень",
-                count = 2,
+                link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
+                name = "Гирохронатом",
+                count = 30,
                 details = {
                     quality = 1,
                     type = "",
@@ -10198,6 +10186,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
+                name = "Украшенные узором бронзовые наручи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "20",
                     retention = "",
                 },
             },
