@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775845783
+ItemStorageDB_LastUpdate = 1775852180
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8546,7 +8546,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-10 19:15:24",
+        updated_at = "2026-04-10 23:15:58",
         money = 124467,
         empty = 0,
         location = "Оргриммар",
@@ -8650,7 +8650,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                 name = "Руда истинного серебра",
-                count = 539,
+                count = 450,
                 details = {
                     quality = 2,
                     type = "",
@@ -8734,7 +8734,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
                 name = "Железная руда",
-                count = 402,
+                count = 202,
                 details = {
                     quality = 1,
                     type = "",
@@ -8816,18 +8816,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
-                name = "Мифриловая руда",
-                count = 177,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
                 count = 100,
@@ -8866,7 +8854,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
                 name = "Золотая руда",
-                count = 391,
+                count = 300,
                 details = {
                     quality = 2,
                     type = "",
@@ -8914,7 +8902,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                 name = "Серебряная руда",
-                count = 60,
+                count = 10,
                 details = {
                     quality = 2,
                     type = "",
