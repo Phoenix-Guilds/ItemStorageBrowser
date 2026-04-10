@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775836843
+ItemStorageDB_LastUpdate = 1775837028
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9932,7 +9932,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-09 20:00:36",
+        updated_at = "2026-04-10 19:01:04",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -9976,7 +9976,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 89,
+                count = 118,
                 details = {
                     quality = 1,
                     type = "",
@@ -10118,18 +10118,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
-                name = "Реликвия Ульдуара",
-                count = 32,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
                 name = "Одеяния Тайны",
                 count = 3,
@@ -10204,6 +10192,18 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
+                count = 31,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
+                name = "Реликвия Ульдуара",
                 count = 32,
                 details = {
                     quality = 1,
@@ -18542,7 +18542,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-04-09 19:58:05",
+        updated_at = "2026-04-10 19:03:23",
         money = 9245,
         empty = 15,
         location = "Оргриммар",
@@ -18634,7 +18634,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 78,
+                count = 72,
                 details = {
                     quality = 2,
                     type = "",
@@ -18661,6 +18661,30 @@ ItemStorageDB = {
                 count = 1,
                 details = {
                     quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
+                name = "Заплечный мешок подмастерья",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1685:0:0:0:0:0:0:0:10|h[Сумка из шкуры тролля]|h|r",
+                name = "Сумка из шкуры тролля",
+                count = 1,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
