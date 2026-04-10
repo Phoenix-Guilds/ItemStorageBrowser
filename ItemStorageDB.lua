@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775836623
+ItemStorageDB_LastUpdate = 1775836686
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10241,7 +10241,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-09 21:19:14",
+        updated_at = "2026-04-10 18:57:57",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10403,9 +10403,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
+                name = "Постный волчий бок",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
                 name = "Хрустящая паучья лапка",
-                count = 30,
+                count = 42,
                 details = {
                     quality = 1,
                     type = "",
@@ -10417,7 +10429,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
                 name = "Хрустящее паучье мясо",
-                count = 43,
+                count = 59,
                 details = {
                     quality = 1,
                     type = "",
@@ -10429,7 +10441,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2924:0:0:0:0:0:0:0:10|h[Мясо кроколиска]|h|r",
                 name = "Мясо кроколиска",
-                count = 14,
+                count = 16,
                 details = {
                     quality = 1,
                     type = "",
@@ -10477,7 +10489,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5469:0:0:0:0:0:0:0:10|h[Мясо долгонога]|h|r",
                 name = "Мясо долгонога",
-                count = 223,
+                count = 224,
                 details = {
                     quality = 1,
                     type = "",
@@ -10489,7 +10501,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3174:0:0:0:0:0:0:0:10|h[Паучья лимфа]|h|r",
                 name = "Паучья лимфа",
-                count = 51,
+                count = 70,
                 details = {
                     quality = 1,
                     type = "",
@@ -10595,6 +10607,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3712:0:0:0:0:0:0:0:10|h[Черепашье мясо]|h|r",
+                name = "Черепашье мясо",
+                count = 291,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
                 name = "Мясо льва",
                 count = 4,
@@ -10609,7 +10633,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
                 name = "Нежное мясо кроколиска",
-                count = 159,
+                count = 167,
                 details = {
                     quality = 1,
                     type = "",
@@ -10633,7 +10657,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
-                count = 30,
+                count = 40,
                 details = {
                     quality = 1,
                     type = "",
@@ -10645,7 +10669,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
                 name = "Хвост рокочущей ящерицы",
-                count = 206,
+                count = 208,
                 details = {
                     quality = 1,
                     type = "",
@@ -10658,18 +10682,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3685:0:0:0:0:0:0:0:10|h[Яйцо ящера]|h|r",
                 name = "Яйцо ящера",
                 count = 39,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
-                name = "Постный волчий бок",
-                count = 6,
                 details = {
                     quality = 1,
                     type = "",
@@ -10811,9 +10823,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3712:0:0:0:0:0:0:0:10|h[Черепашье мясо]|h|r",
-                name = "Черепашье мясо",
-                count = 291,
+                link = "|cffffffff|Hitem:12205:0:0:0:0:0:0:0:10|h[Белое мясо паука]|h|r",
+                name = "Белое мясо паука",
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -10837,7 +10849,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12206:0:0:0:0:0:0:0:10|h[Нежное крабовое мясо]|h|r",
                 name = "Нежное крабовое мясо",
-                count = 67,
+                count = 81,
                 details = {
                     quality = 1,
                     type = "",
@@ -10861,7 +10873,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4655:0:0:0:0:0:0:0:10|h[Мясо гигантского моллюска]|h|r",
                 name = "Мясо гигантского моллюска",
-                count = 244,
+                count = 245,
                 details = {
                     quality = 1,
                     type = "",
