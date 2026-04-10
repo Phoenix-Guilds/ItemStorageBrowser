@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775836156
+ItemStorageDB_LastUpdate = 1775836218
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19790,7 +19790,7 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        updated_at = "2026-04-09 21:13:30",
+        updated_at = "2026-04-10 18:49:51",
         money = 14656,
         empty = 0,
         location = "Оргриммар",
@@ -19798,7 +19798,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
                 name = "Большой клык",
-                count = 84,
+                count = 85,
                 details = {
                     quality = 1,
                     type = "",
@@ -19822,7 +19822,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
                 name = "Острый коготь",
-                count = 91,
+                count = 92,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
+                name = "Малая ядовитая железа",
+                count = 46,
                 details = {
                     quality = 1,
                     type = "",
@@ -19847,18 +19859,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
                 name = "Большая ядовитая железа",
                 count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
-                name = "Малая ядовитая железа",
-                count = 43,
                 details = {
                     quality = 1,
                     type = "",
