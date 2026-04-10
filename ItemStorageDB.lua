@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775838833
+ItemStorageDB_LastUpdate = 1775838875
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10898,7 +10898,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-10 19:04:38",
+        updated_at = "2026-04-10 19:34:16",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11074,7 +11074,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36083:0:0:0:0:0:-40:53:10|h[Пояс Терзающего Бича с меткой преступника]|h|r",
                 name = "Пояс Терзающего Бича с меткой преступника",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -11224,18 +11224,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "68",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:35956:0:0:0:0:0:-36:50:10|h[Далеченские сапоги с меткой волшебника]|h|r",
-                name = "Далеченские сапоги с меткой волшебника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "67",
                     retention = "",
                 },
             },
@@ -11571,6 +11559,18 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Кинжал",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35956:0:0:0:0:0:-36:50:10|h[Далеченские сапоги с меткой волшебника]|h|r",
+                name = "Далеченские сапоги с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
                     required_level = "67",
                     retention = "",
                 },
