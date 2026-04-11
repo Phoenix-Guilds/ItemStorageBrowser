@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775930206
+ItemStorageDB_LastUpdate = 1775930269
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15191,7 +15191,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-06 06:10:09",
+        updated_at = "2026-04-11 20:57:02",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -15211,7 +15211,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6522:0:0:0:0:0:0:0:10|h[Загадочная рыба]|h|r",
                 name = "Загадочная рыба",
-                count = 10,
+                count = 70,
                 details = {
                     quality = 1,
                     type = "",
@@ -15428,18 +15428,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                 name = "Сырая блестящая рыбка",
                 count = 99,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
-                name = "Карликовый сосокунь",
-                count = 181,
                 details = {
                     quality = 1,
                     type = "",
