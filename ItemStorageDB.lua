@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775924470
+ItemStorageDB_LastUpdate = 1775924916
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24401,7 +24401,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-10 19:17:38",
+        updated_at = "2026-04-11 19:28:33",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -24841,7 +24841,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
                 name = "Инкрустированное малахитом кольцо",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -24853,7 +24853,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25439:0:0:0:0:0:0:0:10|h[Кольцо с тигровым глазом]|h|r",
                 name = "Кольцо с тигровым глазом",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -24937,7 +24937,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
                 name = "Кольцо золотого дракона",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -25009,7 +25009,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:45627:0:0:0:0:0:0:0:10|h[Амулет проницательности]|h|r",
                 name = "Амулет проницательности",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -25051,66 +25051,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "38",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
-                name = "Толстое бронзовое ожерелье",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
-                name = "Сверкающее ожерелье",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
-                name = "Варварский железный ошейник",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
-                name = "Амулет Луны",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "25",
                     retention = "",
                 },
             },
@@ -25195,6 +25135,54 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "22",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
+                name = "Толстое бронзовое ожерелье",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
+                name = "Сверкающее ожерелье",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
+                name = "Варварский железный ошейник",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
+                name = "Амулет Луны",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "25",
                     retention = "",
                 },
             },
