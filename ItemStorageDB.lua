@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775928348
+ItemStorageDB_LastUpdate = 1775928712
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13118,7 +13118,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-09 21:20:06",
+        updated_at = "2026-04-11 20:31:48",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -13640,6 +13640,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:21099:0:0:0:0:0:0:0:10|h[Рецепт: копченый шалфокунь]|h|r",
+                name = "Рецепт: копченый шалфокунь",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12227:0:0:0:0:0:0:0:10|h[Рецепт: постный стейк из волчатины]|h|r",
+                name = "Рецепт: постный стейк из волчатины",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3734:0:0:0:0:0:0:0:10|h[Рецепт: большой медвежий стейк]|h|r",
+                name = "Рецепт: большой медвежий стейк",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:17062:0:0:0:0:0:0:0:10|h[Рецепт: мифрилоголовая форель]|h|r",
                 name = "Рецепт: мифрилоголовая форель",
                 count = 1,
@@ -13696,42 +13732,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:21099:0:0:0:0:0:0:0:10|h[Рецепт: копченый шалфокунь]|h|r",
-                name = "Рецепт: копченый шалфокунь",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12227:0:0:0:0:0:0:0:10|h[Рецепт: постный стейк из волчатины]|h|r",
-                name = "Рецепт: постный стейк из волчатины",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3734:0:0:0:0:0:0:0:10|h[Рецепт: большой медвежий стейк]|h|r",
-                name = "Рецепт: большой медвежий стейк",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
                     retention = "",
                 },
             },
@@ -13876,18 +13876,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "18",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
-                name = "Рецепт: эликсир увеличения",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "8",
                     retention = "",
                 },
             },
