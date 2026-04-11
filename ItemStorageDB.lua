@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775925262
+ItemStorageDB_LastUpdate = 1775925326
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7955,7 +7955,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-04-09 20:09:01",
+        updated_at = "2026-04-11 19:35:03",
         money = 0,
         empty = 0,
         location = "Оргриммар",
@@ -8117,18 +8117,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3665:0:0:0:0:0:0:0:10|h[Невероятно вкусный омлет]|h|r",
-                name = "Невероятно вкусный омлет",
-                count = 21,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
                 count = 51,
@@ -8155,7 +8143,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5477:0:0:0:0:0:0:0:10|h[Похлебка из долгонога]|h|r",
                 name = "Похлебка из долгонога",
-                count = 57,
+                count = 68,
                 details = {
                     quality = 1,
                     type = "",
