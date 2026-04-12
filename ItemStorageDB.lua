@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775996984
+ItemStorageDB_LastUpdate = 1775997077
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2027,7 +2027,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-12 15:27:40",
+        updated_at = "2026-04-12 15:30:57",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2501,6 +2501,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:15260:0:0:0:0:0:695:0:10|h[Каменный молот со знаком тигра]|h|r",
+                name = "Каменный молот со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "33",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:1607:0:0:0:0:0:0:0:10|h[Хранитель душ]|h|r",
                 name = "Хранитель душ",
                 count = 2,
@@ -2719,7 +2731,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                 name = "Клык Боана",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2941,18 +2953,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Древковое",
                     required_level = "51",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15260:0:0:0:0:0:695:0:10|h[Каменный молот со знаком тигра]|h|r",
-                name = "Каменный молот со знаком тигра",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "33",
                     retention = "Двуручное",
                 },
             },
