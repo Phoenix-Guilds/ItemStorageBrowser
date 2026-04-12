@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776007149
+ItemStorageDB_LastUpdate = 1776007332
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2027,7 +2027,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-12 17:00:14",
+        updated_at = "2026-04-12 18:21:43",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2285,30 +2285,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
-                name = "Коготь Тенеманта",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "27",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
-                name = "Кубок боли",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "41",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:4091:0:0:0:0:0:0:0:10|h[Вдоводел]|h|r",
                 name = "Вдоводел",
                 count = 2,
@@ -2369,6 +2345,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
+                name = "Огненная секира",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "35",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
+                name = "Молот Северного ветра",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "49",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                 name = "Клинок Крола",
                 count = 1,
@@ -2390,18 +2390,6 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "57",
                     retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
-                name = "Копейный щит Черепа",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "33",
-                    retention = "",
                 },
             },
             {
@@ -2498,6 +2486,30 @@ ItemStorageDB = {
                     subtype = "Кинжал",
                     required_level = "18",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
+                name = "Клык Боана",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "15",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
+                name = "Массивная треугольная палица",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "23",
+                    retention = "Двуручное",
                 },
             },
             {
@@ -2657,18 +2669,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                name = "Массивная треугольная палица",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "23",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13041:0:0:0:0:0:0:0:10|h[Клинок стража]|h|r",
                 name = "Клинок стража",
                 count = 2,
@@ -2713,18 +2713,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "16",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
-                name = "Клык Боана",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "15",
                     retention = "Двуручное",
                 },
             },
@@ -3053,6 +3041,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
+                name = "Коготь Тенеманта",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "27",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
+                name = "Кубок боли",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "41",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
                 name = "Убийственный клинок",
                 count = 2,
@@ -3253,6 +3265,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
+                name = "Копейный щит Черепа",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "33",
                     retention = "",
                 },
             },
