@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775996394
+ItemStorageDB_LastUpdate = 1775996456
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19085,7 +19085,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-10 21:15:54",
+        updated_at = "2026-04-12 15:20:52",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19225,7 +19225,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
                 name = "Сияние грез",
-                count = 366,
+                count = 376,
                 details = {
                     quality = 1,
                     type = "",
@@ -19321,7 +19321,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 441,
+                count = 451,
                 details = {
                     quality = 1,
                     type = "",
@@ -19345,7 +19345,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 379,
+                count = 388,
                 details = {
                     quality = 1,
                     type = "",
@@ -19357,7 +19357,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 222,
+                count = 223,
                 details = {
                     quality = 1,
                     type = "",
@@ -19429,7 +19429,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 220,
+                count = 222,
                 details = {
                     quality = 1,
                     type = "",
