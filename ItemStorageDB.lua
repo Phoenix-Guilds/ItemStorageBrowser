@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775997694
+ItemStorageDB_LastUpdate = 1775997786
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10898,7 +10898,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-12 15:36:09",
+        updated_at = "2026-04-12 15:42:36",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11140,18 +11140,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36088:0:0:0:0:0:-40:72:10|h[Поножи Терзающего Бича с меткой преступника]|h|r",
-                name = "Поножи Терзающего Бича с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "69",
                     retention = "",
                 },
             },
