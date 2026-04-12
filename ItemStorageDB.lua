@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775997293
+ItemStorageDB_LastUpdate = 1775997385
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10898,7 +10898,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-10 19:34:16",
+        updated_at = "2026-04-12 15:36:09",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11120,18 +11120,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:36075:0:0:0:0:0:-40:52:10|h[Шнурованный ремень Зимних Плавников с меткой преступника]|h|r",
-                name = "Шнурованный ремень Зимних Плавников с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "68",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:35955:0:0:0:0:0:-36:50:10|h[Далеченский пояс с меткой волшебника]|h|r",
                 name = "Далеченский пояс с меткой волшебника",
                 count = 1,
@@ -11228,6 +11216,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:35956:0:0:0:0:0:-36:50:10|h[Далеченские сапоги с меткой волшебника]|h|r",
+                name = "Далеченские сапоги с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36669:0:0:0:0:0:-9:29:10|h[Вычурный кинжал со знаком совы]|h|r",
+                name = "Вычурный кинжал со знаком совы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:36670:0:0:0:0:0:-6:30:10|h[Цыганский клинок со знаком орла]|h|r",
                 name = "Цыганский клинок со знаком орла",
                 count = 1,
@@ -11288,18 +11300,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:36504:0:0:0:0:0:-36:75:10|h[Надтреснутый молот с меткой волшебника]|h|r",
-                name = "Надтреснутый молот с меткой волшебника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "70",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:36504:0:0:0:0:0:-7:75:10|h[Надтреснутый молот со знаком медведя]|h|r",
                 name = "Надтреснутый молот со знаком медведя",
                 count = 1,
@@ -11314,6 +11314,18 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36504:0:0:0:0:0:-41:75:10|h[Надтреснутый молот с меткой зверя]|h|r",
                 name = "Надтреснутый молот с меткой зверя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "70",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36504:0:0:0:0:0:-36:75:10|h[Надтреснутый молот с меткой волшебника]|h|r",
+                name = "Надтреснутый молот с меткой волшебника",
                 count = 1,
                 details = {
                     quality = 2,
@@ -11343,18 +11355,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Дробящее",
-                    required_level = "68",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36558:0:0:0:0:0:-40:30:10|h[Изогнутые шкрабы с меткой преступника]|h|r",
-                name = "Изогнутые шкрабы с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Кистевое оружие",
                     required_level = "68",
                     retention = "Одноручное",
                 },
@@ -11504,18 +11504,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:36711:0:0:0:0:0:-40:21:10|h[Острие Отрекшихся с меткой преступника]|h|r",
-                name = "Острие Отрекшихся с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Метательное",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:36713:0:0:0:0:0:-41:23:10|h[Дальнобойная метательная звезда с меткой зверя]|h|r",
                 name = "Дальнобойная метательная звезда с меткой зверя",
                 count = 1,
@@ -11547,30 +11535,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Дробящее",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36669:0:0:0:0:0:-9:29:10|h[Вычурный кинжал со знаком совы]|h|r",
-                name = "Вычурный кинжал со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:35956:0:0:0:0:0:-36:50:10|h[Далеченские сапоги с меткой волшебника]|h|r",
-                name = "Далеченские сапоги с меткой волшебника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
                     required_level = "67",
                     retention = "",
                 },
@@ -11715,18 +11679,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Палец",
-                    required_level = "68",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36404:0:0:0:0:0:-41:39:10|h[Замшевый плащ с меткой зверя]|h|r",
-                name = "Замшевый плащ с меткой зверя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
                     required_level = "68",
                     retention = "",
                 },
