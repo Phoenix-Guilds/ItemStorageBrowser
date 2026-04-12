@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776004449
+ItemStorageDB_LastUpdate = 1776004662
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13130,7 +13130,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-12 17:03:26",
+        updated_at = "2026-04-12 17:37:38",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -14000,18 +14000,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:16215:0:0:0:0:0:0:0:10|h[Формула чар для обуви - выносливость IV]|h|r",
-                name = "Формула чар для обуви - выносливость IV",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6348:0:0:0:0:0:0:0:10|h[Формула чар для оружия - истребитель зверей I]|h|r",
                 name = "Формула чар для оружия - истребитель зверей I",
                 count = 1,
@@ -14218,18 +14206,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11226:0:0:0:0:0:0:0:10|h[Формула: зачаровывание перчаток - верховая езда]|h|r",
                 name = "Формула: зачаровывание перчаток - верховая езда",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11225:0:0:0:0:0:0:0:10|h[Формула чар для наручей - выносливость IV]|h|r",
-                name = "Формула чар для наручей - выносливость IV",
                 count = 1,
                 details = {
                     quality = 2,
@@ -14960,102 +14936,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:17062:0:0:0:0:0:0:0:10|h[Рецепт: мифрилоголовая форель]|h|r",
-                name = "Рецепт: мифрилоголовая форель",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6369:0:0:0:0:0:0:0:10|h[Рецепт: каменношкурая треска]|h|r",
-                name = "Рецепт: каменношкурая треска",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:16072:0:0:0:0:0:0:0:10|h[Поваренная книга умельца]|h|r",
-                name = "Поваренная книга умельца",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12229:0:0:0:0:0:0:0:10|h[Рецепт: острая волчья грудинка]|h|r",
-                name = "Рецепт: острая волчья грудинка",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12233:0:0:0:0:0:0:0:10|h[Рецепт: загадочная похлебка]|h|r",
-                name = "Рецепт: загадочная похлебка",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:21099:0:0:0:0:0:0:0:10|h[Рецепт: копченый шалфокунь]|h|r",
-                name = "Рецепт: копченый шалфокунь",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12227:0:0:0:0:0:0:0:10|h[Рецепт: постный стейк из волчатины]|h|r",
-                name = "Рецепт: постный стейк из волчатины",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3734:0:0:0:0:0:0:0:10|h[Рецепт: большой медвежий стейк]|h|r",
-                name = "Рецепт: большой медвежий стейк",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4410:0:0:0:0:0:0:0:10|h[Схема: теневые очки]|h|r",
                 name = "Схема: теневые очки",
                 count = 1,
@@ -15209,6 +15089,102 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "43",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:21099:0:0:0:0:0:0:0:10|h[Рецепт: копченый шалфокунь]|h|r",
+                name = "Рецепт: копченый шалфокунь",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12227:0:0:0:0:0:0:0:10|h[Рецепт: постный стейк из волчатины]|h|r",
+                name = "Рецепт: постный стейк из волчатины",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3734:0:0:0:0:0:0:0:10|h[Рецепт: большой медвежий стейк]|h|r",
+                name = "Рецепт: большой медвежий стейк",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:17062:0:0:0:0:0:0:0:10|h[Рецепт: мифрилоголовая форель]|h|r",
+                name = "Рецепт: мифрилоголовая форель",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6369:0:0:0:0:0:0:0:10|h[Рецепт: каменношкурая треска]|h|r",
+                name = "Рецепт: каменношкурая треска",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:16072:0:0:0:0:0:0:0:10|h[Поваренная книга умельца]|h|r",
+                name = "Поваренная книга умельца",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12229:0:0:0:0:0:0:0:10|h[Рецепт: острая волчья грудинка]|h|r",
+                name = "Рецепт: острая волчья грудинка",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12233:0:0:0:0:0:0:0:10|h[Рецепт: загадочная похлебка]|h|r",
+                name = "Рецепт: загадочная похлебка",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
+                    retention = "",
                 },
             },
             {
