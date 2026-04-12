@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775996582
+ItemStorageDB_LastUpdate = 1775996614
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15227,7 +15227,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-11 20:57:02",
+        updated_at = "2026-04-12 15:23:09",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -15415,7 +15415,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
                 name = "Сырая ощетиненная зубатка",
-                count = 65,
+                count = 71,
                 details = {
                     quality = 1,
                     type = "",
