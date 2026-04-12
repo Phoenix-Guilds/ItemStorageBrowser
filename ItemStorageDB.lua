@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775996145
+ItemStorageDB_LastUpdate = 1775996207
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6569,7 +6569,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-04-09 20:02:27",
+        updated_at = "2026-04-12 15:16:28",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -6841,7 +6841,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19261:0:0:0:0:0:0:0:10|h[Четверка из колоды Полководцев]|h|r",
                 name = "Четверка из колоды Полководцев",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "",
@@ -6923,18 +6923,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
-                name = "Карта Новолуния: Синий Дракон",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Аксессуар",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
                 name = "Осколок души",
                 count = 32,
@@ -6943,6 +6931,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
+                name = "Карта Новолуния: Синий Дракон",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "60",
                     retention = "",
                 },
             },
