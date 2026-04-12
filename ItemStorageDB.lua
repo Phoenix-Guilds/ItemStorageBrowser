@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776002027
+ItemStorageDB_LastUpdate = 1776002421
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2027,7 +2027,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-12 15:30:57",
+        updated_at = "2026-04-12 17:00:14",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2035,7 +2035,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
                 name = "Топор Лесных чащоб",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 4,
                     type = "2",
@@ -2285,30 +2285,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2256:0:0:0:0:0:0:0:10|h[Скелетная дубина]|h|r",
-                name = "Скелетная дубина",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "19",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2011:0:0:0:0:0:0:0:10|h[Крученая сабля]|h|r",
-                name = "Крученая сабля",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "21",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
                 name = "Коготь Тенеманта",
                 count = 2,
@@ -2393,6 +2369,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
+                name = "Клинок Крола",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "51",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cffa335ee|Hitem:2243:0:0:0:0:0:0:0:10|h[Рука Эдварда Странного]|h|r",
                 name = "Рука Эдварда Странного",
                 count = 1,
@@ -2402,18 +2390,6 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "57",
                     retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                name = "Щит Торсена",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "25",
-                    retention = "",
                 },
             },
             {
@@ -2510,6 +2486,18 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "33",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
+                name = "Кинжал с жемчужной рукояткой",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "18",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -2861,6 +2849,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2011:0:0:0:0:0:0:0:10|h[Крученая сабля]|h|r",
+                name = "Крученая сабля",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "21",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
                 name = "Алмазный молот",
                 count = 1,
@@ -2957,18 +2957,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
-                name = "Кинжал с жемчужной рукояткой",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "18",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
                 name = "Горящая секира",
                 count = 1,
@@ -3049,6 +3037,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "18",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2256:0:0:0:0:0:0:0:10|h[Скелетная дубина]|h|r",
+                name = "Скелетная дубина",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "19",
                     retention = "Одноручное",
                 },
             },
@@ -3241,6 +3241,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "25",
                     retention = "",
                 },
             },
