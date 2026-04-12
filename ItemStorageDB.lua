@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776015138
+ItemStorageDB_LastUpdate = 1776015169
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24593,7 +24593,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-12 16:53:34",
+        updated_at = "2026-04-12 20:32:12",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25057,7 +25057,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20960:0:0:0:0:0:0:0:10|h[Чеканное кольцо из истинного серебра]|h|r",
                 name = "Чеканное кольцо из истинного серебра",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -25189,7 +25189,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                 name = "Калейдоскопическая цепь",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -25225,7 +25225,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:29158:0:0:0:0:0:0:0:10|h[Кольцо командора из истинного серебра]|h|r",
                 name = "Кольцо командора из истинного серебра",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
