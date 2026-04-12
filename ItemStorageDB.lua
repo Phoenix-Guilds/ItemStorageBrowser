@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776008461
+ItemStorageDB_LastUpdate = 1776008554
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10277,7 +10277,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-12 16:31:16",
+        updated_at = "2026-04-12 18:42:13",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10441,7 +10441,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3685:0:0:0:0:0:0:0:10|h[Яйцо ящера]|h|r",
                 name = "Яйцо ящера",
-                count = 74,
+                count = 101,
                 details = {
                     quality = 1,
                     type = "",
@@ -10559,9 +10559,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:5469:0:0:0:0:0:0:0:10|h[Мясо долгонога]|h|r",
-                name = "Мясо долгонога",
-                count = 224,
+                link = "|cffffffff|Hitem:5465:0:0:0:0:0:0:0:10|h[Небольшая паучья лапка]|h|r",
+                name = "Небольшая паучья лапка",
+                count = 23,
                 details = {
                     quality = 1,
                     type = "",
@@ -10598,6 +10598,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
                 name = "Конечности и панцири некрорахнидов",
                 count = 28,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5469:0:0:0:0:0:0:0:10|h[Мясо долгонога]|h|r",
+                name = "Мясо долгонога",
+                count = 224,
                 details = {
                     quality = 1,
                     type = "",
@@ -10667,9 +10679,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:5465:0:0:0:0:0:0:0:10|h[Небольшая паучья лапка]|h|r",
-                name = "Небольшая паучья лапка",
-                count = 23,
+                link = "|cffffffff|Hitem:3712:0:0:0:0:0:0:0:10|h[Черепашье мясо]|h|r",
+                name = "Черепашье мясо",
+                count = 292,
                 details = {
                     quality = 1,
                     type = "",
@@ -10765,7 +10777,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:31670:0:0:0:0:0:0:0:10|h[Ребра ящера]|h|r",
                 name = "Ребра ящера",
-                count = 11,
+                count = 13,
                 details = {
                     quality = 1,
                     type = "",
@@ -10873,7 +10885,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12184:0:0:0:0:0:0:0:10|h[Плоть ящера]|h|r",
                 name = "Плоть ящера",
-                count = 91,
+                count = 115,
                 details = {
                     quality = 1,
                     type = "",
@@ -10886,18 +10898,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12037:0:0:0:0:0:0:0:10|h[Таинственное мясо]|h|r",
                 name = "Таинственное мясо",
                 count = 105,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3712:0:0:0:0:0:0:0:10|h[Черепашье мясо]|h|r",
-                name = "Черепашье мясо",
-                count = 292,
                 details = {
                     quality = 1,
                     type = "",
@@ -15431,7 +15431,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-12 15:50:47",
+        updated_at = "2026-04-12 18:41:25",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -15547,7 +15547,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                 name = "Сырой летний окунь",
-                count = 163,
+                count = 178,
                 details = {
                     quality = 1,
                     type = "",
@@ -15571,7 +15571,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
                 name = "Сырой пятнистый желтохвост",
-                count = 284,
+                count = 321,
                 details = {
                     quality = 1,
                     type = "",
@@ -15595,7 +15595,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
                 name = "Сырая каменношкурая треска",
-                count = 309,
+                count = 319,
                 details = {
                     quality = 1,
                     type = "",
