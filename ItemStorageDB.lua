@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776010485
+ItemStorageDB_LastUpdate = 1776013052
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18710,7 +18710,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-04-12 16:32:46",
+        updated_at = "2026-04-12 19:57:11",
         money = 9245,
         empty = 15,
         location = "Оргриммар",
@@ -18778,19 +18778,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                 name = "Сумка из ледяной ткани",
-                count = 19,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
-                name = "Сумка из прочной ткани Пустоты",
-                count = 6,
+                count = 24,
                 details = {
                     quality = 2,
                     type = "",
@@ -18814,7 +18802,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4500:0:0:0:0:0:0:0:10|h[Рюкзак путника]|h|r",
                 name = "Рюкзак путника",
-                count = 14,
+                count = 15,
                 details = {
                     quality = 2,
                     type = "",
@@ -18853,6 +18841,18 @@ ItemStorageDB = {
                 count = 1,
                 details = {
                     quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
+                name = "Сумка из прочной ткани Пустоты",
+                count = 6,
+                details = {
+                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
