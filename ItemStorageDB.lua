@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776008277
+ItemStorageDB_LastUpdate = 1776008461
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19040,7 +19040,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-12 17:56:33",
+        updated_at = "2026-04-12 18:38:03",
         money = 194502,
         empty = 0,
         location = "Оргриммар",
@@ -19288,7 +19288,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                 name = "Тенешелк",
-                count = 102,
+                count = 104,
                 details = {
                     quality = 1,
                     type = "",
@@ -19361,7 +19361,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-12 18:23:44",
+        updated_at = "2026-04-12 18:40:37",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19501,7 +19501,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
                 name = "Сияние грез",
-                count = 378,
+                count = 382,
                 details = {
                     quality = 1,
                     type = "",
@@ -19514,18 +19514,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
                 name = "Сквернопля",
                 count = 344,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
-                name = "Масляный черноротик",
-                count = 99,
                 details = {
                     quality = 1,
                     type = "",
@@ -19598,6 +19586,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
                 count = 451,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
+                name = "Терошишка",
+                count = 151,
                 details = {
                     quality = 1,
                     type = "",
@@ -19727,9 +19727,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
-                name = "Рассветница",
-                count = 33,
+                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
+                name = "Масляный черноротик",
+                count = 99,
                 details = {
                     quality = 1,
                     type = "",
@@ -19739,9 +19739,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
-                name = "Терошишка",
-                count = 150,
+                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
+                name = "Рассветница",
+                count = 33,
                 details = {
                     quality = 1,
                     type = "",
