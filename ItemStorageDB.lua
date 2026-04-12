@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775998216
+ItemStorageDB_LastUpdate = 1775998278
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15167,7 +15167,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-12 15:23:09",
+        updated_at = "2026-04-12 15:50:47",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -15283,7 +15283,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                 name = "Сырой летний окунь",
-                count = 129,
+                count = 163,
                 details = {
                     quality = 1,
                     type = "",
@@ -15307,7 +15307,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
                 name = "Сырой пятнистый желтохвост",
-                count = 260,
+                count = 284,
                 details = {
                     quality = 1,
                     type = "",
@@ -15331,7 +15331,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
                 name = "Сырая каменношкурая треска",
-                count = 270,
+                count = 309,
                 details = {
                     quality = 1,
                     type = "",
