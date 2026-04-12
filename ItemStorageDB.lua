@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1775997138
+ItemStorageDB_LastUpdate = 1775997231
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19121,7 +19121,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-12 15:20:52",
+        updated_at = "2026-04-12 15:33:29",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19261,7 +19261,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
                 name = "Сияние грез",
-                count = 376,
+                count = 378,
                 details = {
                     quality = 1,
                     type = "",
@@ -19273,7 +19273,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
                 name = "Сквернопля",
-                count = 343,
+                count = 344,
                 details = {
                     quality = 1,
                     type = "",
@@ -19499,6 +19499,54 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
+                name = "Кадгаров ус",
+                count = 318,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
+                name = "Златошип",
+                count = 167,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
+                name = "Бледнолист",
+                count = 162,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
+                name = "Корень жизни",
+                count = 250,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
                 name = "Терошишка",
                 count = 150,
@@ -19571,54 +19619,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
-                name = "Кадгаров ус",
-                count = 318,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
-                name = "Златошип",
-                count = 167,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
-                name = "Бледнолист",
-                count = 162,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
-                name = "Корень жизни",
-                count = 250,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
                 name = "Кровь Грома",
                 count = 65,
@@ -19669,7 +19669,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                 name = "Лиловый лотос",
-                count = 69,
+                count = 65,
                 details = {
                     quality = 1,
                     type = "",
@@ -19681,7 +19681,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                 name = "Огнецвет",
-                count = 171,
+                count = 167,
                 details = {
                     quality = 1,
                     type = "",
