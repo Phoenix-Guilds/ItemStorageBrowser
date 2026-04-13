@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1776088781
+ItemStorageDB_LastUpdate = 1776091912
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-04-12 22:01:58",
+        updated_at = "2026-04-13 17:51:15",
         money = 9404,
         empty = 15,
         location = "Оргриммар",
@@ -500,18 +500,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
-                name = "Символ шипов",
-                count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:40912:0:0:0:0:0:0:0:10|h[Символ восстановления]|h|r",
                 name = "Символ восстановления",
                 count = 9,
@@ -664,6 +652,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
+                name = "Символ прилива сил",
+                count = 23,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
                     retention = "",
                 },
             },
@@ -1246,7 +1246,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43386:0:0:0:0:0:0:0:10|h[Символ водного щита]|h|r",
                 name = "Символ водного щита",
-                count = 4,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -1258,7 +1258,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41530:0:0:0:0:0:0:0:10|h[Символ кольца огня]|h|r",
                 name = "Символ кольца огня",
-                count = 4,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -1324,18 +1324,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
-                name = "Символ прилива сил",
-                count = 23,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
                     retention = "",
                 },
             },
@@ -1427,6 +1415,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:42960:0:0:0:0:0:0:0:10|h[Символ ускользания]|h|r",
                 name = "Символ ускользания",
                 count = 12,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42974:0:0:0:0:0:0:0:10|h[Символ спринта]|h|r",
+                name = "Символ спринта",
+                count = 20,
                 details = {
                     quality = 1,
                     type = "",
@@ -1784,9 +1784,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:50125:0:0:0:0:0:0:0:10|h[Символ стремительного омоложения]|h|r",
-                name = "Символ стремительного омоложения",
-                count = 5,
+                link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
+                name = "Символ омоложения",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
+                name = "Символ шипов",
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -1799,18 +1811,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:40914:0:0:0:0:0:0:0:10|h[Символ целительного прикосновения]|h|r",
                 name = "Символ целительного прикосновения",
                 count = 4,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
-                name = "Символ омоложения",
-                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -1846,6 +1846,18 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43335:0:0:0:0:0:0:0:10|h[Символ дикой природы]|h|r",
                 name = "Символ дикой природы",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:50125:0:0:0:0:0:0:0:10|h[Символ стремительного омоложения]|h|r",
+                name = "Символ стремительного омоложения",
                 count = 5,
                 details = {
                     quality = 1,
