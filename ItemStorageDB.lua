@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776109620
+ItemStorageDB_LastUpdate = 1776109652
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19817,7 +19817,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-13 22:31:28",
+        updated_at = "2026-04-13 22:47:01",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -20221,7 +20221,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
                 name = "Огнеперый луциан",
-                count = 48,
+                count = 64,
                 details = {
                     quality = 1,
                     type = "",
