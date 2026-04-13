@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776109055
+ItemStorageDB_LastUpdate = 1776109118
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10421,7 +10421,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-13 21:29:42",
+        updated_at = "2026-04-13 22:37:52",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10549,7 +10549,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
                 name = "Хвост рокочущей ящерицы",
-                count = 211,
+                count = 213,
                 details = {
                     quality = 1,
                     type = "",
@@ -10585,7 +10585,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
                 name = "Постный волчий бок",
-                count = 6,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -10597,7 +10597,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
                 name = "Хрустящая паучья лапка",
-                count = 49,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -10633,7 +10633,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
                 name = "Мясо моллюска",
-                count = 58,
+                count = 61,
                 details = {
                     quality = 1,
                     type = "",
@@ -10753,7 +10753,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3173:0:0:0:0:0:0:0:10|h[Медвежатина]|h|r",
                 name = "Медвежатина",
-                count = 13,
+                count = 20,
                 details = {
                     quality = 1,
                     type = "",
@@ -10777,7 +10777,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5469:0:0:0:0:0:0:0:10|h[Мясо долгонога]|h|r",
                 name = "Мясо долгонога",
-                count = 225,
+                count = 229,
                 details = {
                     quality = 1,
                     type = "",
@@ -10825,7 +10825,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
                 name = "Мясо льва",
-                count = 6,
+                count = 11,
                 details = {
                     quality = 1,
                     type = "",
@@ -10861,7 +10861,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
-                count = 51,
+                count = 55,
                 details = {
                     quality = 1,
                     type = "",
@@ -11029,7 +11029,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12037:0:0:0:0:0:0:0:10|h[Таинственное мясо]|h|r",
                 name = "Таинственное мясо",
-                count = 105,
+                count = 106,
                 details = {
                     quality = 1,
                     type = "",
@@ -11089,7 +11089,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3404:0:0:0:0:0:0:0:10|h[Крыло канюка]|h|r",
                 name = "Крыло канюка",
-                count = 9,
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
