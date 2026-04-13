@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776097668
+ItemStorageDB_LastUpdate = 1776097852
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6641,7 +6641,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-04-12 21:41:10",
+        updated_at = "2026-04-13 19:30:39",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -6995,18 +6995,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
-                name = "Карта Новолуния: Синий Дракон",
-                count = 1,
-                details = {
-                    quality = 4,
-                    type = "4",
-                    subtype = "Аксессуар",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
                 name = "Осколок души",
                 count = 32,
@@ -7015,6 +7003,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
+                name = "Карта Новолуния: Синий Дракон",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "4",
+                    subtype = "Аксессуар",
+                    required_level = "60",
                     retention = "",
                 },
             },
@@ -7043,21 +7043,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
-                name = "Колода Мечей",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "",
