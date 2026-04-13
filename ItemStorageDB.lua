@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776102584
+ItemStorageDB_LastUpdate = 1776102615
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11018,7 +11018,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-12 15:42:36",
+        updated_at = "2026-04-13 20:49:27",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11336,6 +11336,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:36180:0:0:0:0:0:-40:50:10|h[Кованые сапоги с меткой преступника]|h|r",
+                name = "Кованые сапоги с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:36669:0:0:0:0:0:-9:29:10|h[Вычурный кинжал со знаком совы]|h|r",
                 name = "Вычурный кинжал со знаком совы",
                 count = 1,
@@ -11648,18 +11660,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:36180:0:0:0:0:0:-40:50:10|h[Кованые сапоги с меткой преступника]|h|r",
-                name = "Кованые сапоги с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:36068:0:0:0:0:0:-37:50:10|h[Сапоги бухты Кинжалов с меткой целителя]|h|r",
                 name = "Сапоги бухты Кинжалов с меткой целителя",
                 count = 1,
@@ -11776,6 +11776,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36420:0:0:0:0:0:-40:42:10|h[Драгоценное кольцо с меткой преступника]|h|r",
+                name = "Драгоценное кольцо с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "70",
                     retention = "",
                 },
             },
