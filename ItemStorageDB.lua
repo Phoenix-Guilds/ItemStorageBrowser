@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776101653
+ItemStorageDB_LastUpdate = 1776101715
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19481,7 +19481,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-13 20:32:28",
+        updated_at = "2026-04-13 20:34:09",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19885,7 +19885,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
-                count = 85,
+                count = 75,
                 details = {
                     quality = 1,
                     type = "",
