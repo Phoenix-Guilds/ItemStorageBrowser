@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776109244
+ItemStorageDB_LastUpdate = 1776109306
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5924,7 +5924,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-13 21:24:39",
+        updated_at = "2026-04-13 22:40:19",
         money = 82572,
         empty = 15,
         location = "Оргриммар",
@@ -6268,7 +6268,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 130,
+                count = 134,
                 details = {
                     quality = 2,
                     type = "",
@@ -8513,7 +8513,7 @@ ItemStorageDB = {
     },
     {
         name = "Крошшерный",
-        updated_at = "2026-04-13 21:40:59",
+        updated_at = "2026-04-13 22:41:13",
         money = 3895,
         empty = 0,
         location = "Оргриммар",
@@ -8543,9 +8543,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:16653:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 9]|h|r",
+                name = "Руководство по использованию крошшера, стр. 9",
+                count = 41,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:16654:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 10]|h|r",
                 name = "Руководство по использованию крошшера, стр. 10",
-                count = 16,
+                count = 17,
                 details = {
                     quality = 1,
                     type = "",
@@ -8569,19 +8581,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16647:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 3]|h|r",
                 name = "Руководство по использованию крошшера, стр. 3",
-                count = 25,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:16655:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 11]|h|r",
-                name = "Руководство по использованию крошшера, стр. 11",
-                count = 9,
+                count = 26,
                 details = {
                     quality = 1,
                     type = "",
@@ -8603,9 +8603,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:16653:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 9]|h|r",
-                name = "Руководство по использованию крошшера, стр. 9",
-                count = 40,
+                link = "|cffffffff|Hitem:16655:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 11]|h|r",
+                name = "Руководство по использованию крошшера, стр. 11",
+                count = 9,
                 details = {
                     quality = 1,
                     type = "",
@@ -8629,7 +8629,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16648:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 4]|h|r",
                 name = "Руководство по использованию крошшера, стр. 4",
-                count = 40,
+                count = 41,
                 details = {
                     quality = 1,
                     type = "",
@@ -8641,7 +8641,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16649:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 5]|h|r",
                 name = "Руководство по использованию крошшера, стр. 5",
-                count = 28,
+                count = 29,
                 details = {
                     quality = 1,
                     type = "",
