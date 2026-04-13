@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776087542
+ItemStorageDB_LastUpdate = 1776088781
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8051,7 +8051,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-04-11 19:35:03",
+        updated_at = "2026-04-13 16:59:23",
         money = 0,
         empty = 0,
         location = "Оргриммар",
@@ -8165,18 +8165,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
-                name = "Десерт из мертвечины",
-                count = 24,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
                 name = "Жареный ящер",
                 count = 54,
@@ -8204,6 +8192,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
                 name = "Мидии по-гоблински",
                 count = 28,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3665:0:0:0:0:0:0:0:10|h[Невероятно вкусный омлет]|h|r",
+                name = "Невероятно вкусный омлет",
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
