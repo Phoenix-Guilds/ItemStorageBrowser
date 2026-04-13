@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776097082
+ItemStorageDB_LastUpdate = 1776097174
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10028,7 +10028,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-13 15:25:08",
+        updated_at = "2026-04-13 19:19:20",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10214,6 +10214,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
+                name = "Реликвия Ульдуара",
+                count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
+                name = "Украшенные узором бронзовые наручи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
                 name = "Одеяния Тайны",
                 count = 3,
@@ -10250,42 +10274,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
-                name = "Мифриловая обшивка",
-                count = 62,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
-                name = "Украшенные узором бронзовые наручи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
-                name = "Усовершенствованный манекен-мишень",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                 name = "Гирохронатом",
                 count = 30,
@@ -10298,9 +10286,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
-                name = "Реликвия Ульдуара",
-                count = 32,
+                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
+                name = "Мифриловая обшивка",
+                count = 62,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
+                name = "Усовершенствованный манекен-мишень",
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -10325,6 +10325,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
                 name = "Усик болотника",
                 count = 41,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э\'ко диких совухов]|h|r",
+                name = "Э\'ко диких совухов",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
