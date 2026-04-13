@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776103178
+ItemStorageDB_LastUpdate = 1776103209
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7190,7 +7190,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-13 20:30:28",
+        updated_at = "2026-04-13 20:59:22",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -7462,7 +7462,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 467,
+                count = 474,
                 details = {
                     quality = 1,
                     type = "",
@@ -7486,7 +7486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
                 name = "Обрывки кожи",
-                count = 5,
+                count = 58,
                 details = {
                     quality = 1,
                     type = "",
@@ -7583,78 +7583,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4232:0:0:0:0:0:0:0:10|h[Средняя шкура]|h|r",
                 name = "Средняя шкура",
                 count = 122,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
-                name = "Плотная кожа",
-                count = 440,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
-                name = "Плотная шкура",
-                count = 81,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:5785:0:0:0:0:0:0:0:10|h[Толстая чешуя мурлока]|h|r",
-                name = "Толстая чешуя мурлока",
-                count = 45,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
-                name = "Черепаший панцирь",
-                count = 55,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
-                name = "Толстая кожа",
-                count = 751,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
-                name = "Тяжелая шкура",
-                count = 130,
                 details = {
                     quality = 1,
                     type = "",
@@ -7847,6 +7775,78 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:29548:0:0:0:0:0:0:0:10|h[Чешуя дракона Пустоты]|h|r",
                 name = "Чешуя дракона Пустоты",
                 count = 46,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
+                name = "Плотная кожа",
+                count = 440,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
+                name = "Плотная шкура",
+                count = 81,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5785:0:0:0:0:0:0:0:10|h[Толстая чешуя мурлока]|h|r",
+                name = "Толстая чешуя мурлока",
+                count = 45,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
+                name = "Черепаший панцирь",
+                count = 55,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
+                name = "Толстая кожа",
+                count = 751,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
+                name = "Тяжелая шкура",
+                count = 130,
                 details = {
                     quality = 1,
                     type = "",
