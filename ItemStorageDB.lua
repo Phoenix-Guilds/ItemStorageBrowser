@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776103024
+ItemStorageDB_LastUpdate = 1776103055
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10016,7 +10016,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-13 19:19:20",
+        updated_at = "2026-04-13 20:57:24",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10048,7 +10048,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                 name = "Блестящая рыбья чешуя",
-                count = 55,
+                count = 56,
                 details = {
                     quality = 1,
                     type = "",
