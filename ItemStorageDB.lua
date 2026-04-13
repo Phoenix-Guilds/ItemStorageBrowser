@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776109463
+ItemStorageDB_LastUpdate = 1776109495
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10421,7 +10421,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-13 22:37:52",
+        updated_at = "2026-04-13 22:44:20",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10861,7 +10861,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
-                count = 55,
+                count = 57,
                 details = {
                     quality = 1,
                     type = "",
@@ -11101,7 +11101,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4655:0:0:0:0:0:0:0:10|h[Мясо гигантского моллюска]|h|r",
                 name = "Мясо гигантского моллюска",
-                count = 262,
+                count = 267,
                 details = {
                     quality = 1,
                     type = "",
