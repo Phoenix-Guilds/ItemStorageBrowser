@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776104728
+ItemStorageDB_LastUpdate = 1776104759
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5459,7 +5459,7 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = "2026-04-12 16:02:19",
+        updated_at = "2026-04-13 21:25:24",
         money = 16160,
         empty = 0,
         location = "Оргриммар",
@@ -5467,7 +5467,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39690:0:0:0:0:0:0:0:10|h[Неустойчивый детонатор]|h|r",
                 name = "Неустойчивый детонатор",
-                count = 16,
+                count = 18,
                 details = {
                     quality = 1,
                     type = "",
@@ -5503,7 +5503,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39683:0:0:0:0:0:0:0:10|h[Труба из ледяной стали]|h|r",
                 name = "Труба из ледяной стали",
-                count = 5,
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
