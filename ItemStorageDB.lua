@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776100779
+ItemStorageDB_LastUpdate = 1776100812
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19481,7 +19481,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-13 20:01:09",
+        updated_at = "2026-04-13 20:19:48",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19537,7 +19537,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
                 name = "Огнелист",
-                count = 163,
+                count = 167,
                 details = {
                     quality = 1,
                     type = "",
@@ -19691,6 +19691,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
+                name = "Синячник",
+                count = 502,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
                 count = 156,
@@ -19729,19 +19741,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
                 name = "Яснотка",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
-                name = "Синячник",
-                count = 452,
+                count = 8,
                 details = {
                     quality = 1,
                     type = "",
@@ -19765,7 +19765,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 390,
+                count = 370,
                 details = {
                     quality = 1,
                     type = "",
