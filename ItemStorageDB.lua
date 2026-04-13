@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776102615
+ItemStorageDB_LastUpdate = 1776102647
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23048,7 +23048,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-13 19:33:03",
+        updated_at = "2026-04-13 20:50:15",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -23378,18 +23378,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
-                name = "Алый пояс",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "32",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:5766:0:0:0:0:0:0:0:10|h[Простое одеяние волшебника]|h|r",
                 name = "Простое одеяние волшебника",
                 count = 1,
@@ -23542,6 +23530,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "52",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13068:0:0:0:0:0:0:0:10|h[Обсидиановые наголенники]|h|r",
+                name = "Обсидиановые наголенники",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "40",
                     retention = "",
                 },
             },
@@ -24562,6 +24562,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "41",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
+                name = "Алый пояс",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "32",
                     retention = "",
                 },
             },
