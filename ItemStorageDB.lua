@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776098414
+ItemStorageDB_LastUpdate = 1776098868
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18842,7 +18842,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-04-13 19:26:30",
+        updated_at = "2026-04-13 19:47:44",
         money = 9245,
         empty = 15,
         location = "Оргриммар",
@@ -18910,19 +18910,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                 name = "Сумка из ледяной ткани",
-                count = 20,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
-                name = "Сумка из прочной ткани Пустоты",
-                count = 6,
+                count = 31,
                 details = {
                     quality = 2,
                     type = "",
@@ -18934,7 +18922,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 81,
+                count = 77,
                 details = {
                     quality = 2,
                     type = "",
@@ -18985,6 +18973,18 @@ ItemStorageDB = {
                 count = 1,
                 details = {
                     quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
+                name = "Сумка из прочной ткани Пустоты",
+                count = 6,
+                details = {
+                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
