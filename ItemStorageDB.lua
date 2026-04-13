@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776108683
+ItemStorageDB_LastUpdate = 1776108715
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19793,7 +19793,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-13 21:18:09",
+        updated_at = "2026-04-13 22:31:28",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19943,18 +19943,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
-                name = "Сквернопля",
-                count = 344,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
                 name = "Масло каменного угря",
                 count = 299,
@@ -20041,7 +20029,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                 name = "Золотой сансам",
-                count = 240,
+                count = 190,
                 details = {
                     quality = 1,
                     type = "",
@@ -20099,6 +20087,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
+                name = "Земляной корень",
+                count = 421,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
                 count = 602,
@@ -20114,18 +20114,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
                 count = 378,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
-                name = "Земляной корень",
-                count = 421,
                 details = {
                     quality = 1,
                     type = "",
@@ -20219,6 +20207,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
+                name = "Сквернопля",
+                count = 344,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
                 name = "Терошишка",
                 count = 151,
@@ -20257,7 +20257,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                 name = "Горный серебряный шалфей",
-                count = 65,
+                count = 40,
                 details = {
                     quality = 1,
                     type = "",
