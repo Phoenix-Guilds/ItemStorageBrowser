@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776104885
+ItemStorageDB_LastUpdate = 1776104916
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9023,7 +9023,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-13 20:33:29",
+        updated_at = "2026-04-13 21:27:58",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9079,7 +9079,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
                 name = "Зелье безумного алхимика",
-                count = 14,
+                count = 40,
                 details = {
                     quality = 1,
                     type = "",
@@ -9103,7 +9103,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
                 name = "Гигантский флакон с зельем маны",
-                count = 130,
+                count = 132,
                 details = {
                     quality = 1,
                     type = "",
@@ -9115,7 +9115,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                 name = "Гигантский флакон с лечебным зельем",
-                count = 156,
+                count = 158,
                 details = {
                     quality = 1,
                     type = "",
@@ -9217,6 +9217,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:40077:0:0:0:0:0:0:0:10|h[Зелье сумасшедшего алхимика]|h|r",
+                name = "Зелье сумасшедшего алхимика",
+                count = 21,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -9607,7 +9619,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
                 name = "Большой эликсир силы",
-                count = 17,
+                count = 29,
                 details = {
                     quality = 1,
                     type = "",
