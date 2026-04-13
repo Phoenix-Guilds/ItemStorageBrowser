@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776086611
+ItemStorageDB_LastUpdate = 1776086705
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3761,7 +3761,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-13 16:23:28",
+        updated_at = "2026-04-13 16:24:50",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -3931,18 +3931,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "59",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:24928:0:0:0:0:0:-41:38:10|h[Анго\'рошская кираса с меткой зверя]|h|r",
-                name = "Анго\'рошская кираса с меткой зверя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "58",
                     retention = "",
                 },
             },
