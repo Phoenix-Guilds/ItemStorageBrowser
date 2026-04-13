@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776103366
+ItemStorageDB_LastUpdate = 1776104304
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19553,7 +19553,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-13 20:48:24",
+        updated_at = "2026-04-13 21:18:09",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19609,7 +19609,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
                 name = "Огнелист",
-                count = 167,
+                count = 209,
                 details = {
                     quality = 1,
                     type = "",
@@ -19621,7 +19621,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                 name = "Золотой клевер",
-                count = 11,
+                count = 31,
                 details = {
                     quality = 1,
                     type = "",
@@ -19813,7 +19813,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
                 name = "Яснотка",
-                count = 8,
+                count = 21,
                 details = {
                     quality = 1,
                     type = "",
@@ -19849,7 +19849,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 223,
+                count = 281,
                 details = {
                     quality = 1,
                     type = "",
@@ -19861,7 +19861,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 588,
+                count = 602,
                 details = {
                     quality = 1,
                     type = "",
@@ -19873,7 +19873,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
-                count = 376,
+                count = 378,
                 details = {
                     quality = 1,
                     type = "",
@@ -19885,7 +19885,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
-                count = 391,
+                count = 421,
                 details = {
                     quality = 1,
                     type = "",
