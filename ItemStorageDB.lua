@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776100905
+ItemStorageDB_LastUpdate = 1776100938
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19160,7 +19160,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-13 18:16:06",
+        updated_at = "2026-04-13 20:22:02",
         money = 194502,
         empty = 0,
         location = "Оргриммар",
@@ -19264,7 +19264,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
                 name = "Рулон магической ткани",
-                count = 267,
+                count = 272,
                 details = {
                     quality = 1,
                     type = "",
@@ -19394,33 +19394,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
-                name = "Магическая ткань",
-                count = 680,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
-                name = "Тенешелк",
-                count = 104,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 806,
+                count = 845,
                 details = {
                     quality = 1,
                     type = "",
@@ -19432,7 +19408,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
                 name = "Рулон шерсти",
-                count = 180,
+                count = 185,
                 details = {
                     quality = 1,
                     type = "",
@@ -19454,9 +19430,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
+                name = "Магическая ткань",
+                count = 696,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
+                name = "Тенешелк",
+                count = 108,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                 name = "Плотная паутина",
-                count = 127,
+                count = 129,
                 details = {
                     quality = 1,
                     type = "",
@@ -19468,7 +19468,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                 name = "Рулон шелка",
-                count = 125,
+                count = 166,
                 details = {
                     quality = 1,
                     type = "",
