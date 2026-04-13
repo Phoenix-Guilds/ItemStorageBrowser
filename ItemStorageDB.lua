@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776105137
+ItemStorageDB_LastUpdate = 1776105229
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11054,7 +11054,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-13 20:49:27",
+        updated_at = "2026-04-13 21:33:03",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11170,7 +11170,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35969:0:0:0:0:0:-37:52:10|h[Кровоспоровое оплечье с меткой целителя]|h|r",
                 name = "Кровоспоровое оплечье с меткой целителя",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -11200,6 +11200,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35965:0:0:0:0:0:-36:69:10|h[Кровоспоровое одеяние с меткой волшебника]|h|r",
+                name = "Кровоспоровое одеяние с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "68",
                     retention = "",
                 },
             },
@@ -11356,30 +11368,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "68",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:35956:0:0:0:0:0:-36:50:10|h[Далеченские сапоги с меткой волшебника]|h|r",
-                name = "Далеченские сапоги с меткой волшебника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36180:0:0:0:0:0:-40:50:10|h[Кованые сапоги с меткой преступника]|h|r",
-                name = "Кованые сапоги с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "67",
                     retention = "",
                 },
             },
@@ -11696,6 +11684,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:35956:0:0:0:0:0:-36:50:10|h[Далеченские сапоги с меткой волшебника]|h|r",
+                name = "Далеченские сапоги с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36180:0:0:0:0:0:-40:50:10|h[Кованые сапоги с меткой преступника]|h|r",
+                name = "Кованые сапоги с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "67",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:36068:0:0:0:0:0:-37:50:10|h[Сапоги бухты Кинжалов с меткой целителя]|h|r",
                 name = "Сапоги бухты Кинжалов с меткой целителя",
                 count = 1,
@@ -11720,8 +11732,32 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:36202:0:0:0:0:0:-40:40:10|h[Скомские наручи с меткой преступника]|h|r",
+                name = "Скомские наручи с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "69",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:35970:0:0:0:0:0:-36:39:10|h[Кровоспоровые браслеты с меткой волшебника]|h|r",
                 name = "Кровоспоровые браслеты с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "68",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35970:0:0:0:0:0:-39:39:10|h[Кровоспоровые браслеты с меткой заклинателя]|h|r",
+                name = "Кровоспоровые браслеты с меткой заклинателя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -11740,6 +11776,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36206:0:0:0:0:0:-40:56:10|h[Ниффлварские перчатки с меткой преступника]|h|r",
+                name = "Ниффлварские перчатки с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35974:0:0:0:0:0:-38:53:10|h[Мур\'далакские повязки с меткой пророка]|h|r",
+                name = "Мур\'далакские повязки с меткой пророка",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "69",
                     retention = "",
                 },
             },
@@ -11770,6 +11830,18 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35966:0:0:0:0:0:-38:52:10|h[Кровоспоровые перчатки с меткой пророка]|h|r",
                 name = "Кровоспоровые перчатки с меткой пророка",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "68",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:35966:0:0:0:0:0:-39:52:10|h[Кровоспоровые перчатки с меткой заклинателя]|h|r",
+                name = "Кровоспоровые перчатки с меткой заклинателя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -11818,6 +11890,42 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36420:0:0:0:0:0:-40:42:10|h[Драгоценное кольцо с меткой преступника]|h|r",
                 name = "Драгоценное кольцо с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36420:0:0:0:0:0:-14:42:10|h[Драгоценное кольцо со знаком тигра]|h|r",
+                name = "Драгоценное кольцо со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36420:0:0:0:0:0:-43:42:10|h[Драгоценное кольцо с меткой солдата]|h|r",
+                name = "Драгоценное кольцо с меткой солдата",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:42336:0:0:0:0:0:0:0:10|h[Кольцо кровавого камня]|h|r",
+                name = "Кольцо кровавого камня",
                 count = 1,
                 details = {
                     quality = 2,
