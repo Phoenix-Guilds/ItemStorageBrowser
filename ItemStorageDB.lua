@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776098930
+ItemStorageDB_LastUpdate = 1776099688
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18842,7 +18842,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-04-13 19:47:44",
+        updated_at = "2026-04-13 20:00:19",
         money = 9245,
         empty = 15,
         location = "Оргриммар",
@@ -18910,7 +18910,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                 name = "Сумка из ледяной ткани",
-                count = 31,
+                count = 36,
                 details = {
                     quality = 2,
                     type = "",
@@ -18922,7 +18922,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 77,
+                count = 73,
                 details = {
                     quality = 2,
                     type = "",
@@ -19529,7 +19529,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-13 19:14:18",
+        updated_at = "2026-04-13 20:01:09",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19585,7 +19585,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
                 name = "Огнелист",
-                count = 156,
+                count = 163,
                 details = {
                     quality = 1,
                     type = "",
@@ -19597,7 +19597,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                 name = "Золотой клевер",
-                count = 2,
+                count = 11,
                 details = {
                     quality = 1,
                     type = "",
@@ -19766,6 +19766,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                 name = "Золотой сансам",
                 count = 240,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
+                name = "Яснотка",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
