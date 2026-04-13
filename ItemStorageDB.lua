@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776100499
+ItemStorageDB_LastUpdate = 1776100531
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6629,7 +6629,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-04-13 19:30:39",
+        updated_at = "2026-04-13 20:15:14",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -6983,18 +6983,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
-                name = "Осколок души",
-                count = 32,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
                 name = "Карта Новолуния: Синий Дракон",
                 count = 1,
@@ -7003,6 +6991,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Аксессуар",
                     required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
+                name = "Осколок души",
+                count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -7021,7 +7021,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 2,
                     type = "",
