@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776092045
+ItemStorageDB_LastUpdate = 1776093305
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5900,9 +5900,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-13 15:51:20",
+        updated_at = "2026-04-13 18:14:49",
         money = 82572,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -5950,6 +5950,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
+                name = "Тяжелое точило",
+                count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
                     retention = "",
                 },
             },
@@ -6124,7 +6136,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                 name = "Звездный рубин",
-                count = 53,
+                count = 54,
                 details = {
                     quality = 2,
                     type = "",
@@ -6148,7 +6160,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3864:0:0:0:0:0:0:0:10|h[Цитрин]|h|r",
                 name = "Цитрин",
-                count = 160,
+                count = 161,
                 details = {
                     quality = 2,
                     type = "",
@@ -6160,7 +6172,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                 name = "Тигровый глаз",
-                count = 119,
+                count = 120,
                 details = {
                     quality = 2,
                     type = "",
@@ -6196,7 +6208,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                 name = "Нефрит",
-                count = 102,
+                count = 103,
                 details = {
                     quality = 2,
                     type = "",
@@ -6208,7 +6220,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                 name = "Малый лунный камень",
-                count = 109,
+                count = 111,
                 details = {
                     quality = 2,
                     type = "",
@@ -6268,7 +6280,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23077:0:0:0:0:0:0:0:10|h[Кровавый гранат]|h|r",
                 name = "Кровавый гранат",
-                count = 37,
+                count = 38,
                 details = {
                     quality = 2,
                     type = "",
@@ -6304,7 +6316,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23112:0:0:0:0:0:0:0:10|h[Золотой дренит]|h|r",
                 name = "Золотой дренит",
-                count = 6,
+                count = 7,
                 details = {
                     quality = 2,
                     type = "",
@@ -6556,7 +6568,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:23441:0:0:0:0:0:0:0:10|h[Око ночи]|h|r",
                 name = "Око ночи",
-                count = 11,
+                count = 12,
                 details = {
                     quality = 3,
                     type = "",
@@ -6568,36 +6580,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:23437:0:0:0:0:0:0:0:10|h[Талассит]|h|r",
                 name = "Талассит",
-                count = 15,
+                count = 16,
                 details = {
                     quality = 3,
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э\'ко диких совухов]|h|r",
-                name = "Э\'ко диких совухов",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
-                name = "Тяжелое точило",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
                     retention = "",
                 },
             },
