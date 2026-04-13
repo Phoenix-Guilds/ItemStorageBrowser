@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776101904
+ItemStorageDB_LastUpdate = 1776101937
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8606,7 +8606,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-13 18:15:24",
+        updated_at = "2026-04-13 20:38:56",
         money = 124467,
         empty = 0,
         location = "Оргриммар",
@@ -8698,7 +8698,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6037:0:0:0:0:0:0:0:10|h[Слиток истинного серебра]|h|r",
                 name = "Слиток истинного серебра",
-                count = 397,
+                count = 447,
                 details = {
                     quality = 2,
                     type = "",
@@ -8770,7 +8770,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                 name = "Мифриловая руда",
-                count = 142,
+                count = 148,
                 details = {
                     quality = 1,
                     type = "",
@@ -8782,7 +8782,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
-                count = 138,
+                count = 334,
                 details = {
                     quality = 1,
                     type = "",
@@ -8804,6 +8804,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
+                name = "Железный слиток",
+                count = 753,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
                 name = "Стальной слиток",
                 count = 37,
@@ -8816,21 +8828,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
-                name = "Железный слиток",
-                count = 681,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
                 name = "Железная руда",
-                count = 334,
+                count = 335,
                 details = {
                     quality = 1,
                     type = "",
