@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776101434
+ItemStorageDB_LastUpdate = 1776101466
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19136,7 +19136,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-13 20:22:02",
+        updated_at = "2026-04-13 20:31:04",
         money = 194502,
         empty = 0,
         location = "Оргриммар",
@@ -19370,9 +19370,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
+                name = "Магическая ткань",
+                count = 696,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
+                name = "Тенешелк",
+                count = 108,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 845,
+                count = 875,
                 details = {
                     quality = 1,
                     type = "",
@@ -19397,30 +19421,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
                 count = 300,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
-                name = "Магическая ткань",
-                count = 696,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
-                name = "Тенешелк",
-                count = 108,
                 details = {
                     quality = 1,
                     type = "",
