@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776116164
+ItemStorageDB_LastUpdate = 1776116317
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6665,7 +6665,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-04-14 00:23:41",
+        updated_at = "2026-04-14 00:38:33",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -7019,18 +7019,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
-                name = "Осколок души",
-                count = 32,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
                 name = "Карта Новолуния: Синий Дракон",
                 count = 1,
@@ -7039,6 +7027,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Аксессуар",
                     required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
+                name = "Осколок души",
+                count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -7081,7 +7081,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
-                count = 1,
+                count = 8,
                 details = {
                     quality = 3,
                     type = "",
@@ -7163,45 +7163,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:44144:0:0:0:0:0:0:0:10|h[Двойка колоды Магов]|h|r",
-                name = "Двойка колоды Магов",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:44147:0:0:0:0:0:0:0:10|h[Пятерка из колоды Магов]|h|r",
-                name = "Пятерка из колоды Магов",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:44145:0:0:0:0:0:0:0:10|h[Тройка колоды Магов]|h|r",
-                name = "Тройка колоды Магов",
-                count = 17,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:44165:0:0:0:0:0:0:0:10|h[Туз из колоды Магов]|h|r",
                 name = "Туз из колоды Магов",
-                count = 12,
+                count = 11,
                 details = {
                     quality = 1,
                     type = "",
@@ -7213,7 +7177,43 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44146:0:0:0:0:0:0:0:10|h[Четверка из колоды Магов]|h|r",
                 name = "Четверка из колоды Магов",
-                count = 19,
+                count = 13,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:44144:0:0:0:0:0:0:0:10|h[Двойка колоды Магов]|h|r",
+                name = "Двойка колоды Магов",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:44147:0:0:0:0:0:0:0:10|h[Пятерка из колоды Магов]|h|r",
+                name = "Пятерка из колоды Магов",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:44145:0:0:0:0:0:0:0:10|h[Тройка колоды Магов]|h|r",
+                name = "Тройка колоды Магов",
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
