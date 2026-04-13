@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776109495
+ItemStorageDB_LastUpdate = 1776109526
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15779,7 +15779,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-12 18:41:25",
+        updated_at = "2026-04-13 22:44:57",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -15787,7 +15787,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13755:0:0:0:0:0:0:0:10|h[Зимний кальмар]|h|r",
                 name = "Зимний кальмар",
-                count = 235,
+                count = 250,
                 details = {
                     quality = 1,
                     type = "",
@@ -15871,7 +15871,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
                 name = "Сырая блестящая мощь-рыба",
-                count = 270,
+                count = 292,
                 details = {
                     quality = 1,
                     type = "",
@@ -15895,7 +15895,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                 name = "Сырой летний окунь",
-                count = 178,
+                count = 205,
                 details = {
                     quality = 1,
                     type = "",
@@ -15919,7 +15919,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
                 name = "Сырой пятнистый желтохвост",
-                count = 321,
+                count = 328,
                 details = {
                     quality = 1,
                     type = "",
@@ -15943,7 +15943,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
                 name = "Сырая каменношкурая треска",
-                count = 319,
+                count = 337,
                 details = {
                     quality = 1,
                     type = "",
