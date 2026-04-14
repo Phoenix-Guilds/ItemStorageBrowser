@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776190581
+ItemStorageDB_LastUpdate = 1776190613
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19853,7 +19853,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-14 20:08:48",
+        updated_at = "2026-04-14 21:16:43",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19921,7 +19921,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                 name = "Золотой клевер",
-                count = 31,
+                count = 26,
                 details = {
                     quality = 1,
                     type = "",
@@ -19934,6 +19934,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
                 name = "Яснотка",
                 count = 21,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
+                name = "Манаполох",
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
@@ -20339,30 +20351,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
-                name = "Кадгаров ус",
-                count = 73,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
-                name = "Манаполох",
-                count = 25,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
                 name = "Кровь Грома",
                 count = 81,
@@ -20450,6 +20438,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3819:0:0:0:0:0:0:0:10|h[Морозник]|h|r",
                 name = "Морозник",
                 count = 40,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
+                name = "Кадгаров ус",
+                count = 73,
                 details = {
                     quality = 1,
                     type = "",
