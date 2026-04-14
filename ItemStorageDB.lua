@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776191771
+ItemStorageDB_LastUpdate = 1776191803
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2039,7 +2039,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-14 20:14:07",
+        updated_at = "2026-04-14 21:36:28",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2083,7 +2083,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
                 name = "Топор шквала",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 4,
                     type = "2",
@@ -3101,42 +3101,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
-                name = "Жезл антиподов",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
-                name = "Лапидийская пинта Пьющего Прибой",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "54",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
-                name = "Рыцарский щит Красной бороды",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
                 name = "Убийственный клинок",
                 count = 2,
@@ -3302,6 +3266,42 @@ ItemStorageDB = {
                     subtype = "Меч",
                     required_level = "22",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
+                name = "Жезл антиподов",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
+                name = "Лапидийская пинта Пьющего Прибой",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "54",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
+                name = "Рыцарский щит Красной бороды",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "19",
+                    retention = "",
                 },
             },
             {
