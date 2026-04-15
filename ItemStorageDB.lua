@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776278415
+ItemStorageDB_LastUpdate = 1776278509
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7286,7 +7286,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-15 20:50:30",
+        updated_at = "2026-04-15 21:40:44",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -7306,7 +7306,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5373:0:0:0:0:0:0:0:10|h[Талисман на удачу]|h|r",
                 name = "Талисман на удачу",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -7534,7 +7534,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
                 name = "Легкая шкура",
-                count = 173,
+                count = 181,
                 details = {
                     quality = 1,
                     type = "",
@@ -7558,7 +7558,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 643,
+                count = 723,
                 details = {
                     quality = 1,
                     type = "",
@@ -7570,7 +7570,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
                 name = "Тонкая кожа кодо",
-                count = 5,
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
@@ -7642,7 +7642,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
                 name = "Шкура ящера",
-                count = 111,
+                count = 113,
                 details = {
                     quality = 1,
                     type = "",
@@ -7654,7 +7654,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 809,
+                count = 869,
                 details = {
                     quality = 1,
                     type = "",
@@ -7678,7 +7678,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4232:0:0:0:0:0:0:0:10|h[Средняя шкура]|h|r",
                 name = "Средняя шкура",
-                count = 125,
+                count = 131,
                 details = {
                     quality = 1,
                     type = "",
@@ -19913,7 +19913,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-15 20:49:52",
+        updated_at = "2026-04-15 21:41:24",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -20135,6 +20135,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
+                name = "Скорополох",
+                count = 244,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
                 count = 379,
@@ -20159,18 +20171,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
-                name = "Мироцвет",
-                count = 552,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
                 count = 328,
@@ -20183,9 +20183,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
+                name = "Мироцвет",
+                count = 552,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 473,
+                count = 476,
                 details = {
                     quality = 1,
                     type = "",
@@ -20197,7 +20209,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 186,
+                count = 192,
                 details = {
                     quality = 1,
                     type = "",
@@ -20209,19 +20221,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 291,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
-                name = "Скорополох",
-                count = 240,
+                count = 307,
                 details = {
                     quality = 1,
                     type = "",
@@ -20377,7 +20377,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 72,
+                count = 73,
                 details = {
                     quality = 1,
                     type = "",
