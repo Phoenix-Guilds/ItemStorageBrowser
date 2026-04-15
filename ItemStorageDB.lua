@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776278571
+ItemStorageDB_LastUpdate = 1776278634
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10481,7 +10481,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-15 20:48:38",
+        updated_at = "2026-04-15 21:43:46",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10609,7 +10609,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
                 name = "Хвост рокочущей ящерицы",
-                count = 222,
+                count = 269,
                 details = {
                     quality = 1,
                     type = "",
@@ -10682,18 +10682,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2924:0:0:0:0:0:0:0:10|h[Мясо кроколиска]|h|r",
                 name = "Мясо кроколиска",
                 count = 16,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
-                name = "Мясо моллюска",
-                count = 61,
                 details = {
                     quality = 1,
                     type = "",
@@ -10778,6 +10766,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
                 name = "Конечности и панцири некрорахнидов",
                 count = 28,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
+                name = "Мясо моллюска",
+                count = 77,
                 details = {
                     quality = 1,
                     type = "",
@@ -10885,7 +10885,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
                 name = "Мясо льва",
-                count = 11,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -10921,55 +10921,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
-                count = 57,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
-                name = "Красное волчье мясо",
-                count = 133,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
-                name = "Мясо тигра",
-                count = 187,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12184:0:0:0:0:0:0:0:10|h[Плоть ящера]|h|r",
-                name = "Плоть ящера",
-                count = 115,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12037:0:0:0:0:0:0:0:10|h[Таинственное мясо]|h|r",
-                name = "Таинственное мясо",
-                count = 106,
+                count = 59,
                 details = {
                     quality = 1,
                     type = "",
@@ -11090,6 +11042,54 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                 name = "Гигантское яйцо",
                 count = 146,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
+                name = "Красное волчье мясо",
+                count = 133,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
+                name = "Мясо тигра",
+                count = 187,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12184:0:0:0:0:0:0:0:10|h[Плоть ящера]|h|r",
+                name = "Плоть ящера",
+                count = 115,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12037:0:0:0:0:0:0:0:10|h[Таинственное мясо]|h|r",
+                name = "Таинственное мясо",
+                count = 106,
                 details = {
                     quality = 1,
                     type = "",
@@ -15851,7 +15851,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-15 20:47:50",
+        updated_at = "2026-04-15 21:43:08",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -15977,18 +15977,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
-                name = "Молниевый угорь",
-                count = 12,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
                 name = "Сырой ночной луциан",
                 count = 27,
@@ -16051,7 +16039,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
                 name = "Сырая ощетиненная зубатка",
-                count = 71,
+                count = 75,
                 details = {
                     quality = 1,
                     type = "",
@@ -16100,6 +16088,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                 name = "Сырая блестящая рыбка",
                 count = 99,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
+                name = "Молниевый угорь",
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
