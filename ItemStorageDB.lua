@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776276332
+ItemStorageDB_LastUpdate = 1776276425
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12476,7 +12476,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-04-12 18:54:55",
+        updated_at = "2026-04-15 21:06:57",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -12520,7 +12520,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 4,
                     type = "2",
@@ -12574,18 +12574,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Лук",
                     required_level = "34",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
-                name = "Короткий лук из когтя гарпии",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Лук",
-                    required_level = "27",
                     retention = "",
                 },
             },
@@ -12842,6 +12830,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
+                name = "Короткий лук из когтя гарпии",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Лук",
+                    required_level = "27",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
                 name = "Крупнокалиберный дробовик",
                 count = 5,
@@ -12862,18 +12862,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
-                name = "Арбалет Ищущий Сердце",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "51",
                     retention = "",
                 },
             },
@@ -12910,6 +12898,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "37",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
+                name = "Арбалет Ищущий Сердце",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "51",
                     retention = "",
                 },
             },
