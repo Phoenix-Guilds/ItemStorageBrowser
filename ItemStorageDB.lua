@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776277345
+ItemStorageDB_LastUpdate = 1776277407
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25289,7 +25289,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-13 21:36:39",
+        updated_at = "2026-04-15 21:23:18",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -26083,18 +26083,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "47",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12013:0:0:0:0:0:688:0:10|h[Кольцо пустыни со знаком тигра]|h|r",
-                name = "Кольцо пустыни со знаком тигра",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "44",
                     retention = "",
                 },
             },
