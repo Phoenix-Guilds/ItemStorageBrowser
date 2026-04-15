@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776272530
+ItemStorageDB_LastUpdate = 1776275277
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15815,7 +15815,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-13 22:44:57",
+        updated_at = "2026-04-15 20:47:50",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -15895,7 +15895,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
                 name = "Пластинчатая бронерыба",
-                count = 12,
+                count = 16,
                 details = {
                     quality = 1,
                     type = "",
@@ -15919,7 +15919,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
                 name = "Сырая краснобородка",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -15941,9 +15941,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
+                name = "Молниевый угорь",
+                count = 12,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
                 name = "Сырой ночной луциан",
-                count = 14,
+                count = 27,
                 details = {
                     quality = 1,
                     type = "",
@@ -16052,18 +16064,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                 name = "Сырая блестящая рыбка",
                 count = 99,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
-                name = "Молниевый угорь",
-                count = 6,
                 details = {
                     quality = 1,
                     type = "",
