@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776284897
+ItemStorageDB_LastUpdate = 1776284990
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-15 23:24:02",
+        updated_at = "2026-04-15 23:29:27",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2441,6 +2441,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
+                name = "Копейный щит Черепа",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "33",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
                 name = "Кулачный щит Горного склона",
                 count = 2,
@@ -2537,18 +2549,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
-                name = "Кинжал с жемчужной рукояткой",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "18",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13052:0:0:0:0:0:0:0:10|h[Наемник]|h|r",
                 name = "Наемник",
                 count = 2,
@@ -2628,6 +2628,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Посох",
+                    required_level = "40",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44218:0:0:0:0:0:0:0:10|h[Топор палача Новолуния]|h|r",
+                name = "Топор палача Новолуния",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
                     required_level = "40",
                     retention = "Двуручное",
                 },
@@ -2981,6 +2993,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
+                name = "Кинжал с жемчужной рукояткой",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "18",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
                 count = 1,
@@ -3001,18 +3025,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "28",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44218:0:0:0:0:0:0:0:10|h[Топор палача Новолуния]|h|r",
-                name = "Топор палача Новолуния",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "40",
                     retention = "Двуручное",
                 },
             },
@@ -3185,18 +3197,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
-                name = "Жнец Сталвана",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "32",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                 name = "Ручной молот Мертвого Леса",
                 count = 2,
@@ -3329,21 +3329,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
-                name = "Копейный щит Черепа",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "33",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
                 name = "Изогнутый мясницкий нож",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -3433,6 +3421,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "33",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
+                name = "Жнец Сталвана",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "32",
                     retention = "Одноручное",
                 },
             },
