@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776284091
+ItemStorageDB_LastUpdate = 1776284154
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4838,7 +4838,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-15 23:01:05",
+        updated_at = "2026-04-15 23:15:35",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -5026,7 +5026,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
                 name = "Субстанция Воды",
-                count = 13,
+                count = 15,
                 details = {
                     quality = 2,
                     type = "",
@@ -5050,7 +5050,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
                 name = "Субстанция Жизни",
-                count = 10,
+                count = 13,
                 details = {
                     quality = 2,
                     type = "",
@@ -5062,7 +5062,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                 name = "Маленькая блестящая жемчужина",
-                count = 79,
+                count = 89,
                 details = {
                     quality = 2,
                     type = "",
@@ -5074,7 +5074,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 33,
+                count = 44,
                 details = {
                     quality = 2,
                     type = "",
@@ -5086,7 +5086,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 37,
+                count = 42,
                 details = {
                     quality = 2,
                     type = "",
@@ -5110,7 +5110,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                 name = "Золотая жемчужина",
-                count = 128,
+                count = 130,
                 details = {
                     quality = 2,
                     type = "",
@@ -5194,7 +5194,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
                 name = "Субстанция Земли",
-                count = 6,
+                count = 7,
                 details = {
                     quality = 2,
                     type = "",
@@ -5218,7 +5218,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
                 name = "Субстанция Огня",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "",
@@ -5326,7 +5326,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
                 name = "Частица Воды",
-                count = 65,
+                count = 67,
                 details = {
                     quality = 1,
                     type = "",
@@ -5362,7 +5362,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 31,
+                count = 33,
                 details = {
                     quality = 1,
                     type = "",
@@ -5386,7 +5386,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 100,
+                count = 102,
                 details = {
                     quality = 1,
                     type = "",
@@ -5422,7 +5422,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
-                count = 15,
+                count = 17,
                 details = {
                     quality = 1,
                     type = "",
@@ -5458,7 +5458,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
                 name = "Частица Жизни",
-                count = 68,
+                count = 71,
                 details = {
                     quality = 1,
                     type = "",
@@ -5470,7 +5470,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22573:0:0:0:0:0:0:0:10|h[Частица Земли]|h|r",
                 name = "Частица Земли",
-                count = 53,
+                count = 68,
                 details = {
                     quality = 1,
                     type = "",
@@ -5494,7 +5494,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
                 name = "Частица Огня",
-                count = 16,
+                count = 19,
                 details = {
                     quality = 1,
                     type = "",
@@ -5506,7 +5506,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
                 name = "Частица Тени",
-                count = 104,
+                count = 109,
                 details = {
                     quality = 1,
                     type = "",
@@ -5542,7 +5542,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
                 name = "Магическая сфера воды",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
