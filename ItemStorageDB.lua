@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776276517
+ItemStorageDB_LastUpdate = 1776276647
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2039,7 +2039,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-14 21:36:28",
+        updated_at = "2026-04-15 21:10:15",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2525,18 +2525,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
-                name = "Каменный ворон",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Древковое",
-                    required_level = "47",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13052:0:0:0:0:0:0:0:10|h[Наемник]|h|r",
                 name = "Наемник",
                 count = 2,
@@ -2563,7 +2551,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
                 name = "Клинок титанов",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2873,18 +2861,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
-                name = "Алмазный молот",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "20",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
                 name = "Посох сильного магического огня",
                 count = 2,
@@ -2965,6 +2941,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Посох",
                     required_level = "49",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
+                name = "Каменный ворон",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Древковое",
+                    required_level = "47",
                     retention = "Двуручное",
                 },
             },
@@ -3173,14 +3161,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
-                name = "Полночная палица",
-                count = 2,
+                link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
+                name = "Короткий меч отмщения",
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Дробящее",
-                    required_level = "33",
+                    subtype = "Меч",
+                    required_level = "42",
                     retention = "Одноручное",
                 },
             },
@@ -3269,6 +3257,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
+                name = "Алмазный молот",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "20",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
                 name = "Жезл антиподов",
                 count = 1,
@@ -3302,18 +3302,6 @@ ItemStorageDB = {
                     subtype = "Щит",
                     required_level = "19",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
-                name = "Короткий меч отмщения",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "42",
-                    retention = "Одноручное",
                 },
             },
             {
@@ -3396,6 +3384,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Меч",
+                    required_level = "33",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
+                name = "Полночная палица",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
                     required_level = "33",
                     retention = "Одноручное",
                 },
