@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776283632
+ItemStorageDB_LastUpdate = 1776283664
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19226,7 +19226,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-04-15 22:22:22",
+        updated_at = "2026-04-15 23:07:34",
         money = 9245,
         empty = 15,
         location = "Оргриммар",
@@ -19342,7 +19342,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
                 name = "Заплечный мешок подмастерья",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
