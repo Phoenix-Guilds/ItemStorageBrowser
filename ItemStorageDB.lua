@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776283418
+ItemStorageDB_LastUpdate = 1776283632
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10196,7 +10196,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-15 21:52:04",
+        updated_at = "2026-04-15 23:07:01",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10276,7 +10276,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
                 name = "Дикий росток",
-                count = 119,
+                count = 120,
                 details = {
                     quality = 1,
                     type = "",
@@ -10312,7 +10312,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24245:0:0:0:0:0:0:0:10|h[Огнешляпка]|h|r",
                 name = "Огнешляпка",
-                count = 100,
+                count = 90,
                 details = {
                     quality = 1,
                     type = "",
@@ -10480,19 +10480,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 638,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
-                name = "Усик болотника",
-                count = 41,
+                count = 646,
                 details = {
                     quality = 1,
                     type = "",
