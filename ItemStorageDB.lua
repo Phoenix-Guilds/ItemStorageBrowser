@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776364398
+ItemStorageDB_LastUpdate = 1776365095
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16613,7 +16613,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-15 23:25:35",
+        updated_at = "2026-04-16 21:44:42",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -16627,18 +16627,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "21",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4315:0:0:0:0:0:0:0:10|h[Усиленные шерстяные наплечники]|h|r",
-                name = "Усиленные шерстяные наплечники",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "19",
                     retention = "",
                 },
             },
@@ -16667,18 +16655,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:14175:1892:0:0:0:0:152:0:10|h[Жилет пирата со знаком интеллекта]|h|r",
-                name = "Жилет пирата со знаком интеллекта",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:14730:1892:0:0:0:0:0:0:10|h[Нагрудник боевой раскраски]|h|r",
                 name = "Нагрудник боевой раскраски",
                 count = 1,
@@ -16686,30 +16662,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кольчуга",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14371:1891:0:0:0:0:0:0:10|h[Одеяние мистика]|h|r",
-                name = "Одеяние мистика",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14172:1891:0:0:0:0:851:0:10|h[Одеяния пирата со знаком орла]|h|r",
-                name = "Одеяния пирата со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
                     required_level = "18",
                     retention = "",
                 },
@@ -16729,23 +16681,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2981:1892:0:0:0:0:0:0:10|h[Одеяние Провидца]|h|r",
                 name = "Одеяние Провидца",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15488:1891:0:0:0:0:1188:0:10|h[Окровавленная кольчуга со знаком медведя]|h|r",
-                name = "Окровавленная кольчуга со знаком медведя",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Кольчуга",
+                    subtype = "Ткань",
                     required_level = "16",
                     retention = "",
                 },
@@ -16770,18 +16710,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кожа",
-                    required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2585:1892:0:0:0:0:0:0:10|h[Серое шерстяное одеяние]|h|r",
-                name = "Серое шерстяное одеяние",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
                     required_level = "16",
                     retention = "",
                 },
@@ -16861,30 +16789,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6263:1893:0:0:0:0:0:0:10|h[Синий комбинезон]|h|r",
                 name = "Синий комбинезон",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14120:1892:0:0:0:0:760:0:10|h[Туземное одеяние со знаком совы]|h|r",
-                name = "Туземное одеяние со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14121:1892:0:0:0:0:761:0:10|h[Туземный жилет со знаком совы]|h|r",
-                name = "Туземный жилет со знаком совы",
                 count = 1,
                 details = {
                     quality = 2,
@@ -17149,24 +17053,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
                 name = "Малый магический жезл",
-                count = 5,
+                count = 4,
                 details = {
                     quality = 2,
                     type = "2",
                     subtype = "Жезл",
                     required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:5212:0:0:0:0:0:0:0:10|h[Пылающий жезл]|h|r",
-                name = "Пылающий жезл",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "12",
                     retention = "",
                 },
             },
@@ -17185,7 +17077,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
                 name = "Большой магический жезл",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "2",
@@ -17303,18 +17195,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:3211:929:0:0:0:0:0:0:10|h[Вороненые наручи]|h|r",
-                name = "Вороненые наручи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:3205:1883:0:0:0:0:0:0:10|h[Покрытые письменами кожаные наручи]|h|r",
                 name = "Покрытые письменами кожаные наручи",
                 count = 1,
@@ -17363,18 +17243,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:9771:931:0:0:0:0:848:0:10|h[Зеленотканые перчатки со знаком орла]|h|r",
-                name = "Зеленотканые перчатки со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:3058:1887:0:0:0:0:0:0:10|h[Лесные кожаные перчатки]|h|r",
                 name = "Лесные кожаные перчатки",
                 count = 1,
@@ -17406,18 +17274,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кожа",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3066:931:0:0:0:0:0:0:10|h[Яркие перчатки]|h|r",
-                name = "Яркие перчатки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
                     required_level = "19",
                     retention = "",
                 },
@@ -17467,18 +17323,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "18",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6542:884:0:0:0:0:2027:0:10|h[Ивовая накидка с печатью исцеления]|h|r",
-                name = "Ивовая накидка с печатью исцеления",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "10",
                     retention = "",
                 },
             },
@@ -17687,18 +17531,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:14162:931:0:0:0:0:763:0:10|h[Языческие полуперчатки со знаком совы]|h|r",
-                name = "Языческие полуперчатки со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15115:931:0:0:0:0:846:0:10|h[Жесткие перчатки со знаком орла]|h|r",
                 name = "Жесткие перчатки со знаком орла",
                 count = 1,
@@ -17719,18 +17551,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14168:931:0:0:0:0:845:0:10|h[Перчатки пирата со знаком орла]|h|r",
-                name = "Перчатки пирата со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "15",
                     retention = "",
                 },
             },
@@ -17867,66 +17687,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:9770:884:0:0:0:0:1012:0:10|h[Зеленотканый плащ со знаком кита]|h|r",
-                name = "Зеленотканый плащ со знаком кита",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15114:884:0:0:0:0:238:0:10|h[Жесткая накидка со знаком сокола]|h|r",
-                name = "Жесткая накидка со знаком сокола",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:9779:884:0:0:0:0:754:0:10|h[Бандитский плащ со знаком совы]|h|r",
-                name = "Бандитский плащ со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14161:884:0:0:0:0:754:0:10|h[Языческая накидка со знаком совы]|h|r",
-                name = "Языческая накидка со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15309:884:0:0:0:0:754:0:10|h[Дикий плащ со знаком совы]|h|r",
-                name = "Дикий плащ со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:3305:0:0:0:0:0:0:0:10|h[Поножи недвижной воды]|h|r",
                 name = "Поножи недвижной воды",
                 count = 1,
@@ -17941,7 +17701,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2970:0:0:0:0:0:0:0:10|h[Штаны заклинателя]|h|r",
                 name = "Штаны заклинателя",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -17987,18 +17747,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6267:0:0:0:0:0:839:0:10|h[Штаны Посвященного со знаком орла]|h|r",
-                name = "Штаны Посвященного со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "7",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:2966:0:0:0:0:0:0:0:10|h[Воинские штаны]|h|r",
                 name = "Воинские штаны",
                 count = 1,
@@ -18019,18 +17767,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14374:3858:0:0:0:0:0:0:10|h[Сандалии цвета крови]|h|r",
-                name = "Сандалии цвета крови",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "19",
                     retention = "",
                 },
             },
@@ -18311,18 +18047,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4566:20306:0:0:0:0:26:0:10|h[Прочный окованный посох со знаком интеллекта]|h|r",
-                name = "Прочный окованный посох со знаком интеллекта",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Посох",
-                    required_level = "8",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6214:20319:0:0:0:0:0:0:10|h[Тяжелая медная кувалда]|h|r",
                 name = "Тяжелая медная кувалда",
                 count = 1,
@@ -18361,24 +18085,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6531:1892:0:0:0:0:0:0:10|h[Варварское матерчатое одеяние]|h|r",
                 name = "Варварское матерчатое одеяние",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6528:1892:0:0:0:0:0:0:10|h[Одеяние заклинателя]|h|r",
-                name = "Одеяние заклинателя",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "12",
+                    required_level = "13",
                     retention = "",
                 },
             },
@@ -18402,18 +18114,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кольчуга",
-                    required_level = "11",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14109:1892:0:0:0:0:844:0:10|h[Дикарское одеяние со знаком орла]|h|r",
-                name = "Дикарское одеяние со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
                     required_level = "11",
                     retention = "",
                 },
@@ -18443,31 +18143,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:9749:1892:0:0:0:0:755:0:10|h[Простая рубашка со знаком совы]|h|r",
-                name = "Простая рубашка со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9748:1892:0:0:0:0:755:0:10|h[Простое одеяние со знаком совы]|h|r",
-                name = "Простое одеяние со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:9748:1892:0:0:0:0:760:0:10|h[Простое одеяние со знаком совы]|h|r",
                 name = "Простое одеяние со знаком совы",
                 count = 1,
                 details = {
@@ -18505,7 +18181,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3292:1892:0:0:0:0:0:0:10|h[Мундир предков]|h|r",
                 name = "Мундир предков",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18541,7 +18217,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:14094:1892:0:0:0:0:754:0:10|h[Бисерная блуза со знаком совы]|h|r",
                 name = "Бисерная блуза со знаком совы",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18601,7 +18277,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
                 name = "Огненный жезл",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "2",
@@ -18619,18 +18295,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "12",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6539:0:0:0:0:0:844:0:10|h[Ивовый пояс со знаком орла]|h|r",
-                name = "Ивовый пояс со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "11",
                     retention = "",
                 },
             },
@@ -18695,18 +18359,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6568:0:0:0:0:0:851:0:10|h[Мерцающие брюки со знаком орла]|h|r",
-                name = "Мерцающие брюки со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9781:0:0:0:0:0:848:0:10|h[Бандитские штаны со знаком орла]|h|r",
                 name = "Бандитские штаны со знаком орла",
                 count = 1,
@@ -18726,30 +18378,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кожа",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15503:0:0:0:0:0:1190:0:10|h[Походные набедренники со знаком медведя]|h|r",
-                name = "Походные набедренники со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4316:0:0:0:0:0:0:0:10|h[Тяжелые шерстяные штаны]|h|r",
-                name = "Тяжелые шерстяные штаны",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
                     required_level = "17",
                     retention = "",
                 },
@@ -18803,30 +18431,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6540:0:0:0:0:0:842:0:10|h[Ивовые штаны со знаком орла]|h|r",
-                name = "Ивовые штаны со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14091:1892:0:0:0:0:754:0:10|h[Бисерное одеяние со знаком совы]|h|r",
-                name = "Бисерное одеяние со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "6",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15479:1892:0:0:0:0:23:0:10|h[Броня атакующего со знаком силы]|h|r",
                 name = "Броня атакующего со знаком силы",
                 count = 1,
@@ -18851,21 +18455,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2957:1892:0:0:0:0:0:0:10|h[Жилет подмастерья]|h|r",
-                name = "Жилет подмастерья",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "6",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:6511:1892:0:0:0:0:0:0:10|h[Одеяние подмастерья]|h|r",
                 name = "Одеяние подмастерья",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -18911,18 +18503,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4785:0:0:0:0:0:0:0:10|h[Серный пояс]|h|r",
-                name = "Серный пояс",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:9814:0:0:0:0:0:1186:0:10|h[Укрепленный пояс со знаком медведя]|h|r",
                 name = "Укрепленный пояс со знаком медведя",
                 count = 1,
@@ -18930,18 +18510,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кольчуга",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4708:0:0:0:0:0:0:0:10|h[Яркий пояс]|h|r",
-                name = "Яркий пояс",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
                     required_level = "19",
                     retention = "",
                 },
