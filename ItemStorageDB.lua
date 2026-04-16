@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776360308
+ItemStorageDB_LastUpdate = 1776360461
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7346,7 +7346,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-15 23:32:20",
+        updated_at = "2026-04-16 20:27:40",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -7628,18 +7628,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:38376:0:0:0:0:0:0:0:10|h[Накладки из толстой борейской кожи]|h|r",
-                name = "Накладки из толстой борейской кожи",
-                count = 6,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
                 name = "Накладки для поножей из шкуры копытня",
                 count = 2,
@@ -7714,7 +7702,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 873,
+                count = 650,
                 details = {
                     quality = 1,
                     type = "",
@@ -7870,7 +7858,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
                 name = "Борейская кожа",
-                count = 30,
+                count = 266,
                 details = {
                     quality = 1,
                     type = "",
@@ -7882,7 +7870,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38558:0:0:0:0:0:0:0:10|h[Нерубский хитин]|h|r",
                 name = "Нерубский хитин",
-                count = 268,
+                count = 286,
                 details = {
                     quality = 1,
                     type = "",
