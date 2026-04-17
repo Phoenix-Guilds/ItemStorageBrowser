@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776458643
+ItemStorageDB_LastUpdate = 1776458676
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24026,7 +24026,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-17 23:21:09",
+        updated_at = "2026-04-17 23:44:14",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -24596,6 +24596,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
+                name = "Кольцо защиты",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:29160:0:0:0:0:0:0:0:10|h[Изумрудное кольцо льва]|h|r",
                 name = "Изумрудное кольцо льва",
                 count = 1,
@@ -24632,14 +24644,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:7552:0:0:0:0:0:0:0:10|h[Драгоценность Сокола]|h|r",
-                name = "Драгоценность Сокола",
-                count = 1,
+                link = "|cff1eff00|Hitem:20818:0:0:0:0:0:0:0:10|h[Элегантное серебряное кольцо]|h|r",
+                name = "Элегантное серебряное кольцо",
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
                     subtype = "Палец",
-                    required_level = "39",
+                    required_level = "17",
                     retention = "",
                 },
             },
@@ -24676,6 +24688,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7552:0:0:0:0:0:0:0:10|h[Драгоценность Сокола]|h|r",
+                name = "Драгоценность Сокола",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "39",
                     retention = "",
                 },
             },
@@ -24767,18 +24791,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:20820:0:0:0:0:0:0:0:10|h[Простое жемчужное кольцо]|h|r",
                 name = "Простое жемчужное кольцо",
                 count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20818:0:0:0:0:0:0:0:10|h[Элегантное серебряное кольцо]|h|r",
-                name = "Элегантное серебряное кольцо",
-                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
