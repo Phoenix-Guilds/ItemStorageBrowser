@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776460040
+ItemStorageDB_LastUpdate = 1776460071
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15524,7 +15524,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-15 21:43:08",
+        updated_at = "2026-04-18 00:07:27",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -15748,7 +15748,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6361:0:0:0:0:0:0:0:10|h[Сырой радужный тунец]|h|r",
                 name = "Сырой радужный тунец",
-                count = 2,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
