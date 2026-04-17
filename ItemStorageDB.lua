@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776454561
+ItemStorageDB_LastUpdate = 1776454602
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5624,9 +5624,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-17 21:00:35",
+        updated_at = "2026-04-17 22:36:05",
         money = 82572,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -5690,14 +5690,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
-                name = "Тяжелое точило",
-                count = 10,
+                link = "|cffffffff|Hitem:7964:0:0:0:0:0:0:0:10|h[Твердое точило]|h|r",
+                name = "Твердое точило",
+                count = 11,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "15",
+                    required_level = "25",
                     retention = "",
                 },
             },
@@ -15653,7 +15653,7 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = "2026-04-17 21:22:48",
+        updated_at = "2026-04-17 22:36:01",
         money = 4291,
         empty = 0,
         location = "Оргриммар",
@@ -15662,6 +15662,30 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:37091:0:0:0:0:0:0:0:10|h[Свиток интеллекта VII]|h|r",
                 name = "Свиток интеллекта VII",
                 count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:33457:0:0:0:0:0:0:0:10|h[Свиток ловкости VI]|h|r",
+                name = "Свиток ловкости VI",
+                count = 51,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:10|h[Свиток ловкости VII]|h|r",
+                name = "Свиток ловкости VII",
+                count = 61,
                 details = {
                     quality = 1,
                     type = "",
@@ -15803,18 +15827,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
-                name = "Свиток силы",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:37093:0:0:0:0:0:0:0:10|h[Свиток выносливости VII]|h|r",
                 name = "Свиток выносливости VII",
                 count = 2,
@@ -15823,6 +15835,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
+                name = "Свиток силы",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -16117,7 +16141,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38914:0:0:0:0:0:0:0:10|h[Свиток чар для плаща - броня III]|h|r",
                 name = "Свиток чар для плаща - броня III",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -16235,6 +16259,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:43467:0:0:0:0:0:0:0:10|h[Свиток защиты VII]|h|r",
+                name = "Свиток защиты VII",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:4419:0:0:0:0:0:0:0:10|h[Свиток интеллекта III]|h|r",
                 name = "Свиток интеллекта III",
                 count = 5,
@@ -16255,42 +16291,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "40",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:33457:0:0:0:0:0:0:0:10|h[Свиток ловкости VI]|h|r",
-                name = "Свиток ловкости VI",
-                count = 51,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:10|h[Свиток ловкости VII]|h|r",
-                name = "Свиток ловкости VII",
-                count = 61,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:43467:0:0:0:0:0:0:0:10|h[Свиток защиты VII]|h|r",
-                name = "Свиток защиты VII",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
                     retention = "",
                 },
             },
