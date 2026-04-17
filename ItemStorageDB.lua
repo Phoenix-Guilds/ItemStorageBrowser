@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776450185
+ItemStorageDB_LastUpdate = 1776450247
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19646,7 +19646,7 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        updated_at = "2026-04-13 21:27:03",
+        updated_at = "2026-04-17 21:23:52",
         money = 14656,
         empty = 0,
         location = "Оргриммар",
@@ -19676,18 +19676,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
-                name = "Острый коготь",
-                count = 95,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
                 name = "Малая ядовитая железа",
                 count = 46,
@@ -19703,6 +19691,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
                 name = "Огромная ядовитая железа",
                 count = 13,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
+                name = "Острый коготь",
+                count = 95,
                 details = {
                     quality = 1,
                     type = "",
