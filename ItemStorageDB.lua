@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776458580
+ItemStorageDB_LastUpdate = 1776458612
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3416,7 +3416,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-17 23:41:16",
+        updated_at = "2026-04-17 23:43:29",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3754,6 +3754,42 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Левая рука",
                     required_level = "73",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:43667:0:0:0:0:0:0:0:10|h[Книга хитрых советов]|h|r",
+                name = "Книга хитрых советов",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:43666:0:0:0:0:0:0:0:10|h[Фолиант адского огня]|h|r",
+                name = "Фолиант адского огня",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
+                name = "Тотем бури",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Тотем",
+                    required_level = "60",
                     retention = "",
                 },
             },
