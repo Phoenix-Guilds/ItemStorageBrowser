@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776449594
+ItemStorageDB_LastUpdate = 1776449717
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8819,7 +8819,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-15 23:18:25",
+        updated_at = "2026-04-17 21:14:42",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -8983,7 +8983,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                 name = "Крохотный флакон с зельем маны",
-                count = 91,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -9211,7 +9211,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
                 name = "Крохотный флакон с лечебным зельем",
-                count = 145,
+                count = 95,
                 details = {
                     quality = 1,
                     type = "",
@@ -9223,7 +9223,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:858:0:0:0:0:0:0:0:10|h[Маленький флакон с лечебным зельем]|h|r",
                 name = "Маленький флакон с лечебным зельем",
-                count = 162,
+                count = 112,
                 details = {
                     quality = 1,
                     type = "",
@@ -9247,7 +9247,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
                 name = "Маленький флакон с зельем маны",
-                count = 92,
+                count = 42,
                 details = {
                     quality = 1,
                     type = "",
@@ -9259,7 +9259,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 134,
+                count = 100,
                 details = {
                     quality = 1,
                     type = "",
@@ -9317,18 +9317,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3383:0:0:0:0:0:0:0:10|h[Эликсир мудрости]|h|r",
-                name = "Эликсир мудрости",
-                count = 96,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:5996:0:0:0:0:0:0:0:10|h[Эликсир подводного дыхания]|h|r",
                 name = "Эликсир подводного дыхания",
                 count = 73,
@@ -9379,7 +9367,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5997:0:0:0:0:0:0:0:10|h[Слабый эликсир защиты]|h|r",
                 name = "Слабый эликсир защиты",
-                count = 144,
+                count = 94,
                 details = {
                     quality = 1,
                     type = "",
@@ -9413,18 +9401,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
-                name = "Зелье маны",
-                count = 29,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                 name = "Средний флакон с зельем маны",
                 count = 296,
@@ -9445,18 +9421,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "35",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
-                name = "Эликсир обнаружения нежити",
-                count = 16,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "36",
                     retention = "",
                 },
             },
@@ -9593,6 +9557,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
+                name = "Эликсир обнаружения нежити",
+                count = 16,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "36",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
                 name = "Эликсир \"Кошачий глаз\"",
                 count = 2,
@@ -9619,7 +9595,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
                 name = "Эликсир ловкости",
-                count = 54,
+                count = 74,
                 details = {
                     quality = 1,
                     type = "",
@@ -9721,6 +9697,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3383:0:0:0:0:0:0:0:10|h[Эликсир мудрости]|h|r",
+                name = "Эликсир мудрости",
+                count = 46,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "10",
                     retention = "",
                 },
             },
