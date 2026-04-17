@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776450247
+ItemStorageDB_LastUpdate = 1776450309
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8390,6 +8390,27 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:16650:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 6]|h|r",
                 name = "Руководство по использованию крошшера, стр. 6",
                 count = 8,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+        },
+    },
+    {
+        name = "Ларец",
+        updated_at = "2026-04-17 21:24:44",
+        money = 0,
+        empty = 0,
+        location = "Леса Вечной Песни",
+        items = {
+            {
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:1|h[Камень возвращения]|h|r",
+                name = "Камень возвращения",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
