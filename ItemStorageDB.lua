@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776455215
+ItemStorageDB_LastUpdate = 1776455247
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5624,7 +5624,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-17 22:36:05",
+        updated_at = "2026-04-17 22:46:55",
         money = 82572,
         empty = 15,
         location = "Оргриммар",
@@ -5656,19 +5656,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                 name = "Твердый камень",
-                count = 1157,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
-                name = "Кирка-молот",
-                count = 1,
+                count = 1160,
                 details = {
                     quality = 1,
                     type = "",
@@ -5686,6 +5674,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
+                name = "Зернистое грузило",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
                     retention = "",
                 },
             },
@@ -5884,7 +5884,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
                 name = "Чародейный кристалл",
-                count = 61,
+                count = 65,
                 details = {
                     quality = 2,
                     type = "",
@@ -5944,7 +5944,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
                 name = "Аквамарин",
-                count = 187,
+                count = 193,
                 details = {
                     quality = 2,
                     type = "",
@@ -6016,7 +6016,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3864:0:0:0:0:0:0:0:10|h[Цитрин]|h|r",
                 name = "Цитрин",
-                count = 164,
+                count = 167,
                 details = {
                     quality = 2,
                     type = "",
@@ -6290,9 +6290,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
+                name = "Кирка-молот",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
                 name = "Тяжелый шлифовальный камень",
-                count = 126,
+                count = 138,
                 details = {
                     quality = 1,
                     type = "",
@@ -6364,7 +6376,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
                 name = "Твердый шлифовальный камень",
-                count = 58,
+                count = 85,
                 details = {
                     quality = 1,
                     type = "",
@@ -6376,7 +6388,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                 name = "Тяжелый камень",
-                count = 404,
+                count = 411,
                 details = {
                     quality = 1,
                     type = "",
