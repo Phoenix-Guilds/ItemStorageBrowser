@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776459234
+ItemStorageDB_LastUpdate = 1776459296
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10250,7 +10250,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-17 23:15:05",
+        updated_at = "2026-04-17 23:54:51",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10414,7 +10414,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
                 name = "Постный волчий бок",
-                count = 12,
+                count = 13,
                 details = {
                     quality = 1,
                     type = "",
@@ -10426,7 +10426,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
                 name = "Хрустящая паучья лапка",
-                count = 50,
+                count = 51,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5469:0:0:0:0:0:0:0:10|h[Мясо долгонога]|h|r",
+                name = "Мясо долгонога",
+                count = 229,
                 details = {
                     quality = 1,
                     type = "",
@@ -10532,18 +10544,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
-                name = "Конечности и панцири некрорахнидов",
-                count = 28,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
                 name = "Хрустящее паучье мясо",
                 count = 59,
@@ -10619,18 +10619,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:729:0:0:0:0:0:0:0:10|h[Жилистое мясо стервятника]|h|r",
                 name = "Жилистое мясо стервятника",
                 count = 15,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:5469:0:0:0:0:0:0:0:10|h[Мясо долгонога]|h|r",
-                name = "Мясо долгонога",
-                count = 229,
                 details = {
                     quality = 1,
                     type = "",
