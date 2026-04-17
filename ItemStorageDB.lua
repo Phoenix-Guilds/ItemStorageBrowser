@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776459296
+ItemStorageDB_LastUpdate = 1776459358
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9941,7 +9941,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-17 23:15:41",
+        updated_at = "2026-04-17 23:55:35",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10055,6 +10055,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
+                name = "Конечности и панцири некрорахнидов",
+                count = 28,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:24245:0:0:0:0:0:0:0:10|h[Огнешляпка]|h|r",
                 name = "Огнешляпка",
                 count = 90,
@@ -10118,18 +10130,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
                 name = "Разорванная шкура медведя",
                 count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
-                name = "Реликвия Ульдуара",
-                count = 32,
                 details = {
                     quality = 1,
                     type = "",
@@ -10214,6 +10214,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
                 name = "Усовершенствованный манекен-мишень",
                 count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
+                name = "Реликвия Ульдуара",
+                count = 32,
                 details = {
                     quality = 1,
                     type = "",
