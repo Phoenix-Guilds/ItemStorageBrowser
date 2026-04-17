@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776458426
+ItemStorageDB_LastUpdate = 1776458488
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3416,7 +3416,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-17 21:08:02",
+        updated_at = "2026-04-17 23:41:16",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3742,6 +3742,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "65",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37817:0:0:0:0:0:0:0:10|h[Ветвь отложенной казни]|h|r",
+                name = "Ветвь отложенной казни",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "73",
                     retention = "",
                 },
             },
