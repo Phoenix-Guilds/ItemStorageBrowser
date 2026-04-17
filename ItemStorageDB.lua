@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776458890
+ItemStorageDB_LastUpdate = 1776458922
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24062,7 +24062,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-17 23:44:14",
+        updated_at = "2026-04-17 23:48:22",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -24284,21 +24284,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
-                name = "Оберег Газлова",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "36",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
                 name = "Ожерелье Калисеи",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -24568,6 +24556,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "29",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
+                name = "Калейдоскопическая цепь",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
+                name = "Оберег Газлова",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "36",
                     retention = "",
                 },
             },
