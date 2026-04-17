@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776455434
+ItemStorageDB_LastUpdate = 1776455466
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8840,7 +8840,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-17 22:20:16",
+        updated_at = "2026-04-17 22:51:02",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9146,6 +9146,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:28100:0:0:0:0:0:0:0:10|h[Флакон с летучим лечебным зельем]|h|r",
+                name = "Флакон с летучим лечебным зельем",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "55",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:28101:0:0:0:0:0:0:0:10|h[Флакон с нестойким зельем маны]|h|r",
                 name = "Флакон с нестойким зельем маны",
                 count = 27,
@@ -9230,6 +9242,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
+                name = "Эликсир обнаружения нежити",
+                count = 16,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "36",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
                 name = "Крохотный флакон с лечебным зельем",
                 count = 95,
@@ -9286,18 +9310,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "21",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13512:0:0:0:0:0:0:0:10|h[Настой великой силы]|h|r",
-                name = "Настой великой силы",
-                count = 33,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "50",
                     retention = "",
                 },
             },
@@ -9418,6 +9430,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13512:0:0:0:0:0:0:0:10|h[Настой великой силы]|h|r",
+                name = "Настой великой силы",
+                count = 33,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "50",
                     retention = "",
                 },
             },
@@ -9574,30 +9598,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "44",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
-                name = "Эликсир обнаружения нежити",
-                count = 16,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "36",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
-                name = "Эликсир \"Кошачий глаз\"",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "30",
                     retention = "",
                 },
             },
@@ -9850,6 +9850,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
+                name = "Эликсир \"Кошачий глаз\"",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "30",
                     retention = "",
                 },
             },
