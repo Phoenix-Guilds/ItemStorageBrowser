@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776455497
+ItemStorageDB_LastUpdate = 1776455541
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9869,7 +9869,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-17 21:06:44",
+        updated_at = "2026-04-17 22:51:47",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10067,6 +10067,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
+                name = "Мифриловая обшивка",
+                count = 60,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
                 name = "Украшенные узором бронзовые наручи",
                 count = 1,
@@ -10118,18 +10130,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                 name = "Гирохронатом",
                 count = 30,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
-                name = "Мифриловая обшивка",
-                count = 59,
                 details = {
                     quality = 1,
                     type = "",
