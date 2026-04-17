@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776449275
+ItemStorageDB_LastUpdate = 1776449307
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3392,7 +3392,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-09 21:11:22",
+        updated_at = "2026-04-17 21:08:02",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3434,18 +3434,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37802:0:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
-                name = "Острие Эланора",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "73",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:31153:0:0:0:0:0:0:0:10|h[Топор Легиона]|h|r",
                 name = "Топор Легиона",
                 count = 1,
@@ -3467,18 +3455,6 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "61",
                     retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37806:0:0:0:0:0:0:0:10|h[Аномальный посох Забры]|h|r",
-                name = "Аномальный посох Забры",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Посох",
-                    required_level = "77",
-                    retention = "Двуручное",
                 },
             },
             {
@@ -3514,18 +3490,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "73",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37803:0:0:0:0:0:0:0:10|h[Животворная ветвь Лолы]|h|r",
-                name = "Животворная ветвь Лолы",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Посох",
-                    required_level = "71",
                     retention = "Двуручное",
                 },
             },
