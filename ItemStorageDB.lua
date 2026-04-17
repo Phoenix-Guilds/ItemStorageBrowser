@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776448895
+ItemStorageDB_LastUpdate = 1776448927
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-16 21:56:29",
+        updated_at = "2026-04-17 21:01:45",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -3257,18 +3257,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                name = "Щит Торсена",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                 name = "Лапидийская пинта Пьющего Прибой",
                 count = 1,
@@ -3277,6 +3265,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Левая рука",
                     required_level = "54",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "25",
                     retention = "",
                 },
             },
