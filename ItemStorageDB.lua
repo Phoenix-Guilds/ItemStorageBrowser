@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776456707
+ItemStorageDB_LastUpdate = 1776456739
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19106,7 +19106,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-17 23:07:15",
+        updated_at = "2026-04-17 23:12:11",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19256,6 +19256,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
+                name = "Масляный черноротик",
+                count = 99,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
                 count = 67,
@@ -19318,7 +19330,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
-                count = 364,
+                count = 404,
                 details = {
                     quality = 1,
                     type = "",
@@ -19330,7 +19342,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 162,
+                count = 199,
                 details = {
                     quality = 1,
                     type = "",
@@ -19342,7 +19354,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 530,
+                count = 558,
                 details = {
                     quality = 1,
                     type = "",
@@ -19354,19 +19366,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
-                count = 282,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
-                name = "Синячник",
-                count = 472,
+                count = 334,
                 details = {
                     quality = 1,
                     type = "",
@@ -19402,19 +19402,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 258,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
-                name = "Масляный черноротик",
-                count = 99,
+                count = 266,
                 details = {
                     quality = 1,
                     type = "",
@@ -19571,6 +19559,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
                 name = "Могильный мох",
                 count = 38,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
+                name = "Синячник",
+                count = 472,
                 details = {
                     quality = 1,
                     type = "",
