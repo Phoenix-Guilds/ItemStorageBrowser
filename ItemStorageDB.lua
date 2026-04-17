@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776450028
+ItemStorageDB_LastUpdate = 1776450122
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6389,7 +6389,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-04-15 23:19:50",
+        updated_at = "2026-04-17 21:21:34",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -6733,7 +6733,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
                 name = "Колода Демонов",
-                count = 8,
+                count = 7,
                 details = {
                     quality = 3,
                     type = "",
@@ -6779,21 +6779,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
-                name = "Колода Мечей",
-                count = 8,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
-                count = 8,
+                count = 5,
                 details = {
                     quality = 2,
                     type = "",
@@ -6803,9 +6791,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
+                name = "Колода Мечей",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
-                count = 8,
+                count = 6,
                 details = {
                     quality = 3,
                     type = "",
@@ -6961,19 +6961,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37143:0:0:0:0:0:0:0:10|h[Двойка из колоды Разбойников]|h|r",
                 name = "Двойка из колоды Разбойников",
-                count = 40,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:37156:0:0:0:0:0:0:0:10|h[Тройка из колоды Разбойников]|h|r",
-                name = "Тройка из колоды Разбойников",
-                count = 5,
+                count = 35,
                 details = {
                     quality = 1,
                     type = "",
@@ -6985,7 +6973,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
                 name = "Туз из колоды Разбойников",
-                count = 33,
+                count = 28,
                 details = {
                     quality = 1,
                     type = "",
