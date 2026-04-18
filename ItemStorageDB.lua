@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776513666
+ItemStorageDB_LastUpdate = 1776513849
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3428,7 +3428,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-17 23:43:29",
+        updated_at = "2026-04-18 15:03:43",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3466,6 +3466,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "73",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
+                name = "Клинок Неутолимой Жажды",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "64",
                     retention = "Одноручное",
                 },
             },
