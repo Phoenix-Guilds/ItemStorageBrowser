@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776514991
+ItemStorageDB_LastUpdate = 1776515030
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11780,7 +11780,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-18 15:05:51",
+        updated_at = "2026-04-18 15:23:45",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -24410,7 +24410,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-18 13:43:03",
+        updated_at = "2026-04-18 15:23:09",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -24886,7 +24886,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                 name = "Калейдоскопическая цепь",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
