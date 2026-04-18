@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776527022
+ItemStorageDB_LastUpdate = 1776527054
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16598,7 +16598,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-18 16:04:02",
+        updated_at = "2026-04-18 18:43:41",
         money = 367705,
         empty = 0,
         location = "Оргриммар",
@@ -18747,18 +18747,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:9814:0:0:0:0:0:1186:0:10|h[Укрепленный пояс со знаком медведя]|h|r",
-                name = "Укрепленный пояс со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
                     required_level = "19",
                     retention = "",
                 },
