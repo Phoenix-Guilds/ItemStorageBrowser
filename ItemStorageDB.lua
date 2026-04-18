@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776545178
+ItemStorageDB_LastUpdate = 1776545391
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9116,7 +9116,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-18 22:11:20",
+        updated_at = "2026-04-18 23:49:21",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9746,18 +9746,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3391:0:0:0:0:0:0:0:10|h[Эликсир силы огра]|h|r",
-                name = "Эликсир силы огра",
-                count = 20,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:44327:0:0:0:0:0:0:0:10|h[Эликсир смертельных ударов]|h|r",
                 name = "Эликсир смертельных ударов",
                 count = 16,
@@ -9808,7 +9796,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
                 name = "Большой эликсир силы",
-                count = 29,
+                count = 19,
                 details = {
                     quality = 1,
                     type = "",
@@ -9970,6 +9958,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3391:0:0:0:0:0:0:0:10|h[Эликсир силы огра]|h|r",
+                name = "Эликсир силы огра",
+                count = 20,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
                     retention = "",
                 },
             },
