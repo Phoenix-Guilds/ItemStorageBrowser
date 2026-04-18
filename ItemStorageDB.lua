@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776514591
+ItemStorageDB_LastUpdate = 1776514623
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8948,7 +8948,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-18 14:17:22",
+        updated_at = "2026-04-18 15:16:33",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9242,30 +9242,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
-                name = "Огромный флакон с лечебным зельем",
-                count = 92,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:28100:0:0:0:0:0:0:0:10|h[Флакон с летучим лечебным зельем]|h|r",
-                name = "Флакон с летучим лечебным зельем",
-                count = 20,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "55",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:28101:0:0:0:0:0:0:0:10|h[Флакон с нестойким зельем маны]|h|r",
                 name = "Флакон с нестойким зельем маны",
                 count = 27,
@@ -9280,7 +9256,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                 name = "Гигантский флакон с лечебным зельем",
-                count = 178,
+                count = 231,
                 details = {
                     quality = 1,
                     type = "",
@@ -9292,7 +9268,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
                 name = "Гигантский флакон с зельем маны",
-                count = 142,
+                count = 168,
                 details = {
                     quality = 1,
                     type = "",
@@ -9406,6 +9382,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "21",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
+                name = "Средний флакон с зельем маны",
+                count = 296,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "31",
                     retention = "",
                 },
             },
@@ -9554,18 +9542,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
-                name = "Средний флакон с зельем маны",
-                count = 296,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "31",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                 name = "Большой флакон с лечебным зельем",
                 count = 304,
@@ -9574,6 +9550,30 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
+                name = "Огромный флакон с лечебным зельем",
+                count = 92,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:28100:0:0:0:0:0:0:0:10|h[Флакон с летучим лечебным зельем]|h|r",
+                name = "Флакон с летучим лечебным зельем",
+                count = 20,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "55",
                     retention = "",
                 },
             },
