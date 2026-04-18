@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776516894
+ItemStorageDB_LastUpdate = 1776517167
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-18 15:46:10",
+        updated_at = "2026-04-18 15:59:22",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2333,18 +2333,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:4091:0:0:0:0:0:0:0:10|h[Вдоводел]|h|r",
-                name = "Вдоводел",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "42",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:17055:0:0:0:0:0:0:0:10|h[Чангук сокрушитель]|h|r",
                 name = "Чангук сокрушитель",
                 count = 2,
@@ -2561,6 +2549,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
+                name = "Дубина Ракзура",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "16",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13052:0:0:0:0:0:0:0:10|h[Наемник]|h|r",
                 name = "Наемник",
                 count = 2,
@@ -2773,18 +2773,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "18",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
-                name = "Дубина Ракзура",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "16",
                     retention = "Двуручное",
                 },
             },
@@ -3053,9 +3041,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
+                name = "Змеиный поцелуй",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "15",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                 name = "Лезвие бритвы",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -3125,85 +3125,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
-                name = "Убийственный клинок",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "52",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
-                name = "Меч Ханзо",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "50",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:1721:0:0:0:0:0:0:0:10|h[Боевой молот викинга]|h|r",
-                name = "Боевой молот викинга",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "49",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
-                name = "Костегрыз",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "48",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13035:0:0:0:0:0:0:0:10|h[Змеиный тесак]|h|r",
-                name = "Змеиный тесак",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "44",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:4091:20234:0:0:0:0:0:0:10|h[Вдоводел]|h|r",
+                link = "|cff0070dd|Hitem:4091:0:0:0:0:0:0:0:10|h[Вдоводел]|h|r",
                 name = "Вдоводел",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "2",
                     subtype = "Кинжал",
-                    required_level = "42",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
-                name = "Короткий меч отмщения",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
                     required_level = "42",
                     retention = "Одноручное",
                 },
@@ -3293,6 +3221,90 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
+                name = "Убийственный клинок",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "52",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
+                name = "Меч Ханзо",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "50",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:1721:0:0:0:0:0:0:0:10|h[Боевой молот викинга]|h|r",
+                name = "Боевой молот викинга",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "49",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
+                name = "Костегрыз",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "48",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13035:0:0:0:0:0:0:0:10|h[Змеиный тесак]|h|r",
+                name = "Змеиный тесак",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "44",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4091:20234:0:0:0:0:0:0:10|h[Вдоводел]|h|r",
+                name = "Вдоводел",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "42",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
+                name = "Короткий меч отмщения",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "42",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
                 name = "Жезл антиподов",
                 count = 1,
@@ -3362,18 +3374,6 @@ ItemStorageDB = {
                     subtype = "Щит",
                     required_level = "49",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
-                name = "Змеиный поцелуй",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "15",
-                    retention = "Одноручное",
                 },
             },
             {
