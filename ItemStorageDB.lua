@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776538574
+ItemStorageDB_LastUpdate = 1776539027
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10157,7 +10157,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-18 21:56:05",
+        updated_at = "2026-04-18 22:03:22",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10355,14 +10355,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
-                name = "Мифриловая обшивка",
-                count = 60,
+                link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
+                name = "Смертоносный мушкетон",
+                count = 37,
                 details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
+                    quality = 2,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "16",
                     retention = "",
                 },
             },
@@ -10403,21 +10403,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
-                name = "Смертоносный мушкетон",
-                count = 7,
+                link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
+                name = "Средоточие Стихий",
+                count = 647,
                 details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "16",
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
             {
-                link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
-                name = "Гирохронатом",
-                count = 30,
+                link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э\'ко диких совухов]|h|r",
+                name = "Э\'ко диких совухов",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -10439,9 +10439,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
-                name = "Средоточие Стихий",
-                count = 647,
+                link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
+                name = "Гирохронатом",
+                count = 30,
                 details = {
                     quality = 1,
                     type = "",
@@ -10451,9 +10451,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э\'ко диких совухов]|h|r",
-                name = "Э\'ко диких совухов",
-                count = 1,
+                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
+                name = "Мифриловая обшивка",
+                count = 60,
                 details = {
                     quality = 1,
                     type = "",
