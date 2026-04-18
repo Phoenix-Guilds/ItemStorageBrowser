@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776506334
+ItemStorageDB_LastUpdate = 1776506366
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3797,7 +3797,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-17 23:36:45",
+        updated_at = "2026-04-18 12:59:09",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -3811,6 +3811,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "59",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36615:0:0:0:0:0:-41:23:10|h[Длинный лук знатока с меткой зверя]|h|r",
+                name = "Длинный лук знатока с меткой зверя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Лук",
+                    required_level = "69",
                     retention = "",
                 },
             },
@@ -4127,18 +4139,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:24732:0:0:0:0:0:-39:24:10|h[Боевые наручи безумия с меткой заклинателя]|h|r",
-                name = "Боевые наручи безумия с меткой заклинателя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "61",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:25240:0:0:0:0:0:-45:12:10|h[Азеротский длинный лук с меткой победителя]|h|r",
                 name = "Азеротский длинный лук с меткой победителя",
                 count = 1,
@@ -4423,6 +4423,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Арбалет",
                     required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24732:0:0:0:0:0:-39:24:10|h[Боевые наручи безумия с меткой заклинателя]|h|r",
+                name = "Боевые наручи безумия с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "61",
                     retention = "",
                 },
             },
