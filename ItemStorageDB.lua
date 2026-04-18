@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776539338
+ItemStorageDB_LastUpdate = 1776539521
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9116,7 +9116,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-18 15:16:33",
+        updated_at = "2026-04-18 22:11:20",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9556,7 +9556,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                 name = "Средний флакон с зельем маны",
-                count = 296,
+                count = 289,
                 details = {
                     quality = 1,
                     type = "",
@@ -9628,7 +9628,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5996:0:0:0:0:0:0:0:10|h[Эликсир подводного дыхания]|h|r",
                 name = "Эликсир подводного дыхания",
-                count = 73,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -9712,7 +9712,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                 name = "Большой флакон с лечебным зельем",
-                count = 304,
+                count = 294,
                 details = {
                     quality = 1,
                     type = "",
@@ -9742,6 +9742,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3391:0:0:0:0:0:0:0:10|h[Эликсир силы огра]|h|r",
+                name = "Эликсир силы огра",
+                count = 20,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
                     retention = "",
                 },
             },
@@ -9958,18 +9970,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3391:0:0:0:0:0:0:0:10|h[Эликсир силы огра]|h|r",
-                name = "Эликсир силы огра",
-                count = 30,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
                     retention = "",
                 },
             },
@@ -12710,7 +12710,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-04-18 18:09:33",
+        updated_at = "2026-04-18 22:11:38",
         money = 38278,
         empty = 0,
         location = "Оргриммар",
@@ -12934,7 +12934,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
-                count = 7,
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
