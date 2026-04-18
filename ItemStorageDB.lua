@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776513943
+ItemStorageDB_LastUpdate = 1776513975
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11768,7 +11768,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-18 12:58:34",
+        updated_at = "2026-04-18 15:05:51",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -11822,6 +11822,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37758:0:0:0:0:0:0:0:10|h[Неугасающее колье Рейна]|h|r",
+                name = "Неугасающее колье Рейна",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "76",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37748:0:0:0:0:0:0:0:10|h[Ледяное ожерелье Зимней Спячки]|h|r",
+                name = "Ледяное ожерелье Зимней Спячки",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "69",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:31275:0:0:0:0:0:0:0:10|h[Ожерелье добычи]|h|r",
                 name = "Ожерелье добычи",
                 count = 1,
@@ -11830,6 +11854,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31196:0:0:0:0:0:0:0:10|h[Амулет посвящения]|h|r",
+                name = "Амулет посвящения",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "64",
                     retention = "",
                 },
             },
@@ -11974,6 +12010,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "78",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37821:0:0:0:0:0:0:0:10|h[Разрушительный перстень Рейна]|h|r",
+                name = "Разрушительный перстень Рейна",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "74",
                     retention = "",
                 },
             },
