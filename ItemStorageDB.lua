@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776524638
+ItemStorageDB_LastUpdate = 1776525002
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12734,7 +12734,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-04-18 16:06:08",
+        updated_at = "2026-04-18 18:09:33",
         money = 38278,
         empty = 0,
         location = "Оргриммар",
@@ -12886,7 +12886,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
                 name = "Жезл из истинного серебра",
-                count = 4,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -12898,7 +12898,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                 name = "Арканитовый жезл",
-                count = 4,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -12910,7 +12910,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
                 name = "Жезл из оскверненного железа",
-                count = 4,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -12922,7 +12922,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
                 name = "Адамантитовый жезл",
-                count = 4,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -12958,7 +12958,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
-                count = 1,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
@@ -12970,7 +12970,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 4,
+                count = 7,
                 details = {
                     quality = 1,
                     type = "",
