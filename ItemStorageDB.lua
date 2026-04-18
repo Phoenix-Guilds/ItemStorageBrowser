@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776537843
+ItemStorageDB_LastUpdate = 1776538013
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10157,7 +10157,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-18 19:04:52",
+        updated_at = "2026-04-18 21:46:29",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10307,18 +10307,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
-                name = "Перстень Огнекрылов",
-                count = 8,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
                 name = "Пластины из темного железа",
                 count = 193,
@@ -10346,6 +10334,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
                 name = "Разорванная шкура медведя",
                 count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
+                name = "Реликвия Ульдуара",
+                count = 32,
                 details = {
                     quality = 1,
                     type = "",
@@ -10430,18 +10430,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
                 name = "Усовершенствованный манекен-мишень",
                 count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
-                name = "Реликвия Ульдуара",
-                count = 32,
                 details = {
                     quality = 1,
                     type = "",
