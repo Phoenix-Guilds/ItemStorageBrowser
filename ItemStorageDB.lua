@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776537300
+ItemStorageDB_LastUpdate = 1776537333
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5900,9 +5900,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-18 21:09:46",
+        updated_at = "2026-04-18 21:35:13",
         money = 82572,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -5942,21 +5942,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
-                name = "Зернистое грузило",
-                count = 5,
+                link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
+                name = "Тяжелое точило",
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "5",
+                    required_level = "15",
                     retention = "",
                 },
             },
             {
                 link = "|cffffffff|Hitem:7964:0:0:0:0:0:0:0:10|h[Твердое точило]|h|r",
                 name = "Твердое точило",
-                count = 11,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -5968,12 +5968,24 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12404:0:0:0:0:0:0:0:10|h[Массивное точило]|h|r",
                 name = "Массивное точило",
-                count = 25,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:23528:0:0:0:0:0:0:0:10|h[Точило Скверны]|h|r",
+                name = "Точило Скверны",
+                count = 50,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "50",
                     retention = "",
                 },
             },
@@ -6170,18 +6182,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
-                name = "Малахит",
-                count = 122,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:11754:0:0:0:0:0:0:0:10|h[Черный алмаз]|h|r",
                 name = "Черный алмаз",
                 count = 2,
@@ -6230,6 +6230,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
+                name = "Малахит",
+                count = 122,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:23112:0:0:0:0:0:0:0:10|h[Золотой дренит]|h|r",
                 name = "Золотой дренит",
                 count = 8,
@@ -6244,7 +6256,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36926:0:0:0:0:0:0:0:10|h[Сумрачный кристалл]|h|r",
                 name = "Сумрачный кристалл",
-                count = 10,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
@@ -6268,7 +6280,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36932:0:0:0:0:0:0:0:10|h[Темный нефрит]|h|r",
                 name = "Темный нефрит",
-                count = 10,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
@@ -6292,7 +6304,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36929:0:0:0:0:0:0:0:10|h[Огромный цитрин]|h|r",
                 name = "Огромный цитрин",
-                count = 10,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
@@ -6442,6 +6454,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
+                name = "Зернистое грузило",
+                count = 5,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
                     retention = "",
                 },
             },
