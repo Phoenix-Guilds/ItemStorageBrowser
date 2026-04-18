@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776513411
+ItemStorageDB_LastUpdate = 1776513442
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5720,7 +5720,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-18 12:54:59",
+        updated_at = "2026-04-18 14:56:28",
         money = 82572,
         empty = 15,
         location = "Оргриммар",
@@ -5740,7 +5740,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12644:0:0:0:0:0:0:0:10|h[Массивный шлифовальный камень]|h|r",
                 name = "Массивный шлифовальный камень",
-                count = 70,
+                count = 120,
                 details = {
                     quality = 1,
                     type = "",
@@ -5755,18 +5755,6 @@ ItemStorageDB = {
                 count = 1160,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffa335ee|Hitem:45881:0:0:0:0:0:0:0:10|h[Искрящийся самоцвет бури]|h|r",
-                name = "Искрящийся самоцвет бури",
-                count = 1,
-                details = {
-                    quality = 4,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -5818,6 +5806,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "35",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
+                name = "Грузило Скверны",
+                count = 16,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "50",
                     retention = "",
                 },
             },
@@ -5921,6 +5921,30 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:39919:0:0:0:0:0:0:0:10|h[Цельный кальцедоний]|h|r",
                 name = "Цельный кальцедоний",
                 count = 13,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36932:0:0:0:0:0:0:0:10|h[Темный нефрит]|h|r",
+                name = "Темный нефрит",
+                count = 10,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:23079:0:0:0:0:0:0:0:10|h[Хризолит]|h|r",
+                name = "Хризолит",
+                count = 37,
                 details = {
                     quality = 2,
                     type = "",
@@ -6146,6 +6170,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:23438:0:0:0:0:0:0:0:10|h[Звезда Элуны]|h|r",
+                name = "Звезда Элуны",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:36921:0:0:0:0:0:0:0:10|h[Сияние осени]|h|r",
+                name = "Сияние осени",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:23440:0:0:0:0:0:0:0:10|h[Зоревик]|h|r",
                 name = "Зоревик",
                 count = 10,
@@ -6290,102 +6338,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:36932:0:0:0:0:0:0:0:10|h[Темный нефрит]|h|r",
-                name = "Темный нефрит",
-                count = 10,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:23079:0:0:0:0:0:0:0:10|h[Хризолит]|h|r",
-                name = "Хризолит",
-                count = 37,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
-                name = "Тяжелый шлифовальный камень",
-                count = 138,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
-                name = "Необработанный камень",
-                count = 86,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
-                name = "Грубый камень",
-                count = 301,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
-                name = "Животворный рубин",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:23438:0:0:0:0:0:0:0:10|h[Звезда Элуны]|h|r",
-                name = "Звезда Элуны",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:36921:0:0:0:0:0:0:0:10|h[Сияние осени]|h|r",
-                name = "Сияние осени",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:39911:0:0:0:0:0:0:0:10|h[Рунический кровавый камень]|h|r",
                 name = "Рунический кровавый камень",
                 count = 3,
@@ -6437,6 +6389,66 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:39999:0:0:0:0:0:0:0:10|h[Яркий алый рубин]|h|r",
                 name = "Яркий алый рубин",
                 count = 1,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffa335ee|Hitem:45881:0:0:0:0:0:0:0:10|h[Искрящийся самоцвет бури]|h|r",
+                name = "Искрящийся самоцвет бури",
+                count = 1,
+                details = {
+                    quality = 4,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
+                name = "Тяжелый шлифовальный камень",
+                count = 171,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
+                name = "Необработанный камень",
+                count = 86,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
+                name = "Грубый камень",
+                count = 301,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
+                name = "Животворный рубин",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "",
