@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776525155
+ItemStorageDB_LastUpdate = 1776525217
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8723,7 +8723,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-18 17:57:17",
+        updated_at = "2026-04-18 18:13:36",
         money = 309467,
         empty = 0,
         location = "Оргриммар",
@@ -8947,7 +8947,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
                 name = "Слиток оскверненного железа",
-                count = 130,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -9017,6 +9017,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
+                name = "Золотой слиток",
+                count = 125,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
+                name = "Золотая руда",
+                count = 370,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
                 name = "Адамантитовая руда",
                 count = 284,
@@ -9046,30 +9070,6 @@ ItemStorageDB = {
                 count = 184,
                 details = {
                     quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
-                name = "Золотой слиток",
-                count = 125,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
-                name = "Золотая руда",
-                count = 370,
-                details = {
-                    quality = 2,
                     type = "",
                     subtype = "",
                     required_level = "",
