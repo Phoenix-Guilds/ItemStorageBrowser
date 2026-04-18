@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776517595
+ItemStorageDB_LastUpdate = 1776524244
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8723,7 +8723,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-18 16:04:36",
+        updated_at = "2026-04-18 17:57:17",
         money = 309467,
         empty = 0,
         location = "Оргриммар",
@@ -8885,18 +8885,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
-                name = "Мифриловая руда",
-                count = 258,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
                 count = 343,
@@ -8957,18 +8945,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
-                name = "Руда оскверненного железа",
-                count = 184,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
                 name = "Слиток оскверненного железа",
                 count = 130,
@@ -9017,9 +8993,57 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
+                name = "Мифриловая руда",
+                count = 258,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
                 name = "Медный слиток",
                 count = 350,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
+                name = "Адамантитовая руда",
+                count = 284,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
+                name = "Адамантитовый слиток",
+                count = 250,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
+                name = "Руда оскверненного железа",
+                count = 184,
                 details = {
                     quality = 1,
                     type = "",
@@ -9046,30 +9070,6 @@ ItemStorageDB = {
                 count = 370,
                 details = {
                     quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
-                name = "Адамантитовая руда",
-                count = 284,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
-                name = "Адамантитовый слиток",
-                count = 318,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
