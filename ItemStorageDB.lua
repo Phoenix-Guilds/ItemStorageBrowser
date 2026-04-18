@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776513572
+ItemStorageDB_LastUpdate = 1776513604
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22577,7 +22577,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-18 13:41:37",
+        updated_at = "2026-04-18 14:59:55",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -22787,18 +22787,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
-                name = "Поножи Огненной Гривы",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "34",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                 name = "Штаны из шкуры василиска",
                 count = 2,
@@ -22819,6 +22807,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "28",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13105:0:0:0:0:0:0:0:10|h[Опоясок Сутарна]|h|r",
+                name = "Опоясок Сутарна",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "32",
                     retention = "",
                 },
             },
@@ -22955,18 +22955,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6615:0:0:0:0:0:599:0:10|h[Перчатки книжника со знаком мартышки]|h|r",
-                name = "Перчатки книжника со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "24",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:15084:0:0:0:0:0:0:0:10|h[Гибельные кожаные наручи]|h|r",
                 name = "Гибельные кожаные наручи",
                 count = 2,
@@ -23099,6 +23087,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
+                name = "Покрывало Эми",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "23",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
                 name = "Перчатки Клыка",
                 count = 1,
@@ -23119,6 +23119,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
+                name = "Рукавицы Торбии",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "18",
                     retention = "",
                 },
             },
@@ -23407,18 +23419,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Спина",
                     required_level = "33",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
-                name = "Покрывало Эми",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Спина",
-                    required_level = "23",
                     retention = "",
                 },
             },
@@ -23771,18 +23771,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
-                name = "Рукавицы Торбии",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
                 name = "Решетчатые костяные рукавицы",
                 count = 1,
@@ -23839,6 +23827,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "40",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
+                name = "Поножи Огненной Гривы",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "34",
                     retention = "",
                 },
             },
@@ -23959,6 +23959,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6615:0:0:0:0:0:599:0:10|h[Перчатки книжника со знаком мартышки]|h|r",
+                name = "Перчатки книжника со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "24",
                     retention = "",
                 },
             },
