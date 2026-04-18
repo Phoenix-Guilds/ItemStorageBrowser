@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776525887
+ItemStorageDB_LastUpdate = 1776525949
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24638,7 +24638,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-18 15:45:29",
+        updated_at = "2026-04-18 18:25:36",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -24742,7 +24742,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:21768:0:0:0:0:0:1209:0:10|h[Сапфировый перстень со знаком медведя]|h|r",
                 name = "Сапфировый перстень со знаком медведя",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
