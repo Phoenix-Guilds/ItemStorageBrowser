@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776535088
+ItemStorageDB_LastUpdate = 1776535120
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-18 18:44:35",
+        updated_at = "2026-04-18 20:58:35",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2510,18 +2510,6 @@ ItemStorageDB = {
                     subtype = "Щит",
                     required_level = "54",
                     retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15260:0:0:0:0:0:695:0:10|h[Каменный молот со знаком тигра]|h|r",
-                name = "Каменный молот со знаком тигра",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "33",
-                    retention = "Двуручное",
                 },
             },
             {
