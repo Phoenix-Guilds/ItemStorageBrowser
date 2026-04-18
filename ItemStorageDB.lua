@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776513290
+ItemStorageDB_LastUpdate = 1776513348
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10274,7 +10274,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-18 00:08:29",
+        updated_at = "2026-04-18 14:55:21",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10366,7 +10366,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 518,
+                count = 540,
                 details = {
                     quality = 1,
                     type = "",
