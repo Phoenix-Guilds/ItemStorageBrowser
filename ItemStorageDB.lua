@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776516313
+ItemStorageDB_LastUpdate = 1776516345
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24458,7 +24458,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-18 15:23:09",
+        updated_at = "2026-04-18 15:45:29",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25018,7 +25018,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                 name = "Кольцо защиты",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
@@ -25040,14 +25040,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:29159:0:0:0:0:0:0:0:10|h[Светящееся ториевое кольцо]|h|r",
-                name = "Светящееся ториевое кольцо",
-                count = 1,
+                link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
+                name = "Кольцо сумеречных призраков",
+                count = 3,
                 details = {
                     quality = 2,
                     type = "4",
                     subtype = "Палец",
-                    required_level = "51",
+                    required_level = "23",
                     retention = "",
                 },
             },
@@ -25136,6 +25136,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:29159:0:0:0:0:0:0:0:10|h[Светящееся ториевое кольцо]|h|r",
+                name = "Светящееся ториевое кольцо",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "51",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:21767:0:0:0:0:0:0:0:10|h[Простое опаловое кольцо]|h|r",
                 name = "Простое опаловое кольцо",
                 count = 2,
@@ -25204,18 +25216,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "28",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
-                name = "Кольцо сумеречных призраков",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "23",
                     retention = "",
                 },
             },
