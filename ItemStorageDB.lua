@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776576721
+ItemStorageDB_LastUpdate = 1776576814
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19442,7 +19442,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-18 18:56:57",
+        updated_at = "2026-04-19 08:33:03",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19642,7 +19642,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
-                count = 91,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -19906,7 +19906,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                 name = "Огнецвет",
-                count = 185,
+                count = 150,
                 details = {
                     quality = 1,
                     type = "",
@@ -19942,7 +19942,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
-                count = 107,
+                count = 57,
                 details = {
                     quality = 1,
                     type = "",
