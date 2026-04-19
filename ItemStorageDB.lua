@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776589215
+ItemStorageDB_LastUpdate = 1776589246
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10193,7 +10193,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-18 22:03:22",
+        updated_at = "2026-04-19 12:00:19",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10441,7 +10441,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 647,
+                count = 757,
                 details = {
                     quality = 1,
                     type = "",
@@ -10454,18 +10454,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э\'ко диких совухов]|h|r",
                 name = "Э\'ко диких совухов",
                 count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
-                name = "Усовершенствованный манекен-мишень",
-                count = 2,
                 details = {
                     quality = 1,
                     type = "",
@@ -10490,6 +10478,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
                 count = 60,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
+                name = "Усовершенствованный манекен-мишень",
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
