@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776591259
+ItemStorageDB_LastUpdate = 1776591291
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4778,9 +4778,9 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-19 11:35:29",
+        updated_at = "2026-04-19 12:34:08",
         money = 9680,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -5108,6 +5108,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
+                name = "Первородный воздух",
+                count = 101,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
+                name = "Первородный огонь",
+                count = 35,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
                 name = "Мощный амулет",
                 count = 3,
@@ -5288,9 +5312,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
-                name = "Частица Воды",
-                count = 80,
+                link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
+                name = "Дыхание ветра",
+                count = 60,
                 details = {
                     quality = 1,
                     type = "",
@@ -5300,45 +5324,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
-                name = "Частица Жизни",
-                count = 161,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
-                name = "Первородный огонь",
-                count = 24,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
-                name = "Частица Тени",
-                count = 142,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
-                name = "Первородный воздух",
-                count = 101,
+                link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
+                name = "Лимфа нежити",
+                count = 42,
                 details = {
                     quality = 1,
                     type = "",
@@ -5374,7 +5362,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 36,
+                count = 51,
                 details = {
                     quality = 1,
                     type = "",
@@ -5420,9 +5408,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
+                name = "Частица Воды",
+                count = 80,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22572:0:0:0:0:0:0:0:10|h[Частица Воздуха]|h|r",
                 name = "Частица Воздуха",
                 count = 10,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
+                name = "Частица Жизни",
+                count = 161,
                 details = {
                     quality = 1,
                     type = "",
@@ -5468,21 +5480,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
-                name = "Дыхание ветра",
-                count = 60,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
-                name = "Лимфа нежити",
-                count = 42,
+                link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
+                name = "Частица Тени",
+                count = 142,
                 details = {
                     quality = 1,
                     type = "",
