@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776588917
+ItemStorageDB_LastUpdate = 1776588948
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22937,7 +22937,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-19 11:36:31",
+        updated_at = "2026-04-19 11:55:24",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -23303,30 +23303,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:9859:0:0:0:0:0:863:0:10|h[Шапка лучника со знаком орла]|h|r",
-                name = "Шапка лучника со знаком орла",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "31",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:8161:0:0:0:0:0:0:0:10|h[Баскинет бретера]|h|r",
-                name = "Баскинет бретера",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "40",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:8176:0:0:0:0:0:0:0:10|h[Ночная головная повязка]|h|r",
                 name = "Ночная головная повязка",
                 count = 2,
@@ -23515,6 +23491,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "54",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12999:0:0:0:0:0:0:0:10|h[Драконокрылые поручи]|h|r",
+                name = "Драконокрылые поручи",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
+                name = "Светящиеся магические браслеты",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "26",
                     retention = "",
                 },
             },
@@ -23831,18 +23831,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
-                name = "Светящиеся магические браслеты",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "26",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
                 name = "Наручи Йоргена",
                 count = 1,
@@ -24085,24 +24073,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
                 name = "Окованные серебром прочные ботинки",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12999:0:0:0:0:0:0:0:10|h[Драконокрылые поручи]|h|r",
-                name = "Драконокрылые поручи",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "20",
                     retention = "",
                 },
             },
@@ -24139,6 +24115,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "34",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
+                name = "Ремень Келлера",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "18",
                     retention = "",
                 },
             },
@@ -24487,6 +24475,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:9859:0:0:0:0:0:863:0:10|h[Шапка лучника со знаком орла]|h|r",
+                name = "Шапка лучника со знаком орла",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "31",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:8161:0:0:0:0:0:0:0:10|h[Баскинет бретера]|h|r",
+                name = "Баскинет бретера",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "40",
                     retention = "",
                 },
             },
