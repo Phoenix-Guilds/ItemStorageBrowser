@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776591333
+ItemStorageDB_LastUpdate = 1776591365
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10514,7 +10514,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-19 11:38:23",
+        updated_at = "2026-04-19 12:35:47",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10628,9 +10628,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
+                name = "Мясо тигра",
+                count = 213,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
                 name = "Мясо моллюска",
-                count = 107,
+                count = 108,
                 details = {
                     quality = 1,
                     type = "",
@@ -11108,18 +11120,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
-                name = "Мясо тигра",
-                count = 213,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:12184:0:0:0:0:0:0:0:10|h[Плоть ящера]|h|r",
                 name = "Плоть ящера",
                 count = 131,
@@ -11128,18 +11128,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
-                name = "Сырая каменношкурая треска",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "25",
                     retention = "",
                 },
             },
