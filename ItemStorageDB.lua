@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776593492
+ItemStorageDB_LastUpdate = 1776593523
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7286,143 +7286,11 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-19 12:32:28",
+        updated_at = "2026-04-19 13:11:40",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cffffffff|Hitem:15419:0:0:0:0:0:0:0:10|h[Кожа боевого медведя]|h|r",
-                name = "Кожа боевого медведя",
-                count = 28,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:15407:0:0:0:0:0:0:0:10|h[Обработанная грубая шкура]|h|r",
-                name = "Обработанная грубая шкура",
-                count = 49,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:15412:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракона]|h|r",
-                name = "Чешуя зеленого дракона",
-                count = 33,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:15415:0:0:0:0:0:0:0:10|h[Чешуя синего дракона]|h|r",
-                name = "Чешуя синего дракона",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8165:0:0:0:0:0:0:0:10|h[Потертая драконья чешуя]|h|r",
-                name = "Потертая драконья чешуя",
-                count = 51,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
-                name = "Чешуя скорпида",
-                count = 68,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8172:0:0:0:0:0:0:0:10|h[Обработанная плотная шкура]|h|r",
-                name = "Обработанная плотная шкура",
-                count = 27,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
-                name = "Плотная кожа",
-                count = 696,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
-                name = "Плотная шкура",
-                count = 94,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:5785:0:0:0:0:0:0:0:10|h[Толстая чешуя мурлока]|h|r",
-                name = "Толстая чешуя мурлока",
-                count = 46,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
-                name = "Черепаший панцирь",
-                count = 55,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
@@ -7618,7 +7486,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:38376:0:0:0:0:0:0:0:10|h[Накладки из толстой борейской кожи]|h|r",
                 name = "Накладки из толстой борейской кожи",
-                count = 10,
+                count = 14,
                 details = {
                     quality = 2,
                     type = "",
@@ -7676,9 +7544,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
-                name = "Тонкая кожа",
-                count = 590,
+                link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
+                name = "Шкура ящера",
+                count = 128,
                 details = {
                     quality = 1,
                     type = "",
@@ -7688,9 +7556,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
-                name = "Тонкая кожа кодо",
-                count = 6,
+                link = "|cffffffff|Hitem:4233:0:0:0:0:0:0:0:10|h[Обработанная средняя шкура]|h|r",
+                name = "Обработанная средняя шкура",
+                count = 157,
                 details = {
                     quality = 1,
                     type = "",
@@ -7736,6 +7604,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
+                name = "Тонкая кожа",
+                count = 590,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
                 name = "Чешуя зеленого дракончика",
                 count = 10,
@@ -7760,9 +7640,45 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4233:0:0:0:0:0:0:0:10|h[Обработанная средняя шкура]|h|r",
-                name = "Обработанная средняя шкура",
-                count = 157,
+                link = "|cffffffff|Hitem:33567:0:0:0:0:0:0:0:10|h[Обрывки борейской кожи]|h|r",
+                name = "Обрывки борейской кожи",
+                count = 114,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:25707:0:0:0:0:0:0:0:10|h[Скверношкура]|h|r",
+                name = "Скверношкура",
+                count = 68,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:23793:0:0:0:0:0:0:0:10|h[Толстая узловатая кожа]|h|r",
+                name = "Толстая узловатая кожа",
+                count = 40,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
+                name = "Борейская кожа",
+                count = 679,
                 details = {
                     quality = 1,
                     type = "",
@@ -7808,6 +7724,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
+                name = "Тонкая кожа кодо",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
                 count = 935,
@@ -7832,9 +7760,117 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
-                name = "Шкура ящера",
-                count = 128,
+                link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
+                name = "Грубая кожа",
+                count = 283,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
+                name = "Чешуя скорпида",
+                count = 68,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8172:0:0:0:0:0:0:0:10|h[Обработанная плотная шкура]|h|r",
+                name = "Обработанная плотная шкура",
+                count = 27,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
+                name = "Плотная кожа",
+                count = 696,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:15412:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракона]|h|r",
+                name = "Чешуя зеленого дракона",
+                count = 33,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:15415:0:0:0:0:0:0:0:10|h[Чешуя синего дракона]|h|r",
+                name = "Чешуя синего дракона",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8165:0:0:0:0:0:0:0:10|h[Потертая драконья чешуя]|h|r",
+                name = "Потертая драконья чешуя",
+                count = 51,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
+                name = "Плотная шкура",
+                count = 94,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5785:0:0:0:0:0:0:0:10|h[Толстая чешуя мурлока]|h|r",
+                name = "Толстая чешуя мурлока",
+                count = 46,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
+                name = "Черепаший панцирь",
+                count = 55,
                 details = {
                     quality = 1,
                     type = "",
@@ -7870,7 +7906,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38557:0:0:0:0:0:0:0:10|h[Мерзлая чешуя дракона]|h|r",
                 name = "Мерзлая чешуя дракона",
-                count = 7,
+                count = 8,
                 details = {
                     quality = 1,
                     type = "",
@@ -7892,18 +7928,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
-                name = "Борейская кожа",
-                count = 407,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:38558:0:0:0:0:0:0:0:10|h[Нерубский хитин]|h|r",
                 name = "Нерубский хитин",
                 count = 402,
@@ -7916,9 +7940,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:33567:0:0:0:0:0:0:0:10|h[Обрывки борейской кожи]|h|r",
-                name = "Обрывки борейской кожи",
-                count = 114,
+                link = "|cffffffff|Hitem:25700:0:0:0:0:0:0:0:10|h[Скверночешуя]|h|r",
+                name = "Скверночешуя",
+                count = 53,
                 details = {
                     quality = 1,
                     type = "",
@@ -7928,9 +7952,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:25707:0:0:0:0:0:0:0:10|h[Скверношкура]|h|r",
-                name = "Скверношкура",
-                count = 68,
+                link = "|cffffffff|Hitem:15408:0:0:0:0:0:0:0:10|h[Толстая чешуя скорпида]|h|r",
+                name = "Толстая чешуя скорпида",
+                count = 67,
                 details = {
                     quality = 1,
                     type = "",
@@ -7940,9 +7964,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:23793:0:0:0:0:0:0:0:10|h[Толстая узловатая кожа]|h|r",
-                name = "Толстая узловатая кожа",
-                count = 40,
+                link = "|cffffffff|Hitem:20498:0:0:0:0:0:0:0:10|h[Хитин силитида]|h|r",
+                name = "Хитин силитида",
+                count = 54,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:15416:0:0:0:0:0:0:0:10|h[Чешуя черного дракона]|h|r",
+                name = "Чешуя черного дракона",
+                count = 8,
                 details = {
                     quality = 1,
                     type = "",
@@ -7979,18 +8015,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:25699:0:0:0:0:0:0:0:10|h[Пронизанная кристаллами кожа]|h|r",
                 name = "Пронизанная кристаллами кожа",
                 count = 143,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:25700:0:0:0:0:0:0:0:10|h[Скверночешуя]|h|r",
-                name = "Скверночешуя",
-                count = 53,
                 details = {
                     quality = 1,
                     type = "",
@@ -8060,57 +8084,33 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:15408:0:0:0:0:0:0:0:10|h[Толстая чешуя скорпида]|h|r",
-                name = "Толстая чешуя скорпида",
-                count = 67,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:20498:0:0:0:0:0:0:0:10|h[Хитин силитида]|h|r",
-                name = "Хитин силитида",
-                count = 54,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:15416:0:0:0:0:0:0:0:10|h[Чешуя черного дракона]|h|r",
-                name = "Чешуя черного дракона",
-                count = 8,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
-                name = "Грубая кожа",
-                count = 283,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:8171:0:0:0:0:0:0:0:10|h[Грубая шкура]|h|r",
                 name = "Грубая шкура",
                 count = 85,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:15419:0:0:0:0:0:0:0:10|h[Кожа боевого медведя]|h|r",
+                name = "Кожа боевого медведя",
+                count = 28,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:15407:0:0:0:0:0:0:0:10|h[Обработанная грубая шкура]|h|r",
+                name = "Обработанная грубая шкура",
+                count = 49,
                 details = {
                     quality = 1,
                     type = "",
