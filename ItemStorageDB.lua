@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776591929
+ItemStorageDB_LastUpdate = 1776591961
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11960,7 +11960,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-19 08:41:16",
+        updated_at = "2026-04-19 12:45:39",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -12130,18 +12130,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "76",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:46324:0:0:0:0:0:-91:65:10|h[Спектральный коготь Гондрии с меткой стрелка]|h|r",
-                name = "Спектральный коготь Гондрии с меткой стрелка",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "77",
                     retention = "",
                 },
             },
