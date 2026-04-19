@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776596222
+ItemStorageDB_LastUpdate = 1776596253
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8135,7 +8135,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-04-19 11:43:33",
+        updated_at = "2026-04-19 13:56:52",
         money = 0,
         empty = 0,
         location = "Оргриммар",
@@ -8143,7 +8143,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
                 name = "Даларанская похлебка из моллюсков",
-                count = 14,
+                count = 8,
                 details = {
                     quality = 1,
                     type = "",
@@ -8155,7 +8155,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42942:0:0:0:0:0:0:0:10|h[Печеный морской дьявол]|h|r",
                 name = "Печеный морской дьявол",
-                count = 54,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -8263,7 +8263,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
                 name = "Жареный ящер",
-                count = 54,
+                count = 34,
                 details = {
                     quality = 1,
                     type = "",
