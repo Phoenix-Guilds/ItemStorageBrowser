@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776592727
+ItemStorageDB_LastUpdate = 1776593229
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5912,7 +5912,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-19 12:55:29",
+        updated_at = "2026-04-19 13:07:08",
         money = 82572,
         empty = 15,
         location = "Оргриммар",
@@ -6040,7 +6040,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7967:0:0:0:0:0:0:0:10|h[Мифриловый шип для щита]|h|r",
                 name = "Мифриловый шип для щита",
-                count = 1,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "",
@@ -6064,7 +6064,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:42500:0:0:0:0:0:0:0:10|h[Титановый шип для щита]|h|r",
                 name = "Титановый шип для щита",
-                count = 8,
+                count = 9,
                 details = {
                     quality = 2,
                     type = "",
