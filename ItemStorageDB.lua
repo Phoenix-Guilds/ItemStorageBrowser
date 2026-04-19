@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776615143
+ItemStorageDB_LastUpdate = 1776619439
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8759,7 +8759,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-19 19:03:39",
+        updated_at = "2026-04-19 20:23:55",
         money = 371967,
         empty = 0,
         location = "Оргриммар",
@@ -8839,7 +8839,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
                 name = "Арканитовый слиток",
-                count = 27,
+                count = 24,
                 details = {
                     quality = 2,
                     type = "",
@@ -8851,7 +8851,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6037:0:0:0:0:0:0:0:10|h[Слиток истинного серебра]|h|r",
                 name = "Слиток истинного серебра",
-                count = 247,
+                count = 133,
                 details = {
                     quality = 2,
                     type = "",
@@ -8863,7 +8863,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                 name = "Руда истинного серебра",
-                count = 539,
+                count = 605,
                 details = {
                     quality = 2,
                     type = "",
@@ -8923,7 +8923,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
-                count = 336,
+                count = 265,
                 details = {
                     quality = 1,
                     type = "",
@@ -8935,7 +8935,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
                 name = "Ториевая руда",
-                count = 483,
+                count = 540,
                 details = {
                     quality = 1,
                     type = "",
@@ -8959,7 +8959,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
                 name = "Стальной слиток",
-                count = 37,
+                count = 48,
                 details = {
                     quality = 1,
                     type = "",
@@ -8971,7 +8971,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
                 name = "Железная руда",
-                count = 335,
+                count = 341,
                 details = {
                     quality = 1,
                     type = "",
@@ -8995,7 +8995,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
                 name = "Слиток оскверненного железа",
-                count = 130,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
@@ -9043,7 +9043,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                 name = "Мифриловая руда",
-                count = 160,
+                count = 260,
                 details = {
                     quality = 1,
                     type = "",
@@ -9067,7 +9067,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
                 name = "Золотой слиток",
-                count = 225,
+                count = 126,
                 details = {
                     quality = 2,
                     type = "",
@@ -9089,6 +9089,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
+                name = "Кобальтовая руда",
+                count = 133,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
                 name = "Адамантитовая руда",
                 count = 284,
@@ -9103,7 +9115,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
                 name = "Адамантитовый слиток",
-                count = 318,
+                count = 250,
                 details = {
                     quality = 1,
                     type = "",
@@ -9115,7 +9127,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                 name = "Серебряная руда",
-                count = 40,
+                count = 62,
                 details = {
                     quality = 2,
                     type = "",
@@ -9127,7 +9139,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
                 name = "Серебряный слиток",
-                count = 307,
+                count = 258,
                 details = {
                     quality = 2,
                     type = "",
@@ -9139,19 +9151,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36912:0:0:0:0:0:0:0:10|h[Саронитовая руда]|h|r",
                 name = "Саронитовая руда",
-                count = 100,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
-                name = "Кобальтовая руда",
-                count = 88,
+                count = 250,
                 details = {
                     quality = 1,
                     type = "",
