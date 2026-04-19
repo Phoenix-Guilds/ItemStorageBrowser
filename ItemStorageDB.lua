@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776591834
+ItemStorageDB_LastUpdate = 1776591865
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20276,7 +20276,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-19 08:39:59",
+        updated_at = "2026-04-19 12:44:05",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -20942,14 +20942,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37766:0:0:0:0:0:0:0:10|h[Наручи непрекращающегося воровства]|h|r",
-                name = "Наручи непрекращающегося воровства",
-                count = 1,
+                link = "|cff0070dd|Hitem:37776:0:0:0:0:0:0:0:10|h[Наручи меткого выстрела]|h|r",
+                name = "Наручи меткого выстрела",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Кожа",
-                    required_level = "75",
+                    subtype = "Кольчуга",
+                    required_level = "74",
                     retention = "",
                 },
             },
@@ -21026,18 +21026,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31244:0:0:0:0:0:-7:51:10|h[Штаны из шкуры нага со знаком медведя]|h|r",
-                name = "Штаны из шкуры нага со знаком медведя",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "61",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:31244:0:0:0:0:0:-41:51:10|h[Штаны из шкуры нага с меткой зверя]|h|r",
                 name = "Штаны из шкуры нага с меткой зверя",
                 count = 1,
@@ -21050,13 +21038,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-13:51:10|h[Ножные латы из чешуи нага со знаком волка]|h|r",
-                name = "Ножные латы из чешуи нага со знаком волка",
+                link = "|cff0070dd|Hitem:31244:0:0:0:0:0:-7:51:10|h[Штаны из шкуры нага со знаком медведя]|h|r",
+                name = "Штаны из шкуры нага со знаком медведя",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Латы",
+                    subtype = "Кожа",
                     required_level = "61",
                     retention = "",
                 },
@@ -21226,18 +21214,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "75",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:37776:0:0:0:0:0:0:0:10|h[Наручи меткого выстрела]|h|r",
-                name = "Наручи меткого выстрела",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "74",
                     retention = "",
                 },
             },
@@ -22034,13 +22010,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-8:51:10|h[Набедренники из чешуи нага со знаком кита]|h|r",
-                name = "Набедренники из чешуи нага со знаком кита",
+                link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-13:51:10|h[Ножные латы из чешуи нага со знаком волка]|h|r",
+                name = "Ножные латы из чешуи нага со знаком волка",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Кольчуга",
+                    subtype = "Латы",
                     required_level = "61",
                     retention = "",
                 },
@@ -22072,6 +22048,18 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-10:51:10|h[Набедренники из чешуи нага со знаком гориллы]|h|r",
                 name = "Набедренники из чешуи нага со знаком гориллы",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "61",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-8:51:10|h[Набедренники из чешуи нага со знаком кита]|h|r",
+                name = "Набедренники из чешуи нага со знаком кита",
                 count = 1,
                 details = {
                     quality = 3,
