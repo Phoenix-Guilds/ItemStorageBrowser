@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776602522
+ItemStorageDB_LastUpdate = 1776602553
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10205,7 +10205,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-19 15:17:47",
+        updated_at = "2026-04-19 15:41:48",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10321,7 +10321,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
                 name = "Конечности и панцири некрорахнидов",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
@@ -10502,6 +10502,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
                 name = "Усовершенствованный манекен-мишень",
                 count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22526:0:0:0:0:0:0:0:10|h[Обломки костей]|h|r",
+                name = "Обломки костей",
+                count = 24,
                 details = {
                     quality = 1,
                     type = "",
