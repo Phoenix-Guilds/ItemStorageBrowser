@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776600121
+ItemStorageDB_LastUpdate = 1776600184
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19694,7 +19694,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-19 12:33:29",
+        updated_at = "2026-04-19 15:02:00",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19988,18 +19988,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
-                name = "Магороза",
-                count = 203,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
                 count = 352,
@@ -20012,9 +20000,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
+                name = "Магороза",
+                count = 203,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
                 count = 578,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
+                name = "Королевская кровь",
+                count = 175,
                 details = {
                     quality = 1,
                     type = "",
@@ -20038,7 +20050,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
                 name = "Могильный мох",
-                count = 45,
+                count = 46,
                 details = {
                     quality = 1,
                     type = "",
@@ -20146,7 +20158,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                 name = "Огнецвет",
-                count = 150,
+                count = 151,
                 details = {
                     quality = 1,
                     type = "",
@@ -20207,18 +20219,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                 name = "Корень жизни",
                 count = 123,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
-                name = "Королевская кровь",
-                count = 175,
                 details = {
                     quality = 1,
                     type = "",
