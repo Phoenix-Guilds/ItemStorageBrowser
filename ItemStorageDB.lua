@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776592652
+ItemStorageDB_LastUpdate = 1776592683
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-19 11:54:09",
+        updated_at = "2026-04-19 12:57:39",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2345,14 +2345,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:17055:0:0:0:0:0:0:0:10|h[Чангук сокрушитель]|h|r",
-                name = "Чангук сокрушитель",
+                link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
+                name = "Кубок боли",
                 count = 2,
                 details = {
                     quality = 3,
                     type = "2",
                     subtype = "Дробящее",
-                    required_level = "45",
+                    required_level = "41",
                     retention = "Одноручное",
                 },
             },
@@ -2438,6 +2438,18 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "57",
                     retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
+                name = "Кулачный щит Горного склона",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "41",
+                    retention = "",
                 },
             },
             {
@@ -3113,18 +3125,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
-                name = "Кубок боли",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "41",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
                 name = "Меч Ханзо",
                 count = 1,
@@ -3157,6 +3157,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "48",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:17055:0:0:0:0:0:0:0:10|h[Чангук сокрушитель]|h|r",
+                name = "Чангук сокрушитель",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "45",
                     retention = "Одноручное",
                 },
             },
@@ -3197,14 +3209,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
-                name = "Короткий меч отмщения",
+                link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
+                name = "Жнец Сталвана",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Меч",
-                    required_level = "42",
+                    subtype = "Топор",
+                    required_level = "32",
                     retention = "Одноручное",
                 },
             },
@@ -3271,7 +3283,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13032:0:0:0:0:0:0:0:10|h[Меч Скверны]|h|r",
                 name = "Меч Скверны",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -3353,15 +3365,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
-                name = "Кулачный щит Горного склона",
-                count = 2,
+                link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
+                name = "Короткий меч отмщения",
+                count = 1,
                 details = {
                     quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "41",
-                    retention = "",
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "42",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -3445,18 +3457,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Дробящее",
                     required_level = "33",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
-                name = "Жнец Сталвана",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "32",
                     retention = "Одноручное",
                 },
             },
