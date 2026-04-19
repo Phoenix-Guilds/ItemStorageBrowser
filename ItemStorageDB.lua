@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776603020
+ItemStorageDB_LastUpdate = 1776603052
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24830,7 +24830,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-18 23:06:49",
+        updated_at = "2026-04-19 15:50:24",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25306,7 +25306,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:45627:0:0:0:0:0:0:0:10|h[Амулет проницательности]|h|r",
                 name = "Амулет проницательности",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
