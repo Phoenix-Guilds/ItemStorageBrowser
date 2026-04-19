@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776593697
+ItemStorageDB_LastUpdate = 1776593729
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10502,7 +10502,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-19 12:37:32",
+        updated_at = "2026-04-19 13:15:11",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10546,7 +10546,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43012:0:0:0:0:0:0:0:10|h[Мясо люторога]|h|r",
                 name = "Мясо люторога",
-                count = 22,
+                count = 37,
                 details = {
                     quality = 1,
                     type = "",
@@ -10558,7 +10558,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43010:0:0:0:0:0:0:0:10|h[Мясо червя]|h|r",
                 name = "Мясо червя",
-                count = 93,
+                count = 118,
                 details = {
                     quality = 1,
                     type = "",
@@ -10582,7 +10582,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43011:0:0:0:0:0:0:0:10|h[Окорок ворга]|h|r",
                 name = "Окорок ворга",
-                count = 55,
+                count = 82,
                 details = {
                     quality = 1,
                     type = "",
@@ -10594,7 +10594,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 536,
+                count = 598,
                 details = {
                     quality = 1,
                     type = "",
@@ -10616,9 +10616,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
-                name = "Мясо моллюска",
-                count = 113,
+                link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
+                name = "Мясо тигра",
+                count = 213,
                 details = {
                     quality = 1,
                     type = "",
@@ -10628,9 +10628,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
-                name = "Мясо тигра",
-                count = 213,
+                link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
+                name = "Мясо моллюска",
+                count = 117,
                 details = {
                     quality = 1,
                     type = "",
