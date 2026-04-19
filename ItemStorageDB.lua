@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776592446
+ItemStorageDB_LastUpdate = 1776592495
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9152,7 +9152,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-18 23:49:21",
+        updated_at = "2026-04-19 12:54:52",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9268,7 +9268,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
                 name = "Зелье простой невидимости",
-                count = 5,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -9520,7 +9520,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33448:0:0:0:0:0:0:0:10|h[Рунический флакон с зельем маны]|h|r",
                 name = "Рунический флакон с зельем маны",
-                count = 18,
+                count = 23,
                 details = {
                     quality = 1,
                     type = "",
@@ -9598,18 +9598,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "31",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13512:0:0:0:0:0:0:0:10|h[Настой великой силы]|h|r",
-                name = "Настой великой силы",
-                count = 33,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "50",
                     retention = "",
                 },
             },
@@ -9742,6 +9730,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13512:0:0:0:0:0:0:0:10|h[Настой великой силы]|h|r",
+                name = "Настой великой силы",
+                count = 33,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "50",
                     retention = "",
                 },
             },
