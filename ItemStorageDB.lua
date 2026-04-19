@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776587737
+ItemStorageDB_LastUpdate = 1776587768
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4754,7 +4754,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-19 09:32:01",
+        updated_at = "2026-04-19 11:35:29",
         money = 9680,
         empty = 0,
         location = "Оргриммар",
@@ -4942,7 +4942,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
                 name = "Субстанция Воды",
-                count = 15,
+                count = 17,
                 details = {
                     quality = 2,
                     type = "",
@@ -4954,7 +4954,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7082:0:0:0:0:0:0:0:10|h[Субстанция Воздуха]|h|r",
                 name = "Субстанция Воздуха",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "",
@@ -4966,7 +4966,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
                 name = "Субстанция Жизни",
-                count = 13,
+                count = 15,
                 details = {
                     quality = 2,
                     type = "",
@@ -4990,7 +4990,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 40,
+                count = 39,
                 details = {
                     quality = 2,
                     type = "",
@@ -5002,7 +5002,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 44,
+                count = 45,
                 details = {
                     quality = 2,
                     type = "",
@@ -5084,6 +5084,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
+                name = "Мощный амулет",
+                count = 3,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
+                name = "Настой большого колдунства",
+                count = 31,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
                 count = 105,
@@ -5098,7 +5122,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
                 name = "Синяя жемчужина",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -5146,7 +5170,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                 name = "Северный лотос",
-                count = 1,
+                count = 8,
                 details = {
                     quality = 2,
                     type = "",
@@ -5158,7 +5182,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 24,
+                count = 37,
                 details = {
                     quality = 2,
                     type = "",
@@ -5182,7 +5206,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
                 name = "Кристаллизованная жизнь",
-                count = 108,
+                count = 138,
                 details = {
                     quality = 1,
                     type = "",
@@ -5252,21 +5276,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22572:0:0:0:0:0:0:0:10|h[Частица Воздуха]|h|r",
-                name = "Частица Воздуха",
-                count = 10,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
                 name = "Частица Жизни",
-                count = 79,
+                count = 161,
                 details = {
                     quality = 1,
                     type = "",
@@ -5278,7 +5290,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
-                count = 20,
+                count = 24,
                 details = {
                     quality = 1,
                     type = "",
@@ -5290,7 +5302,31 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
                 name = "Частица Тени",
-                count = 123,
+                count = 142,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
+                name = "Первородный воздух",
+                count = 101,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
+                name = "Магическая сфера воды",
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
@@ -5302,7 +5338,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                 name = "Сердце дикой природы",
-                count = 114,
+                count = 117,
                 details = {
                     quality = 1,
                     type = "",
@@ -5314,7 +5350,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 33,
+                count = 36,
                 details = {
                     quality = 1,
                     type = "",
@@ -5338,7 +5374,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 102,
+                count = 103,
                 details = {
                     quality = 1,
                     type = "",
@@ -5360,33 +5396,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
-                name = "Первородный воздух",
-                count = 98,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
-                name = "Мощный амулет",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
-                name = "Настой большого колдунства",
-                count = 31,
+                link = "|cffffffff|Hitem:22572:0:0:0:0:0:0:0:10|h[Частица Воздуха]|h|r",
+                name = "Частица Воздуха",
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
@@ -5398,7 +5410,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22573:0:0:0:0:0:0:0:10|h[Частица Земли]|h|r",
                 name = "Частица Земли",
-                count = 68,
+                count = 18,
                 details = {
                     quality = 1,
                     type = "",
@@ -5422,7 +5434,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
                 name = "Частица Огня",
-                count = 19,
+                count = 22,
                 details = {
                     quality = 1,
                     type = "",
@@ -5447,18 +5459,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
                 name = "Лимфа нежити",
                 count = 42,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
-                name = "Магическая сфера воды",
-                count = 4,
                 details = {
                     quality = 1,
                     type = "",
