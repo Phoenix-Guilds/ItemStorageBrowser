@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776589184
+ItemStorageDB_LastUpdate = 1776589215
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3857,7 +3857,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-18 15:47:26",
+        updated_at = "2026-04-19 11:59:38",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -4615,6 +4615,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "61",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:24612:0:0:0:0:0:-39:23:10|h[Браслеты Веселого Черепа с меткой заклинателя]|h|r",
+                name = "Браслеты Веселого Черепа с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "60",
                     retention = "",
                 },
             },
