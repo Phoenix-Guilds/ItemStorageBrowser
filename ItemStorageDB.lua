@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776591865
+ItemStorageDB_LastUpdate = 1776591898
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3464,7 +3464,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-18 15:03:43",
+        updated_at = "2026-04-19 12:44:48",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3670,18 +3670,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Лук",
                     required_level = "70",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:41245:0:0:0:0:0:0:0:10|h[Смертоносный саронитовый кортик]|h|r",
-                name = "Смертоносный саронитовый кортик",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Метательное",
-                    required_level = "76",
                     retention = "",
                 },
             },
