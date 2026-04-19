@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776597713
+ItemStorageDB_LastUpdate = 1776598378
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23105,7 +23105,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-19 11:55:24",
+        updated_at = "2026-04-19 14:32:30",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -23999,18 +23999,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
-                name = "Наручи Йоргена",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13072:0:0:0:0:0:0:0:10|h[Рукавицы Каменной хватки]|h|r",
                 name = "Рукавицы Каменной хватки",
                 count = 2,
@@ -24133,7 +24121,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                 name = "Набедренники Снопевца",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
