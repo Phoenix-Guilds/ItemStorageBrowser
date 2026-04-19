@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776588793
+ItemStorageDB_LastUpdate = 1776588854
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-19 11:37:25",
+        updated_at = "2026-04-19 11:54:09",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2441,18 +2441,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
-                name = "Кулачный щит Горного склона",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "41",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                 name = "Эгида Штормграда",
                 count = 2,
@@ -2551,7 +2539,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -3361,6 +3349,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
+                name = "Кулачный щит Горного склона",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "41",
                     retention = "",
                 },
             },
