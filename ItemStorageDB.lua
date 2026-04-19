@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776592526
+ItemStorageDB_LastUpdate = 1776592558
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5912,7 +5912,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-19 12:53:18",
+        updated_at = "2026-04-19 12:55:29",
         money = 82572,
         empty = 15,
         location = "Оргриммар",
@@ -6208,7 +6208,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                 name = "Тигровый глаз",
-                count = 100,
+                count = 101,
                 details = {
                     quality = 2,
                     type = "",
