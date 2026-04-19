@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776591397
+ItemStorageDB_LastUpdate = 1776591428
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15680,7 +15680,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-19 12:35:05",
+        updated_at = "2026-04-19 12:36:49",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -15844,7 +15844,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
                 name = "Сырая каменношкурая треска",
-                count = 337,
+                count = 340,
                 details = {
                     quality = 1,
                     type = "",
