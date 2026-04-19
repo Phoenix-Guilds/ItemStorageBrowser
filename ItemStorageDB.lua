@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776593384
+ItemStorageDB_LastUpdate = 1776593416
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8747,8 +8747,8 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-19 12:51:07",
-        money = 309467,
+        updated_at = "2026-04-19 13:09:54",
+        money = 371967,
         empty = 0,
         location = "Оргриммар",
         items = {
@@ -8839,7 +8839,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6037:0:0:0:0:0:0:0:10|h[Слиток истинного серебра]|h|r",
                 name = "Слиток истинного серебра",
-                count = 183,
+                count = 133,
                 details = {
                     quality = 2,
                     type = "",
@@ -8969,6 +8969,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
+                name = "Руда оскверненного железа",
+                count = 184,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
                 name = "Слиток оскверненного железа",
                 count = 50,
@@ -9065,6 +9077,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
+                name = "Кобальтовая руда",
+                count = 133,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
                 name = "Адамантитовая руда",
                 count = 284,
@@ -9089,21 +9113,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
-                name = "Руда оскверненного железа",
-                count = 184,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                 name = "Серебряная руда",
-                count = 43,
+                count = 50,
                 details = {
                     quality = 2,
                     type = "",
@@ -9115,7 +9127,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
                 name = "Серебряный слиток",
-                count = 307,
+                count = 308,
                 details = {
                     quality = 2,
                     type = "",
@@ -9127,19 +9139,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36912:0:0:0:0:0:0:0:10|h[Саронитовая руда]|h|r",
                 name = "Саронитовая руда",
-                count = 100,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
-                name = "Кобальтовая руда",
-                count = 88,
+                count = 250,
                 details = {
                     quality = 1,
                     type = "",
