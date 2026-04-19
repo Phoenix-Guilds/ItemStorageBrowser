@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776577122
+ItemStorageDB_LastUpdate = 1776577213
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20156,7 +20156,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-18 15:48:08",
+        updated_at = "2026-04-19 08:39:59",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -21112,7 +21112,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37776:0:0:0:0:0:0:0:10|h[Наручи меткого выстрела]|h|r",
                 name = "Наручи меткого выстрела",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -22138,18 +22138,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "77",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44697:3252:0:0:0:0:-40:126:10|h[Одежды валь\'киры с меткой преступника]|h|r",
-                name = "Одежды валь\'киры с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "76",
                     retention = "",
                 },
             },
