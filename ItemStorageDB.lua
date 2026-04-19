@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776600059
+ItemStorageDB_LastUpdate = 1776600121
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7298,7 +7298,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-19 13:12:49",
+        updated_at = "2026-04-19 15:01:24",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -7618,7 +7618,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6470:0:0:0:0:0:0:0:10|h[Искаженная чешуя]|h|r",
                 name = "Искаженная чешуя",
-                count = 91,
+                count = 92,
                 details = {
                     quality = 1,
                     type = "",
@@ -19385,7 +19385,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-19 12:38:08",
+        updated_at = "2026-04-19 15:00:49",
         money = 201502,
         empty = 0,
         location = "Оргриммар",
@@ -19477,7 +19477,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
                 name = "Ткань Скверны",
-                count = 11,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -19645,7 +19645,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                 name = "Тенешелк",
-                count = 114,
+                count = 115,
                 details = {
                     quality = 1,
                     type = "",
@@ -19657,7 +19657,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                 name = "Плотная паутина",
-                count = 138,
+                count = 142,
                 details = {
                     quality = 1,
                     type = "",
