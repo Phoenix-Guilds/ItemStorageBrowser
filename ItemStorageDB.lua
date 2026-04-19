@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776600184
+ItemStorageDB_LastUpdate = 1776600215
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10514,7 +10514,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-19 13:58:27",
+        updated_at = "2026-04-19 15:02:49",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10640,21 +10640,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
-                name = "Мясо моллюска",
-                count = 117,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
-                count = 72,
+                count = 73,
                 details = {
                     quality = 1,
                     type = "",
@@ -10847,6 +10835,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2924:0:0:0:0:0:0:0:10|h[Мясо кроколиска]|h|r",
                 name = "Мясо кроколиска",
                 count = 17,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
+                name = "Мясо моллюска",
+                count = 122,
                 details = {
                     quality = 1,
                     type = "",
@@ -11086,7 +11086,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                 name = "Гигантское яйцо",
-                count = 174,
+                count = 189,
                 details = {
                     quality = 1,
                     type = "",
