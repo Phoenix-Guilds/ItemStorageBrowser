@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776589246
+ItemStorageDB_LastUpdate = 1776589278
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13307,7 +13307,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-18 23:58:13",
+        updated_at = "2026-04-19 12:00:56",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -13829,8 +13829,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11039:0:0:0:0:0:0:0:10|h[Формула чар для плаща - ловкость I]|h|r",
-                name = "Формула чар для плаща - ловкость I",
+                link = "|cff1eff00|Hitem:16215:0:0:0:0:0:0:0:10|h[Формула чар для обуви - выносливость IV]|h|r",
+                name = "Формула чар для обуви - выносливость IV",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13841,8 +13841,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:16215:0:0:0:0:0:0:0:10|h[Формула чар для обуви - выносливость IV]|h|r",
-                name = "Формула чар для обуви - выносливость IV",
+                link = "|cff1eff00|Hitem:16220:0:0:0:0:0:0:0:10|h[Формула чар для обуви - дух II]|h|r",
+                name = "Формула чар для обуви - дух II",
                 count = 1,
                 details = {
                     quality = 2,
@@ -13993,6 +13993,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4345:0:0:0:0:0:0:0:10|h[Выкройка: красные шерстяные сапоги]|h|r",
+                name = "Выкройка: красные шерстяные сапоги",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "15",
                     retention = "",
                 },
             },
@@ -14729,18 +14741,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4345:0:0:0:0:0:0:0:10|h[Выкройка: красные шерстяные сапоги]|h|r",
-                name = "Выкройка: красные шерстяные сапоги",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4292:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шерстяная сумка]|h|r",
                 name = "Выкройка: зеленая шерстяная сумка",
                 count = 1,
@@ -14809,6 +14809,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "38",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14479:0:0:0:0:0:0:0:10|h[Выкройка: перчатки из яркой ткани]|h|r",
+                name = "Выкройка: перчатки из яркой ткани",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "49",
                     retention = "",
                 },
             },
@@ -15281,18 +15293,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:25849:0:0:0:0:0:0:0:10|h[Формула: рунический этерниевый жезл]|h|r",
-                name = "Формула: рунический этерниевый жезл",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:21099:0:0:0:0:0:0:0:10|h[Рецепт: копченый шалфокунь]|h|r",
                 name = "Рецепт: копченый шалфокунь",
                 count = 1,
@@ -15301,6 +15301,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:25849:0:0:0:0:0:0:0:10|h[Формула: рунический этерниевый жезл]|h|r",
+                name = "Формула: рунический этерниевый жезл",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -15451,6 +15463,18 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6344:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух I]|h|r",
                 name = "Формула чар для наручей - дух I",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11039:0:0:0:0:0:0:0:10|h[Формула чар для плаща - ловкость I]|h|r",
+                name = "Формула чар для плаща - ловкость I",
                 count = 1,
                 details = {
                     quality = 2,
