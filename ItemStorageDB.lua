@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776693777
+ItemStorageDB_LastUpdate = 1776693839
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24986,7 +24986,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-20 16:35:42",
+        updated_at = "2026-04-20 17:03:39",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25280,18 +25280,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
-                name = "Варварский железный ошейник",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
                 name = "Амулет Луны",
                 count = 2,
@@ -25366,7 +25354,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
                 name = "Аквамариновая подвеска воина",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -25640,14 +25628,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 2,
+                link = "|cff1eff00|Hitem:20960:0:0:0:0:0:0:0:10|h[Чеканное кольцо из истинного серебра]|h|r",
+                name = "Чеканное кольцо из истинного серебра",
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
+                    subtype = "Палец",
+                    required_level = "32",
                     retention = "",
                 },
             },
@@ -25748,6 +25736,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
+                name = "Малахитовая подвеска",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
+                name = "Варварский железный ошейник",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:29159:0:0:0:0:0:0:0:10|h[Светящееся ториевое кольцо]|h|r",
                 name = "Светящееся ториевое кольцо",
                 count = 1,
@@ -25798,7 +25810,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20961:0:0:0:0:0:0:0:10|h[Цитриновое кольцо быстрого исцеления]|h|r",
                 name = "Цитриновое кольцо быстрого исцеления",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 2,
                     type = "4",
@@ -25822,18 +25834,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12010:0:0:0:0:0:599:0:10|h[Кольцо топей со знаком мартышки]|h|r",
                 name = "Кольцо топей со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "32",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20960:0:0:0:0:0:0:0:10|h[Чеканное кольцо из истинного серебра]|h|r",
-                name = "Чеканное кольцо из истинного серебра",
                 count = 1,
                 details = {
                     quality = 2,
