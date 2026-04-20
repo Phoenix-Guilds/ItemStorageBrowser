@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776718031
+ItemStorageDB_LastUpdate = 1776718092
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19079,7 +19079,7 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-04-20 23:45:07",
+        updated_at = "2026-04-20 23:48:09",
         money = 9245,
         empty = 15,
         location = "Оргриммар",
@@ -19169,59 +19169,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2966:0:0:0:0:0:0:0:10|h[Воинские штаны]|h|r",
-                name = "Воинские штаны",
-                count = 1,
+                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
+                name = "Сумка из прочной ткани Пустоты",
+                count = 6,
                 details = {
                     quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2958:0:0:0:0:0:0:0:10|h[Штаны подмастерья]|h|r",
-                name = "Штаны подмастерья",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
-                name = "Крохотный флакон с лечебным зельем",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:1181:0:0:0:0:0:0:0:10|h[Свиток духа]|h|r",
-                name = "Свиток духа",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
-                name = "Легкая шкура",
-                count = 1,
-                details = {
-                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -19244,18 +19196,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:30747:0:0:0:0:0:0:0:10|h[Мешочек для самоцветов]|h|r",
                 name = "Мешочек для самоцветов",
                 count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
-                name = "Сумка из прочной ткани Пустоты",
-                count = 6,
                 details = {
                     quality = 2,
                     type = "",
