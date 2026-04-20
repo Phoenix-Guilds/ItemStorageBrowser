@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776693653
+ItemStorageDB_LastUpdate = 1776693715
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11183,7 +11183,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-19 12:47:47",
+        updated_at = "2026-04-20 17:01:31",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11305,6 +11305,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "68",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36093:0:0:0:0:0:-40:75:10|h[Вилдерварский мундир с меткой преступника]|h|r",
+                name = "Вилдерварский мундир с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -11473,18 +11485,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "69",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36188:0:0:0:0:0:-40:52:10|h[Ньордские сапоги с меткой преступника]|h|r",
-                name = "Ньордские сапоги с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "68",
                     retention = "",
                 },
             },
@@ -11785,6 +11785,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "67",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:36188:0:0:0:0:0:-40:52:10|h[Ньордские сапоги с меткой преступника]|h|r",
+                name = "Ньордские сапоги с меткой преступника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "68",
                     retention = "",
                 },
             },
