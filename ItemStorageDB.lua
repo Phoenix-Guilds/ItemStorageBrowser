@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776697045
+ItemStorageDB_LastUpdate = 1776697197
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25070,7 +25070,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-20 17:23:43",
+        updated_at = "2026-04-20 17:59:57",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25268,6 +25268,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
+                name = "Ожерелье Калисеи",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "38",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                 name = "Подвеска Скиби",
                 count = 2,
@@ -25342,12 +25354,24 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1443:0:0:0:0:0:0:0:10|h[Изукрашенный амулет Кайнвин]|h|r",
                 name = "Изукрашенный амулет Кайнвин",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 4,
                     type = "4",
                     subtype = "Шея",
                     required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
+                name = "Варварский железный ошейник",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "25",
                     retention = "",
                 },
             },
@@ -25628,18 +25652,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
-                name = "Ожерелье Калисеи",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "38",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
                 count = 3,
@@ -25732,18 +25744,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "13",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
-                name = "Варварский железный ошейник",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "25",
                     retention = "",
                 },
             },
