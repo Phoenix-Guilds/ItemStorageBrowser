@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776702174
+ItemStorageDB_LastUpdate = 1776702228
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10193,7 +10193,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-19 15:41:48",
+        updated_at = "2026-04-20 19:22:50",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10319,6 +10319,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:22526:0:0:0:0:0:0:0:10|h[Обломки костей]|h|r",
+                name = "Обломки костей",
+                count = 24,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:24245:0:0:0:0:0:0:0:10|h[Огнешляпка]|h|r",
                 name = "Огнешляпка",
                 count = 90,
@@ -10379,26 +10391,26 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
-                name = "Реликвия Ульдуара",
-                count = 32,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 37,
+                count = 35,
                 details = {
                     quality = 2,
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
+                name = "Мифриловая обшивка",
+                count = 60,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -10439,6 +10451,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
+                name = "Реликвия Ульдуара",
+                count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
                 count = 727,
@@ -10475,33 +10499,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
-                name = "Мифриловая обшивка",
-                count = 60,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
                 name = "Усовершенствованный манекен-мишень",
                 count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22526:0:0:0:0:0:0:0:10|h[Обломки костей]|h|r",
-                name = "Обломки костей",
-                count = 24,
                 details = {
                     quality = 1,
                     type = "",
