@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776715431
+ItemStorageDB_LastUpdate = 1776715463
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8750,13 +8750,37 @@ ItemStorageDB = {
     },
     {
         name = "Ларец",
-        updated_at = "2026-04-20 19:38:44",
-        money = 11,
+        updated_at = "2026-04-20 23:04:13",
+        money = 1747,
         empty = 0,
         location = "Леса Вечной Песни",
         items = {
             {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:4|h[Камень возвращения]|h|r",
+                link = "|cff1eff00|Hitem:2958:0:0:0:0:0:0:0:8|h[Штаны подмастерья]|h|r",
+                name = "Штаны подмастерья",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:44791:0:0:0:0:0:0:0:8|h[Праздничное шоколадное яйцо]|h|r",
+                name = "Праздничное шоколадное яйцо",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:9|h[Камень возвращения]|h|r",
                 name = "Камень возвращения",
                 count = 1,
                 details = {
@@ -8768,11 +8792,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:20812:0:0:0:0:0:0:0:4|h[Рваная шкура]|h|r",
-                name = "Рваная шкура",
-                count = 7,
+                link = "|cffffffff|Hitem:159:0:0:0:0:0:0:0:9|h[Освежающая ключевая вода]|h|r",
+                name = "Освежающая ключевая вода",
+                count = 21,
                 details = {
-                    quality = 0,
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -8780,11 +8804,23 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:20813:0:0:0:0:0:0:0:4|h[Зуб рыси]|h|r",
-                name = "Зуб рыси",
-                count = 7,
+                link = "|cffffffff|Hitem:45067:0:0:0:0:0:0:0:9|h[Корзина для яиц]|h|r",
+                name = "Корзина для яиц",
+                count = 1,
                 details = {
-                    quality = 0,
+                    quality = 1,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:45073:0:0:0:0:0:0:0:9|h[Весенние цветы]|h|r",
+                name = "Весенние цветы",
+                count = 1,
+                details = {
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
@@ -8792,8 +8828,20 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:20797:0:0:0:0:0:0:0:4|h[Ошейник рыси]|h|r",
-                name = "Ошейник рыси",
+                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:9|h[Крохотный флакон с лечебным зельем]|h|r",
+                name = "Крохотный флакон с лечебным зельем",
+                count = 3,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22413:0:0:0:0:0:0:0:9|h[Оружие син\'дорай]|h|r",
+                name = "Оружие син\'дорай",
                 count = 8,
                 details = {
                     quality = 1,
@@ -8804,20 +8852,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:21022:0:0:0:0:0:0:0:4|h[Потрепанный кулачный щит]|h|r",
-                name = "Потрепанный кулачный щит",
-                count = 1,
-                details = {
-                    quality = 0,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:20472:0:0:0:0:0:0:0:4|h[Дневник Соланиана]|h|r",
-                name = "Дневник Соланиана",
+                link = "|cffffffff|Hitem:22473:0:0:0:0:0:0:0:9|h[Карающий жезл Антеола]|h|r",
+                name = "Карающий жезл Антеола",
                 count = 1,
                 details = {
                     quality = 1,
@@ -8828,57 +8864,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff9d9d9d|Hitem:20842:0:0:0:0:0:0:0:4|h[Сломанная ветвь]|h|r",
-                name = "Сломанная ветвь",
-                count = 44,
+                link = "|cffffffff|Hitem:21776:0:0:0:0:0:0:0:9|h[Утраченные бумаги капитана Келисендры]|h|r",
+                name = "Утраченные бумаги капитана Келисендры",
+                count = 1,
                 details = {
-                    quality = 0,
+                    quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "",
+                    required_level = "5",
                     retention = "",
                 },
             },
             {
-                link = "|cffffffff|Hitem:20482:0:0:0:0:0:0:0:4|h[Магический осколок]|h|r",
-                name = "Магический осколок",
+                link = "|cffffffff|Hitem:21771:0:0:0:0:0:0:0:9|h[Груз капитана Келисендры]|h|r",
+                name = "Груз капитана Келисендры",
                 count = 6,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff9d9d9d|Hitem:20843:0:0:0:0:0:0:0:4|h[Раздавленный цветок]|h|r",
-                name = "Раздавленный цветок",
-                count = 19,
-                details = {
-                    quality = 0,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:20470:0:0:0:0:0:0:0:4|h[Гадальный шар Соланиана]|h|r",
-                name = "Гадальный шар Соланиана",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:20471:0:0:0:0:0:0:0:4|h[Свиток магии Плети]|h|r",
-                name = "Свиток магии Плети",
-                count = 1,
                 details = {
                     quality = 1,
                     type = "",
