@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776694702
+ItemStorageDB_LastUpdate = 1776694794
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19601,7 +19601,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-20 17:09:30",
+        updated_at = "2026-04-20 17:19:47",
         money = 201502,
         empty = 0,
         location = "Оргриммар",
@@ -19847,9 +19847,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
+                name = "Паутина",
+                count = 272,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 656,
+                count = 778,
                 details = {
                     quality = 1,
                     type = "",
@@ -19861,7 +19873,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 594,
+                count = 728,
                 details = {
                     quality = 1,
                     type = "",
@@ -19874,18 +19886,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
                 name = "Рулон шерсти",
                 count = 94,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
-                name = "Паутина",
-                count = 272,
                 details = {
                     quality = 1,
                     type = "",
