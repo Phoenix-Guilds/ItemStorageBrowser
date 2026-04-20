@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776703069
+ItemStorageDB_LastUpdate = 1776703101
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8750,14 +8750,134 @@ ItemStorageDB = {
     },
     {
         name = "Ларец",
-        updated_at = "2026-04-17 21:24:44",
-        money = 0,
+        updated_at = "2026-04-20 19:37:59",
+        money = 11,
         empty = 0,
         location = "Леса Вечной Песни",
         items = {
             {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:1|h[Камень возвращения]|h|r",
+                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:4|h[Камень возвращения]|h|r",
                 name = "Камень возвращения",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:20812:0:0:0:0:0:0:0:4|h[Рваная шкура]|h|r",
+                name = "Рваная шкура",
+                count = 7,
+                details = {
+                    quality = 0,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:20813:0:0:0:0:0:0:0:4|h[Зуб рыси]|h|r",
+                name = "Зуб рыси",
+                count = 7,
+                details = {
+                    quality = 0,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:20797:0:0:0:0:0:0:0:4|h[Ошейник рыси]|h|r",
+                name = "Ошейник рыси",
+                count = 8,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:21022:0:0:0:0:0:0:0:4|h[Потрепанный кулачный щит]|h|r",
+                name = "Потрепанный кулачный щит",
+                count = 1,
+                details = {
+                    quality = 0,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:20472:0:0:0:0:0:0:0:4|h[Дневник Соланиана]|h|r",
+                name = "Дневник Соланиана",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:20842:0:0:0:0:0:0:0:4|h[Сломанная ветвь]|h|r",
+                name = "Сломанная ветвь",
+                count = 44,
+                details = {
+                    quality = 0,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:20482:0:0:0:0:0:0:0:4|h[Магический осколок]|h|r",
+                name = "Магический осколок",
+                count = 6,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff9d9d9d|Hitem:20843:0:0:0:0:0:0:0:4|h[Раздавленный цветок]|h|r",
+                name = "Раздавленный цветок",
+                count = 19,
+                details = {
+                    quality = 0,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:20470:0:0:0:0:0:0:0:4|h[Гадальный шар Соланиана]|h|r",
+                name = "Гадальный шар Соланиана",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:20471:0:0:0:0:0:0:0:4|h[Свиток магии Плети]|h|r",
+                name = "Свиток магии Плети",
                 count = 1,
                 details = {
                     quality = 1,
