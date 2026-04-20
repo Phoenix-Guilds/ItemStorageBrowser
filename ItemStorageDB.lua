@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776687852
+ItemStorageDB_LastUpdate = 1776688276
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4778,9 +4778,9 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-19 18:55:51",
+        updated_at = "2026-04-20 15:31:07",
         money = 9680,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -5014,7 +5014,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 39,
+                count = 38,
                 details = {
                     quality = 2,
                     type = "",
@@ -5098,7 +5098,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                 name = "Черный купорос",
-                count = 92,
+                count = 91,
                 details = {
                     quality = 1,
                     type = "",
@@ -5242,7 +5242,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 20,
+                count = 13,
                 details = {
                     quality = 2,
                     type = "",
@@ -5338,7 +5338,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
                 name = "Лимфа нежити",
-                count = 55,
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
@@ -5362,7 +5362,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                 name = "Сердце дикой природы",
-                count = 117,
+                count = 67,
                 details = {
                     quality = 1,
                     type = "",
