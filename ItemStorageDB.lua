@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776717056
+ItemStorageDB_LastUpdate = 1776717068
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8750,13 +8750,25 @@ ItemStorageDB = {
     },
     {
         name = "Ларец",
-        updated_at = "2026-04-20 23:04:13",
-        money = 1747,
+        updated_at = "2026-04-20 23:31:01",
+        money = 3701,
         empty = 0,
-        location = "Леса Вечной Песни",
+        location = "Оргриммар",
         items = {
             {
-                link = "|cff1eff00|Hitem:2958:0:0:0:0:0:0:0:8|h[Штаны подмастерья]|h|r",
+                link = "|cff1eff00|Hitem:2966:0:0:0:0:0:0:0:10|h[Воинские штаны]|h|r",
+                name = "Воинские штаны",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2958:0:0:0:0:0:0:0:10|h[Штаны подмастерья]|h|r",
                 name = "Штаны подмастерья",
                 count = 1,
                 details = {
@@ -8768,67 +8780,7 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:44791:0:0:0:0:0:0:0:8|h[Праздничное шоколадное яйцо]|h|r",
-                name = "Праздничное шоколадное яйцо",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:9|h[Камень возвращения]|h|r",
-                name = "Камень возвращения",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:159:0:0:0:0:0:0:0:9|h[Освежающая ключевая вода]|h|r",
-                name = "Освежающая ключевая вода",
-                count = 21,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:45067:0:0:0:0:0:0:0:9|h[Корзина для яиц]|h|r",
-                name = "Корзина для яиц",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:45073:0:0:0:0:0:0:0:9|h[Весенние цветы]|h|r",
-                name = "Весенние цветы",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:9|h[Крохотный флакон с лечебным зельем]|h|r",
+                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
                 name = "Крохотный флакон с лечебным зельем",
                 count = 3,
                 details = {
@@ -8840,20 +8792,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22413:0:0:0:0:0:0:0:9|h[Оружие син\'дорай]|h|r",
-                name = "Оружие син\'дорай",
-                count = 8,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22473:0:0:0:0:0:0:0:9|h[Карающий жезл Антеола]|h|r",
-                name = "Карающий жезл Антеола",
+                link = "|cffffffff|Hitem:1181:0:0:0:0:0:0:0:10|h[Свиток духа]|h|r",
+                name = "Свиток духа",
                 count = 1,
                 details = {
                     quality = 1,
@@ -8864,21 +8804,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:21776:0:0:0:0:0:0:0:9|h[Утраченные бумаги капитана Келисендры]|h|r",
-                name = "Утраченные бумаги капитана Келисендры",
+                link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
+                name = "Легкая шкура",
                 count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:21771:0:0:0:0:0:0:0:9|h[Груз капитана Келисендры]|h|r",
-                name = "Груз капитана Келисендры",
-                count = 6,
                 details = {
                     quality = 1,
                     type = "",
