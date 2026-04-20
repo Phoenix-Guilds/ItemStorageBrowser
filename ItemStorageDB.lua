@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776692612
+ItemStorageDB_LastUpdate = 1776692674
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13355,7 +13355,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-20 16:15:43",
+        updated_at = "2026-04-20 16:44:20",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -13877,30 +13877,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:16245:0:0:0:0:0:0:0:10|h[Формула: зачаровывание обуви - ловкость, III ступень]|h|r",
-                name = "Формула: зачаровывание обуви - ловкость, III ступень",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:16248:0:0:0:0:0:0:0:10|h[Формула чар для оружия - нечестивое оружие]|h|r",
-                name = "Формула чар для оружия - нечестивое оружие",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:13488:0:0:0:0:0:0:0:10|h[Рецепт: трансмутация жизни в землю]|h|r",
                 name = "Рецепт: трансмутация жизни в землю",
                 count = 1,
@@ -13961,6 +13937,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:3868:0:0:0:0:0:0:0:10|h[Чертеж: клинок ледяного тигра]|h|r",
+                name = "Чертеж: клинок ледяного тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "35",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:12682:0:0:0:0:0:0:0:10|h[Чертеж: ториевая броня]|h|r",
                 name = "Чертеж: ториевая броня",
                 count = 1,
@@ -13969,6 +13957,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Латы",
                     required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12692:0:0:0:0:0:0:0:10|h[Чертеж: ториевый шип для щита]|h|r",
+                name = "Чертеж: ториевый шип для щита",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -14981,66 +14981,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:25849:0:0:0:0:0:0:0:10|h[Формула: рунический этерниевый жезл]|h|r",
-                name = "Формула: рунический этерниевый жезл",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:21099:0:0:0:0:0:0:0:10|h[Рецепт: копченый шалфокунь]|h|r",
-                name = "Рецепт: копченый шалфокунь",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12227:0:0:0:0:0:0:0:10|h[Рецепт: постный стейк из волчатины]|h|r",
-                name = "Рецепт: постный стейк из волчатины",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3735:0:0:0:0:0:0:0:10|h[Рецепт: острая отбивная из мяса льва]|h|r",
-                name = "Рецепт: острая отбивная из мяса льва",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3734:0:0:0:0:0:0:0:10|h[Рецепт: большой медвежий стейк]|h|r",
-                name = "Рецепт: большой медвежий стейк",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:4294:0:0:0:0:0:0:0:10|h[Выкройка: пояс жителя холмов]|h|r",
                 name = "Выкройка: пояс жителя холмов",
                 count = 1,
@@ -15401,6 +15341,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:12227:0:0:0:0:0:0:0:10|h[Рецепт: постный стейк из волчатины]|h|r",
+                name = "Рецепт: постный стейк из волчатины",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3735:0:0:0:0:0:0:0:10|h[Рецепт: острая отбивная из мяса льва]|h|r",
+                name = "Рецепт: острая отбивная из мяса льва",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:3734:0:0:0:0:0:0:0:10|h[Рецепт: большой медвежий стейк]|h|r",
+                name = "Рецепт: большой медвежий стейк",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:17062:0:0:0:0:0:0:0:10|h[Рецепт: мифрилоголовая форель]|h|r",
                 name = "Рецепт: мифрилоголовая форель",
                 count = 1,
@@ -15421,6 +15397,30 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:25849:0:0:0:0:0:0:0:10|h[Формула: рунический этерниевый жезл]|h|r",
+                name = "Формула: рунический этерниевый жезл",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:21099:0:0:0:0:0:0:0:10|h[Рецепт: копченый шалфокунь]|h|r",
+                name = "Рецепт: копченый шалфокунь",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "10",
                     retention = "",
                 },
             },
@@ -15559,6 +15559,30 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:16220:0:0:0:0:0:0:0:10|h[Формула чар для обуви - дух II]|h|r",
                 name = "Формула чар для обуви - дух II",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:16245:0:0:0:0:0:0:0:10|h[Формула: зачаровывание обуви - ловкость, III ступень]|h|r",
+                name = "Формула: зачаровывание обуви - ловкость, III ступень",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:16248:0:0:0:0:0:0:0:10|h[Формула чар для оружия - нечестивое оружие]|h|r",
+                name = "Формула чар для оружия - нечестивое оружие",
                 count = 1,
                 details = {
                     quality = 2,
