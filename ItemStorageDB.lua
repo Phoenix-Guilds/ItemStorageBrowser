@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776695076
+ItemStorageDB_LastUpdate = 1776695138
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-20 16:13:22",
+        updated_at = "2026-04-20 17:25:19",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2441,18 +2441,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
-                name = "Фамильный щит Гарреттов",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "57",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                 name = "Зеленая башня",
                 count = 1,
@@ -2568,6 +2556,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Дробящее",
+                    required_level = "23",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
+                name = "Кровавая пика",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Древковое",
                     required_level = "23",
                     retention = "Двуручное",
                 },
@@ -3373,6 +3373,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "49",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
+                name = "Фамильный щит Гарреттов",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "57",
                     retention = "",
                 },
             },
