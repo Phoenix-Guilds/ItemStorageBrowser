@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776777565
+ItemStorageDB_LastUpdate = 1776779075
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3488,7 +3488,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-21 09:07:20",
+        updated_at = "2026-04-21 16:44:20",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3664,7 +3664,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37749:20242:0:0:0:0:0:0:10|h[Ударные когти]|h|r",
                 name = "Ударные когти",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
@@ -3760,7 +3760,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37810:0:0:0:0:0:0:0:10|h[Оплот-мечелом]|h|r",
                 name = "Оплот-мечелом",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
