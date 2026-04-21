@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776750004
+ItemStorageDB_LastUpdate = 1776750035
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19754,7 +19754,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-20 17:10:02",
+        updated_at = "2026-04-21 08:40:14",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -19966,7 +19966,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                 name = "Масляный черноротик",
-                count = 99,
+                count = 134,
                 details = {
                     quality = 1,
                     type = "",
@@ -20074,7 +20074,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 208,
+                count = 222,
                 details = {
                     quality = 1,
                     type = "",
@@ -20144,57 +20144,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
-                name = "Сквернопля",
-                count = 344,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
-                name = "Терошишка",
-                count = 151,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
-                name = "Ледяной зев",
-                count = 67,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
-                name = "Чумоцвет",
-                count = 41,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
-                name = "Горный серебряный шалфей",
-                count = 18,
+                link = "|cffffffff|Hitem:13422:0:0:0:0:0:0:0:10|h[Каменный угорь]|h|r",
+                name = "Каменный угорь",
+                count = 19,
                 details = {
                     quality = 1,
                     type = "",
@@ -20267,6 +20219,66 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
                 count = 152,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
+                name = "Сквернопля",
+                count = 344,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
+                name = "Терошишка",
+                count = 151,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
+                name = "Ледяной зев",
+                count = 67,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
+                name = "Чумоцвет",
+                count = 41,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
+                name = "Горный серебряный шалфей",
+                count = 18,
                 details = {
                     quality = 1,
                     type = "",
@@ -20350,7 +20362,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                 name = "Лиловый лотос",
-                count = 136,
+                count = 137,
                 details = {
                     quality = 1,
                     type = "",
