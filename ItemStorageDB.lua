@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776751665
+ItemStorageDB_LastUpdate = 1776751697
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25010,7 +25010,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-20 17:59:57",
+        updated_at = "2026-04-21 09:08:00",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25676,18 +25676,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:1996:0:0:0:0:0:0:0:10|h[Кольцо вуду]|h|r",
                 name = "Кольцо вуду",
                 count = 2,
@@ -25792,6 +25780,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
+                name = "Малахитовая подвеска",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "13",
                     retention = "",
                 },
             },
