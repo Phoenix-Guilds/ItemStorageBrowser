@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776794375
+ItemStorageDB_LastUpdate = 1776797779
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25130,7 +25130,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-21 19:31:29",
+        updated_at = "2026-04-21 21:55:55",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25450,7 +25450,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
                 name = "Подвеска Агатового Щита",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -25700,90 +25700,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:1996:0:0:0:0:0:0:0:10|h[Кольцо вуду]|h|r",
-                name = "Кольцо вуду",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "32",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12010:0:0:0:0:0:599:0:10|h[Кольцо топей со знаком мартышки]|h|r",
-                name = "Кольцо топей со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "32",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20958:0:0:0:0:0:0:0:10|h[Пылающее цитриновое кольцо]|h|r",
-                name = "Пылающее цитриновое кольцо",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
-                name = "Кольцо золотого дракона",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "28",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12008:0:0:0:0:0:593:0:10|h[Кольцо саванны со знаком мартышки]|h|r",
-                name = "Кольцо саванны со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
-                name = "Кольцо сумеречных призраков",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12006:0:0:0:0:0:587:0:10|h[Кольцо долин со знаком мартышки]|h|r",
-                name = "Кольцо долин со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
                 count = 3,
@@ -25876,6 +25792,90 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "13",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:1996:0:0:0:0:0:0:0:10|h[Кольцо вуду]|h|r",
+                name = "Кольцо вуду",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "32",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12010:0:0:0:0:0:599:0:10|h[Кольцо топей со знаком мартышки]|h|r",
+                name = "Кольцо топей со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "32",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20958:0:0:0:0:0:0:0:10|h[Пылающее цитриновое кольцо]|h|r",
+                name = "Пылающее цитриновое кольцо",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
+                name = "Кольцо золотого дракона",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "28",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12008:0:0:0:0:0:593:0:10|h[Кольцо саванны со знаком мартышки]|h|r",
+                name = "Кольцо саванны со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
+                name = "Кольцо сумеречных призраков",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:12006:0:0:0:0:0:587:0:10|h[Кольцо долин со знаком мартышки]|h|r",
+                name = "Кольцо долин со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "17",
                     retention = "",
                 },
             },
