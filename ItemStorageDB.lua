@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776787004
+ItemStorageDB_LastUpdate = 1776787036
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19592,7 +19592,7 @@ ItemStorageDB = {
     },
     {
         name = "Тернистая",
-        updated_at = "2026-04-21 09:04:13",
+        updated_at = "2026-04-21 18:56:50",
         money = 156218,
         empty = 0,
         location = "Оргриммар",
@@ -19600,7 +19600,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2725:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 1]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 1",
-                count = 39,
+                count = 38,
                 details = {
                     quality = 1,
                     type = "",
@@ -19612,7 +19612,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2734:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 10]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 10",
-                count = 46,
+                count = 45,
                 details = {
                     quality = 1,
                     type = "",
@@ -19624,7 +19624,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2735:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 11]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 11",
-                count = 30,
+                count = 29,
                 details = {
                     quality = 1,
                     type = "",
@@ -19636,7 +19636,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2738:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 14]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 14",
-                count = 33,
+                count = 32,
                 details = {
                     quality = 1,
                     type = "",
@@ -19648,7 +19648,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2740:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 16]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 16",
-                count = 45,
+                count = 44,
                 details = {
                     quality = 1,
                     type = "",
@@ -19660,7 +19660,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2742:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 18]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 18",
-                count = 46,
+                count = 45,
                 details = {
                     quality = 1,
                     type = "",
@@ -19672,7 +19672,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2744:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 20]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 20",
-                count = 42,
+                count = 41,
                 details = {
                     quality = 1,
                     type = "",
@@ -19684,7 +19684,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2745:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 21]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 21",
-                count = 39,
+                count = 38,
                 details = {
                     quality = 1,
                     type = "",
@@ -19696,7 +19696,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2748:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 24]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 24",
-                count = 41,
+                count = 40,
                 details = {
                     quality = 1,
                     type = "",
@@ -19708,7 +19708,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2749:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 25]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 25",
-                count = 53,
+                count = 52,
                 details = {
                     quality = 1,
                     type = "",
@@ -19720,7 +19720,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2750:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 26]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 26",
-                count = 45,
+                count = 44,
                 details = {
                     quality = 1,
                     type = "",
@@ -19732,7 +19732,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2751:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 27]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 27",
-                count = 38,
+                count = 37,
                 details = {
                     quality = 1,
                     type = "",
@@ -19744,7 +19744,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2728:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 4]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 4",
-                count = 38,
+                count = 37,
                 details = {
                     quality = 1,
                     type = "",
@@ -19756,7 +19756,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2730:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 6]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 6",
-                count = 44,
+                count = 43,
                 details = {
                     quality = 1,
                     type = "",
@@ -19768,7 +19768,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2732:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 8]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 8",
-                count = 37,
+                count = 36,
                 details = {
                     quality = 1,
                     type = "",
