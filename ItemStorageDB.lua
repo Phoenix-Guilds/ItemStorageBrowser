@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776786678
+ItemStorageDB_LastUpdate = 1776786710
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23525,7 +23525,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-21 09:14:21",
+        updated_at = "2026-04-21 18:51:23",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -23713,7 +23713,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13102:0:0:0:0:0:0:0:10|h[Милость Кассандры]|h|r",
                 name = "Милость Кассандры",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -24301,7 +24301,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                 name = "Крыло дракончика",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
