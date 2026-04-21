@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776786710
+ItemStorageDB_LastUpdate = 1776786741
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25202,7 +25202,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-21 09:08:00",
+        updated_at = "2026-04-21 18:52:02",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25784,6 +25784,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
+                name = "Малахитовая подвеска",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
                 count = 3,
@@ -25846,7 +25858,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
                 name = "Кольцо очищения",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -25882,18 +25894,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12010:0:0:0:0:0:599:0:10|h[Кольцо топей со знаком мартышки]|h|r",
                 name = "Кольцо топей со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "32",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20960:0:0:0:0:0:0:0:10|h[Чеканное кольцо из истинного серебра]|h|r",
-                name = "Чеканное кольцо из истинного серебра",
                 count = 1,
                 details = {
                     quality = 2,
@@ -25952,18 +25952,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11982:0:0:0:0:0:758:0:10|h[Иридиевое кольцо со знаком совы]|h|r",
-                name = "Иридиевое кольцо со знаком совы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:12006:0:0:0:0:0:587:0:10|h[Кольцо долин со знаком мартышки]|h|r",
                 name = "Кольцо долин со знаком мартышки",
                 count = 1,
@@ -25972,18 +25960,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
                     retention = "",
                 },
             },
