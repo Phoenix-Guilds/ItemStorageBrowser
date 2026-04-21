@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776789292
+ItemStorageDB_LastUpdate = 1776790078
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12140,7 +12140,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-19 12:45:39",
+        updated_at = "2026-04-21 19:47:48",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -12417,18 +12417,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "4",
                     subtype = "Идол",
-                    required_level = "60",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
-                name = "Манускрипт страсти",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Манускрипт",
                     required_level = "60",
                     retention = "",
                 },
