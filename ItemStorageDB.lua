@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776751375
+ItemStorageDB_LastUpdate = 1776751407
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6701,7 +6701,7 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = "2026-04-19 14:59:57",
+        updated_at = "2026-04-21 09:03:25",
         money = 2404282,
         empty = 0,
         location = "Оргриммар",
@@ -7091,18 +7091,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
-                name = "Колода Мечей",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "",
-                    subtype = "",
-                    required_level = "20",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
                 count = 5,
@@ -7111,6 +7099,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
+                name = "Колода Мечей",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "",
+                    subtype = "",
+                    required_level = "20",
                     retention = "",
                 },
             },
