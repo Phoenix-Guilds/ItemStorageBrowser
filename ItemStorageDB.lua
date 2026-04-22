@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776878040
+ItemStorageDB_LastUpdate = 1776878072
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12401,7 +12401,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-04-20 21:57:58",
+        updated_at = "2026-04-22 20:14:11",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -12445,7 +12445,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 2,
+                count = 4,
                 details = {
                     quality = 4,
                     type = "2",
@@ -12767,6 +12767,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
+                name = "Жезл Аллистария",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "45",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
                 name = "Раскалывающий череп арбалет",
                 count = 5,
@@ -12858,18 +12870,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Огнестрельное",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
-                name = "Жезл Аллистария",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
                     required_level = "45",
                     retention = "",
                 },
