@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776877019
+ItemStorageDB_LastUpdate = 1776877051
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4766,7 +4766,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-21 18:47:03",
+        updated_at = "2026-04-22 19:57:21",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -5026,7 +5026,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
                 name = "Сумрачная жемчужина",
-                count = 15,
+                count = 18,
                 details = {
                     quality = 2,
                     type = "",
@@ -5050,7 +5050,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
                 name = "Жемчужина джаггала",
-                count = 21,
+                count = 24,
                 details = {
                     quality = 2,
                     type = "",
@@ -5168,18 +5168,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
-                name = "Частица Тени",
-                count = 155,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
                 name = "Дыхание ветра",
                 count = 54,
@@ -5266,7 +5254,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
-                count = 51,
+                count = 52,
                 details = {
                     quality = 1,
                     type = "",
@@ -5314,7 +5302,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                 name = "Северный лотос",
-                count = 9,
+                count = 14,
                 details = {
                     quality = 2,
                     type = "",
@@ -5410,7 +5398,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
                 name = "Частица Воды",
-                count = 80,
+                count = 82,
                 details = {
                     quality = 1,
                     type = "",
@@ -5434,7 +5422,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
                 name = "Частица Жизни",
-                count = 161,
+                count = 193,
                 details = {
                     quality = 1,
                     type = "",
@@ -5471,6 +5459,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
                 name = "Частица Огня",
                 count = 22,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
+                name = "Частица Тени",
+                count = 157,
                 details = {
                     quality = 1,
                     type = "",
