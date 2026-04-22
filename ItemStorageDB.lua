@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776877977
+ItemStorageDB_LastUpdate = 1776878009
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25082,7 +25082,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-22 19:52:50",
+        updated_at = "2026-04-22 20:12:57",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25280,21 +25280,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
-                name = "Ожерелье Калисеи",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "38",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                 name = "Подвеска Скиби",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
@@ -25372,18 +25360,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "55",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
                     retention = "",
                 },
             },
@@ -25628,6 +25604,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
+                name = "Ожерелье Калисеи",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "38",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1015:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком кита",
                 count = 2,
@@ -25720,6 +25708,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "51",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
+                name = "Малахитовая подвеска",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "13",
                     retention = "",
                 },
             },
