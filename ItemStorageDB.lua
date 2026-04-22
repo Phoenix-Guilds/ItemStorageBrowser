@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776877146
+ItemStorageDB_LastUpdate = 1776877177
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10241,7 +10241,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-22 19:25:00",
+        updated_at = "2026-04-22 19:59:08",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10297,7 +10297,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                 name = "Рыбий жир",
-                count = 67,
+                count = 71,
                 details = {
                     quality = 1,
                     type = "",
@@ -10309,7 +10309,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
                 name = "Дикий росток",
-                count = 99,
+                count = 115,
                 details = {
                     quality = 1,
                     type = "",
@@ -10427,6 +10427,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
+                name = "Реликвия Ульдуара",
+                count = 32,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
                 count = 38,
@@ -10459,18 +10471,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "26",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
-                name = "Реликвия Ульдуара",
-                count = 32,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
