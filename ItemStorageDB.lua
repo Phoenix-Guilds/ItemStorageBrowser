@@ -1,10 +1,10 @@
-ItemStorageDB_LastUpdate = 1776887905
+ItemStorageDB_LastUpdate = 1776888932
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-04-21 09:15:04",
+        updated_at = "2026-04-22 23:15:02",
         money = 9404,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -1750,7 +1750,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45778:0:0:0:0:0:0:0:10|h[Символ тотема каменного когтя]|h|r",
                 name = "Символ тотема каменного когтя",
-                count = 4,
+                count = 5,
                 details = {
                     quality = 1,
                     type = "",
