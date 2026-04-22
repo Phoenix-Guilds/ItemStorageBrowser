@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776885352
+ItemStorageDB_LastUpdate = 1776885414
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12164,7 +12164,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-22 21:03:31",
+        updated_at = "2026-04-22 22:16:37",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -12302,9 +12302,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:31194:0:0:0:0:0:-5:31:10|h[Боевые бусы Благословения Гроннов со знаком мартышки]|h|r",
+                name = "Боевые бусы Благословения Гроннов со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "64",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:31178:0:0:0:0:0:0:0:10|h[Амулет ускользающего могущества]|h|r",
                 name = "Амулет ускользающего могущества",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
