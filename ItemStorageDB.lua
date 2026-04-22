@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776878072
+ItemStorageDB_LastUpdate = 1776879491
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12401,7 +12401,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-04-22 20:14:11",
+        updated_at = "2026-04-22 20:37:51",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -12587,6 +12587,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
+                name = "Звездопад",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "29",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                 name = "Оса Хрустальных сосен",
                 count = 3,
@@ -12659,6 +12671,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
+                name = "Огнеиспускатель Джайны",
+                count = 3,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "37",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                 name = "Быстроветр",
                 count = 5,
@@ -12678,18 +12702,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "2",
                     subtype = "Огнестрельное",
-                    required_level = "29",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
-                name = "Звездопад",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
                     required_level = "29",
                     retention = "",
                 },
@@ -12767,6 +12779,42 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
+                name = "Короткий лук из когтя гарпии",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Лук",
+                    required_level = "27",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
+                name = "Крупнокалиберный дробовик",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
+                name = "Факел Остен",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                 name = "Жезл Аллистария",
                 count = 4,
@@ -12799,54 +12847,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
-                name = "Огнеиспускатель Джайны",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "37",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
-                name = "Короткий лук из когтя гарпии",
-                count = 3,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Лук",
-                    required_level = "27",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13146:0:0:0:0:0:0:0:10|h[Крупнокалиберный дробовик]|h|r",
-                name = "Крупнокалиберный дробовик",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
-                name = "Факел Остен",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "53",
                     retention = "",
                 },
             },
