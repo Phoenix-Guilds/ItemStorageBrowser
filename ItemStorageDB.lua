@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776883441
+ItemStorageDB_LastUpdate = 1776883745
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13535,7 +13535,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-21 21:57:27",
+        updated_at = "2026-04-22 21:48:47",
         money = 74134,
         empty = 0,
         location = "Оргриммар",
@@ -14057,18 +14057,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6661:0:0:0:0:0:0:0:10|h[Рецепт: загадочное острое лакомство]|h|r",
-                name = "Рецепт: загадочное острое лакомство",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:5578:0:0:0:0:0:0:0:10|h[Чертеж: посеребренная бронзовая кираса]|h|r",
                 name = "Чертеж: посеребренная бронзовая кираса",
                 count = 1,
@@ -14245,6 +14233,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7092:0:0:0:0:0:0:0:10|h[Выкройка: краги Тьмы]|h|r",
+                name = "Выкройка: краги Тьмы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "24",
                     retention = "",
                 },
             },
@@ -15293,6 +15293,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:21219:0:0:0:0:0:0:0:10|h[Рецепт: деликатес из шалфокуня]|h|r",
+                name = "Рецепт: деликатес из шалфокуня",
+                count = 1,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "30",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:5972:0:0:0:0:0:0:0:10|h[Выкройка: тонкие кожаные штаны]|h|r",
                 name = "Выкройка: тонкие кожаные штаны",
                 count = 1,
@@ -15485,18 +15497,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:21219:0:0:0:0:0:0:0:10|h[Рецепт: деликатес из шалфокуня]|h|r",
-                name = "Рецепт: деликатес из шалфокуня",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:12239:0:0:0:0:0:0:0:10|h[Рецепт: мясо в соусе \"Дыхание дракона\"]|h|r",
                 name = "Рецепт: мясо в соусе \"Дыхание дракона\"",
                 count = 1,
@@ -15649,6 +15649,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "46",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6661:0:0:0:0:0:0:0:10|h[Рецепт: загадочное острое лакомство]|h|r",
+                name = "Рецепт: загадочное острое лакомство",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
