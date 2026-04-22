@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776880841
+ItemStorageDB_LastUpdate = 1776880903
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25130,7 +25130,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-22 20:59:55",
+        updated_at = "2026-04-22 21:01:15",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25150,7 +25150,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
                 name = "Кольцо нижнего мира",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 4,
                     type = "4",
@@ -25760,6 +25760,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:1996:0:0:0:0:0:0:0:10|h[Кольцо вуду]|h|r",
+                name = "Кольцо вуду",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "32",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:12010:0:0:0:0:0:599:0:10|h[Кольцо топей со знаком мартышки]|h|r",
                 name = "Кольцо топей со знаком мартышки",
                 count = 1,
@@ -25924,18 +25936,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "33",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:1996:0:0:0:0:0:0:0:10|h[Кольцо вуду]|h|r",
-                name = "Кольцо вуду",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "32",
                     retention = "",
                 },
             },
