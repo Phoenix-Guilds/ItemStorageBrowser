@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776883379
+ItemStorageDB_LastUpdate = 1776883441
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10610,7 +10610,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-04-22 20:43:39",
+        updated_at = "2026-04-22 21:43:46",
         money = 13874,
         empty = 0,
         location = "Оргриммар",
@@ -10786,7 +10786,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
                 name = "Хвост рокочущей ящерицы",
-                count = 269,
+                count = 275,
                 details = {
                     quality = 1,
                     type = "",
@@ -10834,7 +10834,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
                 name = "Хрустящая паучья лапка",
-                count = 51,
+                count = 52,
                 details = {
                     quality = 1,
                     type = "",
@@ -10954,7 +10954,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
                 name = "Хрустящее паучье мясо",
-                count = 72,
+                count = 73,
                 details = {
                     quality = 1,
                     type = "",
@@ -11075,6 +11075,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:5471:0:0:0:0:0:0:0:10|h[Оленина]|h|r",
                 name = "Оленина",
                 count = 17,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2251:0:0:0:0:0:0:0:10|h[Липкая паучья лапка]|h|r",
+                name = "Липкая паучья лапка",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
