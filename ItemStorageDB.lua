@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776885414
+ItemStorageDB_LastUpdate = 1776885809
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3869,7 +3869,7 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        updated_at = "2026-04-19 12:46:53",
+        updated_at = "2026-04-22 22:23:04",
         money = 13629,
         empty = 0,
         location = "Оргриммар",
@@ -4211,26 +4211,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25185:0:0:0:0:0:-41:16:10|h[Клинок молотильщика с меткой зверя]|h|r",
-                name = "Клинок молотильщика с меткой зверя",
+                link = "|cff1eff00|Hitem:25310:0:0:0:0:0:-44:15:10|h[Легкая палица наару с меткой старца]|h|r",
+                name = "Легкая палица наару с меткой старца",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "2",
-                    subtype = "Кистевое оружие",
-                    required_level = "58",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:25185:0:0:0:0:0:-39:16:10|h[Клинок молотильщика с меткой заклинателя]|h|r",
-                name = "Клинок молотильщика с меткой заклинателя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Кистевое оружие",
-                    required_level = "58",
+                    subtype = "Дробящее",
+                    required_level = "57",
                     retention = "",
                 },
             },
@@ -4285,6 +4273,18 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25170:0:0:0:0:0:-14:37:10|h[Посох Раттан Бо со знаком тигра]|h|r",
                 name = "Посох Раттан Бо со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "57",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25170:0:0:0:0:0:-41:37:10|h[Посох Раттан Бо с меткой зверя]|h|r",
+                name = "Посох Раттан Бо с меткой зверя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -4403,6 +4403,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:25087:0:0:0:0:0:-36:21:10|h[Кровоточащее Око с меткой волшебника]|h|r",
+                name = "Кровоточащее Око с меткой волшебника",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:25088:0:0:0:0:0:-39:22:10|h[Сфера Веселого Черепа с меткой заклинателя]|h|r",
                 name = "Сфера Веселого Черепа с меткой заклинателя",
                 count = 1,
@@ -4453,6 +4465,18 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25255:0:0:0:0:0:-14:12:10|h[Арбалет лобового штурма со знаком тигра]|h|r",
                 name = "Арбалет лобового штурма со знаком тигра",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25255:0:0:0:0:0:-45:12:10|h[Арбалет лобового штурма с меткой победителя]|h|r",
+                name = "Арбалет лобового штурма с меткой победителя",
                 count = 1,
                 details = {
                     quality = 2,
@@ -4542,6 +4566,30 @@ ItemStorageDB = {
                     quality = 2,
                     type = "2",
                     subtype = "Лук",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25185:0:0:0:0:0:-41:16:10|h[Клинок молотильщика с меткой зверя]|h|r",
+                name = "Клинок молотильщика с меткой зверя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кистевое оружие",
+                    required_level = "58",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25185:0:0:0:0:0:-39:16:10|h[Клинок молотильщика с меткой заклинателя]|h|r",
+                name = "Клинок молотильщика с меткой заклинателя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Кистевое оружие",
                     required_level = "58",
                     retention = "",
                 },
