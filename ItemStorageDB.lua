@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776879491
+ItemStorageDB_LastUpdate = 1776879553
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20732,7 +20732,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-22 20:12:08",
+        updated_at = "2026-04-22 20:39:01",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -21370,6 +21370,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "62",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44675:0:0:0:0:0:-89:81:10|h[Розовое покрывало скального великана с меткой вора]|h|r",
+                name = "Розовое покрывало скального великана с меткой вора",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "72",
                     retention = "",
                 },
             },
