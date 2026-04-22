@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776886391
+ItemStorageDB_LastUpdate = 1776886453
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12272,7 +12272,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-22 22:16:37",
+        updated_at = "2026-04-22 22:34:03",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -12424,7 +12424,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31178:0:0:0:0:0:0:0:10|h[Амулет ускользающего могущества]|h|r",
                 name = "Амулет ускользающего могущества",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
