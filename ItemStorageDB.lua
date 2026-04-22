@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776882181
+ItemStorageDB_LastUpdate = 1776882243
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9236,7 +9236,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-22 20:46:35",
+        updated_at = "2026-04-22 21:23:32",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9412,7 +9412,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                 name = "Крохотный флакон с зельем маны",
-                count = 106,
+                count = 107,
                 details = {
                     quality = 1,
                     type = "",
@@ -9998,6 +9998,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
+                name = "Крохотный флакон с лечебным зельем",
+                count = 101,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
                 name = "Эликсир обнаружения нежити",
                 count = 16,
@@ -10126,18 +10138,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "16",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
-                name = "Крохотный флакон с лечебным зельем",
-                count = 101,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
