@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776880966
+ItemStorageDB_LastUpdate = 1776881028
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12116,7 +12116,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-22 20:40:24",
+        updated_at = "2026-04-22 21:03:31",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -12172,7 +12172,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37758:0:0:0:0:0:0:0:10|h[Неугасающее колье Рейна]|h|r",
                 name = "Неугасающее колье Рейна",
-                count = 1,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
@@ -12184,7 +12184,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37748:0:0:0:0:0:0:0:10|h[Ледяное ожерелье Зимней Спячки]|h|r",
                 name = "Ледяное ожерелье Зимней Спячки",
-                count = 1,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
@@ -12208,7 +12208,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31196:0:0:0:0:0:0:0:10|h[Амулет посвящения]|h|r",
                 name = "Амулет посвящения",
-                count = 1,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
@@ -12220,7 +12220,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31194:0:0:0:0:0:-45:31:10|h[Боевые бусы Благословения Гроннов с меткой победителя]|h|r",
                 name = "Боевые бусы Благословения Гроннов с меткой победителя",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -12388,7 +12388,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37820:0:0:0:0:0:0:0:10|h[Воргенское кольцо возрождения]|h|r",
                 name = "Воргенское кольцо возрождения",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -12400,7 +12400,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37819:0:0:0:0:0:0:0:10|h[Мастерски сделанное кольцо Милана]|h|r",
                 name = "Мастерски сделанное кольцо Милана",
-                count = 2,
+                count = 3,
                 details = {
                     quality = 3,
                     type = "4",
