@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776877241
+ItemStorageDB_LastUpdate = 1776877295
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9200,7 +9200,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-21 22:02:11",
+        updated_at = "2026-04-22 20:00:57",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -9604,7 +9604,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
                 name = "Крохотный флакон с лечебным зельем",
-                count = 95,
+                count = 98,
                 details = {
                     quality = 1,
                     type = "",
@@ -9634,6 +9634,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "21",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:44939:0:0:0:0:0:0:0:10|h[Малый настой сопротивления]|h|r",
+                name = "Малый настой сопротивления",
+                count = 3,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -9686,14 +9698,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:9155:0:0:0:0:0:0:0:10|h[Чародейский эликсир]|h|r",
-                name = "Чародейский эликсир",
-                count = 52,
+                link = "|cffffffff|Hitem:3388:0:0:0:0:0:0:0:10|h[Крепкое зелье тролльей крови]|h|r",
+                name = "Крепкое зелье тролльей крови",
+                count = 38,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "37",
+                    required_level = "15",
                     retention = "",
                 },
             },
@@ -9790,18 +9802,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:44939:0:0:0:0:0:0:0:10|h[Малый настой сопротивления]|h|r",
-                name = "Малый настой сопротивления",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "70",
                     retention = "",
                 },
             },
@@ -9914,18 +9914,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
-                name = "Большой эликсир силы",
-                count = 19,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "50",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22825:0:0:0:0:0:0:0:10|h[Эликсир целительной силы]|h|r",
                 name = "Эликсир целительной силы",
                 count = 50,
@@ -9982,6 +9970,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
+                name = "Эликсир обнаружения нежити",
+                count = 16,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "36",
                     retention = "",
                 },
             },
@@ -10106,18 +10106,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:3388:0:0:0:0:0:0:0:10|h[Крепкое зелье тролльей крови]|h|r",
-                name = "Крепкое зелье тролльей крови",
-                count = 38,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "15",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:13447:0:0:0:0:0:0:0:10|h[Эликсир мудрецов]|h|r",
                 name = "Эликсир мудрецов",
                 count = 59,
@@ -10226,14 +10214,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
-                name = "Эликсир обнаружения нежити",
-                count = 16,
+                link = "|cffffffff|Hitem:9155:0:0:0:0:0:0:0:10|h[Чародейский эликсир]|h|r",
+                name = "Чародейский эликсир",
+                count = 52,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "36",
+                    required_level = "37",
                     retention = "",
                 },
             },
