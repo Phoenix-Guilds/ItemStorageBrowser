@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776880903
+ItemStorageDB_LastUpdate = 1776880966
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3464,7 +3464,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-22 20:39:44",
+        updated_at = "2026-04-22 21:02:01",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3478,6 +3478,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "78",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37808:0:0:0:0:0:0:0:10|h[Драконий зубодробитель]|h|r",
+                name = "Драконий зубодробитель",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "77",
                     retention = "Одноручное",
                 },
             },
@@ -20768,7 +20780,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-22 20:39:01",
+        updated_at = "2026-04-22 21:02:41",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -21110,14 +21122,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:44697:0:0:0:0:0:-91:126:10|h[Одежды валь\'киры с меткой стрелка]|h|r",
-                name = "Одежды валь\'киры с меткой стрелка",
+                link = "|cff0070dd|Hitem:31249:0:0:0:0:0:-6:38:10|h[Болотный наплеч со знаком орла]|h|r",
+                name = "Болотный наплеч со знаком орла",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "76",
+                    subtype = "Кожа",
+                    required_level = "61",
                     retention = "",
                 },
             },
@@ -21134,20 +21146,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31249:0:0:0:0:0:-6:38:10|h[Болотный наплеч со знаком орла]|h|r",
-                name = "Болотный наплеч со знаком орла",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "61",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31247:0:0:0:0:0:-13:38:10|h[Болотное наплечье со знаком волка]|h|r",
-                name = "Болотное наплечье со знаком волка",
+                link = "|cff0070dd|Hitem:31247:0:0:0:0:0:-44:38:10|h[Болотное наплечье с меткой старца]|h|r",
+                name = "Болотное наплечье с меткой старца",
                 count = 1,
                 details = {
                     quality = 3,
@@ -21158,8 +21158,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31247:0:0:0:0:0:-44:38:10|h[Болотное наплечье с меткой старца]|h|r",
-                name = "Болотное наплечье с меткой старца",
+                link = "|cff0070dd|Hitem:31247:0:0:0:0:0:-13:38:10|h[Болотное наплечье со знаком волка]|h|r",
+                name = "Болотное наплечье со знаком волка",
                 count = 1,
                 details = {
                     quality = 3,
@@ -21213,6 +21213,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "4",
                     subtype = "Кольчуга",
+                    required_level = "77",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37769:0:0:0:0:0:0:0:10|h[Наплеч из грубой шкуры черпоклыка]|h|r",
+                name = "Наплеч из грубой шкуры черпоклыка",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
                     required_level = "77",
                     retention = "",
                 },
@@ -21518,18 +21530,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31244:0:0:0:0:0:-41:51:10|h[Штаны из шкуры нага с меткой зверя]|h|r",
-                name = "Штаны из шкуры нага с меткой зверя",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "61",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:31244:0:0:0:0:0:-7:51:10|h[Штаны из шкуры нага со знаком медведя]|h|r",
                 name = "Штаны из шкуры нага со знаком медведя",
                 count = 1,
@@ -21542,6 +21542,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:31244:0:0:0:0:0:-41:51:10|h[Штаны из шкуры нага с меткой зверя]|h|r",
+                name = "Штаны из шкуры нага с меткой зверя",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "61",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-13:51:10|h[Ножные латы из чешуи нага со знаком волка]|h|r",
+                name = "Ножные латы из чешуи нага со знаком волка",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "61",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-6:51:10|h[Ножные латы из чешуи нага со знаком орла]|h|r",
                 name = "Ножные латы из чешуи нага со знаком орла",
                 count = 1,
@@ -21549,6 +21573,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "4",
                     subtype = "Латы",
+                    required_level = "61",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-8:51:10|h[Набедренники из чешуи нага со знаком кита]|h|r",
+                name = "Набедренники из чешуи нага со знаком кита",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
                     required_level = "61",
                     retention = "",
                 },
@@ -22502,13 +22538,13 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31242:0:0:0:0:0:-13:51:10|h[Ножные латы из чешуи нага со знаком волка]|h|r",
-                name = "Ножные латы из чешуи нага со знаком волка",
+                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-10:51:10|h[Набедренники из чешуи нага со знаком гориллы]|h|r",
+                name = "Набедренники из чешуи нага со знаком гориллы",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Латы",
+                    subtype = "Кольчуга",
                     required_level = "61",
                     retention = "",
                 },
@@ -22528,30 +22564,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-35:51:10|h[Набедренники из чешуи нага с защитой от темной магии]|h|r",
                 name = "Набедренники из чешуи нага с защитой от темной магии",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "61",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-10:51:10|h[Набедренники из чешуи нага со знаком гориллы]|h|r",
-                name = "Набедренники из чешуи нага со знаком гориллы",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "61",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31243:0:0:0:0:0:-8:51:10|h[Набедренники из чешуи нага со знаком кита]|h|r",
-                name = "Набедренники из чешуи нага со знаком кита",
                 count = 1,
                 details = {
                     quality = 3,
@@ -22642,6 +22654,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "75",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44671:0:0:0:0:0:-90:108:10|h[Стеганые набедренники Верховного лорда с меткой некроманта]|h|r",
+                name = "Стеганые набедренники Верховного лорда с меткой некроманта",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "72",
                     retention = "",
                 },
             },
@@ -22738,6 +22762,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "77",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44697:0:0:0:0:0:-91:126:10|h[Одежды валь\'киры с меткой стрелка]|h|r",
+                name = "Одежды валь\'киры с меткой стрелка",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "76",
                     retention = "",
                 },
             },
