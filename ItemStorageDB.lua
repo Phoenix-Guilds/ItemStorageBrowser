@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776883071
+ItemStorageDB_LastUpdate = 1776883193
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19805,7 +19805,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-22 20:41:47",
+        updated_at = "2026-04-22 21:39:30",
         money = 201502,
         empty = 0,
         location = "Оргриммар",
@@ -19837,7 +19837,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
                 name = "Паутина паука-ледопряда",
-                count = 130,
+                count = 137,
                 details = {
                     quality = 1,
                     type = "",
@@ -20053,7 +20053,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 829,
+                count = 881,
                 details = {
                     quality = 1,
                     type = "",
@@ -20077,7 +20077,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 452,
+                count = 464,
                 details = {
                     quality = 1,
                     type = "",
