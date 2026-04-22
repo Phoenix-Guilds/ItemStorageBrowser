@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776879586
+ItemStorageDB_LastUpdate = 1776879648
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12104,7 +12104,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-22 20:11:26",
+        updated_at = "2026-04-22 20:40:24",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -12350,6 +12350,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:37822:0:0:0:0:0:0:0:10|h[Крученое кольцо-головоломка]|h|r",
+                name = "Крученое кольцо-головоломка",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "77",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:37821:0:0:0:0:0:0:0:10|h[Разрушительный перстень Рейна]|h|r",
                 name = "Разрушительный перстень Рейна",
                 count = 1,
@@ -12389,6 +12401,18 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:37751:0:0:0:0:0:0:0:10|h[Потеряный коготь Туги]|h|r",
                 name = "Потеряный коготь Туги",
                 count = 3,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:31290:0:0:0:0:0:0:0:10|h[Кольцо власти]|h|r",
+                name = "Кольцо власти",
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
