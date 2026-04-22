@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776881028
+ItemStorageDB_LastUpdate = 1776881603
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8750,14 +8750,26 @@ ItemStorageDB = {
     },
     {
         name = "Ларец",
-        updated_at = "2026-04-21 09:16:25",
+        updated_at = "2026-04-22 21:12:56",
         money = 2701,
         empty = 0,
         location = "Оргриммар",
         items = {
             {
-                link = "|cff1eff00|Hitem:4633:0:0:0:0:0:0:0:10|h[Тяжелый бронзовый сейф]|h|r",
-                name = "Тяжелый бронзовый сейф",
+                link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
+                name = "Кориевый сейф",
+                count = 4,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:5758:0:0:0:0:0:0:0:10|h[Мифриловый сейф]|h|r",
+                name = "Мифриловый сейф",
                 count = 1,
                 details = {
                     quality = 2,
@@ -8792,8 +8804,8 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:5758:0:0:0:0:0:0:0:10|h[Мифриловый сейф]|h|r",
-                name = "Мифриловый сейф",
+                link = "|cff1eff00|Hitem:4633:0:0:0:0:0:0:0:10|h[Тяжелый бронзовый сейф]|h|r",
+                name = "Тяжелый бронзовый сейф",
                 count = 1,
                 details = {
                     quality = 2,
@@ -8804,11 +8816,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
-                name = "Кориевый сейф",
-                count = 3,
+                link = "|cffffffff|Hitem:16884:0:0:0:0:0:0:0:10|h[Прочный ларь]|h|r",
+                name = "Прочный ларь",
+                count = 1,
                 details = {
-                    quality = 2,
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
