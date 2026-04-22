@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776885903
+ItemStorageDB_LastUpdate = 1776886086
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-22 21:00:35",
+        updated_at = "2026-04-22 22:27:50",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -3317,14 +3317,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
-                name = "Жезл антиподов",
-                count = 1,
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Левая рука",
-                    required_level = "17",
+                    subtype = "Щит",
+                    required_level = "25",
                     retention = "",
                 },
             },
@@ -3341,26 +3341,26 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                name = "Щит Торсена",
+                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
+                name = "Копейный щит Черепа",
                 count = 2,
                 details = {
                     quality = 3,
                     type = "4",
                     subtype = "Щит",
-                    required_level = "25",
+                    required_level = "33",
                     retention = "",
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
-                name = "Копейный щит Черепа",
+                link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
+                name = "Жезл антиподов",
                 count = 1,
                 details = {
                     quality = 3,
                     type = "4",
-                    subtype = "Щит",
-                    required_level = "33",
+                    subtype = "Левая рука",
+                    required_level = "17",
                     retention = "",
                 },
             },
