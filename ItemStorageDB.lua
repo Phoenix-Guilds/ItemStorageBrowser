@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776956725
+ItemStorageDB_LastUpdate = 1776965428
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12605,7 +12605,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-04-22 22:15:05",
+        updated_at = "2026-04-23 20:30:02",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -12733,7 +12733,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
                 name = "Смертоносный прицел",
-                count = 4,
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
@@ -12985,7 +12985,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                 name = "Лук небесного бойца",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
