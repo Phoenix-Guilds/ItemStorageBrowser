@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776974304
+ItemStorageDB_LastUpdate = 1776974578
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19583,9 +19583,9 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-04-23 20:34:04",
+        updated_at = "2026-04-23 23:02:40",
         money = 9245,
-        empty = 15,
+        empty = 0,
         location = "Оргриммар",
         items = {
             {
@@ -19651,19 +19651,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                 name = "Сумка из ледяной ткани",
-                count = 38,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
-                name = "Сумка из прочной ткани Пустоты",
-                count = 6,
+                count = 44,
                 details = {
                     quality = 2,
                     type = "",
@@ -19675,7 +19663,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 59,
+                count = 62,
                 details = {
                     quality = 2,
                     type = "",
@@ -19687,7 +19675,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4500:0:0:0:0:0:0:0:10|h[Рюкзак путника]|h|r",
                 name = "Рюкзак путника",
-                count = 11,
+                count = 10,
                 details = {
                     quality = 2,
                     type = "",
@@ -19700,6 +19688,18 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:30747:0:0:0:0:0:0:0:10|h[Мешочек для самоцветов]|h|r",
                 name = "Мешочек для самоцветов",
                 count = 1,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
+                name = "Сумка из прочной ткани Пустоты",
+                count = 6,
                 details = {
                     quality = 2,
                     type = "",
