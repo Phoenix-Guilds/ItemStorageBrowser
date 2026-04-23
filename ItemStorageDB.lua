@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776973998
+ItemStorageDB_LastUpdate = 1776974091
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5972,9 +5972,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-22 21:34:56",
+        updated_at = "2026-04-23 22:54:42",
         money = 82572,
-        empty = 15,
+        empty = 0,
         location = "Оргриммар",
         items = {
             {
@@ -6562,18 +6562,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
-                name = "Зернистое грузило",
-                count = 5,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
                     retention = "",
                 },
             },
