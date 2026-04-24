@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777061827
+ItemStorageDB_LastUpdate = 1777061829
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-24 22:35:36",
+        updated_at = "2026-04-24 23:17:07",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2695,18 +2695,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                 name = "Клык Боана",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "15",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
-                name = "Топор геолога",
                 count = 1,
                 details = {
                     quality = 3,
