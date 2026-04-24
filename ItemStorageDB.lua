@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777062510
+ItemStorageDB_LastUpdate = 1777062541
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-24 23:17:07",
+        updated_at = "2026-04-24 23:28:22",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2693,18 +2693,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
-                name = "Клык Боана",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Топор",
-                    required_level = "15",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                 name = "Острие Кху",
                 count = 2,
@@ -3077,66 +3065,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
-                name = "Жезл антиподов",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
-                name = "Лапидийская пинта Пьющего Прибой",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "54",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                name = "Щит Торсена",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
-                name = "Копейный щит Черепа",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "33",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
-                name = "Кулачный щит Горного склона",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "41",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                 name = "Ручной молот Мертвого Леса",
                 count = 2,
@@ -3314,6 +3242,66 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "23",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
+                name = "Жезл антиподов",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
+                name = "Лапидийская пинта Пьющего Прибой",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "54",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
+                name = "Копейный щит Черепа",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "33",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
+                name = "Кулачный щит Горного склона",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "41",
+                    retention = "",
                 },
             },
             {
