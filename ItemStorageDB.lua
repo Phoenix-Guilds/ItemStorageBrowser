@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777044788
+ItemStorageDB_LastUpdate = 1777044819
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17078,7 +17078,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-23 22:52:46",
+        updated_at = "2026-04-24 18:33:09",
         money = 347705,
         empty = 0,
         location = "Оргриммар",
@@ -17098,7 +17098,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3480:0:0:0:0:0:0:0:10|h[Грубые бронзовые наплечники]|h|r",
                 name = "Грубые бронзовые наплечники",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
@@ -17254,7 +17254,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:9783:1892:0:0:0:0:136:0:10|h[Разбойничий нагрудник со знаком силы]|h|r",
                 name = "Разбойничий нагрудник со знаком силы",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 2,
                     type = "4",
