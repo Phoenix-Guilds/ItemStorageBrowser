@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777058905
+ItemStorageDB_LastUpdate = 1777058937
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25358,7 +25358,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-24 14:33:14",
+        updated_at = "2026-04-24 22:28:16",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25624,18 +25624,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "39",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
-                name = "Подвеска Агатового Щита",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "26",
                     retention = "",
                 },
             },
