@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777045441
+ItemStorageDB_LastUpdate = 1777045472
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8135,7 +8135,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-04-19 13:56:52",
+        updated_at = "2026-04-24 18:43:52",
         money = 0,
         empty = 0,
         location = "Оргриммар",
@@ -8161,6 +8161,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
+                name = "Десерт из мертвечины",
+                count = 4,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "25",
                     retention = "",
                 },
             },
@@ -8287,7 +8299,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
                 name = "Мидии по-гоблински",
-                count = 28,
+                count = 12,
                 details = {
                     quality = 1,
                     type = "",
@@ -8347,7 +8359,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
                 name = "Яйцо с травами",
-                count = 36,
+                count = 43,
                 details = {
                     quality = 1,
                     type = "",
@@ -8357,14 +8369,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
-                name = "Десерт из мертвечины",
-                count = 4,
+                link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
+                name = "Хрустящий паучий десерт",
+                count = 2,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "25",
+                    required_level = "5",
                     retention = "",
                 },
             },
