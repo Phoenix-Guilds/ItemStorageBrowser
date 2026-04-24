@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777021017
+ItemStorageDB_LastUpdate = 1777021200
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23645,7 +23645,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-24 09:54:02",
+        updated_at = "2026-04-24 11:59:40",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -24565,7 +24565,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13072:0:0:0:0:0:0:0:10|h[Рукавицы Каменной хватки]|h|r",
                 name = "Рукавицы Каменной хватки",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -24923,18 +24923,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
-                name = "Укрепленный кожаный доспех",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
                 count = 2,
@@ -25055,66 +25043,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6615:0:0:0:0:0:599:0:10|h[Перчатки книжника со знаком мартышки]|h|r",
-                name = "Перчатки книжника со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "24",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15084:0:0:0:0:0:0:0:10|h[Гибельные кожаные наручи]|h|r",
-                name = "Гибельные кожаные наручи",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "48",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:6405:0:0:0:0:0:0:0:10|h[Брюки ночного неба]|h|r",
-                name = "Брюки ночного неба",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "31",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:8193:0:0:0:0:0:0:0:10|h[Ночные штаны]|h|r",
-                name = "Ночные штаны",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "41",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
-                name = "Алый пояс",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "32",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:16713:0:0:0:0:0:0:0:10|h[Пояс незаметности]|h|r",
                 name = "Пояс незаметности",
                 count = 3,
@@ -25219,6 +25147,78 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "55",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
+                name = "Укрепленный кожаный доспех",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6615:0:0:0:0:0:599:0:10|h[Перчатки книжника со знаком мартышки]|h|r",
+                name = "Перчатки книжника со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "24",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15084:0:0:0:0:0:0:0:10|h[Гибельные кожаные наручи]|h|r",
+                name = "Гибельные кожаные наручи",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "48",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:6405:0:0:0:0:0:0:0:10|h[Брюки ночного неба]|h|r",
+                name = "Брюки ночного неба",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "31",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:8193:0:0:0:0:0:0:0:10|h[Ночные штаны]|h|r",
+                name = "Ночные штаны",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "41",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
+                name = "Алый пояс",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "32",
                     retention = "",
                 },
             },
@@ -25338,18 +25338,6 @@ ItemStorageDB = {
                     quality = 3,
                     type = "4",
                     subtype = "Кожа",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:16723:0:0:0:0:0:0:0:10|h[Пояс из светлостали]|h|r",
-                name = "Пояс из светлостали",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
                     required_level = "53",
                     retention = "",
                 },
