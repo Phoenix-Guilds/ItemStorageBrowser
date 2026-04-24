@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1776998475
+ItemStorageDB_LastUpdate = 1777002520
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9272,7 +9272,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-23 21:00:03",
+        updated_at = "2026-04-24 06:48:35",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -10274,21 +10274,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:9179:0:0:0:0:0:0:0:10|h[Сильный эликсир интеллекта]|h|r",
-                name = "Сильный эликсир интеллекта",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "37",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:9155:0:0:0:0:0:0:0:10|h[Чародейский эликсир]|h|r",
                 name = "Чародейский эликсир",
-                count = 52,
+                count = 42,
                 details = {
                     quality = 1,
                     type = "",
