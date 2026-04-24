@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777013486
+ItemStorageDB_LastUpdate = 1777013669
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23657,7 +23657,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-24 09:48:36",
+        updated_at = "2026-04-24 09:54:02",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -24565,7 +24565,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
                 name = "Светящиеся магические браслеты",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -24793,7 +24793,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13099:0:0:0:0:0:0:0:10|h[Мокасины Белого кролика]|h|r",
                 name = "Мокасины Белого кролика",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
@@ -24935,6 +24935,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
+                name = "Укрепленный кожаный доспех",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
                 count = 2,
@@ -25051,18 +25063,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "20",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
-                name = "Укрепленный кожаный доспех",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "19",
                     retention = "",
                 },
             },
