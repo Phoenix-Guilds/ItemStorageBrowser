@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777021293
+ItemStorageDB_LastUpdate = 1777021506
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25346,7 +25346,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-24 09:51:25",
+        updated_at = "2026-04-24 12:04:37",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25438,18 +25438,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:21768:0:0:0:0:0:781:0:10|h[Сапфировый перстень со знаком совы]|h|r",
                 name = "Сапфировый перстень со знаком совы",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "50",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:21768:0:0:0:0:0:1209:0:10|h[Сапфировый перстень со знаком медведя]|h|r",
-                name = "Сапфировый перстень со знаком медведя",
                 count = 1,
                 details = {
                     quality = 3,
@@ -25892,18 +25880,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
-                name = "Малахитовая подвеска",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "13",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
                 count = 2,
@@ -26092,6 +26068,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "17",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
+                name = "Малахитовая подвеска",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "13",
                     retention = "",
                 },
             },
