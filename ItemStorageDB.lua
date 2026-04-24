@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777051852
+ItemStorageDB_LastUpdate = 1777051915
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23657,7 +23657,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-24 20:27:36",
+        updated_at = "2026-04-24 20:30:57",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -23737,7 +23737,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:14549:0:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
                 name = "Сапоги Избежания",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 4,
                     type = "4",
@@ -23879,6 +23879,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:16696:0:0:0:0:0:0:0:10|h[Пояс преданности]|h|r",
+                name = "Пояс преданности",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:16723:0:0:0:0:0:0:0:10|h[Пояс из светлостали]|h|r",
                 name = "Пояс из светлостали",
                 count = 1,
@@ -24007,6 +24019,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "27",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:8161:0:0:0:0:0:0:0:10|h[Баскинет бретера]|h|r",
+                name = "Баскинет бретера",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "40",
                     retention = "",
                 },
             },
@@ -24203,18 +24227,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13076:0:0:0:0:0:0:0:10|h[Наручи истребителя великанов]|h|r",
-                name = "Наручи истребителя великанов",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "43",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13135:0:0:0:0:0:0:0:10|h[Властные боевые наручи]|h|r",
                 name = "Властные боевые наручи",
                 count = 2,
@@ -24355,6 +24367,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кольчуга",
                     required_level = "44",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13076:0:0:0:0:0:0:0:10|h[Наручи истребителя великанов]|h|r",
+                name = "Наручи истребителя великанов",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
+                    required_level = "43",
                     retention = "",
                 },
             },
@@ -24911,18 +24935,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:16696:0:0:0:0:0:0:0:10|h[Пояс преданности]|h|r",
-                name = "Пояс преданности",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
                 count = 2,
@@ -25123,18 +25135,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "31",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:8161:0:0:0:0:0:0:0:10|h[Баскинет бретера]|h|r",
-                name = "Баскинет бретера",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "40",
                     retention = "",
                 },
             },
