@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777013119
+ItemStorageDB_LastUpdate = 1777013333
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23657,7 +23657,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-24 05:38:34",
+        updated_at = "2026-04-24 09:48:36",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -24815,18 +24815,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
-                name = "Наручи Йоргена",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "22",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
                 name = "Рысьи лапы",
                 count = 1,
@@ -24947,30 +24935,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
-                name = "Укрепленный кожаный доспех",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "19",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
-                name = "Набедренники Снопевца",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "21",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
                 count = 2,
@@ -25087,6 +25051,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "20",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
+                name = "Укрепленный кожаный доспех",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "19",
                     retention = "",
                 },
             },
