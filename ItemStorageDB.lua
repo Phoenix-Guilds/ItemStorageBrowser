@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777138433
+ItemStorageDB_LastUpdate = 1777138465
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7322,7 +7322,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-04-25 19:53:32",
+        updated_at = "2026-04-25 20:34:00",
         money = 306084,
         empty = 0,
         location = "Оргриммар",
@@ -7342,7 +7342,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 990,
+                count = 1040,
                 details = {
                     quality = 1,
                     type = "",
@@ -7366,7 +7366,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
                 name = "Легкая шкура",
-                count = 255,
+                count = 256,
                 details = {
                     quality = 1,
                     type = "",
@@ -7378,7 +7378,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 715,
+                count = 772,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
+                name = "Обрывки кожи",
+                count = 69,
                 details = {
                     quality = 1,
                     type = "",
@@ -7667,18 +7679,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
                 name = "Тонкая кожа кодо",
                 count = 6,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
-                name = "Обрывки кожи",
-                count = 9,
                 details = {
                     quality = 1,
                     type = "",
