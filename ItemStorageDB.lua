@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777148259
+ItemStorageDB_LastUpdate = 1777151824
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20132,7 +20132,7 @@ ItemStorageDB = {
     },
     {
         name = "Тернистая",
-        updated_at = "2026-04-25 19:56:56",
+        updated_at = "2026-04-26 00:16:45",
         money = 136218,
         empty = 0,
         location = "Оргриммар",
@@ -20285,30 +20285,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2732:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 8]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 8",
                 count = 32,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:16645:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 1]|h|r",
-                name = "Руководство по использованию крошшера, стр. 1",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:16652:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 8]|h|r",
-                name = "Руководство по использованию крошшера, стр. 8",
-                count = 2,
                 details = {
                     quality = 1,
                     type = "",
