@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777144219
+ItemStorageDB_LastUpdate = 1777144251
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24185,7 +24185,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-04-25 20:31:12",
+        updated_at = "2026-04-25 22:10:25",
         money = 343936,
         empty = 0,
         location = "Оргриммар",
@@ -24407,18 +24407,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:16723:0:0:0:0:0:0:0:10|h[Пояс из светлостали]|h|r",
-                name = "Пояс из светлостали",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "53",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:19047:0:0:0:0:0:0:0:10|h[Мудрость Древобрюхов]|h|r",
                 name = "Мудрость Древобрюхов",
                 count = 1,
@@ -24491,6 +24479,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:39894:0:0:0:0:0:-15:10:10|h[Наплечники из темноткани со знаком духа]|h|r",
+                name = "Наплечники из темноткани со знаком духа",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                 name = "Скелетные наплечники",
                 count = 2,
@@ -24547,18 +24547,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "50",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14774:0:0:0:0:0:0:0:10|h[Корона Опустошителя]|h|r",
-                name = "Корона Опустошителя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "38",
                     retention = "",
                 },
             },
@@ -24751,6 +24739,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
+                name = "Сапоги из чешуи равазавра",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "30",
                     retention = "",
                 },
             },
@@ -25283,18 +25283,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
-                name = "Сапоги из чешуи равазавра",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
                 name = "Рысьи лапы",
                 count = 1,
@@ -25434,6 +25422,18 @@ ItemStorageDB = {
                     quality = 3,
                     type = "4",
                     subtype = "Ткань",
+                    required_level = "53",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:16723:0:0:0:0:0:0:0:10|h[Пояс из светлостали]|h|r",
+                name = "Пояс из светлостали",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Латы",
                     required_level = "53",
                     retention = "",
                 },
@@ -25687,6 +25687,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "36",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14774:0:0:0:0:0:0:0:10|h[Корона Опустошителя]|h|r",
+                name = "Корона Опустошителя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "38",
                     retention = "",
                 },
             },
