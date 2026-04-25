@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777154037
+ItemStorageDB_LastUpdate = 1777154069
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8891,7 +8891,7 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-26 00:47:59",
+        updated_at = "2026-04-26 00:54:10",
         money = 431967,
         empty = 0,
         location = "Оргриммар",
@@ -9103,7 +9103,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
                 name = "Руда оскверненного железа",
-                count = 184,
+                count = 84,
                 details = {
                     quality = 1,
                     type = "",
@@ -9197,9 +9197,21 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
+                name = "Адамантитовый слиток",
+                count = 250,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
                 name = "Золотой слиток",
-                count = 97,
+                count = 50,
                 details = {
                     quality = 2,
                     type = "",
@@ -9247,19 +9259,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
                 name = "Адамантитовая руда",
-                count = 284,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
-                name = "Адамантитовый слиток",
-                count = 250,
+                count = 134,
                 details = {
                     quality = 1,
                     type = "",
