@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777136870
+ItemStorageDB_LastUpdate = 1777136902
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9296,7 +9296,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-25 19:19:20",
+        updated_at = "2026-04-25 20:07:55",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -10108,7 +10108,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
                 name = "Сильный эликсир защиты",
-                count = 9,
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
