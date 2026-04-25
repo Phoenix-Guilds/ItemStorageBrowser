@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777139751
+ItemStorageDB_LastUpdate = 1777139782
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9296,7 +9296,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-25 20:07:55",
+        updated_at = "2026-04-25 20:55:55",
         money = 9396,
         empty = 0,
         location = "Оргриммар",
@@ -10070,6 +10070,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
+                name = "Крохотный флакон с лечебным зельем",
+                count = 101,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
                 name = "Эликсир обнаружения нежити",
                 count = 16,
@@ -10108,7 +10120,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
                 name = "Сильный эликсир защиты",
-                count = 25,
+                count = 20,
                 details = {
                     quality = 1,
                     type = "",
@@ -10120,7 +10132,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
                 name = "Эликсир ловкости",
-                count = 74,
+                count = 64,
                 details = {
                     quality = 1,
                     type = "",
@@ -10156,7 +10168,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3391:0:0:0:0:0:0:0:10|h[Эликсир силы огра]|h|r",
                 name = "Эликсир силы огра",
-                count = 20,
+                count = 10,
                 details = {
                     quality = 1,
                     type = "",
@@ -10192,7 +10204,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
                 name = "Эликсир Защиты",
-                count = 87,
+                count = 81,
                 details = {
                     quality = 1,
                     type = "",
@@ -10210,18 +10222,6 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "15",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
-                name = "Крохотный флакон с лечебным зельем",
-                count = 101,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
