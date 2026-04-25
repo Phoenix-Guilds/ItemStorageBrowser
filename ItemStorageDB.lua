@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777132308
+ItemStorageDB_LastUpdate = 1777133310
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19865,7 +19865,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-25 11:55:05",
+        updated_at = "2026-04-25 19:08:20",
         money = 201502,
         empty = 0,
         location = "Оргриммар",
@@ -20051,6 +20051,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
+                name = "Шерсть",
+                count = 629,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                 name = "Рулон льняной ткани",
                 count = 525,
@@ -20065,7 +20077,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 781,
+                count = 964,
                 details = {
                     quality = 1,
                     type = "",
@@ -20101,19 +20113,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
-                count = 272,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
-                name = "Шерсть",
-                count = 574,
+                count = 273,
                 details = {
                     quality = 1,
                     type = "",
