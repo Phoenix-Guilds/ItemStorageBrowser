@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777137588
+ItemStorageDB_LastUpdate = 1777137620
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19571,9 +19571,9 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-04-25 13:52:01",
+        updated_at = "2026-04-25 20:20:01",
         money = 9245,
-        empty = 0,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -19639,7 +19639,19 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                 name = "Сумка из ледяной ткани",
-                count = 44,
+                count = 30,
+                details = {
+                    quality = 2,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
+                name = "Сумка из прочной ткани Пустоты",
+                count = 6,
                 details = {
                     quality = 2,
                     type = "",
@@ -19651,7 +19663,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 63,
+                count = 60,
                 details = {
                     quality = 2,
                     type = "",
@@ -19663,7 +19675,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4500:0:0:0:0:0:0:0:10|h[Рюкзак путника]|h|r",
                 name = "Рюкзак путника",
-                count = 10,
+                count = 11,
                 details = {
                     quality = 2,
                     type = "",
@@ -19685,11 +19697,11 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
-                name = "Сумка из прочной ткани Пустоты",
-                count = 6,
+                link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
+                name = "Заплечный мешок подмастерья",
+                count = 1,
                 details = {
-                    quality = 2,
+                    quality = 1,
                     type = "",
                     subtype = "",
                     required_level = "",
