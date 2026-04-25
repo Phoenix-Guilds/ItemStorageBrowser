@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777154695
+ItemStorageDB_LastUpdate = 1777154726
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4826,7 +4826,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-26 00:59:14",
+        updated_at = "2026-04-26 01:05:20",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -4894,7 +4894,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35624:0:0:0:0:0:0:0:10|h[Извечная земля]|h|r",
                 name = "Извечная земля",
-                count = 8,
+                count = 5,
                 details = {
                     quality = 2,
                     type = "",
@@ -5062,7 +5062,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
                 name = "Сумрачная жемчужина",
-                count = 18,
+                count = 10,
                 details = {
                     quality = 2,
                     type = "",
@@ -5086,7 +5086,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
                 name = "Жемчужина джаггала",
-                count = 25,
+                count = 5,
                 details = {
                     quality = 2,
                     type = "",
@@ -5326,7 +5326,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37701:0:0:0:0:0:0:0:10|h[Кристаллизованная земля]|h|r",
                 name = "Кристаллизованная земля",
-                count = 19,
+                count = 9,
                 details = {
                     quality = 1,
                     type = "",
@@ -5470,7 +5470,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
                 name = "Частица Воды",
-                count = 83,
+                count = 50,
                 details = {
                     quality = 1,
                     type = "",
