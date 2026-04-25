@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777101498
+ItemStorageDB_LastUpdate = 1777101529
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12545,7 +12545,7 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-04-25 10:03:30",
+        updated_at = "2026-04-25 10:18:27",
         money = 13104,
         empty = 0,
         location = "Оргриммар",
@@ -12745,7 +12745,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                 name = "Оса Хрустальных сосен",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "2",
@@ -12793,7 +12793,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 3,
+                count = 4,
                 details = {
                     quality = 3,
                     type = "2",
@@ -12923,6 +12923,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
+                name = "Жезл Аллистария",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "45",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
+                name = "Раскалывающий череп арбалет",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Арбалет",
+                    required_level = "43",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                 name = "Лук небесного бойца",
                 count = 2,
@@ -12959,42 +12983,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
-                name = "Выдавливатель внутренностей",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
-                name = "Жезл Аллистария",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "45",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
-                name = "Раскалывающий череп арбалет",
-                count = 5,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Арбалет",
-                    required_level = "43",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
                 name = "Факел Остен",
                 count = 5,
@@ -13015,6 +13003,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Арбалет",
                     required_level = "51",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
+                name = "Выдавливатель внутренностей",
+                count = 5,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "45",
                     retention = "",
                 },
             },
