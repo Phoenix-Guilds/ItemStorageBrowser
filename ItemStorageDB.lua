@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777106255
+ItemStorageDB_LastUpdate = 1777106309
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20102,7 +20102,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-24 14:17:56",
+        updated_at = "2026-04-25 11:37:49",
         money = 339467,
         empty = 0,
         location = "Оргриммар",
@@ -20300,30 +20300,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
-                name = "Рассветница",
-                count = 33,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
-                name = "Масляный черноротик",
-                count = 138,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
                 count = 50,
@@ -20338,7 +20314,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
                 name = "Огнеперый луциан",
-                count = 66,
+                count = 68,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:13422:0:0:0:0:0:0:0:10|h[Каменный угорь]|h|r",
+                name = "Каменный угорь",
+                count = 25,
                 details = {
                     quality = 1,
                     type = "",
@@ -20374,7 +20362,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
                 name = "Карликовый сосокунь",
-                count = 300,
+                count = 339,
                 details = {
                     quality = 1,
                     type = "",
@@ -20386,7 +20374,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 222,
+                count = 231,
                 details = {
                     quality = 1,
                     type = "",
@@ -20504,9 +20492,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13422:0:0:0:0:0:0:0:10|h[Каменный угорь]|h|r",
-                name = "Каменный угорь",
-                count = 19,
+                link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
+                name = "Масляный черноротик",
+                count = 139,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
+                name = "Рассветница",
+                count = 33,
                 details = {
                     quality = 1,
                     type = "",
