@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777137862
+ItemStorageDB_LastUpdate = 1777137903
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17198,7 +17198,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-25 19:12:48",
+        updated_at = "2026-04-25 20:24:39",
         money = 347705,
         empty = 0,
         location = "Оргриммар",
@@ -17218,7 +17218,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3480:0:0:0:0:0:0:0:10|h[Грубые бронзовые наплечники]|h|r",
                 name = "Грубые бронзовые наплечники",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -17427,18 +17427,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "12",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2973:1892:0:0:0:0:0:0:10|h[Охотничий мундир]|h|r",
-                name = "Охотничий мундир",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
                     required_level = "12",
                     retention = "",
                 },
@@ -17864,6 +17852,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:15306:929:0:0:0:0:17:0:10|h[Дикие наручники со знаком ловкости]|h|r",
+                name = "Дикие наручники со знаком ловкости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "11",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:15306:929:0:0:0:0:231:0:10|h[Дикие наручники со знаком сокола]|h|r",
                 name = "Дикие наручники со знаком сокола",
                 count = 1,
@@ -18056,14 +18056,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2316:884:0:0:0:0:0:0:10|h[Темный кожаный плащ]|h|r",
-                name = "Темный кожаный плащ",
+                link = "|cff1eff00|Hitem:6560:929:0:0:0:0:24:0:10|h[Солдатский щит со знаком силы]|h|r",
+                name = "Солдатский щит со знаком силы",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Спина",
-                    required_level = "17",
+                    subtype = "Щит",
+                    required_level = "12",
                     retention = "",
                 },
             },
@@ -18160,6 +18160,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "4",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2316:884:0:0:0:0:0:0:10|h[Темный кожаный плащ]|h|r",
+                name = "Темный кожаный плащ",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Спина",
+                    required_level = "17",
                     retention = "",
                 },
             },
@@ -18392,14 +18404,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:6560:929:0:0:0:0:24:0:10|h[Солдатский щит со знаком силы]|h|r",
-                name = "Солдатский щит со знаком силы",
-                count = 1,
+                link = "|cff1eff00|Hitem:2962:0:0:0:0:0:0:0:10|h[Обгоревшие кожаные брюки]|h|r",
+                name = "Обгоревшие кожаные брюки",
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Щит",
-                    required_level = "12",
+                    subtype = "Кожа",
+                    required_level = "5",
                     retention = "",
                 },
             },
@@ -18604,18 +18616,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "12",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15306:929:0:0:0:0:17:0:10|h[Дикие наручники со знаком ловкости]|h|r",
-                name = "Дикие наручники со знаком ловкости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "11",
                     retention = "",
                 },
             },
@@ -18860,6 +18860,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:2973:1892:0:0:0:0:0:0:10|h[Охотничий мундир]|h|r",
+                name = "Охотничий мундир",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "12",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:14109:1892:0:0:0:0:844:0:10|h[Дикарское одеяние со знаком орла]|h|r",
                 name = "Дикарское одеяние со знаком орла",
                 count = 1,
@@ -19064,14 +19076,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:4785:0:0:0:0:0:0:0:10|h[Серный пояс]|h|r",
-                name = "Серный пояс",
+                link = "|cff1eff00|Hitem:2990:0:0:0:0:0:0:0:10|h[Вороненые поножи]|h|r",
+                name = "Вороненые поножи",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
-                    subtype = "Ткань",
-                    required_level = "19",
+                    subtype = "Кольчуга",
+                    required_level = "16",
                     retention = "",
                 },
             },
@@ -19244,18 +19256,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2962:0:0:0:0:0:0:0:10|h[Обгоревшие кожаные брюки]|h|r",
-                name = "Обгоревшие кожаные брюки",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
                 name = "Ивовая ветвь со знаком интеллекта",
                 count = 1,
@@ -19360,6 +19360,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "15",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4785:0:0:0:0:0:0:0:10|h[Серный пояс]|h|r",
+                name = "Серный пояс",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "19",
                     retention = "",
                 },
             },
@@ -19552,18 +19564,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Ткань",
                     required_level = "17",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2990:0:0:0:0:0:0:0:10|h[Вороненые поножи]|h|r",
-                name = "Вороненые поножи",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "16",
                     retention = "",
                 },
             },
