@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777158852
+ItemStorageDB_LastUpdate = 1777158884
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-25 19:13:36",
+        updated_at = "2026-04-26 02:14:32",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -3029,78 +3029,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
-                name = "Убийственный клинок",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "52",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:1721:0:0:0:0:0:0:0:10|h[Боевой молот викинга]|h|r",
-                name = "Боевой молот викинга",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "49",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
-                name = "Костегрыз",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "48",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:17055:0:0:0:0:0:0:0:10|h[Чангук сокрушитель]|h|r",
-                name = "Чангук сокрушитель",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "45",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13035:0:0:0:0:0:0:0:10|h[Змеиный тесак]|h|r",
-                name = "Змеиный тесак",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "44",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:4091:20234:0:0:0:0:0:0:10|h[Вдоводел]|h|r",
-                name = "Вдоводел",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "42",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                 name = "Ручной молот Мертвого Леса",
                 count = 2,
@@ -3173,15 +3101,75 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
-                name = "Эгида Штормграда",
+                link = "|cff0070dd|Hitem:13036:0:0:0:0:0:0:0:10|h[Убийственный клинок]|h|r",
+                name = "Убийственный клинок",
                 count = 2,
                 details = {
                     quality = 3,
-                    type = "4",
-                    subtype = "Щит",
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "52",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:1721:0:0:0:0:0:0:0:10|h[Боевой молот викинга]|h|r",
+                name = "Боевой молот викинга",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
                     required_level = "49",
-                    retention = "",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
+                name = "Костегрыз",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "48",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:17055:0:0:0:0:0:0:0:10|h[Чангук сокрушитель]|h|r",
+                name = "Чангук сокрушитель",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "45",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13035:0:0:0:0:0:0:0:10|h[Змеиный тесак]|h|r",
+                name = "Змеиный тесак",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "44",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:4091:20234:0:0:0:0:0:0:10|h[Вдоводел]|h|r",
+                name = "Вдоводел",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "42",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -3281,6 +3269,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
+                name = "Массивная треугольная палица",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "23",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
                 name = "Кровавая пика",
                 count = 1,
@@ -3349,6 +3349,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "41",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
+                name = "Эгида Штормграда",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "49",
                     retention = "",
                 },
             },
