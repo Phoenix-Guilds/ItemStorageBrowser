@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777160229
+ItemStorageDB_LastUpdate = 1777160261
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12692,7 +12692,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-26 02:35:07",
+        updated_at = "2026-04-26 02:37:22",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -13042,6 +13042,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:32772:0:0:0:0:0:0:0:10|h[Сверкающее жемчужное кольцо]|h|r",
+                name = "Сверкающее жемчужное кольцо",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "64",
                     retention = "",
                 },
             },
