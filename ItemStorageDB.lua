@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777137768
+ItemStorageDB_LastUpdate = 1777137808
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5543,7 +5543,7 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = "2026-04-22 20:00:01",
+        updated_at = "2026-04-25 20:22:58",
         money = 16160,
         empty = 0,
         location = "Оргриммар",
@@ -5803,7 +5803,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4377:0:0:0:0:0:0:0:10|h[Тяжелое взрывчатое вещество]|h|r",
                 name = "Тяжелое взрывчатое вещество",
-                count = 13,
+                count = 14,
                 details = {
                     quality = 1,
                     type = "",
@@ -5899,7 +5899,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                 name = "Бурдюк с маслом",
-                count = 2,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
