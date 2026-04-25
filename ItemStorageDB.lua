@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777152472
+ItemStorageDB_LastUpdate = 1777152534
 ItemStorageDB = {
     {
         name = "Бумажная",
