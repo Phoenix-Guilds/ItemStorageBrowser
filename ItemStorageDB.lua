@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777138872
+ItemStorageDB_LastUpdate = 1777138904
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17210,7 +17210,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-25 20:24:39",
+        updated_at = "2026-04-25 20:41:33",
         money = 347705,
         empty = 0,
         location = "Оргриммар",
@@ -19088,6 +19088,54 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:3651:0:0:0:0:0:0:0:10|h[Щит ветерана]|h|r",
+                name = "Щит ветерана",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Щит",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2976:0:0:0:0:0:0:0:10|h[Охотничьи перчатки]|h|r",
+                name = "Охотничьи перчатки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:14371:0:0:0:0:0:0:0:10|h[Одеяние мистика]|h|r",
+                name = "Одеяние мистика",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Ткань",
+                    required_level = "18",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:15112:0:0:0:0:0:22:0:10|h[Жесткие браслеты с печатью выносливости]|h|r",
+                name = "Жесткие браслеты с печатью выносливости",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "15",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:2990:0:0:0:0:0:0:0:10|h[Вороненые поножи]|h|r",
                 name = "Вороненые поножи",
                 count = 1,
@@ -19268,6 +19316,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:31270:0:0:0:0:0:-83:2:10|h[Жезл банши с символом солнца]|h|r",
+                name = "Жезл банши с символом солнца",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "13",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
                 name = "Ивовая ветвь со знаком интеллекта",
                 count = 1,
@@ -19324,54 +19384,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Жезл",
                     required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:3651:0:0:0:0:0:0:0:10|h[Щит ветерана]|h|r",
-                name = "Щит ветерана",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:2976:0:0:0:0:0:0:0:10|h[Охотничьи перчатки]|h|r",
-                name = "Охотничьи перчатки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "10",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:14371:0:0:0:0:0:0:0:10|h[Одеяние мистика]|h|r",
-                name = "Одеяние мистика",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Ткань",
-                    required_level = "18",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15112:0:0:0:0:0:22:0:10|h[Жесткие браслеты с печатью выносливости]|h|r",
-                name = "Жесткие браслеты с печатью выносливости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кожа",
-                    required_level = "15",
                     retention = "",
                 },
             },
