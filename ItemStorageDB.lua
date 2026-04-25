@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777101750
+ItemStorageDB_LastUpdate = 1777101794
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19757,7 +19757,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-24 14:37:03",
+        updated_at = "2026-04-25 10:22:50",
         money = 201502,
         empty = 0,
         location = "Оргриммар",
@@ -19835,9 +19835,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
-                name = "Чешуя наги",
-                count = 113,
+                link = "|cffffffff|Hitem:4589:0:0:0:0:0:0:0:10|h[Длинное элегантное перо]|h|r",
+                name = "Длинное элегантное перо",
+                count = 100,
                 details = {
                     quality = 1,
                     type = "",
@@ -19847,14 +19847,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:41603:0:0:0:0:0:0:0:10|h[Лазурная чародейская нить]|h|r",
-                name = "Лазурная чародейская нить",
-                count = 10,
+                link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
+                name = "Чешуя наги",
+                count = 113,
                 details = {
-                    quality = 3,
+                    quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "70",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -19919,14 +19919,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4589:0:0:0:0:0:0:0:10|h[Длинное элегантное перо]|h|r",
-                name = "Длинное элегантное перо",
-                count = 100,
+                link = "|cff0070dd|Hitem:41603:0:0:0:0:0:0:0:10|h[Лазурная чародейская нить]|h|r",
+                name = "Лазурная чародейская нить",
+                count = 10,
                 details = {
-                    quality = 1,
+                    quality = 3,
                     type = "",
                     subtype = "",
-                    required_level = "",
+                    required_level = "70",
                     retention = "",
                 },
             },
@@ -19943,33 +19943,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
-                name = "Рулон шелка",
-                count = 3,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
-                name = "Рулон шерсти",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 534,
+                count = 544,
                 details = {
                     quality = 1,
                     type = "",
@@ -20029,7 +20005,19 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 964,
+                count = 1033,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
+                name = "Рулон шерсти",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -20066,6 +20054,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                 name = "Плотная паутина",
                 count = 152,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
+                name = "Рулон шелка",
+                count = 3,
                 details = {
                     quality = 1,
                     type = "",
