@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777138465
+ItemStorageDB_LastUpdate = 1777138497
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16232,7 +16232,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = "2026-04-21 08:38:24",
+        updated_at = "2026-04-25 20:34:38",
         money = 4042,
         empty = 0,
         location = "Оргриммар",
@@ -16322,21 +16322,21 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
-                name = "Сырая блестящая мощь-рыба",
-                count = 267,
+                link = "|cffffffff|Hitem:13888:0:0:0:0:0:0:0:10|h[Темноклешневый омар]|h|r",
+                name = "Темноклешневый омар",
+                count = 15,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "35",
+                    required_level = "45",
                     retention = "",
                 },
             },
             {
-                link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
-                name = "Сырой летний окунь",
-                count = 191,
+                link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
+                name = "Сырая блестящая мощь-рыба",
+                count = 267,
                 details = {
                     quality = 1,
                     type = "",
@@ -16358,14 +16358,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:13888:0:0:0:0:0:0:0:10|h[Темноклешневый омар]|h|r",
-                name = "Темноклешневый омар",
-                count = 15,
+                link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
+                name = "Сырой летний окунь",
+                count = 191,
                 details = {
                     quality = 1,
                     type = "",
                     subtype = "",
-                    required_level = "45",
+                    required_level = "35",
                     retention = "",
                 },
             },
@@ -16430,18 +16430,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
-                name = "Сырой острозубый илистый луциан",
-                count = 176,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
                 name = "Сырая ощетиненная зубатка",
                 count = 18,
@@ -16466,6 +16454,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
+                name = "Сырой острозубый илистый луциан",
+                count = 176,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cffffffff|Hitem:6361:0:0:0:0:0:0:0:10|h[Сырой радужный тунец]|h|r",
                 name = "Сырой радужный тунец",
                 count = 11,
@@ -16481,6 +16481,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                 name = "Сырая блестящая рыбка",
                 count = 99,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
+                name = "Сырая скользкокожая скумбрия",
+                count = 6,
                 details = {
                     quality = 1,
                     type = "",
