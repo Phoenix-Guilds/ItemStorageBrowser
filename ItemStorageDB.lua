@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777106098
+ItemStorageDB_LastUpdate = 1777106130
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17042,7 +17042,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-04-25 10:32:21",
+        updated_at = "2026-04-25 11:35:13",
         money = 347705,
         empty = 0,
         location = "Оргриммар",
@@ -18716,6 +18716,78 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
+                name = "Сфера Бусин с печатью исцеления",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
+                name = "Ивовая ветвь со знаком интеллекта",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
+                name = "Ивовая ветвь со знаком духа",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Левая рука",
+                    required_level = "14",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
+                name = "Огненный жезл",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "7",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4577:0:0:0:0:0:0:0:10|h[Компактный дробовик]|h|r",
+                name = "Компактный дробовик",
+                count = 2,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Огнестрельное",
+                    required_level = "8",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
+                name = "Малый магический жезл",
+                count = 3,
+                details = {
+                    quality = 2,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "5",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:2973:1892:0:0:0:0:0:0:10|h[Охотничий мундир]|h|r",
                 name = "Охотничий мундир",
                 count = 1,
@@ -18932,6 +19004,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:2976:0:0:0:0:0:0:0:10|h[Охотничьи перчатки]|h|r",
+                name = "Охотничьи перчатки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кожа",
+                    required_level = "10",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:14371:0:0:0:0:0:0:0:10|h[Одеяние мистика]|h|r",
                 name = "Одеяние мистика",
                 count = 1,
@@ -19143,78 +19227,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кольчуга",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:15969:0:0:0:0:0:2027:0:10|h[Сфера Бусин с печатью исцеления]|h|r",
-                name = "Сфера Бусин с печатью исцеления",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "5",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:94:0:10|h[Ивовая ветвь со знаком интеллекта]|h|r",
-                name = "Ивовая ветвь со знаком интеллекта",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:7554:0:0:0:0:0:95:0:10|h[Ивовая ветвь со знаком духа]|h|r",
-                name = "Ивовая ветвь со знаком духа",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Левая рука",
-                    required_level = "14",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
-                name = "Огненный жезл",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Жезл",
-                    required_level = "7",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:4577:0:0:0:0:0:0:0:10|h[Компактный дробовик]|h|r",
-                name = "Компактный дробовик",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Огнестрельное",
-                    required_level = "8",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
-                name = "Малый магический жезл",
-                count = 3,
-                details = {
-                    quality = 2,
-                    type = "2",
-                    subtype = "Жезл",
                     required_level = "5",
                     retention = "",
                 },
