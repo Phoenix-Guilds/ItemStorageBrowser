@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777101624
+ItemStorageDB_LastUpdate = 1777101656
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3392,7 +3392,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-22 21:02:01",
+        updated_at = "2026-04-25 10:20:50",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3610,6 +3610,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Лук",
                     required_level = "70",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:37824:0:0:0:0:0:0:0:10|h[Рунический драконий жезл Гвинета]|h|r",
+                name = "Рунический драконий жезл Гвинета",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Жезл",
+                    required_level = "78",
                     retention = "",
                 },
             },
