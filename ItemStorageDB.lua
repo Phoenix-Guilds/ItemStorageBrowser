@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777137808
+ItemStorageDB_LastUpdate = 1777137862
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25454,7 +25454,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-25 12:21:04",
+        updated_at = "2026-04-25 20:23:58",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25808,6 +25808,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:12008:0:0:0:0:0:592:0:10|h[Кольцо саванны со знаком мартышки]|h|r",
+                name = "Кольцо саванны со знаком мартышки",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "23",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
                 name = "Кольцо сумеречных призраков",
                 count = 3,
@@ -25904,6 +25916,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:11987:0:0:0:0:0:772:0:10|h[Иридиевый обруч со знаком совы]|h|r",
+                name = "Иридиевый обруч со знаком совы",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "38",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:20961:0:0:0:0:0:0:0:10|h[Цитриновое кольцо быстрого исцеления]|h|r",
                 name = "Цитриновое кольцо быстрого исцеления",
                 count = 3,
@@ -25977,18 +26001,6 @@ ItemStorageDB = {
             },
             {
                 link = "|cff1eff00|Hitem:12008:0:0:0:0:0:593:0:10|h[Кольцо саванны со знаком мартышки]|h|r",
-                name = "Кольцо саванны со знаком мартышки",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "23",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:12008:0:0:0:0:0:592:0:10|h[Кольцо саванны со знаком мартышки]|h|r",
                 name = "Кольцо саванны со знаком мартышки",
                 count = 1,
                 details = {
@@ -26132,6 +26144,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
+                name = "Кольцо побегов",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "31",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
                 count = 3,
@@ -26140,6 +26164,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "25",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
+                name = "Кольцо защиты",
+                count = 4,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "17",
                     retention = "",
                 },
             },
@@ -26180,6 +26216,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:12055:0:0:0:0:0:0:0:10|h[Кольцо звездной пыли]|h|r",
+                name = "Кольцо звездной пыли",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "47",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:21767:0:0:0:0:0:0:0:10|h[Простое опаловое кольцо]|h|r",
                 name = "Простое опаловое кольцо",
                 count = 3,
@@ -26204,14 +26252,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:11987:0:0:0:0:0:772:0:10|h[Иридиевый обруч со знаком совы]|h|r",
-                name = "Иридиевый обруч со знаком совы",
+                link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
+                name = "Кольцо грозного лика",
                 count = 1,
                 details = {
-                    quality = 2,
+                    quality = 3,
                     type = "4",
                     subtype = "Палец",
-                    required_level = "38",
+                    required_level = "24",
                     retention = "",
                 },
             },
@@ -26272,18 +26320,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "18",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
-                name = "Кольцо защиты",
-                count = 4,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "17",
                     retention = "",
                 },
             },
