@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777102585
+ItemStorageDB_LastUpdate = 1777102628
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12236,7 +12236,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-22 22:34:03",
+        updated_at = "2026-04-25 10:36:35",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -12316,7 +12316,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31275:0:0:0:0:0:0:0:10|h[Ожерелье добычи]|h|r",
                 name = "Ожерелье добычи",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
@@ -12460,7 +12460,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-42:65:10|h[Перстень грез с меткой оракула]|h|r",
                 name = "Перстень грез с меткой оракула",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "4",
