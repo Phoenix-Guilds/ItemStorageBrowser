@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777106590
+ItemStorageDB_LastUpdate = 1777106621
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4802,7 +4802,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-25 11:39:59",
+        updated_at = "2026-04-25 11:43:15",
         money = 9680,
         empty = 15,
         location = "Оргриммар",
@@ -5254,7 +5254,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                 name = "Сердце дикой природы",
-                count = 67,
+                count = 73,
                 details = {
                     quality = 1,
                     type = "",
