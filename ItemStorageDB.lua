@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777101688
+ItemStorageDB_LastUpdate = 1777101719
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-25 08:45:39",
+        updated_at = "2026-04-25 10:21:42",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2693,6 +2693,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
+                name = "Топор геолога",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "15",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                 name = "Острие Кху",
                 count = 2,
@@ -2737,6 +2749,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Древковое",
                     required_level = "35",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:937:0:0:0:0:0:0:0:10|h[Черный посох Сумеречного леса]|h|r",
+                name = "Черный посох Сумеречного леса",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "33",
                     retention = "Двуручное",
                 },
             },
@@ -3125,78 +3149,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
-                name = "Ручной молот Мертвого Леса",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "32",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
-                name = "Маячащий чекан",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "26",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
-                name = "Сокрушитель Безеля",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "24",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13032:0:0:0:0:0:0:0:10|h[Меч Скверны]|h|r",
-                name = "Меч Скверны",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "22",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
-                name = "Алмазный молот",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "20",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
-                name = "Клинок Многоглаза",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "15",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                 name = "Эгида Штормграда",
                 count = 2,
@@ -3290,6 +3242,78 @@ ItemStorageDB = {
                     subtype = "Дробящее",
                     required_level = "16",
                     retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
+                name = "Ручной молот Мертвого Леса",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "32",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
+                name = "Маячащий чекан",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "26",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
+                name = "Сокрушитель Безеля",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "24",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:13032:0:0:0:0:0:0:0:10|h[Меч Скверны]|h|r",
+                name = "Меч Скверны",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "22",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
+                name = "Алмазный молот",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Дробящее",
+                    required_level = "20",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
+                name = "Клинок Многоглаза",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "15",
+                    retention = "Одноручное",
                 },
             },
             {
