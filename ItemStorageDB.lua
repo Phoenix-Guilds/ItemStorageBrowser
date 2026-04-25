@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777106309
+ItemStorageDB_LastUpdate = 1777106350
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19781,7 +19781,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-25 10:22:50",
+        updated_at = "2026-04-25 11:38:35",
         money = 201502,
         empty = 0,
         location = "Оргриммар",
@@ -19826,6 +19826,18 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:21881:0:0:0:0:0:0:0:10|h[Шелковая паутина Пустоты]|h|r",
                 name = "Шелковая паутина Пустоты",
                 count = 66,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:14048:0:0:0:0:0:0:0:10|h[Рулон рунической ткани]|h|r",
+                name = "Рулон рунической ткани",
+                count = 1,
                 details = {
                     quality = 1,
                     type = "",
@@ -19981,7 +19993,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                 name = "Рулон льняной ткани",
-                count = 523,
+                count = 525,
                 details = {
                     quality = 1,
                     type = "",
@@ -20005,7 +20017,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
                 name = "Рулон магической ткани",
-                count = 47,
+                count = 52,
                 details = {
                     quality = 1,
                     type = "",
@@ -20041,7 +20053,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
                 name = "Рулон шерсти",
-                count = 1,
+                count = 4,
                 details = {
                     quality = 1,
                     type = "",
