@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777136620
+ItemStorageDB_LastUpdate = 1777136683
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10337,7 +10337,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-25 11:46:29",
+        updated_at = "2026-04-25 20:04:37",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10537,7 +10537,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 38,
+                count = 37,
                 details = {
                     quality = 2,
                     type = "2",
@@ -10547,9 +10547,33 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
+                name = "Мифриловая обшивка",
+                count = 60,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
+                name = "Украшенные узором бронзовые наручи",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "20",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
                 name = "Одеяния Тайны",
-                count = 3,
+                count = 2,
                 details = {
                     quality = 2,
                     type = "4",
@@ -10567,30 +10591,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "26",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
-                name = "Средоточие Стихий",
-                count = 727,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э\'ко диких совухов]|h|r",
-                name = "Э\'ко диких совухов",
-                count = 1,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
                     retention = "",
                 },
             },
@@ -10631,9 +10631,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
-                name = "Мифриловая обшивка",
-                count = 60,
+                link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
+                name = "Средоточие Стихий",
+                count = 727,
                 details = {
                     quality = 1,
                     type = "",
@@ -10643,14 +10643,14 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
-                name = "Украшенные узором бронзовые наручи",
+                link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э\'ко диких совухов]|h|r",
+                name = "Э\'ко диких совухов",
                 count = 1,
                 details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "20",
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
