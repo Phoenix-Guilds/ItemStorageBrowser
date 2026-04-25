@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777160103
+ItemStorageDB_LastUpdate = 1777160135
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12692,11 +12692,23 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-25 10:36:35",
+        updated_at = "2026-04-26 02:35:07",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:42339:0:0:0:0:0:0:0:10|h[Ожерелье Кровавого солнца]|h|r",
+                name = "Ожерелье Кровавого солнца",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "75",
+                    retention = "",
+                },
+            },
             {
                 link = "|cff0070dd|Hitem:44688:0:0:0:0:0:-92:65:10|h[Отрубленный клык Лок\'Нахак с меткой оруженосца]|h|r",
                 name = "Отрубленный клык Лок\'Нахак с меткой оруженосца",
@@ -12730,6 +12742,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "78",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:42338:0:0:0:0:0:0:0:10|h[Нефритовый кинжал-подвеска]|h|r",
+                name = "Нефритовый кинжал-подвеска",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "75",
                     retention = "",
                 },
             },
@@ -13030,6 +13054,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Идол",
                     required_level = "60",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:43245:0:0:0:0:0:0:0:10|h[Амулет с кристаллом кальцедония]|h|r",
+                name = "Амулет с кристаллом кальцедония",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "70",
                     retention = "",
                 },
             },
