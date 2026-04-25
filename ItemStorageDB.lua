@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777139462
+ItemStorageDB_LastUpdate = 1777139525
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25622,7 +25622,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-25 20:23:58",
+        updated_at = "2026-04-25 20:51:12",
         money = 14111,
         empty = 0,
         location = "Оргриммар",
@@ -25996,6 +25996,30 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "23",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:4998:0:0:0:0:0:0:0:10|h[Кровавое кольцо]|h|r",
+                name = "Кровавое кольцо",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "19",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:11993:0:0:0:0:0:1182:0:10|h[Глиняное кольцо со знаком медведя]|h|r",
+                name = "Глиняное кольцо со знаком медведя",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Палец",
+                    required_level = "17",
                     retention = "",
                 },
             },
