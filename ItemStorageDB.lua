@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777147397
+ItemStorageDB_LastUpdate = 1777147459
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10337,7 +10337,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-25 20:48:22",
+        updated_at = "2026-04-25 23:04:03",
         money = 4062,
         empty = 0,
         location = "Оргриммар",
@@ -10357,7 +10357,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 92,
+                count = 82,
                 details = {
                     quality = 1,
                     type = "",
@@ -10381,7 +10381,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 126,
+                count = 137,
                 details = {
                     quality = 1,
                     type = "",
@@ -10393,7 +10393,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                 name = "Рыбий жир",
-                count = 67,
+                count = 71,
                 details = {
                     quality = 1,
                     type = "",
@@ -10403,21 +10403,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
-                name = "Латные перчатки Скверны",
-                count = 4,
-                details = {
-                    quality = 2,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
                 name = "Дикий росток",
-                count = 120,
+                count = 115,
                 details = {
                     quality = 1,
                     type = "",
@@ -10429,7 +10417,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун\'Горо]|h|r",
                 name = "Земля Ун\'Горо",
-                count = 343,
+                count = 350,
                 details = {
                     quality = 1,
                     type = "",
@@ -10441,7 +10429,31 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил\'джедена]|h|r",
                 name = "Знак Кил\'джедена",
-                count = 43,
+                count = 48,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
+                name = "Конечности и панцири некрорахнидов",
+                count = 4,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:22526:0:0:0:0:0:0:0:10|h[Обломки костей]|h|r",
+                name = "Обломки костей",
+                count = 47,
                 details = {
                     quality = 1,
                     type = "",
@@ -10475,21 +10487,9 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
-                name = "Перстень Огнекрылов",
-                count = 8,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
                 name = "Пластины из темного железа",
-                count = 193,
+                count = 163,
                 details = {
                     quality = 1,
                     type = "",
@@ -10501,7 +10501,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
                 name = "Радужное перо",
-                count = 47,
+                count = 49,
                 details = {
                     quality = 1,
                     type = "",
@@ -10537,12 +10537,24 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 36,
+                count = 35,
                 details = {
                     quality = 2,
                     type = "2",
                     subtype = "Огнестрельное",
                     required_level = "16",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
+                name = "Гирохронатом",
+                count = 30,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
@@ -10597,7 +10609,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 646,
+                count = 727,
                 details = {
                     quality = 1,
                     type = "",
@@ -10619,30 +10631,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
-                name = "Усовершенствованный манекен-мишень",
-                count = 2,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
-                name = "Гирохронатом",
-                count = 30,
-                details = {
-                    quality = 1,
-                    type = "",
-                    subtype = "",
-                    required_level = "",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
                 name = "Поврежденное ожерелье",
                 count = 3,
@@ -10651,6 +10639,18 @@ ItemStorageDB = {
                     type = "",
                     subtype = "",
                     required_level = "77",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
+                name = "Усовершенствованный манекен-мишень",
+                count = 2,
+                details = {
+                    quality = 1,
+                    type = "",
+                    subtype = "",
+                    required_level = "",
                     retention = "",
                 },
             },
