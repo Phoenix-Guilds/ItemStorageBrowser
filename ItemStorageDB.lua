@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777206847
+ItemStorageDB_LastUpdate = 1777206910
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21428,7 +21428,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-04-25 10:20:05",
+        updated_at = "2026-04-26 15:35:07",
         money = 336703,
         empty = 0,
         location = "Оргриммар",
@@ -23318,18 +23318,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:31195:0:0:0:0:0:-45:44:10|h[Пустолатный ремень с меткой победителя]|h|r",
-                name = "Пустолатный ремень с меткой победителя",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "66",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:44670:0:0:0:0:0:-41:75:10|h[Пояс Печати душ с меткой зверя]|h|r",
                 name = "Пояс Печати душ с меткой зверя",
                 count = 1,
@@ -23678,6 +23666,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff1eff00|Hitem:23490:0:0:0:0:0:0:0:10|h[Плетеный мундир из оскверненного железа]|h|r",
+                name = "Плетеный мундир из оскверненного железа",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Кольчуга",
+                    required_level = "63",
+                    retention = "",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:44676:0:0:0:0:0:-91:108:10|h[Поножи Сиреяна с меткой стрелка]|h|r",
                 name = "Поножи Сиреяна с меткой стрелка",
                 count = 1,
@@ -23914,18 +23914,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Кожа",
                     required_level = "57",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:23490:0:0:0:0:0:0:0:10|h[Плетеный мундир из оскверненного железа]|h|r",
-                name = "Плетеный мундир из оскверненного железа",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Кольчуга",
-                    required_level = "63",
                     retention = "",
                 },
             },
