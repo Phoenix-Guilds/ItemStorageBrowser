@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777216627
+ItemStorageDB_LastUpdate = 1777216871
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25838,7 +25838,7 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-04-26 02:36:37",
+        updated_at = "2026-04-26 18:21:04",
         money = 344111,
         empty = 0,
         location = "Оргриммар",
@@ -26182,24 +26182,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
                 name = "Тяжелое золотое ожерелье битвы",
-                count = 2,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Шея",
-                    required_level = "30",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:20966:0:0:0:0:0:0:0:10|h[Нефритовая подвеска взрыва]|h|r",
-                name = "Нефритовая подвеска взрыва",
                 count = 1,
                 details = {
                     quality = 2,
                     type = "4",
                     subtype = "Шея",
-                    required_level = "31",
+                    required_level = "30",
                     retention = "",
                 },
             },
@@ -26224,6 +26212,18 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Шея",
                     required_level = "37",
+                    retention = "",
+                },
+            },
+            {
+                link = "|cff1eff00|Hitem:20966:0:0:0:0:0:0:0:10|h[Нефритовая подвеска взрыва]|h|r",
+                name = "Нефритовая подвеска взрыва",
+                count = 1,
+                details = {
+                    quality = 2,
+                    type = "4",
+                    subtype = "Шея",
+                    required_level = "31",
                     retention = "",
                 },
             },
@@ -26764,18 +26764,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "25",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
-                name = "Кольцо грозного лика",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "24",
                     retention = "",
                 },
             },
