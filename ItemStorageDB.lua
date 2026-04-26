@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777206724
+ItemStorageDB_LastUpdate = 1777206847
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3452,7 +3452,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-25 10:20:50",
+        updated_at = "2026-04-26 15:33:42",
         money = 13665,
         empty = 0,
         location = "Оргриммар",
@@ -3790,18 +3790,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Щит",
                     required_level = "68",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:31200:0:0:0:0:0:0:0:10|h[Щит своенравного пехотинца]|h|r",
-                name = "Щит своенравного пехотинца",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "4",
-                    subtype = "Щит",
-                    required_level = "65",
                     retention = "",
                 },
             },
