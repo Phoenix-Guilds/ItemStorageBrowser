@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777207155
+ItemStorageDB_LastUpdate = 1777207308
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11351,7 +11351,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-26 15:37:27",
+        updated_at = "2026-04-26 15:41:46",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11941,30 +11941,6 @@ ItemStorageDB = {
                     type = "4",
                     subtype = "Палец",
                     required_level = "68",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36417:0:0:0:0:0:-40:37:10|h[Овальное кольцо с меткой преступника]|h|r",
-                name = "Овальное кольцо с меткой преступника",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36417:0:0:0:0:0:-16:37:10|h[Овальное кольцо с печатью выносливости]|h|r",
-                name = "Овальное кольцо с печатью выносливости",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Палец",
-                    required_level = "67",
                     retention = "",
                 },
             },
