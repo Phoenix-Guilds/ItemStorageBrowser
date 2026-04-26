@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777206910
+ItemStorageDB_LastUpdate = 1777207063
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11351,7 +11351,7 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-25 21:47:34",
+        updated_at = "2026-04-26 15:37:27",
         money = 3778,
         empty = 0,
         location = "Оргриммар",
@@ -11460,18 +11460,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Ткань",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36295:0:0:0:0:0:-17:67:10|h[Шлем Западной Стражи со знаком силы]|h|r",
-                name = "Шлем Западной Стражи со знаком силы",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Латы",
                     required_level = "67",
                     retention = "",
                 },
@@ -12317,18 +12305,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff1eff00|Hitem:36298:0:0:0:0:0:-43:37:10|h[Наручи Западной Стражи с меткой солдата]|h|r",
-                name = "Наручи Западной Стражи с меткой солдата",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Латы",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
                 link = "|cff1eff00|Hitem:36074:0:0:0:0:0:-42:37:10|h[Наручи бухты Кинжалов с меткой оракула]|h|r",
                 name = "Наручи бухты Кинжалов с меткой оракула",
                 count = 1,
@@ -12552,18 +12528,6 @@ ItemStorageDB = {
                     quality = 2,
                     type = "4",
                     subtype = "Кольчуга",
-                    required_level = "67",
-                    retention = "",
-                },
-            },
-            {
-                link = "|cff1eff00|Hitem:36296:0:0:0:0:0:-45:67:10|h[Ножные латы Западной Стражи с меткой победителя]|h|r",
-                name = "Ножные латы Западной Стражи с меткой победителя",
-                count = 1,
-                details = {
-                    quality = 2,
-                    type = "4",
-                    subtype = "Латы",
                     required_level = "67",
                     retention = "",
                 },
