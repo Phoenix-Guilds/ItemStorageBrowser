@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777207063
+ItemStorageDB_LastUpdate = 1777207155
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12644,7 +12644,7 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-26 02:37:22",
+        updated_at = "2026-04-26 15:39:14",
         money = 13785,
         empty = 0,
         location = "Оргриммар",
@@ -12748,7 +12748,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31275:0:0:0:0:0:0:0:10|h[Ожерелье добычи]|h|r",
                 name = "Ожерелье добычи",
-                count = 2,
+                count = 1,
                 details = {
                     quality = 3,
                     type = "4",
