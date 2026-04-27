@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777332332
+ItemStorageDB_LastUpdate = 1777332395
 ItemStorageDB = {
     {
         name = "Дробящая",
@@ -7350,9 +7350,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-27 17:23:29",
+        updated_at = "2026-04-27 23:26:35",
         money = 74134,
-        empty = 5,
+        empty = 4,
         location = "Оргриммар",
         items = {
             {
@@ -8233,6 +8233,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11226:0:0:0:0:0:0:0:10|h[Формула: зачаровывание перчаток - верховая езда]|h|r",
                 name = "Формула: зачаровывание перчаток - верховая езда",
+                count = 1,
+            },
+            {
+                link = "|cffffffff|Hitem:27736:0:0:0:0:0:0:0:10|h[Поварская книга]|h|r",
+                name = "Поварская книга",
                 count = 1,
             },
             {
