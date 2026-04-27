@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777321587
+ItemStorageDB_LastUpdate = 1777322419
 ItemStorageDB = {
     {
         name = "Шмоточка",
@@ -4195,7 +4195,7 @@ ItemStorageDB = {
     },
     {
         name = "Бумажная",
-        updated_at = "2026-04-27 20:26:26",
+        updated_at = "2026-04-27 20:40:19",
         money = 9404,
         empty = 48,
         location = "Оргриммар",
@@ -4358,7 +4358,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                 name = "Символ правосудия",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:40903:0:0:0:0:0:0:0:10|h[Символ глубокой раны]|h|r",
