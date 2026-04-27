@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777298486
+ItemStorageDB_LastUpdate = 1777298519
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2075,7 +2075,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-26 18:26:09",
+        updated_at = "2026-04-27 17:01:53",
         money = 12710,
         empty = 0,
         location = "Оргриммар",
@@ -2381,6 +2381,30 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
+                name = "Кровавая пика",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Древковое",
+                    required_level = "23",
+                    retention = "Двуручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
+                name = "Корявый ясеневый посох",
+                count = 2,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Посох",
+                    required_level = "26",
+                    retention = "Двуручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
                 name = "Кровопроливец",
                 count = 2,
@@ -2501,15 +2525,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:2256:0:0:0:0:0:0:0:10|h[Скелетная дубина]|h|r",
-                name = "Скелетная дубина",
-                count = 1,
+                link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
+                name = "Каменный ворон",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Дробящее",
-                    required_level = "19",
-                    retention = "Одноручное",
+                    subtype = "Древковое",
+                    required_level = "47",
+                    retention = "Двуручное",
                 },
             },
             {
@@ -2573,18 +2597,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:44219:0:0:0:0:0:0:0:10|h[Посох мага Новолуния]|h|r",
-                name = "Посох мага Новолуния",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Посох",
-                    required_level = "40",
-                    retention = "Двуручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:44218:0:0:0:0:0:0:0:10|h[Топор палача Новолуния]|h|r",
                 name = "Топор палача Новолуния",
                 count = 1,
@@ -2611,7 +2623,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                 name = "Вязкий молот",
-                count = 1,
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
@@ -2629,18 +2641,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "28",
-                    retention = "Двуручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
-                name = "Корявый ясеневый посох",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Посох",
-                    required_level = "26",
                     retention = "Двуручное",
                 },
             },
@@ -2789,6 +2789,18 @@ ItemStorageDB = {
                 },
             },
             {
+                link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
+                name = "Клинок Многоглаза",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Меч",
+                    required_level = "15",
+                    retention = "Одноручное",
+                },
+            },
+            {
                 link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
                 name = "Посох сильного магического огня",
                 count = 2,
@@ -2873,15 +2885,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
-                name = "Каменный ворон",
-                count = 2,
+                link = "|cff0070dd|Hitem:2256:0:0:0:0:0:0:0:10|h[Скелетная дубина]|h|r",
+                name = "Скелетная дубина",
+                count = 1,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Древковое",
-                    required_level = "47",
-                    retention = "Двуручное",
+                    subtype = "Дробящее",
+                    required_level = "19",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -2941,18 +2953,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Топор",
                     required_level = "32",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
-                name = "Кортик Новолуния",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Кинжал",
-                    required_level = "40",
                     retention = "Одноручное",
                 },
             },
@@ -3097,6 +3097,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "42",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
+                name = "Зазубренный боевой топор",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Топор",
+                    required_level = "25",
                     retention = "Одноручное",
                 },
             },
@@ -3281,15 +3293,15 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
-                name = "Кровавая пика",
-                count = 1,
+                link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
+                name = "Полночная палица",
+                count = 2,
                 details = {
                     quality = 3,
                     type = "2",
-                    subtype = "Древковое",
-                    required_level = "23",
-                    retention = "Двуручное",
+                    subtype = "Дробящее",
+                    required_level = "33",
+                    retention = "Одноручное",
                 },
             },
             {
@@ -3353,18 +3365,6 @@ ItemStorageDB = {
                 },
             },
             {
-                link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
-                name = "Клинок Многоглаза",
-                count = 1,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Меч",
-                    required_level = "15",
-                    retention = "Одноручное",
-                },
-            },
-            {
                 link = "|cff0070dd|Hitem:4091:0:0:0:0:0:0:0:10|h[Вдоводел]|h|r",
                 name = "Вдоводел",
                 count = 1,
@@ -3385,6 +3385,18 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Меч",
                     required_level = "42",
+                    retention = "Одноручное",
+                },
+            },
+            {
+                link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
+                name = "Кортик Новолуния",
+                count = 1,
+                details = {
+                    quality = 3,
+                    type = "2",
+                    subtype = "Кинжал",
+                    required_level = "40",
                     retention = "Одноручное",
                 },
             },
@@ -3433,18 +3445,6 @@ ItemStorageDB = {
                     type = "2",
                     subtype = "Кинжал",
                     required_level = "34",
-                    retention = "Одноручное",
-                },
-            },
-            {
-                link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
-                name = "Полночная палица",
-                count = 2,
-                details = {
-                    quality = 3,
-                    type = "2",
-                    subtype = "Дробящее",
-                    required_level = "33",
                     retention = "Одноручное",
                 },
             },
