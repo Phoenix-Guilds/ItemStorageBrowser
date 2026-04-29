@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777483548
+ItemStorageDB_LastUpdate = 1777483583
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1720,9 +1720,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-27 17:29:14",
+        updated_at = "2026-04-29 17:26:20",
         money = 13665,
-        empty = 162,
+        empty = 161,
         location = "Оргриммар",
         items = {
             {
@@ -1843,6 +1843,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37812:0:0:0:0:0:0:0:10|h[Сокрушитель из окаменелого железного дерева]|h|r",
                 name = "Сокрушитель из окаменелого железного дерева",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:37813:0:0:0:0:0:0:0:10|h[Знамерез]|h|r",
+                name = "Знамерез",
                 count = 1,
             },
             {
