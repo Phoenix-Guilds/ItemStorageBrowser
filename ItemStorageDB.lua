@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777483619
+ItemStorageDB_LastUpdate = 1777483653
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4604,9 +4604,9 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-04-27 20:12:52",
+        updated_at = "2026-04-29 17:27:30",
         money = 13785,
-        empty = 149,
+        empty = 150,
         location = "Оргриммар",
         items = {
             {
@@ -4687,7 +4687,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37819:0:0:0:0:0:0:0:10|h[Мастерски сделанное кольцо Милана]|h|r",
                 name = "Мастерски сделанное кольцо Милана",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:37820:0:0:0:0:0:0:0:10|h[Воргенское кольцо возрождения]|h|r",
