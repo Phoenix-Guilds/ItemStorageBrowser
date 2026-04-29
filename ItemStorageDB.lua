@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777483760
+ItemStorageDB_LastUpdate = 1777483826
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7974,9 +7974,9 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-28 14:30:08",
+        updated_at = "2026-04-29 17:30:22",
         money = 339467,
-        empty = 68,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -8047,7 +8047,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
                 name = "Терошишка",
-                count = 135,
+                count = 85,
             },
             {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
@@ -8117,17 +8117,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                 name = "Золотой клевер",
-                count = 51,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                 name = "Язык аспида",
                 count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
-                name = "Тигровая лилия",
-                count = 38,
             },
             {
                 link = "|cffffffff|Hitem:36905:0:0:0:0:0:0:0:10|h[Личецвет]|h|r",
@@ -8138,11 +8133,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:36907:0:0:0:0:0:0:0:10|h[Роза Таландры]|h|r",
                 name = "Роза Таландры",
                 count = 10,
-            },
-            {
-                link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
-                name = "Яснотка",
-                count = 60,
             },
             {
                 link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
