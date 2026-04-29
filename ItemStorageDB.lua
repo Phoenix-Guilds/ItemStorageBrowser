@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1777446523
+ItemStorageDB_LastUpdate = 1777448556
 ItemStorageDB = {
     {
         name = "Медяшка",
-        updated_at = "2026-04-29 07:08:42",
+        updated_at = "2026-04-29 07:13:32",
         money = 431967,
         empty = 59,
         location = "Оргриммар",
@@ -2363,15 +2363,20 @@ ItemStorageDB = {
     },
     {
         name = "Ларец",
-        updated_at = "2026-04-27 17:43:18",
+        updated_at = "2026-04-29 07:42:34",
         money = 3254,
-        empty = 183,
+        empty = 180,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
                 name = "Кориевый сейф",
                 count = 6,
+            },
+            {
+                link = "|cff1eff00|Hitem:43622:0:0:0:0:0:0:0:10|h[Сейф из ледяной стали]|h|r",
+                name = "Сейф из ледяной стали",
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:4633:0:0:0:0:0:0:0:10|h[Тяжелый бронзовый сейф]|h|r",
@@ -3547,15 +3552,20 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-04-27 23:45:42",
+        updated_at = "2026-04-29 07:19:40",
         money = 82572,
-        empty = 58,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:40012:0:0:0:0:0:0:0:10|h[Сверкающее сияние осени]|h|r",
                 name = "Сверкающее сияние осени",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:40023:0:0:0:0:0:0:0:10|h[Изменчивый сумеречный опал]|h|r",
+                name = "Изменчивый сумеречный опал",
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:40053:0:0:0:0:0:0:0:10|h[Нетронутый императорский топаз]|h|r",
