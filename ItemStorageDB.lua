@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777560183
+ItemStorageDB_LastUpdate = 1777560343
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4247,9 +4247,9 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-29 17:25:08",
+        updated_at = "2026-04-30 17:45:43",
         money = 4062,
-        empty = 122,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -4338,9 +4338,14 @@ ItemStorageDB = {
                 count = 90,
             },
             {
+                link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
+                name = "Неопознанные части растений",
+                count = 24,
+            },
+            {
                 link = "|cffffffff|Hitem:25719:0:0:0:0:0:0:0:10|h[Перо араккоа]|h|r",
                 name = "Перо араккоа",
-                count = 18,
+                count = 37,
             },
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
