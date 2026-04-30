@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777572842
+ItemStorageDB_LastUpdate = 1777572879
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4138,9 +4138,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-30 19:01:08",
+        updated_at = "2026-04-30 21:14:39",
         money = 9396,
-        empty = 60,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -4157,6 +4157,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12820:0:0:0:0:0:0:0:10|h[Огненная вода Зимней Спячки]|h|r",
                 name = "Огненная вода Зимней Спячки",
                 count = 102,
+            },
+            {
+                link = "|cffffffff|Hitem:13443:0:0:0:0:0:0:0:10|h[Большой флакон с зельем маны]|h|r",
+                name = "Большой флакон с зельем маны",
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
