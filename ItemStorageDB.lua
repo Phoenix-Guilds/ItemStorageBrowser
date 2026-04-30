@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777564868
+ItemStorageDB_LastUpdate = 1777564905
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7034,9 +7034,9 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = "2026-04-30 17:43:03",
+        updated_at = "2026-04-30 19:01:45",
         money = 4291,
-        empty = 126,
+        empty = 124,
         location = "Оргриммар",
         items = {
             {
@@ -7062,7 +7062,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10309:0:0:0:0:0:0:0:10|h[Свиток ловкости IV]|h|r",
                 name = "Свиток ловкости IV",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:10310:0:0:0:0:0:0:0:10|h[Свиток силы IV]|h|r",
@@ -7107,7 +7107,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27499:0:0:0:0:0:0:0:10|h[Свиток интеллекта V]|h|r",
                 name = "Свиток интеллекта V",
-                count = 41,
+                count = 82,
             },
             {
                 link = "|cffffffff|Hitem:27503:0:0:0:0:0:0:0:10|h[Свиток силы V]|h|r",
@@ -7117,7 +7117,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33457:0:0:0:0:0:0:0:10|h[Свиток ловкости VI]|h|r",
                 name = "Свиток ловкости VI",
-                count = 51,
+                count = 56,
             },
             {
                 link = "|cffffffff|Hitem:33458:0:0:0:0:0:0:0:10|h[Свиток интеллекта VI]|h|r",
@@ -7132,7 +7132,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33462:0:0:0:0:0:0:0:10|h[Свиток силы VI]|h|r",
                 name = "Свиток силы VI",
-                count = 50,
+                count = 52,
             },
             {
                 link = "|cffffffff|Hitem:37091:0:0:0:0:0:0:0:10|h[Свиток интеллекта VII]|h|r",
