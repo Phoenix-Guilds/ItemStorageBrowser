@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777562122
+ItemStorageDB_LastUpdate = 1777562159
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1720,9 +1720,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-04-29 17:26:20",
+        updated_at = "2026-04-30 18:15:59",
         money = 13665,
-        empty = 161,
+        empty = 159,
         location = "Оргриммар",
         items = {
             {
@@ -1768,7 +1768,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
                 name = "Ружье-клинок",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31287:1128:0:0:0:0:0:0:10|h[Щит дренейского отважного стража]|h|r",
@@ -1874,6 +1874,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:44505:20242:0:0:0:0:0:0:10|h[Повергатель]|h|r",
                 name = "Повергатель",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:49227:0:0:0:0:0:-88:56:10|h[Клык Сколла с меткой предсказателя]|h|r",
+                name = "Клык Сколла с меткой предсказателя",
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:36529:0:0:0:0:0:-41:67:10|h[Выкопанный палаш с меткой зверя]|h|r",
