@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777573267
+ItemStorageDB_LastUpdate = 1777573336
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8949,7 +8949,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-04-30 21:11:03",
+        updated_at = "2026-04-30 21:22:16",
         money = 339467,
         empty = 67,
         location = "Оргриммар",
@@ -9027,7 +9027,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                 name = "Древний лишайник",
-                count = 56,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
@@ -9137,7 +9137,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40195:0:0:0:0:0:0:0:10|h[Карломасло]|h|r",
                 name = "Карломасло",
-                count = 145,
+                count = 149,
             },
             {
                 link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
