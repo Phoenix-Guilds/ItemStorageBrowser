@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777565273
+ItemStorageDB_LastUpdate = 1777565402
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3900,9 +3900,9 @@ ItemStorageDB = {
     },
     {
         name = "Ларец",
-        updated_at = "2026-04-30 17:47:29",
+        updated_at = "2026-04-30 19:10:02",
         money = 3254,
-        empty = 178,
+        empty = 176,
         location = "Оргриммар",
         items = {
             {
@@ -3933,7 +3933,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5758:0:0:0:0:0:0:0:10|h[Мифриловый сейф]|h|r",
                 name = "Мифриловый сейф",
-                count = 2,
+                count = 3,
+            },
+            {
+                link = "|cff1eff00|Hitem:5759:0:0:0:0:0:0:0:10|h[Ториевый сейф]|h|r",
+                name = "Ториевый сейф",
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:5760:0:0:0:0:0:0:0:10|h[Этерниевый сейф]|h|r",
