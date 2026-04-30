@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777572983
+ItemStorageDB_LastUpdate = 1777573020
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4138,9 +4138,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-04-30 21:14:39",
+        updated_at = "2026-04-30 21:17:00",
         money = 9396,
-        empty = 59,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -4194,6 +4194,11 @@ ItemStorageDB = {
                 count = 82,
             },
             {
+                link = "|cffffffff|Hitem:13454:0:0:0:0:0:0:0:10|h[Сильный чародейский эликсир]|h|r",
+                name = "Сильный чародейский эликсир",
+                count = 8,
+            },
+            {
                 link = "|cffffffff|Hitem:13462:0:0:0:0:0:0:0:10|h[Зелье очищения]|h|r",
                 name = "Зелье очищения",
                 count = 10,
@@ -4226,7 +4231,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                 name = "Гигантский флакон с лечебным зельем",
-                count = 244,
+                count = 249,
             },
             {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
@@ -4286,7 +4291,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:32067:0:0:0:0:0:0:0:10|h[Эликсир дренейской мудрости]|h|r",
                 name = "Эликсир дренейской мудрости",
-                count = 14,
+                count = 56,
             },
             {
                 link = "|cffffffff|Hitem:33447:0:0:0:0:0:0:0:10|h[Рунический флакон с лечебным зельем]|h|r",
