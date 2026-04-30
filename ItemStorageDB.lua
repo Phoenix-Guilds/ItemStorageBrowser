@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777562017
+ItemStorageDB_LastUpdate = 1777562085
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5318,9 +5318,9 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = "2026-04-29 17:13:30",
+        updated_at = "2026-04-30 18:14:45",
         money = 13104,
-        empty = 67,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -5406,7 +5406,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
