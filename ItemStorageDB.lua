@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777563522
+ItemStorageDB_LastUpdate = 1777563621
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8400,9 +8400,9 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = "2026-04-30 17:39:08",
+        updated_at = "2026-04-30 18:40:21",
         money = 201502,
-        empty = 93,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -8433,7 +8433,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 1111,
+                count = 1261,
             },
             {
                 link = "|cffffffff|Hitem:14048:0:0:0:0:0:0:0:10|h[Рулон рунической ткани]|h|r",
@@ -8443,7 +8443,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14227:0:0:0:0:0:0:0:10|h[Железношелковая паутина]|h|r",
                 name = "Железношелковая паутина",
-                count = 56,
+                count = 60,
             },
             {
                 link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
@@ -8453,7 +8453,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21881:0:0:0:0:0:0:0:10|h[Шелковая паутина Пустоты]|h|r",
                 name = "Шелковая паутина Пустоты",
-                count = 66,
+                count = 73,
             },
             {
                 link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
