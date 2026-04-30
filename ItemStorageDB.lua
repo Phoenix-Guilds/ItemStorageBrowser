@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777572663
+ItemStorageDB_LastUpdate = 1777572731
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3959,9 +3959,9 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-04-30 19:32:21",
+        updated_at = "2026-04-30 21:12:11",
         money = 431967,
-        empty = 57,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -3982,17 +3982,17 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23447:0:0:0:0:0:0:0:10|h[Этерниевый слиток]|h|r",
                 name = "Этерниевый слиток",
-                count = 20,
+                count = 21,
             },
             {
                 link = "|cff1eff00|Hitem:23448:0:0:0:0:0:0:0:10|h[Слиток оскверненной стали]|h|r",
                 name = "Слиток оскверненной стали",
-                count = 7,
+                count = 13,
             },
             {
                 link = "|cff1eff00|Hitem:23449:0:0:0:0:0:0:0:10|h[Кориевый слиток]|h|r",
                 name = "Кориевый слиток",
-                count = 112,
+                count = 139,
             },
             {
                 link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
@@ -4062,12 +4062,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
                 name = "Слиток оскверненного железа",
-                count = 50,
+                count = 82,
             },
             {
                 link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
                 name = "Адамантитовый слиток",
-                count = 250,
+                count = 256,
+            },
+            {
+                link = "|cffffffff|Hitem:23573:0:0:0:0:0:0:0:10|h[Закаленный адамантитовый слиток]|h|r",
+                name = "Закаленный адамантитовый слиток",
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
