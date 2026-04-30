@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777563621
+ItemStorageDB_LastUpdate = 1777563781
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5776,7 +5776,7 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-29 17:24:01",
+        updated_at = "2026-04-30 18:43:01",
         money = 74134,
         empty = 4,
         location = "Оргриммар",
@@ -5902,8 +5902,8 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:10603:0:0:0:0:0:0:0:10|h[Схема: ультра-очки \\",
-                name = "Unknown Item",
+                link = "|cff1eff00|Hitem:10603:0:0:0:0:0:0:0:10|h[Схема: ультра-очки \",
+                name = "Схема: ультра-очки \",
                 count = 1,
             },
             {
@@ -6567,8 +6567,8 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \\",
-                name = "Unknown Item",
+                link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \",
+                name = "Схема: динамит \",
                 count = 1,
             },
             {
@@ -6727,8 +6727,8 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffffffff|Hitem:12239:0:0:0:0:0:0:0:10|h[Рецепт: мясо в соусе \\",
-                name = "Unknown Item",
+                link = "|cffffffff|Hitem:12239:0:0:0:0:0:0:0:10|h[Рецепт: мясо в соусе \",
+                name = "Рецепт: мясо в соусе \",
                 count = 1,
             },
             {
