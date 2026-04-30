@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777565039
+ItemStorageDB_LastUpdate = 1777565107
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4442,9 +4442,9 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-30 17:45:43",
+        updated_at = "2026-04-30 19:05:07",
         money = 4062,
-        empty = 121,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -4495,7 +4495,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                 name = "Блестящая рыбья чешуя",
-                count = 61,
+                count = 85,
             },
             {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
@@ -4533,6 +4533,16 @@ ItemStorageDB = {
                 count = 90,
             },
             {
+                link = "|cffffffff|Hitem:24290:0:0:0:0:0:0:0:10|h[Мешочек зрелых спор]|h|r",
+                name = "Мешочек зрелых спор",
+                count = 6,
+            },
+            {
+                link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
+                name = "Усик болотника",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
                 name = "Неопознанные части растений",
                 count = 24,
@@ -4545,7 +4555,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                 name = "Знак Кил'джедена",
-                count = 48,
+                count = 65,
+            },
+            {
+                link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
+                name = "Перстень Огнекрылов",
+                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
