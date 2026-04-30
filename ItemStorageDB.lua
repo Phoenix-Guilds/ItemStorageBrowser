@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777573229
+ItemStorageDB_LastUpdate = 1777573267
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2298,9 +2298,9 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-04-30 21:12:47",
+        updated_at = "2026-04-30 21:21:07",
         money = 9680,
-        empty = 86,
+        empty = 85,
         location = "Оргриммар",
         items = {
             {
@@ -2426,7 +2426,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                 name = "Северный лотос",
-                count = 24,
+                count = 27,
             },
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
@@ -2506,7 +2506,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
                 name = "Частица Тени",
-                count = 249,
+                count = 252,
             },
             {
                 link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
@@ -2541,7 +2541,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
                 name = "Кристаллизованная вода",
-                count = 39,
+                count = 41,
             },
             {
                 link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
