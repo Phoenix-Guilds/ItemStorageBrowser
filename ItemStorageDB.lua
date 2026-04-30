@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777560611
+ItemStorageDB_LastUpdate = 1777560710
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4620,9 +4620,9 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-04-29 17:28:05",
+        updated_at = "2026-04-30 17:51:50",
         money = 3778,
-        empty = 110,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -4723,7 +4723,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35970:0:0:0:0:0:-36:39:10|h[Кровоспоровые браслеты с меткой волшебника]|h|r",
                 name = "Кровоспоровые браслеты с меткой волшебника",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:35970:0:0:0:0:0:-39:39:10|h[Кровоспоровые браслеты с меткой заклинателя]|h|r",
