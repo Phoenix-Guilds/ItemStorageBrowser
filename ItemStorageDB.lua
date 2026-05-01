@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777639659
+ItemStorageDB_LastUpdate = 1777639726
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1141,9 +1141,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-04-30 18:36:57",
+        updated_at = "2026-05-01 15:48:46",
         money = 342710,
-        empty = 75,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -1374,7 +1374,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -1614,7 +1614,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                 name = "Стена мертвых",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1982:0:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
