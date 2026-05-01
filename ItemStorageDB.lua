@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777639298
+ItemStorageDB_LastUpdate = 1777639396
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5841,9 +5841,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-04-30 21:59:35",
+        updated_at = "2026-05-01 15:43:16",
         money = 74134,
-        empty = 4,
+        empty = 3,
         location = "Оргриммар",
         items = {
             {
@@ -5889,6 +5889,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:15760:0:0:0:0:0:0:0:10|h[Выкройка: железноперая кираса]|h|r",
                 name = "Выкройка: железноперая кираса",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:15781:0:0:0:0:0:0:0:10|h[Выкройка: поножи из чешуи черного дракона]|h|r",
+                name = "Выкройка: поножи из чешуи черного дракона",
                 count = 1,
             },
             {
