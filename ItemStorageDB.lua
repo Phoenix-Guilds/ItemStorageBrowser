@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777639867
+ItemStorageDB_LastUpdate = 1777639996
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4242,11 +4242,16 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-04-30 19:05:07",
+        updated_at = "2026-05-01 15:53:16",
         money = 4062,
-        empty = 118,
+        empty = 115,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
+                name = "Латные перчатки Скверны",
+                count = 2,
+            },
             {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                 name = "Зеленый кожаный доспех",
@@ -4301,6 +4306,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                 name = "Рыбий жир",
                 count = 71,
+            },
+            {
+                link = "|cffffffff|Hitem:18945:0:0:0:0:0:0:0:10|h[Окалина черного железа]|h|r",
+                name = "Окалина черного железа",
+                count = 117,
             },
             {
                 link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
