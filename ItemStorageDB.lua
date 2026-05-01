@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777639763
+ItemStorageDB_LastUpdate = 1777639800
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2612,7 +2612,7 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = "2026-04-29 17:14:06",
+        updated_at = "2026-05-01 15:50:00",
         money = 16160,
         empty = 148,
         location = "Оргриммар",
@@ -2670,7 +2670,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23781:0:0:0:0:0:0:0:10|h[Взрывчатое вещество стихий]|h|r",
                 name = "Взрывчатое вещество стихий",
-                count = 15,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:23782:0:0:0:0:0:0:0:10|h[Обшивка из оскверненного железа]|h|r",
@@ -2690,7 +2690,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23785:0:0:0:0:0:0:0:10|h[Труба из закаленного адамантита]|h|r",
                 name = "Труба из закаленного адамантита",
-                count = 6,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:2880:0:0:0:0:0:0:0:10|h[Слабый плавень]|h|r",
