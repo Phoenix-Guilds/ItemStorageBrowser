@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777667640
+ItemStorageDB_LastUpdate = 1777667677
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2742,7 +2742,7 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        updated_at = "2026-04-29 17:36:52",
+        updated_at = "2026-05-01 23:34:37",
         money = 9413,
         empty = 159,
         location = "Оргриммар",
@@ -2800,7 +2800,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39469:0:0:0:0:0:0:0:10|h[Чернила лунного сияния]|h|r",
                 name = "Чернила лунного сияния",
-                count = 198,
+                count = 178,
             },
             {
                 link = "|cffffffff|Hitem:39774:0:0:0:0:0:0:0:10|h[Полуночные чернила]|h|r",
