@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777639622
+ItemStorageDB_LastUpdate = 1777639659
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8387,9 +8387,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-05-01 15:41:38",
+        updated_at = "2026-05-01 15:47:39",
         money = 336703,
-        empty = 25,
+        empty = 24,
         location = "Оргриммар",
         items = {
             {
@@ -9310,7 +9310,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44673:0:0:0:0:0:-39:81:10|h[Сапоги для езды на мамонте с меткой заклинателя]|h|r",
                 name = "Сапоги для езды на мамонте с меткой заклинателя",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:44673:0:0:0:0:0:-42:81:10|h[Сапоги для езды на мамонте с меткой оракула]|h|r",
