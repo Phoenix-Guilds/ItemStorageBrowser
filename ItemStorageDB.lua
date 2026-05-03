@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777840772
+ItemStorageDB_LastUpdate = 1777840808
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4018,7 +4018,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-05-03 23:36:22",
+        updated_at = "2026-05-03 23:40:08",
         money = 9396,
         empty = 57,
         location = "Оргриммар",
@@ -4461,7 +4461,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                 name = "Лечебное зелье",
-                count = 169,
+                count = 185,
             },
         },
     },
