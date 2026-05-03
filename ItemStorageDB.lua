@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777844630
+ItemStorageDB_LastUpdate = 1777844698
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8229,7 +8229,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-05-03 23:42:29",
+        updated_at = "2026-05-04 00:44:58",
         money = 319467,
         empty = 62,
         location = "Оргриммар",
@@ -8432,12 +8432,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                 name = "Масляный черноротик",
-                count = 154,
+                count = 174,
             },
             {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
                 name = "Огнеперый луциан",
-                count = 50,
+                count = 55,
             },
             {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
@@ -8458,11 +8458,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
                 count = 304,
-            },
-            {
-                link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
-                name = "Лимфа нежити",
-                count = 44,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
