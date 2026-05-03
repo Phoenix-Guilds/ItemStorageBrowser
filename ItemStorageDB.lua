@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777843103
+ItemStorageDB_LastUpdate = 1777843232
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4682,7 +4682,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-05-03 23:34:06",
+        updated_at = "2026-05-04 00:20:32",
         money = 4062,
         empty = 112,
         location = "Оргриммар",
@@ -4725,7 +4725,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
                 name = "Разорванная шкура медведя",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э'ко диких совухов]|h|r",
