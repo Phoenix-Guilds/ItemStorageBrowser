@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777844329
+ItemStorageDB_LastUpdate = 1777844397
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1136,9 +1136,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-05-04 00:16:09",
+        updated_at = "2026-05-04 00:39:57",
         money = 92710,
-        empty = 74,
+        empty = 71,
         location = "Оргриммар",
         items = {
             {
@@ -1174,7 +1174,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                 name = "Клинок Многоглаза",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
@@ -1477,6 +1477,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
+                name = "Массивная треугольная палица",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
                 name = "Кубок боли",
                 count = 2,
@@ -1504,6 +1509,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                 name = "Лапидийская пинта Пьющего Прибой",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
+                name = "Клык Боана",
                 count = 1,
             },
             {
