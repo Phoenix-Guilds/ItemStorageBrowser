@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777844698
+ItemStorageDB_LastUpdate = 1777844765
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2128,9 +2128,9 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-05-03 23:43:08",
+        updated_at = "2026-05-04 00:46:05",
         money = 9680,
-        empty = 85,
+        empty = 84,
         location = "Оргриммар",
         items = {
             {
@@ -2356,7 +2356,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37702:0:0:0:0:0:0:0:10|h[Кристаллизованный огонь]|h|r",
                 name = "Кристаллизованный огонь",
-                count = 46,
+                count = 48,
             },
             {
                 link = "|cffffffff|Hitem:37703:0:0:0:0:0:0:0:10|h[Кристаллизованная тьма]|h|r",
@@ -2391,7 +2391,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
                 name = "Первородный воздух",
-                count = 108,
+                count = 122,
             },
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
@@ -2421,7 +2421,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
                 name = "Лимфа нежити",
-                count = 15,
+                count = 84,
             },
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
