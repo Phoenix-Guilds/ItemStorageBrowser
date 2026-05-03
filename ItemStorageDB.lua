@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777844801
+ItemStorageDB_LastUpdate = 1777844870
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4043,9 +4043,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-05-03 23:40:08",
+        updated_at = "2026-05-04 00:47:50",
         money = 9396,
-        empty = 57,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -4191,7 +4191,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:28104:0:0:0:0:0:0:0:10|h[Эликсир власти]|h|r",
                 name = "Эликсир власти",
-                count = 8,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:32067:0:0:0:0:0:0:0:10|h[Эликсир дренейской мудрости]|h|r",
@@ -4301,7 +4301,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39671:0:0:0:0:0:0:0:10|h[Флакон с бодрящим лечебным зельем]|h|r",
                 name = "Флакон с бодрящим лечебным зельем",
-                count = 16,
+                count = 26,
             },
             {
                 link = "|cffffffff|Hitem:40068:0:0:0:0:0:0:0:10|h[Эликсир гнева]|h|r",
@@ -4311,12 +4311,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40070:0:0:0:0:0:0:0:10|h[Эликсир силы заклинаний]|h|r",
                 name = "Эликсир силы заклинаний",
-                count = 110,
+                count = 112,
             },
             {
                 link = "|cffffffff|Hitem:40073:0:0:0:0:0:0:0:10|h[Мощный эликсир силы]|h|r",
                 name = "Мощный эликсир силы",
-                count = 43,
+                count = 49,
             },
             {
                 link = "|cffffffff|Hitem:40076:0:0:0:0:0:0:0:10|h[Эликсир гуру]|h|r",
@@ -4471,7 +4471,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
                 name = "Сильный эликсир ловкости",
-                count = 38,
+                count = 63,
             },
             {
                 link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
