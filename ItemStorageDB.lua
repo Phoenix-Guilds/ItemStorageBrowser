@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777840335
+ItemStorageDB_LastUpdate = 1777840374
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2283,9 +2283,9 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-05-03 23:29:34",
+        updated_at = "2026-05-03 23:32:54",
         money = 9680,
-        empty = 86,
+        empty = 85,
         location = "Оргриммар",
         items = {
             {
@@ -2449,6 +2449,11 @@ ItemStorageDB = {
                 count = 48,
             },
             {
+                link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
+                name = "Дикая лоза",
+                count = 5,
+            },
+            {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                 name = "Сердце дикой природы",
                 count = 76,
@@ -2531,7 +2536,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
-                count = 30,
+                count = 31,
             },
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
