@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777842840
+ItemStorageDB_LastUpdate = 1777842969
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1136,9 +1136,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-05-03 23:03:55",
+        updated_at = "2026-05-04 00:16:09",
         money = 92710,
-        empty = 76,
+        empty = 74,
         location = "Оргриммар",
         items = {
             {
@@ -1432,6 +1432,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:2236:0:0:0:0:0:0:0:10|h[Черный клык]|h|r",
+                name = "Черный клык",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:2256:0:0:0:0:0:0:0:10|h[Скелетная дубина]|h|r",
                 name = "Скелетная дубина",
                 count = 1,
@@ -1554,7 +1559,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
                 name = "Короткий меч Ночного Дозора",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
