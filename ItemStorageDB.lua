@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777844293
+ItemStorageDB_LastUpdate = 1777844329
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8527,9 +8527,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-05-03 11:32:42",
+        updated_at = "2026-05-04 00:38:49",
         money = 336703,
-        empty = 25,
+        empty = 24,
         location = "Оргриммар",
         items = {
             {
@@ -9005,6 +9005,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31298:0:0:0:0:0:0:0:10|h[Набедренники Изувеченной Длани]|h|r",
                 name = "Набедренники Изувеченной Длани",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31306:0:0:0:0:0:0:0:10|h[Поножи священного гребня]|h|r",
+                name = "Поножи священного гребня",
                 count = 1,
             },
             {
