@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777840908
+ItemStorageDB_LastUpdate = 1777840949
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8159,9 +8159,9 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-05-03 23:26:14",
+        updated_at = "2026-05-03 23:42:29",
         money = 319467,
-        empty = 66,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -8182,7 +8182,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13422:0:0:0:0:0:0:0:10|h[Каменный угорь]|h|r",
                 name = "Каменный угорь",
-                count = 25,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
@@ -8282,7 +8282,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 226,
+                count = 276,
             },
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
@@ -8347,7 +8347,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40195:0:0:0:0:0:0:0:10|h[Карломасло]|h|r",
                 name = "Карломасло",
-                count = 149,
+                count = 154,
             },
             {
                 link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
@@ -8362,7 +8362,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                 name = "Масляный черноротик",
-                count = 142,
+                count = 154,
             },
             {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
@@ -8373,6 +8373,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
                 count = 50,
+            },
+            {
+                link = "|cffffffff|Hitem:6371:0:0:0:0:0:0:0:10|h[Зажигательное масло]|h|r",
+                name = "Зажигательное масло",
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
