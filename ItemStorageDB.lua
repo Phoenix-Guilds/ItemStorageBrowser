@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777844531
+ItemStorageDB_LastUpdate = 1777844630
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3209,9 +3209,9 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-05-03 23:41:48",
+        updated_at = "2026-05-04 00:43:50",
         money = 306084,
-        empty = 162,
+        empty = 160,
         location = "Оргриммар",
         items = {
             {
@@ -3307,7 +3307,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21887:0:0:0:0:0:0:0:10|h[Узловатая кожа]|h|r",
                 name = "Узловатая кожа",
-                count = 272,
+                count = 278,
             },
             {
                 link = "|cffffffff|Hitem:2304:0:0:0:0:0:0:0:10|h[Накладки из тонкой кожи]|h|r",
@@ -3322,7 +3322,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 600,
+                count = 650,
             },
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
@@ -3507,7 +3507,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
                 name = "Чешуя зеленого дракончика",
-                count = 10,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
