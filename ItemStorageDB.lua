@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777840374
+ItemStorageDB_LastUpdate = 1777840446
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4467,9 +4467,9 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = "2026-05-03 22:19:20",
+        updated_at = "2026-05-03 23:34:06",
         money = 4062,
-        empty = 113,
+        empty = 112,
         location = "Оргриммар",
         items = {
             {
@@ -4520,7 +4520,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 137,
+                count = 172,
             },
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
