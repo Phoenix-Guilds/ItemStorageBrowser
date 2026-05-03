@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777840808
+ItemStorageDB_LastUpdate = 1777840908
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3154,9 +3154,9 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = "2026-05-03 23:32:15",
+        updated_at = "2026-05-03 23:41:48",
         money = 306084,
-        empty = 164,
+        empty = 162,
         location = "Оргриммар",
         items = {
             {
@@ -3397,7 +3397,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 653,
+                count = 669,
             },
             {
                 link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
@@ -3417,7 +3417,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                 name = "Плотная кожа",
-                count = 196,
+                count = 201,
             },
             {
                 link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
@@ -3442,12 +3442,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6470:0:0:0:0:0:0:0:10|h[Искаженная чешуя]|h|r",
                 name = "Искаженная чешуя",
-                count = 107,
+                count = 109,
             },
             {
                 link = "|cffffffff|Hitem:6471:0:0:0:0:0:0:0:10|h[Идеальная искаженная чешуя]|h|r",
                 name = "Идеальная искаженная чешуя",
-                count = 11,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
@@ -3462,7 +3462,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
                 name = "Глубокоскальная соль",
-                count = 100,
+                count = 102,
             },
             {
                 link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
@@ -3487,7 +3487,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
                 name = "Грубая кожа",
-                count = 452,
+                count = 453,
             },
             {
                 link = "|cffffffff|Hitem:8171:0:0:0:0:0:0:0:10|h[Грубая шкура]|h|r",
