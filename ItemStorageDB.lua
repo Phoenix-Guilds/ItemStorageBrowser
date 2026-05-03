@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777797345
+ItemStorageDB_LastUpdate = 1777797382
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1072,9 +1072,9 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = "2026-05-01 23:18:53",
+        updated_at = "2026-05-03 11:36:22",
         money = 16160,
-        empty = 148,
+        empty = 149,
         location = "Оргриммар",
         items = {
             {
@@ -1180,7 +1180,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
                 name = "Кирка-молот",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:40893:0:0:0:0:0:0:0:10|h[Заостренная кирка]|h|r",
