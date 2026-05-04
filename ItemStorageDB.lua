@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777896012
+ItemStorageDB_LastUpdate = 1777896050
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9096,10 +9096,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = "2026-05-04 14:35:46",
+        updated_at = "2026-05-04 15:00:50",
         money = 343936,
-        empty = 8,
-        location = "",
+        empty = 9,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -9119,12 +9119,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
                 name = "Окованные серебром прочные ботинки",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -9138,6 +9138,11 @@ ItemStorageDB = {
             },
             {
                 link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
+                name = "Рукавицы Торбии",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:12994:1887:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
                 name = "Рукавицы Торбии",
                 count = 1,
             },
