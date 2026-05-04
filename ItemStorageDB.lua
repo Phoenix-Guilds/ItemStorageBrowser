@@ -1,46 +1,16 @@
-ItemStorageDB_LastUpdate = 1777899331
+ItemStorageDB_LastUpdate = 1777901586
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-05-04 11:42:15",
+        updated_at = "2026-05-04 16:33:06",
         money = 339404,
-        empty = 117,
+        empty = 123,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                 name = "Книга познания символов",
-                count = 18,
-            },
-            {
-                link = "|cffffffff|Hitem:41098:0:0:0:0:0:0:0:10|h[Символ удара воина Света]|h|r",
-                name = "Символ удара воина Света",
-                count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
-                name = "Символ молнии",
-                count = 4,
-            },
-            {
-                link = "|cffffffff|Hitem:41537:0:0:0:0:0:0:0:10|h[Символ щита молний]|h|r",
-                name = "Символ щита молний",
-                count = 3,
-            },
-            {
-                link = "|cffffffff|Hitem:42402:0:0:0:0:0:0:0:10|h[Символ внутреннего огня]|h|r",
-                name = "Символ внутреннего огня",
-                count = 2,
-            },
-            {
-                link = "|cffffffff|Hitem:42465:0:0:0:0:0:0:0:10|h[Символ беса]|h|r",
-                name = "Символ беса",
-                count = 5,
-            },
-            {
-                link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
-                name = "Символ прилива сил",
-                count = 2,
+                count = 17,
             },
         },
     },
