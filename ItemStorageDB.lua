@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777904179
+ItemStorageDB_LastUpdate = 1777915504
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1729,9 +1729,9 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-05-04 14:57:51",
+        updated_at = "2026-05-04 20:25:04",
         money = 431967,
-        empty = 49,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -1742,12 +1742,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23426:0:0:0:0:0:0:0:10|h[Кориевая руда]|h|r",
                 name = "Кориевая руда",
-                count = 93,
+                count = 102,
             },
             {
                 link = "|cff1eff00|Hitem:23427:0:0:0:0:0:0:0:10|h[Этерниевая руда]|h|r",
                 name = "Этерниевая руда",
-                count = 157,
+                count = 165,
             },
             {
                 link = "|cff1eff00|Hitem:23447:0:0:0:0:0:0:0:10|h[Этерниевый слиток]|h|r",
@@ -1757,12 +1757,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23448:0:0:0:0:0:0:0:10|h[Слиток оскверненной стали]|h|r",
                 name = "Слиток оскверненной стали",
-                count = 13,
+                count = 11,
             },
             {
                 link = "|cff1eff00|Hitem:23449:0:0:0:0:0:0:0:10|h[Кориевый слиток]|h|r",
                 name = "Кориевый слиток",
-                count = 139,
+                count = 136,
             },
             {
                 link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
