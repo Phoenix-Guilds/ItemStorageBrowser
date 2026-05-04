@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777895192
+ItemStorageDB_LastUpdate = 1777895228
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1038,9 +1038,9 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-05-04 00:46:05",
+        updated_at = "2026-05-04 14:47:08",
         money = 9680,
-        empty = 84,
+        empty = 82,
         location = "Оргриммар",
         items = {
             {
@@ -1061,7 +1061,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
                 name = "Слеза Сирены",
-                count = 18,
+                count = 19,
             },
             {
                 link = "|cff0070dd|Hitem:9719:0:0:0:0:0:0:0:10|h[Сломанный клинок героев]|h|r",
@@ -1156,7 +1156,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
                 name = "Жемчужина Северного моря",
-                count = 27,
+                count = 28,
             },
             {
                 link = "|cff1eff00|Hitem:36860:0:0:0:0:0:0:0:10|h[Извечный огонь]|h|r",
@@ -1256,7 +1256,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37700:0:0:0:0:0:0:0:10|h[Кристаллизованный воздух]|h|r",
                 name = "Кристаллизованный воздух",
-                count = 79,
+                count = 86,
             },
             {
                 link = "|cffffffff|Hitem:37701:0:0:0:0:0:0:0:10|h[Кристаллизованная земля]|h|r",
@@ -1276,12 +1276,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
                 name = "Кристаллизованная жизнь",
-                count = 138,
+                count = 165,
             },
             {
                 link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
                 name = "Кристаллизованная вода",
-                count = 41,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
