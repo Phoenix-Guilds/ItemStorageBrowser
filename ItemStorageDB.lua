@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777895908
+ItemStorageDB_LastUpdate = 1777895976
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7907,9 +7907,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-05-04 00:38:49",
+        updated_at = "2026-05-04 14:59:36",
         money = 336703,
-        empty = 24,
+        empty = 23,
         location = "Оргриммар",
         items = {
             {
@@ -8450,6 +8450,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37759:0:0:0:0:0:0:0:10|h[Когтистые рукавицы Рай-эй]|h|r",
                 name = "Когтистые рукавицы Рай-эй",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:37760:0:0:0:0:0:0:0:10|h[Накулачники потрескивающего пламени]|h|r",
+                name = "Накулачники потрескивающего пламени",
                 count = 1,
             },
             {
