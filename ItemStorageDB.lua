@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777895027
+ItemStorageDB_LastUpdate = 1777895094
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2983,7 +2983,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-05-04 00:47:50",
+        updated_at = "2026-05-04 14:44:54",
         money = 9396,
         empty = 56,
         location = "Оргриммар",
@@ -3011,7 +3011,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
                 name = "Огромный флакон с зельем маны",
-                count = 67,
+                count = 75,
             },
             {
                 link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
@@ -3141,7 +3141,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33447:0:0:0:0:0:0:0:10|h[Рунический флакон с лечебным зельем]|h|r",
                 name = "Рунический флакон с лечебным зельем",
-                count = 18,
+                count = 19,
             },
             {
                 link = "|cffffffff|Hitem:33448:0:0:0:0:0:0:0:10|h[Рунический флакон с зельем маны]|h|r",
@@ -3246,7 +3246,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40068:0:0:0:0:0:0:0:10|h[Эликсир гнева]|h|r",
                 name = "Эликсир гнева",
-                count = 13,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:40070:0:0:0:0:0:0:0:10|h[Эликсир силы заклинаний]|h|r",
