@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777894546
+ItemStorageDB_LastUpdate = 1777894742
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6946,7 +6946,7 @@ ItemStorageDB = {
     },
     {
         name = "Тернистая",
-        updated_at = "2026-05-03 22:48:52",
+        updated_at = "2026-05-04 14:39:02",
         money = 136218,
         empty = 35,
         location = "Оргриммар",
@@ -6999,7 +6999,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2744:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 20]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 20",
-                count = 39,
+                count = 38,
             },
             {
                 link = "|cffffffff|Hitem:2745:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 21]|h|r",
