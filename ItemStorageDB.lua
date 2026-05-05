@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777972006
+ItemStorageDB_LastUpdate = 1777972043
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6247,9 +6247,9 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-05-05 08:58:12",
+        updated_at = "2026-05-05 12:07:23",
         money = 38278,
-        empty = 58,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -6285,7 +6285,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
                 name = "Малый сверкающий осколок",
-                count = 149,
+                count = 150,
             },
             {
                 link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
@@ -6375,7 +6375,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:20725:0:0:0:0:0:0:0:10|h[Кристалл-источник]|h|r",
                 name = "Кристалл-источник",
-                count = 50,
+                count = 51,
             },
             {
                 link = "|cffa335ee|Hitem:34057:0:0:0:0:0:0:0:10|h[Кристалл пропасти]|h|r",
@@ -6410,7 +6410,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
                 name = "Сонная пыль",
-                count = 282,
+                count = 311,
             },
             {
                 link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
