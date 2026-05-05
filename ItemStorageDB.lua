@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777959026
+ItemStorageDB_LastUpdate = 1777959752
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3777,11 +3777,16 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        updated_at = "2026-05-05 08:08:50",
+        updated_at = "2026-05-05 08:42:32",
         money = 9413,
-        empty = 159,
+        empty = 157,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
+                name = "Зеленый краситель",
+                count = 6,
+            },
             {
                 link = "|cff1eff00|Hitem:43108:0:0:0:0:0:0:0:10|h[Эбеновый краситель]|h|r",
                 name = "Эбеновый краситель",
@@ -3828,14 +3833,19 @@ ItemStorageDB = {
                 count = 94,
             },
             {
+                link = "|cffffffff|Hitem:39151:0:0:0:0:0:0:0:10|h[Алебастровый краситель]|h|r",
+                name = "Алебастровый краситель",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:39334:0:0:0:0:0:0:0:10|h[Мглистый краситель]|h|r",
                 name = "Мглистый краситель",
-                count = 6,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:39469:0:0:0:0:0:0:0:10|h[Чернила лунного сияния]|h|r",
                 name = "Чернила лунного сияния",
-                count = 178,
+                count = 180,
             },
             {
                 link = "|cffffffff|Hitem:39774:0:0:0:0:0:0:0:10|h[Полуночные чернила]|h|r",
