@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777972458
+ItemStorageDB_LastUpdate = 1777972496
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1136,9 +1136,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-05-05 11:04:51",
+        updated_at = "2026-05-05 12:14:56",
         money = 92710,
-        empty = 73,
+        empty = 72,
         location = "Оргриммар",
         items = {
             {
@@ -1593,6 +1593,11 @@ ItemStorageDB = {
             },
             {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
+                name = "Щит пылающего черепа",
+                count = 1,
+            },
+            {
+                link = "|cffa335ee|Hitem:1168:1890:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
                 count = 1,
             },
