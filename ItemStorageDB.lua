@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777967768
+ItemStorageDB_LastUpdate = 1777967929
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9257,9 +9257,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-05-05 08:22:31",
+        updated_at = "2026-05-05 10:58:49",
         money = 336703,
-        empty = 23,
+        empty = 22,
         location = "Оргриммар",
         items = {
             {
@@ -10265,6 +10265,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44676:0:0:0:0:0:-39:108:10|h[Поножи Сиреяна с меткой заклинателя]|h|r",
                 name = "Поножи Сиреяна с меткой заклинателя",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:44676:0:0:0:0:0:-40:108:10|h[Поножи Сиреяна с меткой преступника]|h|r",
+                name = "Поножи Сиреяна с меткой преступника",
                 count = 1,
             },
             {
