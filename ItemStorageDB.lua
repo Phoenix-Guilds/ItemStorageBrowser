@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1777972309
+ItemStorageDB_LastUpdate = 1777972351
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7898,9 +7898,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = "2026-05-05 11:07:02",
+        updated_at = "2026-05-05 12:12:31",
         money = 347705,
-        empty = 10,
+        empty = 9,
         location = "Оргриммар",
         items = {
             {
@@ -8451,6 +8451,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3196:20319:0:0:0:0:590:0:10|h[Наточенный полуторный меч со знаком мартышки]|h|r",
                 name = "Наточенный полуторный меч со знаком мартышки",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:3198:0:0:0:0:0:598:0:10|h[Побитый боевой молот со знаком мартышки]|h|r",
+                name = "Побитый боевой молот со знаком мартышки",
                 count = 1,
             },
             {
