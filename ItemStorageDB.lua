@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778058249
+ItemStorageDB_LastUpdate = 1778058288
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2263,7 +2263,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-05-05 13:19:37",
+        updated_at = "2026-05-06 12:04:48",
         money = 9680,
         empty = 83,
         location = "Оргриммар",
@@ -2496,7 +2496,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
                 name = "Кристаллизованная жизнь",
-                count = 165,
+                count = 176,
             },
             {
                 link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
@@ -2526,7 +2526,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 113,
+                count = 116,
             },
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -2536,7 +2536,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 60,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
