@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778060893
+ItemStorageDB_LastUpdate = 1778061051
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2273,7 +2273,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-05-06 12:04:48",
+        updated_at = "2026-05-06 12:50:51",
         money = 9680,
         empty = 83,
         location = "Оргриммар",
@@ -2486,12 +2486,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37700:0:0:0:0:0:0:0:10|h[Кристаллизованный воздух]|h|r",
                 name = "Кристаллизованный воздух",
-                count = 86,
+                count = 95,
             },
             {
                 link = "|cffffffff|Hitem:37701:0:0:0:0:0:0:0:10|h[Кристаллизованная земля]|h|r",
                 name = "Кристаллизованная земля",
-                count = 9,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:37702:0:0:0:0:0:0:0:10|h[Кристаллизованный огонь]|h|r",
@@ -2501,7 +2501,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37703:0:0:0:0:0:0:0:10|h[Кристаллизованная тьма]|h|r",
                 name = "Кристаллизованная тьма",
-                count = 25,
+                count = 28,
             },
             {
                 link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
@@ -3498,9 +3498,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = "2026-05-06 11:59:37",
+        updated_at = "2026-05-06 12:50:51",
         money = 9396,
-        empty = 56,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -3591,12 +3591,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                 name = "Гигантский флакон с лечебным зельем",
-                count = 249,
+                count = 292,
             },
             {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
                 name = "Гигантский флакон с зельем маны",
-                count = 168,
+                count = 197,
             },
             {
                 link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
@@ -3787,6 +3787,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:40078:0:0:0:0:0:0:0:10|h[Мощный эликсир стойкости]|h|r",
                 name = "Мощный эликсир стойкости",
                 count = 7,
+            },
+            {
+                link = "|cffffffff|Hitem:40093:0:0:0:0:0:0:0:10|h[Зелье несокрушимости]|h|r",
+                name = "Зелье несокрушимости",
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:40097:0:0:0:0:0:0:0:10|h[Охранный эликсир]|h|r",
