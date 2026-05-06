@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778058180
+ItemStorageDB_LastUpdate = 1778058249
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9074,9 +9074,9 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = "2026-05-05 13:01:37",
+        updated_at = "2026-05-06 12:04:09",
         money = 319467,
-        empty = 63,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -9177,27 +9177,27 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 387,
+                count = 415,
             },
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 363,
+                count = 374,
             },
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 666,
+                count = 669,
             },
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 250,
+                count = 275,
             },
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 276,
+                count = 281,
             },
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
@@ -9247,7 +9247,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 246,
+                count = 262,
             },
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
