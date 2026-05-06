@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778099093
+ItemStorageDB_LastUpdate = 1778099130
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3563,9 +3563,9 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = "2026-05-06 17:52:52",
+        updated_at = "2026-05-06 23:25:30",
         money = 0,
-        empty = 197,
+        empty = 198,
         location = "Оргриммар",
         items = {
             {
@@ -3646,7 +3646,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 42,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
