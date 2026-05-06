@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778060546
+ItemStorageDB_LastUpdate = 1778060614
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1136,9 +1136,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-05-05 13:16:38",
+        updated_at = "2026-05-06 12:43:34",
         money = 92710,
-        empty = 72,
+        empty = 70,
         location = "Оргриммар",
         items = {
             {
@@ -1387,6 +1387,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
+                name = "Тяжелый ятаган мародера",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
                 name = "Поющий клинок Та-Киертан",
                 count = 1,
@@ -1604,6 +1609,11 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                 name = "Черночерепный щит",
+                count = 1,
+            },
+            {
+                link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
+                name = "Зеленая башня",
                 count = 1,
             },
             {
