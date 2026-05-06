@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778060856
+ItemStorageDB_LastUpdate = 1778060893
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4275,9 +4275,9 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = "2026-05-06 12:44:11",
+        updated_at = "2026-05-06 12:48:13",
         money = 3778,
-        empty = 55,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -4913,6 +4913,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36656:0:0:0:0:0:-38:22:10|h[Потемневший жезл с меткой пророка]|h|r",
                 name = "Потемневший жезл с меткой пророка",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:36657:0:0:0:0:0:-36:23:10|h[Зловещий жезл с меткой волшебника]|h|r",
+                name = "Зловещий жезл с меткой волшебника",
                 count = 1,
             },
             {
