@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778060689
+ItemStorageDB_LastUpdate = 1778060819
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8732,9 +8732,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-05-05 13:58:40",
+        updated_at = "2026-05-06 12:46:59",
         money = 336703,
-        empty = 16,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -9470,6 +9470,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:41126:0:0:0:0:0:0:0:10|h[Сверкающие саронитовые ножные латы]|h|r",
                 name = "Сверкающие саронитовые ножные латы",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:41607:0:0:0:0:0:0:0:10|h[Плащ луны]|h|r",
+                name = "Плащ луны",
                 count = 1,
             },
             {
