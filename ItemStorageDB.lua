@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778061051
+ItemStorageDB_LastUpdate = 1778062888
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8202,15 +8202,15 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = "2026-05-06 12:19:53",
+        updated_at = "2026-05-06 13:21:28",
         money = 9245,
-        empty = 36,
+        empty = 50,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 56,
+                count = 42,
             },
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
