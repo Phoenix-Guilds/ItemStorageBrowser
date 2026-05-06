@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1778099130
+ItemStorageDB_LastUpdate = 1778099280
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-05-05 13:49:23",
+        updated_at = "2026-05-06 23:28:00",
         money = 339404,
         empty = 116,
         location = "Оргриммар",
@@ -70,7 +70,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40914:0:0:0:0:0:0:0:10|h[Символ целительного прикосновения]|h|r",
                 name = "Символ целительного прикосновения",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:40916:0:0:0:0:0:0:0:10|h[Символ звездного огня]|h|r",
@@ -470,7 +470,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                 name = "Символ лечения",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -500,12 +500,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42907:0:0:0:0:0:0:0:10|h[Символ метки охотника]|h|r",
                 name = "Символ метки охотника",
-                count = 14,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:42909:0:0:0:0:0:0:0:10|h[Символ ястреба]|h|r",
                 name = "Символ ястреба",
-                count = 14,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:42910:0:0:0:0:0:0:0:10|h[Символ залпа]|h|r",
@@ -675,12 +675,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 4,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
                 name = "Символ ложной смерти",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43359:0:0:0:0:0:0:0:10|h[Символ морозного доспеха]|h|r",
