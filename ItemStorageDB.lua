@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778129505
+ItemStorageDB_LastUpdate = 1778129545
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9617,9 +9617,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = "2026-05-06 12:46:59",
+        updated_at = "2026-05-07 07:52:25",
         money = 336703,
-        empty = 15,
+        empty = 14,
         location = "Оргриммар",
         items = {
             {
@@ -9650,6 +9650,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31133:0:0:0:0:0:0:0:10|h[Поножи сгустка тьмы]|h|r",
                 name = "Поножи сгустка тьмы",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31136:0:0:0:0:0:0:0:10|h[Кираса отражения клинков]|h|r",
+                name = "Кираса отражения клинков",
                 count = 1,
             },
             {
