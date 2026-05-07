@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778129614
+ItemStorageDB_LastUpdate = 1778129682
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11200,9 +11200,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-05-05 13:14:52",
+        updated_at = "2026-05-07 07:54:42",
         money = 344111,
-        empty = 67,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -11278,7 +11278,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
                 name = "Кольцо грозного лика",
-                count = 1,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
@@ -11423,6 +11423,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12010:0:0:0:0:0:599:0:10|h[Кольцо топей со знаком мартышки]|h|r",
                 name = "Кольцо топей со знаком мартышки",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:12011:0:0:0:0:0:599:0:10|h[Кольцо леса со знаком мартышки]|h|r",
+                name = "Кольцо леса со знаком мартышки",
                 count = 1,
             },
             {
@@ -11658,7 +11663,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
                 name = "Кольцо спасителей",
-                count = 1,
+                count = 3,
             },
             {
                 link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
