@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778254475
+ItemStorageDB_LastUpdate = 1778254519
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5929,9 +5929,9 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = "2026-05-08 18:02:06",
+        updated_at = "2026-05-08 18:35:19",
         money = 13785,
-        empty = 127,
+        empty = 128,
         location = "Оргриммар",
         items = {
             {
@@ -5942,7 +5942,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
                 name = "Подвеска Хитрости",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:31178:0:0:0:0:0:0:0:10|h[Амулет ускользающего могущества]|h|r",
