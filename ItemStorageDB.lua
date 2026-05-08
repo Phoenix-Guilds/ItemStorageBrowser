@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778253944
+ItemStorageDB_LastUpdate = 1778253998
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1136,9 +1136,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = "2026-05-08 17:53:36",
+        updated_at = "2026-05-08 18:26:38",
         money = 92710,
-        empty = 69,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -1469,7 +1469,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
