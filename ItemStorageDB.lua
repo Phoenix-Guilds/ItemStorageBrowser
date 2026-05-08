@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778250040
+ItemStorageDB_LastUpdate = 1778250134
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9730,9 +9730,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = "2026-05-08 16:57:20",
+        updated_at = "2026-05-08 17:22:14",
         money = 344111,
-        empty = 70,
+        empty = 71,
         location = "Оргриммар",
         items = {
             {
@@ -9813,7 +9813,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
                 name = "Крест Жизни",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
