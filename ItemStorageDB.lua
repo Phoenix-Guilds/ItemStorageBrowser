@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778253031
+ItemStorageDB_LastUpdate = 1778253084
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2283,19 +2283,14 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = "2026-05-08 17:28:10",
+        updated_at = "2026-05-08 18:11:24",
         money = 9680,
-        empty = 82,
+        empty = 83,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
                 name = "Огненное ядро",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:23571:0:0:0:0:0:0:0:10|h[Изначальная мощь]|h|r",
-                name = "Изначальная мощь",
                 count = 1,
             },
             {
@@ -2331,12 +2326,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
                 name = "Изначальный Огонь",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:21885:0:0:0:0:0:0:0:10|h[Изначальная Вода]|h|r",
                 name = "Изначальная Вода",
-                count = 21,
+                count = 22,
             },
             {
                 link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
@@ -2346,12 +2341,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
                 name = "Изначальный Воздух",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff1eff00|Hitem:22452:0:0:0:0:0:0:0:10|h[Изначальная Земля]|h|r",
                 name = "Изначальная Земля",
-                count = 41,
+                count = 42,
             },
             {
                 link = "|cff1eff00|Hitem:22456:0:0:0:0:0:0:0:10|h[Изначальная Тень]|h|r",
@@ -2361,7 +2356,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22457:0:0:0:0:0:0:0:10|h[Изначальная Мана]|h|r",
                 name = "Изначальная Мана",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
