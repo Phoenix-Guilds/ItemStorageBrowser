@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778228037
+ItemStorageDB_LastUpdate = 1778228129
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4821,9 +4821,9 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-05-07 07:50:37",
+        updated_at = "2026-05-08 11:15:29",
         money = 13874,
-        empty = 39,
+        empty = 38,
         location = "Оргриммар",
         items = {
             {
@@ -5004,7 +5004,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3685:0:0:0:0:0:0:0:10|h[Яйцо ящера]|h|r",
                 name = "Яйцо ящера",
-                count = 77,
+                count = 127,
             },
             {
                 link = "|cffffffff|Hitem:3712:0:0:0:0:0:0:0:10|h[Черепашье мясо]|h|r",
