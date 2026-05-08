@@ -1,16 +1,21 @@
-ItemStorageDB_LastUpdate = 1778250879
+ItemStorageDB_LastUpdate = 1778251124
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = "2026-05-08 16:54:31",
+        updated_at = "2026-05-08 17:38:44",
         money = 339404,
-        empty = 123,
+        empty = 122,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                 name = "Книга познания символов",
                 count = 17,
+            },
+            {
+                link = "|cffffffff|Hitem:43424:0:0:0:0:0:0:0:10|h[Символ реванша]|h|r",
+                name = "Символ реванша",
+                count = 1,
             },
         },
     },
