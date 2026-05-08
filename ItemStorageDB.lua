@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778254519
+ItemStorageDB_LastUpdate = 1778255100
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2771,7 +2771,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = "2026-05-08 17:53:06",
+        updated_at = "2026-05-08 18:45:00",
         money = 82572,
         empty = 26,
         location = "Оргриммар",
@@ -2814,7 +2814,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:10|h[Сумеречный опал]|h|r",
                 name = "Сумеречный опал",
-                count = 4,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:36930:0:0:0:0:0:0:0:10|h[Императорский топаз]|h|r",
