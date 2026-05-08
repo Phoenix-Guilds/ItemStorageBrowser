@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778222495
+ItemStorageDB_LastUpdate = 1778222604
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3824,120 +3824,20 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = "2026-05-08 09:41:34",
+        updated_at = "2026-05-08 09:43:24",
         money = 431967,
-        empty = 46,
+        empty = 74,
         location = "Оргриммар",
         items = {
-            {
-                item_link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
-                item_name = "Арканитовый слиток",
-                item_count = 10,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:23426:0:0:0:0:0:0:0:10|h[Кориевая руда]|h|r",
-                item_name = "Кориевая руда",
-                item_count = 102,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:23427:0:0:0:0:0:0:0:10|h[Этерниевая руда]|h|r",
-                item_name = "Этерниевая руда",
-                item_count = 165,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:23447:0:0:0:0:0:0:0:10|h[Этерниевый слиток]|h|r",
-                item_name = "Этерниевый слиток",
-                item_count = 21,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:23448:0:0:0:0:0:0:0:10|h[Слиток оскверненной стали]|h|r",
-                item_name = "Слиток оскверненной стали",
-                item_count = 11,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:23449:0:0:0:0:0:0:0:10|h[Кориевый слиток]|h|r",
-                item_name = "Кориевый слиток",
-                item_count = 133,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
-                item_name = "Серебряная руда",
-                item_count = 96,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
-                item_name = "Золотая руда",
-                item_count = 417,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
-                item_name = "Серебряный слиток",
-                item_count = 225,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
-                item_name = "Золотой слиток",
-                item_count = 76,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:36910:0:0:0:0:0:0:0:10|h[Титановая руда]|h|r",
-                item_name = "Титановая руда",
-                item_count = 121,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:6037:0:0:0:0:0:0:0:10|h[Слиток истинного серебра]|h|r",
-                item_name = "Слиток истинного серебра",
-                item_count = 149,
-            },
-            {
-                item_link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
-                item_name = "Руда истинного серебра",
-                item_count = 685,
-            },
-            {
-                item_link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
-                item_name = "Ториевая руда",
-                item_count = 381,
-            },
             {
                 item_link = "|cffffffff|Hitem:11371:0:0:0:0:0:0:0:10|h[Слиток черного железа]|h|r",
                 item_name = "Слиток черного железа",
                 item_count = 2,
             },
             {
-                item_link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
-                item_name = "Ториевый слиток",
-                item_count = 51,
-            },
-            {
                 item_link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
                 item_name = "Зачарованный ториевый слиток",
                 item_count = 3,
-            },
-            {
-                item_link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
-                item_name = "Руда оскверненного железа",
-                item_count = 89,
-            },
-            {
-                item_link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
-                item_name = "Адамантитовая руда",
-                item_count = 134,
-            },
-            {
-                item_link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
-                item_name = "Слиток оскверненного железа",
-                item_count = 82,
-            },
-            {
-                item_link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
-                item_name = "Адамантитовый слиток",
-                item_count = 256,
-            },
-            {
-                item_link = "|cffffffff|Hitem:23573:0:0:0:0:0:0:0:10|h[Закаленный адамантитовый слиток]|h|r",
-                item_name = "Закаленный адамантитовый слиток",
-                item_count = 4,
             },
             {
                 item_link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
@@ -3950,11 +3850,6 @@ ItemStorageDB = {
                 item_count = 388,
             },
             {
-                item_link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
-                item_name = "Железная руда",
-                item_count = 671,
-            },
-            {
                 item_link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
                 item_name = "Медный слиток",
                 item_count = 150,
@@ -3965,44 +3860,9 @@ ItemStorageDB = {
                 item_count = 121,
             },
             {
-                item_link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
-                item_name = "Железный слиток",
-                item_count = 751,
-            },
-            {
                 item_link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
                 item_name = "Оловянный слиток",
                 item_count = 168,
-            },
-            {
-                item_link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
-                item_name = "Кобальтовая руда",
-                item_count = 300,
-            },
-            {
-                item_link = "|cffffffff|Hitem:36912:0:0:0:0:0:0:0:10|h[Саронитовая руда]|h|r",
-                item_name = "Саронитовая руда",
-                item_count = 200,
-            },
-            {
-                item_link = "|cffffffff|Hitem:36916:0:0:0:0:0:0:0:10|h[Слиток кобальта]|h|r",
-                item_name = "Слиток кобальта",
-                item_count = 9,
-            },
-            {
-                item_link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
-                item_name = "Мифриловая руда",
-                item_count = 4,
-            },
-            {
-                item_link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
-                item_name = "Стальной слиток",
-                item_count = 45,
-            },
-            {
-                item_link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
-                item_name = "Мифриловый слиток",
-                item_count = 369,
             },
         },
     },
