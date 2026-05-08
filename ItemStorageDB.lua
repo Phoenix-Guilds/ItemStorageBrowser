@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778230850
+ItemStorageDB_LastUpdate = 1778230886
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5431,9 +5431,9 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = "2026-05-08 11:45:03",
+        updated_at = "2026-05-08 12:01:26",
         money = 13874,
-        empty = 38,
+        empty = 37,
         location = "Оргриммар",
         items = {
             {
@@ -5649,12 +5649,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43012:0:0:0:0:0:0:0:10|h[Мясо люторога]|h|r",
                 name = "Мясо люторога",
-                count = 54,
+                count = 72,
             },
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 821,
+                count = 871,
             },
             {
                 link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
