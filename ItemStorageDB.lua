@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778230886
+ItemStorageDB_LastUpdate = 1778230923
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6947,7 +6947,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = "2026-05-08 10:26:55",
+        updated_at = "2026-05-08 12:02:03",
         money = 38278,
         empty = 63,
         location = "Оргриммар",
@@ -7005,7 +7005,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:10|h[Осколок грез]|h|r",
                 name = "Осколок грез",
-                count = 120,
+                count = 121,
             },
             {
                 link = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:10|h[Маленький осколок грез]|h|r",
