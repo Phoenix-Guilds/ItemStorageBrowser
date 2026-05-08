@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778229939
+ItemStorageDB_LastUpdate = 1778229993
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7181,9 +7181,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = "2026-05-05 13:11:17",
+        updated_at = "2026-05-08 11:46:32",
         money = 74134,
-        empty = 22,
+        empty = 21,
         location = "Оргриммар",
         items = {
             {
@@ -7574,6 +7574,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:16214:0:0:0:0:0:0:0:10|h[Формула: зачаровывание браслетов - интеллект, III ступень]|h|r",
                 name = "Формула: зачаровывание браслетов - интеллект, III ступень",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:16248:0:0:0:0:0:0:0:10|h[Формула чар для оружия - нечестивое оружие]|h|r",
+                name = "Формула чар для оружия - нечестивое оружие",
                 count = 1,
             },
             {
