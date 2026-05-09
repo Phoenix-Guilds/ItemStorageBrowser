@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778316033
+ItemStorageDB_LastUpdate = 1778318129
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3802,9 +3802,9 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        updated_at = 1778315855,
+        updated_at = 1778318126,
         money = 9413,
-        empty = 157,
+        empty = 153,
         location = "Оргриммар",
         items = {
             {
@@ -3825,12 +3825,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:43115:0:0:0:0:0:0:0:10|h[Чернила охотника]|h|r",
                 name = "Чернила охотника",
-                count = 280,
+                count = 382,
             },
             {
                 link = "|cff1eff00|Hitem:43117:0:0:0:0:0:0:0:10|h[Чернила утренней звезды]|h|r",
                 name = "Чернила утренней звезды",
-                count = 3,
+                count = 30,
             },
             {
                 link = "|cff1eff00|Hitem:43121:0:0:0:0:0:0:0:10|h[Огненные чернила]|h|r",
@@ -3865,17 +3865,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39469:0:0:0:0:0:0:0:10|h[Чернила лунного сияния]|h|r",
                 name = "Чернила лунного сияния",
-                count = 50,
+                count = 129,
             },
             {
                 link = "|cffffffff|Hitem:39774:0:0:0:0:0:0:0:10|h[Полуночные чернила]|h|r",
                 name = "Полуночные чернила",
-                count = 7,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:43116:0:0:0:0:0:0:0:10|h[Чернила царя зверей]|h|r",
                 name = "Чернила царя зверей",
-                count = 33,
+                count = 45,
             },
             {
                 link = "|cffffffff|Hitem:43118:0:0:0:0:0:0:0:10|h[Чернила нефритового пламени]|h|r",
