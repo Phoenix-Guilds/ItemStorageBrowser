@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778343738
+ItemStorageDB_LastUpdate = 1778350571
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11650,9 +11650,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1778310465,
+        updated_at = 1778350568,
         money = 344111,
-        empty = 71,
+        empty = 74,
         location = "Оргриммар",
         items = {
             {
@@ -11728,7 +11728,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
                 name = "Кольцо грозного лика",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
@@ -11943,7 +11943,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
                 name = "Варварский железный ошейник",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
@@ -12018,7 +12018,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21932:0:0:0:0:0:0:0:10|h[Тяжелое медное кольцо]|h|r",
                 name = "Тяжелое медное кольцо",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
