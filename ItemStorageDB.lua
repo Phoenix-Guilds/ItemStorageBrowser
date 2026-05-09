@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778318129
+ItemStorageDB_LastUpdate = 1778318204
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7699,9 +7699,9 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = 1778315943,
+        updated_at = 1778318194,
         money = 4291,
-        empty = 121,
+        empty = 117,
         location = "Оргриммар",
         items = {
             {
@@ -7760,9 +7760,24 @@ ItemStorageDB = {
                 count = 3,
             },
             {
+                link = "|cffffffff|Hitem:1711:0:0:0:0:0:0:0:10|h[Свиток выносливости II]|h|r",
+                name = "Свиток выносливости II",
+                count = 50,
+            },
+            {
+                link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
+                name = "Свиток духа II",
+                count = 50,
+            },
+            {
                 link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
                 name = "Свиток силы II",
                 count = 51,
+            },
+            {
+                link = "|cffffffff|Hitem:2290:0:0:0:0:0:0:0:10|h[Свиток интеллекта II]|h|r",
+                name = "Свиток интеллекта II",
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:27498:0:0:0:0:0:0:0:10|h[Свиток ловкости V]|h|r",
@@ -7928,6 +7943,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:39006:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - живучесть клыкарра]|h|r",
                 name = "Свиток чар для обуви - живучесть клыкарра",
                 count = 2,
+            },
+            {
+                link = "|cffffffff|Hitem:39349:0:0:0:0:0:0:0:10|h[Материал для свитка оружия]|h|r",
+                name = "Материал для свитка оружия",
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:10|h[Свиток ловкости VII]|h|r",
