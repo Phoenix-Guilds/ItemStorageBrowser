@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778306043
+ItemStorageDB_LastUpdate = 1778306073
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1730,9 +1730,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = "2026-05-08 18:34:35",
+        updated_at = 1778306070,
         money = 158410,
-        empty = 162,
+        empty = 163,
         location = "Оргриммар",
         items = {
             {
@@ -1768,11 +1768,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31186:0:0:0:0:0:0:0:10|h[Посох дремы Браксиса]|h|r",
                 name = "Посох дремы Браксиса",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
-                name = "Клинок Неутолимой Жажды",
                 count = 1,
             },
             {
