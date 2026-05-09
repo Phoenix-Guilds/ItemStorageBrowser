@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778315857
+ItemStorageDB_LastUpdate = 1778315945
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7699,9 +7699,9 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = 1778311782,
+        updated_at = 1778315943,
         money = 4291,
-        empty = 124,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -7742,7 +7742,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1180:0:0:0:0:0:0:0:10|h[Свиток выносливости]|h|r",
                 name = "Свиток выносливости",
-                count = 2,
+                count = 50,
+            },
+            {
+                link = "|cffffffff|Hitem:1181:0:0:0:0:0:0:0:10|h[Свиток духа]|h|r",
+                name = "Свиток духа",
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:1477:0:0:0:0:0:0:0:10|h[Свиток ловкости II]|h|r",
@@ -7777,7 +7782,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3012:0:0:0:0:0:0:0:10|h[Свиток ловкости]|h|r",
                 name = "Свиток ловкости",
-                count = 1,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:33457:0:0:0:0:0:0:0:10|h[Свиток ловкости VI]|h|r",
@@ -7808,6 +7813,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:37097:0:0:0:0:0:0:0:10|h[Свиток духа VII]|h|r",
                 name = "Свиток духа VII",
                 count = 2,
+            },
+            {
+                link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
+                name = "Материал для свитка брони",
+                count = 100,
             },
             {
                 link = "|cffffffff|Hitem:38827:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - ловкость I]|h|r",
@@ -7987,12 +7997,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
                 name = "Свиток силы",
-                count = 4,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
                 name = "Свиток интеллекта",
-                count = 28,
+                count = 50,
             },
         },
     },
