@@ -1,10 +1,10 @@
-ItemStorageDB_LastUpdate = 1778318255
+ItemStorageDB_LastUpdate = 1778318308
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = 1778311082,
+        updated_at = 1778318297,
         money = 339404,
-        empty = 116,
+        empty = 114,
         location = "Оргриммар",
         items = {
             {
@@ -148,6 +148,11 @@ ItemStorageDB = {
                 count = 10,
             },
             {
+                link = "|cffffffff|Hitem:41108:0:0:0:0:0:0:0:10|h[Символ божественности]|h|r",
+                name = "Символ божественности",
+                count = 5,
+            },
+            {
                 link = "|cffffffff|Hitem:41518:0:0:0:0:0:0:0:10|h[Символ цепной молнии]|h|r",
                 name = "Символ цепной молнии",
                 count = 6,
@@ -245,7 +250,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42400:0:0:0:0:0:0:0:10|h[Символ быстрого исцеления]|h|r",
                 name = "Символ быстрого исцеления",
-                count = 3,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:42402:0:0:0:0:0:0:0:10|h[Символ внутреннего огня]|h|r",
@@ -501,6 +506,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:42907:0:0:0:0:0:0:0:10|h[Символ метки охотника]|h|r",
                 name = "Символ метки охотника",
                 count = 13,
+            },
+            {
+                link = "|cffffffff|Hitem:42908:0:0:0:0:0:0:0:10|h[Символ обжигающей ловушки]|h|r",
+                name = "Символ обжигающей ловушки",
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:42909:0:0:0:0:0:0:0:10|h[Символ ястреба]|h|r",
@@ -865,7 +875,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43423:0:0:0:0:0:0:0:10|h[Символ кровопускания]|h|r",
                 name = "Символ кровопускания",
-                count = 4,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:43424:0:0:0:0:0:0:0:10|h[Символ реванша]|h|r",
@@ -885,7 +895,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43427:0:0:0:0:0:0:0:10|h[Символ раскола брони]|h|r",
                 name = "Символ раскола брони",
-                count = 8,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:43428:0:0:0:0:0:0:0:10|h[Символ размашистого удара]|h|r",
