@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778305327
+ItemStorageDB_LastUpdate = 1778305437
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2771,10 +2771,10 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = 1778305324,
+        updated_at = 1778305435,
         money = 82572,
         empty = 26,
-        location = "Оргриммар",
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
