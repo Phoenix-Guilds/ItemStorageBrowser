@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778361661
+ItemStorageDB_LastUpdate = 1778361711
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10520,9 +10520,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1778350568,
+        updated_at = 1778361704,
         money = 344111,
-        empty = 74,
+        empty = 77,
         location = "Оргриммар",
         items = {
             {
@@ -10538,7 +10538,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
                 name = "Кольцо очищения",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13001:0:0:0:0:0:0:0:10|h[Обруч девушки]|h|r",
@@ -10768,7 +10768,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20818:0:0:0:0:0:0:0:10|h[Элегантное серебряное кольцо]|h|r",
                 name = "Элегантное серебряное кольцо",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:20820:0:0:0:0:0:0:0:10|h[Простое жемчужное кольцо]|h|r",
@@ -10889,11 +10889,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:21932:0:0:0:0:0:0:0:10|h[Тяжелое медное кольцо]|h|r",
                 name = "Тяжелое медное кольцо",
                 count = 2,
-            },
-            {
-                link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
-                name = "Толстое бронзовое ожерелье",
-                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:24074:0:0:0:0:0:0:0:10|h[Кровавое кольцо из оскверненного железа]|h|r",
