@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778524957
+ItemStorageDB_LastUpdate = 1778530031
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6098,9 +6098,9 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = 1778524860,
+        updated_at = 1778530028,
         money = 13104,
-        empty = 68,
+        empty = 70,
         location = "Оргриммар",
         items = {
             {
@@ -6186,7 +6186,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -6281,7 +6281,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4406:0:0:0:0:0:0:0:10|h[Обычный прицел]|h|r",
                 name = "Обычный прицел",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:44739:0:0:0:0:0:0:0:10|h[Рефракторный прицел с бриллиантовой огранкой]|h|r",
