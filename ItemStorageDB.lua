@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778524864
+ItemStorageDB_LastUpdate = 1778524957
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10886,9 +10886,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778519293,
+        updated_at = 1778524954,
         money = 343936,
-        empty = 15,
+        empty = 17,
         location = "Оргриммар",
         items = {
             {
@@ -11354,7 +11354,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
                 name = "Полированная джазерентская броня",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
@@ -11369,7 +11369,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                 name = "Штаны из шкуры василиска",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:18238:0:0:0:0:0:0:0:10|h[Тенекожаные перчатки]|h|r",
