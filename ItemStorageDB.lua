@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778489234
+ItemStorageDB_LastUpdate = 1778489410
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10936,9 +10936,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778489231,
+        updated_at = 1778489407,
         money = 343936,
-        empty = 10,
+        empty = 14,
         location = "Оргриммар",
         items = {
             {
@@ -11154,7 +11154,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13112:0:0:0:0:0:0:0:10|h[Крылатый шлем]|h|r",
                 name = "Крылатый шлем",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13113:0:0:0:0:0:0:0:10|h[Головной убор Оперенной Луны]|h|r",
@@ -11339,7 +11339,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16703:0:0:0:0:0:0:0:10|h[Наручи Багрового Тумана]|h|r",
                 name = "Наручи Багрового Тумана",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:16705:0:0:0:0:0:0:0:10|h[Повязки Багрового Тумана]|h|r",
@@ -11354,7 +11354,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16713:0:0:0:0:0:0:0:10|h[Пояс незаметности]|h|r",
                 name = "Пояс незаметности",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:16714:0:0:0:0:0:0:0:10|h[Наручи дикого сердца]|h|r",
@@ -11369,7 +11369,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16717:0:0:0:0:0:0:0:10|h[Перчатки дикого сердца]|h|r",
                 name = "Перчатки дикого сердца",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:16722:0:0:0:0:0:0:0:10|h[Наручи из светлостали]|h|r",
