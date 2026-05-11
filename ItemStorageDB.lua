@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778489749
+ItemStorageDB_LastUpdate = 1778489785
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1146,9 +1146,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1778361658,
+        updated_at = 1778489782,
         money = 92710,
-        empty = 69,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -1494,7 +1494,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -1524,7 +1524,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                 name = "Клык Боана",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
@@ -1619,7 +1619,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                 name = "Черночерепный щит",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
