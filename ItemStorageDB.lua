@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778495691
+ItemStorageDB_LastUpdate = 1778495766
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7998,9 +7998,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1778491229,
+        updated_at = 1778495763,
         money = 347705,
-        empty = 13,
+        empty = 14,
         location = "Оргриммар",
         items = {
             {
@@ -8011,11 +8011,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
                 name = "Малый магический жезл",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
-                name = "Большой магический жезл",
                 count = 1,
             },
             {
