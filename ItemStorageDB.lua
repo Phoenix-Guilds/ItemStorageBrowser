@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778489962
+ItemStorageDB_LastUpdate = 1778490008
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4667,9 +4667,9 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = 1778339536,
+        updated_at = 1778490004,
         money = 4062,
-        empty = 116,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -4690,7 +4690,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 25,
+                count = 23,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -4720,7 +4720,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 176,
+                count = 192,
             },
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
@@ -4765,7 +4765,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24245:0:0:0:0:0:0:0:10|h[Огнешляпка]|h|r",
                 name = "Огнешляпка",
-                count = 90,
+                count = 93,
             },
             {
                 link = "|cffffffff|Hitem:24290:0:0:0:0:0:0:0:10|h[Мешочек зрелых спор]|h|r",
@@ -4780,7 +4780,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
                 name = "Неопознанные части растений",
-                count = 24,
+                count = 42,
             },
             {
                 link = "|cffffffff|Hitem:25719:0:0:0:0:0:0:0:10|h[Перо араккоа]|h|r",
@@ -4820,7 +4820,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
                 name = "Радужное перо",
-                count = 49,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:8932:0:0:0:0:0:0:0:10|h[Альтеракский сыр]|h|r",
