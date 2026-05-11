@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778492002
+ItemStorageDB_LastUpdate = 1778492153
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3970,7 +3970,7 @@ ItemStorageDB = {
     },
     {
         name = "Ларец",
-        updated_at = 1778484622,
+        updated_at = 1778492150,
         money = 3254,
         empty = 163,
         location = "Оргриммар",
@@ -3978,52 +3978,52 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
                 name = "Кориевый сейф",
-                count = 18,
+                count = 9,
             },
             {
                 link = "|cff1eff00|Hitem:43622:0:0:0:0:0:0:0:10|h[Сейф из ледяной стали]|h|r",
                 name = "Сейф из ледяной стали",
-                count = 8,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:4633:0:0:0:0:0:0:0:10|h[Тяжелый бронзовый сейф]|h|r",
                 name = "Тяжелый бронзовый сейф",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:4637:0:0:0:0:0:0:0:10|h[Стальной сейф]|h|r",
                 name = "Стальной сейф",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:4638:0:0:0:0:0:0:0:10|h[Укрепленный стальной сейф]|h|r",
                 name = "Укрепленный стальной сейф",
-                count = 6,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:5758:0:0:0:0:0:0:0:10|h[Мифриловый сейф]|h|r",
                 name = "Мифриловый сейф",
-                count = 14,
+                count = 7,
             },
             {
                 link = "|cff1eff00|Hitem:5759:0:0:0:0:0:0:0:10|h[Ториевый сейф]|h|r",
                 name = "Ториевый сейф",
-                count = 14,
+                count = 7,
             },
             {
                 link = "|cff1eff00|Hitem:5760:0:0:0:0:0:0:0:10|h[Этерниевый сейф]|h|r",
                 name = "Этерниевый сейф",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:16884:0:0:0:0:0:0:0:10|h[Прочный ларь]|h|r",
                 name = "Прочный ларь",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:29569:0:0:0:0:0:0:0:10|h[Прочный ларь]|h|r",
                 name = "Прочный ларь",
-                count = 46,
+                count = 23,
             },
         },
     },
