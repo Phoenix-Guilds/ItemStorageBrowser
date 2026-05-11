@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778491145
+ItemStorageDB_LastUpdate = 1778491232
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7808,9 +7808,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1778489917,
+        updated_at = 1778491229,
         money = 347705,
-        empty = 11,
+        empty = 13,
         location = "Оргриммар",
         items = {
             {
@@ -8404,11 +8404,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:3308:931:0:0:0:0:0:0:10|h[Варварские матерчатые перчатки]|h|r",
-                name = "Варварские матерчатые перчатки",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:3314:856:0:0:0:0:0:0:10|h[Парадные кожаные перчатки]|h|r",
                 name = "Парадные кожаные перчатки",
                 count = 1,
@@ -8586,11 +8581,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5422:0:0:0:0:0:0:0:10|h[Поножи ежевичных зарослей]|h|r",
                 name = "Поножи ежевичных зарослей",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:6263:1893:0:0:0:0:0:0:10|h[Синий комбинезон]|h|r",
-                name = "Синий комбинезон",
                 count = 1,
             },
             {
