@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1778608620
+ItemStorageDB_LastUpdate = 1778609544
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = 1778608484,
+        updated_at = 1778609535,
         money = 339404,
         empty = 115,
         location = "Оргриммар",
@@ -475,12 +475,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                 name = "Символ лечения",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
                 name = "Символ духа гадюки",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:42902:0:0:0:0:0:0:0:10|h[Символ звериного гнева]|h|r",
@@ -660,7 +660,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43338:0:0:0:0:0:0:0:10|h[Символ воскрешения питомца]|h|r",
                 name = "Символ воскрешения питомца",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:43339:0:0:0:0:0:0:0:10|h[Символ чародейского интеллекта]|h|r",
@@ -680,7 +680,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
