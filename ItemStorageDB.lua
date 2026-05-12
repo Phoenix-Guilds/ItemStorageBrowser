@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778578378
+ItemStorageDB_LastUpdate = 1778578411
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2288,9 +2288,9 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = 1778491547,
+        updated_at = 1778578409,
         money = 9680,
-        empty = 82,
+        empty = 80,
         location = "Оргриммар",
         items = {
             {
@@ -2311,7 +2311,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9719:0:0:0:0:0:0:0:10|h[Сломанный клинок героев]|h|r",
                 name = "Сломанный клинок героев",
-                count = 10,
+                count = 12,
             },
             {
                 link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
@@ -2326,7 +2326,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                 name = "Золотая жемчужина",
-                count = 132,
+                count = 133,
             },
             {
                 link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
@@ -2421,7 +2421,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 59,
+                count = 61,
             },
             {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -2546,7 +2546,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 116,
+                count = 129,
             },
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
