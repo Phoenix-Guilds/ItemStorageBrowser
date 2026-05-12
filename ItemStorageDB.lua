@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778610083
+ItemStorageDB_LastUpdate = 1778610216
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9224,9 +9224,9 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = 1778578341,
+        updated_at = 1778610214,
         money = 1095064,
-        empty = 109,
+        empty = 116,
         location = "Оргриммар",
         items = {
             {
@@ -9312,7 +9312,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
                 name = "Ползучий кошмарник",
-                count = 131,
+                count = 81,
             },
             {
                 link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
@@ -9322,22 +9322,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 206,
+                count = 156,
             },
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
-                count = 66,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 236,
+                count = 186,
             },
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 257,
+                count = 207,
             },
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
@@ -9452,12 +9452,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
-                count = 225,
+                count = 175,
             },
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 156,
+                count = 106,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
