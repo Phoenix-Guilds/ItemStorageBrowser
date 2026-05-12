@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778578971
+ItemStorageDB_LastUpdate = 1778579030
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10886,9 +10886,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778578010,
+        updated_at = 1778579027,
         money = 343936,
-        empty = 22,
+        empty = 20,
         location = "Оргриммар",
         items = {
             {
@@ -11084,7 +11084,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
                 name = "Мантия тигриного прыжка",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
@@ -11404,7 +11404,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2314:0:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
                 name = "Укрепленный кожаный доспех",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
