@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778608490
+ItemStorageDB_LastUpdate = 1778608620
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9060,7 +9060,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = 1778579570,
+        updated_at = 1778608618,
         money = 201502,
         empty = 133,
         location = "Оргриммар",
@@ -9088,7 +9088,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 68,
+                count = 58,
             },
             {
                 link = "|cffffffff|Hitem:14048:0:0:0:0:0:0:0:10|h[Рулон рунической ткани]|h|r",
