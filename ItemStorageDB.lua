@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1778577548
+ItemStorageDB_LastUpdate = 1778577628
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = 1778531481,
+        updated_at = 1778577617,
         money = 339404,
         empty = 114,
         location = "Оргриммар",
@@ -270,7 +270,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
                 name = "Символ слова силы: Щит",
-                count = 12,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:42411:0:0:0:0:0:0:0:10|h[Символ обновления]|h|r",
@@ -285,7 +285,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
                 name = "Символ пытки разума",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:42453:0:0:0:0:0:0:0:10|h[Символ испепеления]|h|r",
@@ -675,7 +675,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
                 name = "Символ обшаривания карманов",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
