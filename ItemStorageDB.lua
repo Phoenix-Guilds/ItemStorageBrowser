@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778597259
+ItemStorageDB_LastUpdate = 1778597527
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7878,9 +7878,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1778495763,
+        updated_at = 1778597524,
         money = 347705,
-        empty = 14,
+        empty = 15,
         location = "Оргриммар",
         items = {
             {
@@ -8566,11 +8566,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4564:0:0:0:0:0:1183:0:10|h[Шипастая дубина со знаком медведя]|h|r",
                 name = "Шипастая дубина со знаком медведя",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:4564:20320:0:0:0:0:585:0:10|h[Шипастая дубина со знаком мартышки]|h|r",
-                name = "Шипастая дубина со знаком мартышки",
                 count = 1,
             },
             {
