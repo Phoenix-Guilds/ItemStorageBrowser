@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778578631
+ItemStorageDB_LastUpdate = 1778578807
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4667,9 +4667,9 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = 1778490004,
+        updated_at = 1778578804,
         money = 4062,
-        empty = 118,
+        empty = 119,
         location = "Оргриммар",
         items = {
             {
@@ -4690,7 +4690,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 23,
+                count = 22,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -4805,7 +4805,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                 name = "Гирохронатом",
-                count = 30,
+                count = 32,
             },
             {
                 link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
