@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1778612543
+ItemStorageDB_LastUpdate = 1778612605
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = 1778612340,
+        updated_at = 1778612602,
         money = 339404,
         empty = 115,
         location = "Оргриммар",
@@ -110,7 +110,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41094:0:0:0:0:0:0:0:10|h[Символ печати повиновения]|h|r",
                 name = "Символ печати повиновения",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
