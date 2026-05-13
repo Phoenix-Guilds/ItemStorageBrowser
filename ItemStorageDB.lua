@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778664671
+ItemStorageDB_LastUpdate = 1778665929
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6162,9 +6162,9 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = 1778652344,
-        money = 43478,
-        empty = 47,
+        updated_at = 1778665926,
+        money = 55478,
+        empty = 21,
         location = "Оргриммар",
         items = {
             {
@@ -6310,7 +6310,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 2,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
@@ -6320,7 +6320,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
                 name = "Жезл из истинного серебра",
-                count = 5,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
@@ -6335,7 +6335,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                 name = "Арканитовый жезл",
-                count = 2,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
@@ -6375,17 +6375,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
                 name = "Жезл из оскверненного железа",
-                count = 5,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
                 name = "Адамантитовый жезл",
-                count = 4,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
                 name = "Этерниевый жезл",
-                count = 4,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:3371:0:0:0:0:0:0:0:10|h[Пустая колба]|h|r",
@@ -6400,7 +6400,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
-                count = 1,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
