@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778683111
+ItemStorageDB_LastUpdate = 1778683362
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3160,9 +3160,9 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = 1778682294,
+        updated_at = 1778683360,
         money = 2404282,
-        empty = 128,
+        empty = 131,
         location = "Оргриммар",
         items = {
             {
@@ -3308,7 +3308,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
-                count = 8,
+                count = 5,
             },
             {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
