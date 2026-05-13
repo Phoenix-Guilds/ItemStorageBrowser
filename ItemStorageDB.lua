@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778650728
+ItemStorageDB_LastUpdate = 1778650882
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3115,9 +3115,9 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = 1778650435,
+        updated_at = 1778650879,
         money = 2404282,
-        empty = 130,
+        empty = 124,
         location = "Оргриммар",
         items = {
             {
@@ -3253,7 +3253,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
                 name = "Колода Мечей",
-                count = 3,
+                count = 8,
             },
             {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
@@ -3293,12 +3293,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37145:0:0:0:0:0:0:0:10|h[Туз из колоды Мечей]|h|r",
                 name = "Туз из колоды Мечей",
-                count = 13,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:37147:0:0:0:0:0:0:0:10|h[Двойка из колоды Мечей]|h|r",
                 name = "Двойка из колоды Мечей",
-                count = 6,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:37156:0:0:0:0:0:0:0:10|h[Тройка из колоды Разбойников]|h|r",
@@ -3306,9 +3306,14 @@ ItemStorageDB = {
                 count = 10,
             },
             {
+                link = "|cffffffff|Hitem:37159:0:0:0:0:0:0:0:10|h[Тройка из колоды Мечей]|h|r",
+                name = "Тройка из колоды Мечей",
+                count = 4,
+            },
+            {
                 link = "|cffffffff|Hitem:37160:0:0:0:0:0:0:0:10|h[Четверка из колоды Мечей]|h|r",
                 name = "Четверка из колоды Мечей",
-                count = 8,
+                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:44143:0:0:0:0:0:0:0:10|h[Туз из колоды Демонов]|h|r",
