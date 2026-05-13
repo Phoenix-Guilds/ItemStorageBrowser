@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778649187
+ItemStorageDB_LastUpdate = 1778649240
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3698,9 +3698,9 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1778491578,
+        updated_at = 1778649237,
         money = 0,
-        empty = 200,
+        empty = 199,
         location = "Оргриммар",
         items = {
             {
@@ -3721,7 +3721,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
                 name = "Сосиска из мяса опустошителя",
-                count = 37,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:27656:0:0:0:0:0:0:0:10|h[Закуска спорлингов]|h|r",
