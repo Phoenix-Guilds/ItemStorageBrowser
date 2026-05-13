@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778649418
+ItemStorageDB_LastUpdate = 1778650061
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3802,15 +3802,15 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        updated_at = 1778491912,
+        updated_at = 1778650059,
         money = 9413,
-        empty = 153,
+        empty = 154,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
                 name = "Зеленый краситель",
-                count = 6,
+                count = 32,
             },
             {
                 link = "|cff1eff00|Hitem:43108:0:0:0:0:0:0:0:10|h[Эбеновый краситель]|h|r",
@@ -3825,7 +3825,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:43115:0:0:0:0:0:0:0:10|h[Чернила охотника]|h|r",
                 name = "Чернила охотника",
-                count = 382,
+                count = 332,
             },
             {
                 link = "|cff1eff00|Hitem:43117:0:0:0:0:0:0:0:10|h[Чернила утренней звезды]|h|r",
@@ -3870,7 +3870,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39774:0:0:0:0:0:0:0:10|h[Полуночные чернила]|h|r",
                 name = "Полуночные чернила",
-                count = 16,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:43116:0:0:0:0:0:0:0:10|h[Чернила царя зверей]|h|r",
