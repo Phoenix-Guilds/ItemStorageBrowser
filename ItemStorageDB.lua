@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778650061
+ItemStorageDB_LastUpdate = 1778650438
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3115,9 +3115,9 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        updated_at = 1778649182,
+        updated_at = 1778650435,
         money = 2404282,
-        empty = 139,
+        empty = 130,
         location = "Оргриммар",
         items = {
             {
@@ -3266,6 +3266,11 @@ ItemStorageDB = {
                 count = 7,
             },
             {
+                link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
+                name = "Колода Разбойников",
+                count = 8,
+            },
+            {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
                 name = "Карта Новолуния: Синий Дракон",
                 count = 1,
@@ -3278,12 +3283,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
                 name = "Туз из колоды Разбойников",
-                count = 28,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:37143:0:0:0:0:0:0:0:10|h[Двойка из колоды Разбойников]|h|r",
                 name = "Двойка из колоды Разбойников",
-                count = 35,
+                count = 39,
             },
             {
                 link = "|cffffffff|Hitem:37145:0:0:0:0:0:0:0:10|h[Туз из колоды Мечей]|h|r",
@@ -3294,6 +3299,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:37147:0:0:0:0:0:0:0:10|h[Двойка из колоды Мечей]|h|r",
                 name = "Двойка из колоды Мечей",
                 count = 6,
+            },
+            {
+                link = "|cffffffff|Hitem:37156:0:0:0:0:0:0:0:10|h[Тройка из колоды Разбойников]|h|r",
+                name = "Тройка из колоды Разбойников",
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:37160:0:0:0:0:0:0:0:10|h[Четверка из колоды Мечей]|h|r",
