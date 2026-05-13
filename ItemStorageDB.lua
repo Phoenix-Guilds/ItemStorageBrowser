@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778648290
+ItemStorageDB_LastUpdate = 1778648351
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9087,20 +9087,15 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = 1778647853,
+        updated_at = 1778648348,
         money = 9245,
-        empty = 31,
+        empty = 38,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
                 name = "Титановый ящик с инструментами",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:38347:0:0:0:0:0:0:0:10|h[Шахтерская сумка из шкуры мамонта]|h|r",
-                name = "Шахтерская сумка из шкуры мамонта",
-                count = 7,
             },
             {
                 link = "|cff0070dd|Hitem:38399:0:0:0:0:0:0:0:10|h[Походная сума зверолова]|h|r",
