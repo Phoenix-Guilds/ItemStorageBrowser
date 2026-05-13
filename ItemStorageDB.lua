@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778686374
+ItemStorageDB_LastUpdate = 1778686568
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2561,7 +2561,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = 1778651009,
+        updated_at = 1778686565,
         money = 82572,
         empty = 23,
         location = "Оргриммар",
@@ -2794,7 +2794,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                 name = "Звездный рубин",
-                count = 43,
+                count = 37,
             },
             {
                 link = "|cff1eff00|Hitem:7967:0:0:0:0:0:0:0:10|h[Мифриловый шип для щита]|h|r",
