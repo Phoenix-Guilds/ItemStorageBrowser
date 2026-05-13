@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778692242
+ItemStorageDB_LastUpdate = 1778693330
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6599,9 +6599,9 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = 1778683434,
+        updated_at = 1778693327,
         money = 4291,
-        empty = 114,
+        empty = 115,
         location = "Оргриммар",
         items = {
             {
@@ -6617,12 +6617,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:38992:0:0:0:0:0:0:0:10|h[Свиток чар для двуручного оружия - свирепость II]|h|r",
                 name = "Свиток чар для двуручного оружия - свирепость II",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cff0070dd|Hitem:44453:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - могущество II]|h|r",
                 name = "Свиток чар для оружия - могущество II",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -6922,7 +6922,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
                 name = "Свиток силы",
-                count = 51,
+                count = 41,
             },
             {
                 link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
