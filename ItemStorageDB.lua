@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778663653
+ItemStorageDB_LastUpdate = 1778663938
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10921,9 +10921,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778579027,
+        updated_at = 1778663935,
         money = 343936,
-        empty = 20,
+        empty = 21,
         location = "Оргриммар",
         items = {
             {
@@ -11189,7 +11189,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
                 name = "Эльфийские плетеные сапоги",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
