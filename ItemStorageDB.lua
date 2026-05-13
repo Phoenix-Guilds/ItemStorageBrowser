@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778648972
+ItemStorageDB_LastUpdate = 1778649015
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4667,7 +4667,7 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = 1778648131,
+        updated_at = 1778649013,
         money = 4062,
         empty = 120,
         location = "Оргриммар",
@@ -4675,7 +4675,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
@@ -4775,7 +4775,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
                 name = "Усик болотника",
-                count = 1,
+                count = 35,
             },
             {
                 link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
@@ -4785,17 +4785,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25719:0:0:0:0:0:0:0:10|h[Перо араккоа]|h|r",
                 name = "Перо араккоа",
-                count = 37,
+                count = 45,
             },
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                 name = "Знак Кил'джедена",
-                count = 65,
+                count = 79,
             },
             {
                 link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
                 name = "Перстень Огнекрылов",
-                count = 14,
+                count = 22,
             },
             {
                 link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
