@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778776474
+ItemStorageDB_LastUpdate = 1778776530
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11071,9 +11071,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778763525,
+        updated_at = 1778776527,
         money = 343936,
-        empty = 22,
+        empty = 19,
         location = "Оргриммар",
         items = {
             {
@@ -11259,7 +11259,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
                 name = "Накидка черного пламени",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13111:0:0:0:0:0:0:0:10|h[Сандалии мятежника]|h|r",
@@ -11690,6 +11690,11 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:14584:0:0:0:0:0:0:0:10|h[Шляпа Докеби]|h|r",
                 name = "Шляпа Докеби",
                 count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:14662:0:0:0:0:0:0:0:10|h[Копыта Хранителя]|h|r",
+                name = "Копыта Хранителя",
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:14774:0:0:0:0:0:0:0:10|h[Корона Опустошителя]|h|r",
