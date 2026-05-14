@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778786494
+ItemStorageDB_LastUpdate = 1778790376
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7959,9 +7959,9 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = 1778779460,
+        updated_at = 1778790373,
         money = 4291,
-        empty = 118,
+        empty = 119,
         location = "Оргриммар",
         items = {
             {
@@ -8123,11 +8123,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:38849:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - выносливость IV]|h|r",
                 name = "Свиток чар для наручей - выносливость IV",
                 count = 11,
-            },
-            {
-                link = "|cffffffff|Hitem:38861:0:0:0:0:0:0:0:10|h[Свиток чар для щита - выносливость IV]|h|r",
-                name = "Свиток чар для щита - выносливость IV",
-                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:38863:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - ловкость IV]|h|r",
