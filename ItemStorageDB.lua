@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778790445
+ItemStorageDB_LastUpdate = 1778794519
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11071,9 +11071,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778790442,
+        updated_at = 1778794516,
         money = 343936,
-        empty = 24,
+        empty = 28,
         location = "Оргриммар",
         items = {
             {
@@ -11314,7 +11314,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                 name = "Крыло дракончика",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -11359,7 +11359,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                 name = "Скелетные наплечники",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13133:0:0:0:0:0:0:0:10|h[Эполеты Драконьего огня]|h|r",
@@ -11389,7 +11389,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                 name = "Наручники Раздробленного хребта",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:15061:0:0:0:0:0:0:0:10|h[Наплечники жизни]|h|r",
@@ -11564,7 +11564,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2314:0:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
