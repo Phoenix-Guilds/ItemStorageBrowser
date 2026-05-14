@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778762025
+ItemStorageDB_LastUpdate = 1778762248
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8278,9 +8278,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1778738472,
+        updated_at = 1778762245,
         money = 358852,
-        empty = 54,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -8451,11 +8451,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:15303:0:0:0:0:0:757:0:10|h[Штаны гризли со знаком совы]|h|r",
                 name = "Штаны гризли со знаком совы",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:15306:929:0:0:0:0:17:0:10|h[Дикие наручники со знаком ловкости]|h|r",
-                name = "Дикие наручники со знаком ловкости",
                 count = 1,
             },
             {
@@ -8651,11 +8646,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2974:0:0:0:0:0:0:0:10|h[Охотничьи штаны]|h|r",
                 name = "Охотничьи штаны",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:2976:856:0:0:0:0:0:0:10|h[Охотничьи перчатки]|h|r",
-                name = "Охотничьи перчатки",
                 count = 1,
             },
             {
@@ -8961,7 +8951,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6379:0:0:0:0:0:0:0:10|h[Покрытый письменами кожаный пояс]|h|r",
                 name = "Покрытый письменами кожаный пояс",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:6382:0:0:0:0:0:0:0:10|h[Лесной кожаный пояс]|h|r",
