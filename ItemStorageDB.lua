@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778734760
+ItemStorageDB_LastUpdate = 1778734868
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4737,9 +4737,9 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = 1778667072,
+        updated_at = 1778734866,
         money = 4062,
-        empty = 119,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -4765,7 +4765,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 16,
+                count = 15,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -4870,7 +4870,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
                 name = "Перстень Огнекрылов",
-                count = 22,
+                count = 23,
+            },
+            {
+                link = "|cffffffff|Hitem:30809:0:0:0:0:0:0:0:10|h[Знак Саргераса]|h|r",
+                name = "Знак Саргераса",
+                count = 11,
+            },
+            {
+                link = "|cffffffff|Hitem:30810:0:0:0:0:0:0:0:10|h[Перстень Ярости Солнца]|h|r",
+                name = "Перстень Ярости Солнца",
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
