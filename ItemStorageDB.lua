@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778734683
+ItemStorageDB_LastUpdate = 1778734760
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5919,9 +5919,9 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = 1778733075,
+        updated_at = 1778734754,
         money = 13785,
-        empty = 121,
+        empty = 119,
         location = "Оргриммар",
         items = {
             {
@@ -6137,6 +6137,16 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:43245:0:0:0:0:0:0:0:10|h[Амулет с кристаллом кальцедония]|h|r",
                 name = "Амулет с кристаллом кальцедония",
+                count = 1,
+            },
+            {
+                link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
+                name = "Карта Новолуния: Синий Дракон",
+                count = 1,
+            },
+            {
+                link = "|cffa335ee|Hitem:19290:0:0:0:0:0:0:0:10|h[Карта Новолуния: Круговерть Пустоты]|h|r",
+                name = "Карта Новолуния: Круговерть Пустоты",
                 count = 1,
             },
         },
