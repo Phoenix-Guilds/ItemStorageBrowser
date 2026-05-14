@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778762301
+ItemStorageDB_LastUpdate = 1778762424
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4916,9 +4916,9 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = 1778762021,
+        updated_at = 1778762417,
         money = 13874,
-        empty = 36,
+        empty = 37,
         location = "Оргриммар",
         items = {
             {
@@ -5174,7 +5174,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
                 name = "Хвост рокочущей ящерицы",
-                count = 295,
+                count = 245,
             },
             {
                 link = "|cffffffff|Hitem:5471:0:0:0:0:0:0:0:10|h[Оленина]|h|r",
