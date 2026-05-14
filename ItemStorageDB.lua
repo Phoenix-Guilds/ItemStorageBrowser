@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778776792
+ItemStorageDB_LastUpdate = 1778776830
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2328,7 +2328,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = 1778765257,
+        updated_at = 1778776828,
         money = 9680,
         empty = 78,
         location = "Оргриммар",
@@ -2356,7 +2356,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
                 name = "Субстанция Жизни",
-                count = 18,
+                count = 20,
             },
             {
                 link = "|cff1eff00|Hitem:12808:0:0:0:0:0:0:0:10|h[Субстанция Нежити]|h|r",
@@ -2471,7 +2471,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
                 name = "Субстанция Огня",
-                count = 9,
+                count = 10,
             },
             {
                 link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
@@ -2581,7 +2581,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
-                count = 37,
+                count = 39,
             },
             {
                 link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
@@ -2601,7 +2601,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 51,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -2621,7 +2621,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
-                count = 113,
+                count = 121,
             },
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
