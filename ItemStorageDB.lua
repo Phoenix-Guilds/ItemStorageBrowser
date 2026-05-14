@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778782190
+ItemStorageDB_LastUpdate = 1778784945
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11800,9 +11800,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1778780874,
+        updated_at = 1778784942,
         money = 344111,
-        empty = 66,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -11978,11 +11978,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11987:0:0:0:0:0:772:0:10|h[Иридиевый обруч со знаком совы]|h|r",
                 name = "Иридиевый обруч со знаком совы",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:11994:0:0:0:0:0:1187:0:10|h[Коралловое кольцо со знаком медведя]|h|r",
-                name = "Коралловое кольцо со знаком медведя",
                 count = 1,
             },
             {
@@ -12213,7 +12208,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
                 name = "Сверкающее ожерелье",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:30420:0:0:0:0:0:0:0:10|h[Тяжелое нефритовое кольцо]|h|r",
