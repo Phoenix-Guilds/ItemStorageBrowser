@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778733407
+ItemStorageDB_LastUpdate = 1778734465
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9169,9 +9169,9 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = 1778650960,
+        updated_at = 1778734462,
         money = 1005064,
-        empty = 124,
+        empty = 130,
         location = "Оргриммар",
         items = {
             {
@@ -9307,7 +9307,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
                 name = "Кадгаров ус",
-                count = 219,
+                count = 119,
             },
             {
                 link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
@@ -9327,7 +9327,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
                 name = "Бледнолист",
-                count = 229,
+                count = 79,
             },
             {
                 link = "|cffffffff|Hitem:3819:0:0:0:0:0:0:0:10|h[Морозник]|h|r",
@@ -9342,7 +9342,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
-                count = 142,
+                count = 92,
             },
             {
                 link = "|cffffffff|Hitem:39505:0:0:0:0:0:0:0:10|h[Набор виртуозного начертателя]|h|r",
