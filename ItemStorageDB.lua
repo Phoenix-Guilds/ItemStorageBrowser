@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778736462
+ItemStorageDB_LastUpdate = 1778736500
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2328,7 +2328,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = 1778734972,
+        updated_at = 1778736498,
         money = 9680,
         empty = 78,
         location = "Оргриммар",
@@ -2491,7 +2491,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 34,
+                count = 36,
             },
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
@@ -2621,12 +2621,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
-                count = 108,
+                count = 113,
             },
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
                 name = "Настой большого колдунства",
-                count = 33,
+                count = 42,
             },
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
