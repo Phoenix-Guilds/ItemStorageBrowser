@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778733281
+ItemStorageDB_LastUpdate = 1778733332
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5938,9 +5938,9 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = 1778732859,
+        updated_at = 1778733327,
         money = 13104,
-        empty = 73,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -5951,7 +5951,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                 name = "Зов небес",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -5971,12 +5971,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13021:0:0:0:0:0:0:0:10|h[Продеватель игл]|h|r",
                 name = "Продеватель игл",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13022:0:0:0:0:0:0:0:10|h[Длинный лук Грифоньего крыла]|h|r",
                 name = "Длинный лук Грифоньего крыла",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13023:0:0:0:0:0:0:0:10|h[Длинный лук Орлиного рога]|h|r",
@@ -6036,7 +6036,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
                 name = "Глушитель",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
@@ -6091,7 +6091,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
                 name = "Дворфийская пищаль",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
@@ -6106,7 +6106,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
