@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778736221
+ItemStorageDB_LastUpdate = 1778736273
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4278,7 +4278,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1778696713,
+        updated_at = 1778736268,
         money = 9396,
         empty = 45,
         location = "Оргриммар",
@@ -4621,7 +4621,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44332:0:0:0:0:0:0:0:10|h[Мощный эликсир разума]|h|r",
                 name = "Мощный эликсир разума",
-                count = 2,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:44939:0:0:0:0:0:0:0:10|h[Малый настой сопротивления]|h|r",
