@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1778780952
+ItemStorageDB_LastUpdate = 1778781017
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = 1778775995,
+        updated_at = 1778781013,
         money = 339404,
         empty = 106,
         location = "Оргриммар",
@@ -520,7 +520,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42907:0:0:0:0:0:0:0:10|h[Символ метки охотника]|h|r",
                 name = "Символ метки охотника",
-                count = 12,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:42908:0:0:0:0:0:0:0:10|h[Символ обжигающей ловушки]|h|r",
@@ -705,7 +705,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
