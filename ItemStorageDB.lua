@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778735095
+ItemStorageDB_LastUpdate = 1778735128
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9409,7 +9409,7 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = 1778734462,
+        updated_at = 1778735125,
         money = 1005064,
         empty = 130,
         location = "Оргриммар",
@@ -9547,7 +9547,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
                 name = "Кадгаров ус",
-                count = 119,
+                count = 121,
             },
             {
                 link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
@@ -9577,7 +9577,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 152,
+                count = 158,
             },
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
@@ -9602,7 +9602,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
                 name = "Карликовый сосокунь",
-                count = 289,
+                count = 291,
             },
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
@@ -9617,7 +9617,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
                 name = "Огнеперый луциан",
-                count = 1,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
