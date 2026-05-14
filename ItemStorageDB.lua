@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778776128
+ItemStorageDB_LastUpdate = 1778776168
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3409,9 +3409,9 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = 1778736559,
+        updated_at = 1778776165,
         money = 306084,
-        empty = 140,
+        empty = 138,
         location = "Оргриммар",
         items = {
             {
@@ -3522,7 +3522,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 774,
+                count = 822,
             },
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
@@ -3577,7 +3577,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
                 name = "Обрывки кожи",
-                count = 135,
+                count = 173,
             },
             {
                 link = "|cffffffff|Hitem:29539:0:0:0:0:0:0:0:10|h[Чешуя кобры]|h|r",
@@ -3712,7 +3712,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
                 name = "Легкая шкура",
-                count = 271,
+                count = 273,
             },
             {
                 link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
