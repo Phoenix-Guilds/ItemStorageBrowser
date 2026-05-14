@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778776911
+ItemStorageDB_LastUpdate = 1778776965
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6771,9 +6771,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = 1778733005,
+        updated_at = 1778776960,
         money = 74134,
-        empty = 11,
+        empty = 10,
         location = "Оргриммар",
         items = {
             {
@@ -6879,6 +6879,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:7976:0:0:0:0:0:0:0:10|h[Чертеж: мифриловый шип для щита]|h|r",
                 name = "Чертеж: мифриловый шип для щита",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:7991:0:0:0:0:0:0:0:10|h[Чертеж: мифриловые чешуйчатые наплечники]|h|r",
+                name = "Чертеж: мифриловые чешуйчатые наплечники",
                 count = 1,
             },
             {
