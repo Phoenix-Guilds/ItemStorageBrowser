@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778735040
+ItemStorageDB_LastUpdate = 1778735095
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7650,9 +7650,9 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = 1778491602,
+        updated_at = 1778735089,
         money = 4042,
-        empty = 164,
+        empty = 158,
         location = "Оргриммар",
         items = {
             {
@@ -7706,14 +7706,29 @@ ItemStorageDB = {
                 count = 39,
             },
             {
+                link = "|cffffffff|Hitem:41802:0:0:0:0:0:0:0:10|h[Королевский морской дьявол]|h|r",
+                name = "Королевский морской дьявол",
+                count = 15,
+            },
+            {
+                link = "|cffffffff|Hitem:41803:0:0:0:0:0:0:0:10|h[Камнеперый морской окунь]|h|r",
+                name = "Камнеперый морской окунь",
+                count = 21,
+            },
+            {
                 link = "|cffffffff|Hitem:41805:0:0:0:0:0:0:0:10|h[Борейский медузник]|h|r",
                 name = "Борейский медузник",
-                count = 21,
+                count = 33,
+            },
+            {
+                link = "|cffffffff|Hitem:41807:0:0:0:0:0:0:0:10|h[Дракоперая рыба-ангел]|h|r",
+                name = "Дракоперая рыба-ангел",
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:41808:0:0:0:0:0:0:0:10|h[Костечешуйный луциан]|h|r",
                 name = "Костечешуйный луциан",
-                count = 2,
+                count = 102,
             },
             {
                 link = "|cffffffff|Hitem:41812:0:0:0:0:0:0:0:10|h[Бочкоголовый бычок]|h|r",
