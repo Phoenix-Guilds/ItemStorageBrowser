@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778867021
+ItemStorageDB_LastUpdate = 1778867108
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7684,7 +7684,7 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = 1778491967,
+        updated_at = 1778867104,
         money = 4291,
         empty = 116,
         location = "Оргриммар",
@@ -7702,12 +7702,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:38992:0:0:0:0:0:0:0:10|h[Свиток чар для двуручного оружия - свирепость II]|h|r",
                 name = "Свиток чар для двуручного оружия - свирепость II",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cff0070dd|Hitem:44453:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - могущество II]|h|r",
                 name = "Свиток чар для оружия - могущество II",
-                count = 7,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -7717,7 +7717,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10309:0:0:0:0:0:0:0:10|h[Свиток ловкости IV]|h|r",
                 name = "Свиток ловкости IV",
-                count = 2,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:10310:0:0:0:0:0:0:0:10|h[Свиток силы IV]|h|r",
@@ -7732,32 +7732,32 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1181:0:0:0:0:0:0:0:10|h[Свиток духа]|h|r",
                 name = "Свиток духа",
-                count = 50,
+                count = 57,
             },
             {
                 link = "|cffffffff|Hitem:1477:0:0:0:0:0:0:0:10|h[Свиток ловкости II]|h|r",
                 name = "Свиток ловкости II",
-                count = 52,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:1478:0:0:0:0:0:0:0:10|h[Охранный свиток II]|h|r",
                 name = "Охранный свиток II",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:1711:0:0:0:0:0:0:0:10|h[Свиток выносливости II]|h|r",
                 name = "Свиток выносливости II",
-                count = 50,
+                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
                 name = "Свиток духа II",
-                count = 40,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
                 name = "Свиток силы II",
-                count = 51,
+                count = 26,
             },
             {
                 link = "|cffffffff|Hitem:2290:0:0:0:0:0:0:0:10|h[Свиток интеллекта II]|h|r",
@@ -7767,12 +7767,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27498:0:0:0:0:0:0:0:10|h[Свиток ловкости V]|h|r",
                 name = "Свиток ловкости V",
-                count = 52,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:27499:0:0:0:0:0:0:0:10|h[Свиток интеллекта V]|h|r",
                 name = "Свиток интеллекта V",
-                count = 82,
+                count = 83,
             },
             {
                 link = "|cffffffff|Hitem:27503:0:0:0:0:0:0:0:10|h[Свиток силы V]|h|r",
@@ -7782,12 +7782,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3012:0:0:0:0:0:0:0:10|h[Свиток ловкости]|h|r",
                 name = "Свиток ловкости",
-                count = 50,
+                count = 30,
+            },
+            {
+                link = "|cffffffff|Hitem:3013:0:0:0:0:0:0:0:10|h[Охранный свиток]|h|r",
+                name = "Охранный свиток",
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:33457:0:0:0:0:0:0:0:10|h[Свиток ловкости VI]|h|r",
                 name = "Свиток ловкости VI",
                 count = 57,
+            },
+            {
+                link = "|cffffffff|Hitem:33458:0:0:0:0:0:0:0:10|h[Свиток интеллекта VI]|h|r",
+                name = "Свиток интеллекта VI",
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:33460:0:0:0:0:0:0:0:10|h[Свиток духа VI]|h|r",
@@ -7798,11 +7808,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:33462:0:0:0:0:0:0:0:10|h[Свиток силы VI]|h|r",
                 name = "Свиток силы VI",
                 count = 54,
-            },
-            {
-                link = "|cffffffff|Hitem:37091:0:0:0:0:0:0:0:10|h[Свиток интеллекта VII]|h|r",
-                name = "Свиток интеллекта VII",
-                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:37093:0:0:0:0:0:0:0:10|h[Свиток выносливости VII]|h|r",
@@ -7827,7 +7832,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38828:0:0:0:0:0:0:0:10|h[Свиток чар для щита - выносливость III]|h|r",
                 name = "Свиток чар для щита - выносливость III",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:38829:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - интеллект II]|h|r",
@@ -7848,11 +7853,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:38849:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - выносливость IV]|h|r",
                 name = "Свиток чар для наручей - выносливость IV",
                 count = 11,
-            },
-            {
-                link = "|cffffffff|Hitem:38861:0:0:0:0:0:0:0:10|h[Свиток чар для щита - выносливость IV]|h|r",
-                name = "Свиток чар для щита - выносливость IV",
-                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:38863:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - ловкость IV]|h|r",
@@ -7937,7 +7937,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:10|h[Свиток ловкости VII]|h|r",
                 name = "Свиток ловкости VII",
-                count = 72,
+                count = 73,
             },
             {
                 link = "|cffffffff|Hitem:43465:0:0:0:0:0:0:0:10|h[Свиток силы VII]|h|r",
@@ -7958,6 +7958,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4421:0:0:0:0:0:0:0:10|h[Охранный свиток III]|h|r",
                 name = "Охранный свиток III",
                 count = 4,
+            },
+            {
+                link = "|cffffffff|Hitem:4424:0:0:0:0:0:0:0:10|h[Свиток духа III]|h|r",
+                name = "Свиток духа III",
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:4425:0:0:0:0:0:0:0:10|h[Свиток ловкости III]|h|r",
@@ -7997,12 +8002,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44815:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - штурм II]|h|r",
                 name = "Свиток чар для наручей - штурм II",
-                count = 5,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
                 name = "Свиток силы",
-                count = 51,
+                count = 31,
             },
             {
                 link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
