@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778859743
+ItemStorageDB_LastUpdate = 1778859898
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3174,7 +3174,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = 1778847991,
+        updated_at = 1778859895,
         money = 306084,
         empty = 135,
         location = "Оргриммар",
@@ -3197,7 +3197,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:38372:0:0:0:0:0:0:0:10|h[Нерубские накладки для поножей]|h|r",
                 name = "Нерубские накладки для поножей",
-                count = 7,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:44128:0:0:0:0:0:0:0:10|h[Арктический мех]|h|r",
