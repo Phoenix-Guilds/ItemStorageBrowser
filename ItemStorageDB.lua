@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778851371
+ItemStorageDB_LastUpdate = 1778851481
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11101,7 +11101,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778847821,
+        updated_at = 1778851479,
         money = 343936,
         empty = 18,
         location = "Оргриммар",
@@ -11309,7 +11309,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
                 name = "Портупея волчьего страха",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13111:0:0:0:0:0:0:0:10|h[Сандалии мятежника]|h|r",
@@ -11649,7 +11649,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:4253:0:0:0:0:0:0:0:10|h[Укрепленные кожаные перчатки]|h|r",
