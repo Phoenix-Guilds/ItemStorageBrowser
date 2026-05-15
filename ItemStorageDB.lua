@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778869357
+ItemStorageDB_LastUpdate = 1778870334
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4044,9 +4044,9 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = 1778492836,
-        money = 431967,
-        empty = 46,
+        updated_at = 1778870328,
+        money = 391967,
+        empty = 172,
         location = "Оргриммар",
         items = {
             {
@@ -4097,7 +4097,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
                 name = "Золотой слиток",
-                count = 76,
+                count = 110,
             },
             {
                 link = "|cff1eff00|Hitem:36910:0:0:0:0:0:0:0:10|h[Титановая руда]|h|r",
@@ -4112,7 +4112,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                 name = "Руда истинного серебра",
-                count = 685,
+                count = 686,
             },
             {
                 link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
@@ -4172,7 +4172,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
                 name = "Железная руда",
-                count = 671,
+                count = 672,
             },
             {
                 link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
@@ -4187,7 +4187,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
                 name = "Железный слиток",
-                count = 751,
+                count = 747,
             },
             {
                 link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
@@ -4212,12 +4212,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                 name = "Мифриловая руда",
-                count = 4,
-            },
-            {
-                link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
-                name = "Стальной слиток",
-                count = 45,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
