@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778863324
+ItemStorageDB_LastUpdate = 1778863360
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3169,7 +3169,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = 1778859895,
+        updated_at = 1778863357,
         money = 306084,
         empty = 135,
         location = "Оргриммар",
@@ -3247,7 +3247,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 26,
+                count = 36,
             },
             {
                 link = "|cffffffff|Hitem:18512:0:0:0:0:0:0:0:10|h[Ларвальная кислота]|h|r",
@@ -3457,12 +3457,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6470:0:0:0:0:0:0:0:10|h[Искаженная чешуя]|h|r",
                 name = "Искаженная чешуя",
-                count = 128,
+                count = 138,
             },
             {
                 link = "|cffffffff|Hitem:6471:0:0:0:0:0:0:0:10|h[Идеальная искаженная чешуя]|h|r",
                 name = "Идеальная искаженная чешуя",
-                count = 18,
+                count = 21,
             },
             {
                 link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
