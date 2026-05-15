@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778862985
+ItemStorageDB_LastUpdate = 1778863039
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10881,9 +10881,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778861756,
+        updated_at = 1778863036,
         money = 3936,
-        empty = 19,
+        empty = 18,
         location = "Оргриммар",
         items = {
             {
@@ -11024,7 +11024,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                 name = "Поножи осколка голема",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13075:0:0:0:0:0:0:0:10|h[Набедренники Мрачнокрылого]|h|r",
