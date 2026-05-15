@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778844990
+ItemStorageDB_LastUpdate = 1778845985
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1186,9 +1186,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1778832391,
+        updated_at = 1778845982,
         money = 92710,
-        empty = 72,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -1474,7 +1474,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
                 name = "Острокаменная кувалда",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1726:0:0:0:0:0:0:0:10|h[Костяное копье с отравленным наконечником]|h|r",
@@ -1640,6 +1640,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:9385:0:0:0:0:0:0:0:10|h[Древний защитник]|h|r",
                 name = "Древний защитник",
                 count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
+                name = "Перекованный клинок Героев",
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:1664:0:0:0:0:0:0:0:10|h[Жезл усиления заклинаний]|h|r",
