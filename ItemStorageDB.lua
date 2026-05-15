@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778847823
+ItemStorageDB_LastUpdate = 1778847876
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1186,9 +1186,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1778845982,
+        updated_at = 1778847870,
         money = 92710,
-        empty = 69,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -1219,7 +1219,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -1254,7 +1254,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
                 name = "Молот Макхоуэна",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13014:0:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
@@ -1607,6 +1607,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
+                name = "Пронзатель",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
                 name = "Меч Ханзо",
                 count = 2,
@@ -1649,6 +1654,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1664:0:0:0:0:0:0:0:10|h[Жезл усиления заклинаний]|h|r",
                 name = "Жезл усиления заклинаний",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:3185:0:0:0:0:0:520:0:10|h[Акробатский посох со знаком волка]|h|r",
+                name = "Акробатский посох со знаком волка",
                 count = 1,
             },
             {
