@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778863117
+ItemStorageDB_LastUpdate = 1778863198
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6581,9 +6581,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = 1778843592,
+        updated_at = 1778863194,
         money = 74134,
-        empty = 8,
+        empty = 7,
         location = "Оргриммар",
         items = {
             {
@@ -7569,6 +7569,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21943:0:0:0:0:0:0:0:10|h[Эскиз: краб из истинного серебра]|h|r",
                 name = "Эскиз: краб из истинного серебра",
+                count = 1,
+            },
+            {
+                link = "|cffffffff|Hitem:22647:0:0:0:0:0:0:0:10|h[Рецепт: хрустящий паучий десерт]|h|r",
+                name = "Рецепт: хрустящий паучий десерт",
                 count = 1,
             },
             {
