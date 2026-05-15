@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778847994
+ItemStorageDB_LastUpdate = 1778848600
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2836,9 +2836,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = 1778776909,
+        updated_at = 1778848590,
         money = 82572,
-        empty = 25,
+        empty = 24,
         location = "Оргриммар",
         items = {
             {
@@ -3145,6 +3145,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
                 name = "Тяжелый шлифовальный камень",
                 count = 171,
+            },
+            {
+                link = "|cffffffff|Hitem:6041:0:0:0:0:0:0:0:10|h[Стальная цепь для оружия]|h|r",
+                name = "Стальная цепь для оружия",
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:6042:0:0:0:0:0:0:0:10|h[Железный шип для щита]|h|r",
