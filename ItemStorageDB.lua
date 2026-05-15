@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778861759
+ItemStorageDB_LastUpdate = 1778861813
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1186,9 +1186,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1778847870,
+        updated_at = 1778861804,
         money = 92710,
-        empty = 65,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -1440,11 +1440,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
                 name = "Фамильный щит Гарреттов",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
-                name = "Тяжелый ятаган мародера",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
