@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778863579
+ItemStorageDB_LastUpdate = 1778863617
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3523,9 +3523,9 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1778777158,
+        updated_at = 1778863614,
         money = 0,
-        empty = 196,
+        empty = 195,
         location = "Оргриммар",
         items = {
             {
@@ -3547,6 +3547,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:21151:0:0:0:0:0:0:0:10|h[Ром Ромси \"Черный ярлык\"]|h|r",
                 name = "Ром Ромси \"Черный ярлык\"",
                 count = 9,
+            },
+            {
+                link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
+                name = "Хрустящий паучий десерт",
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
@@ -3601,7 +3606,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 67,
+                count = 73,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
