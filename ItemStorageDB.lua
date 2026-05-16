@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778924889
+ItemStorageDB_LastUpdate = 1778925012
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6184,15 +6184,15 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = 1778923688,
+        updated_at = 1778925010,
         money = 13785,
-        empty = 116,
+        empty = 115,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
                 name = "Подвеска Хитрости",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31178:0:0:0:0:0:0:0:10|h[Амулет ускользающего могущества]|h|r",
