@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778962958
+ItemStorageDB_LastUpdate = 1778963013
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9424,9 +9424,9 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = 1778956191,
+        updated_at = 1778963010,
         money = 1005064,
-        empty = 128,
+        empty = 122,
         location = "Оргриммар",
         items = {
             {
@@ -9522,22 +9522,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 159,
+                count = 214,
             },
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
-                count = 82,
+                count = 133,
             },
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 87,
+                count = 99,
             },
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 62,
+                count = 132,
             },
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
@@ -9647,12 +9647,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
-                count = 175,
+                count = 260,
             },
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 93,
+                count = 143,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
