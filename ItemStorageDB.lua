@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778920131
+ItemStorageDB_LastUpdate = 1778920167
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7835,9 +7835,9 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = 1778491602,
+        updated_at = 1778920164,
         money = 4042,
-        empty = 164,
+        empty = 159,
         location = "Оргриммар",
         items = {
             {
@@ -7891,14 +7891,29 @@ ItemStorageDB = {
                 count = 39,
             },
             {
+                link = "|cffffffff|Hitem:41802:0:0:0:0:0:0:0:10|h[Королевский морской дьявол]|h|r",
+                name = "Королевский морской дьявол",
+                count = 15,
+            },
+            {
+                link = "|cffffffff|Hitem:41803:0:0:0:0:0:0:0:10|h[Камнеперый морской окунь]|h|r",
+                name = "Камнеперый морской окунь",
+                count = 21,
+            },
+            {
                 link = "|cffffffff|Hitem:41805:0:0:0:0:0:0:0:10|h[Борейский медузник]|h|r",
                 name = "Борейский медузник",
-                count = 21,
+                count = 33,
+            },
+            {
+                link = "|cffffffff|Hitem:41807:0:0:0:0:0:0:0:10|h[Дракоперая рыба-ангел]|h|r",
+                name = "Дракоперая рыба-ангел",
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:41808:0:0:0:0:0:0:0:10|h[Костечешуйный луциан]|h|r",
                 name = "Костечешуйный луциан",
-                count = 2,
+                count = 102,
             },
             {
                 link = "|cffffffff|Hitem:41812:0:0:0:0:0:0:0:10|h[Бочкоголовый бычок]|h|r",
@@ -7948,7 +7963,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6522:0:0:0:0:0:0:0:10|h[Загадочная рыба]|h|r",
                 name = "Загадочная рыба",
-                count = 70,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
