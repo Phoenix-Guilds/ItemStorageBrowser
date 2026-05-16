@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778956194
+ItemStorageDB_LastUpdate = 1778959400
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7765,9 +7765,9 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = 1778956127,
+        updated_at = 1778959397,
         money = 4042,
-        empty = 159,
+        empty = 160,
         location = "Оргриммар",
         items = {
             {
@@ -7804,11 +7804,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
                 name = "Сырой солнечный лосось",
                 count = 41,
-            },
-            {
-                link = "|cffffffff|Hitem:13888:0:0:0:0:0:0:0:10|h[Темноклешневый омар]|h|r",
-                name = "Темноклешневый омар",
-                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
@@ -7893,7 +7888,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6522:0:0:0:0:0:0:0:10|h[Загадочная рыба]|h|r",
                 name = "Загадочная рыба",
-                count = 20,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
