@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778922484
+ItemStorageDB_LastUpdate = 1778922528
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11181,9 +11181,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778921574,
+        updated_at = 1778922525,
         money = 3936,
-        empty = 16,
+        empty = 13,
         location = "Оргриммар",
         items = {
             {
@@ -11464,7 +11464,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
                 name = "Эльфийские плетеные сапоги",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
@@ -11559,7 +11559,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16681:0:0:0:0:0:0:0:10|h[Наручники загонщика]|h|r",
                 name = "Наручники загонщика",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:16684:0:0:0:0:0:0:0:10|h[Перчатки Магистра]|h|r",
@@ -11934,7 +11934,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:867:0:0:0:0:0:0:0:10|h[Перчатки Священной Мощи]|h|r",
                 name = "Перчатки Священной Мощи",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
