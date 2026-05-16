@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778922433
+ItemStorageDB_LastUpdate = 1778922484
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1186,9 +1186,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1778919388,
+        updated_at = 1778922476,
         money = 92710,
-        empty = 67,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -1234,7 +1234,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                 name = "Лезвие бритвы",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
@@ -1424,7 +1424,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -1624,6 +1624,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9359:0:0:0:0:0:0:0:10|h[Третья нога Вирта]|h|r",
                 name = "Третья нога Вирта",
+                count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
+                name = "Короткий меч Ночного Дозора",
                 count = 2,
             },
             {
