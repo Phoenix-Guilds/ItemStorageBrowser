@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778919420
+ItemStorageDB_LastUpdate = 1778919449
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6138,9 +6138,9 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = 1778489868,
+        updated_at = 1778919441,
         money = 13104,
-        empty = 67,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -6151,7 +6151,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                 name = "Зов небес",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -6161,7 +6161,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                 name = "Короткий лук из когтя гарпии",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
@@ -6171,7 +6171,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13021:0:0:0:0:0:0:0:10|h[Продеватель игл]|h|r",
                 name = "Продеватель игл",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13022:0:0:0:0:0:0:0:10|h[Длинный лук Грифоньего крыла]|h|r",
@@ -6196,7 +6196,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
                 name = "Раскалывающий череп арбалет",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
@@ -6206,7 +6206,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                 name = "Громодерево",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
@@ -6226,7 +6226,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -6286,12 +6286,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4407:0:0:0:0:0:0:0:10|h[Точный прицел]|h|r",
                 name = "Точный прицел",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
                 name = "Дворфийская пищаль",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
@@ -6311,7 +6311,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
                 name = "Снайперский прицел",
-                count = 1,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:4405:0:0:0:0:0:0:0:10|h[Кустарный прицел]|h|r",
@@ -6321,7 +6321,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4406:0:0:0:0:0:0:0:10|h[Обычный прицел]|h|r",
                 name = "Обычный прицел",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:44739:0:0:0:0:0:0:0:10|h[Рефракторный прицел с бриллиантовой огранкой]|h|r",
