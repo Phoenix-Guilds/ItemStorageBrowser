@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778924729
+ItemStorageDB_LastUpdate = 1778924795
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6413,9 +6413,9 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = 1778923647,
+        updated_at = 1778924792,
         money = 13104,
-        empty = 65,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -6471,7 +6471,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
                 name = "Раскалывающий череп арбалет",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
