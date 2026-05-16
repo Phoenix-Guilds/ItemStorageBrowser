@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778924439
+ItemStorageDB_LastUpdate = 1778924729
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8403,9 +8403,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1778920013,
+        updated_at = 1778924726,
         money = 358852,
-        empty = 55,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -8851,6 +8851,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:31269:20239:0:0:0:0:-80:2:10|h[Молот вурдалака с символом неукротимости]|h|r",
                 name = "Молот вурдалака с символом неукротимости",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:31270:0:0:0:0:0:-79:2:10|h[Жезл банши с символом луны]|h|r",
+                name = "Жезл банши с символом луны",
                 count = 1,
             },
             {
