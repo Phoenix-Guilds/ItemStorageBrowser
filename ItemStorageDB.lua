@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778944760
+ItemStorageDB_LastUpdate = 1778944907
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11855,9 +11855,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1778930286,
+        updated_at = 1778944904,
         money = 344111,
-        empty = 87,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -11923,7 +11923,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13095:0:0:0:0:0:0:0:10|h[Кольцо штурма]|h|r",
@@ -12146,11 +12146,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
-                name = "Амулет Луны",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
                 name = "Тяжелое золотое ожерелье битвы",
                 count = 2,
@@ -12158,7 +12153,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20833:0:0:0:0:0:0:0:10|h[Гибельное кольцо лунного камня]|h|r",
                 name = "Гибельное кольцо лунного камня",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20906:0:0:0:0:0:0:0:10|h[Оплетенное медное кольцо]|h|r",
