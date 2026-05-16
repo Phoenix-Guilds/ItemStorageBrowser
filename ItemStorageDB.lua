@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778923612
+ItemStorageDB_LastUpdate = 1778923649
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6413,9 +6413,9 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = 1778921490,
+        updated_at = 1778923647,
         money = 13104,
-        empty = 70,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -6436,7 +6436,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                 name = "Короткий лук из когтя гарпии",
-                count = 3,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
@@ -6486,7 +6486,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
-                count = 3,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -6526,7 +6526,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                 name = "Двуствольный дробовик",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
