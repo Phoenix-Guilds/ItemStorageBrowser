@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778947769
+ItemStorageDB_LastUpdate = 1778949833
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6567,9 +6567,9 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = 1778947763,
+        updated_at = 1778949830,
         money = 55478,
-        empty = 27,
+        empty = 25,
         location = "Оргриммар",
         items = {
             {
@@ -6705,7 +6705,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
-                count = 350,
+                count = 340,
             },
             {
                 link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
@@ -6745,12 +6745,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
                 name = "Семена клена",
-                count = 45,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:20744:0:0:0:0:0:0:0:10|h[Слабое волшебное масло]|h|r",
                 name = "Слабое волшебное масло",
-                count = 1,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
@@ -6795,7 +6795,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3371:0:0:0:0:0:0:0:10|h[Пустая колба]|h|r",
                 name = "Пустая колба",
-                count = 45,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:41745:0:0:0:0:0:0:0:10|h[Титановый жезл]|h|r",
