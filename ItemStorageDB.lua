@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778919803
+ItemStorageDB_LastUpdate = 1778919832
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9657,7 +9657,7 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = 1778919635,
+        updated_at = 1778919827,
         money = 336703,
         empty = 12,
         location = "Оргриммар",
