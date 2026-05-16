@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778930490
+ItemStorageDB_LastUpdate = 1778930612
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3803,7 +3803,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1778920129,
+        updated_at = 1778930606,
         money = 0,
         empty = 195,
         location = "Оргриммар",
@@ -3831,7 +3831,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
                 name = "Хрустящий паучий десерт",
-                count = 5,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
@@ -3864,11 +3864,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cffffffff|Hitem:3726:0:0:0:0:0:0:0:10|h[Большой медвежий стейк]|h|r",
-                name = "Большой медвежий стейк",
-                count = 8,
-            },
-            {
                 link = "|cffffffff|Hitem:42942:0:0:0:0:0:0:0:10|h[Печеный морской дьявол]|h|r",
                 name = "Печеный морской дьявол",
                 count = 4,
@@ -3881,7 +3876,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5477:0:0:0:0:0:0:0:10|h[Похлебка из долгонога]|h|r",
                 name = "Похлебка из долгонога",
-                count = 50,
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
@@ -3892,11 +3887,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
                 count = 77,
-            },
-            {
-                link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
-                name = "Мидии по-гоблински",
-                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
