@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778920098
+ItemStorageDB_LastUpdate = 1778920131
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3728,9 +3728,9 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1778491578,
+        updated_at = 1778920129,
         money = 0,
-        empty = 200,
+        empty = 195,
         location = "Оргриммар",
         items = {
             {
@@ -3749,9 +3749,19 @@ ItemStorageDB = {
                 count = 5,
             },
             {
+                link = "|cffffffff|Hitem:21151:0:0:0:0:0:0:0:10|h[Ром Ромси \"Черный ярлык\"]|h|r",
+                name = "Ром Ромси \"Черный ярлык\"",
+                count = 9,
+            },
+            {
+                link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
+                name = "Хрустящий паучий десерт",
+                count = 5,
+            },
+            {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
                 name = "Сосиска из мяса опустошителя",
-                count = 37,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:27656:0:0:0:0:0:0:0:10|h[Закуска спорлингов]|h|r",
@@ -3796,17 +3806,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5477:0:0:0:0:0:0:0:10|h[Похлебка из долгонога]|h|r",
                 name = "Похлебка из долгонога",
-                count = 68,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 17,
+                count = 73,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
-                count = 27,
+                count = 77,
             },
             {
                 link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
@@ -3821,7 +3831,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
                 name = "Яйцо с травами",
-                count = 43,
+                count = 86,
             },
         },
     },
