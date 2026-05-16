@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778954351
+ItemStorageDB_LastUpdate = 1778954481
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2667,20 +2667,15 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = 1778919483,
+        updated_at = 1778954479,
         money = 16160,
-        empty = 149,
+        empty = 150,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
                 name = "Шлицевой гироинструмент",
                 count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:10505:0:0:0:0:0:0:0:10|h[Твердое взрывчатое вещество]|h|r",
-                name = "Твердое взрывчатое вещество",
-                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:10558:0:0:0:0:0:0:0:10|h[Золотое силовое ядро]|h|r",
@@ -2695,7 +2690,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10560:0:0:0:0:0:0:0:10|h[Нестабильное пусковое устройство]|h|r",
                 name = "Нестабильное пусковое устройство",
-                count = 34,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:15992:0:0:0:0:0:0:0:10|h[Концентрированное взрывчатое вещество]|h|r",
