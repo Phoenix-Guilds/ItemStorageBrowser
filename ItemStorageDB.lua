@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778921536
+ItemStorageDB_LastUpdate = 1778921576
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11151,9 +11151,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778919354,
+        updated_at = 1778921574,
         money = 3936,
-        empty = 18,
+        empty = 16,
         location = "Оргриммар",
         items = {
             {
@@ -11265,6 +11265,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                 name = "Броня гидролиска",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13068:0:0:0:0:0:0:0:10|h[Обсидиановые наголенники]|h|r",
+                name = "Обсидиановые наголенники",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13070:0:0:0:0:0:0:0:10|h[Чешуйчатые сапоги Сапфирона]|h|r",
@@ -11699,7 +11704,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
                 name = "Черные бархатные одеяния",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
