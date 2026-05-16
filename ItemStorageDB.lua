@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778923649
+ItemStorageDB_LastUpdate = 1778923690
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6179,9 +6179,9 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = 1778919800,
+        updated_at = 1778923688,
         money = 13785,
-        empty = 119,
+        empty = 116,
         location = "Оргриммар",
         items = {
             {
@@ -6227,12 +6227,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31277:0:0:0:0:0:0:0:10|h[Кольцо землепроходца]|h|r",
                 name = "Кольцо землепроходца",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31290:0:0:0:0:0:0:0:10|h[Кольцо власти]|h|r",
                 name = "Кольцо власти",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:32772:0:0:0:0:0:0:0:10|h[Сверкающее жемчужное кольцо]|h|r",
@@ -6272,7 +6272,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37821:0:0:0:0:0:0:0:10|h[Разрушительный перстень Рейна]|h|r",
                 name = "Разрушительный перстень Рейна",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:37822:0:0:0:0:0:0:0:10|h[Крученое кольцо-головоломка]|h|r",
