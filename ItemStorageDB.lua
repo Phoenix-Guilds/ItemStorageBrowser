@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778921255
+ItemStorageDB_LastUpdate = 1778921493
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6388,9 +6388,9 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        updated_at = 1778919441,
+        updated_at = 1778921490,
         money = 13104,
-        empty = 69,
+        empty = 70,
         location = "Оргриммар",
         items = {
             {
@@ -6416,7 +6416,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                 name = "Лук небесного бойца",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13021:0:0:0:0:0:0:0:10|h[Продеватель игл]|h|r",
