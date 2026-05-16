@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778923572
+ItemStorageDB_LastUpdate = 1778923612
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11890,9 +11890,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1778921534,
+        updated_at = 1778923610,
         money = 344111,
-        empty = 87,
+        empty = 86,
         location = "Оргриммар",
         items = {
             {
@@ -11958,7 +11958,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13095:0:0:0:0:0:0:0:10|h[Кольцо штурма]|h|r",
