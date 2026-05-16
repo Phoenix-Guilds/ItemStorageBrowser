@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778922528
+ItemStorageDB_LastUpdate = 1778923430
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1186,7 +1186,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1778922476,
+        updated_at = 1778923427,
         money = 92710,
         empty = 63,
         location = "Оргриммар",
@@ -1259,7 +1259,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13014:0:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
                 name = "Секира Рин'джи",
-                count = 2,
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:13014:20246:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
+                name = "Секира Рин'джи",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13015:0:0:0:0:0:0:0:10|h[Сератил]|h|r",
@@ -1697,7 +1702,7 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:1982:0:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
+                link = "|cffa335ee|Hitem:1982:20319:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
                 name = "Ночной клинок",
                 count = 1,
             },
@@ -1749,7 +1754,12 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
                 name = "Молот Северного ветра",
-                count = 2,
+                count = 1,
+            },
+            {
+                link = "|cffa335ee|Hitem:810:20246:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
+                name = "Молот Северного ветра",
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
