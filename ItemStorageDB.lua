@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778996126
+ItemStorageDB_LastUpdate = 1778996442
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11830,9 +11830,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1778993546,
+        updated_at = 1778996439,
         money = 344111,
-        empty = 90,
+        empty = 93,
         location = "Оргриммар",
         items = {
             {
@@ -12103,7 +12103,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20820:0:0:0:0:0:0:0:10|h[Простое жемчужное кольцо]|h|r",
                 name = "Простое жемчужное кольцо",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
@@ -12246,11 +12246,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
-                name = "Сверкающее ожерелье",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:30420:0:0:0:0:0:0:0:10|h[Тяжелое нефритовое кольцо]|h|r",
                 name = "Тяжелое нефритовое кольцо",
                 count = 1,
@@ -12268,11 +12263,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:43244:0:0:0:0:0:0:0:10|h[Ожерелье с кристаллом цитрина]|h|r",
                 name = "Ожерелье с кристаллом цитрина",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:4998:0:0:0:0:0:0:0:10|h[Кровавое кольцо]|h|r",
-                name = "Кровавое кольцо",
                 count = 1,
             },
             {
