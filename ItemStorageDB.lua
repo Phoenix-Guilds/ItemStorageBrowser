@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778993389
+ItemStorageDB_LastUpdate = 1778993508
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6134,9 +6134,9 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = 1778925010,
+        updated_at = 1778993503,
         money = 13785,
-        empty = 115,
+        empty = 114,
         location = "Оргриммар",
         items = {
             {
@@ -6173,6 +6173,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:31196:0:0:0:0:0:0:0:10|h[Амулет посвящения]|h|r",
                 name = "Амулет посвящения",
                 count = 3,
+            },
+            {
+                link = "|cff0070dd|Hitem:31258:0:0:0:0:0:0:0:10|h[Кольцо скорби]|h|r",
+                name = "Кольцо скорби",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:31275:0:0:0:0:0:0:0:10|h[Ожерелье добычи]|h|r",
