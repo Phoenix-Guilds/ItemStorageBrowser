@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779010835
+ItemStorageDB_LastUpdate = 1779010893
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1186,9 +1186,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1778954980,
+        updated_at = 1779010890,
         money = 92710,
-        empty = 67,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -1654,11 +1654,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1664:0:0:0:0:0:0:0:10|h[Жезл усиления заклинаний]|h|r",
                 name = "Жезл усиления заклинаний",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:3185:0:0:0:0:0:520:0:10|h[Акробатский посох со знаком волка]|h|r",
-                name = "Акробатский посох со знаком волка",
                 count = 1,
             },
             {
