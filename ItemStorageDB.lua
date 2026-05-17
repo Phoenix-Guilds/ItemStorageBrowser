@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779024908
+ItemStorageDB_LastUpdate = 1779024984
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7878,16 +7878,11 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1779017554,
+        updated_at = 1779024979,
         money = 358852,
-        empty = 63,
+        empty = 65,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
-                name = "Малый магический жезл",
-                count = 1,
-            },
             {
                 link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
                 name = "Тонкий длинный лук",
@@ -7896,7 +7891,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:14094:1892:0:0:0:0:754:0:10|h[Бисерная блуза со знаком совы]|h|r",
                 name = "Бисерная блуза со знаком совы",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:14097:0:0:0:0:0:756:0:10|h[Дикарские штаны со знаком совы]|h|r",
