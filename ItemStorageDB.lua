@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778993264
+ItemStorageDB_LastUpdate = 1778993300
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2358,7 +2358,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = 1778992691,
+        updated_at = 1778993297,
         money = 9680,
         empty = 92,
         location = "Оргриммар",
@@ -2606,22 +2606,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
-                count = 31,
+                count = 35,
             },
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
-                count = 23,
+                count = 30,
             },
             {
                 link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
                 name = "Первородный воздух",
-                count = 125,
+                count = 146,
             },
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 157,
+                count = 160,
             },
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -2661,7 +2661,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                 name = "Черный купорос",
-                count = 94,
+                count = 99,
             },
         },
     },
