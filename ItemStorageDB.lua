@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779010593
+ItemStorageDB_LastUpdate = 1779010835
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2846,9 +2846,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = 1778994303,
+        updated_at = 1779010830,
         money = 82572,
-        empty = 24,
+        empty = 27,
         location = "Оргриммар",
         items = {
             {
@@ -2912,11 +2912,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cff0070dd|Hitem:40029:0:0:0:0:0:0:0:10|h[Сбалансированный сумеречный опал]|h|r",
-                name = "Сбалансированный сумеречный опал",
-                count = 2,
-            },
-            {
                 link = "|cff0070dd|Hitem:40053:0:0:0:0:0:0:0:10|h[Нетронутый императорский топаз]|h|r",
                 name = "Нетронутый императорский топаз",
                 count = 2,
@@ -2924,7 +2919,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
                 name = "Стремительный алмаз небесного сияния",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
