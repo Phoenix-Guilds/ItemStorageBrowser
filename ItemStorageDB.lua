@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779013346
+ItemStorageDB_LastUpdate = 1779013749
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4293,7 +4293,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1778994035,
+        updated_at = 1779013745,
         money = 9396,
         empty = 41,
         location = "Оргриммар",
@@ -4411,7 +4411,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2457:0:0:0:0:0:0:0:10|h[Слабый эликсир ловкости]|h|r",
                 name = "Слабый эликсир ловкости",
-                count = 51,
+                count = 57,
             },
             {
                 link = "|cffffffff|Hitem:2458:0:0:0:0:0:0:0:10|h[Слабый эликсир стойкости]|h|r",
@@ -4646,7 +4646,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45621:0:0:0:0:0:0:0:10|h[Слабый эликсир меткости]|h|r",
                 name = "Слабый эликсир меткости",
-                count = 15,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:4623:0:0:0:0:0:0:0:10|h[Простое зелье каменного щита]|h|r",
