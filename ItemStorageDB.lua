@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1778994158
+ItemStorageDB_LastUpdate = 1778994196
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9564,9 +9564,9 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = 1778993231,
+        updated_at = 1778994192,
         money = 1005064,
-        empty = 122,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -9687,12 +9687,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 170,
+                count = 173,
             },
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 149,
+                count = 152,
             },
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
