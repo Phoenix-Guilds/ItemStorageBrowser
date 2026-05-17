@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779038936
+ItemStorageDB_LastUpdate = 1779040714
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3778,7 +3778,7 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1779017888,
+        updated_at = 1779040704,
         money = 0,
         empty = 196,
         location = "Оргриммар",
@@ -3801,11 +3801,6 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21151:0:0:0:0:0:0:0:10|h[Ром Ромси \"Черный ярлык\"]|h|r",
                 name = "Ром Ромси \"Черный ярлык\"",
-                count = 9,
-            },
-            {
-                link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
-                name = "Хрустящий паучий десерт",
                 count = 9,
             },
             {
