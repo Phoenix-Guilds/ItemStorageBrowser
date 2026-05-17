@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779017773
+ItemStorageDB_LastUpdate = 1779017895
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3318,15 +3318,15 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1778949959,
+        updated_at = 1779017888,
         money = 0,
-        empty = 195,
+        empty = 196,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
                 name = "Жареный ящер",
-                count = 30,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
