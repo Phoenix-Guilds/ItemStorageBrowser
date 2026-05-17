@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779017208
+ItemStorageDB_LastUpdate = 1779017557
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8343,9 +8343,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1778960144,
+        updated_at = 1779017554,
         money = 358852,
-        empty = 60,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -8679,14 +8679,9 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:2965:1892:0:0:0:0:0:0:10|h[Воинский мундир]|h|r",
-                name = "Воинский мундир",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:2966:0:0:0:0:0:0:0:10|h[Воинские штаны]|h|r",
                 name = "Воинские штаны",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:2969:1892:0:0:0:0:0:0:10|h[Жилет заклинателя]|h|r",
@@ -8920,11 +8915,6 @@ ItemStorageDB = {
             },
             {
                 link = "|cff1eff00|Hitem:4562:20319:0:0:0:0:1180:0:10|h[Сверхострый топор со знаком медведя]|h|r",
-                name = "Сверхострый топор со знаком медведя",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:4562:20319:0:0:0:0:1181:0:10|h[Сверхострый топор со знаком медведя]|h|r",
                 name = "Сверхострый топор со знаком медведя",
                 count = 1,
             },
