@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779006189
+ItemStorageDB_LastUpdate = 1779010593
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11126,9 +11126,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1778996113,
+        updated_at = 1779010591,
         money = 3936,
-        empty = 23,
+        empty = 25,
         location = "Оргриммар",
         items = {
             {
@@ -11649,7 +11649,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
@@ -11739,7 +11739,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
                 name = "Перчатки Старины",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:9402:0:0:0:0:0:0:0:10|h[Сотворенный землей килт]|h|r",
