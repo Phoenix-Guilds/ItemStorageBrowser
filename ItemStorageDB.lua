@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779079500
+ItemStorageDB_LastUpdate = 1779080285
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2841,8 +2841,8 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = 1779075960,
-        money = 82572,
+        updated_at = 1779080281,
+        money = 81814,
         empty = 28,
         location = "Оргриммар",
         items = {
@@ -3114,12 +3114,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
                 name = "Грубый камень",
-                count = 350,
+                count = 164,
             },
             {
                 link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
                 name = "Необработанный камень",
-                count = 141,
+                count = 85,
             },
             {
                 link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
@@ -3132,9 +3132,29 @@ ItemStorageDB = {
                 count = 16,
             },
             {
+                link = "|cffffffff|Hitem:2862:0:0:0:0:0:0:0:10|h[Грубое точило]|h|r",
+                name = "Грубое точило",
+                count = 50,
+            },
+            {
+                link = "|cffffffff|Hitem:2863:0:0:0:0:0:0:0:10|h[Зернистое точило]|h|r",
+                name = "Зернистое точило",
+                count = 20,
+            },
+            {
                 link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
                 name = "Тяжелое точило",
                 count = 20,
+            },
+            {
+                link = "|cffffffff|Hitem:3470:0:0:0:0:0:0:0:10|h[Грубый шлифовальный камень]|h|r",
+                name = "Грубый шлифовальный камень",
+                count = 16,
+            },
+            {
+                link = "|cffffffff|Hitem:3478:0:0:0:0:0:0:0:10|h[Зернистый шлифовальный камень]|h|r",
+                name = "Зернистый шлифовальный камень",
+                count = 18,
             },
             {
                 link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
