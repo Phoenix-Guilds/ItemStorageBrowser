@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779078378
+ItemStorageDB_LastUpdate = 1779079063
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8667,9 +8667,9 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        updated_at = 1779076479,
+        updated_at = 1779079061,
         money = 9245,
-        empty = 82,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -8690,7 +8690,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 64,
+                count = 108,
             },
             {
                 link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
@@ -8705,7 +8705,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                 name = "Сумка из ледяной ткани",
-                count = 35,
+                count = 13,
             },
             {
                 link = "|cff1eff00|Hitem:4500:0:0:0:0:0:0:0:10|h[Рюкзак путника]|h|r",
@@ -8716,6 +8716,11 @@ ItemStorageDB = {
                 link = "|cffa335ee|Hitem:51809:0:0:0:0:0:0:0:10|h[Переносная дыра в пространстве]|h|r",
                 name = "Переносная дыра в пространстве",
                 count = 1,
+            },
+            {
+                link = "|cffffffff|Hitem:1685:0:0:0:0:0:0:0:10|h[Сумка из шкуры тролля]|h|r",
+                name = "Сумка из шкуры тролля",
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
