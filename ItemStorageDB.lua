@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779123052
+ItemStorageDB_LastUpdate = 1779123182
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11780,9 +11780,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1779110699,
+        updated_at = 1779123179,
         money = 344111,
-        empty = 97,
+        empty = 98,
         location = "Оргриммар",
         items = {
             {
@@ -11943,7 +11943,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:29158:0:0:0:0:0:0:0:10|h[Кольцо командора из истинного серебра]|h|r",
                 name = "Кольцо командора из истинного серебра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
