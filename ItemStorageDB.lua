@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779115763
+ItemStorageDB_LastUpdate = 1779115866
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4313,7 +4313,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779083898,
+        updated_at = 1779115863,
         money = 9396,
         empty = 41,
         location = "Оргриммар",
@@ -4421,7 +4421,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                 name = "Крохотный флакон с зельем маны",
-                count = 129,
+                count = 114,
             },
             {
                 link = "|cffffffff|Hitem:2456:0:0:0:0:0:0:0:10|h[Слабое зелье омоложения]|h|r",
@@ -4441,7 +4441,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
                 name = "Зелье скорости",
-                count = 20,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:28100:0:0:0:0:0:0:0:10|h[Флакон с летучим лечебным зельем]|h|r",
@@ -4491,7 +4491,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3383:0:0:0:0:0:0:0:10|h[Эликсир мудрости]|h|r",
                 name = "Эликсир мудрости",
-                count = 128,
+                count = 113,
             },
             {
                 link = "|cffffffff|Hitem:3384:0:0:0:0:0:0:0:10|h[Слабое зелье защиты от магии]|h|r",
@@ -4681,7 +4681,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5997:0:0:0:0:0:0:0:10|h[Слабый эликсир защиты]|h|r",
                 name = "Слабый эликсир защиты",
-                count = 48,
+                count = 47,
             },
             {
                 link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
@@ -4771,7 +4771,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                 name = "Лечебное зелье",
-                count = 178,
+                count = 163,
             },
         },
     },
