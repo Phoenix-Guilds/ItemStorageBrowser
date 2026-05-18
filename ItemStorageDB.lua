@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779115987
+ItemStorageDB_LastUpdate = 1779119102
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12244,24 +12244,14 @@ ItemStorageDB = {
     },
     {
         name = "Сокетная",
-        updated_at = 1779115037,
-        money = 1164,
-        empty = 57,
-        location = "Леса Вечной Песни",
+        updated_at = 1779119099,
+        money = 4132,
+        empty = 59,
+        location = "Оргриммар",
         items = {
             {
-                link = "|cff9d9d9d|Hitem:1431:0:0:0:0:0:0:0:8|h[Лоскутные штаны]|h|r",
-                name = "Лоскутные штаны",
-                count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:22473:0:0:0:0:0:0:0:8|h[Карающий жезл Антеола]|h|r",
-                name = "Карающий жезл Антеола",
-                count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:8|h[Камень возвращения]|h|r",
-                name = "Камень возвращения",
+                link = "|cffffffff|Hitem:22952:0:0:0:0:0:0:0:10|h[Плащ из шкуры прыголапа]|h|r",
+                name = "Плащ из шкуры прыголапа",
                 count = 1,
             },
         },
