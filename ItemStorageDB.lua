@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779076042
+ItemStorageDB_LastUpdate = 1779076085
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6596,9 +6596,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = 1778962951,
+        updated_at = 1779076083,
         money = 74134,
-        empty = 8,
+        empty = 7,
         location = "Оргриммар",
         items = {
             {
@@ -7454,6 +7454,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8389:0:0:0:0:0:0:0:10|h[Выкройка: большие вудуистские штаны]|h|r",
                 name = "Выкройка: большие вудуистские штаны",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:8395:0:0:0:0:0:0:0:10|h[Выкройка: жесткая кираса из чешуи скорпида]|h|r",
+                name = "Выкройка: жесткая кираса из чешуи скорпида",
                 count = 1,
             },
             {
