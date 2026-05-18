@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779123518
+ItemStorageDB_LastUpdate = 1779123803
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4313,9 +4313,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779119378,
+        updated_at = 1779123800,
         money = 9396,
-        empty = 43,
+        empty = 44,
         location = "Оргриммар",
         items = {
             {
@@ -4391,7 +4391,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
                 name = "Сильный эликсир подводного дыхания",
-                count = 49,
+                count = 47,
             },
             {
                 link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
@@ -4561,7 +4561,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
                 name = "Масло льда",
-                count = 12,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
