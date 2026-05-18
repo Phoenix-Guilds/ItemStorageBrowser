@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779083901
+ItemStorageDB_LastUpdate = 1779083934
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3781,7 +3781,7 @@ ItemStorageDB = {
     },
     {
         name = "Крошшерный",
-        updated_at = 1778994007,
+        updated_at = 1779083932,
         money = 3895,
         empty = 171,
         location = "Оргриммар",
@@ -3794,7 +3794,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16646:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 2]|h|r",
                 name = "Руководство по использованию крошшера, стр. 2",
-                count = 39,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:16647:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 3]|h|r",
