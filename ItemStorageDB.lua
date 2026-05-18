@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779089379
+ItemStorageDB_LastUpdate = 1779104115
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12304,10 +12304,10 @@ ItemStorageDB = {
     },
     {
         name = "Сокетная",
-        updated_at = 1779089376,
+        updated_at = 1779104112,
         money = 9,
         empty = 37,
-        location = "Леса Вечной Песни",
+        location = "",
         items = {
             {
                 link = "|cff9d9d9d|Hitem:20812:0:0:0:0:0:0:0:4|h[Рваная шкура]|h|r",
