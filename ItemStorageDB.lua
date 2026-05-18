@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779079197
+ItemStorageDB_LastUpdate = 1779079500
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3214,9 +3214,9 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = 1779076255,
+        updated_at = 1779079493,
         money = 306084,
-        empty = 135,
+        empty = 163,
         location = "Оргриммар",
         items = {
             {
@@ -3322,12 +3322,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 958,
+                count = 700,
             },
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 805,
+                count = 650,
             },
             {
                 link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
@@ -3375,11 +3375,6 @@ ItemStorageDB = {
                 count = 51,
             },
             {
-                link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
-                name = "Обрывки кожи",
-                count = 222,
-            },
-            {
                 link = "|cffffffff|Hitem:29539:0:0:0:0:0:0:0:10|h[Чешуя кобры]|h|r",
                 name = "Чешуя кобры",
                 count = 1,
@@ -3402,7 +3397,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
                 name = "Борейская кожа",
-                count = 798,
+                count = 348,
             },
             {
                 link = "|cffffffff|Hitem:34330:0:0:0:0:0:0:0:10|h[Накладки из толстой узловатой кожи]|h|r",
@@ -3452,7 +3447,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 860,
+                count = 660,
             },
             {
                 link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
