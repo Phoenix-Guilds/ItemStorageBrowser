@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779083439
+ItemStorageDB_LastUpdate = 1779083497
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3249,9 +3249,9 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = 1779083013,
+        updated_at = 1779083495,
         money = 306084,
-        empty = 160,
+        empty = 152,
         location = "Оргриммар",
         items = {
             {
@@ -3357,12 +3357,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 700,
+                count = 929,
             },
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 651,
+                count = 715,
             },
             {
                 link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
@@ -3408,6 +3408,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:25708:0:0:0:0:0:0:0:10|h[Плотная кожа копытня]|h|r",
                 name = "Плотная кожа копытня",
                 count = 51,
+            },
+            {
+                link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
+                name = "Обрывки кожи",
+                count = 75,
             },
             {
                 link = "|cffffffff|Hitem:29539:0:0:0:0:0:0:0:10|h[Чешуя кобры]|h|r",
@@ -3472,7 +3477,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4232:0:0:0:0:0:0:0:10|h[Средняя шкура]|h|r",
                 name = "Средняя шкура",
-                count = 258,
+                count = 262,
             },
             {
                 link = "|cffffffff|Hitem:4233:0:0:0:0:0:0:0:10|h[Обработанная средняя шкура]|h|r",
@@ -3487,7 +3492,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
                 name = "Тяжелая шкура",
-                count = 194,
+                count = 195,
             },
             {
                 link = "|cffffffff|Hitem:4236:0:0:0:0:0:0:0:10|h[Обработанная тяжелая шкура]|h|r",
@@ -3542,7 +3547,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
                 name = "Легкая шкура",
-                count = 276,
+                count = 295,
             },
             {
                 link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
