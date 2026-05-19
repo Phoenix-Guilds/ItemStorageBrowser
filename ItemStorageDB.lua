@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779179052
+ItemStorageDB_LastUpdate = 1779179097
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3743,15 +3743,15 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1778491578,
+        updated_at = 1779179094,
         money = 0,
-        empty = 200,
+        empty = 197,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
                 name = "Жареный ящер",
-                count = 30,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -3764,9 +3764,14 @@ ItemStorageDB = {
                 count = 5,
             },
             {
+                link = "|cffffffff|Hitem:21151:0:0:0:0:0:0:0:10|h[Ром Ромси \"Черный ярлык\"]|h|r",
+                name = "Ром Ромси \"Черный ярлык\"",
+                count = 9,
+            },
+            {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
                 name = "Сосиска из мяса опустошителя",
-                count = 37,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:27656:0:0:0:0:0:0:0:10|h[Закуска спорлингов]|h|r",
@@ -3794,9 +3799,9 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cffffffff|Hitem:3726:0:0:0:0:0:0:0:10|h[Большой медвежий стейк]|h|r",
-                name = "Большой медвежий стейк",
-                count = 8,
+                link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
+                name = "Нежный черепаховый суп",
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:42942:0:0:0:0:0:0:0:10|h[Печеный морской дьявол]|h|r",
@@ -3811,22 +3816,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5477:0:0:0:0:0:0:0:10|h[Похлебка из долгонога]|h|r",
                 name = "Похлебка из долгонога",
-                count = 68,
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 17,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
-                count = 27,
-            },
-            {
-                link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
-                name = "Мидии по-гоблински",
-                count = 8,
+                count = 67,
             },
             {
                 link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
@@ -3836,7 +3836,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
                 name = "Яйцо с травами",
-                count = 43,
+                count = 86,
             },
         },
     },
