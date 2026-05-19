@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779179163
+ItemStorageDB_LastUpdate = 1779179218
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4243,7 +4243,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779178547,
+        updated_at = 1779179215,
         money = 9396,
         empty = 43,
         location = "Оргриммар",
@@ -4401,7 +4401,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:32067:0:0:0:0:0:0:0:10|h[Эликсир дренейской мудрости]|h|r",
                 name = "Эликсир дренейской мудрости",
-                count = 56,
+                count = 86,
             },
             {
                 link = "|cffffffff|Hitem:33447:0:0:0:0:0:0:0:10|h[Рунический флакон с лечебным зельем]|h|r",
