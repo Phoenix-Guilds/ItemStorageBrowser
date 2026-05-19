@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779213329
+ItemStorageDB_LastUpdate = 1779216427
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8960,7 +8960,7 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = 1779194693,
+        updated_at = 1779216423,
         money = 1153902,
         empty = 115,
         location = "Оргриммар",
@@ -9043,7 +9043,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
-                count = 254,
+                count = 252,
             },
             {
                 link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
