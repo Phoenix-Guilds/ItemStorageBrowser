@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779194104
+ItemStorageDB_LastUpdate = 1779194139
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1795,11 +1795,16 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = 1778490059,
+        updated_at = 1779194136,
         money = 158410,
-        empty = 163,
+        empty = 161,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
+                name = "Идол Луны",
+                count = 1,
+            },
             {
                 link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
                 name = "Тотем бури",
@@ -1833,6 +1838,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31186:0:0:0:0:0:0:0:10|h[Посох дремы Браксиса]|h|r",
                 name = "Посох дремы Браксиса",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
+                name = "Клинок Неутолимой Жажды",
                 count = 1,
             },
             {
