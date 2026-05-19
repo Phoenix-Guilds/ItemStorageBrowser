@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779195148
+ItemStorageDB_LastUpdate = 1779195179
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7525,9 +7525,9 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = 1778491602,
+        updated_at = 1779195171,
         money = 4042,
-        empty = 164,
+        empty = 160,
         location = "Оргриммар",
         items = {
             {
@@ -7566,11 +7566,6 @@ ItemStorageDB = {
                 count = 41,
             },
             {
-                link = "|cffffffff|Hitem:13888:0:0:0:0:0:0:0:10|h[Темноклешневый омар]|h|r",
-                name = "Темноклешневый омар",
-                count = 15,
-            },
-            {
                 link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
                 name = "Пластинчатая бронерыба",
                 count = 16,
@@ -7581,14 +7576,29 @@ ItemStorageDB = {
                 count = 39,
             },
             {
+                link = "|cffffffff|Hitem:41802:0:0:0:0:0:0:0:10|h[Королевский морской дьявол]|h|r",
+                name = "Королевский морской дьявол",
+                count = 15,
+            },
+            {
+                link = "|cffffffff|Hitem:41803:0:0:0:0:0:0:0:10|h[Камнеперый морской окунь]|h|r",
+                name = "Камнеперый морской окунь",
+                count = 21,
+            },
+            {
                 link = "|cffffffff|Hitem:41805:0:0:0:0:0:0:0:10|h[Борейский медузник]|h|r",
                 name = "Борейский медузник",
-                count = 21,
+                count = 33,
+            },
+            {
+                link = "|cffffffff|Hitem:41807:0:0:0:0:0:0:0:10|h[Дракоперая рыба-ангел]|h|r",
+                name = "Дракоперая рыба-ангел",
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:41808:0:0:0:0:0:0:0:10|h[Костечешуйный луциан]|h|r",
                 name = "Костечешуйный луциан",
-                count = 2,
+                count = 102,
             },
             {
                 link = "|cffffffff|Hitem:41812:0:0:0:0:0:0:0:10|h[Бочкоголовый бычок]|h|r",
@@ -7623,12 +7633,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
                 name = "Сырая ощетиненная зубатка",
-                count = 18,
+                count = 26,
             },
             {
                 link = "|cffffffff|Hitem:6361:0:0:0:0:0:0:0:10|h[Сырой радужный тунец]|h|r",
                 name = "Сырой радужный тунец",
-                count = 11,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
@@ -7638,7 +7648,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6522:0:0:0:0:0:0:0:10|h[Загадочная рыба]|h|r",
                 name = "Загадочная рыба",
-                count = 70,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
