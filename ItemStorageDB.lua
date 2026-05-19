@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779194049
+ItemStorageDB_LastUpdate = 1779194069
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2652,20 +2652,15 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = 1778489894,
+        updated_at = 1779194067,
         money = 16160,
-        empty = 149,
+        empty = 150,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
                 name = "Шлицевой гироинструмент",
                 count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:10505:0:0:0:0:0:0:0:10|h[Твердое взрывчатое вещество]|h|r",
-                name = "Твердое взрывчатое вещество",
-                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:10558:0:0:0:0:0:0:0:10|h[Золотое силовое ядро]|h|r",
@@ -2680,7 +2675,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10560:0:0:0:0:0:0:0:10|h[Нестабильное пусковое устройство]|h|r",
                 name = "Нестабильное пусковое устройство",
-                count = 34,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:15992:0:0:0:0:0:0:0:10|h[Концентрированное взрывчатое вещество]|h|r",
@@ -2800,7 +2795,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4377:0:0:0:0:0:0:0:10|h[Тяжелое взрывчатое вещество]|h|r",
                 name = "Тяжелое взрывчатое вещество",
-                count = 14,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
@@ -2830,7 +2825,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                 name = "Бурдюк с маслом",
-                count = 5,
+                count = 6,
             },
         },
     },
