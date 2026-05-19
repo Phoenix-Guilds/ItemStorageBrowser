@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779189277
+ItemStorageDB_LastUpdate = 1779190302
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2821,7 +2821,7 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = 1779178978,
+        updated_at = 1779190262,
         money = 421241,
         empty = 50,
         location = "Оргриммар",
@@ -2959,7 +2959,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23077:0:0:0:0:0:0:0:10|h[Кровавый гранат]|h|r",
                 name = "Кровавый гранат",
-                count = 40,
+                count = 30,
             },
             {
                 link = "|cff1eff00|Hitem:23079:0:0:0:0:0:0:0:10|h[Хризолит]|h|r",
@@ -2974,7 +2974,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23112:0:0:0:0:0:0:0:10|h[Золотой дренит]|h|r",
                 name = "Золотой дренит",
-                count = 14,
+                count = 10,
             },
             {
                 link = "|cff1eff00|Hitem:23117:0:0:0:0:0:0:0:10|h[Лазурный лунный камень]|h|r",
