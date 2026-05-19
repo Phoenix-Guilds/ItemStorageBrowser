@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779190958
+ItemStorageDB_LastUpdate = 1779191021
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5714,9 +5714,9 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = 1779190490,
+        updated_at = 1779191019,
         money = 13785,
-        empty = 112,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -5865,6 +5865,11 @@ ItemStorageDB = {
                 count = 5,
             },
             {
+                link = "|cff0070dd|Hitem:43253:0:0:0:0:0:0:0:10|h[Кольцо хладных слез]|h|r",
+                name = "Кольцо хладных слез",
+                count = 3,
+            },
+            {
                 link = "|cff0070dd|Hitem:43498:0:0:0:0:0:0:0:10|h[Титановая печатка свирепости]|h|r",
                 name = "Титановая печатка свирепости",
                 count = 1,
@@ -5948,6 +5953,11 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:43245:0:0:0:0:0:0:0:10|h[Амулет с кристаллом кальцедония]|h|r",
                 name = "Амулет с кристаллом кальцедония",
                 count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:43249:0:0:0:0:0:0:0:10|h[Кольцо темного могущества]|h|r",
+                name = "Кольцо темного могущества",
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:19288:0:0:0:0:0:0:0:10|h[Карта Новолуния: Синий Дракон]|h|r",
