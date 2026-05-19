@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779194905
+ItemStorageDB_LastUpdate = 1779194935
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3907,15 +3907,15 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        updated_at = 1778491912,
+        updated_at = 1779194925,
         money = 9413,
-        empty = 153,
+        empty = 154,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
                 name = "Зеленый краситель",
-                count = 6,
+                count = 32,
             },
             {
                 link = "|cff1eff00|Hitem:43108:0:0:0:0:0:0:0:10|h[Эбеновый краситель]|h|r",
@@ -3930,12 +3930,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:43115:0:0:0:0:0:0:0:10|h[Чернила охотника]|h|r",
                 name = "Чернила охотника",
-                count = 382,
+                count = 332,
             },
             {
                 link = "|cff1eff00|Hitem:43117:0:0:0:0:0:0:0:10|h[Чернила утренней звезды]|h|r",
                 name = "Чернила утренней звезды",
-                count = 30,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:43121:0:0:0:0:0:0:0:10|h[Огненные чернила]|h|r",
@@ -3975,12 +3975,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39774:0:0:0:0:0:0:0:10|h[Полуночные чернила]|h|r",
                 name = "Полуночные чернила",
-                count = 16,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:43116:0:0:0:0:0:0:0:10|h[Чернила царя зверей]|h|r",
                 name = "Чернила царя зверей",
-                count = 45,
+                count = 65,
             },
             {
                 link = "|cffffffff|Hitem:43118:0:0:0:0:0:0:0:10|h[Чернила нефритового пламени]|h|r",
@@ -3991,11 +3991,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:43120:0:0:0:0:0:0:0:10|h[Астрономические чернила]|h|r",
                 name = "Астрономические чернила",
                 count = 2,
-            },
-            {
-                link = "|cffffffff|Hitem:43126:0:0:0:0:0:0:0:10|h[Чернила моря]|h|r",
-                name = "Чернила моря",
-                count = 5,
             },
         },
     },
