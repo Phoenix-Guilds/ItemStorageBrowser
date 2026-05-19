@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779178640
+ItemStorageDB_LastUpdate = 1779178693
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4682,15 +4682,20 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = 1778490004,
+        updated_at = 1779178690,
         money = 4062,
-        empty = 118,
+        empty = 122,
         location = "Оргриммар",
         items = {
             {
+                link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
+                name = "Украшенные узором бронзовые наручи",
+                count = 4,
+            },
+            {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
-                count = 2,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
@@ -4705,7 +4710,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 23,
+                count = 11,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -4715,7 +4720,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
-                count = 54,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -4735,17 +4740,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 192,
+                count = 215,
             },
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                 name = "Блестящая рыбья чешуя",
-                count = 85,
+                count = 88,
             },
             {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                 name = "Рыбий жир",
-                count = 71,
+                count = 73,
+            },
+            {
+                link = "|cffffffff|Hitem:18944:0:0:0:0:0:0:0:10|h[Чешуя пламезавра]|h|r",
+                name = "Чешуя пламезавра",
+                count = 58,
             },
             {
                 link = "|cffffffff|Hitem:18945:0:0:0:0:0:0:0:10|h[Окалина черного железа]|h|r",
@@ -4760,17 +4770,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22526:0:0:0:0:0:0:0:10|h[Обломки костей]|h|r",
                 name = "Обломки костей",
-                count = 47,
+                count = 88,
             },
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 732,
+                count = 743,
             },
             {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
                 name = "Пластины из темного железа",
-                count = 163,
+                count = 166,
             },
             {
                 link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
@@ -4790,7 +4800,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
                 name = "Усик болотника",
-                count = 1,
+                count = 35,
             },
             {
                 link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
@@ -4800,17 +4810,27 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25719:0:0:0:0:0:0:0:10|h[Перо араккоа]|h|r",
                 name = "Перо араккоа",
-                count = 37,
+                count = 45,
             },
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                 name = "Знак Кил'джедена",
-                count = 65,
+                count = 79,
             },
             {
                 link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
                 name = "Перстень Огнекрылов",
-                count = 14,
+                count = 23,
+            },
+            {
+                link = "|cffffffff|Hitem:30809:0:0:0:0:0:0:0:10|h[Знак Саргераса]|h|r",
+                name = "Знак Саргераса",
+                count = 11,
+            },
+            {
+                link = "|cffffffff|Hitem:30810:0:0:0:0:0:0:0:10|h[Перстень Ярости Солнца]|h|r",
+                name = "Перстень Ярости Солнца",
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
@@ -4820,7 +4840,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                 name = "Гирохронатом",
-                count = 30,
+                count = 32,
             },
             {
                 link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
