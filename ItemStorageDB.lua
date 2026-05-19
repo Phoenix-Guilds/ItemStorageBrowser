@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779178128
+ItemStorageDB_LastUpdate = 1779178187
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6297,9 +6297,9 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = 1779131014,
+        updated_at = 1779178184,
         money = 385478,
-        empty = 83,
+        empty = 85,
         location = "Оргриммар",
         items = {
             {
@@ -6515,7 +6515,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
                 name = "Превосходное волшебное масло",
-                count = 7,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
