@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779180757
+ItemStorageDB_LastUpdate = 1779180862
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4722,9 +4722,9 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        updated_at = 1779178690,
+        updated_at = 1779180858,
         money = 4062,
-        empty = 122,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -4801,6 +4801,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:18945:0:0:0:0:0:0:0:10|h[Окалина черного железа]|h|r",
                 name = "Окалина черного железа",
                 count = 117,
+            },
+            {
+                link = "|cffffffff|Hitem:19933:0:0:0:0:0:0:0:10|h[Светящаяся кровь скорпида]|h|r",
+                name = "Светящаяся кровь скорпида",
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
