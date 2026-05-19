@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779178550
+ItemStorageDB_LastUpdate = 1779178557
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4218,9 +4218,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779178425,
+        updated_at = 1779178547,
         money = 9396,
-        empty = 44,
+        empty = 43,
         location = "Оргриммар",
         items = {
             {
@@ -4246,7 +4246,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
                 name = "Огромный флакон с зельем маны",
-                count = 75,
+                count = 84,
             },
             {
                 link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
@@ -4276,7 +4276,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13454:0:0:0:0:0:0:0:10|h[Сильный чародейский эликсир]|h|r",
                 name = "Сильный чародейский эликсир",
-                count = 8,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:13462:0:0:0:0:0:0:0:10|h[Зелье очищения]|h|r",
@@ -4311,12 +4311,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                 name = "Гигантский флакон с лечебным зельем",
-                count = 292,
+                count = 316,
             },
             {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
                 name = "Гигантский флакон с зельем маны",
-                count = 202,
+                count = 225,
             },
             {
                 link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
