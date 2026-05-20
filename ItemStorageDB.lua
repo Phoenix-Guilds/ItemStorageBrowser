@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779302869
+ItemStorageDB_LastUpdate = 1779303115
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5275,9 +5275,9 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = 1779274830,
+        updated_at = 1779303112,
         money = 3778,
-        empty = 111,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
@@ -5633,6 +5633,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36529:0:0:0:0:0:-40:67:10|h[Выкопанный палаш с меткой преступника]|h|r",
                 name = "Выкопанный палаш с меткой преступника",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:36544:0:0:0:0:0:-41:69:10|h[Посох путешественника с меткой зверя]|h|r",
+                name = "Посох путешественника с меткой зверя",
                 count = 1,
             },
             {
