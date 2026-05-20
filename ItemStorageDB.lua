@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779253649
+ItemStorageDB_LastUpdate = 1779253691
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9104,9 +9104,9 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = 1779203844,
+        updated_at = 1779253689,
         money = 1005064,
-        empty = 115,
+        empty = 114,
         location = "Оргриммар",
         items = {
             {
@@ -9222,22 +9222,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 218,
+                count = 230,
             },
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 187,
+                count = 202,
             },
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 165,
+                count = 169,
             },
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                 name = "Корень жизни",
-                count = 114,
+                count = 116,
             },
             {
                 link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
@@ -9262,7 +9262,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
                 name = "Бледнолист",
-                count = 97,
+                count = 98,
             },
             {
                 link = "|cffffffff|Hitem:3819:0:0:0:0:0:0:0:10|h[Морозник]|h|r",
@@ -9327,7 +9327,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 156,
+                count = 162,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
