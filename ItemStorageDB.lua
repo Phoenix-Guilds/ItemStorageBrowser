@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779256332
+ItemStorageDB_LastUpdate = 1779257161
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11380,9 +11380,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1779193128,
+        updated_at = 1779257157,
         money = 344111,
-        empty = 66,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -11893,7 +11893,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1443:0:0:0:0:0:0:0:10|h[Изукрашенный амулет Кайнвин]|h|r",
                 name = "Изукрашенный амулет Кайнвин",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
