@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779274899
+ItemStorageDB_LastUpdate = 1779274934
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1795,9 +1795,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = 1779194136,
+        updated_at = 1779274931,
         money = 158410,
-        empty = 161,
+        empty = 160,
         location = "Оргриммар",
         items = {
             {
@@ -1943,6 +1943,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37824:0:0:0:0:0:0:0:10|h[Рунический драконий жезл Гвинета]|h|r",
                 name = "Рунический драконий жезл Гвинета",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:40670:0:0:0:0:0:0:0:10|h[Саронитовый защитник]|h|r",
+                name = "Саронитовый защитник",
                 count = 1,
             },
             {
