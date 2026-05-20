@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779261508
+ItemStorageDB_LastUpdate = 1779261616
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6177,9 +6177,9 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = 1779194778,
+        updated_at = 1779261610,
         money = 385478,
-        empty = 85,
+        empty = 86,
         location = "Оргриммар",
         items = {
             {
@@ -6355,7 +6355,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
                 name = "Пыль иллюзий",
-                count = 147,
+                count = 100,
             },
             {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
