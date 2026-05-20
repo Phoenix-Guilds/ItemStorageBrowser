@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779253691
+ItemStorageDB_LastUpdate = 1779253731
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2353,7 +2353,7 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        updated_at = 1779216470,
+        updated_at = 1779253729,
         money = 999680,
         empty = 127,
         location = "Оргриммар",
@@ -2586,7 +2586,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
                 name = "Кристаллизованная жизнь",
-                count = 85,
+                count = 86,
             },
             {
                 link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
@@ -2611,7 +2611,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
                 name = "Первородный воздух",
-                count = 145,
+                count = 146,
             },
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
