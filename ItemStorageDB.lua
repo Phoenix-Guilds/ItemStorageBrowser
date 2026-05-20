@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779299629
+ItemStorageDB_LastUpdate = 1779300076
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3474,7 +3474,7 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = 1779274614,
+        updated_at = 1779300073,
         money = 306084,
         empty = 139,
         location = "Оргриммар",
@@ -3787,7 +3787,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8165:0:0:0:0:0:0:0:10|h[Потертая драконья чешуя]|h|r",
                 name = "Потертая драконья чешуя",
-                count = 72,
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
