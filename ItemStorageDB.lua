@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779216865
+ItemStorageDB_LastUpdate = 1779253399
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6441,9 +6441,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = 1779194100,
+        updated_at = 1779253396,
         money = 74134,
-        empty = 4,
+        empty = 3,
         location = "Оргриммар",
         items = {
             {
@@ -6644,6 +6644,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11166:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - снятие шкур]|h|r",
                 name = "Формула чар для перчаток - снятие шкур",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:11167:0:0:0:0:0:0:0:10|h[Формула чар для обуви - дух I]|h|r",
+                name = "Формула чар для обуви - дух I",
                 count = 1,
             },
             {
