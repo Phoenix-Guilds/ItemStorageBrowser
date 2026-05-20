@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779303115
+ItemStorageDB_LastUpdate = 1779303294
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4328,7 +4328,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779301353,
+        updated_at = 1779303157,
         money = 9396,
         empty = 44,
         location = "Оргриммар",
@@ -4421,7 +4421,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                 name = "Гигантский флакон с лечебным зельем",
-                count = 321,
+                count = 322,
             },
             {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
@@ -7694,7 +7694,7 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = 1779274519,
+        updated_at = 1779303195,
         money = 4291,
         empty = 120,
         location = "Оргриммар",
@@ -7817,7 +7817,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37097:0:0:0:0:0:0:0:10|h[Свиток духа VII]|h|r",
                 name = "Свиток духа VII",
-                count = 2,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
