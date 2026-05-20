@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779275348
+ItemStorageDB_LastUpdate = 1779275401
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2846,9 +2846,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = 1779275338,
+        updated_at = 1779275393,
         money = 421241,
-        empty = 51,
+        empty = 50,
         location = "Оргриммар",
         items = {
             {
@@ -2955,6 +2955,11 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
                 name = "Чародейный кристалл",
                 count = 70,
+            },
+            {
+                link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
+                name = "Огромный изумруд",
+                count = 9,
             },
             {
                 link = "|cff1eff00|Hitem:12799:0:0:0:0:0:0:0:10|h[Большой опал]|h|r",
