@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779285627
+ItemStorageDB_LastUpdate = 1779285765
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4328,7 +4328,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779284931,
+        updated_at = 1779285735,
         money = 9396,
         empty = 44,
         location = "Оргриммар",
@@ -4456,7 +4456,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
                 name = "Зелье скорости",
-                count = 15,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:28100:0:0:0:0:0:0:0:10|h[Флакон с летучим лечебным зельем]|h|r",
@@ -4491,12 +4491,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33447:0:0:0:0:0:0:0:10|h[Рунический флакон с лечебным зельем]|h|r",
                 name = "Рунический флакон с лечебным зельем",
-                count = 34,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:33448:0:0:0:0:0:0:0:10|h[Рунический флакон с зельем маны]|h|r",
                 name = "Рунический флакон с зельем маны",
-                count = 8,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:3382:0:0:0:0:0:0:0:10|h[Слабое зелье тролльей крови]|h|r",
