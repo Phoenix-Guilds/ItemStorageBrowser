@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779274753
+ItemStorageDB_LastUpdate = 1779274793
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6436,9 +6436,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = 1779256013,
+        updated_at = 1779274790,
         money = 74134,
-        empty = 2,
+        empty = 1,
         location = "Оргриммар",
         items = {
             {
@@ -7479,6 +7479,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3735:0:0:0:0:0:0:0:10|h[Рецепт: острая отбивная из мяса льва]|h|r",
                 name = "Рецепт: острая отбивная из мяса льва",
+                count = 1,
+            },
+            {
+                link = "|cffffffff|Hitem:3737:0:0:0:0:0:0:0:10|h[Рецепт: нежный черепаховый суп]|h|r",
+                name = "Рецепт: нежный черепаховый суп",
                 count = 1,
             },
             {
