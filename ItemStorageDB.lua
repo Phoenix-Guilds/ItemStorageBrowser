@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779255902
+ItemStorageDB_LastUpdate = 1779256016
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6436,9 +6436,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = 1779253396,
+        updated_at = 1779256013,
         money = 74134,
-        empty = 3,
+        empty = 2,
         location = "Оргриммар",
         items = {
             {
@@ -6979,6 +6979,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3612:0:0:0:0:0:0:0:10|h[Чертеж: зеленые железные рукавицы]|h|r",
                 name = "Чертеж: зеленые железные рукавицы",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:3831:0:0:0:0:0:0:0:10|h[Рецепт: большой эликсир тролльей крови]|h|r",
+                name = "Рецепт: большой эликсир тролльей крови",
                 count = 1,
             },
             {
