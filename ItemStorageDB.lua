@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779253464
+ItemStorageDB_LastUpdate = 1779253501
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7659,7 +7659,7 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = 1779195054,
+        updated_at = 1779253498,
         money = 4291,
         empty = 120,
         location = "Оргриммар",
@@ -7902,7 +7902,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:10|h[Свиток ловкости VII]|h|r",
                 name = "Свиток ловкости VII",
-                count = 75,
+                count = 76,
             },
             {
                 link = "|cffffffff|Hitem:43465:0:0:0:0:0:0:0:10|h[Свиток силы VII]|h|r",
@@ -7912,7 +7912,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43467:0:0:0:0:0:0:0:10|h[Свиток защиты VII]|h|r",
                 name = "Свиток защиты VII",
-                count = 1,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:4419:0:0:0:0:0:0:0:10|h[Свиток интеллекта III]|h|r",
