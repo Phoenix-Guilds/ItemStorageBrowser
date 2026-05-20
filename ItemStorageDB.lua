@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779299158
+ItemStorageDB_LastUpdate = 1779299629
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4328,7 +4328,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779285735,
+        updated_at = 1779299626,
         money = 9396,
         empty = 44,
         location = "Оргриммар",
@@ -4541,7 +4541,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3391:0:0:0:0:0:0:0:10|h[Эликсир силы огра]|h|r",
                 name = "Эликсир силы огра",
-                count = 32,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
