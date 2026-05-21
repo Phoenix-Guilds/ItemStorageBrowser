@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779365829
+ItemStorageDB_LastUpdate = 1779365837
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10556,9 +10556,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1779341423,
+        updated_at = 1779365825,
         money = 3936,
-        empty = 19,
+        empty = 23,
         location = "Оргриммар",
         items = {
             {
@@ -10829,7 +10829,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
                 name = "Сапоги из чешуи равазавра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
@@ -10844,7 +10844,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
                 name = "Корона северного разбойника",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
@@ -11039,7 +11039,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                 name = "Двойной мундир",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
@@ -11174,7 +11174,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                 name = "Ремень силы голема",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
