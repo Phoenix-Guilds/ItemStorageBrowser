@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779384530
+ItemStorageDB_LastUpdate = 1779384674
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2851,9 +2851,9 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        updated_at = 1779340258,
+        updated_at = 1779384671,
         money = 421241,
-        empty = 48,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -3149,7 +3149,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2862:0:0:0:0:0:0:0:10|h[Грубое точило]|h|r",
                 name = "Грубое точило",
-                count = 50,
+                count = 60,
             },
             {
                 link = "|cffffffff|Hitem:2863:0:0:0:0:0:0:0:10|h[Зернистое точило]|h|r",
@@ -3169,12 +3169,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
                 name = "Зернистое грузило",
-                count = 50,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:3241:0:0:0:0:0:0:0:10|h[Тяжелое грузило]|h|r",
                 name = "Тяжелое грузило",
-                count = 50,
+                count = 35,
             },
             {
                 link = "|cffffffff|Hitem:3470:0:0:0:0:0:0:0:10|h[Грубый шлифовальный камень]|h|r",
