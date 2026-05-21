@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779387138
+ItemStorageDB_LastUpdate = 1779387250
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3823,9 +3823,9 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1779285862,
+        updated_at = 1779387240,
         money = 0,
-        empty = 197,
+        empty = 198,
         location = "Оргриммар",
         items = {
             {
@@ -3882,11 +3882,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
                 name = "Нежный черепаховый суп",
                 count = 10,
-            },
-            {
-                link = "|cffffffff|Hitem:42942:0:0:0:0:0:0:0:10|h[Печеный морской дьявол]|h|r",
-                name = "Печеный морской дьявол",
-                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
