@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779341129
+ItemStorageDB_LastUpdate = 1779341359
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11440,9 +11440,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1779257157,
+        updated_at = 1779341352,
         money = 344111,
-        empty = 65,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -11473,7 +11473,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                 name = "Калейдоскопическая цепь",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -11533,7 +11533,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
                 name = "Ожерелье Калисеи",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1015:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
