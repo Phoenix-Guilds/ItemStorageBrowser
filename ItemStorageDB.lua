@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779341075
+ItemStorageDB_LastUpdate = 1779341129
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10746,9 +10746,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1779274985,
+        updated_at = 1779341127,
         money = 3936,
-        empty = 23,
+        empty = 20,
         location = "Оргриммар",
         items = {
             {
@@ -10759,7 +10759,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
                 name = "Перчатки Клыка",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -11004,7 +11004,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                 name = "Наручи Гневливого",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
@@ -11379,6 +11379,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
                 name = "Алый пояс",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:2620:0:0:0:0:0:0:0:10|h[Капюшон авгура]|h|r",
+                name = "Капюшон авгура",
                 count = 1,
             },
             {
