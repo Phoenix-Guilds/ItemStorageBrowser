@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1779377202
+ItemStorageDB_LastUpdate = 1779382705
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = 1779366363,
+        updated_at = 1779382696,
         money = 339404,
         empty = 107,
         location = "Оргриммар",
@@ -110,7 +110,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                 name = "Символ правосудия",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:41094:0:0:0:0:0:0:0:10|h[Символ печати повиновения]|h|r",
@@ -305,7 +305,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
                 name = "Символ пытки разума",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:42453:0:0:0:0:0:0:0:10|h[Символ испепеления]|h|r",
@@ -490,7 +490,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
                 name = "Символ духа зверя",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
@@ -695,7 +695,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
                 name = "Символ благословения могущества",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
@@ -755,7 +755,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
                 name = "Символ левитации",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:43374:0:0:0:0:0:0:0:10|h[Символ исчадия Тьмы]|h|r",
