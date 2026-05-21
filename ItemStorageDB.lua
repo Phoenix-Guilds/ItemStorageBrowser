@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779340352
+ItemStorageDB_LastUpdate = 1779340407
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9179,9 +9179,9 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        updated_at = 1779285460,
+        updated_at = 1779340405,
         money = 1005064,
-        empty = 110,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -9337,12 +9337,27 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                 name = "Золотой клевер",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
                 name = "Тигровая лилия",
-                count = 5,
+                count = 6,
+            },
+            {
+                link = "|cffffffff|Hitem:36905:0:0:0:0:0:0:0:10|h[Личецвет]|h|r",
+                name = "Личецвет",
+                count = 1,
+            },
+            {
+                link = "|cffffffff|Hitem:36906:0:0:0:0:0:0:0:10|h[Ледошип]|h|r",
+                name = "Ледошип",
+                count = 1,
+            },
+            {
+                link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
+                name = "Яснотка",
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
@@ -9392,12 +9407,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                 name = "Масляный черноротик",
-                count = 186,
+                count = 187,
             },
             {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
-                count = 38,
+                count = 39,
             },
             {
                 link = "|cffffffff|Hitem:6371:0:0:0:0:0:0:0:10|h[Зажигательное масло]|h|r",
