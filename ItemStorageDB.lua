@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779382876
+ItemStorageDB_LastUpdate = 1779383120
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7648,9 +7648,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1779342096,
+        updated_at = 1779383116,
         money = 358852,
-        empty = 61,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -7750,11 +7750,6 @@ ItemStorageDB = {
             },
             {
                 link = "|cff1eff00|Hitem:14747:1887:0:0:0:0:0:0:10|h[Громадные рукавицы]|h|r",
-                name = "Громадные рукавицы",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:14747:904:0:0:0:0:0:0:10|h[Громадные рукавицы]|h|r",
                 name = "Громадные рукавицы",
                 count = 1,
             },
@@ -7964,11 +7959,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:2865:0:0:0:0:0:0:0:10|h[Грубые бронзовые поножи]|h|r",
-                name = "Грубые бронзовые поножи",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:2957:1892:0:0:0:0:0:0:10|h[Жилет подмастерья]|h|r",
                 name = "Жилет подмастерья",
                 count = 1,
@@ -8146,7 +8136,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3480:0:0:0:0:0:0:0:10|h[Грубые бронзовые наплечники]|h|r",
                 name = "Грубые бронзовые наплечники",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:3651:929:0:0:0:0:0:0:10|h[Щит ветерана]|h|r",
