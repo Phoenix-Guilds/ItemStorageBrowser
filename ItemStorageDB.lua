@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779365930
+ItemStorageDB_LastUpdate = 1779365970
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4118,9 +4118,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779341654,
+        updated_at = 1779365967,
         money = 9396,
-        empty = 44,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -4329,11 +4329,6 @@ ItemStorageDB = {
                 count = 49,
             },
             {
-                link = "|cffffffff|Hitem:3391:0:0:0:0:0:0:0:10|h[Эликсир силы огра]|h|r",
-                name = "Эликсир силы огра",
-                count = 12,
-            },
-            {
                 link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
                 name = "Зелье безумного алхимика",
                 count = 40,
@@ -4522,11 +4517,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
                 name = "Эликсир ловкости",
                 count = 59,
-            },
-            {
-                link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
-                name = "Сильный эликсир защиты",
-                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:9036:0:0:0:0:0:0:0:10|h[Зелье защиты от магии]|h|r",
