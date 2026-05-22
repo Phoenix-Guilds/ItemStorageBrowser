@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779482679
+ItemStorageDB_LastUpdate = 1779482850
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7838,9 +7838,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1779482477,
+        updated_at = 1779482847,
         money = 358852,
-        empty = 77,
+        empty = 79,
         location = "Оргриммар",
         items = {
             {
@@ -8089,11 +8089,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:2307:929:0:0:0:0:0:0:10|h[Тонкие кожаные сапоги]|h|r",
-                name = "Тонкие кожаные сапоги",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:2312:931:0:0:0:0:0:0:10|h[Тонкие кожаные перчатки]|h|r",
                 name = "Тонкие кожаные перчатки",
                 count = 1,
@@ -8186,7 +8181,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2987:3858:0:0:0:0:0:0:10|h[Покрытые письменами кожаные сапоги]|h|r",
                 name = "Покрытые письменами кожаные сапоги",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:2991:929:0:0:0:0:0:0:10|h[Вороненые сапоги]|h|r",
