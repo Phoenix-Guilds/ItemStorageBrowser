@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779450282
+ItemStorageDB_LastUpdate = 1779450364
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7608,7 +7608,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1779434334,
+        updated_at = 1779450361,
         money = 358852,
         empty = 60,
         location = "Оргриммар",
@@ -8014,9 +8014,14 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:3058:0:0:0:0:0:0:0:10|h[Лесные кожаные перчатки]|h|r",
+                name = "Лесные кожаные перчатки",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:3058:904:0:0:0:0:0:0:10|h[Лесные кожаные перчатки]|h|r",
                 name = "Лесные кожаные перчатки",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:31269:20239:0:0:0:0:-80:2:10|h[Молот вурдалака с символом неукротимости]|h|r",
