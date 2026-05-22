@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779482266
+ItemStorageDB_LastUpdate = 1779482482
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7838,9 +7838,9 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1779460957,
+        updated_at = 1779482477,
         money = 358852,
-        empty = 76,
+        empty = 77,
         location = "Оргриммар",
         items = {
             {
@@ -8266,11 +8266,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3195:20319:0:0:0:0:504:0:10|h[Варварский боевой топор со знаком волка]|h|r",
                 name = "Варварский боевой топор со знаком волка",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:3195:20320:0:0:0:0:588:0:10|h[Варварский боевой топор со знаком мартышки]|h|r",
-                name = "Варварский боевой топор со знаком мартышки",
                 count = 1,
             },
             {
