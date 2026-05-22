@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1779435266
+ItemStorageDB_LastUpdate = 1779435398
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = 1779432899,
+        updated_at = 1779435363,
         money = 339404,
         empty = 107,
         location = "Оргриммар",
@@ -3783,9 +3783,9 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1779387240,
+        updated_at = 1779435298,
         money = 0,
-        empty = 198,
+        empty = 199,
         location = "Оргриммар",
         items = {
             {
@@ -3832,11 +3832,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
                 name = "Стейк из черпорога",
                 count = 20,
-            },
-            {
-                link = "|cffffffff|Hitem:3665:0:0:0:0:0:0:0:10|h[Невероятно вкусный омлет]|h|r",
-                name = "Невероятно вкусный омлет",
-                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
@@ -3966,7 +3961,7 @@ ItemStorageDB = {
     },
     {
         name = "Крошшерный",
-        updated_at = 1779427897,
+        updated_at = 1779435380,
         money = 3895,
         empty = 168,
         location = "Оргриммар",
@@ -4288,7 +4283,7 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779433474,
+        updated_at = 1779435347,
         money = 1408636,
         empty = 66,
         location = "Оргриммар",
@@ -4931,7 +4926,7 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = 1779433156,
+        updated_at = 1779435328,
         money = 343874,
         empty = 90,
         location = "Оргриммар",
@@ -5802,7 +5797,7 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        updated_at = 1779302866,
+        updated_at = 1779435267,
         money = 385478,
         empty = 89,
         location = "Оргриммар",
@@ -7160,7 +7155,7 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = 1779433115,
+        updated_at = 1779435313,
         money = 4042,
         empty = 160,
         location = "Оргриммар",
