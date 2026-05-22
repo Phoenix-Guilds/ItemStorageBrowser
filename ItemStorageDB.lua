@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779450445
+ItemStorageDB_LastUpdate = 1779450520
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3429,9 +3429,9 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = 1779435235,
+        updated_at = 1779450514,
         money = 306084,
-        empty = 131,
+        empty = 127,
         location = "Оргриммар",
         items = {
             {
@@ -3667,12 +3667,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 851,
+                count = 877,
             },
             {
                 link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
                 name = "Тяжелая шкура",
-                count = 209,
+                count = 211,
             },
             {
                 link = "|cffffffff|Hitem:4236:0:0:0:0:0:0:0:10|h[Обработанная тяжелая шкура]|h|r",
@@ -3687,7 +3687,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                 name = "Плотная кожа",
-                count = 230,
+                count = 295,
             },
             {
                 link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
@@ -3747,22 +3747,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
                 name = "Черепаший панцирь",
-                count = 371,
+                count = 431,
             },
             {
                 link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
                 name = "Плотная шкура",
-                count = 178,
+                count = 182,
             },
             {
                 link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
                 name = "Грубая кожа",
-                count = 381,
+                count = 476,
             },
             {
                 link = "|cffffffff|Hitem:8171:0:0:0:0:0:0:0:10|h[Грубая шкура]|h|r",
                 name = "Грубая шкура",
-                count = 125,
+                count = 135,
             },
             {
                 link = "|cffffffff|Hitem:8172:0:0:0:0:0:0:0:10|h[Обработанная плотная шкура]|h|r",
