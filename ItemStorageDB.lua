@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779433850
+ItemStorageDB_LastUpdate = 1779433908
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1800,7 +1800,7 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = 1779274931,
+        updated_at = 1779433882,
         money = 158410,
         empty = 160,
         location = "Оргриммар",
@@ -1818,11 +1818,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
                 name = "Манускрипт страсти",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
-                name = "Клинок невезения",
                 count = 1,
             },
             {
@@ -1903,6 +1898,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37805:0:0:0:0:0:0:0:10|h[Величественный скипетр Мелии]|h|r",
                 name = "Величественный скипетр Мелии",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:37806:0:0:0:0:0:0:0:10|h[Аномальный посох Забры]|h|r",
+                name = "Аномальный посох Забры",
                 count = 1,
             },
             {
