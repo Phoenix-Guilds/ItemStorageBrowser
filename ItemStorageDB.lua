@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779471365
+ItemStorageDB_LastUpdate = 1779471577
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1191,9 +1191,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1779457546,
+        updated_at = 1779471570,
         money = 92710,
-        empty = 71,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -1377,6 +1377,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
+                name = "Маячащий чекан",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:13049:0:0:0:0:0:0:0:10|h[Клеймор декана]|h|r",
                 name = "Клеймор декана",
                 count = 2,
@@ -1452,6 +1457,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
+                name = "Тяжелый ятаган мародера",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
                 name = "Поющий клинок Та-Киертан",
                 count = 1,
@@ -1512,6 +1522,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:2567:0:0:0:0:0:0:0:10|h[Клинок Зовущего]|h|r",
+                name = "Клинок Зовущего",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
                 name = "Изогнутый мясницкий нож",
                 count = 2,
@@ -1524,7 +1539,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
