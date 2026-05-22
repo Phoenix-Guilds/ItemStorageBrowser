@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779471577
+ItemStorageDB_LastUpdate = 1779471663
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9312,14 +9312,19 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        updated_at = 1779458277,
+        updated_at = 1779471654,
         money = 336703,
-        empty = 6,
+        empty = 5,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:20665:0:0:0:0:0:2157:0:10|h[Кожаные поножи Бездны с печатью удара]|h|r",
                 name = "Кожаные поножи Бездны с печатью удара",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
+                name = "Сапоги массового поражения",
                 count = 1,
             },
             {
