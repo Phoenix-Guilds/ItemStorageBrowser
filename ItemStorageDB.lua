@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779426577
+ItemStorageDB_LastUpdate = 1779426644
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6096,9 +6096,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = 1779274790,
+        updated_at = 1779426640,
         money = 74134,
-        empty = 1,
+        empty = 0,
         location = "Оргриммар",
         items = {
             {
@@ -6839,6 +6839,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6271:0:0:0:0:0:0:0:10|h[Выкройка: красный льняной жилет]|h|r",
                 name = "Выкройка: красный льняной жилет",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:6347:0:0:0:0:0:0:0:10|h[Формула чар для наручей - сила I]|h|r",
+                name = "Формула чар для наручей - сила I",
                 count = 1,
             },
             {
