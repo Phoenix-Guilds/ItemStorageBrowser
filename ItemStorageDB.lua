@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779450580
+ItemStorageDB_LastUpdate = 1779450678
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1795,9 +1795,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        updated_at = 1779433882,
+        updated_at = 1779450669,
         money = 158410,
-        empty = 160,
+        empty = 159,
         location = "Оргриммар",
         items = {
             {
@@ -1813,6 +1813,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
                 name = "Манускрипт страсти",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
+                name = "Клинок невезения",
                 count = 1,
             },
             {
