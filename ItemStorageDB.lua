@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779536582
+ItemStorageDB_LastUpdate = 1779536552
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2687,7 +2687,7 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = 1779536580,
+        updated_at = 1779458094,
         money = 16160,
         empty = 150,
         location = "Оргриммар",
@@ -2805,7 +2805,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
                 name = "Горсть медных винтов",
-                count = 46,
+                count = 42,
             },
             {
                 link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
@@ -2815,7 +2815,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
                 name = "Медный регулятор",
-                count = 29,
+                count = 28,
             },
             {
                 link = "|cffffffff|Hitem:4371:0:0:0:0:0:0:0:10|h[Бронзовая трубка]|h|r",
