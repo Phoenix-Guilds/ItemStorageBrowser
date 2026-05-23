@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1779541340
+ItemStorageDB_LastUpdate = 1779542479
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = 1779461627,
+        updated_at = 1779542476,
         money = 339404,
         empty = 107,
         location = "Оргриммар",
@@ -415,7 +415,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                 name = "Символ прилива сил",
-                count = 21,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:42739:0:0:0:0:0:0:0:10|h[Символ огненного шара]|h|r",
@@ -550,7 +550,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42912:0:0:0:0:0:0:0:10|h[Символ укуса змеи]|h|r",
                 name = "Символ укуса змеи",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:42914:0:0:0:0:0:0:0:10|h[Символ верного выстрела]|h|r",
@@ -710,7 +710,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
@@ -730,7 +730,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                 name = "Символ замедленного падения",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:43365:0:0:0:0:0:0:0:10|h[Символ благословения королей]|h|r",
