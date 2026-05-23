@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779535137
+ItemStorageDB_LastUpdate = 1779535151
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5240,9 +5240,9 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = 1779458382,
+        updated_at = 1779535148,
         money = 3778,
-        empty = 110,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -5398,6 +5398,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36079:0:0:0:0:0:-38:69:10|h[Клобук Зимних Плавников с меткой пророка]|h|r",
                 name = "Клобук Зимних Плавников с меткой пророка",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:36081:0:0:0:0:0:-40:52:10|h[Наплечные щитки Зимних Плавников с меткой преступника]|h|r",
+                name = "Наплечные щитки Зимних Плавников с меткой преступника",
                 count = 1,
             },
             {
