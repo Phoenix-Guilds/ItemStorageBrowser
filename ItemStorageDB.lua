@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779540923
+ItemStorageDB_LastUpdate = 1779541161
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10666,9 +10666,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1779537746,
+        updated_at = 1779541148,
         money = 3936,
-        empty = 22,
+        empty = 26,
         location = "Оргриммар",
         items = {
             {
@@ -11002,11 +11002,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:1486:0:0:0:0:0:0:0:10|h[Куртка из древесной коры]|h|r",
-                name = "Куртка из древесной коры",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:15061:0:0:0:0:0:0:0:10|h[Наплечники жизни]|h|r",
                 name = "Наплечники жизни",
                 count = 1,
@@ -11212,11 +11207,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
-                name = "Ремень Келлера",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
                 count = 2,
@@ -11229,12 +11219,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:4320:0:0:0:0:0:0:0:10|h[Сапоги из паучьего шелка]|h|r",
                 name = "Сапоги из паучьего шелка",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:45626:0:0:0:0:0:0:0:10|h[Пелерина из паучьего шелка]|h|r",
                 name = "Пелерина из паучьего шелка",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
