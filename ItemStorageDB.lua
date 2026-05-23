@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779536764
+ItemStorageDB_LastUpdate = 1779537132
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11430,9 +11430,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1779536625,
+        updated_at = 1779537130,
         money = 344111,
-        empty = 72,
+        empty = 70,
         location = "Оргриммар",
         items = {
             {
@@ -11758,7 +11758,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
                 name = "Серебряное кольцо могущества",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
@@ -11913,7 +11913,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
                 name = "Сверкающее ожерелье",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:30420:0:0:0:0:0:0:0:10|h[Тяжелое нефритовое кольцо]|h|r",
