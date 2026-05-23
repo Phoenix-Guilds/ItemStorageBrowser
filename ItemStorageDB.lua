@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779536500
+ItemStorageDB_LastUpdate = 1779536552
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7540,9 +7540,9 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        updated_at = 1779483333,
+        updated_at = 1779536542,
         money = 4042,
-        empty = 159,
+        empty = 154,
         location = "Оргриммар",
         items = {
             {
@@ -7588,7 +7588,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
                 name = "Сырой шалфокунь",
-                count = 48,
+                count = 28,
             },
             {
                 link = "|cffffffff|Hitem:41802:0:0:0:0:0:0:0:10|h[Королевский морской дьявол]|h|r",
@@ -7643,7 +7643,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
                 name = "Сырая скользкокожая скумбрия",
-                count = 19,
+                count = 190,
             },
             {
                 link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
@@ -7653,7 +7653,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6361:0:0:0:0:0:0:0:10|h[Сырой радужный тунец]|h|r",
                 name = "Сырой радужный тунец",
-                count = 32,
+                count = 182,
             },
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
