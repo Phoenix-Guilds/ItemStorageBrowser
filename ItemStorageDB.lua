@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779535220
+ItemStorageDB_LastUpdate = 1779535259
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5240,9 +5240,9 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        updated_at = 1779535148,
+        updated_at = 1779535256,
         money = 3778,
-        empty = 109,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -5688,6 +5688,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36713:0:0:0:0:0:-45:23:10|h[Дальнобойная метательная звезда с меткой победителя]|h|r",
                 name = "Дальнобойная метательная звезда с меткой победителя",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:36714:0:0:0:0:0:-14:23:10|h[Клыкаррский пронзатель со знаком тигра]|h|r",
+                name = "Клыкаррский пронзатель со знаком тигра",
                 count = 1,
             },
             {
