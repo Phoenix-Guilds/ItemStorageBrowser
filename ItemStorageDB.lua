@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779627648
+ItemStorageDB_LastUpdate = 1779627684
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9333,9 +9333,9 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        updated_at = 1779627574,
+        updated_at = 1779627681,
         money = 14656,
-        empty = 119,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -9366,7 +9366,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
                 name = "Большой клык",
-                count = 111,
+                count = 116,
             },
         },
     },
