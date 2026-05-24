@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779626778
+ItemStorageDB_LastUpdate = 1779626810
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3793,16 +3793,11 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        updated_at = 1779458583,
+        updated_at = 1779626808,
         money = 0,
-        empty = 199,
+        empty = 200,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
-                name = "Жареный ящер",
-                count = 10,
-            },
             {
                 link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
                 name = "Мощь-рыба в кляре",
@@ -3817,6 +3812,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:21151:0:0:0:0:0:0:0:10|h[Ром Ромси \"Черный ярлык\"]|h|r",
                 name = "Ром Ромси \"Черный ярлык\"",
                 count = 9,
+            },
+            {
+                link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
+                name = "Хрустящий паучий десерт",
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
@@ -3844,11 +3844,6 @@ ItemStorageDB = {
                 count = 20,
             },
             {
-                link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
-                name = "Нежный черепаховый суп",
-                count = 10,
-            },
-            {
                 link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
                 name = "Даларанская похлебка из моллюсков",
                 count = 8,
@@ -3866,7 +3861,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
-                count = 67,
+                count = 77,
             },
             {
                 link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
