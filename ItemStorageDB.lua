@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779626326
+ItemStorageDB_LastUpdate = 1779626403
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7514,15 +7514,15 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = 1779538988,
+        updated_at = 1779626400,
         money = 214291,
-        empty = 163,
+        empty = 166,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:38845:0:0:0:0:0:0:0:10|h[Свиток чар для двуручного оружия - импульс IV]|h|r",
                 name = "Свиток чар для двуручного оружия - импульс IV",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -7587,7 +7587,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27498:0:0:0:0:0:0:0:10|h[Свиток ловкости V]|h|r",
                 name = "Свиток ловкости V",
-                count = 53,
+                count = 23,
             },
             {
                 link = "|cffffffff|Hitem:27499:0:0:0:0:0:0:0:10|h[Свиток интеллекта V]|h|r",
@@ -7672,12 +7672,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38849:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - выносливость IV]|h|r",
                 name = "Свиток чар для наручей - выносливость IV",
-                count = 10,
-            },
-            {
-                link = "|cffffffff|Hitem:38863:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - ловкость IV]|h|r",
-                name = "Свиток чар для обуви - ловкость IV",
-                count = 1,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:38866:0:0:0:0:0:0:0:10|h[Свиток чар для нагрудника - здоровье VI]|h|r",
@@ -7823,11 +7818,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:44815:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - штурм II]|h|r",
                 name = "Свиток чар для наручей - штурм II",
                 count = 3,
-            },
-            {
-                link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
-                name = "Свиток силы",
-                count = 19,
             },
             {
                 link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
