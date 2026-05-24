@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779614092
+ItemStorageDB_LastUpdate = 1779614130
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1191,9 +1191,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1779471570,
+        updated_at = 1779614127,
         money = 92710,
-        empty = 67,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -1254,7 +1254,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                 name = "Боевой топор лорда Александра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
@@ -1375,11 +1375,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13047:0:0:0:0:0:0:0:10|h[Сучок с Древа Жизни]|h|r",
                 name = "Сучок с Древа Жизни",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
-                name = "Маячащий чекан",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13049:0:0:0:0:0:0:0:10|h[Клеймор декана]|h|r",
@@ -1554,12 +1549,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
                 name = "Кубок боли",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:4091:0:0:0:0:0:0:0:10|h[Вдоводел]|h|r",
