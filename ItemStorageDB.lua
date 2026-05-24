@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779627495
+ItemStorageDB_LastUpdate = 1779627533
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4781,9 +4781,9 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = 1779626874,
+        updated_at = 1779627530,
         money = 343874,
-        empty = 93,
+        empty = 91,
         location = "Оргриммар",
         items = {
             {
@@ -4809,7 +4809,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12202:0:0:0:0:0:0:0:10|h[Мясо тигра]|h|r",
                 name = "Мясо тигра",
-                count = 266,
+                count = 272,
             },
             {
                 link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
@@ -4819,7 +4819,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12205:0:0:0:0:0:0:0:10|h[Белое мясо паука]|h|r",
                 name = "Белое мясо паука",
-                count = 65,
+                count = 74,
             },
             {
                 link = "|cffffffff|Hitem:12206:0:0:0:0:0:0:0:10|h[Нежное крабовое мясо]|h|r",
@@ -4829,7 +4829,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                 name = "Гигантское яйцо",
-                count = 199,
+                count = 209,
             },
             {
                 link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
@@ -4954,7 +4954,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
                 name = "Нежное мясо кроколиска",
-                count = 199,
+                count = 227,
             },
             {
                 link = "|cffffffff|Hitem:36782:0:0:0:0:0:0:0:10|h[Сочное мясо моллюска]|h|r",
