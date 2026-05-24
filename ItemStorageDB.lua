@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779627189
+ItemStorageDB_LastUpdate = 1779627379
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4298,9 +4298,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779626319,
+        updated_at = 1779627280,
         money = 1408636,
-        empty = 70,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -4331,12 +4331,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
                 name = "Наилучший эликсир защиты",
-                count = 30,
+                count = 80,
             },
             {
                 link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
                 name = "Огромный флакон с лечебным зельем",
-                count = 100,
+                count = 111,
             },
             {
                 link = "|cffffffff|Hitem:13447:0:0:0:0:0:0:0:10|h[Эликсир мудрецов]|h|r",
@@ -4531,7 +4531,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                 name = "Зелье маны",
-                count = 28,
+                count = 34,
             },
             {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
@@ -4696,12 +4696,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
                 name = "Эликсир ловкости",
-                count = 59,
+                count = 60,
             },
             {
                 link = "|cffffffff|Hitem:9036:0:0:0:0:0:0:0:10|h[Зелье защиты от магии]|h|r",
                 name = "Зелье защиты от магии",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
@@ -4726,7 +4726,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
                 name = "Сильный эликсир ловкости",
-                count = 52,
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
@@ -7514,9 +7514,9 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        updated_at = 1779626526,
+        updated_at = 1779627235,
         money = 214291,
-        empty = 165,
+        empty = 163,
         location = "Оргриммар",
         items = {
             {
@@ -7567,7 +7567,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1477:0:0:0:0:0:0:0:10|h[Свиток ловкости II]|h|r",
                 name = "Свиток ловкости II",
-                count = 24,
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:1478:0:0:0:0:0:0:0:10|h[Охранный свиток II]|h|r",
@@ -7582,6 +7582,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
                 name = "Свиток духа II",
+                count = 1,
+            },
+            {
+                link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
+                name = "Свиток силы II",
                 count = 1,
             },
             {
@@ -7787,7 +7792,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4425:0:0:0:0:0:0:0:10|h[Свиток ловкости III]|h|r",
                 name = "Свиток ловкости III",
-                count = 47,
+                count = 78,
             },
             {
                 link = "|cffffffff|Hitem:4426:0:0:0:0:0:0:0:10|h[Свиток силы III]|h|r",
@@ -8910,9 +8915,9 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        updated_at = 1779626605,
+        updated_at = 1779627354,
         money = 1153902,
-        empty = 102,
+        empty = 100,
         location = "Оргриммар",
         items = {
             {
@@ -9008,7 +9013,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 1277,
+                count = 1377,
             },
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
@@ -9018,7 +9023,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                 name = "Магическая ткань",
-                count = 857,
+                count = 869,
             },
             {
                 link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
