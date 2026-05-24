@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779626973
+ItemStorageDB_LastUpdate = 1779627031
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1191,9 +1191,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1779614127,
+        updated_at = 1779627014,
         money = 92710,
-        empty = 69,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -1245,6 +1245,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
                 name = "Пламенеющий клинок",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
+                name = "Рыцарский щит Красной бороды",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
