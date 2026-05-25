@@ -1,8 +1,8 @@
-ItemStorageDB_LastUpdate = 1779720135
+ItemStorageDB_LastUpdate = 1779720184
 ItemStorageDB = {
     {
         name = "Бумажная",
-        updated_at = 1779542476,
+        updated_at = 1779720182,
         money = 339404,
         empty = 107,
         location = "Оргриммар",
@@ -195,7 +195,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41532:0:0:0:0:0:0:0:10|h[Символ оружия языка пламени]|h|r",
                 name = "Символ оружия языка пламени",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:41533:0:0:0:0:0:0:0:10|h[Символ тотема исцеляющего потока]|h|r",
@@ -795,7 +795,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
                 name = "Символ хождения по воде",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
@@ -960,7 +960,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43725:0:0:0:0:0:0:0:10|h[Символ призрачного волка]|h|r",
                 name = "Символ призрачного волка",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43868:0:0:0:0:0:0:0:10|h[Символ печати праведности]|h|r",
