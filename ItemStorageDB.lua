@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779690693
+ItemStorageDB_LastUpdate = 1779690870
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4313,9 +4313,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779687338,
+        updated_at = 1779690867,
         money = 1408636,
-        empty = 65,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -4386,7 +4386,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 103,
+                count = 88,
             },
             {
                 link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
@@ -4534,11 +4534,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffffffff|Hitem:3825:0:0:0:0:0:0:0:10|h[Эликсир стойкости]|h|r",
-                name = "Эликсир стойкости",
-                count = 10,
-            },
-            {
                 link = "|cffffffff|Hitem:3826:0:0:0:0:0:0:0:10|h[Большой эликсир тролльей крови]|h|r",
                 name = "Большой эликсир тролльей крови",
                 count = 11,
@@ -4546,7 +4541,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                 name = "Зелье маны",
-                count = 34,
+                count = 19,
             },
             {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
@@ -4706,7 +4701,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8827:0:0:0:0:0:0:0:10|h[Эликсир хождения по воде]|h|r",
                 name = "Эликсир хождения по воде",
-                count = 12,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
