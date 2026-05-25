@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779690106
+ItemStorageDB_LastUpdate = 1779690250
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2687,9 +2687,9 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        updated_at = 1779458094,
+        updated_at = 1779690244,
         money = 16160,
-        empty = 150,
+        empty = 149,
         location = "Оргриммар",
         items = {
             {
@@ -2805,7 +2805,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
                 name = "Горсть медных винтов",
-                count = 42,
+                count = 46,
             },
             {
                 link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
@@ -2815,7 +2815,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
                 name = "Медный регулятор",
-                count = 28,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:4371:0:0:0:0:0:0:0:10|h[Бронзовая трубка]|h|r",
@@ -2830,7 +2830,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4377:0:0:0:0:0:0:0:10|h[Тяжелое взрывчатое вещество]|h|r",
                 name = "Тяжелое взрывчатое вещество",
-                count = 50,
+                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
@@ -2840,7 +2840,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4387:0:0:0:0:0:0:0:10|h[Железная балка]|h|r",
                 name = "Железная балка",
-                count = 13,
+                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:4399:0:0:0:0:0:0:0:10|h[Деревянный приклад]|h|r",
