@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779688479
+ItemStorageDB_LastUpdate = 1779688508
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4946,9 +4946,9 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        updated_at = 1779687392,
+        updated_at = 1779688506,
         money = 343874,
-        empty = 88,
+        empty = 87,
         location = "Оргриммар",
         items = {
             {
@@ -4959,7 +4959,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
                 name = "Хрустящее паучье мясо",
-                count = 164,
+                count = 166,
             },
             {
                 link = "|cffffffff|Hitem:12037:0:0:0:0:0:0:0:10|h[Таинственное мясо]|h|r",
@@ -5019,7 +5019,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
                 name = "Хрустящая паучья лапка",
-                count = 139,
+                count = 160,
             },
             {
                 link = "|cffffffff|Hitem:24477:0:0:0:0:0:0:0:10|h[Мясо джаггала]|h|r",
@@ -5099,7 +5099,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3174:0:0:0:0:0:0:0:10|h[Паучья лимфа]|h|r",
                 name = "Паучья лимфа",
-                count = 162,
+                count = 165,
             },
             {
                 link = "|cffffffff|Hitem:3404:0:0:0:0:0:0:0:10|h[Крыло канюка]|h|r",
@@ -5209,7 +5209,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5471:0:0:0:0:0:0:0:10|h[Оленина]|h|r",
                 name = "Оленина",
-                count = 39,
+                count = 49,
             },
             {
                 link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
