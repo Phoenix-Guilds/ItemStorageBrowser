@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779725379
+ItemStorageDB_LastUpdate = 1779725433
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10705,9 +10705,9 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        updated_at = 1779725028,
+        updated_at = 1779725425,
         money = 344111,
-        empty = 77,
+        empty = 75,
         location = "Оргриммар",
         items = {
             {
@@ -11178,6 +11178,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:29160:0:0:0:0:0:0:0:10|h[Изумрудное кольцо льва]|h|r",
                 name = "Изумрудное кольцо льва",
+                count = 2,
+            },
+            {
+                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
+                name = "Сверкающее ожерелье",
                 count = 2,
             },
             {
