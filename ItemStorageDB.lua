@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779685442
+ItemStorageDB_LastUpdate = 1779685499
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10661,9 +10661,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1779648119,
+        updated_at = 1779685496,
         money = 3936,
-        empty = 33,
+        empty = 31,
         location = "Оргриммар",
         items = {
             {
@@ -10719,7 +10719,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                 name = "Набедренники Снопевца",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -11250,6 +11250,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:9402:0:0:0:0:0:0:0:10|h[Сотворенный землей килт]|h|r",
                 name = "Сотворенный землей килт",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
+                name = "Ремень силы голема",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
