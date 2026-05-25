@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779683968
+ItemStorageDB_LastUpdate = 1779683999
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7838,7 +7838,7 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        updated_at = 1779626970,
+        updated_at = 1779683996,
         money = 358852,
         empty = 58,
         location = "Оргриммар",
@@ -8259,6 +8259,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:3184:0:0:0:0:0:22:0:10|h[Кинжал-крюк с печатью выносливости]|h|r",
+                name = "Кинжал-крюк с печатью выносливости",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:3184:20239:0:0:0:0:17:0:10|h[Кинжал-крюк со знаком ловкости]|h|r",
                 name = "Кинжал-крюк со знаком ловкости",
                 count = 1,
@@ -8481,11 +8486,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6382:0:0:0:0:0:0:0:10|h[Лесной кожаный пояс]|h|r",
                 name = "Лесной кожаный пояс",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:6383:929:0:0:0:0:0:0:10|h[Лесной кулачный щит]|h|r",
-                name = "Лесной кулачный щит",
                 count = 1,
             },
             {
