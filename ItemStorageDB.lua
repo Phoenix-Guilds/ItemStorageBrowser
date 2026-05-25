@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779723789
+ItemStorageDB_LastUpdate = 1779724522
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4313,9 +4313,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1779692230,
+        updated_at = 1779724519,
         money = 1408636,
-        empty = 66,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -4346,7 +4346,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
                 name = "Наилучший эликсир защиты",
-                count = 80,
+                count = 74,
             },
             {
                 link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
@@ -4361,7 +4361,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13452:0:0:0:0:0:0:0:10|h[Эликсир мангуста]|h|r",
                 name = "Эликсир мангуста",
-                count = 37,
+                count = 38,
             },
             {
                 link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
@@ -4671,7 +4671,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                 name = "Средний флакон с зельем маны",
-                count = 161,
+                count = 211,
             },
             {
                 link = "|cffffffff|Hitem:6372:0:0:0:0:0:0:0:10|h[Зелье быстрого плавания]|h|r",
@@ -4687,6 +4687,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:6452:0:0:0:0:0:0:0:10|h[Противоядие]|h|r",
                 name = "Противоядие",
                 count = 10,
+            },
+            {
+                link = "|cffffffff|Hitem:6453:0:0:0:0:0:0:0:10|h[Сильное противоядие]|h|r",
+                name = "Сильное противоядие",
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:6662:0:0:0:0:0:0:0:10|h[Эликсир увеличения]|h|r",
@@ -4712,6 +4717,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
                 name = "Сильный эликсир защиты",
                 count = 20,
+            },
+            {
+                link = "|cffffffff|Hitem:9030:0:0:0:0:0:0:0:10|h[Приводящее в сознание зелье]|h|r",
+                name = "Приводящее в сознание зелье",
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:9036:0:0:0:0:0:0:0:10|h[Зелье защиты от магии]|h|r",
