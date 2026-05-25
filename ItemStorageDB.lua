@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779688391
+ItemStorageDB_LastUpdate = 1779688428
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3449,9 +3449,9 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        updated_at = 1779652341,
+        updated_at = 1779688426,
         money = 306084,
-        empty = 137,
+        empty = 134,
         location = "Оргриммар",
         items = {
             {
@@ -3562,12 +3562,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 747,
+                count = 797,
             },
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 649,
+                count = 683,
             },
             {
                 link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
@@ -3692,7 +3692,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 840,
+                count = 841,
             },
             {
                 link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
@@ -3767,7 +3767,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8167:0:0:0:0:0:0:0:10|h[Черепаший панцирь]|h|r",
                 name = "Черепаший панцирь",
-                count = 490,
+                count = 540,
             },
             {
                 link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
