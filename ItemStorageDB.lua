@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779690318
+ItemStorageDB_LastUpdate = 1779690398
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1191,9 +1191,9 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        updated_at = 1779685438,
+        updated_at = 1779690390,
         money = 92710,
-        empty = 65,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -1235,6 +1235,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
+                name = "Укус горгульи",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -1579,6 +1584,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                 name = "Лапидийская пинта Пьющего Прибой",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:5267:0:0:0:0:0:0:0:10|h[Алый крис]|h|r",
+                name = "Алый крис",
                 count = 1,
             },
             {
