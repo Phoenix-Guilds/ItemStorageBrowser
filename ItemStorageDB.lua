@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779687509
+ItemStorageDB_LastUpdate = 1779687523
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4119,9 +4119,9 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        updated_at = 1779535218,
+        updated_at = 1779687520,
         money = 391967,
-        empty = 160,
+        empty = 159,
         location = "Оргриммар",
         items = {
             {
@@ -4202,7 +4202,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                 name = "Ториевый слиток",
-                count = 51,
+                count = 66,
             },
             {
                 link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
@@ -4297,7 +4297,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
-                count = 583,
+                count = 633,
             },
         },
     },
