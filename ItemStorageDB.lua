@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779690250
+ItemStorageDB_LastUpdate = 1779690318
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10841,9 +10841,9 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        updated_at = 1779685496,
+        updated_at = 1779690314,
         money = 3936,
-        empty = 31,
+        empty = 29,
         location = "Оргриммар",
         items = {
             {
@@ -10959,7 +10959,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
                 name = "Латная боевая перчатка Хаку",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13072:0:0:0:0:0:0:0:10|h[Рукавицы Каменной хватки]|h|r",
@@ -11289,6 +11289,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:16735:0:0:0:0:0:0:0:10|h[Наручи доблести]|h|r",
                 name = "Наручи доблести",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:16737:0:0:0:0:0:0:0:10|h[Рукавицы доблести]|h|r",
+                name = "Рукавицы доблести",
                 count = 1,
             },
             {
