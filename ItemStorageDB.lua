@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779690577
+ItemStorageDB_LastUpdate = 1779690618
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6456,9 +6456,9 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        updated_at = 1779690104,
+        updated_at = 1779690615,
         money = 164134,
-        empty = 41,
+        empty = 40,
         location = "Оргриммар",
         items = {
             {
@@ -7244,7 +7244,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6661:0:0:0:0:0:0:0:10|h[Рецепт: загадочное острое лакомство]|h|r",
                 name = "Рецепт: загадочное острое лакомство",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
