@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779683999
+ItemStorageDB_LastUpdate = 1779685397
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5564,9 +5564,9 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        updated_at = 1779458302,
+        updated_at = 1779685395,
         money = 13785,
-        empty = 107,
+        empty = 106,
         location = "Оргриммар",
         items = {
             {
@@ -5752,7 +5752,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44688:0:0:0:0:0:-42:65:10|h[Отрубленный клык Лок'Нахак с меткой оракула]|h|r",
                 name = "Отрубленный клык Лок'Нахак с меткой оракула",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:44688:0:0:0:0:0:-90:65:10|h[Отрубленный клык Лок'Нахак с меткой некроманта]|h|r",
