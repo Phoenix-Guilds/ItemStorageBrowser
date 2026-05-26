@@ -1,19 +1,19 @@
-ItemStorageDB_LastUpdate = 1779781130
+ItemStorageDB_LastUpdate = 1779781913
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 10:36:10",
+        updated_at = "2026-05-26 10:51:53",
         money = 339404,
         empty = 107,
         location = "Оргриммар",
         bank = {
-            last_update = 1779780964,
+            last_update = 1779781906,
             items = {
             },
         },
         bags = {
-            last_update = 1779780966,
+            last_update = 1779781908,
             items = {
             },
         },
