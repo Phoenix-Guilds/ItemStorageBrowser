@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1779821452
+ItemStorageDB_LastUpdate = 1779821748
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 14:42:17",
+        updated_at = "2026-05-26 21:55:48",
         money = 339404,
-        empty = 106,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -486,7 +486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42898:0:0:0:0:0:0:0:10|h[Символ чародейского выстрела]|h|r",
                 name = "Символ чародейского выстрела",
-                count = 14,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
@@ -496,7 +496,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                 name = "Символ лечения",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -1190,7 +1190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779795648,
+            last_update = 1779821659,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1665,7 +1665,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42898:0:0:0:0:0:0:0:10|h[Символ чародейского выстрела]|h|r",
                     name = "Символ чародейского выстрела",
-                    count = 14,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
@@ -1675,7 +1675,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                     name = "Символ лечения",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -1875,7 +1875,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
                     name = "Символ благословения могущества",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
@@ -2370,17 +2370,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779795729,
+            last_update = 1779821664,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                     name = "Книга познания символов",
                     count = 18,
-                },
-                {
-                    link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
-                    name = "Символ благословения могущества",
-                    count = 1,
                 },
             },
         },
