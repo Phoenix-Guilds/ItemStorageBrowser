@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779832774
+ItemStorageDB_LastUpdate = 1779832797
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6388,7 +6388,7 @@ ItemStorageDB = {
     {
         name = "Карточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 21:45:23",
+        updated_at = "2026-05-27 00:59:57",
         money = 2404282,
         empty = 131,
         location = "Оргриммар",
@@ -6630,7 +6630,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779821023,
+            last_update = 1779832791,
             items = {
                 {
                     link = "|cff0070dd|Hitem:19230:0:0:0:0:0:0:0:10|h[Двойка из колоды Зверей]|h|r",
@@ -6845,7 +6845,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779821047,
+            last_update = 1779832793,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
