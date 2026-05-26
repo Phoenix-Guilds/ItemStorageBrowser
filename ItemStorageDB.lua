@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779810747
+ItemStorageDB_LastUpdate = 1779810771
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7663,7 +7663,7 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 14:56:01",
+        updated_at = "2026-05-26 18:52:51",
         money = 0,
         empty = 199,
         location = "Оргриммар",
@@ -7750,7 +7750,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779796555,
+            last_update = 1779810765,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7835,7 +7835,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779796556,
+            last_update = 1779810767,
             items = {
             },
         },
