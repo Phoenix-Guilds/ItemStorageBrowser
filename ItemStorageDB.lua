@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779819967
+ItemStorageDB_LastUpdate = 1779820131
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5798,7 +5798,7 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 15:03:00",
+        updated_at = "2026-05-26 21:28:51",
         money = 421241,
         empty = 63,
         location = "Оргриммар",
@@ -6081,7 +6081,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3241:0:0:0:0:0:0:0:10|h[Тяжелое грузило]|h|r",
                 name = "Тяжелое грузило",
-                count = 35,
+                count = 42,
             },
             {
                 link = "|cffffffff|Hitem:3470:0:0:0:0:0:0:0:10|h[Грубый шлифовальный камень]|h|r",
@@ -6126,7 +6126,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7965:0:0:0:0:0:0:0:10|h[Твердое грузило]|h|r",
                 name = "Твердое грузило",
-                count = 30,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
@@ -6135,7 +6135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779796974,
+            last_update = 1779820049,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6375,7 +6375,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779796976,
+            last_update = 1779820097,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6445,7 +6445,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3241:0:0:0:0:0:0:0:10|h[Тяжелое грузило]|h|r",
                     name = "Тяжелое грузило",
-                    count = 35,
+                    count = 42,
                 },
                 {
                     link = "|cffffffff|Hitem:6041:0:0:0:0:0:0:0:10|h[Стальная цепь для оружия]|h|r",
@@ -6470,7 +6470,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7965:0:0:0:0:0:0:0:10|h[Твердое грузило]|h|r",
                     name = "Твердое грузило",
-                    count = 30,
+                    count = 15,
                 },
             },
         },
