@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779809663
+ItemStorageDB_LastUpdate = 1779809637
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17633,7 +17633,7 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 18:34:23",
+        updated_at = "2026-05-26 15:06:55",
         money = 358852,
         empty = 57,
         location = "Оргриммар",
@@ -18565,7 +18565,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779809656,
+            last_update = 1779797159,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14094:1892:0:0:0:0:754:0:10|h[Бисерная блуза со знаком совы]|h|r",
@@ -19250,7 +19250,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779809658,
+            last_update = 1779797161,
             items = {
                 {
                     link = "|cff1eff00|Hitem:15211:20235:0:0:0:0:24:0:10|h[Короткий меч ополченца со знаком силы]|h|r",
