@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779824562
+ItemStorageDB_LastUpdate = 1779824813
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4048,9 +4048,9 @@ ItemStorageDB = {
     {
         name = "Запределька",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 22:40:14",
+        updated_at = "2026-05-26 22:46:53",
         money = 13629,
-        empty = 145,
+        empty = 146,
         location = "Оргриммар",
         items = {
             {
@@ -4289,11 +4289,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:25227:0:0:0:0:0:-14:38:10|h[Длинное копье Ша'тар со знаком тигра]|h|r",
-                name = "Длинное копье Ша'тар со знаком тигра",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:25229:0:0:0:0:0:-41:41:10|h[Длинный протазан с меткой зверя]|h|r",
                 name = "Длинный протазан с меткой зверя",
                 count = 1,
@@ -4415,7 +4410,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779824294,
+            last_update = 1779824773,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10270:0:0:0:0:0:793:0:10|h[Сапоги искусной работы со знаком совы]|h|r",
@@ -4610,7 +4605,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779824313,
+            last_update = 1779824792,
             items = {
                 {
                     link = "|cff1eff00|Hitem:25087:0:0:0:0:0:-36:21:10|h[Кровоточащее Око с меткой волшебника]|h|r",
@@ -4665,11 +4660,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:25215:0:0:0:0:0:-43:41:10|h[Шипастый боевой топор с меткой солдата]|h|r",
                     name = "Шипастый боевой топор с меткой солдата",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:25227:0:0:0:0:0:-14:38:10|h[Длинное копье Ша'тар со знаком тигра]|h|r",
-                    name = "Длинное копье Ша'тар со знаком тигра",
                     count = 1,
                 },
                 {
