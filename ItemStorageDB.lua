@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779810287
+ItemStorageDB_LastUpdate = 1779810327
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20763,7 +20763,7 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 14:59:21",
+        updated_at = "2026-05-26 18:45:27",
         money = 336703,
         empty = 198,
         location = "Оргриммар",
@@ -21090,7 +21090,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779796755,
+            last_update = 1779810307,
             items = {
                 {
                     link = "|cff0070dd|Hitem:20665:0:0:0:0:0:2157:0:10|h[Кожаные поножи Бездны с печатью удара]|h|r",
@@ -21415,7 +21415,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779796757,
+            last_update = 1779810322,
             items = {
             },
         },
