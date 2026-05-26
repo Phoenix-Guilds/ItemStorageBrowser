@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779810926
+ItemStorageDB_LastUpdate = 1779810950
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7843,7 +7843,7 @@ ItemStorageDB = {
     {
         name = "Красочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 14:33:39",
+        updated_at = "2026-05-26 18:55:50",
         money = 9413,
         empty = 154,
         location = "Оргриммар",
@@ -7930,7 +7930,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779795212,
+            last_update = 1779810944,
             items = {
                 {
                     link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
@@ -8015,7 +8015,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779795215,
+            last_update = 1779810945,
             items = {
             },
         },
