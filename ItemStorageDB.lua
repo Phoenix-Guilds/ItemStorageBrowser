@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779810385
+ItemStorageDB_LastUpdate = 1779810393
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4043,7 +4043,7 @@ ItemStorageDB = {
     {
         name = "Запределька",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 15:00:23",
+        updated_at = "2026-05-26 18:46:33",
         money = 13629,
         empty = 142,
         location = "Оргриммар",
@@ -4425,7 +4425,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779796817,
+            last_update = 1779810372,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10270:0:0:0:0:0:793:0:10|h[Сапоги искусной работы со знаком совы]|h|r",
@@ -4635,7 +4635,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779796818,
+            last_update = 1779810373,
             items = {
                 {
                     link = "|cff1eff00|Hitem:25087:0:0:0:0:0:-36:21:10|h[Кровоточащее Око с меткой волшебника]|h|r",
