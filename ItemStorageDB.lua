@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779819543
+ItemStorageDB_LastUpdate = 1779819967
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -25043,9 +25043,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 15:04:24",
+        updated_at = "2026-05-26 21:26:07",
         money = 344111,
-        empty = 75,
+        empty = 77,
         location = "Оргриммар",
         items = {
             {
@@ -25254,11 +25254,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
-                name = "Кольцо побегов",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
                 name = "Бронзовое кольцо силы",
                 count = 2,
@@ -25381,7 +25376,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
                 name = "Тяжелое золотое ожерелье битвы",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20833:0:0:0:0:0:0:0:10|h[Гибельное кольцо лунного камня]|h|r",
@@ -25570,7 +25565,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779797058,
+            last_update = 1779819862,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -25720,11 +25715,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:29158:0:0:0:0:0:0:0:10|h[Кольцо командора из истинного серебра]|h|r",
                     name = "Кольцо командора из истинного серебра",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
-                    name = "Кольцо побегов",
                     count = 1,
                 },
                 {
@@ -25945,7 +25935,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779797060,
+            last_update = 1779819882,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -26030,7 +26020,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
                     name = "Тяжелое золотое ожерелье битвы",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
