@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779804440
+ItemStorageDB_LastUpdate = 1779804739
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10613,7 +10613,7 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 14:29:09",
+        updated_at = "2026-05-26 17:12:19",
         money = 1408636,
         empty = 64,
         location = "Оргриммар",
@@ -11070,7 +11070,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779794943,
+            last_update = 1779804731,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -11420,7 +11420,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779794945,
+            last_update = 1779804733,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
