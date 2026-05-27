@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779865997
+ItemStorageDB_LastUpdate = 1779866041
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13003,9 +13003,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 08:55:50",
+        updated_at = "2026-05-27 10:14:01",
         money = 164134,
-        empty = 37,
+        empty = 36,
         location = "Оргриммар",
         items = {
             {
@@ -13674,6 +13674,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:4349:0:0:0:0:0:0:0:10|h[Выкройка: штаны Феникса]|h|r",
+                name = "Выкройка: штаны Феникса",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:4350:0:0:0:0:0:0:0:10|h[Выкройка: туфли из паутины]|h|r",
                 name = "Выкройка: туфли из паутины",
                 count = 1,
@@ -14130,7 +14135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779861341,
+            last_update = 1779866033,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14965,7 +14970,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779861344,
+            last_update = 1779866036,
             items = {
                 {
                     link = "|cff0070dd|Hitem:15752:0:0:0:0:0:0:0:10|h[Выкройка: поножи жизни]|h|r",
@@ -15165,6 +15170,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4347:0:0:0:0:0:0:0:10|h[Выкройка: усиленные шерстяные наплечники]|h|r",
                     name = "Выкройка: усиленные шерстяные наплечники",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:4349:0:0:0:0:0:0:0:10|h[Выкройка: штаны Феникса]|h|r",
+                    name = "Выкройка: штаны Феникса",
                     count = 1,
                 },
                 {
