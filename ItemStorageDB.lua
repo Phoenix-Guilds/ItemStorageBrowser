@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779859355
+ItemStorageDB_LastUpdate = 1779859388
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8618,7 +8618,7 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 07:19:22",
+        updated_at = "2026-05-27 08:23:08",
         money = 1408636,
         empty = 59,
         location = "Оргриммар",
@@ -8716,12 +8716,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                 name = "Гигантский флакон с лечебным зельем",
-                count = 158,
+                count = 159,
             },
             {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
                 name = "Гигантский флакон с зельем маны",
-                count = 151,
+                count = 155,
             },
             {
                 link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
@@ -9085,7 +9085,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779855552,
+            last_update = 1779859381,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9445,7 +9445,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779855556,
+            last_update = 1779859383,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9475,12 +9475,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                     name = "Гигантский флакон с лечебным зельем",
-                    count = 158,
+                    count = 159,
                 },
                 {
                     link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
                     name = "Гигантский флакон с зельем маны",
-                    count = 151,
+                    count = 155,
                 },
                 {
                     link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
