@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779855769
+ItemStorageDB_LastUpdate = 1779855794
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7578,9 +7578,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 00:52:45",
+        updated_at = "2026-05-27 07:23:14",
         money = 0,
-        empty = 199,
+        empty = 198,
         location = "Оргриммар",
         items = {
             {
@@ -7646,7 +7646,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 50,
+                count = 56,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -7665,7 +7665,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779832359,
+            last_update = 1779855782,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7730,7 +7730,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                     name = "Хрустящий хвост ящерицы",
-                    count = 50,
+                    count = 56,
                 },
                 {
                     link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -7750,7 +7750,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779832361,
+            last_update = 1779855789,
             items = {
             },
         },
