@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779865914
+ItemStorageDB_LastUpdate = 1779865953
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7578,9 +7578,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 07:23:14",
+        updated_at = "2026-05-27 10:12:33",
         money = 0,
-        empty = 198,
+        empty = 197,
         location = "Оргриммар",
         items = {
             {
@@ -7634,6 +7634,11 @@ ItemStorageDB = {
                 count = 30,
             },
             {
+                link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
+                name = "Филе дракоперой рыбы-ангела",
+                count = 20,
+            },
+            {
                 link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
                 name = "Даларанская похлебка из моллюсков",
                 count = 8,
@@ -7665,7 +7670,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779855782,
+            last_update = 1779865945,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7718,6 +7723,11 @@ ItemStorageDB = {
                     count = 30,
                 },
                 {
+                    link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
+                    name = "Филе дракоперой рыбы-ангела",
+                    count = 20,
+                },
+                {
                     link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
                     name = "Даларанская похлебка из моллюсков",
                     count = 8,
@@ -7750,7 +7760,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779855789,
+            last_update = 1779865948,
             items = {
             },
         },
