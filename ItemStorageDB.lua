@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779861585
+ItemStorageDB_LastUpdate = 1779861630
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18398,9 +18398,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 08:51:42",
+        updated_at = "2026-05-27 09:00:30",
         money = 1153902,
-        empty = 128,
+        empty = 127,
         location = "Оргриммар",
         items = {
             {
@@ -18466,7 +18466,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 643,
+                count = 645,
             },
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
@@ -18476,7 +18476,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
                 name = "Рулон шерсти",
-                count = 280,
+                count = 346,
             },
             {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
@@ -18535,7 +18535,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779861097,
+            last_update = 1779861623,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18565,7 +18565,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                     name = "Шерсть",
-                    count = 643,
+                    count = 645,
                 },
                 {
                     link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
@@ -18575,7 +18575,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
                     name = "Рулон шерсти",
-                    count = 280,
+                    count = 346,
                 },
                 {
                     link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
@@ -18600,7 +18600,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779861098,
+            last_update = 1779861625,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
