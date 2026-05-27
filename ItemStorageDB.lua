@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779859307
+ItemStorageDB_LastUpdate = 1779859355
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12933,9 +12933,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 00:45:56",
+        updated_at = "2026-05-27 08:22:35",
         money = 164134,
-        empty = 43,
+        empty = 42,
         location = "Оргриммар",
         items = {
             {
@@ -13121,6 +13121,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11081:0:0:0:0:0:0:0:10|h[Формула чар для щита - броня]|h|r",
                 name = "Формула чар для щита - броня",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:11152:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - рыбная ловля]|h|r",
+                name = "Формула чар для перчаток - рыбная ловля",
                 count = 1,
             },
             {
@@ -14030,7 +14035,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779831916,
+            last_update = 1779859346,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14865,7 +14870,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779831918,
+            last_update = 1779859350,
             items = {
                 {
                     link = "|cff0070dd|Hitem:15752:0:0:0:0:0:0:0:10|h[Выкройка: поножи жизни]|h|r",
@@ -14935,6 +14940,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:11081:0:0:0:0:0:0:0:10|h[Формула чар для щита - броня]|h|r",
                     name = "Формула чар для щита - броня",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:11152:0:0:0:0:0:0:0:10|h[Формула чар для перчаток - рыбная ловля]|h|r",
+                    name = "Формула чар для перчаток - рыбная ловля",
                     count = 1,
                 },
                 {
