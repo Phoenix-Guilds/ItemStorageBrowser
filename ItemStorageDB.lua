@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779910606
+ItemStorageDB_LastUpdate = 1779910692
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9583,9 +9583,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 10:14:36",
+        updated_at = "2026-05-27 22:38:12",
         money = 4062,
-        empty = 126,
+        empty = 127,
         location = "Оргриммар",
         items = {
             {
@@ -9611,7 +9611,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -9621,7 +9621,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
-                count = 52,
+                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -9770,7 +9770,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779866069,
+            last_update = 1779910649,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9930,7 +9930,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779866071,
+            last_update = 1779910651,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
@@ -9945,7 +9945,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -9955,7 +9955,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                     name = "Мифриловая обшивка",
-                    count = 52,
+                    count = 51,
                 },
             },
         },
