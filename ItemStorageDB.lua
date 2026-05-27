@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779899877
+ItemStorageDB_LastUpdate = 1779900168
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22528,7 +22528,7 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 09:53:27",
+        updated_at = "2026-05-27 19:42:48",
         money = 344111,
         empty = 78,
         location = "Оргриммар",
@@ -23050,7 +23050,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779864771,
+            last_update = 1779900062,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23090,11 +23090,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
                     name = "Кольцо грозного лика",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:1491:0:0:0:0:0:0:0:10|h[Кольцо точности]|h|r",
-                    name = "Кольцо точности",
                     count = 1,
                 },
                 {
@@ -23425,7 +23420,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779864772,
+            last_update = 1779900064,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23466,6 +23461,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
                     name = "Медальон главнокомандующего Морриса",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1491:0:0:0:0:0:0:0:10|h[Кольцо точности]|h|r",
+                    name = "Кольцо точности",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
