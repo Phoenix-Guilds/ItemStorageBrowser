@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779859265
+ItemStorageDB_LastUpdate = 1779859307
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9938,9 +9938,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 08:05:36",
+        updated_at = "2026-05-27 08:21:47",
         money = 343874,
-        empty = 86,
+        empty = 84,
         location = "Оргриммар",
         items = {
             {
@@ -10156,12 +10156,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43012:0:0:0:0:0:0:0:10|h[Мясо люторога]|h|r",
                 name = "Мясо люторога",
-                count = 84,
+                count = 103,
             },
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 996,
+                count = 1022,
             },
             {
                 link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
@@ -10235,7 +10235,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779858311,
+            last_update = 1779859300,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10450,7 +10450,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43012:0:0:0:0:0:0:0:10|h[Мясо люторога]|h|r",
                     name = "Мясо люторога",
-                    count = 84,
+                    count = 103,
                 },
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
@@ -10530,12 +10530,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779858319,
+            last_update = 1779859302,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                     name = "Охлажденное мясо",
-                    count = 646,
+                    count = 672,
                 },
             },
         },
