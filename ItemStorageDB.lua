@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779881503
+ItemStorageDB_LastUpdate = 1779882068
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20738,9 +20738,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 10:39:11",
+        updated_at = "2026-05-27 14:41:08",
         money = 3936,
-        empty = 26,
+        empty = 24,
         location = "Оргриммар",
         items = {
             {
@@ -20976,12 +20976,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
                 name = "Наплеч Незримых",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                 name = "Кушак Огрона",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -21425,7 +21425,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779867543,
+            last_update = 1779881991,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21975,7 +21975,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779867545,
+            last_update = 1779881993,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -22073,9 +22073,14 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
+                    name = "Наплеч Незримых",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                     name = "Кушак Огрона",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
