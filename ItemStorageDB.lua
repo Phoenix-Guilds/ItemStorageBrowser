@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779864362
+ItemStorageDB_LastUpdate = 1779864698
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20148,9 +20148,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 08:43:16",
+        updated_at = "2026-05-27 09:51:38",
         money = 3936,
-        empty = 31,
+        empty = 29,
         location = "Оргриммар",
         items = {
             {
@@ -20226,7 +20226,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
                 name = "Наручи Йоргена",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -20356,7 +20356,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
                 name = "Портупея волчьего страха",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13111:0:0:0:0:0:0:0:10|h[Сандалии мятежника]|h|r",
@@ -20830,7 +20830,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779860581,
+            last_update = 1779864689,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21380,7 +21380,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779860589,
+            last_update = 1779864691,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21410,6 +21410,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
                     name = "Отделанный серебром пояс",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
+                    name = "Наручи Йоргена",
                     count = 1,
                 },
                 {
@@ -21470,7 +21475,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
                     name = "Портупея волчьего страха",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
