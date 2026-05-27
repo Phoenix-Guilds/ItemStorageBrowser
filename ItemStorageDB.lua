@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779864963
+ItemStorageDB_LastUpdate = 1779865177
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16138,9 +16138,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 09:46:02",
+        updated_at = "2026-05-27 09:59:37",
         money = 358852,
-        empty = 42,
+        empty = 41,
         location = "Оргриммар",
         items = {
             {
@@ -16794,6 +16794,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff1eff00|Hitem:5961:0:0:0:0:0:0:0:10|h[Темные кожаные штаны]|h|r",
+                name = "Темные кожаные штаны",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:6336:1892:0:0:0:0:670:0:10|h[Пехотный мундир со знаком тигра]|h|r",
                 name = "Пехотный мундир со знаком тигра",
                 count = 1,
@@ -17130,7 +17135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779864353,
+            last_update = 1779865171,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14094:1892:0:0:0:0:754:0:10|h[Бисерная блуза со знаком совы]|h|r",
@@ -17573,6 +17578,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff1eff00|Hitem:5961:0:0:0:0:0:0:0:10|h[Темные кожаные штаны]|h|r",
+                    name = "Темные кожаные штаны",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:6336:1892:0:0:0:0:670:0:10|h[Пехотный мундир со знаком тигра]|h|r",
                     name = "Пехотный мундир со знаком тигра",
                     count = 1,
@@ -17850,7 +17860,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779864356,
+            last_update = 1779865171,
             items = {
                 {
                     link = "|cff1eff00|Hitem:15211:20235:0:0:0:0:24:0:10|h[Короткий меч ополченца со знаком силы]|h|r",
