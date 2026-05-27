@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779864735
+ItemStorageDB_LastUpdate = 1779864807
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21653,9 +21653,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 08:17:03",
+        updated_at = "2026-05-27 09:53:27",
         money = 344111,
-        empty = 79,
+        empty = 78,
         location = "Оргриммар",
         items = {
             {
@@ -22154,6 +22154,11 @@ ItemStorageDB = {
                 count = 3,
             },
             {
+                link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
+                name = "Кольцо нижнего мира",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:2246:0:0:0:0:0:0:0:10|h[Перстень клеврета]|h|r",
                 name = "Перстень клеврета",
                 count = 2,
@@ -22170,7 +22175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779858971,
+            last_update = 1779864771,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22528,6 +22533,11 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
+                    link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
+                    name = "Кольцо нижнего мира",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:2246:0:0:0:0:0:0:0:10|h[Перстень клеврета]|h|r",
                     name = "Перстень клеврета",
                     count = 2,
@@ -22540,7 +22550,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779858974,
+            last_update = 1779864772,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
