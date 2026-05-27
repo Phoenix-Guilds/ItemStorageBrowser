@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779865221
+ItemStorageDB_LastUpdate = 1779865410
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19478,9 +19478,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 09:55:29",
+        updated_at = "2026-05-27 10:03:30",
         money = 336703,
-        empty = 181,
+        empty = 179,
         location = "Оргриммар",
         items = {
             {
@@ -19491,6 +19491,16 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
                 name = "Сапоги массового поражения",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31136:0:0:0:0:0:0:0:10|h[Кираса отражения клинков]|h|r",
+                name = "Кираса отражения клинков",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31148:0:0:0:0:0:0:0:10|h[Наплеч из шкуры демона]|h|r",
+                name = "Наплеч из шкуры демона",
                 count = 1,
             },
             {
@@ -19900,7 +19910,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779864921,
+            last_update = 1779865348,
             items = {
                 {
                     link = "|cff0070dd|Hitem:20665:0:0:0:0:0:2157:0:10|h[Кожаные поножи Бездны с печатью удара]|h|r",
@@ -19910,6 +19920,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
                     name = "Сапоги массового поражения",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31136:0:0:0:0:0:0:0:10|h[Кираса отражения клинков]|h|r",
+                    name = "Кираса отражения клинков",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31148:0:0:0:0:0:0:0:10|h[Наплеч из шкуры демона]|h|r",
+                    name = "Наплеч из шкуры демона",
                     count = 1,
                 },
                 {
@@ -20320,7 +20340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779864925,
+            last_update = 1779865349,
             items = {
             },
         },
