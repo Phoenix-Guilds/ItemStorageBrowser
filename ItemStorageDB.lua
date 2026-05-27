@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779861843
+ItemStorageDB_LastUpdate = 1779862588
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6398,7 +6398,7 @@ ItemStorageDB = {
     {
         name = "Карточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 00:59:57",
+        updated_at = "2026-05-27 09:16:28",
         money = 2404282,
         empty = 131,
         location = "Оргриммар",
@@ -6411,7 +6411,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19231:0:0:0:0:0:0:0:10|h[Тройка из колоды Зверей]|h|r",
                 name = "Тройка из колоды Зверей",
-                count = 8,
+                count = 9,
             },
             {
                 link = "|cff0070dd|Hitem:19232:0:0:0:0:0:0:0:10|h[Четверка из колоды Зверей]|h|r",
@@ -6511,7 +6511,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19279:0:0:0:0:0:0:0:10|h[Тройка из колоды Порталов]|h|r",
                 name = "Тройка из колоды Порталов",
-                count = 6,
+                count = 7,
             },
             {
                 link = "|cff0070dd|Hitem:19280:0:0:0:0:0:0:0:10|h[Четверка из колоды Порталов]|h|r",
@@ -6640,7 +6640,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779832791,
+            last_update = 1779861872,
             items = {
                 {
                     link = "|cff0070dd|Hitem:19230:0:0:0:0:0:0:0:10|h[Двойка из колоды Зверей]|h|r",
@@ -6650,7 +6650,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:19231:0:0:0:0:0:0:0:10|h[Тройка из колоды Зверей]|h|r",
                     name = "Тройка из колоды Зверей",
-                    count = 8,
+                    count = 9,
                 },
                 {
                     link = "|cff0070dd|Hitem:19232:0:0:0:0:0:0:0:10|h[Четверка из колоды Зверей]|h|r",
@@ -6750,7 +6750,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:19279:0:0:0:0:0:0:0:10|h[Тройка из колоды Порталов]|h|r",
                     name = "Тройка из колоды Порталов",
-                    count = 6,
+                    count = 7,
                 },
                 {
                     link = "|cff0070dd|Hitem:19280:0:0:0:0:0:0:0:10|h[Четверка из колоды Порталов]|h|r",
@@ -6855,7 +6855,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779832793,
+            last_update = 1779862582,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
