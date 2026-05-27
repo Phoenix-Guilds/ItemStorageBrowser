@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779864929
+ItemStorageDB_LastUpdate = 1779864963
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11563,9 +11563,9 @@ ItemStorageDB = {
     {
         name = "Ожерельная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 07:51:04",
+        updated_at = "2026-05-27 09:56:03",
         money = 13785,
-        empty = 110,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -11681,6 +11681,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-36:65:10|h[Перстень грез с меткой волшебника]|h|r",
                 name = "Перстень грез с меткой волшебника",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-39:65:10|h[Перстень грез с меткой заклинателя]|h|r",
+                name = "Перстень грез с меткой заклинателя",
                 count = 1,
             },
             {
@@ -11805,7 +11810,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779857459,
+            last_update = 1779864957,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
@@ -11920,6 +11925,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-36:65:10|h[Перстень грез с меткой волшебника]|h|r",
                     name = "Перстень грез с меткой волшебника",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:42340:0:0:0:0:0:-39:65:10|h[Перстень грез с меткой заклинателя]|h|r",
+                    name = "Перстень грез с меткой заклинателя",
                     count = 1,
                 },
                 {
@@ -12045,7 +12055,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779857460,
+            last_update = 1779864958,
             items = {
             },
         },
