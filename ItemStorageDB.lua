@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779855663
+ItemStorageDB_LastUpdate = 1779855708
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12373,9 +12373,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 00:51:07",
+        updated_at = "2026-05-27 07:21:48",
         money = 385478,
-        empty = 103,
+        empty = 101,
         location = "Оргриммар",
         items = {
             {
@@ -12576,7 +12576,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
                 name = "Превосходное волшебное масло",
-                count = 2,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
@@ -12615,7 +12615,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779832259,
+            last_update = 1779855703,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12800,7 +12800,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
                     name = "Превосходное волшебное масло",
-                    count = 2,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:3371:0:0:0:0:0:0:0:10|h[Пустая колба]|h|r",
@@ -12815,7 +12815,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779832263,
+            last_update = 1779855704,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
