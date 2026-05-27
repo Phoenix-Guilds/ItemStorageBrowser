@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779860962
+ItemStorageDB_LastUpdate = 1779861064
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12443,9 +12443,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 08:33:43",
+        updated_at = "2026-05-27 08:51:04",
         money = 385478,
-        empty = 91,
+        empty = 92,
         location = "Оргриммар",
         items = {
             {
@@ -12644,11 +12644,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffffffff|Hitem:22445:0:0:0:0:0:0:0:10|h[Чародейная пыль]|h|r",
-                name = "Чародейная пыль",
-                count = 50,
-            },
-            {
                 link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
                 name = "Превосходное волшебное масло",
                 count = 4,
@@ -12690,7 +12685,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779860017,
+            last_update = 1779861002,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12873,11 +12868,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cffffffff|Hitem:22445:0:0:0:0:0:0:0:10|h[Чародейная пыль]|h|r",
-                    name = "Чародейная пыль",
-                    count = 50,
-                },
-                {
                     link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
                     name = "Превосходное волшебное масло",
                     count = 4,
@@ -12895,7 +12885,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779860018,
+            last_update = 1779861059,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
