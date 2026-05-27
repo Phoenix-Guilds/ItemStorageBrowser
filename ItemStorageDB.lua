@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779860023
+ItemStorageDB_LastUpdate = 1779860053
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4728,7 +4728,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 08:21:05",
+        updated_at = "2026-05-27 08:34:13",
         money = 999680,
         empty = 119,
         location = "Оргриммар",
@@ -4851,7 +4851,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                 name = "Северный лотос",
-                count = 27,
+                count = 28,
             },
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
@@ -5035,7 +5035,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779859260,
+            last_update = 1779860047,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5130,7 +5130,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                     name = "Северный лотос",
-                    count = 27,
+                    count = 28,
                 },
                 {
                     link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -5290,7 +5290,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779859261,
+            last_update = 1779860048,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
