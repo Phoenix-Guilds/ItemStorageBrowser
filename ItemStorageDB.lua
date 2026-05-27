@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779859023
+ItemStorageDB_LastUpdate = 1779859063
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19898,9 +19898,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 08:14:00",
+        updated_at = "2026-05-27 08:17:43",
         money = 3936,
-        empty = 33,
+        empty = 32,
         location = "Оргриммар",
         items = {
             {
@@ -19937,6 +19937,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12988:0:0:0:0:0:0:0:10|h[Мундир Звездного зрения]|h|r",
                 name = "Мундир Звездного зрения",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:12999:0:0:0:0:0:0:0:10|h[Драконокрылые поручи]|h|r",
+                name = "Драконокрылые поручи",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
@@ -20570,7 +20575,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779858832,
+            last_update = 1779859054,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21120,7 +21125,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779858834,
+            last_update = 1779859057,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21135,6 +21140,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
                     name = "Окованные серебром прочные ботинки",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12999:0:0:0:0:0:0:0:10|h[Драконокрылые поручи]|h|r",
+                    name = "Драконокрылые поручи",
                     count = 1,
                 },
                 {
