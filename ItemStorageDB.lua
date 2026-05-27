@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779856218
+ItemStorageDB_LastUpdate = 1779857316
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16018,9 +16018,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 00:44:50",
+        updated_at = "2026-05-27 07:48:36",
         money = 358852,
-        empty = 57,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -16709,6 +16709,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:6550:929:0:0:0:0:1179:0:10|h[Солдатские накулачники со знаком медведя]|h|r",
+                name = "Солдатские накулачники со знаком медведя",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:6552:1892:0:0:0:0:1016:0:10|h[Мундир барда со знаком кита]|h|r",
                 name = "Мундир барда со знаком кита",
                 count = 1,
@@ -16950,7 +16955,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779831883,
+            last_update = 1779857309,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14094:1892:0:0:0:0:754:0:10|h[Бисерная блуза со знаком совы]|h|r",
@@ -17428,6 +17433,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:6550:929:0:0:0:0:1179:0:10|h[Солдатские накулачники со знаком медведя]|h|r",
+                    name = "Солдатские накулачники со знаком медведя",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:6552:1892:0:0:0:0:1016:0:10|h[Мундир барда со знаком кита]|h|r",
                     name = "Мундир барда со знаком кита",
                     count = 1,
@@ -17635,7 +17645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779831885,
+            last_update = 1779857310,
             items = {
                 {
                     link = "|cff1eff00|Hitem:15211:20235:0:0:0:0:24:0:10|h[Короткий меч ополченца со знаком силы]|h|r",
