@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779867551
+ItemStorageDB_LastUpdate = 1779867589
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 09:52:15",
+        updated_at = "2026-05-27 10:39:49",
         money = 92710,
-        empty = 63,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -2806,7 +2806,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
                 name = "Короткий меч отмщения",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
@@ -2821,7 +2821,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
                 name = "Пронзатель",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
@@ -3010,7 +3010,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779864727,
+            last_update = 1779867581,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3545,7 +3545,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779864730,
+            last_update = 1779867584,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3633,8 +3633,18 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
+                    name = "Короткий меч отмщения",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                     name = "Корявый ясеневый посох",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
+                    name = "Пронзатель",
                     count = 1,
                 },
                 {
