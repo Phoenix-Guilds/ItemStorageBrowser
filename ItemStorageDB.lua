@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1779964430
+ItemStorageDB_LastUpdate = 1779964492
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2382,10 +2382,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 15:05:05",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-05-28 13:34:52",
         money = 92710,
-        empty = 60,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -2779,11 +2779,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:5267:0:0:0:0:0:0:0:10|h[Алый крис]|h|r",
-                name = "Алый крис",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                 name = "Клык Боана",
                 count = 2,
@@ -3010,7 +3005,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779883066,
+            last_update = 1779964449,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3545,7 +3540,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779883068,
+            last_update = 1779964462,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3625,11 +3620,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:5267:0:0:0:0:0:0:0:10|h[Алый крис]|h|r",
-                    name = "Алый крис",
                     count = 1,
                 },
                 {
