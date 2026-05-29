@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780030128
+ItemStorageDB_LastUpdate = 1780030275
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9553,9 +9553,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-29 07:44:09",
+        updated_at = "2026-05-29 07:51:15",
         money = 4062,
-        empty = 90,
+        empty = 88,
         location = "Оргриммар",
         items = {
             {
@@ -9571,7 +9571,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                 name = "Зеленый кожаный доспех",
-                count = 1,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -9740,7 +9740,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780029835,
+            last_update = 1780030163,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9900,7 +9900,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780029844,
+            last_update = 1780030177,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
@@ -9910,7 +9910,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                     name = "Зеленый кожаный доспех",
-                    count = 1,
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
