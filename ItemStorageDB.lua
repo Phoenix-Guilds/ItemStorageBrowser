@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780030748
+ItemStorageDB_LastUpdate = 1780030788
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12978,9 +12978,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-29 06:54:40",
+        updated_at = "2026-05-29 07:59:48",
         money = 164134,
-        empty = 42,
+        empty = 41,
         location = "Оргриммар",
         items = {
             {
@@ -13869,6 +13869,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:7990:0:0:0:0:0:0:0:10|h[Чертеж: тяжелый мифриловый шлем]|h|r",
+                name = "Чертеж: тяжелый мифриловый шлем",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:7992:0:0:0:0:0:0:0:10|h[Чертеж: синий блистающий топор]|h|r",
                 name = "Чертеж: синий блистающий топор",
                 count = 1,
@@ -14080,7 +14085,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780026873,
+            last_update = 1780030780,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14910,7 +14915,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780026874,
+            last_update = 1780030782,
             items = {
                 {
                     link = "|cff0070dd|Hitem:15752:0:0:0:0:0:0:0:10|h[Выкройка: поножи жизни]|h|r",
@@ -15180,6 +15185,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7092:0:0:0:0:0:0:0:10|h[Выкройка: краги Тьмы]|h|r",
                     name = "Выкройка: краги Тьмы",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:7990:0:0:0:0:0:0:0:10|h[Чертеж: тяжелый мифриловый шлем]|h|r",
+                    name = "Чертеж: тяжелый мифриловый шлем",
                     count = 1,
                 },
             },
