@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780031554
+ItemStorageDB_LastUpdate = 1780031636
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4723,9 +4723,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-29 08:03:10",
+        updated_at = "2026-05-29 08:13:56",
         money = 999680,
-        empty = 132,
+        empty = 129,
         location = "Оргриммар",
         items = {
             {
@@ -4851,7 +4851,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 50,
+                count = 52,
             },
             {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -4876,12 +4876,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 50,
+                count = 54,
             },
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 29,
+                count = 33,
             },
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
@@ -5016,7 +5016,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
                 name = "Настой большого колдунства",
-                count = 50,
+                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
@@ -5025,7 +5025,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780030983,
+            last_update = 1780031592,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5145,7 +5145,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                     name = "Дикая лоза",
-                    count = 29,
+                    count = 33,
                 },
                 {
                     link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
@@ -5275,12 +5275,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
                     name = "Настой большого колдунства",
-                    count = 50,
+                    count = 51,
                 },
             },
         },
         bags = {
-            last_update = 1780030985,
+            last_update = 1780031594,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5310,12 +5310,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                     name = "Радужная жемчужина",
-                    count = 50,
+                    count = 52,
                 },
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                     name = "Черная жемчужина",
-                    count = 50,
+                    count = 54,
                 },
                 {
                     link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
