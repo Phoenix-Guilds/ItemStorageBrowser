@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780050798
+ItemStorageDB_LastUpdate = 1780051954
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9847,8 +9847,8 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-29 08:14:03",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-05-29 13:52:34",
         money = 343874,
         empty = 83,
         location = "Оргриммар",
@@ -10145,7 +10145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780031623,
+            last_update = 1780051838,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10440,7 +10440,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780031625,
+            last_update = 1780051844,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
