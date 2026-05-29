@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780026959
+ItemStorageDB_LastUpdate = 1780026983
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19479,17 +19479,12 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-28 13:36:45",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-05-29 06:56:23",
         money = 336703,
-        empty = 117,
+        empty = 118,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff0070dd|Hitem:20665:0:0:0:0:0:2157:0:10|h[Кожаные поножи Бездны с печатью удара]|h|r",
-                name = "Кожаные поножи Бездны с печатью удара",
-                count = 1,
-            },
             {
                 link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
                 name = "Сапоги массового поражения",
@@ -20217,7 +20212,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779964537,
+            last_update = 1780026977,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -20947,13 +20942,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779964540,
+            last_update = 1780026978,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:20665:0:0:0:0:0:2157:0:10|h[Кожаные поножи Бездны с печатью удара]|h|r",
-                    name = "Кожаные поножи Бездны с печатью удара",
-                    count = 1,
-                },
             },
         },
     },
