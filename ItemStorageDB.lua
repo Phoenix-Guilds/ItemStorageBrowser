@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780049909
+ItemStorageDB_LastUpdate = 1780050074
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19292,10 +19292,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-29 06:56:23",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-05-29 13:21:14",
         money = 336703,
-        empty = 118,
+        empty = 119,
         location = "Оргриммар",
         items = {
             {
@@ -19441,11 +19441,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31233:0:0:0:0:0:-7:40:10|h[Лютые наголенники со знаком медведя]|h|r",
                 name = "Лютые наголенники со знаком медведя",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31235:0:0:0:0:0:-14:40:10|h[Лютые сапоги со знаком тигра]|h|r",
-                name = "Лютые сапоги со знаком тигра",
                 count = 1,
             },
             {
@@ -20025,7 +20020,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780026977,
+            last_update = 1780050067,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -20170,11 +20165,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31233:0:0:0:0:0:-7:40:10|h[Лютые наголенники со знаком медведя]|h|r",
                     name = "Лютые наголенники со знаком медведя",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31235:0:0:0:0:0:-14:40:10|h[Лютые сапоги со знаком тигра]|h|r",
-                    name = "Лютые сапоги со знаком тигра",
                     count = 1,
                 },
                 {
@@ -20755,7 +20745,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780026978,
+            last_update = 1780050068,
             items = {
             },
         },
