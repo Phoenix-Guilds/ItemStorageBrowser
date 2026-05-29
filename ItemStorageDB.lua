@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780031427
+ItemStorageDB_LastUpdate = 1780031472
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12973,9 +12973,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-29 07:59:48",
+        updated_at = "2026-05-29 08:11:12",
         money = 164134,
-        empty = 41,
+        empty = 40,
         location = "Оргриммар",
         items = {
             {
@@ -13914,6 +13914,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:9298:0:0:0:0:0:0:0:10|h[Рецепт: эликсир великанов]|h|r",
+                name = "Рецепт: эликсир великанов",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:10318:0:0:0:0:0:0:0:10|h[Выкройка: адмиральская шляпа]|h|r",
                 name = "Выкройка: адмиральская шляпа",
                 count = 1,
@@ -14080,7 +14085,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780030780,
+            last_update = 1780031462,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14910,7 +14915,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780030782,
+            last_update = 1780031465,
             items = {
                 {
                     link = "|cff0070dd|Hitem:15752:0:0:0:0:0:0:0:10|h[Выкройка: поножи жизни]|h|r",
@@ -15185,6 +15190,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7990:0:0:0:0:0:0:0:10|h[Чертеж: тяжелый мифриловый шлем]|h|r",
                     name = "Чертеж: тяжелый мифриловый шлем",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:9298:0:0:0:0:0:0:0:10|h[Рецепт: эликсир великанов]|h|r",
+                    name = "Рецепт: эликсир великанов",
                     count = 1,
                 },
             },
