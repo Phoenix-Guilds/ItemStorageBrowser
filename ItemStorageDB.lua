@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780051954
+ItemStorageDB_LastUpdate = 1780052033
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18648,9 +18648,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-29 13:33:18",
+        updated_at = "2026-05-29 13:53:53",
         money = 1005064,
-        empty = 151,
+        empty = 137,
         location = "Оргриммар",
         items = {
             {
@@ -18681,7 +18681,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                 name = "Снолист",
-                count = 42,
+                count = 133,
+            },
+            {
+                link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
+                name = "Золотой сансам",
+                count = 91,
             },
             {
                 link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -18696,7 +18701,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
                 name = "Сквернопля",
-                count = 83,
+                count = 103,
             },
             {
                 link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
@@ -18704,9 +18709,24 @@ ItemStorageDB = {
                 count = 160,
             },
             {
+                link = "|cffffffff|Hitem:22787:0:0:0:0:0:0:0:10|h[Кисейница]|h|r",
+                name = "Кисейница",
+                count = 162,
+            },
+            {
+                link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
+                name = "Терошишка",
+                count = 104,
+            },
+            {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                 name = "Древний лишайник",
                 count = 51,
+            },
+            {
+                link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
+                name = "Ползучий кошмарник",
+                count = 81,
             },
             {
                 link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
@@ -18905,7 +18925,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780050749,
+            last_update = 1780052025,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18915,7 +18935,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                     name = "Снолист",
-                    count = 42,
+                    count = 133,
+                },
+                {
+                    link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
+                    name = "Золотой сансам",
+                    count = 91,
                 },
                 {
                     link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -18930,7 +18955,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
                     name = "Сквернопля",
-                    count = 83,
+                    count = 103,
                 },
                 {
                     link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
@@ -18938,9 +18963,24 @@ ItemStorageDB = {
                     count = 160,
                 },
                 {
+                    link = "|cffffffff|Hitem:22787:0:0:0:0:0:0:0:10|h[Кисейница]|h|r",
+                    name = "Кисейница",
+                    count = 162,
+                },
+                {
+                    link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
+                    name = "Терошишка",
+                    count = 104,
+                },
+                {
                     link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                     name = "Древний лишайник",
                     count = 51,
+                },
+                {
+                    link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
+                    name = "Ползучий кошмарник",
+                    count = 81,
                 },
                 {
                     link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
@@ -19105,7 +19145,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780050778,
+            last_update = 1780052027,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
