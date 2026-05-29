@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780027078
+ItemStorageDB_LastUpdate = 1780027108
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18540,7 +18540,7 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-27 10:07:57",
+        updated_at = "2026-05-29 06:58:28",
         money = 1153902,
         empty = 125,
         location = "Оргриммар",
@@ -18598,7 +18598,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
                 name = "Тонкая нить",
-                count = 40,
+                count = 37,
             },
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
@@ -18663,7 +18663,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7071:0:0:0:0:0:0:0:10|h[Железная скоба]|h|r",
                 name = "Железная скоба",
-                count = 44,
+                count = 43,
             },
             {
                 link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
@@ -18677,7 +18677,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779865670,
+            last_update = 1780027101,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18742,7 +18742,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779865671,
+            last_update = 1780027104,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18777,7 +18777,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
                     name = "Тонкая нить",
-                    count = 40,
+                    count = 37,
                 },
                 {
                     link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
@@ -18802,7 +18802,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7071:0:0:0:0:0:0:0:10|h[Железная скоба]|h|r",
                     name = "Железная скоба",
-                    count = 44,
+                    count = 43,
                 },
                 {
                     link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
