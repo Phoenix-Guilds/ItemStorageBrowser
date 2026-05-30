@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780125522
+ItemStorageDB_LastUpdate = 1780125599
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17683,9 +17683,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-29 22:38:41",
+        updated_at = "2026-05-30 10:19:59",
         money = 358852,
-        empty = 49,
+        empty = 50,
         location = "Оргриммар",
         items = {
             {
@@ -17716,11 +17716,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:14171:0:0:0:0:0:763:0:10|h[Штаны пирата со знаком совы]|h|r",
                 name = "Штаны пирата со знаком совы",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:14172:1891:0:0:0:0:851:0:10|h[Одеяния пирата со знаком орла]|h|r",
-                name = "Одеяния пирата со знаком орла",
                 count = 1,
             },
             {
@@ -18650,7 +18645,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780083502,
+            last_update = 1780125593,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14094:1892:0:0:0:0:754:0:10|h[Бисерная блуза со знаком совы]|h|r",
@@ -18680,11 +18675,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:14171:0:0:0:0:0:763:0:10|h[Штаны пирата со знаком совы]|h|r",
                     name = "Штаны пирата со знаком совы",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:14172:1891:0:0:0:0:851:0:10|h[Одеяния пирата со знаком орла]|h|r",
-                    name = "Одеяния пирата со знаком орла",
                     count = 1,
                 },
                 {
@@ -19350,7 +19340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780083505,
+            last_update = 1780125594,
             items = {
                 {
                     link = "|cff1eff00|Hitem:15211:20235:0:0:0:0:24:0:10|h[Короткий меч ополченца со знаком силы]|h|r",
