@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780166631
+ItemStorageDB_LastUpdate = 1780167626
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12848,9 +12848,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:22:16",
+        updated_at = "2026-05-30 22:00:26",
         money = 164134,
-        empty = 40,
+        empty = 41,
         location = "Оргриммар",
         items = {
             {
@@ -13939,11 +13939,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
-                name = "Рецепт: эликсир силы огра",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:6369:0:0:0:0:0:0:0:10|h[Рецепт: каменношкурая треска]|h|r",
                 name = "Рецепт: каменношкурая треска",
                 count = 1,
@@ -13960,7 +13955,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780125729,
+            last_update = 1780167561,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14768,11 +14763,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
-                    name = "Рецепт: эликсир силы огра",
-                    count = 1,
-                },
-                {
                     link = "|cffffffff|Hitem:6369:0:0:0:0:0:0:0:10|h[Рецепт: каменношкурая треска]|h|r",
                     name = "Рецепт: каменношкурая треска",
                     count = 1,
@@ -14790,7 +14780,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780125731,
+            last_update = 1780167610,
             items = {
                 {
                     link = "|cff0070dd|Hitem:15752:0:0:0:0:0:0:0:10|h[Выкройка: поножи жизни]|h|r",
