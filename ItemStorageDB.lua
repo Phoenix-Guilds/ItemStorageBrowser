@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780160652
+ItemStorageDB_LastUpdate = 1780161542
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8503,9 +8503,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:32:01",
+        updated_at = "2026-05-30 20:19:02",
         money = 208636,
-        empty = 55,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -8746,7 +8746,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                 name = "Большой флакон с лечебным зельем",
-                count = 166,
+                count = 150,
             },
             {
                 link = "|cffffffff|Hitem:39666:0:0:0:0:0:0:0:10|h[Мощный эликсир ловкости]|h|r",
@@ -8851,7 +8851,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4623:0:0:0:0:0:0:0:10|h[Простое зелье каменного щита]|h|r",
                 name = "Простое зелье каменного щита",
-                count = 33,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:5634:0:0:0:0:0:0:0:10|h[Зелье свободы действий]|h|r",
@@ -8916,17 +8916,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
                 name = "Сильный эликсир защиты",
-                count = 21,
+                count = 17,
             },
             {
                 link = "|cffffffff|Hitem:9030:0:0:0:0:0:0:0:10|h[Приводящее в сознание зелье]|h|r",
                 name = "Приводящее в сознание зелье",
                 count = 2,
-            },
-            {
-                link = "|cffffffff|Hitem:9036:0:0:0:0:0:0:0:10|h[Зелье защиты от магии]|h|r",
-                name = "Зелье защиты от магии",
-                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
@@ -8975,7 +8970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780126316,
+            last_update = 1780161360,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9230,7 +9225,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4623:0:0:0:0:0:0:0:10|h[Простое зелье каменного щита]|h|r",
                     name = "Простое зелье каменного щита",
-                    count = 33,
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:5634:0:0:0:0:0:0:0:10|h[Зелье свободы действий]|h|r",
@@ -9285,17 +9280,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
                     name = "Сильный эликсир защиты",
-                    count = 21,
+                    count = 17,
                 },
                 {
                     link = "|cffffffff|Hitem:9030:0:0:0:0:0:0:0:10|h[Приводящее в сознание зелье]|h|r",
                     name = "Приводящее в сознание зелье",
                     count = 2,
-                },
-                {
-                    link = "|cffffffff|Hitem:9036:0:0:0:0:0:0:0:10|h[Зелье защиты от магии]|h|r",
-                    name = "Зелье защиты от магии",
-                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
@@ -9340,7 +9330,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780126317,
+            last_update = 1780161381,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9425,7 +9415,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                     name = "Большой флакон с лечебным зельем",
-                    count = 166,
+                    count = 150,
                 },
                 {
                     link = "|cffffffff|Hitem:39671:0:0:0:0:0:0:0:10|h[Флакон с бодрящим лечебным зельем]|h|r",
