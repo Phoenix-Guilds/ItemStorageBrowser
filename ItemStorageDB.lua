@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780161819
+ItemStorageDB_LastUpdate = 1780162801
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7473,7 +7473,7 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:30:29",
+        updated_at = "2026-05-30 20:40:01",
         money = 0,
         empty = 197,
         location = "Оргриммар",
@@ -7565,7 +7565,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780126223,
+            last_update = 1780162778,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7613,11 +7613,6 @@ ItemStorageDB = {
                     count = 20,
                 },
                 {
-                    link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
-                    name = "Нежный черепаховый суп",
-                    count = 20,
-                },
-                {
                     link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
                     name = "Филе дракоперой рыбы-ангела",
                     count = 20,
@@ -7655,8 +7650,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780126225,
+            last_update = 1780162780,
             items = {
+                {
+                    link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
+                    name = "Нежный черепаховый суп",
+                    count = 20,
+                },
             },
         },
     },
