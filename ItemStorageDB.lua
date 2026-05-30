@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780125784
+ItemStorageDB_LastUpdate = 1780125807
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3673,9 +3673,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 14:58:57",
+        updated_at = "2026-05-30 10:23:27",
         money = 158410,
-        empty = 160,
+        empty = 161,
         location = "Оргриммар",
         items = {
             {
@@ -3716,11 +3716,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31186:0:0:0:0:0:0:0:10|h[Посох дремы Браксиса]|h|r",
                 name = "Посох дремы Браксиса",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
-                name = "Клинок Неутолимой Жажды",
                 count = 1,
             },
             {
@@ -3850,7 +3845,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779796731,
+            last_update = 1780125802,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3890,11 +3885,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31186:0:0:0:0:0:0:0:10|h[Посох дремы Браксиса]|h|r",
                     name = "Посох дремы Браксиса",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
-                    name = "Клинок Неутолимой Жажды",
                     count = 1,
                 },
                 {
@@ -4025,7 +4015,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779796733,
+            last_update = 1780125803,
             items = {
             },
         },
