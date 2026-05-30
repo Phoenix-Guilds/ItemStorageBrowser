@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780083521
+ItemStorageDB_LastUpdate = 1780108705
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7668,9 +7668,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 14:56:01",
+        updated_at = "2026-05-30 05:38:25",
         money = 0,
-        empty = 199,
+        empty = 196,
         location = "Оргриммар",
         items = {
             {
@@ -7724,6 +7724,11 @@ ItemStorageDB = {
                 count = 30,
             },
             {
+                link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
+                name = "Филе дракоперой рыбы-ангела",
+                count = 20,
+            },
+            {
                 link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
                 name = "Даларанская похлебка из моллюсков",
                 count = 8,
@@ -7736,7 +7741,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 50,
+                count = 56,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -7755,7 +7760,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779796555,
+            last_update = 1780108641,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7805,7 +7810,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
                     name = "Нежный черепаховый суп",
-                    count = 30,
+                    count = 20,
+                },
+                {
+                    link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
+                    name = "Филе дракоперой рыбы-ангела",
+                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
@@ -7820,7 +7830,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                     name = "Хрустящий хвост ящерицы",
-                    count = 50,
+                    count = 56,
                 },
                 {
                     link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -7840,8 +7850,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779796556,
+            last_update = 1780108643,
             items = {
+                {
+                    link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
+                    name = "Нежный черепаховый суп",
+                    count = 10,
+                },
             },
         },
     },
