@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780252574
+ItemStorageDB_LastUpdate = 1780256539
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12363,9 +12363,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:29:38",
+        updated_at = "2026-05-31 22:42:19",
         money = 385478,
-        empty = 91,
+        empty = 93,
         location = "Оргриммар",
         items = {
             {
@@ -12516,7 +12516,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
                 name = "Пыль духа",
-                count = 474,
+                count = 470,
             },
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -12591,7 +12591,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
                 name = "Этерниевый жезл",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:3371:0:0:0:0:0:0:0:10|h[Пустая колба]|h|r",
@@ -12601,7 +12601,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41745:0:0:0:0:0:0:0:10|h[Титановый жезл]|h|r",
                 name = "Титановый жезл",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
@@ -12615,7 +12615,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780126172,
+            last_update = 1780254695,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12765,7 +12765,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
                     name = "Пыль духа",
-                    count = 474,
+                    count = 450,
                 },
                 {
                     link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
@@ -12825,8 +12825,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780126174,
+            last_update = 1780254735,
             items = {
+                {
+                    link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
+                    name = "Пыль духа",
+                    count = 20,
+                },
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                     name = "Золотой жезл",
@@ -12855,12 +12860,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
                     name = "Этерниевый жезл",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:41745:0:0:0:0:0:0:0:10|h[Титановый жезл]|h|r",
                     name = "Титановый жезл",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
