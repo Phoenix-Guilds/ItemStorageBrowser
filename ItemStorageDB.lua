@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780212378
+ItemStorageDB_LastUpdate = 1780212425
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20538,9 +20538,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-31 10:02:45",
+        updated_at = "2026-05-31 10:27:05",
         money = 3936,
-        empty = 31,
+        empty = 30,
         location = "Оргриммар",
         items = {
             {
@@ -20776,7 +20776,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
                 name = "Наплеч Незримых",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
@@ -21230,7 +21230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780210935,
+            last_update = 1780212416,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21795,7 +21795,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780210953,
+            last_update = 1780212419,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21890,6 +21890,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
                     name = "Портупея волчьего страха",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
+                    name = "Наплеч Незримых",
                     count = 1,
                 },
                 {
