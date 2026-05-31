@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780212868
+ItemStorageDB_LastUpdate = 1780212915
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9443,7 +9443,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-31 10:15:25",
+        updated_at = "2026-05-31 10:35:15",
         money = 4062,
         empty = 88,
         location = "Оргриммар",
@@ -9506,12 +9506,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                 name = "Блестящая рыбья чешуя",
-                count = 91,
+                count = 92,
             },
             {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                 name = "Рыбий жир",
-                count = 73,
+                count = 78,
             },
             {
                 link = "|cffffffff|Hitem:18944:0:0:0:0:0:0:0:10|h[Чешуя пламезавра]|h|r",
@@ -9630,7 +9630,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780211717,
+            last_update = 1780212910,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9665,12 +9665,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                     name = "Блестящая рыбья чешуя",
-                    count = 91,
+                    count = 92,
                 },
                 {
                     link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                     name = "Рыбий жир",
-                    count = 73,
+                    count = 78,
                 },
                 {
                     link = "|cffffffff|Hitem:18944:0:0:0:0:0:0:0:10|h[Чешуя пламезавра]|h|r",
@@ -9790,7 +9790,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780211721,
+            last_update = 1780212911,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
