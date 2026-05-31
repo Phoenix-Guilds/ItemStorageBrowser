@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780211356
+ItemStorageDB_LastUpdate = 1780211419
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6783,9 +6783,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:28:48",
+        updated_at = "2026-05-31 10:10:19",
         money = 306084,
-        empty = 161,
+        empty = 159,
         location = "Оргриммар",
         items = {
             {
@@ -6831,7 +6831,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:15408:0:0:0:0:0:0:0:10|h[Толстая чешуя скорпида]|h|r",
                 name = "Толстая чешуя скорпида",
-                count = 20,
+                count = 45,
             },
             {
                 link = "|cffffffff|Hitem:15412:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракона]|h|r",
@@ -7041,7 +7041,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                 name = "Плотная кожа",
-                count = 432,
+                count = 461,
             },
             {
                 link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
@@ -7111,7 +7111,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
                 name = "Грубая кожа",
-                count = 272,
+                count = 323,
             },
             {
                 link = "|cffffffff|Hitem:8171:0:0:0:0:0:0:0:10|h[Грубая шкура]|h|r",
@@ -7125,7 +7125,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780126122,
+            last_update = 1780211413,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7145,7 +7145,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:15408:0:0:0:0:0:0:0:10|h[Толстая чешуя скорпида]|h|r",
                     name = "Толстая чешуя скорпида",
-                    count = 20,
+                    count = 45,
                 },
                 {
                     link = "|cffffffff|Hitem:15412:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракона]|h|r",
@@ -7300,7 +7300,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                     name = "Плотная кожа",
-                    count = 432,
+                    count = 461,
                 },
                 {
                     link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
@@ -7360,7 +7360,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
                     name = "Грубая кожа",
-                    count = 272,
+                    count = 323,
                 },
                 {
                     link = "|cffffffff|Hitem:8171:0:0:0:0:0:0:0:10|h[Грубая шкура]|h|r",
@@ -7375,7 +7375,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780126124,
+            last_update = 1780211415,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
