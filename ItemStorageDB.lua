@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780249480
+ItemStorageDB_LastUpdate = 1780249604
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:15:54",
+        updated_at = "2026-05-31 20:46:44",
         money = 92710,
-        empty = 63,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -2416,7 +2416,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -2751,7 +2751,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -3005,7 +3005,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780125346,
+            last_update = 1780249547,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3030,7 +3030,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                     name = "Топор геолога",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -3540,7 +3540,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780125349,
+            last_update = 1780249560,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3595,11 +3595,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
                     name = "Жезл антиподов",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                    name = "Массивная треугольная палица",
                     count = 1,
                 },
                 {
