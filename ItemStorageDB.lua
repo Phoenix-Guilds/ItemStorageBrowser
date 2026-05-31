@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780212729
+ItemStorageDB_LastUpdate = 1780212771
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15058,7 +15058,7 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:30:53",
+        updated_at = "2026-05-31 10:32:51",
         money = 4042,
         empty = 152,
         location = "Оргриммар",
@@ -15081,7 +15081,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                 name = "Молниевый угорь",
-                count = 13,
+                count = 22,
             },
             {
                 link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
@@ -15190,7 +15190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780126248,
+            last_update = 1780212766,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15210,7 +15210,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                     name = "Молниевый угорь",
-                    count = 13,
+                    count = 22,
                 },
                 {
                     link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
@@ -15320,7 +15320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780126250,
+            last_update = 1780212767,
             items = {
             },
         },
