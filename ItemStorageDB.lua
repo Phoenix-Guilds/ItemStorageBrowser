@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780212823
+ItemStorageDB_LastUpdate = 1780212868
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4633,9 +4633,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-31 10:12:03",
+        updated_at = "2026-05-31 10:34:28",
         money = 999680,
-        empty = 127,
+        empty = 126,
         location = "Оргриммар",
         items = {
             {
@@ -4711,7 +4711,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
                 name = "Жемчужина джаггала",
-                count = 11,
+                count = 12,
+            },
+            {
+                link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
+                name = "Сумрачная жемчужина",
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
@@ -4891,7 +4896,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 152,
+                count = 156,
             },
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -4935,7 +4940,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780211505,
+            last_update = 1780212855,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5150,7 +5155,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                     name = "Первородная вода",
-                    count = 152,
+                    count = 156,
                 },
                 {
                     link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -5190,7 +5195,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780211519,
+            last_update = 1780212863,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5205,7 +5210,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
                     name = "Жемчужина джаггала",
-                    count = 11,
+                    count = 12,
+                },
+                {
+                    link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
+                    name = "Сумрачная жемчужина",
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
