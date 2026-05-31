@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780211523
+ItemStorageDB_LastUpdate = 1780211621
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7473,9 +7473,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 20:40:01",
+        updated_at = "2026-05-31 10:13:41",
         money = 0,
-        empty = 197,
+        empty = 198,
         location = "Оргриммар",
         items = {
             {
@@ -7486,7 +7486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
                 name = "Копченые пустынные клецки",
-                count = 5,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:21151:0:0:0:0:0:0:0:10|h[Ром Ромси \"Черный ярлык\"]|h|r",
@@ -7521,11 +7521,6 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
                 name = "Стейк из черпорога",
-                count = 20,
-            },
-            {
-                link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
-                name = "Нежный черепаховый суп",
                 count = 20,
             },
             {
@@ -7565,7 +7560,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780162778,
+            last_update = 1780211614,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7575,7 +7570,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
                     name = "Копченые пустынные клецки",
-                    count = 5,
+                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:21151:0:0:0:0:0:0:0:10|h[Ром Ромси \"Черный ярлык\"]|h|r",
@@ -7650,13 +7645,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780162780,
+            last_update = 1780211616,
             items = {
-                {
-                    link = "|cffffffff|Hitem:3729:0:0:0:0:0:0:0:10|h[Нежный черепаховый суп]|h|r",
-                    name = "Нежный черепаховый суп",
-                    count = 20,
-                },
             },
         },
     },
