@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780211472
+ItemStorageDB_LastUpdate = 1780211523
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4633,9 +4633,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:30:05",
+        updated_at = "2026-05-31 10:12:03",
         money = 999680,
-        empty = 129,
+        empty = 127,
         location = "Оргриммар",
         items = {
             {
@@ -4796,7 +4796,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                 name = "Сердце дикой природы",
-                count = 112,
+                count = 113,
             },
             {
                 link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
@@ -4886,7 +4886,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
                 name = "Первородный воздух",
-                count = 100,
+                count = 102,
             },
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
@@ -4906,12 +4906,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
                 name = "Магическая сфера воды",
-                count = 10,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
                 name = "Дыхание ветра",
-                count = 50,
+                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
@@ -4935,7 +4935,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780126198,
+            last_update = 1780211505,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5060,7 +5060,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                     name = "Сердце дикой природы",
-                    count = 112,
+                    count = 113,
                 },
                 {
                     link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
@@ -5145,7 +5145,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
                     name = "Первородный воздух",
-                    count = 100,
+                    count = 102,
                 },
                 {
                     link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
@@ -5165,12 +5165,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
                     name = "Магическая сфера воды",
-                    count = 10,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
                     name = "Дыхание ветра",
-                    count = 50,
+                    count = 51,
                 },
                 {
                     link = "|cffffffff|Hitem:7972:0:0:0:0:0:0:0:10|h[Лимфа нежити]|h|r",
@@ -5190,7 +5190,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780126200,
+            last_update = 1780211519,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
