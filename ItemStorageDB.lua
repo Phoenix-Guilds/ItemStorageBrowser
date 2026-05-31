@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780236135
+ItemStorageDB_LastUpdate = 1780236171
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20202,7 +20202,7 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-31 10:37:57",
+        updated_at = "2026-05-31 17:02:51",
         money = 3936,
         empty = 28,
         location = "Оргриммар",
@@ -20894,7 +20894,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780213070,
+            last_update = 1780236163,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21459,7 +21459,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780213072,
+            last_update = 1780236166,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
