@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780212227
+ItemStorageDB_LastUpdate = 1780212340
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19068,11 +19068,16 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:23:53",
+        updated_at = "2026-05-31 10:25:40",
         money = 336703,
-        empty = 119,
+        empty = 118,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:14536:0:0:0:0:0:0:0:10|h[Костяной хауберк]|h|r",
+                name = "Костяной хауберк",
+                count = 1,
+            },
             {
                 link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
                 name = "Сапоги массового поражения",
@@ -19795,8 +19800,13 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780125828,
+            last_update = 1780212283,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:14536:0:0:0:0:0:0:0:10|h[Костяной хауберк]|h|r",
+                    name = "Костяной хауберк",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
                     name = "Сапоги массового поражения",
@@ -20520,7 +20530,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780125829,
+            last_update = 1780212336,
             items = {
             },
         },
