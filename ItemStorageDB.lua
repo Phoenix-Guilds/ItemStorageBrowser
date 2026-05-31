@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780236953
+ItemStorageDB_LastUpdate = 1780237313
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16008,9 +16008,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-31 17:13:38",
+        updated_at = "2026-05-31 17:21:53",
         money = 358852,
-        empty = 59,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -16441,11 +16441,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3202:927:0:0:0:0:0:0:10|h[Лесные кожаные наручи]|h|r",
                 name = "Лесные кожаные наручи",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:3206:20319:0:0:0:0:685:0:10|h[Кавалерийский двуручник со знаком тигра]|h|r",
-                name = "Кавалерийский двуручник со знаком тигра",
                 count = 1,
             },
             {
@@ -16915,7 +16910,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780236811,
+            last_update = 1780237296,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14094:1892:0:0:0:0:754:0:10|h[Бисерная блуза со знаком совы]|h|r",
@@ -17545,7 +17540,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780236811,
+            last_update = 1780237306,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14174:0:0:0:0:0:760:0:10|h[Сапоги пирата со знаком совы]|h|r",
@@ -17675,11 +17670,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3201:20319:0:0:0:0:687:0:10|h[Варварская секира со знаком тигра]|h|r",
                     name = "Варварская секира со знаком тигра",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:3206:20319:0:0:0:0:685:0:10|h[Кавалерийский двуручник со знаком тигра]|h|r",
-                    name = "Кавалерийский двуручник со знаком тигра",
                     count = 1,
                 },
                 {
