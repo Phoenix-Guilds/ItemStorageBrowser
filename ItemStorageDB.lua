@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780213030
+ItemStorageDB_LastUpdate = 1780213077
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20568,9 +20568,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-31 10:27:05",
+        updated_at = "2026-05-31 10:37:57",
         money = 3936,
-        empty = 30,
+        empty = 28,
         location = "Оргриммар",
         items = {
             {
@@ -20851,7 +20851,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
                 name = "Корона северного разбойника",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
@@ -21086,7 +21086,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                 name = "Сапоги тиноброда",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
@@ -21260,7 +21260,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780212416,
+            last_update = 1780213070,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21825,7 +21825,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780212419,
+            last_update = 1780213072,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21950,7 +21950,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
                     name = "Корона северного разбойника",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
@@ -22020,7 +22020,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                     name = "Сапоги тиноброда",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
