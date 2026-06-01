@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780339311
+ItemStorageDB_LastUpdate = 1780339429
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15178,7 +15178,7 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-01 21:41:51",
+        updated_at = "2026-06-01 21:43:49",
         money = 214291,
         empty = 167,
         location = "Оргриммар",
@@ -15381,7 +15381,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38967:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - ловкость IV]|h|r",
                 name = "Свиток чар для перчаток - ловкость IV",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:38968:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - интеллект V]|h|r",
@@ -15495,7 +15495,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780339293,
+            last_update = 1780339401,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15660,7 +15660,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780339303,
+            last_update = 1780339406,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38845:0:0:0:0:0:0:0:10|h[Свиток чар для двуручного оружия - импульс IV]|h|r",
@@ -15745,7 +15745,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:38967:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - ловкость IV]|h|r",
                     name = "Свиток чар для перчаток - ловкость IV",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:38968:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - интеллект V]|h|r",
