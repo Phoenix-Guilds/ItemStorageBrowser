@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780303427
+ItemStorageDB_LastUpdate = 1780303464
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1192,7 +1192,7 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-31 20:48:22",
+        updated_at = "2026-06-01 11:44:24",
         money = 92710,
         empty = 65,
         location = "Оргриммар",
@@ -1814,7 +1814,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780249667,
+            last_update = 1780303456,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -1904,7 +1904,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13018:0:0:0:0:0:0:0:10|h[Колун палача]|h|r",
                     name = "Колун палача",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
@@ -2349,7 +2349,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780249692,
+            last_update = 1780303457,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -2364,11 +2364,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
                     name = "Рыцарский щит Красной бороды",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13018:0:0:0:0:0:0:0:10|h[Колун палача]|h|r",
-                    name = "Колун палача",
                     count = 1,
                 },
                 {
