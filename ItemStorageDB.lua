@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780341153
+ItemStorageDB_LastUpdate = 1780343467
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3662,8 +3662,8 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:23:27",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-01 22:51:07",
         money = 158410,
         empty = 161,
         location = "Оргриммар",
@@ -3835,7 +3835,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780125802,
+            last_update = 1780343361,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3850,11 +3850,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
                     name = "Манускрипт страсти",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
-                    name = "Клинок невезения",
                     count = 1,
                 },
                 {
@@ -4005,8 +4000,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780125803,
+            last_update = 1780343445,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
+                    name = "Клинок невезения",
+                    count = 1,
+                },
             },
         },
     },
