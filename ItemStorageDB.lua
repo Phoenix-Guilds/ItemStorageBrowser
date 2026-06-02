@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780391663
+ItemStorageDB_LastUpdate = 1780392074
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6792,10 +6792,10 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-02 09:57:36",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-02 12:21:14",
         money = 206084,
-        empty = 170,
+        empty = 172,
         location = "Оргриммар",
         items = {
             {
@@ -6981,7 +6981,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
                 name = "Борейская кожа",
-                count = 415,
+                count = 315,
             },
             {
                 link = "|cffffffff|Hitem:34330:0:0:0:0:0:0:0:10|h[Накладки из толстой узловатой кожи]|h|r",
@@ -7135,7 +7135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780383448,
+            last_update = 1780392055,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7255,7 +7255,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
                     name = "Борейская кожа",
-                    count = 415,
+                    count = 315,
                 },
                 {
                     link = "|cffffffff|Hitem:38425:0:0:0:0:0:0:0:10|h[Толстая борейская кожа]|h|r",
@@ -7385,7 +7385,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780383451,
+            last_update = 1780392065,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
