@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780380416
+ItemStorageDB_LastUpdate = 1780380454
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9946,8 +9946,8 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-01 21:11:49",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-02 09:07:34",
         money = 3778,
         empty = 120,
         location = "Оргриммар",
@@ -10384,7 +10384,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780337438,
+            last_update = 1780380443,
             items = {
                 {
                     link = "|cff1eff00|Hitem:35955:0:0:0:0:0:-36:50:10|h[Далеченский пояс с меткой волшебника]|h|r",
@@ -10699,7 +10699,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780337499,
+            last_update = 1780380450,
             items = {
                 {
                     link = "|cff1eff00|Hitem:36487:0:0:0:0:0:-45:29:10|h[Утяжеленная камнем палица с меткой победителя]|h|r",
