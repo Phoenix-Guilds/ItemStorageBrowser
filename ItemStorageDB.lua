@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780394648
+ItemStorageDB_LastUpdate = 1780417541
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19912,9 +19912,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-02 08:59:23",
+        updated_at = "2026-06-02 19:25:41",
         money = 3936,
-        empty = 33,
+        empty = 34,
         location = "Оргриммар",
         items = {
             {
@@ -20428,11 +20428,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
-                name = "Эполеты лесного следопыта",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:2314:0:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
                 name = "Укрепленный кожаный доспех",
                 count = 2,
@@ -20594,7 +20589,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780379955,
+            last_update = 1780417247,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21154,7 +21149,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780379958,
+            last_update = 1780417255,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21345,11 +21340,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                     name = "Поножи некроманта",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
-                    name = "Эполеты лесного следопыта",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
