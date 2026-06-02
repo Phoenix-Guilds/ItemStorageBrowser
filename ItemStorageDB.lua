@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780418667
+ItemStorageDB_LastUpdate = 1780420433
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8482,8 +8482,8 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-02 12:44:28",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-02 20:13:53",
         money = 208636,
         empty = 63,
         location = "Оргриммар",
@@ -8521,7 +8521,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
                 name = "Наилучший эликсир защиты",
-                count = 68,
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
@@ -8536,7 +8536,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13452:0:0:0:0:0:0:0:10|h[Эликсир мангуста]|h|r",
                 name = "Эликсир мангуста",
-                count = 24,
+                count = 18,
             },
             {
                 link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
@@ -8945,7 +8945,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780393447,
+            last_update = 1780420414,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -8965,7 +8965,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
                     name = "Наилучший эликсир защиты",
-                    count = 68,
+                    count = 62,
                 },
                 {
                     link = "|cffffffff|Hitem:13447:0:0:0:0:0:0:0:10|h[Эликсир мудрецов]|h|r",
@@ -8975,7 +8975,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13452:0:0:0:0:0:0:0:10|h[Эликсир мангуста]|h|r",
                     name = "Эликсир мангуста",
-                    count = 24,
+                    count = 18,
                 },
                 {
                     link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
@@ -9305,7 +9305,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780393448,
+            last_update = 1780420418,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
