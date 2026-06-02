@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780383646
+ItemStorageDB_LastUpdate = 1780383670
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14417,7 +14417,7 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-31 10:32:51",
+        updated_at = "2026-06-02 10:01:10",
         money = 4042,
         empty = 152,
         location = "Оргриммар",
@@ -14465,7 +14465,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
                 name = "Сырой шалфокунь",
-                count = 28,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:41802:0:0:0:0:0:0:0:10|h[Королевский морской дьявол]|h|r",
@@ -14549,7 +14549,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780212766,
+            last_update = 1780383665,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -14594,7 +14594,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
                     name = "Сырой шалфокунь",
-                    count = 28,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:41802:0:0:0:0:0:0:0:10|h[Королевский морской дьявол]|h|r",
@@ -14679,7 +14679,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780212767,
+            last_update = 1780383666,
             items = {
             },
         },
