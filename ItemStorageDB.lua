@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780343467
+ItemStorageDB_LastUpdate = 1780379880
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8143,7 +8143,7 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-30 10:15:06",
+        updated_at = "2026-06-02 08:58:00",
         money = 391967,
         empty = 160,
         location = "Оргриммар",
@@ -8325,7 +8325,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780125300,
+            last_update = 1780379875,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8505,7 +8505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780125302,
+            last_update = 1780379876,
             items = {
             },
         },
