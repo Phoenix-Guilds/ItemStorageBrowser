@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780418505
+ItemStorageDB_LastUpdate = 1780418667
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5613,9 +5613,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-02 08:58:32",
+        updated_at = "2026-06-02 19:44:27",
         money = 421241,
-        empty = 60,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -5896,17 +5896,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
                 name = "Зернистое грузило",
-                count = 59,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:3241:0:0:0:0:0:0:0:10|h[Тяжелое грузило]|h|r",
                 name = "Тяжелое грузило",
                 count = 42,
-            },
-            {
-                link = "|cffffffff|Hitem:3470:0:0:0:0:0:0:0:10|h[Грубый шлифовальный камень]|h|r",
-                name = "Грубый шлифовальный камень",
-                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:3478:0:0:0:0:0:0:0:10|h[Зернистый шлифовальный камень]|h|r",
@@ -5955,7 +5950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780379906,
+            last_update = 1780418569,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6173,11 +6168,6 @@ ItemStorageDB = {
                     count = 451,
                 },
                 {
-                    link = "|cffffffff|Hitem:3470:0:0:0:0:0:0:0:10|h[Грубый шлифовальный камень]|h|r",
-                    name = "Грубый шлифовальный камень",
-                    count = 15,
-                },
-                {
                     link = "|cffffffff|Hitem:3478:0:0:0:0:0:0:0:10|h[Зернистый шлифовальный камень]|h|r",
                     name = "Зернистый шлифовальный камень",
                     count = 31,
@@ -6200,7 +6190,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780379907,
+            last_update = 1780418637,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6265,7 +6255,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
                     name = "Зернистое грузило",
-                    count = 59,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:3241:0:0:0:0:0:0:0:10|h[Тяжелое грузило]|h|r",
