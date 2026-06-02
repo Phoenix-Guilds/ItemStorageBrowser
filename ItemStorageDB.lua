@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1780383941
+ItemStorageDB_LastUpdate = 1780384295
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-02 10:02:44",
+        updated_at = "2026-06-02 10:11:35",
         money = 339404,
         empty = 108,
         location = "Оргриммар",
@@ -791,7 +791,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43386:0:0:0:0:0:0:0:10|h[Символ водного щита]|h|r",
                 name = "Символ водного щита",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
@@ -1190,7 +1190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780383754,
+            last_update = 1780384224,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1970,7 +1970,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43386:0:0:0:0:0:0:0:10|h[Символ водного щита]|h|r",
                     name = "Символ водного щита",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
@@ -2370,7 +2370,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780383756,
+            last_update = 1780384231,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
