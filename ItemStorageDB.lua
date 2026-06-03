@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780465122
+ItemStorageDB_LastUpdate = 1780465197
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4003,9 +4003,9 @@ ItemStorageDB = {
     {
         name = "Запределька",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-03 08:38:42",
+        updated_at = "2026-06-03 08:39:57",
         money = 13629,
-        empty = 151,
+        empty = 150,
         location = "Оргриммар",
         items = {
             {
@@ -4229,6 +4229,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:25226:0:0:0:0:0:-45:37:10|h[Коса с меткой победителя]|h|r",
+                name = "Коса с меткой победителя",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:25229:0:0:0:0:0:-41:41:10|h[Длинный протазан с меткой зверя]|h|r",
                 name = "Длинный протазан с меткой зверя",
                 count = 1,
@@ -4340,7 +4345,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780465117,
+            last_update = 1780465191,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10270:0:0:0:0:0:793:0:10|h[Сапоги искусной работы со знаком совы]|h|r",
@@ -4520,7 +4525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780465118,
+            last_update = 1780465193,
             items = {
                 {
                     link = "|cff1eff00|Hitem:25087:0:0:0:0:0:-36:21:10|h[Кровоточащее Око с меткой волшебника]|h|r",
@@ -4575,6 +4580,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:25215:0:0:0:0:0:-43:41:10|h[Шипастый боевой топор с меткой солдата]|h|r",
                     name = "Шипастый боевой топор с меткой солдата",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:25226:0:0:0:0:0:-45:37:10|h[Коса с меткой победителя]|h|r",
+                    name = "Коса с меткой победителя",
                     count = 1,
                 },
                 {
