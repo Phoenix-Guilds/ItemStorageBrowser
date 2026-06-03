@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780514271
+ItemStorageDB_LastUpdate = 1780517600
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7756,9 +7756,9 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        updated_at = 1780488543,
+        updated_at = 1780517563,
         money = 208636,
-        empty = 61,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -7834,7 +7834,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 151,
+                count = 136,
             },
             {
                 link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
@@ -7954,7 +7954,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
                 name = "Эликсир Защиты",
-                count = 87,
+                count = 85,
             },
             {
                 link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
@@ -7984,7 +7984,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                 name = "Зелье маны",
-                count = 23,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
