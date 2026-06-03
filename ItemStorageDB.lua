@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780464101
+ItemStorageDB_LastUpdate = 1780464135
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15197,8 +15197,8 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-02 12:14:23",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-03 08:22:15",
         money = 214291,
         empty = 168,
         location = "Оргриммар",
@@ -15311,7 +15311,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33458:0:0:0:0:0:0:0:10|h[Свиток интеллекта VI]|h|r",
                 name = "Свиток интеллекта VI",
-                count = 9,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:33460:0:0:0:0:0:0:0:10|h[Свиток духа VI]|h|r",
@@ -15515,7 +15515,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780391653,
+            last_update = 1780464129,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15605,7 +15605,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:33458:0:0:0:0:0:0:0:10|h[Свиток интеллекта VI]|h|r",
                     name = "Свиток интеллекта VI",
-                    count = 9,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:33460:0:0:0:0:0:0:0:10|h[Свиток духа VI]|h|r",
@@ -15680,7 +15680,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780391657,
+            last_update = 1780464131,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38845:0:0:0:0:0:0:0:10|h[Свиток чар для двуручного оружия - импульс IV]|h|r",
