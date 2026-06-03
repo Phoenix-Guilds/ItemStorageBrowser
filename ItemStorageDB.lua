@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780464831
+ItemStorageDB_LastUpdate = 1780464875
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12758,9 +12758,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-02 09:03:20",
+        updated_at = "2026-06-03 08:34:35",
         money = 164134,
-        empty = 43,
+        empty = 42,
         location = "Оргриммар",
         items = {
             {
@@ -13091,6 +13091,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13493:0:0:0:0:0:0:0:10|h[Рецепт: сильный чародейский эликсир]|h|r",
                 name = "Рецепт: сильный чародейский эликсир",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:14466:0:0:0:0:0:0:0:10|h[Выкройка: мундир из ледяной ткани]|h|r",
+                name = "Выкройка: мундир из ледяной ткани",
                 count = 1,
             },
             {
@@ -13855,7 +13860,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780380192,
+            last_update = 1780464868,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14685,7 +14690,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780380194,
+            last_update = 1780464870,
             items = {
                 {
                     link = "|cff0070dd|Hitem:15752:0:0:0:0:0:0:0:10|h[Выкройка: поножи жизни]|h|r",
@@ -14805,6 +14810,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12682:0:0:0:0:0:0:0:10|h[Чертеж: ториевая броня]|h|r",
                     name = "Чертеж: ториевая броня",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:14466:0:0:0:0:0:0:0:10|h[Выкройка: мундир из ледяной ткани]|h|r",
+                    name = "Выкройка: мундир из ледяной ткани",
                     count = 1,
                 },
                 {
