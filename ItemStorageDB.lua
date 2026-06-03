@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780464681
+ItemStorageDB_LastUpdate = 1780464719
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18158,7 +18158,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-03 08:24:52",
+        updated_at = "2026-06-03 08:31:59",
         money = 1005064,
         empty = 131,
         location = "Оргриммар",
@@ -18201,7 +18201,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                 name = "Горный серебряный шалфей",
-                count = 15,
+                count = 28,
             },
             {
                 link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -18216,7 +18216,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
                 name = "Сквернопля",
-                count = 153,
+                count = 183,
             },
             {
                 link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
@@ -18231,12 +18231,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
                 name = "Терошишка",
-                count = 104,
+                count = 125,
             },
             {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                 name = "Древний лишайник",
-                count = 51,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
@@ -18426,7 +18426,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                 name = "Пастушья сумка",
-                count = 115,
+                count = 117,
             },
             {
                 link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
@@ -18440,7 +18440,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780464281,
+            last_update = 1780464713,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18460,7 +18460,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                     name = "Горный серебряный шалфей",
-                    count = 15,
+                    count = 28,
                 },
                 {
                     link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -18475,7 +18475,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
                     name = "Сквернопля",
-                    count = 153,
+                    count = 183,
                 },
                 {
                     link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
@@ -18490,12 +18490,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
                     name = "Терошишка",
-                    count = 104,
+                    count = 125,
                 },
                 {
                     link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                     name = "Древний лишайник",
-                    count = 51,
+                    count = 53,
                 },
                 {
                     link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
@@ -18650,7 +18650,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                     name = "Пастушья сумка",
-                    count = 115,
+                    count = 117,
                 },
                 {
                     link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
@@ -18665,7 +18665,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780464287,
+            last_update = 1780464715,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
