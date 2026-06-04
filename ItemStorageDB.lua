@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780592089
+ItemStorageDB_LastUpdate = 1780592330
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21747,10 +21747,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:37:01",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-04 19:58:50",
         money = 194111,
-        empty = 106,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -22004,11 +22004,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:12052:0:0:0:0:0:0:0:10|h[Кольцо луны]|h|r",
-                name = "Кольцо луны",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:12055:0:0:0:0:0:0:0:10|h[Кольцо звездной пыли]|h|r",
                 name = "Кольцо звездной пыли",
                 count = 1,
@@ -22017,11 +22012,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:1996:0:0:0:0:0:0:0:10|h[Кольцо вуду]|h|r",
                 name = "Кольцо вуду",
                 count = 2,
-            },
-            {
-                link = "|cff1eff00|Hitem:20818:0:0:0:0:0:0:0:10|h[Элегантное серебряное кольцо]|h|r",
-                name = "Элегантное серебряное кольцо",
-                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20823:0:0:0:0:0:0:0:10|h[Мрачное кольцо]|h|r",
@@ -22126,7 +22116,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21934:0:0:0:0:0:0:0:10|h[Изысканное ожерелье тигрового глаза]|h|r",
                 name = "Изысканное ожерелье тигрового глаза",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:24074:0:0:0:0:0:0:0:10|h[Кровавое кольцо из оскверненного железа]|h|r",
@@ -22210,7 +22200,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780565802,
+            last_update = 1780592276,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22388,11 +22378,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:12052:0:0:0:0:0:0:0:10|h[Кольцо луны]|h|r",
-                    name = "Кольцо луны",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:12055:0:0:0:0:0:0:0:10|h[Кольцо звездной пыли]|h|r",
                     name = "Кольцо звездной пыли",
                     count = 1,
@@ -22401,11 +22386,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:1996:0:0:0:0:0:0:0:10|h[Кольцо вуду]|h|r",
                     name = "Кольцо вуду",
                     count = 2,
-                },
-                {
-                    link = "|cff1eff00|Hitem:20818:0:0:0:0:0:0:0:10|h[Элегантное серебряное кольцо]|h|r",
-                    name = "Элегантное серебряное кольцо",
-                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:20823:0:0:0:0:0:0:0:10|h[Мрачное кольцо]|h|r",
@@ -22540,7 +22520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780565810,
+            last_update = 1780592292,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22655,7 +22635,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21934:0:0:0:0:0:0:0:10|h[Изысканное ожерелье тигрового глаза]|h|r",
                     name = "Изысканное ожерелье тигрового глаза",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
