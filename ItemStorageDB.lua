@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780566609
+ItemStorageDB_LastUpdate = 1780566643
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15862,10 +15862,10 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-05-26 14:56:26",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-04 12:50:43",
         money = 4042,
-        empty = 154,
+        empty = 152,
         location = "Оргриммар",
         items = {
             {
@@ -15886,7 +15886,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                 name = "Молниевый угорь",
-                count = 13,
+                count = 22,
             },
             {
                 link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
@@ -15911,7 +15911,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
                 name = "Сырой шалфокунь",
-                count = 28,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:41802:0:0:0:0:0:0:0:10|h[Королевский морской дьявол]|h|r",
@@ -15966,7 +15966,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
                 name = "Сырая скользкокожая скумбрия",
-                count = 190,
+                count = 215,
             },
             {
                 link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
@@ -15976,7 +15976,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6361:0:0:0:0:0:0:0:10|h[Сырой радужный тунец]|h|r",
                 name = "Сырой радужный тунец",
-                count = 182,
+                count = 218,
             },
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
@@ -15995,7 +15995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1779796580,
+            last_update = 1780566628,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -16015,7 +16015,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                     name = "Молниевый угорь",
-                    count = 13,
+                    count = 22,
                 },
                 {
                     link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
@@ -16040,7 +16040,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
                     name = "Сырой шалфокунь",
-                    count = 28,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:41802:0:0:0:0:0:0:0:10|h[Королевский морской дьявол]|h|r",
@@ -16095,7 +16095,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
                     name = "Сырая скользкокожая скумбрия",
-                    count = 190,
+                    count = 215,
                 },
                 {
                     link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
@@ -16105,7 +16105,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6361:0:0:0:0:0:0:0:10|h[Сырой радужный тунец]|h|r",
                     name = "Сырой радужный тунец",
-                    count = 182,
+                    count = 218,
                 },
                 {
                     link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
@@ -16125,7 +16125,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1779796582,
+            last_update = 1780566630,
             items = {
             },
         },
