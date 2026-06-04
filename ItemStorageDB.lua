@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780606459
+ItemStorageDB_LastUpdate = 1780606647
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15222,17 +15222,12 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:55:48",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-04 23:57:27",
         money = 214291,
-        empty = 169,
+        empty = 171,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff0070dd|Hitem:38845:0:0:0:0:0:0:0:10|h[Свиток чар для двуручного оружия - импульс IV]|h|r",
-                name = "Свиток чар для двуручного оружия - импульс IV",
-                count = 1,
-            },
             {
                 link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
                 name = "Свиток чар для оружия - похищение жизни",
@@ -15286,11 +15281,6 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
                 name = "Свиток духа II",
-                count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
-                name = "Свиток силы II",
                 count = 1,
             },
             {
@@ -15535,7 +15525,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780566937,
+            last_update = 1780606545,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15575,11 +15565,6 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
                     name = "Свиток духа II",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
-                    name = "Свиток силы II",
                     count = 1,
                 },
                 {
@@ -15695,13 +15680,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780566939,
+            last_update = 1780606585,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:38845:0:0:0:0:0:0:0:10|h[Свиток чар для двуручного оружия - импульс IV]|h|r",
-                    name = "Свиток чар для двуручного оружия - импульс IV",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
                     name = "Свиток чар для оружия - похищение жизни",
