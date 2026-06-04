@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780606061
+ItemStorageDB_LastUpdate = 1780606141
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5707,8 +5707,8 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:35:03",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-04 23:49:01",
         money = 421241,
         empty = 60,
         location = "Оргриммар",
@@ -5976,12 +5976,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2863:0:0:0:0:0:0:0:10|h[Зернистое точило]|h|r",
                 name = "Зернистое точило",
-                count = 10,
+                count = 17,
             },
             {
                 link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
                 name = "Тяжелое точило",
-                count = 50,
+                count = 35,
             },
             {
                 link = "|cffffffff|Hitem:3239:0:0:0:0:0:0:0:10|h[Грубое грузило]|h|r",
@@ -6045,7 +6045,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780565691,
+            last_update = 1780606083,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6285,7 +6285,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780565693,
+            last_update = 1780606128,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6335,12 +6335,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2863:0:0:0:0:0:0:0:10|h[Зернистое точило]|h|r",
                     name = "Зернистое точило",
-                    count = 10,
+                    count = 17,
                 },
                 {
                     link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
                     name = "Тяжелое точило",
-                    count = 50,
+                    count = 35,
                 },
                 {
                     link = "|cffffffff|Hitem:3239:0:0:0:0:0:0:0:10|h[Грубое грузило]|h|r",
