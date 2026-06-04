@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780605369
+ItemStorageDB_LastUpdate = 1780605468
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20342,10 +20342,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:36:04",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-04 23:37:48",
         money = 3936,
-        empty = 32,
+        empty = 33,
         location = "Оргриммар",
         items = {
             {
@@ -20367,11 +20367,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
-                name = "Окованные серебром прочные ботинки",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -21020,7 +21015,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780565750,
+            last_update = 1780605415,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21580,7 +21575,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780565755,
+            last_update = 1780605441,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21591,11 +21586,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                     name = "Перчатки Волшебного кулака",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
-                    name = "Окованные серебром прочные ботинки",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
