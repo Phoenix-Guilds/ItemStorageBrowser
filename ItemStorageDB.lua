@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780636215
+ItemStorageDB_LastUpdate = 1780636256
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 08:03:29",
+        updated_at = "2026-06-05 08:10:56",
         money = 92710,
-        empty = 69,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -2406,7 +2406,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -2741,7 +2741,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -2771,7 +2771,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                 name = "Клык Боана",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
@@ -2995,7 +2995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780635800,
+            last_update = 1780636249,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3535,12 +3535,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780635804,
+            last_update = 1780636251,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                     name = "Эгида Штормграда",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
+                    name = "Топор геолога",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -3583,6 +3588,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
+                    name = "Массивная треугольная палица",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
                     name = "Кубок боли",
                     count = 1,
@@ -3590,6 +3600,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
+                    name = "Клык Боана",
                     count = 1,
                 },
                 {
