@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780636730
+ItemStorageDB_LastUpdate = 1780637097
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 08:10:56",
+        updated_at = "2026-06-05 08:24:57",
         money = 92710,
-        empty = 66,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -2486,7 +2486,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
                 name = "Сокрушитель Безеля",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
@@ -2631,7 +2631,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                 name = "Копейный щит Черепа",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
@@ -2995,7 +2995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780636249,
+            last_update = 1780636938,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3535,7 +3535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780636251,
+            last_update = 1780637091,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3558,6 +3558,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
+                    name = "Сокрушитель Безеля",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
                     count = 1,
@@ -3565,7 +3570,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                     name = "Копейный щит Черепа",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
