@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780690039
+ItemStorageDB_LastUpdate = 1780690317
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8632,8 +8632,8 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:52:14",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-05 23:11:57",
         money = 208636,
         empty = 62,
         location = "Оргриммар",
@@ -8671,7 +8671,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
                 name = "Наилучший эликсир защиты",
-                count = 62,
+                count = 52,
             },
             {
                 link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
@@ -8786,7 +8786,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:28104:0:0:0:0:0:0:0:10|h[Эликсир власти]|h|r",
                 name = "Эликсир власти",
-                count = 12,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:32067:0:0:0:0:0:0:0:10|h[Эликсир дренейской мудрости]|h|r",
@@ -9095,7 +9095,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780566721,
+            last_update = 1780690282,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9115,7 +9115,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
                     name = "Наилучший эликсир защиты",
-                    count = 62,
+                    count = 52,
                 },
                 {
                     link = "|cffffffff|Hitem:13447:0:0:0:0:0:0:0:10|h[Эликсир мудрецов]|h|r",
@@ -9190,7 +9190,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:28104:0:0:0:0:0:0:0:10|h[Эликсир власти]|h|r",
                     name = "Эликсир власти",
-                    count = 12,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:32067:0:0:0:0:0:0:0:10|h[Эликсир дренейской мудрости]|h|r",
@@ -9455,7 +9455,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780566727,
+            last_update = 1780690297,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
