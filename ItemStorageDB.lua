@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780634898
+ItemStorageDB_LastUpdate = 1780634935
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18102,10 +18102,10 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:48:49",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-05 07:48:55",
         money = 1005064,
-        empty = 131,
+        empty = 130,
         location = "Оргриммар",
         items = {
             {
@@ -18336,12 +18336,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                 name = "Масляный черноротик",
-                count = 87,
+                count = 88,
+            },
+            {
+                link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
+                name = "Огнеперый луциан",
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
-                count = 19,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
@@ -18385,7 +18390,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780566521,
+            last_update = 1780634928,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18610,7 +18615,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780566523,
+            last_update = 1780634930,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -18660,12 +18665,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                     name = "Масляный черноротик",
-                    count = 87,
+                    count = 88,
+                },
+                {
+                    link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
+                    name = "Огнеперый луциан",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                     name = "Масло черноротика",
-                    count = 19,
+                    count = 20,
                 },
             },
         },
