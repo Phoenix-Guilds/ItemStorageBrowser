@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780636256
+ItemStorageDB_LastUpdate = 1780636467
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18818,9 +18818,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 08:04:47",
+        updated_at = "2026-06-05 08:14:27",
         money = 336703,
-        empty = 111,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
@@ -19434,6 +19434,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:44672:0:0:0:0:0:-89:81:10|h[Наплеч тюленьего меха с меткой вора]|h|r",
+                name = "Наплеч тюленьего меха с меткой вора",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:44672:0:0:0:0:0:-90:81:10|h[Наплеч тюленьего меха с меткой некроманта]|h|r",
                 name = "Наплеч тюленьего меха с меткой некроманта",
                 count = 1,
@@ -19585,7 +19590,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780635880,
+            last_update = 1780636295,
             items = {
                 {
                     link = "|cff0070dd|Hitem:14536:0:0:0:0:0:0:0:10|h[Костяной хауберк]|h|r",
@@ -20198,6 +20203,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:44672:0:0:0:0:0:-89:81:10|h[Наплеч тюленьего меха с меткой вора]|h|r",
+                    name = "Наплеч тюленьего меха с меткой вора",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:44672:0:0:0:0:0:-90:81:10|h[Наплеч тюленьего меха с меткой некроманта]|h|r",
                     name = "Наплеч тюленьего меха с меткой некроманта",
                     count = 1,
@@ -20350,7 +20360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780635882,
+            last_update = 1780636461,
             items = {
             },
         },
