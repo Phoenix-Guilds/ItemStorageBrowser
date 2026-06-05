@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780635809
+ItemStorageDB_LastUpdate = 1780635853
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20333,9 +20333,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 23:37:48",
+        updated_at = "2026-06-05 08:04:13",
         money = 3936,
-        empty = 33,
+        empty = 32,
         location = "Оргриммар",
         items = {
             {
@@ -20849,6 +20849,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
+                name = "Эполеты лесного следопыта",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:2314:0:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
                 name = "Укрепленный кожаный доспех",
                 count = 2,
@@ -21005,7 +21010,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780605415,
+            last_update = 1780635846,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21565,7 +21570,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780605441,
+            last_update = 1780635849,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21750,6 +21755,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                     name = "Сапоги тиноброда",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
+                    name = "Эполеты лесного следопыта",
                     count = 1,
                 },
                 {
