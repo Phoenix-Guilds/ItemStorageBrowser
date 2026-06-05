@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780635773
+ItemStorageDB_LastUpdate = 1780635809
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 23:36:09",
+        updated_at = "2026-06-05 08:03:29",
         money = 92710,
-        empty = 71,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -2426,7 +2426,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                 name = "Лезвие бритвы",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
@@ -2906,7 +2906,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2164:0:0:0:0:0:0:0:10|h[Потрошитель]|h|r",
                 name = "Потрошитель",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:2243:0:0:0:0:0:0:0:10|h[Рука Эдварда Странного]|h|r",
@@ -2995,7 +2995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780605321,
+            last_update = 1780635800,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3535,12 +3535,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780605353,
+            last_update = 1780635804,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                     name = "Эгида Штормграда",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
+                    name = "Лезвие бритвы",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
@@ -3631,6 +3636,11 @@ ItemStorageDB = {
                     link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                     name = "Стена мертвых",
                     count = 2,
+                },
+                {
+                    link = "|cffa335ee|Hitem:2164:0:0:0:0:0:0:0:10|h[Потрошитель]|h|r",
+                    name = "Потрошитель",
+                    count = 1,
                 },
             },
         },
