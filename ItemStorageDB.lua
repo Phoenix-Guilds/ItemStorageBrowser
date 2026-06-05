@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780683082
+ItemStorageDB_LastUpdate = 1780683229
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11968,10 +11968,10 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 21:52:29",
+        updated_at = "2026-06-05 21:13:49",
         money = 13104,
         empty = 64,
-        location = "Оргриммар",
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -12165,7 +12165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780599116,
+            last_update = 1780565843,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12295,7 +12295,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780599130,
+            last_update = 1780683211,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
