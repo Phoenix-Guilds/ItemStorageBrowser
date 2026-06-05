@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1780683766
+ItemStorageDB_LastUpdate = 1780683922
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 23:54:19",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-05 21:25:22",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -651,7 +651,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42972:0:0:0:0:0:0:0:10|h[Символ коварного удара]|h|r",
                 name = "Символ коварного удара",
-                count = 12,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:42973:0:0:0:0:0:0:0:10|h[Символ мясорубки]|h|r",
@@ -1185,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780606446,
+            last_update = 1780683896,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1825,7 +1825,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42972:0:0:0:0:0:0:0:10|h[Символ коварного удара]|h|r",
                     name = "Символ коварного удара",
-                    count = 12,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:42973:0:0:0:0:0:0:0:10|h[Символ мясорубки]|h|r",
@@ -2360,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780606448,
+            last_update = 1780683902,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
