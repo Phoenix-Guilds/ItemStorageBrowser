@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780637732
+ItemStorageDB_LastUpdate = 1780683082
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5388,7 +5388,7 @@ ItemStorageDB = {
     {
         name = "Инженерная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:39:05",
+        updated_at = "2026-06-05 21:11:22",
         money = 16160,
         empty = 149,
         location = "Оргриммар",
@@ -5565,7 +5565,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780565937,
+            last_update = 1780683053,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5675,7 +5675,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4357:0:0:0:0:0:0:0:10|h[Грубое взрывчатое вещество]|h|r",
                     name = "Грубое взрывчатое вещество",
-                    count = 256,
+                    count = 250,
                 },
                 {
                     link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
@@ -5740,8 +5740,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780565938,
+            last_update = 1780683056,
             items = {
+                {
+                    link = "|cffffffff|Hitem:4357:0:0:0:0:0:0:0:10|h[Грубое взрывчатое вещество]|h|r",
+                    name = "Грубое взрывчатое вещество",
+                    count = 6,
+                },
             },
         },
     },
