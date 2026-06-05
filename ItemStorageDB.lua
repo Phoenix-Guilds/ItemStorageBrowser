@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780636467
+ItemStorageDB_LastUpdate = 1780636513
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11467,10 +11467,10 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:46:00",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-05 08:15:13",
         money = 13785,
-        empty = 109,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -11686,7 +11686,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:46324:0:0:0:0:0:-91:65:10|h[Спектральный коготь Гондрии с меткой стрелка]|h|r",
                 name = "Спектральный коготь Гондрии с меткой стрелка",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:46324:0:0:0:0:0:-92:65:10|h[Спектральный коготь Гондрии с меткой оруженосца]|h|r",
@@ -11710,7 +11710,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780566350,
+            last_update = 1780636494,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
@@ -11925,7 +11925,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:46324:0:0:0:0:0:-91:65:10|h[Спектральный коготь Гондрии с меткой стрелка]|h|r",
                     name = "Спектральный коготь Гондрии с меткой стрелка",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:46324:0:0:0:0:0:-92:65:10|h[Спектральный коготь Гондрии с меткой оруженосца]|h|r",
@@ -11950,7 +11950,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780566352,
+            last_update = 1780636509,
             items = {
             },
         },
