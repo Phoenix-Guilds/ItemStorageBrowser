@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780635924
+ItemStorageDB_LastUpdate = 1780636178
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21838,9 +21838,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 19:58:50",
+        updated_at = "2026-06-05 08:09:38",
         money = 194111,
-        empty = 109,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -21931,7 +21931,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
                 name = "Ожерелье Калисеи",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1015:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
@@ -22102,6 +22102,11 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:1996:0:0:0:0:0:0:0:10|h[Кольцо вуду]|h|r",
                 name = "Кольцо вуду",
                 count = 2,
+            },
+            {
+                link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
+                name = "Инкрустированное малахитом кольцо",
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20823:0:0:0:0:0:0:0:10|h[Мрачное кольцо]|h|r",
@@ -22290,7 +22295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780592276,
+            last_update = 1780636170,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22478,6 +22483,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
+                    name = "Инкрустированное малахитом кольцо",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:20823:0:0:0:0:0:0:0:10|h[Мрачное кольцо]|h|r",
                     name = "Мрачное кольцо",
                     count = 1,
@@ -22610,7 +22620,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780592292,
+            last_update = 1780636173,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22660,7 +22670,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
                     name = "Ожерелье Калисеи",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
