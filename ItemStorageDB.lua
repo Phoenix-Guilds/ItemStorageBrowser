@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780766641
+ItemStorageDB_LastUpdate = 1780768199
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20332,10 +20332,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 21:22:46",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-06 20:49:59",
         money = 3936,
-        empty = 30,
+        empty = 32,
         location = "Оргриммар",
         items = {
             {
@@ -20391,7 +20391,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                 name = "Набедренники Снопевца",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -20401,7 +20401,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
                 name = "Наручи Йоргена",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -21000,7 +21000,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780683741,
+            last_update = 1780768010,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21050,7 +21050,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                     name = "Набедренники Снопевца",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -21555,7 +21555,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780683758,
+            last_update = 1780768036,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21580,11 +21580,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
                     name = "Отделанный серебром пояс",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
-                    name = "Наручи Йоргена",
                     count = 1,
                 },
                 {
