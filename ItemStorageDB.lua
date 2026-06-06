@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1780766491
+ItemStorageDB_LastUpdate = 1780766621
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 21:25:22",
+        updated_at = "2026-06-06 20:23:41",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -486,7 +486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42898:0:0:0:0:0:0:0:10|h[Символ чародейского выстрела]|h|r",
                 name = "Символ чародейского выстрела",
-                count = 13,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
@@ -551,7 +551,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42912:0:0:0:0:0:0:0:10|h[Символ укуса змеи]|h|r",
                 name = "Символ укуса змеи",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:42914:0:0:0:0:0:0:0:10|h[Символ верного выстрела]|h|r",
@@ -706,12 +706,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
                 name = "Символ ложной смерти",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:43359:0:0:0:0:0:0:0:10|h[Символ морозного доспеха]|h|r",
@@ -1185,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780683896,
+            last_update = 1780766579,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1660,7 +1660,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42898:0:0:0:0:0:0:0:10|h[Символ чародейского выстрела]|h|r",
                     name = "Символ чародейского выстрела",
-                    count = 13,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
@@ -1725,7 +1725,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42912:0:0:0:0:0:0:0:10|h[Символ укуса змеи]|h|r",
                     name = "Символ укуса змеи",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:42914:0:0:0:0:0:0:0:10|h[Символ верного выстрела]|h|r",
@@ -1880,12 +1880,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                     name = "Символ лечения питомца",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
                     name = "Символ ложной смерти",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43359:0:0:0:0:0:0:0:10|h[Символ морозного доспеха]|h|r",
@@ -2360,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780683902,
+            last_update = 1780766588,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
