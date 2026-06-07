@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780855554
+ItemStorageDB_LastUpdate = 1780855620
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21413,9 +21413,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-06 20:54:07",
+        updated_at = "2026-06-07 21:07:00",
         money = 194111,
-        empty = 108,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -21721,7 +21721,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
                 name = "Подвеска Агатового Щита",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
@@ -21865,7 +21865,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780768267,
+            last_update = 1780855587,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22185,7 +22185,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780768289,
+            last_update = 1780855601,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22280,7 +22280,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
                     name = "Подвеска Агатового Щита",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
