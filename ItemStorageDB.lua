@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780855079
+ItemStorageDB_LastUpdate = 1780855376
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19943,9 +19943,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-06 20:49:59",
+        updated_at = "2026-06-07 21:02:56",
         money = 3936,
-        empty = 32,
+        empty = 35,
         location = "Оргриммар",
         items = {
             {
@@ -20211,7 +20211,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
                 name = "Корона северного разбойника",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
@@ -20411,7 +20411,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                 name = "Двойной мундир",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
@@ -20534,11 +20534,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
-                name = "Ремень силы голема",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
                 name = "Забытые напульсники",
                 count = 2,
@@ -20610,7 +20605,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780768010,
+            last_update = 1780855250,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21010,7 +21005,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                     name = "Двойной мундир",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
@@ -21098,11 +21093,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
-                    name = "Ремень силы голема",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
                     name = "Забытые напульсники",
                     count = 2,
@@ -21165,7 +21155,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780768036,
+            last_update = 1780855280,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21275,7 +21265,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
                     name = "Корона северного разбойника",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
