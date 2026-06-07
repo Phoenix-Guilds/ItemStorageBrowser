@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780860679
+ItemStorageDB_LastUpdate = 1780865160
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9137,10 +9137,10 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-07 20:57:59",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-07 23:46:00",
         money = 4062,
-        empty = 89,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -9166,7 +9166,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 40,
+                count = 39,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -9325,7 +9325,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780854970,
+            last_update = 1780865021,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9485,7 +9485,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780854987,
+            last_update = 1780865049,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
@@ -9500,7 +9500,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 40,
+                    count = 39,
                 },
                 {
                     link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
