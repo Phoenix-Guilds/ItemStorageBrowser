@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780891402
+ItemStorageDB_LastUpdate = 1780891438
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4758,9 +4758,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-08 06:53:24",
+        updated_at = "2026-06-08 07:03:58",
         money = 999680,
-        empty = 124,
+        empty = 123,
         location = "Оргриммар",
         items = {
             {
@@ -4886,7 +4886,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                 name = "Маленькая блестящая жемчужина",
-                count = 65,
+                count = 66,
             },
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
@@ -4941,7 +4941,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22573:0:0:0:0:0:0:0:10|h[Частица Земли]|h|r",
                 name = "Частица Земли",
-                count = 42,
+                count = 92,
             },
             {
                 link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
@@ -5065,7 +5065,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780890797,
+            last_update = 1780891433,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5205,7 +5205,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22573:0:0:0:0:0:0:0:10|h[Частица Земли]|h|r",
                     name = "Частица Земли",
-                    count = 42,
+                    count = 92,
                 },
                 {
                     link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
@@ -5320,7 +5320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780890799,
+            last_update = 1780891434,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5350,7 +5350,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                     name = "Маленькая блестящая жемчужина",
-                    count = 65,
+                    count = 66,
                 },
                 {
                     link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
