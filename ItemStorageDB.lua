@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780891438
+ItemStorageDB_LastUpdate = 1780891470
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7183,7 +7183,7 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-06 20:24:01",
+        updated_at = "2026-06-08 07:04:30",
         money = 0,
         empty = 199,
         location = "Оргриммар",
@@ -7219,6 +7219,11 @@ ItemStorageDB = {
                 count = 8,
             },
             {
+                link = "|cffffffff|Hitem:27658:0:0:0:0:0:0:0:10|h[Жареное мясо копытня]|h|r",
+                name = "Жареное мясо копытня",
+                count = 37,
+            },
+            {
                 link = "|cffffffff|Hitem:27659:0:0:0:0:0:0:0:10|h[Котлета из прыгуаны]|h|r",
                 name = "Котлета из прыгуаны",
                 count = 7,
@@ -7231,7 +7236,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
                 name = "Стейк из черпорога",
-                count = 20,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
@@ -7251,7 +7256,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 56,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -7270,7 +7275,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780766482,
+            last_update = 1780891463,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7303,6 +7308,11 @@ ItemStorageDB = {
                     count = 8,
                 },
                 {
+                    link = "|cffffffff|Hitem:27658:0:0:0:0:0:0:0:10|h[Жареное мясо копытня]|h|r",
+                    name = "Жареное мясо копытня",
+                    count = 37,
+                },
+                {
                     link = "|cffffffff|Hitem:27659:0:0:0:0:0:0:0:10|h[Котлета из прыгуаны]|h|r",
                     name = "Котлета из прыгуаны",
                     count = 7,
@@ -7315,7 +7325,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
                     name = "Стейк из черпорога",
-                    count = 20,
+                    count = 40,
                 },
                 {
                     link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
@@ -7335,7 +7345,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                     name = "Хрустящий хвост ящерицы",
-                    count = 42,
+                    count = 29,
                 },
                 {
                     link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -7355,13 +7365,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780766484,
+            last_update = 1780891465,
             items = {
-                {
-                    link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
-                    name = "Хрустящий хвост ящерицы",
-                    count = 14,
-                },
             },
         },
     },
