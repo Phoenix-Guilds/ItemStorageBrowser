@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780891274
+ItemStorageDB_LastUpdate = 1780891320
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12473,9 +12473,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 07:59:19",
+        updated_at = "2026-06-08 07:02:00",
         money = 164134,
-        empty = 49,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -12526,6 +12526,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:23802:0:0:0:0:0:0:0:10|h[Схема: узорчатая кориевая винтовка]|h|r",
                 name = "Схема: узорчатая кориевая винтовка",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:24170:0:0:0:0:0:0:0:10|h[Эскиз: объятия рассвета]|h|r",
+                name = "Эскиз: объятия рассвета",
                 count = 1,
             },
             {
@@ -13540,7 +13545,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780635550,
+            last_update = 1780891312,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14370,8 +14375,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780635553,
+            last_update = 1780891315,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:24170:0:0:0:0:0:0:0:10|h[Эскиз: объятия рассвета]|h|r",
+                    name = "Эскиз: объятия рассвета",
+                    count = 1,
+                },
                 {
                     link = "|cff1eff00|Hitem:10300:0:0:0:0:0:0:0:10|h[Выкройка: красный жилет из магической ткани]|h|r",
                     name = "Выкройка: красный жилет из магической ткани",
