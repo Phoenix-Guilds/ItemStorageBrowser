@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1780939462
+ItemStorageDB_LastUpdate = 1780945612
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-06 20:23:41",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-08 22:06:52",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -956,7 +956,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43725:0:0:0:0:0:0:0:10|h[Символ призрачного волка]|h|r",
                 name = "Символ призрачного волка",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:43868:0:0:0:0:0:0:0:10|h[Символ печати праведности]|h|r",
@@ -1106,7 +1106,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45778:0:0:0:0:0:0:0:10|h[Символ тотема каменного когтя]|h|r",
                 name = "Символ тотема каменного когтя",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:45780:0:0:0:0:0:0:0:10|h[Символ метаморфозы]|h|r",
@@ -1185,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780766579,
+            last_update = 1780945396,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2130,7 +2130,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43725:0:0:0:0:0:0:0:10|h[Символ призрачного волка]|h|r",
                     name = "Символ призрачного волка",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:43868:0:0:0:0:0:0:0:10|h[Символ печати праведности]|h|r",
@@ -2280,7 +2280,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:45778:0:0:0:0:0:0:0:10|h[Символ тотема каменного когтя]|h|r",
                     name = "Символ тотема каменного когтя",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:45780:0:0:0:0:0:0:0:10|h[Символ метаморфозы]|h|r",
@@ -2360,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780766588,
+            last_update = 1780945410,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
