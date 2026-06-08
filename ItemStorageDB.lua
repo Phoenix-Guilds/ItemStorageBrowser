@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780891320
+ItemStorageDB_LastUpdate = 1780891358
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9157,8 +9157,8 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-07 23:46:00",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-08 07:02:38",
         money = 4062,
         empty = 90,
         location = "Оргриммар",
@@ -9311,7 +9311,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:30810:0:0:0:0:0:0:0:10|h[Перстень Ярости Солнца]|h|r",
                 name = "Перстень Ярости Солнца",
-                count = 7,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
@@ -9345,7 +9345,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780865021,
+            last_update = 1780891352,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9470,7 +9470,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:30810:0:0:0:0:0:0:0:10|h[Перстень Ярости Солнца]|h|r",
                     name = "Перстень Ярости Солнца",
-                    count = 7,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
@@ -9505,7 +9505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780865049,
+            last_update = 1780891354,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
