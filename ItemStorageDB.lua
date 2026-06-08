@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780890889
+ItemStorageDB_LastUpdate = 1780891043
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,7 +2373,7 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-07 21:05:54",
+        updated_at = "2026-06-08 06:57:23",
         money = 92710,
         empty = 66,
         location = "Оргриммар",
@@ -2995,7 +2995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780855407,
+            last_update = 1780891035,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3040,7 +3040,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                     name = "Лезвие бритвы",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
@@ -3535,7 +3535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780855428,
+            last_update = 1780891038,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3545,11 +3545,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                     name = "Топор геолога",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
-                    name = "Лезвие бритвы",
                     count = 1,
                 },
                 {
