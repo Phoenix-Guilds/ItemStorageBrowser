@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1780986832
+ItemStorageDB_LastUpdate = 1780986918
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11987,11 +11987,11 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 21:13:49",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-09 09:35:18",
         money = 13104,
         empty = 64,
-        location = "",
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -12176,7 +12176,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4406:0:0:0:0:0:0:0:10|h[Обычный прицел]|h|r",
                 name = "Обычный прицел",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:44739:0:0:0:0:0:0:0:10|h[Рефракторный прицел с бриллиантовой огранкой]|h|r",
@@ -12185,7 +12185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780565843,
+            last_update = 1780522792,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12315,7 +12315,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780683211,
+            last_update = 1780986872,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -12375,7 +12375,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4406:0:0:0:0:0:0:0:10|h[Обычный прицел]|h|r",
                     name = "Обычный прицел",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:44739:0:0:0:0:0:0:0:10|h[Рефракторный прицел с бриллиантовой огранкой]|h|r",
