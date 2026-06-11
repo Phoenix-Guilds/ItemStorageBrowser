@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781209165
+ItemStorageDB_LastUpdate = 1781209229
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11978,9 +11978,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-09 09:35:18",
+        updated_at = "2026-06-11 23:20:29",
         money = 13104,
-        empty = 64,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -12066,7 +12066,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -12141,7 +12141,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
                 name = "Гроза",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
@@ -12156,7 +12156,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
                 name = "Снайперский прицел",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:4405:0:0:0:0:0:0:0:10|h[Кустарный прицел]|h|r",
@@ -12175,7 +12175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780522792,
+            last_update = 1781209224,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12255,7 +12255,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                     name = "Пугач маленького Тимми",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -12295,7 +12295,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
                     name = "Гроза",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
@@ -12305,7 +12305,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780986872,
+            last_update = 1781209224,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -12355,7 +12355,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
                     name = "Снайперский прицел",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:4405:0:0:0:0:0:0:0:10|h[Кустарный прицел]|h|r",
