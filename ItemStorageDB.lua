@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781208357
+ItemStorageDB_LastUpdate = 1781209007
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18298,9 +18298,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 07:48:55",
+        updated_at = "2026-06-11 23:16:47",
         money = 1005064,
-        empty = 130,
+        empty = 132,
         location = "Оргриммар",
         items = {
             {
@@ -18356,7 +18356,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
                 name = "Сквернопля",
-                count = 183,
+                count = 133,
             },
             {
                 link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
@@ -18371,7 +18371,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
                 name = "Терошишка",
-                count = 125,
+                count = 75,
             },
             {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
@@ -18585,7 +18585,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780634928,
+            last_update = 1781208858,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18620,7 +18620,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
                     name = "Сквернопля",
-                    count = 183,
+                    count = 133,
                 },
                 {
                     link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
@@ -18635,7 +18635,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
                     name = "Терошишка",
-                    count = 125,
+                    count = 75,
                 },
                 {
                     link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
@@ -18810,7 +18810,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780634930,
+            last_update = 1781208868,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
