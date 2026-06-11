@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781151183
+ItemStorageDB_LastUpdate = 1781151243
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4757,8 +4757,8 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-09 15:25:34",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-11 07:14:03",
         money = 999680,
         empty = 124,
         location = "Оргриммар",
@@ -5021,7 +5021,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 156,
+                count = 157,
             },
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -5065,7 +5065,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781007907,
+            last_update = 1781151235,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5280,7 +5280,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                     name = "Первородная вода",
-                    count = 156,
+                    count = 157,
                 },
                 {
                     link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -5320,7 +5320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781007926,
+            last_update = 1781151238,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
