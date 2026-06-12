@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781295015
+ItemStorageDB_LastUpdate = 1781295111
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7613,7 +7613,7 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-09 08:59:30",
+        updated_at = "2026-06-12 23:11:51",
         money = 0,
         empty = 199,
         location = "Оргриммар",
@@ -7705,7 +7705,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780984764,
+            last_update = 1781295083,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7780,7 +7780,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                     name = "Отварные мидии",
-                    count = 77,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
@@ -7795,8 +7795,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780984766,
+            last_update = 1781295089,
             items = {
+                {
+                    link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
+                    name = "Отварные мидии",
+                    count = 27,
+                },
             },
         },
     },
