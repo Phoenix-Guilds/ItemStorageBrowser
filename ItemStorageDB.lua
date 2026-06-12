@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781209479
+ItemStorageDB_LastUpdate = 1781294075
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17638,9 +17638,9 @@ ItemStorageDB = {
     {
         name = "Сумчатая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-09 09:07:51",
+        updated_at = "2026-06-12 22:54:35",
         money = 9245,
-        empty = 56,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -17689,18 +17689,13 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffffffff|Hitem:1685:0:0:0:0:0:0:0:10|h[Сумка из шкуры тролля]|h|r",
-                name = "Сумка из шкуры тролля",
-                count = 2,
-            },
-            {
                 link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
                 name = "Заплечный мешок подмастерья",
-                count = 3,
+                count = 1,
             },
         },
         bank = {
-            last_update = 1780985243,
+            last_update = 1781293890,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
@@ -17748,19 +17743,14 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:1685:0:0:0:0:0:0:0:10|h[Сумка из шкуры тролля]|h|r",
-                    name = "Сумка из шкуры тролля",
-                    count = 2,
-                },
-                {
                     link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
                     name = "Заплечный мешок подмастерья",
-                    count = 3,
+                    count = 1,
                 },
             },
         },
         bags = {
-            last_update = 1780985253,
+            last_update = 1781293908,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
