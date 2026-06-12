@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781294462
+ItemStorageDB_LastUpdate = 1781294622
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5753,9 +5753,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-11 07:15:35",
+        updated_at = "2026-06-12 23:03:42",
         money = 421241,
-        empty = 58,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -6041,7 +6041,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
                 name = "Зернистое грузило",
-                count = 57,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:3241:0:0:0:0:0:0:0:10|h[Тяжелое грузило]|h|r",
@@ -6090,7 +6090,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781151328,
+            last_update = 1781294602,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6330,7 +6330,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781151330,
+            last_update = 1781294604,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6400,7 +6400,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
                     name = "Зернистое грузило",
-                    count = 57,
+                    count = 40,
                 },
                 {
                     link = "|cffffffff|Hitem:3241:0:0:0:0:0:0:0:10|h[Тяжелое грузило]|h|r",
