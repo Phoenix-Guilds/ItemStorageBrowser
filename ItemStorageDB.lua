@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781381926
+ItemStorageDB_LastUpdate = 1781383410
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15298,9 +15298,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-12 23:10:15",
+        updated_at = "2026-06-13 23:43:30",
         money = 214291,
-        empty = 172,
+        empty = 174,
         location = "Оргриммар",
         items = {
             {
@@ -15311,7 +15311,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:38992:0:0:0:0:0:0:0:10|h[Свиток чар для двуручного оружия - свирепость II]|h|r",
                 name = "Свиток чар для двуручного оружия - свирепость II",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:44453:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - могущество II]|h|r",
@@ -15347,11 +15347,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:1477:0:0:0:0:0:0:0:10|h[Свиток ловкости II]|h|r",
                 name = "Свиток ловкости II",
                 count = 25,
-            },
-            {
-                link = "|cffffffff|Hitem:1478:0:0:0:0:0:0:0:10|h[Охранный свиток II]|h|r",
-                name = "Охранный свиток II",
-                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
@@ -15571,7 +15566,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44457:0:0:0:0:0:0:0:10|h[Свиток чар для плаща - ловкость V]|h|r",
                 name = "Свиток чар для плаща - ловкость V",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:44458:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - крушитель]|h|r",
@@ -15595,7 +15590,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781294832,
+            last_update = 1781383375,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15626,11 +15621,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:1477:0:0:0:0:0:0:0:10|h[Свиток ловкости II]|h|r",
                     name = "Свиток ловкости II",
                     count = 25,
-                },
-                {
-                    link = "|cffffffff|Hitem:1478:0:0:0:0:0:0:0:10|h[Охранный свиток II]|h|r",
-                    name = "Охранный свиток II",
-                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
@@ -15750,7 +15740,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781294994,
+            last_update = 1781383396,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -15760,7 +15750,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:38992:0:0:0:0:0:0:0:10|h[Свиток чар для двуручного оружия - свирепость II]|h|r",
                     name = "Свиток чар для двуручного оружия - свирепость II",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:44453:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - могущество II]|h|r",
@@ -15875,7 +15865,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:44457:0:0:0:0:0:0:0:10|h[Свиток чар для плаща - ловкость V]|h|r",
                     name = "Свиток чар для плаща - ловкость V",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:44458:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - крушитель]|h|r",
