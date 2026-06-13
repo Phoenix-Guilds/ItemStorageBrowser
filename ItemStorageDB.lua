@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781383973
+ItemStorageDB_LastUpdate = 1781384037
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7608,7 +7608,7 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-12 23:11:51",
+        updated_at = "2026-06-13 23:53:57",
         money = 0,
         empty = 199,
         location = "Оргриммар",
@@ -7686,7 +7686,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
-                count = 77,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
@@ -7700,7 +7700,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781295083,
+            last_update = 1781384013,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7770,7 +7770,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                     name = "Хрустящий хвост ящерицы",
-                    count = 29,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -7790,12 +7790,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781295089,
+            last_update = 1781384014,
             items = {
                 {
-                    link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
-                    name = "Отварные мидии",
-                    count = 27,
+                    link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
+                    name = "Хрустящий хвост ящерицы",
+                    count = 16,
                 },
             },
         },
