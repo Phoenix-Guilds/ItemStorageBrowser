@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1781369356
+ItemStorageDB_LastUpdate = 1781369511
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-13 19:30:23",
+        updated_at = "2026-06-13 19:51:51",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -496,7 +496,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                 name = "Символ лечения",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -706,7 +706,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
@@ -1185,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781368189,
+            last_update = 1781369437,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1670,7 +1670,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                     name = "Символ лечения",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -1880,7 +1880,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                     name = "Символ лечения питомца",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
@@ -2360,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781368213,
+            last_update = 1781369449,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
