@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781431324
+ItemStorageDB_LastUpdate = 1781432128
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21843,9 +21843,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-11 23:23:54",
+        updated_at = "2026-06-14 13:15:28",
         money = 194111,
-        empty = 102,
+        empty = 105,
         location = "Оргриммар",
         items = {
             {
@@ -22211,12 +22211,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21764:0:0:0:0:0:0:0:10|h[Рубиновая подвеска огня]|h|r",
                 name = "Рубиновая подвеска огня",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:21765:0:0:0:0:0:0:0:10|h[Целительное кольцо из истинного серебра]|h|r",
                 name = "Целительное кольцо из истинного серебра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:21767:0:0:0:0:0:0:0:10|h[Простое опаловое кольцо]|h|r",
@@ -22284,11 +22284,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:7553:0:0:0:0:0:0:0:10|h[Кольцо единорога]|h|r",
-                name = "Кольцо единорога",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
                 name = "Гирлянда из лилий",
                 count = 2,
@@ -22325,7 +22320,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781209428,
+            last_update = 1781432121,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22590,7 +22585,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21765:0:0:0:0:0:0:0:10|h[Целительное кольцо из истинного серебра]|h|r",
                     name = "Целительное кольцо из истинного серебра",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:21767:0:0:0:0:0:0:0:10|h[Простое опаловое кольцо]|h|r",
@@ -22648,11 +22643,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:7553:0:0:0:0:0:0:0:10|h[Кольцо единорога]|h|r",
-                    name = "Кольцо единорога",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
                     name = "Кольцо спасителей",
                     count = 3,
@@ -22675,7 +22665,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781209428,
+            last_update = 1781432123,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22780,7 +22770,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21764:0:0:0:0:0:0:0:10|h[Рубиновая подвеска огня]|h|r",
                     name = "Рубиновая подвеска огня",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:21790:0:0:0:0:0:0:0:10|h[Сапфировая подвеска зимней ночи]|h|r",
