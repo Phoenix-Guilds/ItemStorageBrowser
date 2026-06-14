@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781468651
+ItemStorageDB_LastUpdate = 1781468760
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-13 12:06:28",
+        updated_at = "2026-06-14 23:26:00",
         money = 92710,
-        empty = 65,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -2749,11 +2749,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                name = "Массивная треугольная палица",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
                 name = "Кубок боли",
                 count = 3,
@@ -3005,7 +3000,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781341538,
+            last_update = 1781468684,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3328,11 +3323,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                    name = "Массивная треугольная палица",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
                     name = "Кубок боли",
                     count = 2,
@@ -3545,7 +3535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781341579,
+            last_update = 1781468704,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
