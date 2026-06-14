@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781444145
+ItemStorageDB_LastUpdate = 1781468651
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20408,9 +20408,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-14 12:20:48",
+        updated_at = "2026-06-14 23:24:11",
         money = 3936,
-        empty = 40,
+        empty = 41,
         location = "Оргриммар",
         items = {
             {
@@ -20681,7 +20681,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
                 name = "Искрящееся оплечье",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
@@ -21055,7 +21055,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781428574,
+            last_update = 1781468532,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21605,7 +21605,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781428797,
+            last_update = 1781468554,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21705,7 +21705,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
                     name = "Искрящееся оплечье",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
