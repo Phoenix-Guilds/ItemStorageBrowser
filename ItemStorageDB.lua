@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1781430765
+ItemStorageDB_LastUpdate = 1781431059
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-13 21:57:07",
+        updated_at = "2026-06-14 12:57:39",
         money = 339404,
-        empty = 109,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -694,6 +694,11 @@ ItemStorageDB = {
                 count = 5,
             },
             {
+                link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
+                name = "Символ благословения могущества",
+                count = 10,
+            },
+            {
                 link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
                 name = "Символ обшаривания карманов",
                 count = 4,
@@ -1185,7 +1190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781376951,
+            last_update = 1781431023,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1868,6 +1873,11 @@ ItemStorageDB = {
                     count = 5,
                 },
                 {
+                    link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
+                    name = "Символ благословения могущества",
+                    count = 10,
+                },
+                {
                     link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
                     name = "Символ обшаривания карманов",
                     count = 4,
@@ -2360,7 +2370,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781376983,
+            last_update = 1781431054,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
