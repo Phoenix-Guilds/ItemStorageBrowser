@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781469864
+ItemStorageDB_LastUpdate = 1781470051
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8653,9 +8653,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-14 00:07:35",
+        updated_at = "2026-06-14 23:47:31",
         money = 208636,
-        empty = 65,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -8862,11 +8862,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
                 name = "Зелье безумного алхимика",
                 count = 40,
-            },
-            {
-                link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
-                name = "Зелье простой невидимости",
-                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:3824:0:0:0:0:0:0:0:10|h[Масло Тьмы]|h|r",
@@ -9110,7 +9105,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781384846,
+            last_update = 1781469935,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9246,11 +9241,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
                     name = "Малый эликсир ловкости",
                     count = 38,
-                },
-                {
-                    link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
-                    name = "Зелье простой невидимости",
-                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:3824:0:0:0:0:0:0:0:10|h[Масло Тьмы]|h|r",
@@ -9470,7 +9460,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781384847,
+            last_update = 1781470024,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
