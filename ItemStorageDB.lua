@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781502565
+ItemStorageDB_LastUpdate = 1781502611
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,10 +2383,10 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-14 23:26:26",
+        updated_at = "2026-06-15 08:50:11",
         money = 92710,
-        empty = 66,
-        location = "",
+        empty = 65,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -2577,6 +2577,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13047:0:0:0:0:0:0:0:10|h[Сучок с Древа Жизни]|h|r",
                 name = "Сучок с Древа Жизни",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
+                name = "Маячащий чекан",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13049:0:0:0:0:0:0:0:10|h[Клеймор декана]|h|r",
@@ -3000,7 +3005,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781468684,
+            last_update = 1781502605,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3181,6 +3186,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13047:0:0:0:0:0:0:0:10|h[Сучок с Древа Жизни]|h|r",
                     name = "Сучок с Древа Жизни",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
+                    name = "Маячащий чекан",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13049:0:0:0:0:0:0:0:10|h[Клеймор декана]|h|r",
@@ -3535,7 +3545,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781468775,
+            last_update = 1781502606,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
