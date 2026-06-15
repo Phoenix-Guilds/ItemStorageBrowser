@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781501563
+ItemStorageDB_LastUpdate = 1781501645
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21873,9 +21873,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-14 23:36:03",
+        updated_at = "2026-06-15 08:34:05",
         money = 194111,
-        empty = 109,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -22231,7 +22231,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21765:0:0:0:0:0:0:0:10|h[Целительное кольцо из истинного серебра]|h|r",
                 name = "Целительное кольцо из истинного серебра",
-                count = 1,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:21767:0:0:0:0:0:0:0:10|h[Простое опаловое кольцо]|h|r",
@@ -22335,7 +22335,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781469278,
+            last_update = 1781501601,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22590,7 +22590,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21765:0:0:0:0:0:0:0:10|h[Целительное кольцо из истинного серебра]|h|r",
                     name = "Целительное кольцо из истинного серебра",
-                    count = 1,
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:21767:0:0:0:0:0:0:0:10|h[Простое опаловое кольцо]|h|r",
@@ -22670,7 +22670,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781469326,
+            last_update = 1781501640,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
