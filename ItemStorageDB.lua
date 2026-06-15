@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781503015
+ItemStorageDB_LastUpdate = 1781503444
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20508,9 +20508,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-15 08:50:51",
+        updated_at = "2026-06-15 09:04:04",
         money = 3936,
-        empty = 40,
+        empty = 37,
         location = "Оргриммар",
         items = {
             {
@@ -20561,6 +20561,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
                 name = "Отделанный серебром пояс",
+                count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
+                name = "Наручи Йоргена",
                 count = 2,
             },
             {
@@ -21031,7 +21036,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
@@ -21155,7 +21160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781502645,
+            last_update = 1781503436,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21705,7 +21710,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781502647,
+            last_update = 1781503438,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21721,6 +21726,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
                     name = "Покрывало Эми",
                     count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
+                    name = "Наручи Йоргена",
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -21880,7 +21890,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                     name = "Ремень Келлера",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
