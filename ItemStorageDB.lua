@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781502394
+ItemStorageDB_LastUpdate = 1781502462
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12908,9 +12908,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-14 23:44:24",
+        updated_at = "2026-06-15 08:47:42",
         money = 164134,
-        empty = 49,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -13649,6 +13649,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:6344:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух I]|h|r",
+                name = "Формула чар для наручей - дух I",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:6347:0:0:0:0:0:0:0:10|h[Формула чар для наручей - сила I]|h|r",
                 name = "Формула чар для наручей - сила I",
                 count = 1,
@@ -13975,7 +13980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781469707,
+            last_update = 1781502448,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14805,7 +14810,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781469786,
+            last_update = 1781502451,
             items = {
                 {
                     link = "|cff0070dd|Hitem:24170:0:0:0:0:0:0:0:10|h[Эскиз: объятия рассвета]|h|r",
@@ -15000,6 +15005,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:5774:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шелковая сума]|h|r",
                     name = "Выкройка: зеленая шелковая сума",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:6344:0:0:0:0:0:0:0:10|h[Формула чар для наручей - дух I]|h|r",
+                    name = "Формула чар для наручей - дух I",
                     count = 1,
                 },
                 {
