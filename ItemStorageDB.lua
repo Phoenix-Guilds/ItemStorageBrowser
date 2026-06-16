@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781632556
+ItemStorageDB_LastUpdate = 1781633517
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-15 08:50:11",
+        updated_at = "2026-06-16 21:11:57",
         money = 92710,
-        empty = 65,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -2741,7 +2741,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
@@ -2861,7 +2861,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                 name = "Перекованный клинок Героев",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:1664:0:0:0:0:0:0:0:10|h[Жезл усиления заклинаний]|h|r",
@@ -3005,7 +3005,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781502605,
+            last_update = 1781633505,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3545,7 +3545,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781502606,
+            last_update = 1781633508,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3603,6 +3603,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
+                    name = "Зазубренный боевой топор",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
                     name = "Жезл антиподов",
                     count = 1,
@@ -3625,6 +3630,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
                     name = "Пронзатель",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
+                    name = "Перекованный клинок Героев",
                     count = 1,
                 },
                 {
