@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781629597
+ItemStorageDB_LastUpdate = 1781629652
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12918,9 +12918,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-15 08:47:42",
+        updated_at = "2026-06-16 20:07:32",
         money = 164134,
-        empty = 48,
+        empty = 47,
         location = "Оргриммар",
         items = {
             {
@@ -13974,6 +13974,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
+                name = "Рецепт: эликсир силы огра",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:6369:0:0:0:0:0:0:0:10|h[Рецепт: каменношкурая треска]|h|r",
                 name = "Рецепт: каменношкурая треска",
                 count = 1,
@@ -13990,7 +13995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781502448,
+            last_update = 1781629643,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14820,7 +14825,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781502451,
+            last_update = 1781629646,
             items = {
                 {
                     link = "|cff0070dd|Hitem:24170:0:0:0:0:0:0:0:10|h[Эскиз: объятия рассвета]|h|r",
@@ -15060,6 +15065,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:9298:0:0:0:0:0:0:0:10|h[Рецепт: эликсир великанов]|h|r",
                     name = "Рецепт: эликсир великанов",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
+                    name = "Рецепт: эликсир силы огра",
                     count = 1,
                 },
             },
