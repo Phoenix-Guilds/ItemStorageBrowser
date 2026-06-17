@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781681233
+ItemStorageDB_LastUpdate = 1781681347
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19168,9 +19168,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-15 08:32:43",
+        updated_at = "2026-06-17 10:29:07",
         money = 336703,
-        empty = 106,
+        empty = 105,
         location = "Оргриммар",
         items = {
             {
@@ -19669,6 +19669,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:44442:0:0:0:0:0:0:0:10|h[Жукохрусты]|h|r",
+                name = "Жукохрусты",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:44649:0:0:0:0:0:-41:75:10|h[Ноготь Хрусталедуба с меткой зверя]|h|r",
                 name = "Ноготь Хрусталедуба с меткой зверя",
                 count = 1,
@@ -19960,7 +19965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781501557,
+            last_update = 1781681341,
             items = {
                 {
                     link = "|cff0070dd|Hitem:14536:0:0:0:0:0:0:0:10|h[Костяной хауберк]|h|r",
@@ -20458,6 +20463,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:44442:0:0:0:0:0:0:0:10|h[Жукохрусты]|h|r",
+                    name = "Жукохрусты",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:44649:0:0:0:0:0:-41:75:10|h[Ноготь Хрусталедуба с меткой зверя]|h|r",
                     name = "Ноготь Хрусталедуба с меткой зверя",
                     count = 1,
@@ -20750,7 +20760,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781501558,
+            last_update = 1781681342,
             items = {
             },
         },
