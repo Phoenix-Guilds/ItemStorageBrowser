@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781675572
+ItemStorageDB_LastUpdate = 1781675887
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15928,9 +15928,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-16 20:55:56",
+        updated_at = "2026-06-17 08:58:07",
         money = 358852,
-        empty = 72,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -16262,11 +16262,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:2981:1892:0:0:0:0:0:0:10|h[Одеяние Провидца]|h|r",
                 name = "Одеяние Провидца",
                 count = 2,
-            },
-            {
-                link = "|cff1eff00|Hitem:2983:3858:0:0:0:0:0:0:10|h[Сапоги Провидца]|h|r",
-                name = "Сапоги Провидца",
-                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:2985:1892:0:0:0:0:0:0:10|h[Расписанная кожаная кираса]|h|r",
@@ -16795,7 +16790,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781632541,
+            last_update = 1781675679,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14094:1892:0:0:0:0:754:0:10|h[Бисерная блуза со знаком совы]|h|r",
@@ -17081,11 +17076,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:2981:1892:0:0:0:0:0:0:10|h[Одеяние Провидца]|h|r",
                     name = "Одеяние Провидца",
                     count = 2,
-                },
-                {
-                    link = "|cff1eff00|Hitem:2983:3858:0:0:0:0:0:0:10|h[Сапоги Провидца]|h|r",
-                    name = "Сапоги Провидца",
-                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:2985:1892:0:0:0:0:0:0:10|h[Расписанная кожаная кираса]|h|r",
@@ -17440,7 +17430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781632544,
+            last_update = 1781675853,
             items = {
                 {
                     link = "|cff1eff00|Hitem:15211:20235:0:0:0:0:24:0:10|h[Короткий меч ополченца со знаком силы]|h|r",
