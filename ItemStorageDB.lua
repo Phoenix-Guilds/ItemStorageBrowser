@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1781713468
+ItemStorageDB_LastUpdate = 1781719294
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-16 19:10:05",
+        updated_at = "2026-06-17 21:01:34",
         money = 339404,
-        empty = 108,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -416,12 +416,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                 name = "Символ прилива сил",
-                count = 20,
+                count = 19,
             },
             {
                 link = "|cffffffff|Hitem:42739:0:0:0:0:0:0:0:10|h[Символ огненного шара]|h|r",
                 name = "Символ огненного шара",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:42740:0:0:0:0:0:0:0:10|h[Символ огненного взрыва]|h|r",
@@ -1190,7 +1190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781626120,
+            last_update = 1781719267,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1595,12 +1595,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                     name = "Символ прилива сил",
-                    count = 20,
+                    count = 19,
                 },
                 {
                     link = "|cffffffff|Hitem:42739:0:0:0:0:0:0:0:10|h[Символ огненного шара]|h|r",
                     name = "Символ огненного шара",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:42740:0:0:0:0:0:0:0:10|h[Символ огненного взрыва]|h|r",
@@ -1610,7 +1610,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42741:0:0:0:0:0:0:0:10|h[Символ кольца льда]|h|r",
                     name = "Символ кольца льда",
-                    count = 11,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:42743:0:0:0:0:0:0:0:10|h[Символ ледяного доспеха]|h|r",
@@ -2370,12 +2370,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781626166,
+            last_update = 1781719272,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                     name = "Книга познания символов",
                     count = 21,
+                },
+                {
+                    link = "|cffffffff|Hitem:42741:0:0:0:0:0:0:0:10|h[Символ кольца льда]|h|r",
+                    name = "Символ кольца льда",
+                    count = 1,
                 },
             },
         },
