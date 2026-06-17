@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781679411
+ItemStorageDB_LastUpdate = 1781679482
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20558,9 +20558,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-15 17:50:32",
+        updated_at = "2026-06-17 09:58:02",
         money = 3936,
-        empty = 40,
+        empty = 39,
         location = "Оргриммар",
         items = {
             {
@@ -20791,7 +20791,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                 name = "Наручи Гневливого",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
@@ -21205,7 +21205,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781534913,
+            last_update = 1781679474,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21400,7 +21400,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                     name = "Наручи Гневливого",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
@@ -21755,7 +21755,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781534927,
+            last_update = 1781679477,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
