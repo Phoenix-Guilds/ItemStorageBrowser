@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781675887
+ItemStorageDB_LastUpdate = 1781676232
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6488,9 +6488,9 @@ ItemStorageDB = {
     {
         name = "Карточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-09 08:58:25",
+        updated_at = "2026-06-17 09:03:52",
         money = 404282,
-        empty = 136,
+        empty = 138,
         location = "Оргриммар",
         items = {
             {
@@ -6641,7 +6641,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
-                count = 7,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
@@ -6945,7 +6945,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780984700,
+            last_update = 1781676107,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
@@ -6965,7 +6965,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                     name = "Колода Разбойников",
-                    count = 7,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
