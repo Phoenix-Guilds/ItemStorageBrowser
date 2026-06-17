@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781680336
+ItemStorageDB_LastUpdate = 1781680375
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12898,9 +12898,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-16 20:07:32",
+        updated_at = "2026-06-17 10:12:55",
         money = 164134,
-        empty = 47,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -13674,6 +13674,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
+                name = "Рецепт: эликсир увеличения",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
                 name = "Схема: динамит \"Pro-100-брос\"",
                 count = 1,
@@ -13975,7 +13980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781629643,
+            last_update = 1781680367,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14805,7 +14810,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781629646,
+            last_update = 1781680369,
             items = {
                 {
                     link = "|cff0070dd|Hitem:24170:0:0:0:0:0:0:0:10|h[Эскиз: объятия рассвета]|h|r",
@@ -15020,6 +15025,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:6390:0:0:0:0:0:0:0:10|h[Выкройка: стильная синяя рубашка]|h|r",
                     name = "Выкройка: стильная синяя рубашка",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
+                    name = "Рецепт: эликсир увеличения",
                     count = 1,
                 },
                 {
