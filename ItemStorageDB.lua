@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781681434
+ItemStorageDB_LastUpdate = 1781681504
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6978,9 +6978,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-17 09:53:51",
+        updated_at = "2026-06-17 10:31:44",
         money = 206084,
-        empty = 159,
+        empty = 154,
         location = "Оргриммар",
         items = {
             {
@@ -7091,12 +7091,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 547,
+                count = 743,
             },
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 634,
+                count = 685,
             },
             {
                 link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
@@ -7325,7 +7325,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781679225,
+            last_update = 1781681476,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7385,12 +7385,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                     name = "Тонкая кожа",
-                    count = 547,
+                    count = 743,
                 },
                 {
                     link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                     name = "Жесткая кожа",
-                    count = 634,
+                    count = 685,
                 },
                 {
                     link = "|cffffffff|Hitem:23793:0:0:0:0:0:0:0:10|h[Толстая узловатая кожа]|h|r",
@@ -7580,7 +7580,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781679227,
+            last_update = 1781681499,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
