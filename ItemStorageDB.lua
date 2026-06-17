@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781681390
+ItemStorageDB_LastUpdate = 1781681434
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18228,9 +18228,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-17 09:53:18",
+        updated_at = "2026-06-17 10:30:34",
         money = 1153902,
-        empty = 80,
+        empty = 79,
         location = "Оргриммар",
         items = {
             {
@@ -18291,12 +18291,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 1503,
+                count = 1530,
             },
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 1001,
+                count = 1079,
             },
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
@@ -18365,7 +18365,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781679192,
+            last_update = 1781681428,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18390,12 +18390,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                     name = "Льняной материал",
-                    count = 1503,
+                    count = 1530,
                 },
                 {
                     link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                     name = "Шерсть",
-                    count = 1001,
+                    count = 1079,
                 },
                 {
                     link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
@@ -18430,7 +18430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781679193,
+            last_update = 1781681429,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
