@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781683061
+ItemStorageDB_LastUpdate = 1781683110
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8713,9 +8713,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-16 19:58:01",
+        updated_at = "2026-06-17 10:58:30",
         money = 208636,
-        empty = 65,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -8819,6 +8819,11 @@ ItemStorageDB = {
                 count = 165,
             },
             {
+                link = "|cffffffff|Hitem:22834:0:0:0:0:0:0:0:10|h[Большой эликсир защиты]|h|r",
+                name = "Большой эликсир защиты",
+                count = 2,
+            },
+            {
                 link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
                 name = "Эликсир львиной силы",
                 count = 90,
@@ -8841,7 +8846,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
                 name = "Зелье скорости",
-                count = 7,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:28100:0:0:0:0:0:0:0:10|h[Флакон с летучим лечебным зельем]|h|r",
@@ -8876,12 +8881,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33447:0:0:0:0:0:0:0:10|h[Рунический флакон с лечебным зельем]|h|r",
                 name = "Рунический флакон с лечебным зельем",
-                count = 29,
+                count = 34,
             },
             {
                 link = "|cffffffff|Hitem:33448:0:0:0:0:0:0:0:10|h[Рунический флакон с зельем маны]|h|r",
                 name = "Рунический флакон с зельем маны",
-                count = 10,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:3382:0:0:0:0:0:0:0:10|h[Слабое зелье тролльей крови]|h|r",
@@ -8966,7 +8971,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40073:0:0:0:0:0:0:0:10|h[Мощный эликсир силы]|h|r",
                 name = "Мощный эликсир силы",
-                count = 7,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:40076:0:0:0:0:0:0:0:10|h[Эликсир гуру]|h|r",
@@ -9160,7 +9165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781629074,
+            last_update = 1781683105,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9228,6 +9233,11 @@ ItemStorageDB = {
                     count = 50,
                 },
                 {
+                    link = "|cffffffff|Hitem:22834:0:0:0:0:0:0:0:10|h[Большой эликсир защиты]|h|r",
+                    name = "Большой эликсир защиты",
+                    count = 2,
+                },
+                {
                     link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
                     name = "Эликсир львиной силы",
                     count = 90,
@@ -9240,7 +9250,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
                     name = "Зелье скорости",
-                    count = 7,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:28102:0:0:0:0:0:0:0:10|h[Эликсир натиска]|h|r",
@@ -9330,7 +9340,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40073:0:0:0:0:0:0:0:10|h[Мощный эликсир силы]|h|r",
                     name = "Мощный эликсир силы",
-                    count = 7,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:40076:0:0:0:0:0:0:0:10|h[Эликсир гуру]|h|r",
@@ -9510,7 +9520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781629076,
+            last_update = 1781683105,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9570,12 +9580,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:33447:0:0:0:0:0:0:0:10|h[Рунический флакон с лечебным зельем]|h|r",
                     name = "Рунический флакон с лечебным зельем",
-                    count = 29,
+                    count = 34,
                 },
                 {
                     link = "|cffffffff|Hitem:33448:0:0:0:0:0:0:0:10|h[Рунический флакон с зельем маны]|h|r",
                     name = "Рунический флакон с зельем маны",
-                    count = 10,
+                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
