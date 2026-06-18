@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781800953
+ItemStorageDB_LastUpdate = 1781801081
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2388,9 +2388,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-16 21:11:57",
+        updated_at = "2026-06-18 19:44:41",
         money = 92710,
-        empty = 63,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -2531,11 +2531,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
                 name = "Клинок фанатика",
-                count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
-                name = "Рапира из быстростали",
                 count = 2,
             },
             {
@@ -3010,7 +3005,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781633505,
+            last_update = 1781801002,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3140,11 +3135,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
                     name = "Клинок фанатика",
-                    count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
-                    name = "Рапира из быстростали",
                     count = 2,
                 },
                 {
@@ -3550,7 +3540,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781633508,
+            last_update = 1781801026,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
