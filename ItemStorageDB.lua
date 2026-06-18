@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781802083
+ItemStorageDB_LastUpdate = 1781802240
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18518,9 +18518,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-17 09:54:39",
+        updated_at = "2026-06-18 20:04:00",
         money = 1005064,
-        empty = 143,
+        empty = 144,
         location = "Оргриммар",
         items = {
             {
@@ -18746,7 +18746,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                 name = "Огнецвет",
-                count = 95,
+                count = 91,
             },
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
@@ -18776,7 +18776,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                 name = "Лиловый лотос",
-                count = 102,
+                count = 98,
             },
             {
                 link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -18805,7 +18805,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781679271,
+            last_update = 1781802183,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18985,7 +18985,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                     name = "Огнецвет",
-                    count = 95,
+                    count = 91,
                 },
                 {
                     link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
@@ -19000,7 +19000,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                     name = "Лиловый лотос",
-                    count = 102,
+                    count = 98,
                 },
                 {
                     link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -19030,7 +19030,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781679274,
+            last_update = 1781802199,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
