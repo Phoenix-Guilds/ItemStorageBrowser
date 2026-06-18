@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781719294
+ItemStorageDB_LastUpdate = 1781800953
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20783,9 +20783,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-17 09:58:02",
+        updated_at = "2026-06-18 19:42:33",
         money = 3936,
-        empty = 39,
+        empty = 42,
         location = "Оргриммар",
         items = {
             {
@@ -21001,7 +21001,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                 name = "Кушак Огрона",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -21231,7 +21231,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
                 name = "Полированная джазерентская броня",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
@@ -21246,7 +21246,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                 name = "Штаны из шкуры василиска",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:18238:0:0:0:0:0:0:0:10|h[Тенекожаные перчатки]|h|r",
@@ -21430,7 +21430,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781679474,
+            last_update = 1781800898,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21835,7 +21835,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                     name = "Штаны из шкуры василиска",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:18238:0:0:0:0:0:0:0:10|h[Тенекожаные перчатки]|h|r",
@@ -21980,7 +21980,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781679477,
+            last_update = 1781800926,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22060,7 +22060,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                     name = "Кушак Огрона",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
@@ -22120,11 +22120,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:16737:0:0:0:0:0:0:0:10|h[Рукавицы доблести]|h|r",
                     name = "Рукавицы доблести",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
-                    name = "Полированная джазерентская броня",
                     count = 1,
                 },
                 {
