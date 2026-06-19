@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781875364
+ItemStorageDB_LastUpdate = 1781875509
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15942,10 +15942,10 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-17 10:22:57",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-19 16:25:09",
         money = 358852,
-        empty = 45,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -16346,11 +16346,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3057:1887:0:0:0:0:0:0:10|h[Лесные кожаные сапоги]|h|r",
                 name = "Лесные кожаные сапоги",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:3058:1887:0:0:0:0:0:0:10|h[Лесные кожаные перчатки]|h|r",
-                name = "Лесные кожаные перчатки",
                 count = 1,
             },
             {
@@ -16900,7 +16895,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781680964,
+            last_update = 1781875475,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14025:0:0:0:0:0:0:0:10|h[Пояс мистика]|h|r",
@@ -17240,11 +17235,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3057:1887:0:0:0:0:0:0:10|h[Лесные кожаные сапоги]|h|r",
                     name = "Лесные кожаные сапоги",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:3058:1887:0:0:0:0:0:0:10|h[Лесные кожаные перчатки]|h|r",
-                    name = "Лесные кожаные перчатки",
                     count = 1,
                 },
                 {
@@ -17625,7 +17615,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781680970,
+            last_update = 1781875500,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
