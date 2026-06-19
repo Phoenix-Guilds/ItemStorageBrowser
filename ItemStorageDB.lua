@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781845487
+ItemStorageDB_LastUpdate = 1781846225
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11998,9 +11998,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-17 19:24:28",
+        updated_at = "2026-06-19 08:17:05",
         money = 13104,
-        empty = 68,
+        empty = 70,
         location = "Оргриммар",
         items = {
             {
@@ -12156,7 +12156,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -12176,7 +12176,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
                 name = "Снайперский прицел",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:4405:0:0:0:0:0:0:0:10|h[Кустарный прицел]|h|r",
@@ -12195,7 +12195,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781713407,
+            last_update = 1781846163,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12310,7 +12310,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                     name = "Пристрелянный огнестрел",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -12325,7 +12325,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781713421,
+            last_update = 1781846220,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -12375,7 +12375,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
                     name = "Снайперский прицел",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:4405:0:0:0:0:0:0:0:10|h[Кустарный прицел]|h|r",
