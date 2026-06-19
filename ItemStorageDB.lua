@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1781849149
+ItemStorageDB_LastUpdate = 1781849295
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-17 21:01:34",
+        updated_at = "2026-06-19 09:08:15",
         money = 339404,
-        empty = 107,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -291,7 +291,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
                 name = "Символ слова силы: Щит",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:42411:0:0:0:0:0:0:0:10|h[Символ обновления]|h|r",
@@ -1190,7 +1190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781719267,
+            last_update = 1781849194,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1470,7 +1470,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
                     name = "Символ слова силы: Щит",
-                    count = 9,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:42411:0:0:0:0:0:0:0:10|h[Символ обновления]|h|r",
@@ -1610,7 +1610,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42741:0:0:0:0:0:0:0:10|h[Символ кольца льда]|h|r",
                     name = "Символ кольца льда",
-                    count = 10,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:42743:0:0:0:0:0:0:0:10|h[Символ ледяного доспеха]|h|r",
@@ -2370,17 +2370,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781719272,
+            last_update = 1781849202,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                     name = "Книга познания символов",
                     count = 21,
-                },
-                {
-                    link = "|cffffffff|Hitem:42741:0:0:0:0:0:0:0:10|h[Символ кольца льда]|h|r",
-                    name = "Символ кольца льда",
-                    count = 1,
                 },
             },
         },
