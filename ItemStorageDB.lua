@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781877353
+ItemStorageDB_LastUpdate = 1781877445
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2382,10 +2382,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-18 19:44:41",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-19 16:57:25",
         money = 92710,
-        empty = 65,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -2416,7 +2416,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -2736,7 +2736,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
@@ -3000,7 +3000,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781801002,
+            last_update = 1781877394,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3021,11 +3021,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:12974:0:0:0:0:0:0:0:10|h[Черный рыцарь]|h|r",
                     name = "Черный рыцарь",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
-                    name = "Топор геолога",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -3535,7 +3530,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781801026,
+            last_update = 1781877429,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3590,11 +3585,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2567:0:0:0:0:0:0:0:10|h[Клинок Зовущего]|h|r",
                     name = "Клинок Зовущего",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
-                    name = "Зазубренный боевой топор",
                     count = 1,
                 },
                 {
