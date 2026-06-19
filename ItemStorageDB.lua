@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1781877445
+ItemStorageDB_LastUpdate = 1781877540
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-19 09:08:15",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-19 16:59:00",
         money = 339404,
         empty = 108,
         location = "Оргриммар",
@@ -826,7 +826,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
                 name = "Символ кровавой ярости",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:43397:0:0:0:0:0:0:0:10|h[Символ рывка]|h|r",
@@ -881,7 +881,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43418:0:0:0:0:0:0:0:10|h[Символ удара героя]|h|r",
                 name = "Символ удара героя",
-                count = 17,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:43419:0:0:0:0:0:0:0:10|h[Символ вмешательства]|h|r",
@@ -1190,7 +1190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781849194,
+            last_update = 1781877522,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2005,7 +2005,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
                     name = "Символ кровавой ярости",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43397:0:0:0:0:0:0:0:10|h[Символ рывка]|h|r",
@@ -2060,7 +2060,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43418:0:0:0:0:0:0:0:10|h[Символ удара героя]|h|r",
                     name = "Символ удара героя",
-                    count = 17,
+                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:43419:0:0:0:0:0:0:0:10|h[Символ вмешательства]|h|r",
@@ -2370,7 +2370,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781849202,
+            last_update = 1781877530,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
