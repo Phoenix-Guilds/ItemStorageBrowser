@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781845208
+ItemStorageDB_LastUpdate = 1781845243
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22213,9 +22213,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-16 20:12:53",
+        updated_at = "2026-06-19 08:00:43",
         money = 194111,
-        empty = 106,
+        empty = 105,
         location = "Оргриммар",
         items = {
             {
@@ -22431,6 +22431,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11987:0:0:0:0:0:772:0:10|h[Иридиевый обруч со знаком совы]|h|r",
                 name = "Иридиевый обруч со знаком совы",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:11995:0:0:0:0:0:1187:0:10|h[Кольцо из слоновой кости со знаком медведя]|h|r",
+                name = "Кольцо из слоновой кости со знаком медведя",
                 count = 1,
             },
             {
@@ -22680,7 +22685,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781629963,
+            last_update = 1781845238,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22830,6 +22835,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:11987:0:0:0:0:0:772:0:10|h[Иридиевый обруч со знаком совы]|h|r",
                     name = "Иридиевый обруч со знаком совы",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:11995:0:0:0:0:0:1187:0:10|h[Кольцо из слоновой кости со знаком медведя]|h|r",
+                    name = "Кольцо из слоновой кости со знаком медведя",
                     count = 1,
                 },
                 {
@@ -23020,7 +23030,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781629967,
+            last_update = 1781845239,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
