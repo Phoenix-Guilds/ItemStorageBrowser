@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781876178
+ItemStorageDB_LastUpdate = 1781876268
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18212,8 +18212,8 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-17 10:57:41",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-19 16:37:48",
         money = 1158902,
         empty = 127,
         location = "Оргриммар",
@@ -18336,7 +18336,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7071:0:0:0:0:0:0:0:10|h[Железная скоба]|h|r",
                 name = "Железная скоба",
-                count = 42,
+                count = 32,
             },
             {
                 link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
@@ -18350,7 +18350,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781682810,
+            last_update = 1781876202,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18415,7 +18415,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781682816,
+            last_update = 1781876210,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18475,7 +18475,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7071:0:0:0:0:0:0:0:10|h[Железная скоба]|h|r",
                     name = "Железная скоба",
-                    count = 42,
+                    count = 32,
                 },
                 {
                     link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
