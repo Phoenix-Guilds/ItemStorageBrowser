@@ -7,6 +7,56 @@ ItemClassificatorDB = ItemClassificatorDB or {
     categories = {},
 }
 
+local function BuildCharacterItems(character)
+    local items_by_link = {}
+
+    local function add_items(list)
+        if not list then
+            return
+        end
+        for _, item in ipairs(list) do
+            if item and item.link then
+                local existing = items_by_link[item.link]
+                if existing then
+                    existing.count = existing.count + (item.count or 0)
+                else
+                    items_by_link[item.link] = {
+                        link = item.link,
+                        name = item.name or "",
+                        count = item.count or 0,
+                    }
+                end
+            end
+        end
+    end
+
+    add_items(character.items)
+    if character.bags and character.bags.items then
+        add_items(character.bags.items)
+    end
+    if character.bank and character.bank.items then
+        add_items(character.bank.items)
+    end
+
+    local result = {}
+    for _, item in pairs(items_by_link) do
+        table.insert(result, item)
+    end
+    table.sort(result, function(a, b)
+        return a.name < b.name
+    end)
+    return result
+end
+
+local function GetCharacterItems(character)
+    if character.items then
+        return character.items
+    end
+    local items = BuildCharacterItems(character)
+    character.items = items
+    return items
+end
+
 -- Вспомогательная функция для подсчета общего количества предметов
 local function GetTotalItemCount()
     local total = 0
@@ -47,7 +97,7 @@ local function InitializeClassificator()
     -- Собираем все уникальные ссылки на предметы
     local itemLinks = {}
     for _, character in ipairs(ItemStorageDB) do
-        for _, item in ipairs(character.items) do
+        for _, item in ipairs(GetCharacterItems(character)) do
             if item.link and not itemLinks[item.link] then
                 itemLinks[item.link] = true
                 totalItems = totalItems + 1
@@ -94,7 +144,7 @@ local function InitializeClassificator()
 
     -- Подсчитываем общее количество каждого предмета
     for _, character in ipairs(ItemStorageDB) do
-        for _, item in ipairs(character.items) do
+        for _, item in ipairs(GetCharacterItems(character)) do
             if item.link then
                 local itemID = tonumber(string.match(item.link, "item:(%d+)"))
                 if itemID and ItemClassificatorDB.items[itemID] then

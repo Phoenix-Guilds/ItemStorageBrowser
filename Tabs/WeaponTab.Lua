@@ -460,7 +460,13 @@ local function RegisterWeaponTab()
 
                         -- Проверка типа руки (если есть выбранные типы)
                         if handTypes then
-                            if not handTypes[itemEquipLoc] then
+                            if itemEquipLoc == "INVTYPE_RANGEDRIGHT" then
+                                -- В WoW 3.3.5a жезлы возвращают INVTYPE_RANGEDRIGHT,
+                                -- но в фильтре для дальнего боя используется INVTYPE_RANGED.
+                                if not handTypes["INVTYPE_RANGED"] then
+                                    matches = false
+                                end
+                            elseif not handTypes[itemEquipLoc] then
                                 matches = false
                             end
                         end

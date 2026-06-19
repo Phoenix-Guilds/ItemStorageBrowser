@@ -3,10 +3,11 @@ local addonName, ItemStorageBrowser = ...
 -- Инициализация базы данных
 ItemStorageBrowserDB = ItemStorageBrowserDB or {
     minimapAngle = 148.2497927517446,
+    transparency = 1,
 }
 
 -- Основной фрейм аддона
-local frame = CreateFrame("Frame", "ItemStorageBrowserFrame", UIParent, "BasicFrameTemplateWithInset")
+local frame = CreateFrame("Frame", "ItemStorageBrowserFrame", UIParent)
 frame:SetSize(600, 400)
 frame:SetPoint("CENTER")
 frame:SetMovable(true)
@@ -19,9 +20,7 @@ frame:Hide()
 -- Настраиваем прозрачность фона
 frame:SetBackdrop({
     bgFile = "Interface/DialogFrame/UI-DialogBox-Background",
-    edgeFile = "Interface/DialogFrame/UI-DialogBox-Border",
-    tile = true, tileSize = 32, edgeSize = 32,
-    insets = { left = 11, right = 12, top = 12, bottom = 11 }
+    tile = true, tileSize = 32,
 })
 
 -- Флаг для отслеживания состояния фокуса
@@ -29,25 +28,34 @@ frame.hasFocus = false
 
 -- Заголовок
 frame.title = frame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
-frame.title:SetPoint("CENTER", frame.TitleBg, "CENTER", 0, 0)
-frame.title:SetText("Item Storage Browser")
+frame.title:SetPoint("TOP", frame, "TOP", 0, -10)
+frame.title:SetText("Складской аддон гильдии Phoenix Nest")
+frame.title:SetTextColor(1, 1, 1, 1)
+
+-- Кнопка закрытия
+local closeButton = CreateFrame("Button", nil, frame, "UIPanelCloseButton")
+closeButton:SetPoint("TOPRIGHT", frame, "TOPRIGHT", -2, -2)
+closeButton:SetScript("OnClick", function()
+    frame:Hide()
+end)
+
+-- Уровень прозрачности фона (из параметров)
+local function GetFrameAlpha()
+    return ItemStorageBrowserDB.transparency or 1
+end
 
 -- Функция установки фокуса
 function frame:SetFocus(hasFocus)
     self.hasFocus = hasFocus
     if hasFocus then
-        -- При фокусе - более непрозрачный фон (0.8)
-        self:SetBackdropColor(0, 0, 0, .8)
-        self:EnableKeyboard(true) -- Включаем обработку клавиш при фокусе
+        self:EnableKeyboard(true)
     else
-        -- Без фокуса - более прозрачный фон (0.6)
-        self:SetBackdropColor(0, 0, 0, .6)
-        self:EnableKeyboard(false) -- Отключаем обработку клавиш при потере фокуса
+        self:EnableKeyboard(false)
     end
 end
 
 -- Инициализируем прозрачность при создании
-frame:SetBackdropColor(0, 0, 0, .6) -- Начальное состояние - без фокуса
+frame:SetAlpha(GetFrameAlpha())
 
 -- Обработчик клика по фрейму
 frame:SetScript("OnMouseDown", function(self)
@@ -119,10 +127,67 @@ end)
 function ItemStorageBrowser:LoadDatabase()
     if not ItemStorageDB then return end
     self.database = ItemStorageDB
+
+    -- Заполняем устаревшее поле items, если база хранит только bank/bags.
+    for _, character in ipairs(self.database) do
+        if not character.items then
+            character.items = ItemStorageBrowser:BuildCharacterItems(character)
+        end
+    end
+end
+
+function ItemStorageBrowser:BuildCharacterItems(character)
+    local items_by_link = {}
+
+    local function add_items(list)
+        if not list then
+            return
+        end
+        for _, item in ipairs(list) do
+            if item and item.link then
+                local existing = items_by_link[item.link]
+                if existing then
+                    existing.count = existing.count + (item.count or 0)
+                else
+                    items_by_link[item.link] = {
+                        link = item.link,
+                        name = item.name or "",
+                        count = item.count or 0,
+                    }
+                end
+            end
+        end
+    end
+
+    add_items(character.items)
+    if character.bags and character.bags.items then
+        add_items(character.bags.items)
+    end
+    if character.bank and character.bank.items then
+        add_items(character.bank.items)
+    end
+
+    local result = {}
+    for _, item in pairs(items_by_link) do
+        table.insert(result, item)
+    end
+    table.sort(result, function(a, b)
+        return a.name < b.name
+    end)
+    return result
 end
 
 -- Экспортируем основной фрейм
 ItemStorageBrowser.frame = frame
+
+-- Экспортируем функцию для применения прозрачности - просто устанавливает альфу
+function ItemStorageBrowser:SetFrameTransparency(alpha)
+    if self.frame then
+        -- Ограничиваем значение альфы: 0 = полностью прозрачно, 1 = полностью непрозрачно
+        alpha = math.max(0, math.min(1, alpha or 1))
+        self.frame:SetAlpha(alpha)
+    end
+end
 
 -- Инициализация при загрузке
 local initFrame = CreateFrame("Frame")

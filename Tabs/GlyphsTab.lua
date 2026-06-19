@@ -48,8 +48,20 @@ local function UpdateMultiSelectDropdownText(dropdown, options)
     end
 end
 
--- Функция для получения типа символа (большой/малый) из tooltip
-local function GetGlyphSizeFromTooltip(itemLink)
+-- Функция для получения типа символа (большой/малый)
+local function GetGlyphSize(itemLink)
+    -- Сначала пробуем получить размер из подтипа предмета, если он содержит нужную информацию.
+    local _, _, _, _, _, _, itemSubType = GetItemInfo(itemLink)
+    if itemSubType then
+        local lowerSubType = string.lower(itemSubType)
+        if string.find(lowerSubType, "больш") or string.find(lowerSubType, "major") then
+            return "Большой символ"
+        elseif string.find(lowerSubType, "мал") or string.find(lowerSubType, "minor") then
+            return "Малый символ"
+        end
+    end
+
+    -- Если ничего не получилось, используем tooltip как резерв.
     local tooltip = CreateFrame("GameTooltip", "GlyphTooltipScanner", UIParent, "GameTooltipTemplate")
     tooltip:SetOwner(UIParent, "ANCHOR_NONE")
     tooltip:ClearLines()
@@ -59,11 +71,12 @@ local function GetGlyphSizeFromTooltip(itemLink)
     for i = 1, tooltip:NumLines() do
         local text = _G["GlyphTooltipScannerTextLeft"..i]:GetText()
         if text then
+            local lowerText = string.lower(text)
             -- Ищем строку с типом символа
-            if string.find(text, "Большой символ") or string.find(text, "Major Glyph") then
+            if (string.find(lowerText, "больш") and string.find(lowerText, "символ")) or string.find(lowerText, "major glyph") or string.find(lowerText, "major") then
                 glyphSize = "Большой символ"
                 break
-            elseif string.find(text, "Малый символ") or string.find(text, "Minor Glyph") then
+            elseif (string.find(lowerText, "мал") and string.find(lowerText, "символ")) or string.find(lowerText, "minor glyph") or string.find(lowerText, "minor") then
                 glyphSize = "Малый символ"
                 break
             end
@@ -363,7 +376,7 @@ local function RegisterGlyphsTab()
         
                         -- 2. Проверка размера символа (если выбраны размеры)
                         if matches and sizes then
-                            local glyphSize = GetGlyphSizeFromTooltip(item.link)
+                            local glyphSize = GetGlyphSize(item.link)
                             local sizeMatch = false
                             
                             for sizeValue, selected in pairs(sizes) do

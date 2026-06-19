@@ -9,9 +9,18 @@ local function InitializeMinimapButton()
 
     -- Текстура кнопки
     miniMapButton.icon = miniMapButton:CreateTexture(nil, "BACKGROUND")
-    miniMapButton.icon:SetTexture("Interface\\Icons\\HordePandaren_64")
+    -- Попробуем загрузить пользовательский логотип из папки аддона: `ItemStorageBrowser/media/logo` (без расширения).
+    -- Поместите, например, `logo.tga` в папку `Interface\AddOns\ItemStorageBrowser\media` и используйте путь ниже.
+    local customLogoPath = "Interface\\AddOns\\ItemStorageBrowser\\media\\logo"
+    local defaultIcon = "Interface\\Icons\\HordePandaren_64"
     miniMapButton.icon:SetSize(22, 22)
     miniMapButton.icon:SetPoint("CENTER")
+    -- Попытка подмены: сначала задаём custom, затем делаем fallback на дефолтную иконку
+    miniMapButton.icon:SetTexture(customLogoPath)
+    -- Если по какой-то причине кастом не загружен, подменим дефолтом
+    if not miniMapButton.icon:GetTexture() or miniMapButton.icon:GetTexture() == "" then
+        miniMapButton.icon:SetTexture(defaultIcon)
+    end
 
     -- Круглая рамка
     miniMapButton.overlay = miniMapButton:CreateTexture(nil, "OVERLAY")
@@ -52,14 +61,28 @@ local function InitializeMinimapButton()
     end)
 
     miniMapButton:RegisterForDrag("LeftButton")
+    miniMapButton:RegisterForClicks("LeftButtonUp", "RightButtonUp")
 
-    -- Обработчики клика
     miniMapButton:SetScript("OnClick", function(self, button)
-        if ItemStorageBrowser.frame:IsShown() then
-            ItemStorageBrowser.frame:Hide()
-        else
-            ItemStorageBrowser.frame:Show()
-            ItemStorageBrowser.frame:SetFocus(true)
+        if button == "LeftButton" then
+            if ItemStorageBrowser.frame:IsShown() then
+                ItemStorageBrowser.frame:Hide()
+            else
+                ItemStorageBrowser.frame:Show()
+                ItemStorageBrowser.frame:SetFocus(true)
+            end
+        elseif button == "RightButton" then
+            if not IsAddOnLoaded("Blizzard_OptionsPanels") then
+                LoadAddOn("Blizzard_OptionsPanels")
+            end
+            if InterfaceOptionsFrame then
+                InterfaceOptionsFrame:Show()
+            end
+            if InterfaceOptionsFrame_OpenToCategory then
+                InterfaceOptionsFrame_OpenToCategory("Item Storage Browser")
+            elseif InterfaceOptionsFrame_OpenToCategory then
+                InterfaceOptionsFrame_OpenToCategory("Item Storage Browser")
+            end
         end
     end)
 
@@ -84,8 +107,9 @@ local function InitializeMinimapButton()
 
     miniMapButton:SetScript("OnEnter", function(self)
         GameTooltip:SetOwner(self, "ANCHOR_LEFT")
-        GameTooltip:SetText("Item Storage Browser", 1, 1, 1)
-        GameTooltip:AddLine("Кликните, чтобы открыть/закрыть окно аддона.", 0.5, 0.5, 0.5, true)
+        GameTooltip:SetText("Складской аддон гильдии Phoenix Nest", 1, 1, 1)
+        GameTooltip:AddLine("Левый клик - открыть/закрыть аддон", 0.5, 0.5, 0.5)
+        GameTooltip:AddLine("Правый клик - открыть настройки", 0.5, 0.5, 0.5)
         GameTooltip:Show()
     end)
 
