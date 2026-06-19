@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781876853
+ItemStorageDB_LastUpdate = 1781876955
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20753,9 +20753,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-19 16:22:44",
+        updated_at = "2026-06-19 16:49:15",
         money = 3936,
-        empty = 45,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -21264,11 +21264,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
-                name = "Черные бархатные одеяния",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
                 count = 2,
@@ -21390,7 +21385,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781875317,
+            last_update = 1781876936,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21828,11 +21823,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
-                    name = "Черные бархатные одеяния",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:3844:0:0:0:0:0:0:0:10|h[Зеленый железный хауберк]|h|r",
                     name = "Зеленый железный хауберк",
                     count = 1,
@@ -21925,7 +21915,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781875353,
+            last_update = 1781876945,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
