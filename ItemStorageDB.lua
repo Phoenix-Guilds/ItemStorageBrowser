@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781876955
+ItemStorageDB_LastUpdate = 1781877051
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18213,9 +18213,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-19 16:37:48",
+        updated_at = "2026-06-19 16:50:51",
         money = 1158902,
-        empty = 127,
+        empty = 128,
         location = "Оргриммар",
         items = {
             {
@@ -18236,7 +18236,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                 name = "Тенешелк",
-                count = 107,
+                count = 100,
             },
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
@@ -18350,7 +18350,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781876202,
+            last_update = 1781877024,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18415,7 +18415,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781876210,
+            last_update = 1781877039,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18430,7 +18430,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                     name = "Тенешелк",
-                    count = 107,
+                    count = 100,
                 },
                 {
                     link = "|cffffffff|Hitem:14227:0:0:0:0:0:0:0:10|h[Железношелковая паутина]|h|r",
