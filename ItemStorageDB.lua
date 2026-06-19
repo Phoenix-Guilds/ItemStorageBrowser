@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781875509
+ItemStorageDB_LastUpdate = 1781875692
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22147,10 +22147,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-19 09:15:33",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-19 16:28:12",
         money = 194111,
-        empty = 108,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -22181,7 +22181,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                 name = "Калейдоскопическая цепь",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -22610,7 +22610,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781849320,
+            last_update = 1781875572,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22950,7 +22950,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781849354,
+            last_update = 1781875679,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22965,7 +22965,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                     name = "Калейдоскопическая цепь",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
