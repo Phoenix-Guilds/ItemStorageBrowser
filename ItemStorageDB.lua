@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781849100
+ItemStorageDB_LastUpdate = 1781849149
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22183,9 +22183,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-19 08:00:43",
+        updated_at = "2026-06-19 09:05:49",
         money = 194111,
-        empty = 105,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -22201,7 +22201,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
                 name = "Кольцо очищения",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13001:0:0:0:0:0:0:0:10|h[Обруч девушки]|h|r",
@@ -22474,11 +22474,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:20823:0:0:0:0:0:0:0:10|h[Мрачное кольцо]|h|r",
-                name = "Мрачное кольцо",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
                 name = "Кольцо сумеречных призраков",
                 count = 3,
@@ -22655,7 +22650,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781845238,
+            last_update = 1781849133,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22665,7 +22660,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
                     name = "Кольцо очищения",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13001:0:0:0:0:0:0:0:10|h[Обруч девушки]|h|r",
@@ -22868,11 +22863,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:20823:0:0:0:0:0:0:0:10|h[Мрачное кольцо]|h|r",
-                    name = "Мрачное кольцо",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
                     name = "Кольцо сумеречных призраков",
                     count = 3,
@@ -23000,7 +22990,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781845239,
+            last_update = 1781849143,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
