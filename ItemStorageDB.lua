@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781849295
+ItemStorageDB_LastUpdate = 1781849733
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22178,9 +22178,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-19 09:05:49",
+        updated_at = "2026-06-19 09:15:33",
         money = 194111,
-        empty = 107,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -22559,11 +22559,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:21934:0:0:0:0:0:0:0:10|h[Изысканное ожерелье тигрового глаза]|h|r",
-                name = "Изысканное ожерелье тигрового глаза",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:24074:0:0:0:0:0:0:0:10|h[Кровавое кольцо из оскверненного железа]|h|r",
                 name = "Кровавое кольцо из оскверненного железа",
                 count = 2,
@@ -22645,7 +22640,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781849133,
+            last_update = 1781849320,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22985,7 +22980,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781849143,
+            last_update = 1781849354,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23091,11 +23086,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:21790:0:0:0:0:0:0:0:10|h[Сапфировая подвеска зимней ночи]|h|r",
                     name = "Сапфировая подвеска зимней ночи",
                     count = 2,
-                },
-                {
-                    link = "|cff1eff00|Hitem:21934:0:0:0:0:0:0:0:10|h[Изысканное ожерелье тигрового глаза]|h|r",
-                    name = "Изысканное ожерелье тигрового глаза",
-                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
