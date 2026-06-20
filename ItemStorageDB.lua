@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781964830
+ItemStorageDB_LastUpdate = 1781965250
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6978,9 +6978,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-20 17:12:05",
+        updated_at = "2026-06-20 17:20:50",
         money = 181084,
-        empty = 163,
+        empty = 165,
         location = "Оргриммар",
         items = {
             {
@@ -7289,11 +7289,6 @@ ItemStorageDB = {
                 count = 123,
             },
             {
-                link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
-                name = "Чешуя скорпида",
-                count = 65,
-            },
-            {
                 link = "|cffffffff|Hitem:8165:0:0:0:0:0:0:0:10|h[Потертая драконья чешуя]|h|r",
                 name = "Потертая драконья чешуя",
                 count = 62,
@@ -7320,7 +7315,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781876120,
+            last_update = 1781964852,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7538,11 +7533,6 @@ ItemStorageDB = {
                     count = 143,
                 },
                 {
-                    link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
-                    name = "Чешуя скорпида",
-                    count = 65,
-                },
-                {
                     link = "|cffffffff|Hitem:8165:0:0:0:0:0:0:0:10|h[Потертая драконья чешуя]|h|r",
                     name = "Потертая драконья чешуя",
                     count = 62,
@@ -7570,7 +7560,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781964712,
+            last_update = 1781964861,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
