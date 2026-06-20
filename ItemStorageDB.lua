@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781945298
+ItemStorageDB_LastUpdate = 1781945563
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20803,10 +20803,10 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-20 11:48:18",
+        updated_at = "2026-06-20 11:52:43",
         money = 3936,
-        empty = 37,
-        location = "",
+        empty = 35,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -20861,7 +20861,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                 name = "Набедренники Снопевца",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -21334,6 +21334,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
+                name = "Черные бархатные одеяния",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
                 count = 2,
@@ -21460,7 +21465,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781944747,
+            last_update = 1781945553,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -22005,7 +22010,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781945284,
+            last_update = 1781945556,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -22025,7 +22030,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                     name = "Набедренники Снопевца",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
@@ -22175,6 +22180,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
                     name = "Святой капюшон",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
+                    name = "Черные бархатные одеяния",
                     count = 1,
                 },
                 {
