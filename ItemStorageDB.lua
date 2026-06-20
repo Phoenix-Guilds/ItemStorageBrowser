@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781947116
+ItemStorageDB_LastUpdate = 1781947715
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20808,9 +20808,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-20 12:18:36",
+        updated_at = "2026-06-20 12:28:35",
         money = 3936,
-        empty = 29,
+        empty = 28,
         location = "Оргриммар",
         items = {
             {
@@ -20831,7 +20831,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -21475,7 +21475,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781947109,
+            last_update = 1781947706,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -22020,7 +22020,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781947111,
+            last_update = 1781947709,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -22031,6 +22031,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                     name = "Перчатки Волшебного кулака",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
+                    name = "Мертвопламенный плащ",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
