@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781965250
+ItemStorageDB_LastUpdate = 1781965498
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2382,10 +2382,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-20 12:31:15",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-20 17:24:58",
         money = 92710,
-        empty = 61,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -2501,11 +2501,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                 name = "Ручной молот Мертвого Леса",
-                count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
-                name = "Небесный свет",
                 count = 2,
             },
             {
@@ -3010,7 +3005,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781947866,
+            last_update = 1781965466,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3110,11 +3105,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                     name = "Ручной молот Мертвого Леса",
-                    count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
-                    name = "Небесный свет",
                     count = 2,
                 },
                 {
@@ -3545,7 +3535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781947870,
+            last_update = 1781965479,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
