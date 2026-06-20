@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781946887
+ItemStorageDB_LastUpdate = 1781946942
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22278,7 +22278,7 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-19 09:15:33",
+        updated_at = "2026-06-20 12:15:42",
         money = 194111,
         empty = 108,
         location = "Оргриммар",
@@ -22311,7 +22311,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                 name = "Калейдоскопическая цепь",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -22461,7 +22461,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
                 name = "Кольцо побегов",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
@@ -22740,7 +22740,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781849320,
+            last_update = 1781946933,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22865,7 +22865,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
                     name = "Кольцо побегов",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
@@ -23080,7 +23080,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781849354,
+            last_update = 1781946937,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23095,7 +23095,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                     name = "Калейдоскопическая цепь",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
