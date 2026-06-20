@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781946331
+ItemStorageDB_LastUpdate = 1781946375
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11518,9 +11518,9 @@ ItemStorageDB = {
     {
         name = "Ожерельная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 08:15:13",
+        updated_at = "2026-06-20 12:06:15",
         money = 13785,
-        empty = 108,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -11561,7 +11561,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31258:0:0:0:0:0:0:0:10|h[Кольцо скорби]|h|r",
                 name = "Кольцо скорби",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31275:0:0:0:0:0:0:0:10|h[Ожерелье добычи]|h|r",
@@ -11760,7 +11760,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780636494,
+            last_update = 1781946368,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
@@ -11800,7 +11800,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31258:0:0:0:0:0:0:0:10|h[Кольцо скорби]|h|r",
                     name = "Кольцо скорби",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31275:0:0:0:0:0:0:0:10|h[Ожерелье добычи]|h|r",
@@ -12000,7 +12000,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780636509,
+            last_update = 1781946370,
             items = {
             },
         },
