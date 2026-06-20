@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781946375
+ItemStorageDB_LastUpdate = 1781946426
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20793,9 +20793,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-20 11:52:43",
+        updated_at = "2026-06-20 12:07:06",
         money = 3936,
-        empty = 35,
+        empty = 32,
         location = "Оргриммар",
         items = {
             {
@@ -21036,7 +21036,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                 name = "Крыло дракончика",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -21051,12 +21051,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
                 name = "Эльфийские плетеные сапоги",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
                 name = "Рукавицы Зовущего битву",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
@@ -21455,7 +21455,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781945553,
+            last_update = 1781946418,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -22000,7 +22000,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781945556,
+            last_update = 1781946421,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -22088,8 +22088,23 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
+                    name = "Крыло дракончика",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
                     name = "Сапоги из чешуи равазавра",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
+                    name = "Эльфийские плетеные сапоги",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
+                    name = "Рукавицы Зовущего битву",
                     count = 1,
                 },
                 {
