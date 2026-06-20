@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1781946426
+ItemStorageDB_LastUpdate = 1781946471
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-20 11:38:16",
+        updated_at = "2026-06-20 12:07:51",
         money = 92710,
-        empty = 65,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2416,7 +2416,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -2527,6 +2527,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
                 name = "Клинок фанатика",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
+                name = "Рапира из быстростали",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13035:0:0:0:0:0:0:0:10|h[Змеиный тесак]|h|r",
@@ -2781,7 +2786,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                 name = "Клык Боана",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
@@ -3005,7 +3010,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781944688,
+            last_update = 1781946462,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3540,7 +3545,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781944691,
+            last_update = 1781946466,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3550,7 +3555,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                     name = "Топор геолога",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -3560,6 +3565,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
                     name = "Рыцарский щит Красной бороды",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
+                    name = "Рапира из быстростали",
                     count = 1,
                 },
                 {
@@ -3605,6 +3615,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
+                    name = "Клык Боана",
                     count = 1,
                 },
                 {
