@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782015433
+ItemStorageDB_LastUpdate = 1782017632
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2382,8 +2382,8 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-20 17:24:58",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-21 07:53:52",
         money = 92710,
         empty = 63,
         location = "Оргриммар",
@@ -3005,7 +3005,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781965466,
+            last_update = 1782017623,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3025,6 +3025,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12974:0:0:0:0:0:0:0:10|h[Черный рыцарь]|h|r",
                     name = "Черный рыцарь",
+                    count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
+                    name = "Топор геолога",
                     count = 2,
                 },
                 {
@@ -3535,16 +3540,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781965479,
+            last_update = 1782017626,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                     name = "Эгида Штормграда",
-                    count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
-                    name = "Топор геолога",
                     count = 2,
                 },
                 {
