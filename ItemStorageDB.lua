@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782034816
+ItemStorageDB_LastUpdate = 1782034868
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4812,10 +4812,10 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-20 12:05:31",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-21 12:41:08",
         money = 999680,
-        empty = 122,
+        empty = 123,
         location = "Оргриммар",
         items = {
             {
@@ -5054,11 +5054,6 @@ ItemStorageDB = {
                 count = 51,
             },
             {
-                link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
-                name = "Синяя жемчужина",
-                count = 5,
-            },
-            {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
                 count = 39,
@@ -5120,7 +5115,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781946292,
+            last_update = 1782034839,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5375,7 +5370,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781946299,
+            last_update = 1782034852,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5416,11 +5411,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                     name = "Черная жемчужина",
                     count = 53,
-                },
-                {
-                    link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
-                    name = "Синяя жемчужина",
-                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
