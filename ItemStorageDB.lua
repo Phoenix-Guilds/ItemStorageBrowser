@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782035202
+ItemStorageDB_LastUpdate = 1782035307
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18368,7 +18368,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-21 12:46:42",
+        updated_at = "2026-06-21 12:48:27",
         money = 1005064,
         empty = 149,
         location = "Оргриммар",
@@ -18636,12 +18636,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8838:0:0:0:0:0:0:0:10|h[Солнечник]|h|r",
                 name = "Солнечник",
-                count = 89,
+                count = 73,
             },
             {
                 link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                 name = "Пастушья сумка",
-                count = 117,
+                count = 101,
             },
             {
                 link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
@@ -18655,7 +18655,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782035185,
+            last_update = 1782035289,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18860,12 +18860,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8838:0:0:0:0:0:0:0:10|h[Солнечник]|h|r",
                     name = "Солнечник",
-                    count = 89,
+                    count = 73,
                 },
                 {
                     link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                     name = "Пастушья сумка",
-                    count = 117,
+                    count = 101,
                 },
                 {
                     link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
@@ -18880,7 +18880,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782035195,
+            last_update = 1782035296,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
