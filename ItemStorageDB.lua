@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782067151
+ItemStorageDB_LastUpdate = 1782067282
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18377,10 +18377,10 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-21 12:48:27",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-21 21:41:22",
         money = 1005064,
-        empty = 149,
+        empty = 150,
         location = "Оргриммар",
         items = {
             {
@@ -18529,11 +18529,6 @@ ItemStorageDB = {
                 count = 36,
             },
             {
-                link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
-                name = "Золотой клевер",
-                count = 35,
-            },
-            {
                 link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                 name = "Язык аспида",
                 count = 38,
@@ -18665,7 +18660,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782035289,
+            last_update = 1782067276,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18783,11 +18778,6 @@ ItemStorageDB = {
                     count = 60,
                 },
                 {
-                    link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
-                    name = "Золотой клевер",
-                    count = 35,
-                },
-                {
                     link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                     name = "Язык аспида",
                     count = 38,
@@ -18890,7 +18880,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782035296,
+            last_update = 1782067278,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
