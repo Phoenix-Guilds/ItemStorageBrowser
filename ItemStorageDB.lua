@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782066942
+ItemStorageDB_LastUpdate = 1782067151
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8683,9 +8683,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-21 21:35:42",
+        updated_at = "2026-06-21 21:39:11",
         money = 208636,
-        empty = 67,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -8954,6 +8954,11 @@ ItemStorageDB = {
                 count = 21,
             },
             {
+                link = "|cffffffff|Hitem:40078:0:0:0:0:0:0:0:10|h[Мощный эликсир стойкости]|h|r",
+                name = "Мощный эликсир стойкости",
+                count = 36,
+            },
+            {
                 link = "|cffffffff|Hitem:40093:0:0:0:0:0:0:0:10|h[Зелье несокрушимости]|h|r",
                 name = "Зелье несокрушимости",
                 count = 11,
@@ -9135,7 +9140,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782066868,
+            last_update = 1782067144,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9328,6 +9333,11 @@ ItemStorageDB = {
                     count = 21,
                 },
                 {
+                    link = "|cffffffff|Hitem:40078:0:0:0:0:0:0:0:10|h[Мощный эликсир стойкости]|h|r",
+                    name = "Мощный эликсир стойкости",
+                    count = 36,
+                },
+                {
                     link = "|cffffffff|Hitem:40093:0:0:0:0:0:0:0:10|h[Зелье несокрушимости]|h|r",
                     name = "Зелье несокрушимости",
                     count = 11,
@@ -9495,7 +9505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782066871,
+            last_update = 1782067146,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
