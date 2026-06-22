@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782103757
+ItemStorageDB_LastUpdate = 1782103810
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2382,10 +2382,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-21 19:01:39",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-22 07:50:10",
         money = 92710,
-        empty = 64,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -2636,7 +2636,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -3000,7 +3000,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782056950,
+            last_update = 1782103803,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3375,7 +3375,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
                     name = "Пронзатель",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
@@ -3530,7 +3530,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782057690,
+            last_update = 1782103805,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3555,7 +3555,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -3605,11 +3605,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
                     name = "Короткий меч отмщения",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
-                    name = "Пронзатель",
                     count = 1,
                 },
                 {
