@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782105151
+ItemStorageDB_LastUpdate = 1782105192
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22163,9 +22163,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-21 07:54:54",
+        updated_at = "2026-06-22 08:13:12",
         money = 194111,
-        empty = 108,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -22242,6 +22242,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
                 name = "Кольцо жреца",
                 count = 3,
+            },
+            {
+                link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
+                name = "Кольцо грозного лика",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1491:0:0:0:0:0:0:0:10|h[Кольцо точности]|h|r",
@@ -22625,7 +22630,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782017685,
+            last_update = 1782105186,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22661,6 +22666,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
                     name = "Кольцо жреца",
                     count = 3,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
+                    name = "Кольцо грозного лика",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1491:0:0:0:0:0:0:0:10|h[Кольцо точности]|h|r",
@@ -22965,7 +22975,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782017688,
+            last_update = 1782105187,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
