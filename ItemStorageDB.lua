@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782148351
+ItemStorageDB_LastUpdate = 1782148391
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22158,9 +22158,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 08:13:12",
+        updated_at = "2026-06-22 20:13:11",
         money = 194111,
-        empty = 107,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -22449,11 +22449,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
-                name = "Инкрустированное малахитом кольцо",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
                 name = "Кольцо сумеречных призраков",
                 count = 3,
@@ -22625,7 +22620,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782105186,
+            last_update = 1782148376,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22838,11 +22833,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
-                    name = "Инкрустированное малахитом кольцо",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
                     name = "Кольцо сумеречных призраков",
                     count = 3,
@@ -22970,7 +22960,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782105187,
+            last_update = 1782148383,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
