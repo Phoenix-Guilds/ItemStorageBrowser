@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782148787
+ItemStorageDB_LastUpdate = 1782148822
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7618,9 +7618,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-20 21:52:51",
+        updated_at = "2026-06-22 20:20:22",
         money = 0,
-        empty = 200,
+        empty = 201,
         location = "Оргриммар",
         items = {
             {
@@ -7689,19 +7689,14 @@ ItemStorageDB = {
                 count = 43,
             },
             {
-                link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
-                name = "Хрустящий хвост ящерицы",
-                count = 13,
-            },
-            {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
                 count = 50,
             },
             {
-                link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
-                name = "Гигантский жареный моллюск",
-                count = 1,
+                link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
+                name = "Мидии по-гоблински",
+                count = 37,
             },
             {
                 link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
@@ -7710,7 +7705,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781981516,
+            last_update = 1782148815,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7783,6 +7778,11 @@ ItemStorageDB = {
                     count = 50,
                 },
                 {
+                    link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
+                    name = "Мидии по-гоблински",
+                    count = 37,
+                },
+                {
                     link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
                     name = "Яйцо с травами",
                     count = 86,
@@ -7790,18 +7790,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781981520,
+            last_update = 1782148818,
             items = {
-                {
-                    link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
-                    name = "Хрустящий хвост ящерицы",
-                    count = 13,
-                },
-                {
-                    link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
-                    name = "Гигантский жареный моллюск",
-                    count = 1,
-                },
             },
         },
     },
