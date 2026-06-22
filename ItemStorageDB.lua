@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782103958
+ItemStorageDB_LastUpdate = 1782104046
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5773,7 +5773,7 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 07:52:38",
+        updated_at = "2026-06-22 07:54:06",
         money = 421241,
         empty = 54,
         location = "Оргриммар",
@@ -6110,7 +6110,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782103955,
+            last_update = 1782104004,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6305,7 +6305,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12365:0:0:0:0:0:0:0:10|h[Массивный камень]|h|r",
                     name = "Массивный камень",
-                    count = 550,
+                    count = 479,
                 },
                 {
                     link = "|cffffffff|Hitem:12644:0:0:0:0:0:0:0:10|h[Массивный шлифовальный камень]|h|r",
@@ -6340,7 +6340,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                     name = "Твердый камень",
-                    count = 1076,
+                    count = 476,
                 },
                 {
                     link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
@@ -6350,7 +6350,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782103955,
+            last_update = 1782104041,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6380,7 +6380,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12365:0:0:0:0:0:0:0:10|h[Массивный камень]|h|r",
                     name = "Массивный камень",
-                    count = 729,
+                    count = 800,
                 },
                 {
                     link = "|cffffffff|Hitem:12404:0:0:0:0:0:0:0:10|h[Массивное точило]|h|r",
@@ -6446,6 +6446,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:6043:0:0:0:0:0:0:0:10|h[Железный противовес]|h|r",
                     name = "Железный противовес",
                     count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
+                    name = "Твердый камень",
+                    count = 600,
                 },
                 {
                     link = "|cffffffff|Hitem:7964:0:0:0:0:0:0:0:10|h[Твердое точило]|h|r",
