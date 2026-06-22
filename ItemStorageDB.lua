@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782150156
+ItemStorageDB_LastUpdate = 1782152817
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12923,9 +12923,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 20:24:30",
+        updated_at = "2026-06-22 21:26:57",
         money = 164134,
-        empty = 47,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -13391,6 +13391,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:18661:0:0:0:0:0:0:0:10|h[Схема: увеличитель мира]|h|r",
                 name = "Схема: увеличитель мира",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:21547:0:0:0:0:0:0:0:10|h[Рецепт: сильный эликсир огневой мощи]|h|r",
+                name = "Рецепт: сильный эликсир огневой мощи",
                 count = 1,
             },
             {
@@ -14830,7 +14835,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782149052,
+            last_update = 1782152807,
             items = {
                 {
                     link = "|cff0070dd|Hitem:24170:0:0:0:0:0:0:0:10|h[Эскиз: объятия рассвета]|h|r",
@@ -14960,6 +14965,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:18661:0:0:0:0:0:0:0:10|h[Схема: увеличитель мира]|h|r",
                     name = "Схема: увеличитель мира",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:21547:0:0:0:0:0:0:0:10|h[Рецепт: сильный эликсир огневой мощи]|h|r",
+                    name = "Рецепт: сильный эликсир огневой мощи",
                     count = 1,
                 },
                 {
