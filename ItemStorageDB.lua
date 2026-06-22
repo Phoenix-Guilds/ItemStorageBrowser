@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782148991
+ItemStorageDB_LastUpdate = 1782149070
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12913,9 +12913,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-17 10:12:55",
+        updated_at = "2026-06-22 20:24:30",
         money = 164134,
-        empty = 46,
+        empty = 47,
         location = "Оргриммар",
         items = {
             {
@@ -13944,11 +13944,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffffffff|Hitem:3737:0:0:0:0:0:0:0:10|h[Рецепт: нежный черепаховый суп]|h|r",
-                name = "Рецепт: нежный черепаховый суп",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:3830:0:0:0:0:0:0:0:10|h[Рецепт: эликсир стойкости]|h|r",
                 name = "Рецепт: эликсир стойкости",
                 count = 1,
@@ -13995,7 +13990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1781680367,
+            last_update = 1782149041,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14778,11 +14773,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:3737:0:0:0:0:0:0:0:10|h[Рецепт: нежный черепаховый суп]|h|r",
-                    name = "Рецепт: нежный черепаховый суп",
-                    count = 1,
-                },
-                {
                     link = "|cffffffff|Hitem:3830:0:0:0:0:0:0:0:10|h[Рецепт: эликсир стойкости]|h|r",
                     name = "Рецепт: эликсир стойкости",
                     count = 1,
@@ -14808,6 +14798,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
+                    name = "Рецепт: эликсир силы огра",
+                    count = 1,
+                },
+                {
                     link = "|cffffffff|Hitem:6369:0:0:0:0:0:0:0:10|h[Рецепт: каменношкурая треска]|h|r",
                     name = "Рецепт: каменношкурая треска",
                     count = 1,
@@ -14825,7 +14820,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1781680369,
+            last_update = 1782149052,
             items = {
                 {
                     link = "|cff0070dd|Hitem:24170:0:0:0:0:0:0:0:10|h[Эскиз: объятия рассвета]|h|r",
@@ -15070,11 +15065,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:9298:0:0:0:0:0:0:0:10|h[Рецепт: эликсир великанов]|h|r",
                     name = "Рецепт: эликсир великанов",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
-                    name = "Рецепт: эликсир силы огра",
                     count = 1,
                 },
             },
