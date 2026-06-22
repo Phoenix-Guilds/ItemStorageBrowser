@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782103810
+ItemStorageDB_LastUpdate = 1782103850
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20658,9 +20658,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-21 07:54:19",
+        updated_at = "2026-06-22 07:50:50",
         money = 3936,
-        empty = 28,
+        empty = 27,
         location = "Оргриммар",
         items = {
             {
@@ -21269,6 +21269,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:10331:0:0:0:0:0:0:0:10|h[Алые рукавицы]|h|r",
+                name = "Алые рукавицы",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:2620:0:0:0:0:0:0:0:10|h[Капюшон авгура]|h|r",
                 name = "Капюшон авгура",
                 count = 1,
@@ -21325,7 +21330,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782017650,
+            last_update = 1782103839,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21870,7 +21875,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782017653,
+            last_update = 1782103844,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -22115,6 +22120,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
                     name = "Алый пояс",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:10331:0:0:0:0:0:0:0:10|h[Алые рукавицы]|h|r",
+                    name = "Алые рукавицы",
                     count = 1,
                 },
                 {
