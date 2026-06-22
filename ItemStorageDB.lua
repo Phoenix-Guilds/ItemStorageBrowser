@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782105192
+ItemStorageDB_LastUpdate = 1782105243
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20663,9 +20663,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 07:50:50",
+        updated_at = "2026-06-22 08:14:03",
         money = 3936,
-        empty = 27,
+        empty = 25,
         location = "Оргриммар",
         items = {
             {
@@ -20684,6 +20684,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
+                name = "Пояс вестника шторма",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
                 count = 2,
@@ -20697,6 +20702,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12988:0:0:0:0:0:0:0:10|h[Мундир Звездного зрения]|h|r",
                 name = "Мундир Звездного зрения",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
+                name = "Рукавицы Торбии",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
@@ -21335,7 +21345,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782103839,
+            last_update = 1782105236,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21880,7 +21890,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782103844,
+            last_update = 1782105238,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21893,8 +21903,18 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
+                    name = "Пояс вестника шторма",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                     name = "Мертвопламенный плащ",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
+                    name = "Рукавицы Торбии",
                     count = 1,
                 },
                 {
