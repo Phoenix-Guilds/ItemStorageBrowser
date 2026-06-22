@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782148235
+ItemStorageDB_LastUpdate = 1782148289
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 07:50:10",
+        updated_at = "2026-06-22 20:11:29",
         money = 92710,
-        empty = 63,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -2426,7 +2426,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
@@ -3000,7 +3000,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782103803,
+            last_update = 1782148269,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3035,7 +3035,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
@@ -3275,7 +3275,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2236:0:0:0:0:0:0:0:10|h[Черный клык]|h|r",
                     name = "Черный клык",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:2256:0:0:0:0:0:0:0:10|h[Скелетная дубина]|h|r",
@@ -3530,7 +3530,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782103805,
+            last_update = 1782148282,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3571,11 +3571,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
                     name = "Фамильный щит Гарреттов",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2236:0:0:0:0:0:0:0:10|h[Черный клык]|h|r",
-                    name = "Черный клык",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2567:0:0:0:0:0:0:0:10|h[Клинок Зовущего]|h|r",
