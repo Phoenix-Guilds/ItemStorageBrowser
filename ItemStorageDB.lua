@@ -1,12 +1,12 @@
-ItemStorageDB_LastUpdate = 1782306047
+ItemStorageDB_LastUpdate = 1782306155
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 21:57:13",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-24 16:02:35",
         money = 339404,
         empty = 108,
-        location = "",
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -306,7 +306,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
                 name = "Символ пытки разума",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:42453:0:0:0:0:0:0:0:10|h[Символ испепеления]|h|r",
@@ -756,7 +756,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
                 name = "Символ левитации",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:43374:0:0:0:0:0:0:0:10|h[Символ исчадия Тьмы]|h|r",
@@ -1190,7 +1190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782148427,
+            last_update = 1782306145,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1485,7 +1485,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42415:0:0:0:0:0:0:0:10|h[Символ пытки разума]|h|r",
                     name = "Символ пытки разума",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:42453:0:0:0:0:0:0:0:10|h[Символ испепеления]|h|r",
@@ -1935,7 +1935,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
                     name = "Символ левитации",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:43374:0:0:0:0:0:0:0:10|h[Символ исчадия Тьмы]|h|r",
@@ -2370,7 +2370,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782154619,
+            last_update = 1782306146,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
