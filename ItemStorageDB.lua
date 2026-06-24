@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782305334
+ItemStorageDB_LastUpdate = 1782305853
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20637,10 +20637,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 20:10:35",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-24 15:57:33",
         money = 3936,
-        empty = 27,
+        empty = 30,
         location = "Оргриммар",
         items = {
             {
@@ -20921,7 +20921,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
                 name = "Корона северного разбойника",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
@@ -21116,7 +21116,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
                 name = "Одеяние мага",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
@@ -21264,11 +21264,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:2620:0:0:0:0:0:0:0:10|h[Капюшон авгура]|h|r",
-                name = "Капюшон авгура",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:6428:0:0:0:0:0:0:0:10|h[Туманные перчатки]|h|r",
                 name = "Туманные перчатки",
                 count = 1,
@@ -21320,7 +21315,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782148211,
+            last_update = 1782305819,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21725,7 +21720,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
                     name = "Одеяние мага",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
@@ -21870,7 +21865,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782148228,
+            last_update = 1782305836,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21995,7 +21990,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
                     name = "Корона северного разбойника",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
@@ -22125,11 +22120,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:10331:0:0:0:0:0:0:0:10|h[Алые рукавицы]|h|r",
                     name = "Алые рукавицы",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:2620:0:0:0:0:0:0:0:10|h[Капюшон авгура]|h|r",
-                    name = "Капюшон авгура",
                     count = 1,
                 },
                 {
