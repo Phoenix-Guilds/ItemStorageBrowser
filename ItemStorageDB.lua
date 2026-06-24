@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782305963
+ItemStorageDB_LastUpdate = 1782306047
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22117,10 +22117,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 20:13:11",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-24 16:00:47",
         money = 194111,
-        empty = 108,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
@@ -22166,7 +22166,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
                 name = "Оберег Газлова",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
@@ -22466,7 +22466,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20961:0:0:0:0:0:0:0:10|h[Цитриновое кольцо быстрого исцеления]|h|r",
                 name = "Цитриновое кольцо быстрого исцеления",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
@@ -22580,7 +22580,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782148376,
+            last_update = 1782306028,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22835,7 +22835,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20961:0:0:0:0:0:0:0:10|h[Цитриновое кольцо быстрого исцеления]|h|r",
                     name = "Цитриновое кольцо быстрого исцеления",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:21765:0:0:0:0:0:0:0:10|h[Целительное кольцо из истинного серебра]|h|r",
@@ -22920,7 +22920,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782148383,
+            last_update = 1782306035,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22950,7 +22950,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
                     name = "Оберег Газлова",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
