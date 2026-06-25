@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782363516
+ItemStorageDB_LastUpdate = 1782363567
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22098,9 +22098,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-25 07:42:21",
+        updated_at = "2026-06-25 07:59:27",
         money = 194111,
-        empty = 110,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -22221,7 +22221,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:507:0:10|h[Тяжелое серебряное кольцо со знаком волка]|h|r",
                 name = "Тяжелое серебряное кольцо со знаком волка",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:760:0:10|h[Тяжелое серебряное кольцо со знаком совы]|h|r",
@@ -22560,7 +22560,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782362533,
+            last_update = 1782363561,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22630,7 +22630,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:20826:0:0:0:0:0:507:0:10|h[Тяжелое серебряное кольцо со знаком волка]|h|r",
                     name = "Тяжелое серебряное кольцо со знаком волка",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:20826:0:0:0:0:0:760:0:10|h[Тяжелое серебряное кольцо со знаком совы]|h|r",
@@ -22900,7 +22900,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782362536,
+            last_update = 1782363562,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
