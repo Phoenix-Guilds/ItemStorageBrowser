@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782362430
+ItemStorageDB_LastUpdate = 1782362468
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20618,7 +20618,7 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-24 23:43:07",
+        updated_at = "2026-06-25 07:41:08",
         money = 3936,
         empty = 35,
         location = "Оргриммар",
@@ -21285,7 +21285,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782333668,
+            last_update = 1782362460,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21350,6 +21350,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13031:0:0:0:0:0:0:0:10|h[Сфера Мисмантла]|h|r",
                     name = "Сфера Мисмантла",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
+                    name = "Наплеч Змееубийцы",
                     count = 1,
                 },
                 {
@@ -21525,6 +21530,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
                     name = "Искрящееся оплечье",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
+                    name = "Скелетные наплечники",
                     count = 1,
                 },
                 {
@@ -21830,7 +21840,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782333717,
+            last_update = 1782362462,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21885,7 +21895,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
                     name = "Наплеч Змееубийцы",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13068:0:0:0:0:0:0:0:10|h[Обсидиановые наголенники]|h|r",
@@ -21960,7 +21970,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                     name = "Скелетные наплечники",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
