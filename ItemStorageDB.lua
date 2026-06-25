@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782362254
+ItemStorageDB_LastUpdate = 1782362294
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3623,9 +3623,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 08:05:24",
+        updated_at = "2026-06-25 07:38:14",
         money = 158410,
-        empty = 160,
+        empty = 159,
         location = "Оргриммар",
         items = {
             {
@@ -3749,6 +3749,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:37810:0:0:0:0:0:0:0:10|h[Оплот-мечелом]|h|r",
+                name = "Оплот-мечелом",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:37811:0:0:0:0:0:0:0:10|h[Увещеватель капитана Карвера]|h|r",
                 name = "Увещеватель капитана Карвера",
                 count = 2,
@@ -3800,7 +3805,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780635918,
+            last_update = 1782362289,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3923,6 +3928,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:37810:0:0:0:0:0:0:0:10|h[Оплот-мечелом]|h|r",
+                    name = "Оплот-мечелом",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:37811:0:0:0:0:0:0:0:10|h[Увещеватель капитана Карвера]|h|r",
                     name = "Увещеватель капитана Карвера",
                     count = 2,
@@ -3975,7 +3985,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780635919,
+            last_update = 1782362290,
             items = {
             },
         },
