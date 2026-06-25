@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782362294
+ItemStorageDB_LastUpdate = 1782362348
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11993,9 +11993,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 08:12:31",
+        updated_at = "2026-06-25 07:39:08",
         money = 13104,
-        empty = 71,
+        empty = 72,
         location = "Оргриммар",
         items = {
             {
@@ -12071,7 +12071,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
                 name = "Огнеиспускатель Джайны",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
@@ -12190,7 +12190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782105137,
+            last_update = 1782362343,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12260,7 +12260,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
                     name = "Огнеиспускатель Джайны",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
@@ -12320,7 +12320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782105147,
+            last_update = 1782362344,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
