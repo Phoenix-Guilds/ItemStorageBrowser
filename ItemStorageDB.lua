@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782501191
+ItemStorageDB_LastUpdate = 1782501402
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20618,9 +20618,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-25 07:41:08",
+        updated_at = "2026-06-26 22:16:42",
         money = 3936,
-        empty = 35,
+        empty = 36,
         location = "Оргриммар",
         items = {
             {
@@ -20906,7 +20906,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
                 name = "Поножи Огненной Гривы",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
@@ -21285,7 +21285,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782362460,
+            last_update = 1782501394,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10041:0:0:0:0:0:0:0:10|h[Венец из ткани Грез]|h|r",
@@ -21520,7 +21520,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
                     name = "Поножи Огненной Гривы",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
@@ -21753,6 +21753,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
+                    name = "Ремень Келлера",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
                     name = "Перчатки буяна",
                     count = 1,
@@ -21840,7 +21845,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782362462,
+            last_update = 1782501396,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -22045,7 +22050,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                     name = "Ремень Келлера",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
