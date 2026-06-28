@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782670100
+ItemStorageDB_LastUpdate = 1782670352
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7623,9 +7623,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 20:25:46",
+        updated_at = "2026-06-28 21:12:32",
         money = 0,
-        empty = 200,
+        empty = 201,
         location = "Оргриммар",
         items = {
             {
@@ -7637,11 +7637,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
                 name = "Копченые пустынные клецки",
                 count = 20,
-            },
-            {
-                link = "|cffffffff|Hitem:21151:0:0:0:0:0:0:0:10|h[Ром Ромси \"Черный ярлык\"]|h|r",
-                name = "Ром Ромси \"Черный ярлык\"",
-                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
@@ -7715,7 +7710,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782149138,
+            last_update = 1782670122,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7726,11 +7721,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
                     name = "Копченые пустынные клецки",
                     count = 20,
-                },
-                {
-                    link = "|cffffffff|Hitem:21151:0:0:0:0:0:0:0:10|h[Ром Ромси \"Черный ярлык\"]|h|r",
-                    name = "Ром Ромси \"Черный ярлык\"",
-                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
@@ -7805,7 +7795,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782149142,
+            last_update = 1782670153,
             items = {
             },
         },
