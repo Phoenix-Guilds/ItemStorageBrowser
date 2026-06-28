@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782631842
+ItemStorageDB_LastUpdate = 1782632004
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15368,7 +15368,7 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-27 19:33:01",
+        updated_at = "2026-06-28 10:33:24",
         money = 214291,
         empty = 172,
         location = "Оргриммар",
@@ -15516,7 +15516,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38849:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - выносливость IV]|h|r",
                 name = "Свиток чар для наручей - выносливость IV",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:38897:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - грубая сила]|h|r",
@@ -15661,11 +15661,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
                 name = "Свиток интеллекта",
-                count = 31,
+                count = 21,
             },
         },
         bank = {
-            last_update = 1782577946,
+            last_update = 1782631955,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15815,12 +15815,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
                     name = "Свиток интеллекта",
-                    count = 31,
+                    count = 21,
                 },
             },
         },
         bags = {
-            last_update = 1782577972,
+            last_update = 1782631981,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -15865,7 +15865,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:38849:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - выносливость IV]|h|r",
                     name = "Свиток чар для наручей - выносливость IV",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:38897:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - грубая сила]|h|r",
