@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782656821
+ItemStorageDB_LastUpdate = 1782656899
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15358,7 +15358,7 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 17:23:47",
+        updated_at = "2026-06-28 17:28:19",
         money = 214291,
         empty = 172,
         location = "Оргриммар",
@@ -15631,7 +15631,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44457:0:0:0:0:0:0:0:10|h[Свиток чар для плаща - ловкость V]|h|r",
                 name = "Свиток чар для плаща - ловкость V",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:44458:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - крушитель]|h|r",
@@ -15655,7 +15655,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782656467,
+            last_update = 1782656842,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15810,7 +15810,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782656576,
+            last_update = 1782656883,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -15940,7 +15940,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:44457:0:0:0:0:0:0:0:10|h[Свиток чар для плаща - ловкость V]|h|r",
                     name = "Свиток чар для плаща - ловкость V",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:44458:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - крушитель]|h|r",
