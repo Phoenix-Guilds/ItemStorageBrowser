@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782620466
+ItemStorageDB_LastUpdate = 1782620510
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20623,9 +20623,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:55:21",
+        updated_at = "2026-06-28 07:21:50",
         money = 3936,
-        empty = 39,
+        empty = 37,
         location = "Оргриммар",
         items = {
             {
@@ -20921,7 +20921,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                 name = "Скелетные наплечники",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13133:0:0:0:0:0:0:0:10|h[Эполеты Драконьего огня]|h|r",
@@ -21129,6 +21129,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
+                name = "Сапоги тиноброда",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
                 count = 2,
@@ -21290,7 +21295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782618912,
+            last_update = 1782620497,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21850,7 +21855,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782618915,
+            last_update = 1782620505,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21963,6 +21968,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
+                    name = "Скелетные наплечники",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
                     name = "Пояс безмятежности",
                     count = 1,
@@ -22006,6 +22016,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:21774:0:0:0:0:0:0:0:10|h[Изумрудная корона разрушения]|h|r",
                     name = "Изумрудная корона разрушения",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
+                    name = "Сапоги тиноброда",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
