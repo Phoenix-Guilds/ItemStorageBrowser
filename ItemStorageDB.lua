@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782616564
+ItemStorageDB_LastUpdate = 1782616609
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3993,9 +3993,9 @@ ItemStorageDB = {
     {
         name = "Запределька",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:15:14",
+        updated_at = "2026-06-28 06:16:49",
         money = 13629,
-        empty = 137,
+        empty = 136,
         location = "Оргриммар",
         items = {
             {
@@ -4181,6 +4181,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25058:0:0:0:0:0:-36:21:10|h[Колье Ангелисты с меткой волшебника]|h|r",
                 name = "Колье Ангелисты с меткой волшебника",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:25061:0:0:0:0:0:-37:23:10|h[Гиддентовое ожерелье с меткой целителя]|h|r",
+                name = "Гиддентовое ожерелье с меткой целителя",
                 count = 1,
             },
             {
@@ -4390,7 +4395,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782616508,
+            last_update = 1782616602,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10270:0:0:0:0:0:793:0:10|h[Сапоги искусной работы со знаком совы]|h|r",
@@ -4578,6 +4583,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:25061:0:0:0:0:0:-37:23:10|h[Гиддентовое ожерелье с меткой целителя]|h|r",
+                    name = "Гиддентовое ожерелье с меткой целителя",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:25074:0:0:0:0:0:-17:22:10|h[Щит Телаари со знаком силы]|h|r",
                     name = "Щит Телаари со знаком силы",
                     count = 1,
@@ -4595,7 +4605,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782616509,
+            last_update = 1782616604,
             items = {
                 {
                     link = "|cff1eff00|Hitem:25087:0:0:0:0:0:-36:21:10|h[Кровоточащее Око с меткой волшебника]|h|r",
