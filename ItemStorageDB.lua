@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782616909
+ItemStorageDB_LastUpdate = 1782616945
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18403,7 +18403,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-25 07:44:16",
+        updated_at = "2026-06-28 06:22:25",
         money = 1005064,
         empty = 150,
         location = "Оргриммар",
@@ -18501,7 +18501,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
-                count = 48,
+                count = 49,
             },
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
@@ -18685,7 +18685,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782362646,
+            last_update = 1782616937,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18760,7 +18760,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                     name = "Земляной корень",
-                    count = 48,
+                    count = 49,
                 },
                 {
                     link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
@@ -18905,7 +18905,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782362651,
+            last_update = 1782616940,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
