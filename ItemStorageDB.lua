@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782618872
+ItemStorageDB_LastUpdate = 1782618921
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20718,9 +20718,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:50:09",
+        updated_at = "2026-06-28 06:55:21",
         money = 3936,
-        empty = 42,
+        empty = 39,
         location = "Оргриммар",
         items = {
             {
@@ -20941,7 +20941,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
                 name = "Оплечье Бараньей стрижки",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
@@ -21301,7 +21301,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                 name = "Ремень силы голема",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
@@ -21374,13 +21374,18 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:867:0:0:0:0:0:0:0:10|h[Перчатки Священной Мощи]|h|r",
+                name = "Перчатки Священной Мощи",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
                 name = "Одеяния Прозрения",
                 count = 2,
             },
         },
         bank = {
-            last_update = 1782618601,
+            last_update = 1782618912,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21940,7 +21945,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782618604,
+            last_update = 1782618915,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -22015,6 +22020,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
                     name = "Накидка черного пламени",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
+                    name = "Оплечье Бараньей стрижки",
                     count = 1,
                 },
                 {
@@ -22140,7 +22150,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                     name = "Ремень силы голема",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
@@ -22170,6 +22180,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2245:0:0:0:0:0:0:0:10|h[Шлем Нарва]|h|r",
                     name = "Шлем Нарва",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:867:0:0:0:0:0:0:0:10|h[Перчатки Священной Мощи]|h|r",
+                    name = "Перчатки Священной Мощи",
                     count = 1,
                 },
             },
