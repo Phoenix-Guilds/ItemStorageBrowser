@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782617452
+ItemStorageDB_LastUpdate = 1782617502
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6923,9 +6923,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:21:49",
+        updated_at = "2026-06-28 06:31:42",
         money = 181084,
-        empty = 157,
+        empty = 156,
         location = "Оргриммар",
         items = {
             {
@@ -7071,22 +7071,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25699:0:0:0:0:0:0:0:10|h[Пронизанная кристаллами кожа]|h|r",
                 name = "Пронизанная кристаллами кожа",
-                count = 187,
+                count = 193,
             },
             {
                 link = "|cffffffff|Hitem:25700:0:0:0:0:0:0:0:10|h[Скверночешуя]|h|r",
                 name = "Скверночешуя",
-                count = 81,
+                count = 82,
             },
             {
                 link = "|cffffffff|Hitem:25707:0:0:0:0:0:0:0:10|h[Скверношкура]|h|r",
                 name = "Скверношкура",
-                count = 82,
+                count = 87,
             },
             {
                 link = "|cffffffff|Hitem:25708:0:0:0:0:0:0:0:10|h[Плотная кожа копытня]|h|r",
                 name = "Плотная кожа копытня",
-                count = 51,
+                count = 61,
             },
             {
                 link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
@@ -7234,6 +7234,11 @@ ItemStorageDB = {
                 count = 123,
             },
             {
+                link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
+                name = "Чешуя скорпида",
+                count = 4,
+            },
+            {
                 link = "|cffffffff|Hitem:8165:0:0:0:0:0:0:0:10|h[Потертая драконья чешуя]|h|r",
                 name = "Потертая драконья чешуя",
                 count = 62,
@@ -7260,7 +7265,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782616903,
+            last_update = 1782617490,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7340,22 +7345,22 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:25699:0:0:0:0:0:0:0:10|h[Пронизанная кристаллами кожа]|h|r",
                     name = "Пронизанная кристаллами кожа",
-                    count = 187,
+                    count = 193,
                 },
                 {
                     link = "|cffffffff|Hitem:25700:0:0:0:0:0:0:0:10|h[Скверночешуя]|h|r",
                     name = "Скверночешуя",
-                    count = 81,
+                    count = 82,
                 },
                 {
                     link = "|cffffffff|Hitem:25707:0:0:0:0:0:0:0:10|h[Скверношкура]|h|r",
                     name = "Скверношкура",
-                    count = 82,
+                    count = 87,
                 },
                 {
                     link = "|cffffffff|Hitem:25708:0:0:0:0:0:0:0:10|h[Плотная кожа копытня]|h|r",
                     name = "Плотная кожа копытня",
-                    count = 51,
+                    count = 61,
                 },
                 {
                     link = "|cffffffff|Hitem:2934:0:0:0:0:0:0:0:10|h[Обрывки кожи]|h|r",
@@ -7478,6 +7483,11 @@ ItemStorageDB = {
                     count = 143,
                 },
                 {
+                    link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
+                    name = "Чешуя скорпида",
+                    count = 4,
+                },
+                {
                     link = "|cffffffff|Hitem:8165:0:0:0:0:0:0:0:10|h[Потертая драконья чешуя]|h|r",
                     name = "Потертая драконья чешуя",
                     count = 62,
@@ -7505,7 +7515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782616904,
+            last_update = 1782617497,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
