@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782618350
+ItemStorageDB_LastUpdate = 1782618555
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:16:04",
+        updated_at = "2026-06-28 06:49:15",
         money = 92710,
-        empty = 67,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -2726,7 +2726,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
@@ -2985,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782616558,
+            last_update = 1782618548,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782616559,
+            last_update = 1782618551,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3550,6 +3550,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2567:0:0:0:0:0:0:0:10|h[Клинок Зовущего]|h|r",
                     name = "Клинок Зовущего",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
+                    name = "Зазубренный боевой топор",
                     count = 1,
                 },
                 {
