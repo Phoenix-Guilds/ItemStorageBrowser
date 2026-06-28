@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782617296
+ItemStorageDB_LastUpdate = 1782617332
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9608,7 +9608,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-22 20:42:36",
+        updated_at = "2026-06-28 06:28:52",
         money = 4062,
         empty = 99,
         location = "Оргриммар",
@@ -9741,7 +9741,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25719:0:0:0:0:0:0:0:10|h[Перо араккоа]|h|r",
                 name = "Перо араккоа",
-                count = 56,
+                count = 70,
             },
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
@@ -9795,7 +9795,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782150150,
+            last_update = 1782617326,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9900,7 +9900,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:25719:0:0:0:0:0:0:0:10|h[Перо араккоа]|h|r",
                     name = "Перо араккоа",
-                    count = 56,
+                    count = 70,
                 },
                 {
                     link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
@@ -9955,7 +9955,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782150152,
+            last_update = 1782617328,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
