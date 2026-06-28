@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782617502
+ItemStorageDB_LastUpdate = 1782617576
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4803,9 +4803,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:24:09",
+        updated_at = "2026-06-28 06:32:56",
         money = 999680,
-        empty = 123,
+        empty = 126,
         location = "Оргриммар",
         items = {
             {
@@ -4851,7 +4851,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21885:0:0:0:0:0:0:0:10|h[Изначальная Вода]|h|r",
                 name = "Изначальная Вода",
-                count = 23,
+                count = 29,
             },
             {
                 link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
@@ -4866,7 +4866,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22452:0:0:0:0:0:0:0:10|h[Изначальная Земля]|h|r",
                 name = "Изначальная Земля",
-                count = 71,
+                count = 81,
             },
             {
                 link = "|cff1eff00|Hitem:22456:0:0:0:0:0:0:0:10|h[Изначальная Тень]|h|r",
@@ -4986,7 +4986,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22573:0:0:0:0:0:0:0:10|h[Частица Земли]|h|r",
                 name = "Частица Земли",
-                count = 159,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
@@ -5011,7 +5011,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
                 name = "Частица Воды",
-                count = 114,
+                count = 68,
             },
             {
                 link = "|cffffffff|Hitem:37700:0:0:0:0:0:0:0:10|h[Кристаллизованный воздух]|h|r",
@@ -5105,7 +5105,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782617042,
+            last_update = 1782617563,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5140,7 +5140,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21885:0:0:0:0:0:0:0:10|h[Изначальная Вода]|h|r",
                     name = "Изначальная Вода",
-                    count = 23,
+                    count = 29,
                 },
                 {
                     link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
@@ -5155,7 +5155,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:22452:0:0:0:0:0:0:0:10|h[Изначальная Земля]|h|r",
                     name = "Изначальная Земля",
-                    count = 71,
+                    count = 81,
                 },
                 {
                     link = "|cff1eff00|Hitem:22456:0:0:0:0:0:0:0:10|h[Изначальная Тень]|h|r",
@@ -5245,7 +5245,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22573:0:0:0:0:0:0:0:10|h[Частица Земли]|h|r",
                     name = "Частица Земли",
-                    count = 159,
+                    count = 59,
                 },
                 {
                     link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
@@ -5270,7 +5270,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
                     name = "Частица Воды",
-                    count = 114,
+                    count = 68,
                 },
                 {
                     link = "|cffffffff|Hitem:37700:0:0:0:0:0:0:0:10|h[Кристаллизованный воздух]|h|r",
@@ -5360,7 +5360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782617044,
+            last_update = 1782617571,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
