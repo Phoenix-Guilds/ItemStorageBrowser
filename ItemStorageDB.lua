@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782619586
+ItemStorageDB_LastUpdate = 1782619639
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4833,9 +4833,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:32:56",
+        updated_at = "2026-06-28 07:07:19",
         money = 999680,
-        empty = 126,
+        empty = 125,
         location = "Оргриммар",
         items = {
             {
@@ -4996,7 +4996,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 20,
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
@@ -5076,7 +5076,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
-                count = 38,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
@@ -5096,7 +5096,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
                 name = "Ядро земли",
-                count = 6,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
@@ -5121,7 +5121,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
-                count = 98,
+                count = 106,
             },
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
@@ -5135,7 +5135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782617563,
+            last_update = 1782619633,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5255,7 +5255,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                     name = "Дикая лоза",
-                    count = 20,
+                    count = 25,
                 },
                 {
                     link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
@@ -5335,7 +5335,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                     name = "Первородная земля",
-                    count = 38,
+                    count = 40,
                 },
                 {
                     link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
@@ -5355,7 +5355,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
                     name = "Ядро земли",
-                    count = 6,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
@@ -5380,7 +5380,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                     name = "Настой колдунства",
-                    count = 98,
+                    count = 106,
                 },
                 {
                     link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
@@ -5390,7 +5390,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782617571,
+            last_update = 1782619634,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
