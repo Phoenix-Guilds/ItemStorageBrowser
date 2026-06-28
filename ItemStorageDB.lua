@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782618654
+ItemStorageDB_LastUpdate = 1782618720
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19073,9 +19073,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-25 07:37:34",
+        updated_at = "2026-06-28 06:52:00",
         money = 336703,
-        empty = 105,
+        empty = 103,
         location = "Оргриммар",
         items = {
             {
@@ -19259,6 +19259,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:31237:0:0:0:0:0:0:0:10|h[Поножи из шкуры элекка]|h|r",
+                name = "Поножи из шкуры элекка",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:31240:0:0:0:0:0:0:0:10|h[Чешуя Зверя]|h|r",
                 name = "Чешуя Зверя",
                 count = 1,
@@ -19351,6 +19356,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31298:0:0:0:0:0:0:0:10|h[Набедренники Изувеченной Длани]|h|r",
                 name = "Набедренники Изувеченной Длани",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:35580:0:0:0:0:0:0:0:10|h[Оплечье из скатанной шерсти]|h|r",
+                name = "Оплечье из скатанной шерсти",
                 count = 1,
             },
             {
@@ -19870,7 +19880,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782362243,
+            last_update = 1782618713,
             items = {
                 {
                     link = "|cff0070dd|Hitem:14536:0:0:0:0:0:0:0:10|h[Костяной хауберк]|h|r",
@@ -20053,6 +20063,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:31237:0:0:0:0:0:0:0:10|h[Поножи из шкуры элекка]|h|r",
+                    name = "Поножи из шкуры элекка",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:31240:0:0:0:0:0:0:0:10|h[Чешуя Зверя]|h|r",
                     name = "Чешуя Зверя",
                     count = 1,
@@ -20145,6 +20160,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31298:0:0:0:0:0:0:0:10|h[Набедренники Изувеченной Длани]|h|r",
                     name = "Набедренники Изувеченной Длани",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:35580:0:0:0:0:0:0:0:10|h[Оплечье из скатанной шерсти]|h|r",
+                    name = "Оплечье из скатанной шерсти",
                     count = 1,
                 },
                 {
@@ -20665,7 +20685,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782362245,
+            last_update = 1782618715,
             items = {
             },
         },
