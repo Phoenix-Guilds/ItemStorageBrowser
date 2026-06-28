@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782617332
+ItemStorageDB_LastUpdate = 1782617395
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5412,10 +5412,10 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-05 21:11:22",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-06-28 06:29:55",
         money = 16160,
-        empty = 149,
+        empty = 151,
         location = "Оргриммар",
         items = {
             {
@@ -5496,7 +5496,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39681:0:0:0:0:0:0:0:10|h[Пригоршня кобальтовых болтов]|h|r",
                 name = "Пригоршня кобальтовых болтов",
-                count = 24,
+                count = 28,
             },
             {
                 link = "|cffffffff|Hitem:39683:0:0:0:0:0:0:0:10|h[Труба из ледяной стали]|h|r",
@@ -5526,7 +5526,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4357:0:0:0:0:0:0:0:10|h[Грубое взрывчатое вещество]|h|r",
                 name = "Грубое взрывчатое вещество",
-                count = 256,
+                count = 200,
             },
             {
                 link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
@@ -5590,7 +5590,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780683053,
+            last_update = 1782617387,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5670,7 +5670,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:39681:0:0:0:0:0:0:0:10|h[Пригоршня кобальтовых болтов]|h|r",
                     name = "Пригоршня кобальтовых болтов",
-                    count = 24,
+                    count = 28,
                 },
                 {
                     link = "|cffffffff|Hitem:39683:0:0:0:0:0:0:0:10|h[Труба из ледяной стали]|h|r",
@@ -5700,7 +5700,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4357:0:0:0:0:0:0:0:10|h[Грубое взрывчатое вещество]|h|r",
                     name = "Грубое взрывчатое вещество",
-                    count = 250,
+                    count = 200,
                 },
                 {
                     link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
@@ -5765,13 +5765,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780683056,
+            last_update = 1782617389,
             items = {
-                {
-                    link = "|cffffffff|Hitem:4357:0:0:0:0:0:0:0:10|h[Грубое взрывчатое вещество]|h|r",
-                    name = "Грубое взрывчатое вещество",
-                    count = 6,
-                },
             },
         },
     },
