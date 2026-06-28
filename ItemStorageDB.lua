@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782620371
+ItemStorageDB_LastUpdate = 1782620427
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4833,9 +4833,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 07:07:19",
+        updated_at = "2026-06-28 07:20:27",
         money = 999680,
-        empty = 125,
+        empty = 124,
         location = "Оргриммар",
         items = {
             {
@@ -4856,7 +4856,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9719:0:0:0:0:0:0:0:10|h[Сломанный клинок героев]|h|r",
                 name = "Сломанный клинок героев",
-                count = 8,
+                count = 9,
             },
             {
                 link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
@@ -4991,7 +4991,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 53,
+                count = 55,
             },
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
@@ -5121,7 +5121,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
-                count = 106,
+                count = 111,
             },
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
@@ -5135,7 +5135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782619633,
+            last_update = 1782620422,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5150,7 +5150,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9719:0:0:0:0:0:0:0:10|h[Сломанный клинок героев]|h|r",
                     name = "Сломанный клинок героев",
-                    count = 8,
+                    count = 9,
                 },
                 {
                     link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
@@ -5380,7 +5380,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                     name = "Настой колдунства",
-                    count = 106,
+                    count = 111,
                 },
                 {
                     link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
@@ -5390,7 +5390,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782619634,
+            last_update = 1782620423,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5430,7 +5430,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                     name = "Черная жемчужина",
-                    count = 53,
+                    count = 55,
                 },
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
