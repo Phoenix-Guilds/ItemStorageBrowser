@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782635329
+ItemStorageDB_LastUpdate = 1782635460
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:54:32",
+        updated_at = "2026-06-28 11:31:00",
         money = 92710,
-        empty = 62,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -2641,7 +2641,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                 name = "Копейный щит Черепа",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
@@ -2969,11 +2969,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
-                name = "Ослепительный длинный меч",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
                 name = "Огненная секира",
                 count = 1,
@@ -2995,7 +2990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782618865,
+            last_update = 1782635424,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3493,11 +3488,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
-                    name = "Ослепительный длинный меч",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
                     name = "Огненная секира",
                     count = 1,
@@ -3520,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782618867,
+            last_update = 1782635450,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3550,7 +3540,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                     name = "Копейный щит Черепа",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
