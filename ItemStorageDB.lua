@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782620196
+ItemStorageDB_LastUpdate = 1782620228
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8673,10 +8673,10 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 07:00:26",
+        updated_at = "2026-06-28 07:17:08",
         money = 208636,
         empty = 63,
-        location = "",
+        location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -8751,7 +8751,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 119,
+                count = 121,
             },
             {
                 link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
@@ -9140,7 +9140,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782619188,
+            last_update = 1782620222,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9505,7 +9505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782619211,
+            last_update = 1782620224,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9530,7 +9530,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                     name = "Средний флакон с лечебным зельем",
-                    count = 119,
+                    count = 121,
                 },
                 {
                     link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
