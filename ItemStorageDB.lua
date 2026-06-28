@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782618555
+ItemStorageDB_LastUpdate = 1782618609
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20663,9 +20663,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:44:44",
+        updated_at = "2026-06-28 06:50:09",
         money = 3936,
-        empty = 43,
+        empty = 42,
         location = "Оргриммар",
         items = {
             {
@@ -20856,7 +20856,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
                 name = "Мантия тигриного прыжка",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
@@ -21325,7 +21325,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782618276,
+            last_update = 1782618601,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21885,7 +21885,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782618279,
+            last_update = 1782618604,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21955,7 +21955,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
                     name = "Мантия тигриного прыжка",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
