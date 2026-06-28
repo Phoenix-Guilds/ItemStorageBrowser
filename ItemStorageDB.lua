@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782616514
+ItemStorageDB_LastUpdate = 1782616564
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-27 19:30:01",
+        updated_at = "2026-06-28 06:16:04",
         money = 92710,
-        empty = 68,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -2651,7 +2651,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
                 name = "Тяжелый ятаган мародера",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
@@ -2985,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782577790,
+            last_update = 1782616558,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3220,7 +3220,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
                     name = "Тяжелый ятаган мародера",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782577791,
+            last_update = 1782616559,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
