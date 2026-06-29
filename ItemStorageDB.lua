@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782752713
+ItemStorageDB_LastUpdate = 1782754991
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21828,9 +21828,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:56:08",
+        updated_at = "2026-06-29 20:43:11",
         money = 194111,
-        empty = 108,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
@@ -22266,12 +22266,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
                 name = "Кольцо спасителей",
-                count = 3,
-            },
-            {
-                link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
-                name = "Кольцо нижнего мира",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:2246:0:0:0:0:0:0:0:10|h[Перстень клеврета]|h|r",
@@ -22290,7 +22285,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782618962,
+            last_update = 1782754920,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22610,12 +22605,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
                     name = "Кольцо спасителей",
-                    count = 3,
-                },
-                {
-                    link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
-                    name = "Кольцо нижнего мира",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:2246:0:0:0:0:0:0:0:10|h[Перстень клеврета]|h|r",
@@ -22630,7 +22620,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782618963,
+            last_update = 1782754942,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
