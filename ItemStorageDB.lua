@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782754991
+ItemStorageDB_LastUpdate = 1782755179
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20388,9 +20388,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 21:01:45",
+        updated_at = "2026-06-29 20:46:19",
         money = 3936,
-        empty = 43,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -20556,7 +20556,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13102:0:0:0:0:0:0:0:10|h[Милость Кассандры]|h|r",
                 name = "Милость Кассандры",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13103:0:0:0:0:0:0:0:10|h[Оплечье Ядовитого паука]|h|r",
@@ -20959,11 +20959,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
-                name = "Забытые напульсники",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:9434:0:0:0:0:0:0:0:10|h[Облачение стихий]|h|r",
                 name = "Облачение стихий",
                 count = 2,
@@ -20986,11 +20981,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6428:0:0:0:0:0:0:0:10|h[Туманные перчатки]|h|r",
                 name = "Туманные перчатки",
-                count = 1,
-            },
-            {
-                link = "|cffa335ee|Hitem:14549:0:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
-                name = "Сапоги Избежания",
                 count = 1,
             },
             {
@@ -21040,7 +21030,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782669199,
+            last_update = 1782755072,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21523,11 +21513,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
-                    name = "Забытые напульсники",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:9434:0:0:0:0:0:0:0:10|h[Облачение стихий]|h|r",
                     name = "Облачение стихий",
                     count = 2,
@@ -21580,7 +21565,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782669227,
+            last_update = 1782755092,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21640,11 +21625,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
                     name = "Шлем Маг-Тола",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13102:0:0:0:0:0:0:0:10|h[Милость Кассандры]|h|r",
-                    name = "Милость Кассандры",
                     count = 1,
                 },
                 {
@@ -21800,11 +21780,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:6428:0:0:0:0:0:0:0:10|h[Туманные перчатки]|h|r",
                     name = "Туманные перчатки",
-                    count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:14549:0:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
-                    name = "Сапоги Избежания",
                     count = 1,
                 },
                 {
