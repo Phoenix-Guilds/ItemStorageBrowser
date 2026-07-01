@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782924856
+ItemStorageDB_LastUpdate = 1782924929
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8098,9 +8098,9 @@ ItemStorageDB = {
     {
         name = "Ларец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:26:08",
+        updated_at = "2026-07-01 19:55:29",
         money = 3254,
-        empty = 137,
+        empty = 135,
         location = "Оргриммар",
         items = {
             {
@@ -8121,12 +8121,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4634:0:0:0:0:0:0:0:10|h[Железный сейф]|h|r",
                 name = "Железный сейф",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff1eff00|Hitem:4636:0:0:0:0:0:0:0:10|h[Прочный железный сейф]|h|r",
                 name = "Прочный железный сейф",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:4637:0:0:0:0:0:0:0:10|h[Стальной сейф]|h|r",
@@ -8170,7 +8170,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782617162,
+            last_update = 1782924921,
             items = {
                 {
                     link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
@@ -8190,12 +8190,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4634:0:0:0:0:0:0:0:10|h[Железный сейф]|h|r",
                     name = "Железный сейф",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff1eff00|Hitem:4636:0:0:0:0:0:0:0:10|h[Прочный железный сейф]|h|r",
                     name = "Прочный железный сейф",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff1eff00|Hitem:4637:0:0:0:0:0:0:0:10|h[Стальной сейф]|h|r",
@@ -8240,7 +8240,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782617164,
+            last_update = 1782924924,
             items = {
             },
         },
