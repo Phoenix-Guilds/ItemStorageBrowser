@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782926736
+ItemStorageDB_LastUpdate = 1782926824
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 20:03:35",
+        updated_at = "2026-07-01 20:27:04",
         money = 92710,
-        empty = 66,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -2831,6 +2831,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9378:0:0:0:0:0:0:0:10|h[Шахтерское кайло Лопаторукого]|h|r",
                 name = "Шахтерское кайло Лопаторукого",
+                count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:937:0:0:0:0:0:0:0:10|h[Черный посох Сумеречного леса]|h|r",
+                name = "Черный посох Сумеречного леса",
                 count = 1,
             },
             {
@@ -2975,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782925408,
+            last_update = 1782926817,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3500,7 +3505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782925409,
+            last_update = 1782926820,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3575,6 +3580,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9378:0:0:0:0:0:0:0:10|h[Шахтерское кайло Лопаторукого]|h|r",
                     name = "Шахтерское кайло Лопаторукого",
+                    count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:937:0:0:0:0:0:0:0:10|h[Черный посох Сумеречного леса]|h|r",
+                    name = "Черный посох Сумеречного леса",
                     count = 1,
                 },
                 {
