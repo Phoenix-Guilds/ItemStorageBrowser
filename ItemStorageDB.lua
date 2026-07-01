@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1782942680
+ItemStorageDB_LastUpdate = 1782942851
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-30 12:24:51",
+        updated_at = "2026-07-02 00:54:11",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -226,12 +226,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41539:0:0:0:0:0:0:0:10|h[Символ удара бури]|h|r",
                 name = "Символ удара бури",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:41540:0:0:0:0:0:0:0:10|h[Символ вскипания лавы]|h|r",
                 name = "Символ вскипания лавы",
-                count = 11,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:41541:0:0:0:0:0:0:0:10|h[Символ хозяина вод]|h|r",
@@ -1185,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782810720,
+            last_update = 1782942732,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1400,12 +1400,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41539:0:0:0:0:0:0:0:10|h[Символ удара бури]|h|r",
                     name = "Символ удара бури",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:41540:0:0:0:0:0:0:0:10|h[Символ вскипания лавы]|h|r",
                     name = "Символ вскипания лавы",
-                    count = 11,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:41541:0:0:0:0:0:0:0:10|h[Символ хозяина вод]|h|r",
@@ -2360,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782810721,
+            last_update = 1782942750,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
