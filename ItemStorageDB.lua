@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782924624
+ItemStorageDB_LastUpdate = 1782924683
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20438,9 +20438,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 19:41:07",
+        updated_at = "2026-07-01 19:51:23",
         money = 3936,
-        empty = 42,
+        empty = 43,
         location = "Оргриммар",
         items = {
             {
@@ -20706,7 +20706,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
                 name = "Рукавицы Зовущего битву",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
@@ -21090,7 +21090,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782924059,
+            last_update = 1782924663,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21640,7 +21640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782924062,
+            last_update = 1782924676,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21725,11 +21725,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                     name = "Крыло дракончика",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
-                    name = "Рукавицы Зовущего битву",
                     count = 1,
                 },
                 {
