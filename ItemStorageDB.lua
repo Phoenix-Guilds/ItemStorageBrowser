@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782915622
+ItemStorageDB_LastUpdate = 1782915994
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2372,10 +2372,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 11:31:00",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-01 17:26:34",
         money = 92710,
-        empty = 64,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -2426,17 +2426,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                 name = "Лезвие бритвы",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
                 name = "Пламенеющий клинок",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
-                name = "Рыцарский щит Красной бороды",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
@@ -2980,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782635424,
+            last_update = 1782915875,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3025,7 +3020,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                     name = "Лезвие бритвы",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
@@ -3500,7 +3495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782635450,
+            last_update = 1782915888,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3510,11 +3505,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                     name = "Клинок Многоглаза",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12997:0:0:0:0:0:0:0:10|h[Рыцарский щит Красной бороды]|h|r",
-                    name = "Рыцарский щит Красной бороды",
                     count = 1,
                 },
                 {
