@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782928012
+ItemStorageDB_LastUpdate = 1782929009
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20533,9 +20533,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 20:25:36",
+        updated_at = "2026-07-01 21:03:29",
         money = 3936,
-        empty = 38,
+        empty = 40,
         location = "Оргриммар",
         items = {
             {
@@ -20836,7 +20836,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                 name = "Скелетные наплечники",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13133:0:0:0:0:0:0:0:10|h[Эполеты Драконьего огня]|h|r",
@@ -20996,7 +20996,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
                 name = "Полированная джазерентская броня",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
@@ -21195,7 +21195,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782926727,
+            last_update = 1782928987,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21745,7 +21745,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782926731,
+            last_update = 1782929002,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21858,11 +21858,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
-                    name = "Скелетные наплечники",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
                     name = "Пояс безмятежности",
                     count = 1,
@@ -21885,11 +21880,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:16737:0:0:0:0:0:0:0:10|h[Рукавицы доблести]|h|r",
                     name = "Рукавицы доблести",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
-                    name = "Полированная джазерентская броня",
                     count = 1,
                 },
                 {
