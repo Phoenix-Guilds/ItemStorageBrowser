@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782924929
+ItemStorageDB_LastUpdate = 1782925063
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9548,9 +9548,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 19:50:24",
+        updated_at = "2026-07-01 19:57:43",
         money = 4062,
-        empty = 103,
+        empty = 102,
         location = "Оргриммар",
         items = {
             {
@@ -9716,7 +9716,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 72,
+                count = 74,
             },
             {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
@@ -9890,7 +9890,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782924620,
+            last_update = 1782924986,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
@@ -9911,6 +9911,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                     name = "Мифриловая обшивка",
                     count = 45,
+                },
+                {
+                    link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
+                    name = "Жареное крыло канюка",
+                    count = 2,
                 },
             },
         },
