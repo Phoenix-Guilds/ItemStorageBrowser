@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782925360
+ItemStorageDB_LastUpdate = 1782925415
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 19:41:50",
+        updated_at = "2026-07-01 20:03:35",
         money = 92710,
-        empty = 65,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -2821,7 +2821,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
                 name = "Короткий меч Ночного Дозора",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
@@ -2975,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782924103,
+            last_update = 1782925408,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3076,6 +3076,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                     name = "Ручной молот Мертвого Леса",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
+                    name = "Небесный свет",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
@@ -3375,7 +3380,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
                     name = "Короткий меч Ночного Дозора",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
@@ -3495,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782924105,
+            last_update = 1782925409,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3510,7 +3515,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                     name = "Небесный свет",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
