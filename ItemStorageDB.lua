@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782811491
+ItemStorageDB_LastUpdate = 1782914431
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7973,7 +7973,7 @@ ItemStorageDB = {
     {
         name = "Крошшерный",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-30 12:24:51",
+        updated_at = "2026-07-01 17:00:31",
         money = 3895,
         empty = 160,
         location = "Оргриммар",
@@ -8040,7 +8040,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782810763,
+            last_update = 1782914412,
             items = {
                 {
                     link = "|cffffffff|Hitem:16645:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 1]|h|r",
@@ -8105,7 +8105,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782810764,
+            last_update = 1782914419,
             items = {
             },
         },
