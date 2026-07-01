@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782923630
+ItemStorageDB_LastUpdate = 1782923976
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4803,9 +4803,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 21:02:34",
+        updated_at = "2026-07-01 19:39:36",
         money = 999680,
-        empty = 124,
+        empty = 123,
         location = "Оргриммар",
         items = {
             {
@@ -4826,7 +4826,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9719:0:0:0:0:0:0:0:10|h[Сломанный клинок героев]|h|r",
                 name = "Сломанный клинок героев",
-                count = 9,
+                count = 10,
             },
             {
                 link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
@@ -5105,7 +5105,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782669725,
+            last_update = 1782923953,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5120,7 +5120,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9719:0:0:0:0:0:0:0:10|h[Сломанный клинок героев]|h|r",
                     name = "Сломанный клинок героев",
-                    count = 9,
+                    count = 10,
                 },
                 {
                     link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
@@ -5360,7 +5360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782669741,
+            last_update = 1782923972,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
