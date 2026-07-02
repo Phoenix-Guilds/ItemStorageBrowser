@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782979016
+ItemStorageDB_LastUpdate = 1783004575
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9562,8 +9562,8 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 20:14:07",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-02 18:02:55",
         money = 4062,
         empty = 103,
         location = "Оргриммар",
@@ -9596,7 +9596,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
-                count = 45,
+                count = 44,
             },
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -9721,7 +9721,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                 name = "Гирохронатом",
-                count = 30,
+                count = 31,
             },
             {
                 link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
@@ -9731,7 +9731,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 74,
+                count = 72,
             },
             {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
@@ -9745,7 +9745,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782925923,
+            last_update = 1782914707,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9880,7 +9880,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                     name = "Гирохронатом",
-                    count = 30,
+                    count = 31,
                 },
                 {
                     link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
@@ -9890,7 +9890,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                     name = "Жареное крыло канюка",
-                    count = 74,
+                    count = 72,
                 },
                 {
                     link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
@@ -9905,7 +9905,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782926041,
+            last_update = 1783004563,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
@@ -9925,7 +9925,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                     name = "Мифриловая обшивка",
-                    count = 45,
+                    count = 44,
                 },
             },
         },
