@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1782942851
+ItemStorageDB_LastUpdate = 1782978892
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2372,10 +2372,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 20:27:04",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-02 10:54:52",
         money = 92710,
-        empty = 64,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -2622,11 +2622,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
-                name = "Копейный щит Черепа",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
@@ -2980,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782926817,
+            last_update = 1782978801,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3505,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782926820,
+            last_update = 1782978881,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3526,11 +3521,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
-                    name = "Копейный щит Черепа",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
