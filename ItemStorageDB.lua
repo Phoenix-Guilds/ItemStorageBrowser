@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783004575
+ItemStorageDB_LastUpdate = 1783011145
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12417,8 +12417,8 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 17:20:22",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-02 19:52:25",
         money = 385478,
         empty = 95,
         location = "Оргриммар",
@@ -12461,7 +12461,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                 name = "Большой сверкающий осколок",
-                count = 125,
+                count = 121,
             },
             {
                 link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12670,7 +12670,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782915545,
+            last_update = 1783011105,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12710,7 +12710,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                     name = "Большой сверкающий осколок",
-                    count = 125,
+                    count = 121,
                 },
                 {
                     link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12880,7 +12880,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782915556,
+            last_update = 1783011127,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
