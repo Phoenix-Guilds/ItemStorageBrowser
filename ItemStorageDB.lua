@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783015970
+ItemStorageDB_LastUpdate = 1783004575
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8253,9 +8253,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-02 21:12:50",
+        updated_at = "2026-07-01 20:35:26",
         money = 391967,
-        empty = 156,
+        empty = 152,
         location = "Оргриммар",
         items = {
             {
@@ -8291,7 +8291,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                 name = "Серебряная руда",
-                count = 6,
+                count = 106,
             },
             {
                 link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
@@ -8381,7 +8381,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                 name = "Оловянная руда",
-                count = 242,
+                count = 342,
             },
             {
                 link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
@@ -8435,7 +8435,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783015960,
+            last_update = 1782927320,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8470,7 +8470,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                     name = "Серебряная руда",
-                    count = 6,
+                    count = 106,
                 },
                 {
                     link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
@@ -8560,7 +8560,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                     name = "Оловянная руда",
-                    count = 242,
+                    count = 342,
                 },
                 {
                     link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
@@ -8615,7 +8615,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783015962,
+            last_update = 1782927322,
             items = {
             },
         },
@@ -12417,8 +12417,8 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-02 19:52:25",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-01 17:20:22",
         money = 385478,
         empty = 95,
         location = "Оргриммар",
@@ -12461,7 +12461,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                 name = "Большой сверкающий осколок",
-                count = 121,
+                count = 125,
             },
             {
                 link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12670,7 +12670,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783011105,
+            last_update = 1782915545,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12710,7 +12710,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                     name = "Большой сверкающий осколок",
-                    count = 121,
+                    count = 125,
                 },
                 {
                     link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12880,7 +12880,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783011127,
+            last_update = 1782915556,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
