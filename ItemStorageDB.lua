@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783254124
+ItemStorageDB_LastUpdate = 1783254270
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6903,9 +6903,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-05 15:19:10",
+        updated_at = "2026-07-05 15:24:30",
         money = 181084,
-        empty = 167,
+        empty = 166,
         location = "Оргриммар",
         items = {
             {
@@ -7230,7 +7230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783253888,
+            last_update = 1783254199,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7278,11 +7278,6 @@ ItemStorageDB = {
                     count = 56,
                 },
                 {
-                    link = "|cffffffff|Hitem:20500:0:0:0:0:0:0:0:10|h[Легкий силитидский панцирь]|h|r",
-                    name = "Легкий силитидский панцирь",
-                    count = 16,
-                },
-                {
                     link = "|cffffffff|Hitem:21887:0:0:0:0:0:0:0:10|h[Узловатая кожа]|h|r",
                     name = "Узловатая кожа",
                     count = 207,
@@ -7290,7 +7285,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                     name = "Тонкая кожа",
-                    count = 700,
+                    count = 690,
                 },
                 {
                     link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
@@ -7475,7 +7470,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783253933,
+            last_update = 1783254200,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
@@ -7518,8 +7513,18 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cffffffff|Hitem:20500:0:0:0:0:0:0:0:10|h[Легкий силитидский панцирь]|h|r",
+                    name = "Легкий силитидский панцирь",
+                    count = 16,
+                },
+                {
                     link = "|cffffffff|Hitem:2304:0:0:0:0:0:0:0:10|h[Накладки из тонкой кожи]|h|r",
                     name = "Накладки из тонкой кожи",
+                    count = 10,
+                },
+                {
+                    link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
+                    name = "Тонкая кожа",
                     count = 10,
                 },
                 {
