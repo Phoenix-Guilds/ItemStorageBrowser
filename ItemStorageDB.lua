@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783254270
+ItemStorageDB_LastUpdate = 1783281004
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6903,7 +6903,7 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-05 15:24:30",
+        updated_at = "2026-07-05 22:50:04",
         money = 181084,
         empty = 166,
         location = "Оргриммар",
@@ -7230,7 +7230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783254199,
+            last_update = 1783280986,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7470,7 +7470,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783254200,
+            last_update = 1783280992,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
