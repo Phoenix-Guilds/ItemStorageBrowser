@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783253069
+ItemStorageDB_LastUpdate = 1783253151
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-02 10:54:52",
+        updated_at = "2026-07-05 15:05:51",
         money = 92710,
-        empty = 65,
+        empty = 71,
         location = "Оргриммар",
         items = {
             {
@@ -2441,7 +2441,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                 name = "Боевой топор лорда Александра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
@@ -2561,7 +2561,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
                 name = "Маячащий чекан",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13049:0:0:0:0:0:0:0:10|h[Клеймор декана]|h|r",
@@ -2894,11 +2894,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:2243:0:0:0:0:0:0:0:10|h[Рука Эдварда Странного]|h|r",
-                name = "Рука Эдварда Странного",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                 name = "Клинок Крола",
                 count = 2,
@@ -2951,17 +2946,12 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:868:0:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
                 name = "Ревностный хранитель",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
                 name = "Огненная секира",
                 count = 1,
-            },
-            {
-                link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
-                name = "Топор шквала",
-                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:943:0:0:0:0:0:0:0:10|h[Посох тюремщика]|h|r",
@@ -2975,7 +2965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782978801,
+            last_update = 1783253107,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3035,7 +3025,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                     name = "Боевой топор лорда Александра",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
@@ -3155,7 +3145,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
                     name = "Маячащий чекан",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13049:0:0:0:0:0:0:0:10|h[Клеймор декана]|h|r",
@@ -3418,11 +3408,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffa335ee|Hitem:2243:0:0:0:0:0:0:0:10|h[Рука Эдварда Странного]|h|r",
-                    name = "Рука Эдварда Странного",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                     name = "Клинок Крола",
                     count = 2,
@@ -3475,17 +3460,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:868:0:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
                     name = "Ревностный хранитель",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
                     name = "Огненная секира",
                     count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
-                    name = "Топор шквала",
-                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:943:0:0:0:0:0:0:0:10|h[Посох тюремщика]|h|r",
@@ -3500,7 +3480,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782978881,
+            last_update = 1783253123,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
