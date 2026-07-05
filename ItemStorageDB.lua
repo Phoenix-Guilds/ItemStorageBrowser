@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783253729
+ItemStorageDB_LastUpdate = 1783253950
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6902,10 +6902,10 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 20:42:32",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-05 15:19:10",
         money = 181084,
-        empty = 164,
+        empty = 167,
         location = "Оргриммар",
         items = {
             {
@@ -7009,11 +7009,6 @@ ItemStorageDB = {
                 count = 10,
             },
             {
-                link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
-                name = "Накладки из жесткой кожи",
-                count = 3,
-            },
-            {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
                 count = 700,
@@ -7021,12 +7016,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 647,
-            },
-            {
-                link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
-                name = "Грубая нить",
-                count = 5,
+                count = 627,
             },
             {
                 link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
@@ -7146,7 +7136,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 487,
+                count = 450,
             },
             {
                 link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
@@ -7240,7 +7230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782927746,
+            last_update = 1783253888,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7305,7 +7295,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                     name = "Жесткая кожа",
-                    count = 647,
+                    count = 600,
                 },
                 {
                     link = "|cffffffff|Hitem:23793:0:0:0:0:0:0:0:10|h[Толстая узловатая кожа]|h|r",
@@ -7405,7 +7395,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                     name = "Толстая кожа",
-                    count = 487,
+                    count = 450,
                 },
                 {
                     link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
@@ -7485,7 +7475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782927748,
+            last_update = 1783253933,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
@@ -7533,14 +7523,9 @@ ItemStorageDB = {
                     count = 10,
                 },
                 {
-                    link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
-                    name = "Накладки из жесткой кожи",
-                    count = 3,
-                },
-                {
-                    link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
-                    name = "Грубая нить",
-                    count = 5,
+                    link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
+                    name = "Жесткая кожа",
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
