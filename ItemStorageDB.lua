@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783350085
+ItemStorageDB_LastUpdate = 1783350131
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9892,10 +9892,10 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 20:46:52",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-06 18:02:11",
         money = 213874,
-        empty = 85,
+        empty = 86,
         location = "Оргриммар",
         items = {
             {
@@ -10054,11 +10054,6 @@ ItemStorageDB = {
                 count = 80,
             },
             {
-                link = "|cffffffff|Hitem:35562:0:0:0:0:0:0:0:10|h[Бок медведя]|h|r",
-                name = "Бок медведя",
-                count = 13,
-            },
-            {
                 link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
                 name = "Нежное мясо кроколиска",
                 count = 255,
@@ -10185,7 +10180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782927886,
+            last_update = 1783350124,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10343,11 +10338,6 @@ ItemStorageDB = {
                     count = 80,
                 },
                 {
-                    link = "|cffffffff|Hitem:35562:0:0:0:0:0:0:0:10|h[Бок медведя]|h|r",
-                    name = "Бок медведя",
-                    count = 13,
-                },
-                {
                     link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
                     name = "Нежное мясо кроколиска",
                     count = 255,
@@ -10475,7 +10465,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782928007,
+            last_update = 1783350125,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
