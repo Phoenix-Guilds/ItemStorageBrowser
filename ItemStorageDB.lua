@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783349981
+ItemStorageDB_LastUpdate = 1783350085
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18162,10 +18162,10 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 20:43:27",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-06 18:01:25",
         money = 1005064,
-        empty = 141,
+        empty = 142,
         location = "Оргриммар",
         items = {
             {
@@ -18191,7 +18191,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
                 name = "Масло каменного угря",
-                count = 199,
+                count = 169,
             },
             {
                 link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
@@ -18416,7 +18416,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                 name = "Лиловый лотос",
-                count = 99,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -18445,7 +18445,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782927801,
+            last_update = 1783350078,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18635,7 +18635,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                     name = "Лиловый лотос",
-                    count = 99,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -18665,7 +18665,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782927802,
+            last_update = 1783350079,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -18685,7 +18685,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
                     name = "Масло каменного угря",
-                    count = 199,
+                    count = 169,
                 },
                 {
                     link = "|cffffffff|Hitem:3371:0:0:0:0:0:0:0:10|h[Пустая колба]|h|r",
