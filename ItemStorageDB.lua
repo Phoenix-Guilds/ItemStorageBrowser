@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783418539
+ItemStorageDB_LastUpdate = 1783418669
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20448,9 +20448,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 13:02:19",
+        updated_at = "2026-07-07 13:04:29",
         money = 3936,
-        empty = 33,
+        empty = 32,
         location = "Оргриммар",
         items = {
             {
@@ -20771,7 +20771,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13145:0:0:0:0:0:0:0:10|h[Огромный огрский пояс]|h|r",
                 name = "Огромный огрский пояс",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
@@ -21125,7 +21125,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783418531,
+            last_update = 1783418662,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21670,7 +21670,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783418533,
+            last_update = 1783418664,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21810,7 +21810,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13145:0:0:0:0:0:0:0:10|h[Огромный огрский пояс]|h|r",
                     name = "Огромный огрский пояс",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
