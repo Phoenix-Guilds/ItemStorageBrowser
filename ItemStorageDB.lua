@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783418321
+ItemStorageDB_LastUpdate = 1783418539
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20448,9 +20448,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 12:58:41",
+        updated_at = "2026-07-07 13:02:19",
         money = 3936,
-        empty = 35,
+        empty = 33,
         location = "Оргриммар",
         items = {
             {
@@ -20759,6 +20759,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:13135:0:0:0:0:0:0:0:10|h[Властные боевые наручи]|h|r",
+                name = "Властные боевые наручи",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
                 name = "Пояс безмятежности",
                 count = 2,
@@ -20906,7 +20911,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
                 name = "Полированная джазерентская броня",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
@@ -21120,7 +21125,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783418294,
+            last_update = 1783418531,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21665,7 +21670,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783418315,
+            last_update = 1783418533,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21793,6 +21798,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13135:0:0:0:0:0:0:0:10|h[Властные боевые наручи]|h|r",
+                    name = "Властные боевые наручи",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
                     name = "Пояс безмятежности",
                     count = 1,
@@ -21820,6 +21830,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:16737:0:0:0:0:0:0:0:10|h[Рукавицы доблести]|h|r",
                     name = "Рукавицы доблести",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
+                    name = "Полированная джазерентская броня",
                     count = 1,
                 },
                 {
