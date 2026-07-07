@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783412125
+ItemStorageDB_LastUpdate = 1783412162
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6423,7 +6423,7 @@ ItemStorageDB = {
     {
         name = "Карточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 19:54:16",
+        updated_at = "2026-07-07 11:16:02",
         money = 404282,
         empty = 143,
         location = "Оргриммар",
@@ -6466,7 +6466,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19259:0:0:0:0:0:0:0:10|h[Двойка из колоды Полководцев]|h|r",
                 name = "Двойка из колоды Полководцев",
-                count = 8,
+                count = 9,
             },
             {
                 link = "|cff0070dd|Hitem:19260:0:0:0:0:0:0:0:10|h[Тройка из колоды Полководцев]|h|r",
@@ -6501,7 +6501,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19270:0:0:0:0:0:0:0:10|h[Тройка из колоды Элементалей]|h|r",
                 name = "Тройка из колоды Элементалей",
-                count = 9,
+                count = 10,
             },
             {
                 link = "|cff0070dd|Hitem:19271:0:0:0:0:0:0:0:10|h[Четверка из колоды Элементалей]|h|r",
@@ -6660,7 +6660,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782924848,
+            last_update = 1783412156,
             items = {
                 {
                     link = "|cff0070dd|Hitem:19230:0:0:0:0:0:0:0:10|h[Двойка из колоды Зверей]|h|r",
@@ -6700,7 +6700,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:19259:0:0:0:0:0:0:0:10|h[Двойка из колоды Полководцев]|h|r",
                     name = "Двойка из колоды Полководцев",
-                    count = 8,
+                    count = 9,
                 },
                 {
                     link = "|cff0070dd|Hitem:19260:0:0:0:0:0:0:0:10|h[Тройка из колоды Полководцев]|h|r",
@@ -6735,7 +6735,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:19270:0:0:0:0:0:0:0:10|h[Тройка из колоды Элементалей]|h|r",
                     name = "Тройка из колоды Элементалей",
-                    count = 9,
+                    count = 10,
                 },
                 {
                     link = "|cff0070dd|Hitem:19271:0:0:0:0:0:0:0:10|h[Четверка из колоды Элементалей]|h|r",
@@ -6875,7 +6875,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782924850,
+            last_update = 1783412157,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
