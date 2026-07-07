@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783409899
+ItemStorageDB_LastUpdate = 1783409952
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8587,10 +8587,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-06 18:03:08",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-07 10:39:12",
         money = 208636,
-        empty = 68,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -8786,12 +8786,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
                 name = "Эликсир Защиты",
-                count = 50,
+                count = 56,
             },
             {
                 link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
                 name = "Малый эликсир ловкости",
-                count = 36,
+                count = 37,
             },
             {
                 link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
@@ -9050,7 +9050,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783350160,
+            last_update = 1783409943,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9185,12 +9185,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
                     name = "Эликсир Защиты",
-                    count = 50,
+                    count = 56,
                 },
                 {
                     link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
                     name = "Малый эликсир ловкости",
-                    count = 36,
+                    count = 37,
                 },
                 {
                     link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
@@ -9415,7 +9415,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783350182,
+            last_update = 1783409947,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
