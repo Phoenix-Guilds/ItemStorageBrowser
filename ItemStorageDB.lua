@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783415674
+ItemStorageDB_LastUpdate = 1783415891
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 12:14:34",
+        updated_at = "2026-07-07 12:18:11",
         money = 92710,
-        empty = 71,
+        empty = 70,
         location = "Оргриммар",
         items = {
             {
@@ -2951,7 +2951,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:868:0:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
                 name = "Ревностный хранитель",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
@@ -2970,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783415655,
+            last_update = 1783415884,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3490,7 +3490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783415668,
+            last_update = 1783415886,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3580,6 +3580,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2164:0:0:0:0:0:0:0:10|h[Потрошитель]|h|r",
                     name = "Потрошитель",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:868:0:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
+                    name = "Ревностный хранитель",
                     count = 1,
                 },
             },
