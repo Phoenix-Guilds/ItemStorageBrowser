@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783443311
+ItemStorageDB_LastUpdate = 1783443372
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20417,10 +20417,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 17:35:56",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-07 19:56:12",
         money = 3936,
-        empty = 35,
+        empty = 36,
         location = "Оргриммар",
         items = {
             {
@@ -20677,11 +20677,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
                 name = "Рукавицы Зовущего битву",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
-                name = "Корона северного разбойника",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
@@ -21085,7 +21080,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783434903,
+            last_update = 1783443341,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -21615,7 +21610,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783434928,
+            last_update = 1783443360,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21710,11 +21705,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
                     name = "Рукавицы Зовущего битву",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
-                    name = "Корона северного разбойника",
                     count = 1,
                 },
                 {
