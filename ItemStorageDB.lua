@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783415618
+ItemStorageDB_LastUpdate = 1783415674
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 11:24:16",
+        updated_at = "2026-07-07 12:14:34",
         money = 92710,
-        empty = 72,
+        empty = 71,
         location = "Оргриммар",
         items = {
             {
@@ -2804,6 +2804,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:890:0:0:0:0:0:0:0:10|h[Крученый посох певчего]|h|r",
+                name = "Крученый посох певчего",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
                 name = "Жнец Сталвана",
                 count = 2,
@@ -2965,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783412643,
+            last_update = 1783415655,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3485,7 +3490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783412651,
+            last_update = 1783415668,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3530,6 +3535,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:890:0:0:0:0:0:0:0:10|h[Крученый посох певчего]|h|r",
+                    name = "Крученый посох певчего",
                     count = 1,
                 },
                 {
