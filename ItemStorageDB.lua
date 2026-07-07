@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783415932
+ItemStorageDB_LastUpdate = 1783415971
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21833,9 +21833,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 11:35:52",
+        updated_at = "2026-07-07 12:19:31",
         money = 194111,
-        empty = 113,
+        empty = 112,
         location = "Оргриммар",
         items = {
             {
@@ -22274,6 +22274,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
+                name = "Кольцо нижнего мира",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:2246:0:0:0:0:0:0:0:10|h[Перстень клеврета]|h|r",
                 name = "Перстень клеврета",
                 count = 1,
@@ -22290,7 +22295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783413347,
+            last_update = 1783415965,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22613,6 +22618,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
+                    name = "Кольцо нижнего мира",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:2246:0:0:0:0:0:0:0:10|h[Перстень клеврета]|h|r",
                     name = "Перстень клеврета",
                     count = 1,
@@ -22625,7 +22635,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783413348,
+            last_update = 1783415966,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
