@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783417605
+ItemStorageDB_LastUpdate = 1783417652
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18798,9 +18798,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 12:13:38",
+        updated_at = "2026-07-07 12:47:32",
         money = 336703,
-        empty = 101,
+        empty = 100,
         location = "Оргриммар",
         items = {
             {
@@ -18821,6 +18821,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31131:0:0:0:0:0:0:0:10|h[Кушак безмолвных лезвий]|h|r",
                 name = "Кушак безмолвных лезвий",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31133:0:0:0:0:0:0:0:10|h[Поножи сгустка тьмы]|h|r",
+                name = "Поножи сгустка тьмы",
                 count = 1,
             },
             {
@@ -19615,7 +19620,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783415611,
+            last_update = 1783417646,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -19635,6 +19640,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31131:0:0:0:0:0:0:0:10|h[Кушак безмолвных лезвий]|h|r",
                     name = "Кушак безмолвных лезвий",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31133:0:0:0:0:0:0:0:10|h[Поножи сгустка тьмы]|h|r",
+                    name = "Поножи сгустка тьмы",
                     count = 1,
                 },
                 {
@@ -20430,7 +20440,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783415612,
+            last_update = 1783417646,
             items = {
             },
         },
