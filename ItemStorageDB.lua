@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783441861
+ItemStorageDB_LastUpdate = 1783441927
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5427,8 +5427,8 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-28 06:29:55",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-07 19:32:07",
         money = 16160,
         empty = 151,
         location = "Оргриммар",
@@ -5605,7 +5605,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782617387,
+            last_update = 1783441910,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5780,7 +5780,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782617389,
+            last_update = 1783441916,
             items = {
             },
         },
