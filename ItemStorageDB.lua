@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1783433963
+ItemStorageDB_LastUpdate = 1783434191
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-02 00:54:11",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-07 17:23:11",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -46,7 +46,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40903:0:0:0:0:0:0:0:10|h[Символ глубокой раны]|h|r",
                 name = "Символ глубокой раны",
-                count = 15,
+                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:40906:0:0:0:0:0:0:0:10|h[Символ быстрого восстановления]|h|r",
@@ -111,7 +111,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                 name = "Символ правосудия",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:41094:0:0:0:0:0:0:0:10|h[Символ печати повиновения]|h|r",
@@ -186,7 +186,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41530:0:0:0:0:0:0:0:10|h[Символ кольца огня]|h|r",
                 name = "Символ кольца огня",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:41531:0:0:0:0:0:0:0:10|h[Символ огненного шока]|h|r",
@@ -291,7 +291,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
                 name = "Символ слова силы: Щит",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:42411:0:0:0:0:0:0:0:10|h[Символ обновления]|h|r",
@@ -671,7 +671,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                 name = "Символ шипов",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -681,7 +681,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43335:0:0:0:0:0:0:0:10|h[Символ дикой природы]|h|r",
                 name = "Символ дикой природы",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43338:0:0:0:0:0:0:0:10|h[Символ воскрешения питомца]|h|r",
@@ -696,7 +696,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
                 name = "Символ благословения могущества",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
@@ -841,7 +841,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43399:0:0:0:0:0:0:0:10|h[Символ удара грома]|h|r",
                 name = "Символ удара грома",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:43400:0:0:0:0:0:0:0:10|h[Символ неоспоримой победы]|h|r",
@@ -936,7 +936,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43429:0:0:0:0:0:0:0:10|h[Символ провокации]|h|r",
                 name = "Символ провокации",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
@@ -1185,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782942732,
+            last_update = 1783434109,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40903:0:0:0:0:0:0:0:10|h[Символ глубокой раны]|h|r",
                     name = "Символ глубокой раны",
-                    count = 15,
+                    count = 14,
                 },
                 {
                     link = "|cffffffff|Hitem:40906:0:0:0:0:0:0:0:10|h[Символ быстрого восстановления]|h|r",
@@ -1285,7 +1285,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                     name = "Символ правосудия",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:41094:0:0:0:0:0:0:0:10|h[Символ печати повиновения]|h|r",
@@ -1360,7 +1360,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41530:0:0:0:0:0:0:0:10|h[Символ кольца огня]|h|r",
                     name = "Символ кольца огня",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:41531:0:0:0:0:0:0:0:10|h[Символ огненного шока]|h|r",
@@ -1465,7 +1465,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
                     name = "Символ слова силы: Щит",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:42411:0:0:0:0:0:0:0:10|h[Символ обновления]|h|r",
@@ -1845,7 +1845,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                     name = "Символ шипов",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -1855,7 +1855,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43335:0:0:0:0:0:0:0:10|h[Символ дикой природы]|h|r",
                     name = "Символ дикой природы",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43338:0:0:0:0:0:0:0:10|h[Символ воскрешения питомца]|h|r",
@@ -1870,7 +1870,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
                     name = "Символ благословения могущества",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
@@ -2015,7 +2015,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43399:0:0:0:0:0:0:0:10|h[Символ удара грома]|h|r",
                     name = "Символ удара грома",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43400:0:0:0:0:0:0:0:10|h[Символ неоспоримой победы]|h|r",
@@ -2110,7 +2110,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43429:0:0:0:0:0:0:0:10|h[Символ провокации]|h|r",
                     name = "Символ провокации",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
@@ -2360,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782942750,
+            last_update = 1783434141,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
