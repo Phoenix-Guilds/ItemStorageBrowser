@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783413133
+ItemStorageDB_LastUpdate = 1783413231
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9503,7 +9503,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 10:38:19",
+        updated_at = "2026-07-07 11:33:51",
         money = 4062,
         empty = 104,
         location = "Оргриммар",
@@ -9616,7 +9616,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24290:0:0:0:0:0:0:0:10|h[Мешочек зрелых спор]|h|r",
                 name = "Мешочек зрелых спор",
-                count = 6,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
@@ -9690,7 +9690,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783409891,
+            last_update = 1783413224,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9780,7 +9780,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:24290:0:0:0:0:0:0:0:10|h[Мешочек зрелых спор]|h|r",
                     name = "Мешочек зрелых спор",
-                    count = 6,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
@@ -9855,7 +9855,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783409895,
+            last_update = 1783413226,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
