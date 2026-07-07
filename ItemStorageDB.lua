@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1783441402
+ItemStorageDB_LastUpdate = 1783441468
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 17:23:11",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-07 19:24:28",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -706,7 +706,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
                 name = "Символ подводного дыхания",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
@@ -926,7 +926,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43427:0:0:0:0:0:0:0:10|h[Символ раскола брони]|h|r",
                 name = "Символ раскола брони",
-                count = 20,
+                count = 19,
             },
             {
                 link = "|cffffffff|Hitem:43428:0:0:0:0:0:0:0:10|h[Символ размашистого удара]|h|r",
@@ -1185,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783434109,
+            last_update = 1783441434,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1880,7 +1880,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
                     name = "Символ подводного дыхания",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
@@ -2100,7 +2100,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43427:0:0:0:0:0:0:0:10|h[Символ раскола брони]|h|r",
                     name = "Символ раскола брони",
-                    count = 20,
+                    count = 19,
                 },
                 {
                     link = "|cffffffff|Hitem:43428:0:0:0:0:0:0:0:10|h[Символ размашистого удара]|h|r",
@@ -2360,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783434141,
+            last_update = 1783441458,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
