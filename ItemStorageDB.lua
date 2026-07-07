@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783409770
+ItemStorageDB_LastUpdate = 1783409801
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4783,7 +4783,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-01 20:44:01",
+        updated_at = "2026-07-07 10:36:41",
         money = 999680,
         empty = 122,
         location = "Оргриммар",
@@ -4876,7 +4876,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35623:0:0:0:0:0:0:0:10|h[Извечный воздух]|h|r",
                 name = "Извечный воздух",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cff1eff00|Hitem:35624:0:0:0:0:0:0:0:10|h[Извечная земля]|h|r",
@@ -5031,7 +5031,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
-                count = 37,
+                count = 38,
             },
             {
                 link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
@@ -5071,12 +5071,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
-                count = 111,
+                count = 114,
             },
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
                 name = "Настой большого колдунства",
-                count = 51,
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
@@ -5085,7 +5085,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782927834,
+            last_update = 1783409794,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5155,7 +5155,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:35623:0:0:0:0:0:0:0:10|h[Извечный воздух]|h|r",
                     name = "Извечный воздух",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cff1eff00|Hitem:35624:0:0:0:0:0:0:0:10|h[Извечная земля]|h|r",
@@ -5290,7 +5290,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                     name = "Первородный огонь",
-                    count = 37,
+                    count = 38,
                 },
                 {
                     link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
@@ -5330,17 +5330,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                     name = "Настой колдунства",
-                    count = 111,
+                    count = 114,
                 },
                 {
                     link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
                     name = "Настой большого колдунства",
-                    count = 51,
+                    count = 62,
                 },
             },
         },
         bags = {
-            last_update = 1782927836,
+            last_update = 1783409796,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
