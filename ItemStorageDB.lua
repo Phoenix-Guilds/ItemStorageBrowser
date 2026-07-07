@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783409366
+ItemStorageDB_LastUpdate = 1783409524
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6902,8 +6902,8 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-05 22:50:04",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-07 10:32:04",
         money = 181084,
         empty = 166,
         location = "Оргриммар",
@@ -7011,7 +7011,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
-                count = 700,
+                count = 750,
             },
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
@@ -7230,7 +7230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783280986,
+            last_update = 1783409511,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7278,6 +7278,11 @@ ItemStorageDB = {
                     count = 56,
                 },
                 {
+                    link = "|cffffffff|Hitem:20500:0:0:0:0:0:0:0:10|h[Легкий силитидский панцирь]|h|r",
+                    name = "Легкий силитидский панцирь",
+                    count = 16,
+                },
+                {
                     link = "|cffffffff|Hitem:21887:0:0:0:0:0:0:0:10|h[Узловатая кожа]|h|r",
                     name = "Узловатая кожа",
                     count = 207,
@@ -7285,12 +7290,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                     name = "Тонкая кожа",
-                    count = 690,
+                    count = 750,
                 },
                 {
                     link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                     name = "Жесткая кожа",
-                    count = 600,
+                    count = 627,
                 },
                 {
                     link = "|cffffffff|Hitem:23793:0:0:0:0:0:0:0:10|h[Толстая узловатая кожа]|h|r",
@@ -7470,7 +7475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783280992,
+            last_update = 1783409519,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
@@ -7513,24 +7518,9 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cffffffff|Hitem:20500:0:0:0:0:0:0:0:10|h[Легкий силитидский панцирь]|h|r",
-                    name = "Легкий силитидский панцирь",
-                    count = 16,
-                },
-                {
                     link = "|cffffffff|Hitem:2304:0:0:0:0:0:0:0:10|h[Накладки из тонкой кожи]|h|r",
                     name = "Накладки из тонкой кожи",
                     count = 10,
-                },
-                {
-                    link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
-                    name = "Тонкая кожа",
-                    count = 10,
-                },
-                {
-                    link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
-                    name = "Жесткая кожа",
-                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
