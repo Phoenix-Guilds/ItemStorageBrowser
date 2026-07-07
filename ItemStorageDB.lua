@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783415572
+ItemStorageDB_LastUpdate = 1783415618
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18753,9 +18753,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 11:34:57",
+        updated_at = "2026-07-07 12:13:38",
         money = 336703,
-        empty = 102,
+        empty = 101,
         location = "Оргриммар",
         items = {
             {
@@ -19469,6 +19469,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:44676:0:0:0:0:0:-36:108:10|h[Поножи Сиреяна с меткой волшебника]|h|r",
+                name = "Поножи Сиреяна с меткой волшебника",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:44676:0:0:0:0:0:-88:108:10|h[Поножи Сиреяна с меткой предсказателя]|h|r",
                 name = "Поножи Сиреяна с меткой предсказателя",
                 count = 1,
@@ -19565,7 +19570,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783413290,
+            last_update = 1783415611,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -20278,6 +20283,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:44676:0:0:0:0:0:-36:108:10|h[Поножи Сиреяна с меткой волшебника]|h|r",
+                    name = "Поножи Сиреяна с меткой волшебника",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:44676:0:0:0:0:0:-88:108:10|h[Поножи Сиреяна с меткой предсказателя]|h|r",
                     name = "Поножи Сиреяна с меткой предсказателя",
                     count = 1,
@@ -20375,7 +20385,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783413291,
+            last_update = 1783415612,
             items = {
             },
         },
