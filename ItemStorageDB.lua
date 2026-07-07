@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783415092
+ItemStorageDB_LastUpdate = 1783415172
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18093,9 +18093,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 12:04:13",
+        updated_at = "2026-07-07 12:06:12",
         money = 1005064,
-        empty = 143,
+        empty = 141,
         location = "Оргриммар",
         items = {
             {
@@ -18186,7 +18186,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 160,
+                count = 168,
             },
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
@@ -18331,7 +18331,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
-                count = 176,
+                count = 256,
             },
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
@@ -18370,7 +18370,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783415046,
+            last_update = 1783415166,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18440,7 +18440,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                     name = "Мироцвет",
-                    count = 160,
+                    count = 168,
                 },
                 {
                     link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
@@ -18545,7 +18545,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                     name = "Сребролист",
-                    count = 176,
+                    count = 256,
                 },
                 {
                     link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
@@ -18585,7 +18585,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783415048,
+            last_update = 1783415167,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
