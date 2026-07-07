@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783418669
+ItemStorageDB_LastUpdate = 1783418709
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 12:46:01",
+        updated_at = "2026-07-07 13:05:09",
         money = 92710,
-        empty = 66,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -2441,7 +2441,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                 name = "Боевой топор лорда Александра",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
@@ -2964,8 +2964,18 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
+                name = "Ослепительный длинный меч",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
                 name = "Огненная секира",
+                count = 1,
+            },
+            {
+                link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
+                name = "Топор шквала",
                 count = 1,
             },
             {
@@ -2980,7 +2990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783417554,
+            last_update = 1783418701,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3500,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783417556,
+            last_update = 1783418703,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3515,6 +3525,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                     name = "Лезвие бритвы",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
+                    name = "Боевой топор лорда Александра",
                     count = 1,
                 },
                 {
@@ -3615,6 +3630,16 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:868:0:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
                     name = "Ревностный хранитель",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
+                    name = "Ослепительный длинный меч",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
+                    name = "Топор шквала",
                     count = 1,
                 },
             },
