@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783414905
+ItemStorageDB_LastUpdate = 1783415053
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18093,9 +18093,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 11:56:51",
+        updated_at = "2026-07-07 12:04:13",
         money = 1005064,
-        empty = 141,
+        empty = 143,
         location = "Оргриммар",
         items = {
             {
@@ -18192,11 +18192,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
                 count = 49,
-            },
-            {
-                link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
-                name = "Остротерн",
-                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
@@ -18375,7 +18370,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783414602,
+            last_update = 1783415046,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18451,11 +18446,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                     name = "Земляной корень",
                     count = 49,
-                },
-                {
-                    link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
-                    name = "Остротерн",
-                    count = 51,
                 },
                 {
                     link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
@@ -18595,7 +18585,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783414604,
+            last_update = 1783415048,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
