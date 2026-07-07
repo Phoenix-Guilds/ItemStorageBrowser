@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783440775
+ItemStorageDB_LastUpdate = 1783440872
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3647,8 +3647,8 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-25 07:38:14",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-07 19:14:32",
         money = 158410,
         empty = 159,
         location = "Оргриммар",
@@ -3830,16 +3830,11 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1782362289,
+            last_update = 1783440818,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
                     name = "Идол Луны",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
-                    name = "Тотем бури",
                     count = 1,
                 },
                 {
@@ -3853,18 +3848,8 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
-                    name = "Боевая перчатка расплаты",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
                     name = "Клинок обретенного знания",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31153:0:0:0:0:0:0:0:10|h[Топор Легиона]|h|r",
-                    name = "Топор Легиона",
                     count = 1,
                 },
                 {
@@ -4010,8 +3995,23 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1782362290,
+            last_update = 1783440819,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
+                    name = "Тотем бури",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
+                    name = "Боевая перчатка расплаты",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31153:0:0:0:0:0:0:0:10|h[Топор Легиона]|h|r",
+                    name = "Топор Легиона",
+                    count = 1,
+                },
             },
         },
     },
