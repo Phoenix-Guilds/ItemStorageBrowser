@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783417561
+ItemStorageDB_LastUpdate = 1783417605
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20438,9 +20438,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 12:18:52",
+        updated_at = "2026-07-07 12:46:45",
         money = 3936,
-        empty = 44,
+        empty = 42,
         location = "Оргриммар",
         items = {
             {
@@ -20731,7 +20731,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
                 name = "Искрящееся оплечье",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
@@ -21039,6 +21039,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:2620:0:0:0:0:0:0:0:10|h[Капюшон авгура]|h|r",
+                name = "Капюшон авгура",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:6428:0:0:0:0:0:0:0:10|h[Туманные перчатки]|h|r",
                 name = "Туманные перчатки",
                 count = 1,
@@ -21090,7 +21095,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783415924,
+            last_update = 1783417598,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21635,7 +21640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783415927,
+            last_update = 1783417600,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21745,7 +21750,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
                     name = "Искрящееся оплечье",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
@@ -21835,6 +21840,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:10331:0:0:0:0:0:0:0:10|h[Алые рукавицы]|h|r",
                     name = "Алые рукавицы",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:2620:0:0:0:0:0:0:0:10|h[Капюшон авгура]|h|r",
+                    name = "Капюшон авгура",
                     count = 1,
                 },
                 {
