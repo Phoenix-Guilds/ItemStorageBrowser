@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783414611
+ItemStorageDB_LastUpdate = 1783414905
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4758,7 +4758,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 11:19:50",
+        updated_at = "2026-07-07 12:01:45",
         money = 999680,
         empty = 122,
         location = "Оргриммар",
@@ -4891,7 +4891,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 42,
+                count = 43,
             },
             {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -5006,7 +5006,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
-                count = 38,
+                count = 39,
             },
             {
                 link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
@@ -5016,7 +5016,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 164,
+                count = 167,
             },
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -5031,7 +5031,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
                 name = "Магическая сфера воды",
-                count = 9,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
@@ -5060,7 +5060,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783412385,
+            last_update = 1783414899,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5265,7 +5265,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                     name = "Первородный огонь",
-                    count = 38,
+                    count = 39,
                 },
                 {
                     link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
@@ -5275,7 +5275,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                     name = "Первородная вода",
-                    count = 164,
+                    count = 167,
                 },
                 {
                     link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -5290,7 +5290,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
                     name = "Магическая сфера воды",
-                    count = 9,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
@@ -5315,7 +5315,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783412386,
+            last_update = 1783414900,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5350,7 +5350,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                     name = "Радужная жемчужина",
-                    count = 42,
+                    count = 43,
                 },
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
