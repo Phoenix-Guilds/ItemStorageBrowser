@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783623103
+ItemStorageDB_LastUpdate = 1783623213
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15423,7 +15423,7 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 19:23:22",
+        updated_at = "2026-07-09 21:53:33",
         money = 214291,
         empty = 175,
         location = "Оргриммар",
@@ -15865,7 +15865,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783441392,
+            last_update = 1783623205,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
