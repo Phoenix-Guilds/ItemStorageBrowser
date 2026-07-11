@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783779545
+ItemStorageDB_LastUpdate = 1783779640
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2372,10 +2372,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-09 21:50:41",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-11 17:20:40",
         money = 92710,
-        empty = 67,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -2731,7 +2731,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -2990,7 +2990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783623024,
+            last_update = 1783779576,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783623033,
+            last_update = 1783779600,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3560,11 +3560,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
                     name = "Жезл антиподов",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                    name = "Массивная треугольная палица",
                     count = 1,
                 },
                 {
