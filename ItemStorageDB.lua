@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783779640
+ItemStorageDB_LastUpdate = 1783779911
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21872,10 +21872,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 19:25:11",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-11 17:25:11",
         money = 194111,
-        empty = 113,
+        empty = 115,
         location = "Оргриммар",
         items = {
             {
@@ -21952,11 +21952,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
                 name = "Кольцо жреца",
                 count = 3,
-            },
-            {
-                link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
-                name = "Кольцо грозного лика",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1491:0:0:0:0:0:0:0:10|h[Кольцо точности]|h|r",
@@ -22194,11 +22189,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
-                name = "Варварский железный ошейник",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
                 name = "Кольцо золотого дракона",
                 count = 3,
@@ -22335,7 +22325,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783441491,
+            last_update = 1783779731,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22371,11 +22361,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
                     name = "Кольцо жреца",
                     count = 3,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
-                    name = "Кольцо грозного лика",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1491:0:0:0:0:0:0:0:10|h[Кольцо точности]|h|r",
@@ -22675,7 +22660,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783441503,
+            last_update = 1783779837,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22760,11 +22745,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
                     name = "Тяжелое золотое ожерелье битвы",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
-                    name = "Варварский железный ошейник",
                     count = 1,
                 },
                 {
