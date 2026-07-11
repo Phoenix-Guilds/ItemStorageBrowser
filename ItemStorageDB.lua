@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1783794851
+ItemStorageDB_LastUpdate = 1783795021
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-07 19:24:28",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-11 21:37:01",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -756,7 +756,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
                 name = "Символ левитации",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:43374:0:0:0:0:0:0:0:10|h[Символ исчадия Тьмы]|h|r",
@@ -821,7 +821,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
                 name = "Символ боевого крика",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
@@ -1066,7 +1066,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45760:0:0:0:0:0:0:0:10|h[Символ подавления боли]|h|r",
                 name = "Символ подавления боли",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:45761:0:0:0:0:0:0:0:10|h[Символ жажды убийства]|h|r",
@@ -1185,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783441434,
+            last_update = 1783794952,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1930,7 +1930,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
                     name = "Символ левитации",
-                    count = 9,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:43374:0:0:0:0:0:0:0:10|h[Символ исчадия Тьмы]|h|r",
@@ -1995,7 +1995,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
                     name = "Символ боевого крика",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
@@ -2240,7 +2240,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:45760:0:0:0:0:0:0:0:10|h[Символ подавления боли]|h|r",
                     name = "Символ подавления боли",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:45761:0:0:0:0:0:0:0:10|h[Символ жажды убийства]|h|r",
@@ -2360,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783441458,
+            last_update = 1783794965,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
