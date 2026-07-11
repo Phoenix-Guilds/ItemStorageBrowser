@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783786566
+ItemStorageDB_LastUpdate = 1783787465
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6942,8 +6942,8 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-11 17:45:08",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-11 19:31:05",
         money = 181084,
         empty = 166,
         location = "Оргриммар",
@@ -7221,12 +7221,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6470:0:0:0:0:0:0:0:10|h[Искаженная чешуя]|h|r",
                 name = "Искаженная чешуя",
-                count = 121,
+                count = 112,
             },
             {
                 link = "|cffffffff|Hitem:6471:0:0:0:0:0:0:0:10|h[Идеальная искаженная чешуя]|h|r",
                 name = "Идеальная искаженная чешуя",
-                count = 20,
+                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
@@ -7270,7 +7270,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783781055,
+            last_update = 1783787427,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7470,12 +7470,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6470:0:0:0:0:0:0:0:10|h[Искаженная чешуя]|h|r",
                     name = "Искаженная чешуя",
-                    count = 121,
+                    count = 112,
                 },
                 {
                     link = "|cffffffff|Hitem:6471:0:0:0:0:0:0:0:10|h[Идеальная искаженная чешуя]|h|r",
                     name = "Идеальная искаженная чешуя",
-                    count = 20,
+                    count = 14,
                 },
                 {
                     link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
@@ -7515,7 +7515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783781080,
+            last_update = 1783787433,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
