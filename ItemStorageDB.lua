@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783806507
+ItemStorageDB_LastUpdate = 1783808010
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12437,10 +12437,10 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-06 17:59:41",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-12 01:13:30",
         money = 385478,
-        empty = 104,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -12481,7 +12481,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                 name = "Большой сверкающий осколок",
-                count = 121,
+                count = 117,
             },
             {
                 link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12544,11 +12544,6 @@ ItemStorageDB = {
                 count = 10,
             },
             {
-                link = "|cff1eff00|Hitem:16202:0:0:0:0:0:0:0:10|h[Простая вечная субстанция]|h|r",
-                name = "Простая вечная субстанция",
-                count = 19,
-            },
-            {
                 link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                 name = "Великая вечная субстанция",
                 count = 40,
@@ -12596,7 +12591,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
@@ -12604,19 +12599,9 @@ ItemStorageDB = {
                 count = 204,
             },
             {
-                link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
-                name = "Жезл из истинного серебра",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
                 name = "Сонная пыль",
                 count = 200,
-            },
-            {
-                link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
-                name = "Пыль иллюзий",
-                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
@@ -12690,7 +12675,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783349967,
+            last_update = 1783807747,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12730,7 +12715,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                     name = "Большой сверкающий осколок",
-                    count = 121,
+                    count = 117,
                 },
                 {
                     link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12793,11 +12778,6 @@ ItemStorageDB = {
                     count = 10,
                 },
                 {
-                    link = "|cff1eff00|Hitem:16202:0:0:0:0:0:0:0:10|h[Простая вечная субстанция]|h|r",
-                    name = "Простая вечная субстанция",
-                    count = 19,
-                },
-                {
                     link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                     name = "Великая вечная субстанция",
                     count = 40,
@@ -12853,11 +12833,6 @@ ItemStorageDB = {
                     count = 200,
                 },
                 {
-                    link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
-                    name = "Пыль иллюзий",
-                    count = 50,
-                },
-                {
                     link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
                     name = "Семена клена",
                     count = 40,
@@ -12900,16 +12875,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783349972,
+            last_update = 1783807778,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                     name = "Золотой жезл",
-                    count = 2,
-                },
-                {
-                    link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
-                    name = "Жезл из истинного серебра",
                     count = 1,
                 },
                 {
