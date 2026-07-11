@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783780226
+ItemStorageDB_LastUpdate = 1783780295
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20383,9 +20383,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-11 17:19:05",
+        updated_at = "2026-07-11 17:31:35",
         money = 3936,
-        empty = 39,
+        empty = 40,
         location = "Оргриммар",
         items = {
             {
@@ -20692,11 +20692,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13145:0:0:0:0:0:0:0:10|h[Огромный огрский пояс]|h|r",
                 name = "Огромный огрский пояс",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
-                name = "Наручники Раздробленного хребта",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:15061:0:0:0:0:0:0:0:10|h[Наплечники жизни]|h|r",
@@ -21060,7 +21055,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783779452,
+            last_update = 1783780270,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -21585,7 +21580,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783779500,
+            last_update = 1783780283,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21721,11 +21716,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13145:0:0:0:0:0:0:0:10|h[Огромный огрский пояс]|h|r",
                     name = "Огромный огрский пояс",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
-                    name = "Наручники Раздробленного хребта",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:16696:0:0:0:0:0:0:0:10|h[Пояс преданности]|h|r",
