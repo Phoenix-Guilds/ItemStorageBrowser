@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783795130
+ItemStorageDB_LastUpdate = 1783795429
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15398,9 +15398,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-11 17:58:30",
+        updated_at = "2026-07-11 21:43:49",
         money = 214291,
-        empty = 178,
+        empty = 179,
         location = "Оргриммар",
         items = {
             {
@@ -15594,11 +15594,6 @@ ItemStorageDB = {
                 count = 5,
             },
             {
-                link = "|cffffffff|Hitem:38989:0:0:0:0:0:0:0:10|h[Свиток чар для нагрудника - все характеристики VI]|h|r",
-                name = "Свиток чар для нагрудника - все характеристики VI",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:39006:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - живучесть клыкарра]|h|r",
                 name = "Свиток чар для обуви - живучесть клыкарра",
                 count = 2,
@@ -15680,7 +15675,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783781850,
+            last_update = 1783795182,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15820,7 +15815,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783781867,
+            last_update = 1783795197,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -15921,11 +15916,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:38979:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - сила заклинаний II]|h|r",
                     name = "Свиток чар для перчаток - сила заклинаний II",
                     count = 5,
-                },
-                {
-                    link = "|cffffffff|Hitem:38989:0:0:0:0:0:0:0:10|h[Свиток чар для нагрудника - все характеристики VI]|h|r",
-                    name = "Свиток чар для нагрудника - все характеристики VI",
-                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:39006:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - живучесть клыкарра]|h|r",
