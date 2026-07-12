@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783834830
+ItemStorageDB_LastUpdate = 1783834890
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,7 +2363,7 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-11 17:20:40",
+        updated_at = "2026-07-12 08:41:30",
         money = 92710,
         empty = 68,
         location = "Оргриммар",
@@ -2980,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783779576,
+            last_update = 1783834876,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3025,7 +3025,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                     name = "Лезвие бритвы",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
@@ -3040,6 +3040,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                     name = "Боевой топор лорда Александра",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
+                    name = "Молот Макхоуэна",
                     count = 1,
                 },
                 {
@@ -3278,6 +3283,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:2567:0:0:0:0:0:0:0:10|h[Клинок Зовущего]|h|r",
+                    name = "Клинок Зовущего",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
                     name = "Изогнутый мясницкий нож",
                     count = 2,
@@ -3500,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783779600,
+            last_update = 1783834879,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3513,18 +3523,8 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
-                    name = "Лезвие бритвы",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                     name = "Боевой топор лорда Александра",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
-                    name = "Молот Макхоуэна",
                     count = 1,
                 },
                 {
@@ -3541,11 +3541,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
                     name = "Фамильный щит Гарреттов",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2567:0:0:0:0:0:0:0:10|h[Клинок Зовущего]|h|r",
-                    name = "Клинок Зовущего",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
