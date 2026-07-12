@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783875035
+ItemStorageDB_LastUpdate = 1783875424
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18013,9 +18013,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-11 19:16:06",
+        updated_at = "2026-07-12 19:57:04",
         money = 1005064,
-        empty = 143,
+        empty = 144,
         location = "Оргриммар",
         items = {
             {
@@ -18136,7 +18136,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                 name = "Корень жизни",
-                count = 86,
+                count = 48,
             },
             {
                 link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
@@ -18290,7 +18290,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783786546,
+            last_update = 1783875417,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18390,7 +18390,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                     name = "Корень жизни",
-                    count = 86,
+                    count = 48,
                 },
                 {
                     link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
@@ -18505,7 +18505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783786553,
+            last_update = 1783875418,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
