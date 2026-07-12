@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783871294
+ItemStorageDB_LastUpdate = 1783875035
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2382,10 +2382,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 08:41:30",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-12 19:50:35",
         money = 92710,
-        empty = 68,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -2631,11 +2631,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
                 name = "Игольщик",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                name = "Щит Торсена",
                 count = 1,
             },
             {
@@ -3000,7 +2995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783834876,
+            last_update = 1783874988,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3530,7 +3525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783834879,
+            last_update = 1783875018,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3545,11 +3540,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                     name = "Боевой топор лорда Александра",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                    name = "Щит Торсена",
                     count = 1,
                 },
                 {
