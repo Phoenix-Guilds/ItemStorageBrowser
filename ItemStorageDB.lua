@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1783833845
+ItemStorageDB_LastUpdate = 1783833911
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 00:48:27",
+        updated_at = "2026-07-12 08:25:11",
         money = 339404,
-        empty = 109,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
@@ -794,11 +794,6 @@ ItemStorageDB = {
                 count = 4,
             },
             {
-                link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
-                name = "Символ хождения по воде",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
                 name = "Символ бесконечного дыхания",
                 count = 8,
@@ -1185,7 +1180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783806448,
+            last_update = 1783833887,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1968,11 +1963,6 @@ ItemStorageDB = {
                     count = 4,
                 },
                 {
-                    link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
-                    name = "Символ хождения по воде",
-                    count = 1,
-                },
-                {
                     link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
                     name = "Символ бесконечного дыхания",
                     count = 8,
@@ -2360,7 +2350,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783806473,
+            last_update = 1783833896,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
