@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783855174
+ItemStorageDB_LastUpdate = 1783855289
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8683,9 +8683,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-11 18:25:49",
+        updated_at = "2026-07-12 14:21:29",
         money = 208636,
-        empty = 67,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -8946,17 +8946,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40076:0:0:0:0:0:0:0:10|h[Эликсир гуру]|h|r",
                 name = "Эликсир гуру",
-                count = 20,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:40077:0:0:0:0:0:0:0:10|h[Зелье сумасшедшего алхимика]|h|r",
                 name = "Зелье сумасшедшего алхимика",
                 count = 21,
-            },
-            {
-                link = "|cffffffff|Hitem:40078:0:0:0:0:0:0:0:10|h[Мощный эликсир стойкости]|h|r",
-                name = "Мощный эликсир стойкости",
-                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:40093:0:0:0:0:0:0:0:10|h[Зелье несокрушимости]|h|r",
@@ -9140,7 +9135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783783463,
+            last_update = 1783855249,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9320,17 +9315,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40076:0:0:0:0:0:0:0:10|h[Эликсир гуру]|h|r",
                     name = "Эликсир гуру",
-                    count = 20,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:40077:0:0:0:0:0:0:0:10|h[Зелье сумасшедшего алхимика]|h|r",
                     name = "Зелье сумасшедшего алхимика",
                     count = 21,
-                },
-                {
-                    link = "|cffffffff|Hitem:40078:0:0:0:0:0:0:0:10|h[Мощный эликсир стойкости]|h|r",
-                    name = "Мощный эликсир стойкости",
-                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:40093:0:0:0:0:0:0:0:10|h[Зелье несокрушимости]|h|r",
@@ -9500,7 +9490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783783532,
+            last_update = 1783855272,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
