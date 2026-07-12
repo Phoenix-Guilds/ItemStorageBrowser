@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783833806
+ItemStorageDB_LastUpdate = 1783833845
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5773,9 +5773,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-11 17:43:21",
+        updated_at = "2026-07-12 08:24:05",
         money = 421241,
-        empty = 73,
+        empty = 71,
         location = "Оргриммар",
         items = {
             {
@@ -5816,7 +5816,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:10|h[Сумеречный опал]|h|r",
                 name = "Сумеречный опал",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:36930:0:0:0:0:0:0:0:10|h[Императорский топаз]|h|r",
@@ -5841,7 +5841,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11754:0:0:0:0:0:0:0:10|h[Черный алмаз]|h|r",
                 name = "Черный алмаз",
-                count = 26,
+                count = 41,
             },
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
@@ -5966,7 +5966,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
                 name = "Малахит",
-                count = 200,
+                count = 211,
             },
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
@@ -6110,7 +6110,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783780323,
+            last_update = 1783415369,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6170,7 +6170,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:11754:0:0:0:0:0:0:0:10|h[Черный алмаз]|h|r",
                     name = "Черный алмаз",
-                    count = 26,
+                    count = 41,
                 },
                 {
                     link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
@@ -6285,7 +6285,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
                     name = "Малахит",
-                    count = 200,
+                    count = 211,
                 },
                 {
                     link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
@@ -6350,8 +6350,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783780975,
+            last_update = 1783833836,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:10|h[Сумеречный опал]|h|r",
+                    name = "Сумеречный опал",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
                     name = "Извечная поясная пряжка",
