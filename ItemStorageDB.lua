@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783876391
+ItemStorageDB_LastUpdate = 1783876491
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9968,9 +9968,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 20:09:11",
+        updated_at = "2026-07-12 20:14:51",
         money = 213874,
-        empty = 83,
+        empty = 84,
         location = "Оргриммар",
         items = {
             {
@@ -10236,7 +10236,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
-                count = 82,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:6889:0:0:0:0:0:0:0:10|h[Небольшое яйцо]|h|r",
@@ -10260,7 +10260,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783876031,
+            last_update = 1783876419,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10525,7 +10525,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                     name = "Пикантное мясо моллюска",
-                    count = 82,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:6889:0:0:0:0:0:0:0:10|h[Небольшое яйцо]|h|r",
@@ -10550,7 +10550,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783876038,
+            last_update = 1783876426,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
