@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783835187
+ItemStorageDB_LastUpdate = 1783835221
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7603,9 +7603,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-11 17:46:57",
+        updated_at = "2026-07-12 08:47:01",
         money = 0,
-        empty = 200,
+        empty = 199,
         location = "Оргриммар",
         items = {
             {
@@ -7654,6 +7654,16 @@ ItemStorageDB = {
                 count = 40,
             },
             {
+                link = "|cffffffff|Hitem:34751:0:0:0:0:0:0:0:10|h[Жареный ворг]|h|r",
+                name = "Жареный ворг",
+                count = 50,
+            },
+            {
+                link = "|cffffffff|Hitem:39691:0:0:0:0:0:0:0:10|h[Наваристая похлебка из косатки]|h|r",
+                name = "Наваристая похлебка из косатки",
+                count = 20,
+            },
+            {
                 link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
                 name = "Филе дракоперой рыбы-ангела",
                 count = 20,
@@ -7671,7 +7681,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 30,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -7690,7 +7700,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783781179,
+            last_update = 1783835213,
             items = {
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7738,6 +7748,16 @@ ItemStorageDB = {
                     count = 40,
                 },
                 {
+                    link = "|cffffffff|Hitem:34751:0:0:0:0:0:0:0:10|h[Жареный ворг]|h|r",
+                    name = "Жареный ворг",
+                    count = 50,
+                },
+                {
+                    link = "|cffffffff|Hitem:39691:0:0:0:0:0:0:0:10|h[Наваристая похлебка из косатки]|h|r",
+                    name = "Наваристая похлебка из косатки",
+                    count = 20,
+                },
+                {
                     link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
                     name = "Филе дракоперой рыбы-ангела",
                     count = 20,
@@ -7775,13 +7795,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783781180,
+            last_update = 1783835217,
             items = {
-                {
-                    link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
-                    name = "Хрустящий хвост ящерицы",
-                    count = 10,
-                },
             },
         },
     },
