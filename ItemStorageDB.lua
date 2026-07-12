@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1783834890
+ItemStorageDB_LastUpdate = 1783834977
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 08:25:11",
+        updated_at = "2026-07-12 08:42:57",
         money = 339404,
-        empty = 110,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -186,7 +186,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41530:0:0:0:0:0:0:0:10|h[Символ кольца огня]|h|r",
                 name = "Символ кольца огня",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:41531:0:0:0:0:0:0:0:10|h[Символ огненного шока]|h|r",
@@ -706,7 +706,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
                 name = "Символ подводного дыхания",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
@@ -791,7 +791,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43386:0:0:0:0:0:0:0:10|h[Символ водного щита]|h|r",
                 name = "Символ водного щита",
-                count = 4,
+                count = 5,
+            },
+            {
+                link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
+                name = "Символ хождения по воде",
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
@@ -956,7 +961,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43725:0:0:0:0:0:0:0:10|h[Символ призрачного волка]|h|r",
                 name = "Символ призрачного волка",
-                count = 1,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:43868:0:0:0:0:0:0:0:10|h[Символ печати праведности]|h|r",
@@ -1104,6 +1109,11 @@ ItemStorageDB = {
                 count = 5,
             },
             {
+                link = "|cffffffff|Hitem:45778:0:0:0:0:0:0:0:10|h[Символ тотема каменного когтя]|h|r",
+                name = "Символ тотема каменного когтя",
+                count = 5,
+            },
+            {
                 link = "|cffffffff|Hitem:45780:0:0:0:0:0:0:0:10|h[Символ метаморфозы]|h|r",
                 name = "Символ метаморфозы",
                 count = 5,
@@ -1180,7 +1190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783833887,
+            last_update = 1783834955,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1355,7 +1365,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41530:0:0:0:0:0:0:0:10|h[Символ кольца огня]|h|r",
                     name = "Символ кольца огня",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:41531:0:0:0:0:0:0:0:10|h[Символ огненного шока]|h|r",
@@ -1875,7 +1885,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
                     name = "Символ подводного дыхания",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
@@ -1960,7 +1970,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43386:0:0:0:0:0:0:0:10|h[Символ водного щита]|h|r",
                     name = "Символ водного щита",
-                    count = 4,
+                    count = 5,
+                },
+                {
+                    link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
+                    name = "Символ хождения по воде",
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
@@ -2125,7 +2140,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43725:0:0:0:0:0:0:0:10|h[Символ призрачного волка]|h|r",
                     name = "Символ призрачного волка",
-                    count = 1,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:43868:0:0:0:0:0:0:0:10|h[Символ печати праведности]|h|r",
@@ -2273,6 +2288,11 @@ ItemStorageDB = {
                     count = 5,
                 },
                 {
+                    link = "|cffffffff|Hitem:45778:0:0:0:0:0:0:0:10|h[Символ тотема каменного когтя]|h|r",
+                    name = "Символ тотема каменного когтя",
+                    count = 5,
+                },
+                {
                     link = "|cffffffff|Hitem:45780:0:0:0:0:0:0:0:10|h[Символ метаморфозы]|h|r",
                     name = "Символ метаморфозы",
                     count = 5,
@@ -2350,7 +2370,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783833896,
+            last_update = 1783834969,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
