@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783876882
+ItemStorageDB_LastUpdate = 1783876947
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18003,7 +18003,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 19:57:04",
+        updated_at = "2026-07-12 20:22:27",
         money = 1005064,
         empty = 144,
         location = "Оргриммар",
@@ -18116,7 +18116,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 76,
+                count = 56,
             },
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
@@ -18196,7 +18196,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
-                count = 100,
+                count = 80,
             },
             {
                 link = "|cffffffff|Hitem:39505:0:0:0:0:0:0:0:10|h[Набор виртуозного начертателя]|h|r",
@@ -18280,7 +18280,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783875417,
+            last_update = 1783876919,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18370,7 +18370,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                     name = "Дикий сталецвет",
-                    count = 76,
+                    count = 56,
                 },
                 {
                     link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
@@ -18440,7 +18440,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                     name = "Златошип",
-                    count = 100,
+                    count = 80,
                 },
                 {
                     link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
@@ -18495,7 +18495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783875418,
+            last_update = 1783876925,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
