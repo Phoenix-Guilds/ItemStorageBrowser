@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783876151
+ItemStorageDB_LastUpdate = 1783876391
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15112,10 +15112,10 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:50:43",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-12 20:13:11",
         money = 4042,
-        empty = 152,
+        empty = 154,
         location = "Оргриммар",
         items = {
             {
@@ -15147,11 +15147,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
                 name = "Сырой ночной луциан",
                 count = 28,
-            },
-            {
-                link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
-                name = "Сырой солнечный лосось",
-                count = 41,
             },
             {
                 link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
@@ -15206,7 +15201,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                 name = "Сырой острозубый илистый луциан",
-                count = 176,
+                count = 118,
             },
             {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
@@ -15245,7 +15240,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780566628,
+            last_update = 1783876351,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15276,11 +15271,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
                     name = "Сырой ночной луциан",
                     count = 28,
-                },
-                {
-                    link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
-                    name = "Сырой солнечный лосось",
-                    count = 41,
                 },
                 {
                     link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
@@ -15335,7 +15325,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                     name = "Сырой острозубый илистый луциан",
-                    count = 176,
+                    count = 118,
                 },
                 {
                     link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
@@ -15375,7 +15365,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780566630,
+            last_update = 1783876354,
             items = {
             },
         },
