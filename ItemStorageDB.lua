@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1783947393
+ItemStorageDB_LastUpdate = 1784009232
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9968,9 +9968,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 20:14:51",
+        updated_at = "2026-07-14 09:07:12",
         money = 213874,
-        empty = 84,
+        empty = 85,
         location = "Оргриммар",
         items = {
             {
@@ -10161,7 +10161,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
                 name = "Мясо льва",
-                count = 31,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:43009:0:0:0:0:0:0:0:10|h[Бок черпорога]|h|r",
@@ -10196,7 +10196,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4655:0:0:0:0:0:0:0:10|h[Мясо гигантского моллюска]|h|r",
                 name = "Мясо гигантского моллюска",
-                count = 371,
+                count = 283,
             },
             {
                 link = "|cffffffff|Hitem:5465:0:0:0:0:0:0:0:10|h[Небольшая паучья лапка]|h|r",
@@ -10246,7 +10246,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:729:0:0:0:0:0:0:0:10|h[Жилистое мясо стервятника]|h|r",
                 name = "Жилистое мясо стервятника",
-                count = 51,
+                count = 55,
             },
             {
                 link = "|cffffffff|Hitem:769:0:0:0:0:0:0:0:10|h[Кусок кабанины]|h|r",
@@ -10260,7 +10260,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783876419,
+            last_update = 1784008687,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10448,11 +10448,6 @@ ItemStorageDB = {
                     count = 24,
                 },
                 {
-                    link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
-                    name = "Мясо льва",
-                    count = 31,
-                },
-                {
                     link = "|cffffffff|Hitem:43009:0:0:0:0:0:0:0:10|h[Бок черпорога]|h|r",
                     name = "Бок черпорога",
                     count = 166,
@@ -10485,7 +10480,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4655:0:0:0:0:0:0:0:10|h[Мясо гигантского моллюска]|h|r",
                     name = "Мясо гигантского моллюска",
-                    count = 371,
+                    count = 250,
                 },
                 {
                     link = "|cffffffff|Hitem:5465:0:0:0:0:0:0:0:10|h[Небольшая паучья лапка]|h|r",
@@ -10550,12 +10545,27 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783876426,
+            last_update = 1784009221,
             items = {
+                {
+                    link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
+                    name = "Мясо льва",
+                    count = 29,
+                },
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                     name = "Охлажденное мясо",
                     count = 740,
+                },
+                {
+                    link = "|cffffffff|Hitem:4655:0:0:0:0:0:0:0:10|h[Мясо гигантского моллюска]|h|r",
+                    name = "Мясо гигантского моллюска",
+                    count = 33,
+                },
+                {
+                    link = "|cffffffff|Hitem:729:0:0:0:0:0:0:0:10|h[Жилистое мясо стервятника]|h|r",
+                    name = "Жилистое мясо стервятника",
+                    count = 4,
                 },
             },
         },
