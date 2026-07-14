@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784048715
+ItemStorageDB_LastUpdate = 1784056904
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15378,9 +15378,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-14 20:05:15",
+        updated_at = "2026-07-14 22:21:44",
         money = 214291,
-        empty = 182,
+        empty = 181,
         location = "Оргриммар",
         items = {
             {
@@ -15436,7 +15436,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
                 name = "Свиток силы II",
-                count = 20,
+                count = 21,
             },
             {
                 link = "|cffffffff|Hitem:2290:0:0:0:0:0:0:0:10|h[Свиток интеллекта II]|h|r",
@@ -15645,7 +15645,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784048521,
+            last_update = 1784056067,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15775,7 +15775,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784048551,
+            last_update = 1784056184,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -15796,6 +15796,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:10309:0:0:0:0:0:0:0:10|h[Свиток ловкости IV]|h|r",
                     name = "Свиток ловкости IV",
                     count = 4,
+                },
+                {
+                    link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
+                    name = "Свиток силы II",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
