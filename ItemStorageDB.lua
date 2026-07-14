@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784009502
+ItemStorageDB_LastUpdate = 1784012629
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 19:50:35",
+        updated_at = "2026-07-14 10:03:49",
         money = 92710,
-        empty = 69,
+        empty = 72,
         location = "Оргриммар",
         items = {
             {
@@ -2422,11 +2422,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                 name = "Клинок Многоглаза",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
-                name = "Дубина Ракзура",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
@@ -2721,7 +2716,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
@@ -2841,7 +2836,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9378:0:0:0:0:0:0:0:10|h[Шахтерское кайло Лопаторукого]|h|r",
                 name = "Шахтерское кайло Лопаторукого",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:937:0:0:0:0:0:0:0:10|h[Черный посох Сумеречного леса]|h|r",
@@ -2995,7 +2990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783874988,
+            last_update = 1784012571,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3025,11 +3020,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                     name = "Клинок Многоглаза",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
-                    name = "Дубина Ракзура",
                     count = 1,
                 },
                 {
@@ -3315,7 +3305,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                     name = "Зазубренный боевой топор",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
@@ -3420,7 +3410,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9378:0:0:0:0:0:0:0:10|h[Шахтерское кайло Лопаторукого]|h|r",
                     name = "Шахтерское кайло Лопаторукого",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:9385:0:0:0:0:0:0:0:10|h[Древний защитник]|h|r",
@@ -3525,7 +3515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783875018,
+            last_update = 1784012620,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
