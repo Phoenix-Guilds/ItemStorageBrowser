@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784056904
+ItemStorageDB_LastUpdate = 1784057073
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9958,10 +9958,10 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-14 20:01:07",
+        updated_at = "2026-07-14 22:24:33",
         money = 213874,
-        empty = 84,
-        location = "",
+        empty = 85,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -9992,11 +9992,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
                 name = "Красное волчье мясо",
                 count = 289,
-            },
-            {
-                link = "|cffffffff|Hitem:12205:0:0:0:0:0:0:0:10|h[Белое мясо паука]|h|r",
-                name = "Белое мясо паука",
-                count = 23,
             },
             {
                 link = "|cffffffff|Hitem:12206:0:0:0:0:0:0:0:10|h[Нежное крабовое мясо]|h|r",
@@ -10250,7 +10245,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784048015,
+            last_update = 1784056959,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10281,11 +10276,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
                     name = "Красное волчье мясо",
                     count = 289,
-                },
-                {
-                    link = "|cffffffff|Hitem:12205:0:0:0:0:0:0:0:10|h[Белое мясо паука]|h|r",
-                    name = "Белое мясо паука",
-                    count = 23,
                 },
                 {
                     link = "|cffffffff|Hitem:12206:0:0:0:0:0:0:0:10|h[Нежное крабовое мясо]|h|r",
@@ -10530,7 +10520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784048244,
+            last_update = 1784056988,
             items = {
                 {
                     link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
