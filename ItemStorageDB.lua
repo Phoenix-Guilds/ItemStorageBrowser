@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784009232
+ItemStorageDB_LastUpdate = 1784009367
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15123,9 +15123,9 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 20:13:11",
+        updated_at = "2026-07-14 09:09:27",
         money = 4042,
-        empty = 154,
+        empty = 155,
         location = "Оргриммар",
         items = {
             {
@@ -15211,7 +15211,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                 name = "Сырой острозубый илистый луциан",
-                count = 118,
+                count = 99,
             },
             {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
@@ -15250,7 +15250,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783876351,
+            last_update = 1784009271,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15265,7 +15265,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                     name = "Сырой летний окунь",
-                    count = 191,
+                    count = 150,
                 },
                 {
                     link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
@@ -15335,7 +15335,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                     name = "Сырой острозубый илистый луциан",
-                    count = 118,
+                    count = 99,
                 },
                 {
                     link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
@@ -15375,8 +15375,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783876354,
+            last_update = 1784009273,
             items = {
+                {
+                    link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
+                    name = "Сырой летний окунь",
+                    count = 41,
+                },
             },
         },
     },
