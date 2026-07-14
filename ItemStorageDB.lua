@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784047674
+ItemStorageDB_LastUpdate = 1784047757
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9957,10 +9957,10 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-14 09:07:12",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-14 19:49:17",
         money = 213874,
-        empty = 85,
+        empty = 84,
         location = "Оргриммар",
         items = {
             {
@@ -10131,7 +10131,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36782:0:0:0:0:0:0:0:10|h[Сочное мясо моллюска]|h|r",
                 name = "Сочное мясо моллюска",
-                count = 104,
+                count = 74,
             },
             {
                 link = "|cffffffff|Hitem:3685:0:0:0:0:0:0:0:10|h[Яйцо ящера]|h|r",
@@ -10176,7 +10176,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 1090,
+                count = 1140,
             },
             {
                 link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
@@ -10250,7 +10250,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784008687,
+            last_update = 1784047726,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10420,7 +10420,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36782:0:0:0:0:0:0:0:10|h[Сочное мясо моллюска]|h|r",
                     name = "Сочное мясо моллюска",
-                    count = 104,
+                    count = 74,
                 },
                 {
                     link = "|cffffffff|Hitem:3685:0:0:0:0:0:0:0:10|h[Яйцо ящера]|h|r",
@@ -10535,7 +10535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784009221,
+            last_update = 1784047747,
             items = {
                 {
                     link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
@@ -10545,7 +10545,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                     name = "Охлажденное мясо",
-                    count = 740,
+                    count = 790,
                 },
                 {
                     link = "|cffffffff|Hitem:4655:0:0:0:0:0:0:0:10|h[Мясо гигантского моллюска]|h|r",
