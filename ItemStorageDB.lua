@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1784114553
+ItemStorageDB_LastUpdate = 1784114961
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 20:18:45",
+        updated_at = "2026-07-15 14:29:21",
         money = 339404,
         empty = 108,
         location = "Оргриммар",
@@ -1190,7 +1190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783876696,
+            last_update = 1784114922,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1673,11 +1673,6 @@ ItemStorageDB = {
                     count = 4,
                 },
                 {
-                    link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
-                    name = "Символ лечения",
-                    count = 5,
-                },
-                {
                     link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
                     name = "Символ духа гадюки",
                     count = 2,
@@ -1886,11 +1881,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
                     name = "Символ подводного дыхания",
                     count = 5,
-                },
-                {
-                    link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
-                    name = "Символ лечения питомца",
-                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
@@ -2370,12 +2360,22 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783876705,
+            last_update = 1784114931,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                     name = "Книга познания символов",
                     count = 21,
+                },
+                {
+                    link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
+                    name = "Символ лечения",
+                    count = 5,
+                },
+                {
+                    link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
+                    name = "Символ лечения питомца",
+                    count = 3,
                 },
             },
         },
