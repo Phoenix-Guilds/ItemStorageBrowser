@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784101943
+ItemStorageDB_LastUpdate = 1784102123
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20252,10 +20252,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 21:50:08",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-15 10:55:23",
         money = 3936,
-        empty = 46,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -20286,7 +20286,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12988:0:0:0:0:0:0:0:10|h[Мундир Звездного зрения]|h|r",
                 name = "Мундир Звездного зрения",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
@@ -20532,11 +20532,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
                 name = "Набедренники Ветрокрылых",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
-                name = "Искрящееся оплечье",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
@@ -20910,7 +20905,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783882138,
+            last_update = 1784101981,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -20930,7 +20925,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12988:0:0:0:0:0:0:0:10|h[Мундир Звездного зрения]|h|r",
                     name = "Мундир Звездного зрения",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
@@ -21455,7 +21450,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783882160,
+            last_update = 1784102073,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21530,11 +21525,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
                     name = "Набедренники Ветрокрылых",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
-                    name = "Искрящееся оплечье",
                     count = 1,
                 },
                 {
