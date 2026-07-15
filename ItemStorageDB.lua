@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784091369
+ItemStorageDB_LastUpdate = 1784101943
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-14 10:03:49",
+        updated_at = "2026-07-15 10:52:23",
         money = 92710,
-        empty = 72,
+        empty = 76,
         location = "Оргриммар",
         items = {
             {
@@ -2486,16 +2486,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
                 name = "Сокрушитель Безеля",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                 name = "Ручной молот Мертвого Леса",
-                count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
-                name = "Небесный свет",
                 count = 2,
             },
             {
@@ -2874,11 +2869,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
-                name = "Зеленая башня",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
                 name = "Мозгоруб",
                 count = 1,
@@ -2990,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784012571,
+            last_update = 1784101907,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3085,16 +3075,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
                     name = "Сокрушитель Безеля",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                     name = "Ручной молот Мертвого Леса",
-                    count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
-                    name = "Небесный свет",
                     count = 2,
                 },
                 {
@@ -3515,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784012620,
+            last_update = 1784101935,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3586,11 +3571,6 @@ ItemStorageDB = {
                     link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                     name = "Черночерепный щит",
                     count = 2,
-                },
-                {
-                    link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
-                    name = "Зеленая башня",
-                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
