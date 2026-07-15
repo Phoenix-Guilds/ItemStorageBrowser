@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784110252
+ItemStorageDB_LastUpdate = 1784114553
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17337,10 +17337,10 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-14 22:46:35",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-15 14:22:33",
         money = 9245,
-        empty = 8,
+        empty = 12,
         location = "Оргриммар",
         items = {
             {
@@ -17361,7 +17361,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 97,
+                count = 94,
             },
             {
                 link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
@@ -17371,7 +17371,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:30744:0:0:0:0:0:0:0:10|h[Дренейская кожаная сума]|h|r",
                 name = "Дренейская кожаная сума",
-                count = 42,
+                count = 41,
             },
             {
                 link = "|cff1eff00|Hitem:30747:0:0:0:0:0:0:0:10|h[Мешочек для самоцветов]|h|r",
@@ -17400,7 +17400,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784058267,
+            last_update = 1784114525,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
@@ -17455,17 +17455,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784058280,
+            last_update = 1784114545,
             items = {
-                {
-                    link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
-                    name = "Сумка из ткани Пустоты",
-                    count = 3,
-                },
                 {
                     link = "|cff1eff00|Hitem:30744:0:0:0:0:0:0:0:10|h[Дренейская кожаная сума]|h|r",
                     name = "Дренейская кожаная сума",
-                    count = 42,
+                    count = 41,
                 },
                 {
                     link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
