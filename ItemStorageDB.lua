@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784109752
+ItemStorageDB_LastUpdate = 1784109807
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12443,9 +12443,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-15 12:29:59",
+        updated_at = "2026-07-15 13:03:27",
         money = 385478,
-        empty = 108,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -12656,7 +12656,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
                 name = "Адамантитовый жезл",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
@@ -12685,7 +12685,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784106389,
+            last_update = 1784109793,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12885,7 +12885,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784106397,
+            last_update = 1784109800,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31170:0:0:0:0:0:-43:47:10|h[Выкованный демоном хауберк с меткой солдата]|h|r",
@@ -12910,7 +12910,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
                     name = "Адамантитовый жезл",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
