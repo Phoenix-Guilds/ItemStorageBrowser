@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784131428
+ItemStorageDB_LastUpdate = 1784140426
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17693,10 +17693,10 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 20:52:56",
+        updated_at = "2026-07-15 21:33:46",
         money = 1158902,
-        empty = 99,
-        location = "Оргриммар",
+        empty = 97,
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -17786,12 +17786,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                 name = "Рулон шелка",
-                count = 483,
+                count = 503,
             },
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 1614,
+                count = 1616,
             },
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
@@ -17895,7 +17895,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783878712,
+            last_update = 1784140413,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -17941,6 +17941,16 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
                     name = "Паутина паука-ледопряда",
                     count = 189,
+                },
+                {
+                    link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
+                    name = "Рулон шелка",
+                    count = 20,
+                },
+                {
+                    link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
+                    name = "Шелковый материал",
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
