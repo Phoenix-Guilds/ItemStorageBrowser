@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784282112
+ItemStorageDB_LastUpdate = 1784282190
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9938,9 +9938,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 12:47:33",
+        updated_at = "2026-07-17 12:56:30",
         money = 213874,
-        empty = 84,
+        empty = 74,
         location = "Оргриммар",
         items = {
             {
@@ -10076,7 +10076,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2924:0:0:0:0:0:0:0:10|h[Мясо кроколиска]|h|r",
                 name = "Мясо кроколиска",
-                count = 46,
+                count = 54,
             },
             {
                 link = "|cffffffff|Hitem:31670:0:0:0:0:0:0:0:10|h[Ребра ящера]|h|r",
@@ -10086,7 +10086,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3173:0:0:0:0:0:0:0:10|h[Медвежатина]|h|r",
                 name = "Медвежатина",
-                count = 22,
+                count = 23,
             },
             {
                 link = "|cffffffff|Hitem:3174:0:0:0:0:0:0:0:10|h[Паучья лимфа]|h|r",
@@ -10126,12 +10126,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3730:0:0:0:0:0:0:0:10|h[Мясо большого медведя]|h|r",
                 name = "Мясо большого медведя",
-                count = 24,
+                count = 28,
             },
             {
                 link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
                 name = "Мясо льва",
-                count = 29,
+                count = 33,
             },
             {
                 link = "|cffffffff|Hitem:43009:0:0:0:0:0:0:0:10|h[Бок черпорога]|h|r",
@@ -10176,7 +10176,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5466:0:0:0:0:0:0:0:10|h[Жало скорпида]|h|r",
                 name = "Жало скорпида",
-                count = 57,
+                count = 68,
             },
             {
                 link = "|cffffffff|Hitem:5467:0:0:0:0:0:0:0:10|h[Мясо кодо]|h|r",
@@ -10186,27 +10186,27 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5469:0:0:0:0:0:0:0:10|h[Мясо долгонога]|h|r",
                 name = "Мясо долгонога",
-                count = 250,
+                count = 261,
             },
             {
                 link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
                 name = "Хвост рокочущей ящерицы",
-                count = 285,
+                count = 290,
             },
             {
                 link = "|cffffffff|Hitem:5471:0:0:0:0:0:0:0:10|h[Оленина]|h|r",
                 name = "Оленина",
-                count = 77,
+                count = 82,
             },
             {
                 link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
                 name = "Мясо моллюска",
-                count = 65,
+                count = 71,
             },
             {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
-                count = 50,
+                count = 57,
             },
             {
                 link = "|cffffffff|Hitem:6889:0:0:0:0:0:0:0:10|h[Небольшое яйцо]|h|r",
@@ -10221,7 +10221,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:769:0:0:0:0:0:0:0:10|h[Кусок кабанины]|h|r",
                 name = "Кусок кабанины",
-                count = 130,
+                count = 163,
             },
             {
                 link = "|cffffffff|Hitem:7974:0:0:0:0:0:0:0:10|h[Острое мясо моллюска]|h|r",
@@ -10230,7 +10230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784281638,
+            last_update = 1784282141,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10505,7 +10505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784281646,
+            last_update = 1784282182,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10513,9 +10513,24 @@ ItemStorageDB = {
                     count = 9,
                 },
                 {
+                    link = "|cffffffff|Hitem:2924:0:0:0:0:0:0:0:10|h[Мясо кроколиска]|h|r",
+                    name = "Мясо кроколиска",
+                    count = 8,
+                },
+                {
+                    link = "|cffffffff|Hitem:3173:0:0:0:0:0:0:0:10|h[Медвежатина]|h|r",
+                    name = "Медвежатина",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:3730:0:0:0:0:0:0:0:10|h[Мясо большого медведя]|h|r",
+                    name = "Мясо большого медведя",
+                    count = 4,
+                },
+                {
                     link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
                     name = "Мясо льва",
-                    count = 29,
+                    count = 33,
                 },
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
@@ -10528,9 +10543,44 @@ ItemStorageDB = {
                     count = 33,
                 },
                 {
+                    link = "|cffffffff|Hitem:5466:0:0:0:0:0:0:0:10|h[Жало скорпида]|h|r",
+                    name = "Жало скорпида",
+                    count = 11,
+                },
+                {
+                    link = "|cffffffff|Hitem:5469:0:0:0:0:0:0:0:10|h[Мясо долгонога]|h|r",
+                    name = "Мясо долгонога",
+                    count = 11,
+                },
+                {
+                    link = "|cffffffff|Hitem:5470:0:0:0:0:0:0:0:10|h[Хвост рокочущей ящерицы]|h|r",
+                    name = "Хвост рокочущей ящерицы",
+                    count = 5,
+                },
+                {
+                    link = "|cffffffff|Hitem:5471:0:0:0:0:0:0:0:10|h[Оленина]|h|r",
+                    name = "Оленина",
+                    count = 5,
+                },
+                {
+                    link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
+                    name = "Мясо моллюска",
+                    count = 6,
+                },
+                {
+                    link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
+                    name = "Пикантное мясо моллюска",
+                    count = 7,
+                },
+                {
                     link = "|cffffffff|Hitem:729:0:0:0:0:0:0:0:10|h[Жилистое мясо стервятника]|h|r",
                     name = "Жилистое мясо стервятника",
                     count = 4,
+                },
+                {
+                    link = "|cffffffff|Hitem:769:0:0:0:0:0:0:0:10|h[Кусок кабанины]|h|r",
+                    name = "Кусок кабанины",
+                    count = 33,
                 },
                 {
                     link = "|cffffffff|Hitem:7974:0:0:0:0:0:0:0:10|h[Острое мясо моллюска]|h|r",
