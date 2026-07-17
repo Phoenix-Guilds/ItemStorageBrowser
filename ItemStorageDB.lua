@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784325293
+ItemStorageDB_LastUpdate = 1784325445
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18557,10 +18557,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 12:42:33",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-18 00:57:25",
         money = 3936,
-        empty = 46,
+        empty = 49,
         location = "Оргриммар",
         items = {
             {
@@ -18691,7 +18691,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                 name = "Поножи осколка голема",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13075:0:0:0:0:0:0:0:10|h[Набедренники Мрачнокрылого]|h|r",
@@ -18806,7 +18806,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                 name = "Крыло дракончика",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -18827,11 +18827,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
                 name = "Шлем Большого Берга",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
-                name = "Поножи Огненной Гривы",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
@@ -19205,7 +19200,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784101981,
+            last_update = 1784325334,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -19320,7 +19315,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                     name = "Поножи осколка голема",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13075:0:0:0:0:0:0:0:10|h[Набедренники Мрачнокрылого]|h|r",
@@ -19430,7 +19425,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                     name = "Крыло дракончика",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -19450,11 +19445,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
                     name = "Шлем Большого Берга",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
-                    name = "Поножи Огненной Гривы",
                     count = 1,
                 },
                 {
@@ -19750,7 +19740,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784281345,
+            last_update = 1784325348,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
