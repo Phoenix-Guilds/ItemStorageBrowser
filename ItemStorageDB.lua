@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784281390
+ItemStorageDB_LastUpdate = 1784281443
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12128,7 +12128,7 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-15 12:35:14",
+        updated_at = "2026-07-17 12:44:03",
         money = 13104,
         empty = 75,
         location = "Оргриммар",
@@ -12151,7 +12151,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                 name = "Короткий лук из когтя гарпии",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
@@ -12181,7 +12181,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                 name = "Быстроветр",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
@@ -12201,7 +12201,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -12216,7 +12216,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -12325,7 +12325,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784107848,
+            last_update = 1784281436,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12340,7 +12340,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                     name = "Короткий лук из когтя гарпии",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
@@ -12370,7 +12370,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                     name = "Быстроветр",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
@@ -12390,7 +12390,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                     name = "Звездопад",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -12405,7 +12405,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                     name = "Пугач маленького Тимми",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -12455,7 +12455,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784107873,
+            last_update = 1784281437,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
