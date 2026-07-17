@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784282662
+ItemStorageDB_LastUpdate = 1784282811
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8288,7 +8288,7 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-12 17:08:13",
+        updated_at = "2026-07-17 13:06:51",
         money = 391967,
         empty = 154,
         location = "Оргриммар",
@@ -8336,7 +8336,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
                 name = "Серебряный слиток",
-                count = 332,
+                count = 330,
             },
             {
                 link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
@@ -8421,7 +8421,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
                 name = "Железная руда",
-                count = 679,
+                count = 681,
             },
             {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
@@ -8650,11 +8650,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783865273,
+            last_update = 1784282730,
             items = {
                 {
-                    link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
-                    name = "Серебряный слиток",
+                    link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
+                    name = "Железная руда",
                     count = 2,
                 },
             },
