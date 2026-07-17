@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784286385
+ItemStorageDB_LastUpdate = 1784293130
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 12:41:54",
+        updated_at = "2026-07-17 15:58:50",
         money = 92710,
-        empty = 65,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -2591,7 +2591,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
                 name = "Угрюмый жнец",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13055:0:0:0:0:0:0:0:10|h[Костеглод]|h|r",
@@ -2846,7 +2846,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                 name = "Перекованный клинок Героев",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
@@ -2929,16 +2929,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
-                name = "Молот Северного ветра",
-                count = 1,
-            },
-            {
-                link = "|cffa335ee|Hitem:810:20246:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
-                name = "Молот Северного ветра",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
                 name = "Топор Лесных чащоб",
                 count = 2,
@@ -2980,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784101907,
+            last_update = 1784293108,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3180,7 +3170,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
                     name = "Угрюмый жнец",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13055:0:0:0:0:0:0:0:10|h[Костеглод]|h|r",
@@ -3405,7 +3395,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                     name = "Перекованный клинок Героев",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
@@ -3458,16 +3448,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
-                    name = "Молот Северного ветра",
-                    count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:810:20246:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
-                    name = "Молот Северного ветра",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
                     name = "Топор Лесных чащоб",
                     count = 2,
@@ -3500,7 +3480,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784281303,
+            last_update = 1784293118,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
