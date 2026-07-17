@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784284388
+ItemStorageDB_LastUpdate = 1784284495
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8153,28 +8153,48 @@ ItemStorageDB = {
     {
         name = "Ларец",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 12:51:27",
+        updated_at = "2026-07-17 13:34:55",
         money = 3254,
-        empty = 107,
+        empty = 105,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff1eff00|Hitem:4632:0:0:0:0:0:0:0:10|h[Изысканный бронзовый сейф]|h|r",
+                name = "Изысканный бронзовый сейф",
+                count = 1,
+            },
             {
                 link = "|cff1eff00|Hitem:4633:0:0:0:0:0:0:0:10|h[Тяжелый бронзовый сейф]|h|r",
                 name = "Тяжелый бронзовый сейф",
                 count = 1,
             },
+            {
+                link = "|cff1eff00|Hitem:5758:0:0:0:0:0:0:0:10|h[Мифриловый сейф]|h|r",
+                name = "Мифриловый сейф",
+                count = 1,
+            },
         },
         bank = {
-            last_update = 1784281870,
+            last_update = 1784284489,
             items = {
             },
         },
         bags = {
-            last_update = 1784281870,
+            last_update = 1784284489,
             items = {
+                {
+                    link = "|cff1eff00|Hitem:4632:0:0:0:0:0:0:0:10|h[Изысканный бронзовый сейф]|h|r",
+                    name = "Изысканный бронзовый сейф",
+                    count = 1,
+                },
                 {
                     link = "|cff1eff00|Hitem:4633:0:0:0:0:0:0:0:10|h[Тяжелый бронзовый сейф]|h|r",
                     name = "Тяжелый бронзовый сейф",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:5758:0:0:0:0:0:0:0:10|h[Мифриловый сейф]|h|r",
+                    name = "Мифриловый сейф",
                     count = 1,
                 },
             },
