@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784284869
+ItemStorageDB_LastUpdate = 1784284927
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5823,9 +5823,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 13:09:47",
+        updated_at = "2026-07-17 13:42:07",
         money = 421241,
-        empty = 63,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -5881,7 +5881,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
                 name = "Извечная поясная пряжка",
-                count = 4,
+                count = 14,
             },
             {
                 link = "|cff1eff00|Hitem:11382:0:0:0:0:0:0:0:10|h[Кровь Горы]|h|r",
@@ -6006,7 +6006,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41976:0:0:0:0:0:0:0:10|h[Титановая цепь для оружия]|h|r",
                 name = "Титановая цепь для оружия",
-                count = 10,
+                count = 18,
             },
             {
                 link = "|cff1eff00|Hitem:42500:0:0:0:0:0:0:0:10|h[Титановый шип для щита]|h|r",
@@ -6400,7 +6400,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784282980,
+            last_update = 1784284917,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:10|h[Сумеречный опал]|h|r",
@@ -6410,7 +6410,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
                     name = "Извечная поясная пряжка",
-                    count = 4,
+                    count = 14,
                 },
                 {
                     link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
@@ -6435,7 +6435,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:41976:0:0:0:0:0:0:0:10|h[Титановая цепь для оружия]|h|r",
                     name = "Титановая цепь для оружия",
-                    count = 10,
+                    count = 18,
                 },
                 {
                     link = "|cff1eff00|Hitem:42500:0:0:0:0:0:0:0:10|h[Титановый шип для щита]|h|r",
