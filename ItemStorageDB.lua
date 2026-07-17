@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784281615
+ItemStorageDB_LastUpdate = 1784281653
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10063,11 +10063,16 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-16 16:35:15",
+        updated_at = "2026-07-17 12:47:33",
         money = 213874,
-        empty = 85,
+        empty = 84,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
+                name = "Ядовитое мясо зловепря",
+                count = 9,
+            },
             {
                 link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
                 name = "Постный волчий бок",
@@ -10350,7 +10355,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784208891,
+            last_update = 1784281638,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10625,8 +10630,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784208904,
+            last_update = 1784281646,
             items = {
+                {
+                    link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
+                    name = "Ядовитое мясо зловепря",
+                    count = 9,
+                },
                 {
                     link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
                     name = "Мясо льва",
