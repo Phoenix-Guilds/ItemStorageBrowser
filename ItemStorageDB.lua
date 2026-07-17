@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784283389
+ItemStorageDB_LastUpdate = 1784283425
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7018,9 +7018,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 13:13:25",
+        updated_at = "2026-07-17 13:17:05",
         money = 181084,
-        empty = 147,
+        empty = 146,
         location = "Оргриммар",
         items = {
             {
@@ -7341,7 +7341,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
                 name = "Грубая кожа",
-                count = 117,
+                count = 167,
             },
             {
                 link = "|cffffffff|Hitem:8171:0:0:0:0:0:0:0:10|h[Грубая шкура]|h|r",
@@ -7600,7 +7600,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784283198,
+            last_update = 1784283418,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
@@ -7736,6 +7736,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
                     name = "Глубокоскальная соль",
                     count = 125,
+                },
+                {
+                    link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
+                    name = "Грубая кожа",
+                    count = 50,
                 },
             },
         },
