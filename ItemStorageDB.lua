@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784282332
+ItemStorageDB_LastUpdate = 1784282377
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15448,9 +15448,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-15 11:09:40",
+        updated_at = "2026-07-17 12:59:37",
         money = 214291,
-        empty = 181,
+        empty = 178,
         location = "Оргриммар",
         items = {
             {
@@ -15496,7 +15496,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
                 name = "Свиток духа II",
-                count = 2,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
@@ -15522,6 +15522,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:27503:0:0:0:0:0:0:0:10|h[Свиток силы V]|h|r",
                 name = "Свиток силы V",
                 count = 129,
+            },
+            {
+                link = "|cffffffff|Hitem:3012:0:0:0:0:0:0:0:10|h[Свиток ловкости]|h|r",
+                name = "Свиток ловкости",
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:3013:0:0:0:0:0:0:0:10|h[Охранный свиток]|h|r",
@@ -15591,7 +15596,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38914:0:0:0:0:0:0:0:10|h[Свиток чар для плаща - броня III]|h|r",
                 name = "Свиток чар для плаща - броня III",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:38933:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - сила III]|h|r",
@@ -15701,6 +15706,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44815:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - штурм II]|h|r",
                 name = "Свиток чар для наручей - штурм II",
+                count = 1,
+            },
+            {
+                link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
+                name = "Свиток силы",
                 count = 1,
             },
             {
@@ -15840,7 +15850,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784102971,
+            last_update = 1784282357,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -15858,9 +15868,19 @@ ItemStorageDB = {
                     count = 5,
                 },
                 {
+                    link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
+                    name = "Свиток духа II",
+                    count = 3,
+                },
+                {
                     link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
                     name = "Свиток силы II",
                     count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:3012:0:0:0:0:0:0:0:10|h[Свиток ловкости]|h|r",
+                    name = "Свиток ловкости",
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
@@ -15895,7 +15915,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:38914:0:0:0:0:0:0:0:10|h[Свиток чар для плаща - броня III]|h|r",
                     name = "Свиток чар для плаща - броня III",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:38933:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - сила III]|h|r",
@@ -15980,6 +16000,11 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:44815:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - штурм II]|h|r",
                     name = "Свиток чар для наручей - штурм II",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
+                    name = "Свиток силы",
                     count = 1,
                 },
             },
