@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784281171
+ItemStorageDB_LastUpdate = 1784281274
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5738,9 +5738,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-15 14:31:20",
+        updated_at = "2026-07-17 12:41:14",
         money = 421241,
-        empty = 72,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -5811,12 +5811,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
-                count = 125,
+                count = 128,
             },
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 249,
+                count = 250,
             },
             {
                 link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
@@ -5931,7 +5931,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
                 name = "Малахит",
-                count = 200,
+                count = 201,
             },
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
@@ -5991,7 +5991,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                 name = "Тяжелый камень",
-                count = 451,
+                count = 459,
             },
             {
                 link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
@@ -6315,7 +6315,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784115064,
+            last_update = 1784281228,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:10|h[Сумеречный опал]|h|r",
@@ -6328,6 +6328,16 @@ ItemStorageDB = {
                     count = 4,
                 },
                 {
+                    link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
+                    name = "Моховой агат",
+                    count = 3,
+                },
+                {
+                    link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
+                    name = "Камень теней",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:41976:0:0:0:0:0:0:0:10|h[Титановая цепь для оружия]|h|r",
                     name = "Титановая цепь для оружия",
                     count = 10,
@@ -6336,6 +6346,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:42500:0:0:0:0:0:0:0:10|h[Титановый шип для щита]|h|r",
                     name = "Титановый шип для щита",
                     count = 9,
+                },
+                {
+                    link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
+                    name = "Малахит",
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:7967:0:0:0:0:0:0:0:10|h[Мифриловый шип для щита]|h|r",
@@ -6356,6 +6371,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:23528:0:0:0:0:0:0:0:10|h[Точило Скверны]|h|r",
                     name = "Точило Скверны",
                     count = 45,
+                },
+                {
+                    link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
+                    name = "Тяжелый камень",
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
