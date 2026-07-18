@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784389700
+ItemStorageDB_LastUpdate = 1784389845
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5787,10 +5787,10 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 13:42:07",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-18 18:50:45",
         money = 421241,
-        empty = 61,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -5861,7 +5861,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
-                count = 128,
+                count = 125,
             },
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
@@ -6031,7 +6031,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
                 name = "Грубый камень",
-                count = 115,
+                count = 165,
             },
             {
                 link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
@@ -6052,11 +6052,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2862:0:0:0:0:0:0:0:10|h[Грубое точило]|h|r",
                 name = "Грубое точило",
                 count = 60,
-            },
-            {
-                link = "|cffffffff|Hitem:2863:0:0:0:0:0:0:0:10|h[Зернистое точило]|h|r",
-                name = "Зернистое точило",
-                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
@@ -6125,7 +6120,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784282654,
+            last_update = 1784389762,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6365,7 +6360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784284917,
+            last_update = 1784389779,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:10|h[Сумеречный опал]|h|r",
@@ -6376,11 +6371,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
                     name = "Извечная поясная пряжка",
                     count = 14,
-                },
-                {
-                    link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
-                    name = "Моховой агат",
-                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
@@ -6448,6 +6438,11 @@ ItemStorageDB = {
                     count = 45,
                 },
                 {
+                    link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
+                    name = "Грубый камень",
+                    count = 50,
+                },
+                {
                     link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
                     name = "Необработанный камень",
                     count = 1,
@@ -6466,11 +6461,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:2862:0:0:0:0:0:0:0:10|h[Грубое точило]|h|r",
                     name = "Грубое точило",
                     count = 60,
-                },
-                {
-                    link = "|cffffffff|Hitem:2863:0:0:0:0:0:0:0:10|h[Зернистое точило]|h|r",
-                    name = "Зернистое точило",
-                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
