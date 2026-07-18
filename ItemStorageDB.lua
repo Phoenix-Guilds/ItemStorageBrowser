@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784365128
+ItemStorageDB_LastUpdate = 1784365181
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 15:58:50",
+        updated_at = "2026-07-18 11:59:41",
         money = 92710,
-        empty = 69,
+        empty = 70,
         location = "Оргриммар",
         items = {
             {
@@ -2686,7 +2686,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
                 name = "Горящая секира",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:24222:0:0:0:0:0:0:0:10|h[Протыкатель Тенеследа]|h|r",
@@ -2970,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784293108,
+            last_update = 1784365158,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3480,7 +3480,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784293118,
+            last_update = 1784365173,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3536,11 +3536,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
                     name = "Фамильный щит Гарреттов",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
-                    name = "Горящая секира",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
