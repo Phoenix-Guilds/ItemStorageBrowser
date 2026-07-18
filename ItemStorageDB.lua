@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784392832
+ItemStorageDB_LastUpdate = 1784393270
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13342,8 +13342,8 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-18 18:48:20",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-18 19:47:50",
         money = 214291,
         empty = 180,
         location = "Оргриммар",
@@ -13476,7 +13476,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38849:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - выносливость IV]|h|r",
                 name = "Свиток чар для наручей - выносливость IV",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:38897:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - грубая сила]|h|r",
@@ -13605,7 +13605,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784389656,
+            last_update = 1784393259,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -13735,7 +13735,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784389674,
+            last_update = 1784393264,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -13785,7 +13785,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:38849:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - выносливость IV]|h|r",
                     name = "Свиток чар для наручей - выносливость IV",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:38897:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - грубая сила]|h|r",
