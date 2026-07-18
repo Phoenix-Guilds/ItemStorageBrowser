@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784398741
+ItemStorageDB_LastUpdate = 1784398765
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11553,7 +11553,7 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-18 21:19:01",
+        updated_at = "2026-07-18 21:19:25",
         money = 13104,
         empty = 75,
         location = "",
@@ -11880,7 +11880,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784398735,
+            last_update = 1784398758,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
