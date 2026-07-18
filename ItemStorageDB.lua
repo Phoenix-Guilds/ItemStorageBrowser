@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784325729
+ItemStorageDB_LastUpdate = 1784365128
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18707,10 +18707,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-18 00:57:25",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-18 11:58:48",
         money = 3936,
-        empty = 49,
+        empty = 51,
         location = "Оргриммар",
         items = {
             {
@@ -19154,11 +19154,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
-                name = "Двойной мундир",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                 name = "Штаны из шкуры василиска",
                 count = 2,
@@ -19269,11 +19264,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
-                name = "Ремень силы голема",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
                 name = "Забытые напульсники",
                 count = 2,
@@ -19350,7 +19340,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784325334,
+            last_update = 1784365074,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -19758,11 +19748,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
-                    name = "Двойной мундир",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                     name = "Штаны из шкуры василиска",
                     count = 2,
@@ -19890,7 +19875,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784325348,
+            last_update = 1784365117,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -20071,11 +20056,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                     name = "Шапка терпения",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
-                    name = "Ремень силы голема",
-                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
