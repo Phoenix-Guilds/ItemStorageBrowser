@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784390012
+ItemStorageDB_LastUpdate = 1784390499
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6992,8 +6992,8 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 13:17:05",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-18 19:01:39",
         money = 181084,
         empty = 146,
         location = "Оргриммар",
@@ -7104,6 +7104,11 @@ ItemStorageDB = {
                 count = 10,
             },
             {
+                link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
+                name = "Накладки из жесткой кожи",
+                count = 10,
+            },
+            {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
                 count = 633,
@@ -7111,7 +7116,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 1118,
+                count = 1038,
+            },
+            {
+                link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
+                name = "Грубая нить",
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
@@ -7261,7 +7271,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
                 name = "Тонкая кожа кодо",
-                count = 8,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:5373:0:0:0:0:0:0:0:10|h[Талисман на удачу]|h|r",
@@ -7325,7 +7335,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784283185,
+            last_update = 1784390062,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7520,7 +7530,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
                     name = "Тонкая кожа кодо",
-                    count = 7,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:5785:0:0:0:0:0:0:0:10|h[Толстая чешуя мурлока]|h|r",
@@ -7575,7 +7585,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784283418,
+            last_update = 1784390479,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
@@ -7623,6 +7633,11 @@ ItemStorageDB = {
                     count = 10,
                 },
                 {
+                    link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
+                    name = "Накладки из жесткой кожи",
+                    count = 10,
+                },
+                {
                     link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                     name = "Тонкая кожа",
                     count = 250,
@@ -7630,7 +7645,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                     name = "Жесткая кожа",
-                    count = 199,
+                    count = 119,
+                },
+                {
+                    link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
+                    name = "Грубая нить",
+                    count = 25,
                 },
                 {
                     link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
@@ -7676,11 +7696,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:4265:0:0:0:0:0:0:0:10|h[Накладки из толстой кожи]|h|r",
                     name = "Накладки из толстой кожи",
                     count = 6,
-                },
-                {
-                    link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
-                    name = "Тонкая кожа кодо",
-                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:5373:0:0:0:0:0:0:0:10|h[Талисман на удачу]|h|r",
