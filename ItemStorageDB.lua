@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784442794
+ItemStorageDB_LastUpdate = 1784442973
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12988,7 +12988,7 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 12:58:09",
+        updated_at = "2026-07-19 09:36:13",
         money = 4042,
         empty = 155,
         location = "Оргриммар",
@@ -13006,7 +13006,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                 name = "Сырой летний окунь",
-                count = 150,
+                count = 100,
             },
             {
                 link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
@@ -13027,6 +13027,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
                 name = "Пластинчатая бронерыба",
                 count = 16,
+            },
+            {
+                link = "|cffffffff|Hitem:13929:0:0:0:0:0:0:0:10|h[Окунь горячего копчения]|h|r",
+                name = "Окунь горячего копчения",
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
@@ -13115,7 +13120,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784009271,
+            last_update = 1784442905,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -13130,7 +13135,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                     name = "Сырой летний окунь",
-                    count = 150,
+                    count = 100,
                 },
                 {
                     link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
@@ -13240,8 +13245,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784282282,
+            last_update = 1784442963,
             items = {
+                {
+                    link = "|cffffffff|Hitem:13929:0:0:0:0:0:0:0:10|h[Окунь горячего копчения]|h|r",
+                    name = "Окунь горячего копчения",
+                    count = 25,
+                },
                 {
                     link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
                     name = "Сырая ощетиненная зубатка",
