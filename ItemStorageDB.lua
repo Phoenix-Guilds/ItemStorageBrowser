@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784455161
+ItemStorageDB_LastUpdate = 1784455310
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11858,9 +11858,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-19 12:59:21",
+        updated_at = "2026-07-19 13:01:50",
         money = 385478,
-        empty = 95,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -12022,6 +12022,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
                 name = "Пыль провидения",
                 count = 220,
+            },
+            {
+                link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
+                name = "Жезл из истинного серебра",
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
@@ -12300,7 +12305,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784454992,
+            last_update = 1784455302,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12371,6 +12376,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
                     name = "Пыль провидения",
                     count = 16,
+                },
+                {
+                    link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
+                    name = "Жезл из истинного серебра",
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
