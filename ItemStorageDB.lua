@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784446316
+ItemStorageDB_LastUpdate = 1784447438
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3633,9 +3633,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 12:38:44",
+        updated_at = "2026-07-19 10:50:38",
         money = 158410,
-        empty = 158,
+        empty = 160,
         location = "Оргриммар",
         items = {
             {
@@ -3651,11 +3651,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
                 name = "Клинок невезения",
-                count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
-                name = "Боевая перчатка расплаты",
                 count = 1,
             },
             {
@@ -3805,7 +3800,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783440818,
+            last_update = 1784447394,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3815,11 +3810,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
                     name = "Манускрипт страсти",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
-                    name = "Клинок невезения",
                     count = 1,
                 },
                 {
@@ -3970,16 +3960,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784281113,
+            last_update = 1784447431,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
                     name = "Клинок невезения",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
-                    name = "Боевая перчатка расплаты",
                     count = 1,
                 },
                 {
