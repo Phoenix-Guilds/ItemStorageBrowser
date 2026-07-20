@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784535660
+ItemStorageDB_LastUpdate = 1784546645
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4783,7 +4783,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-19 13:04:24",
+        updated_at = "2026-07-20 14:24:05",
         money = 999680,
         empty = 119,
         location = "Оргриммар",
@@ -4971,7 +4971,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
                 name = "Частица Огня",
-                count = 56,
+                count = 46,
             },
             {
                 link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
@@ -5051,7 +5051,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
                 name = "Ядро земли",
-                count = 9,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
@@ -5090,7 +5090,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784455342,
+            last_update = 1784546632,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5235,7 +5235,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22574:0:0:0:0:0:0:0:10|h[Частица Огня]|h|r",
                     name = "Частица Огня",
-                    count = 56,
+                    count = 46,
                 },
                 {
                     link = "|cffffffff|Hitem:22575:0:0:0:0:0:0:0:10|h[Частица Жизни]|h|r",
@@ -5310,7 +5310,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
                     name = "Ядро земли",
-                    count = 9,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
@@ -5345,7 +5345,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784455348,
+            last_update = 1784546639,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
