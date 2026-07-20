@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784467077
+ItemStorageDB_LastUpdate = 1784531175
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9638,7 +9638,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-19 13:40:58",
+        updated_at = "2026-07-20 10:06:15",
         money = 4062,
         empty = 107,
         location = "Оргриммар",
@@ -9646,7 +9646,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
@@ -9781,7 +9781,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:30809:0:0:0:0:0:0:0:10|h[Знак Саргераса]|h|r",
                 name = "Знак Саргераса",
-                count = 11,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:30810:0:0:0:0:0:0:0:10|h[Перстень Ярости Солнца]|h|r",
@@ -9825,12 +9825,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784109994,
+            last_update = 1784531066,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                     name = "Латные перчатки Скверны",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -9945,7 +9945,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:30809:0:0:0:0:0:0:0:10|h[Знак Саргераса]|h|r",
                     name = "Знак Саргераса",
-                    count = 11,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:30810:0:0:0:0:0:0:0:10|h[Перстень Ярости Солнца]|h|r",
@@ -9990,7 +9990,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784457650,
+            last_update = 1784531167,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
