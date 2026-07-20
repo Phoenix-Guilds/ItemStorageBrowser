@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784546645
+ItemStorageDB_LastUpdate = 1784547895
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5413,9 +5413,9 @@ ItemStorageDB = {
     {
         name = "Инженерная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-11 22:23:32",
+        updated_at = "2026-07-20 14:44:55",
         money = 16160,
-        empty = 152,
+        empty = 153,
         location = "Оргриммар",
         items = {
             {
@@ -5551,7 +5551,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4377:0:0:0:0:0:0:0:10|h[Тяжелое взрывчатое вещество]|h|r",
                 name = "Тяжелое взрывчатое вещество",
-                count = 51,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
@@ -5585,7 +5585,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1783797628,
+            last_update = 1784547871,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5631,11 +5631,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:23737:0:0:0:0:0:0:0:10|h[Адамантитовая граната]|h|r",
                     name = "Адамантитовая граната",
                     count = 4,
-                },
-                {
-                    link = "|cffffffff|Hitem:23781:0:0:0:0:0:0:0:10|h[Взрывчатое вещество стихий]|h|r",
-                    name = "Взрывчатое вещество стихий",
-                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:23782:0:0:0:0:0:0:0:10|h[Обшивка из оскверненного железа]|h|r",
@@ -5720,7 +5715,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4377:0:0:0:0:0:0:0:10|h[Тяжелое взрывчатое вещество]|h|r",
                     name = "Тяжелое взрывчатое вещество",
-                    count = 51,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
@@ -5755,8 +5750,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1783797631,
+            last_update = 1784547874,
             items = {
+                {
+                    link = "|cffffffff|Hitem:23781:0:0:0:0:0:0:0:10|h[Взрывчатое вещество стихий]|h|r",
+                    name = "Взрывчатое вещество стихий",
+                    count = 16,
+                },
             },
         },
     },
