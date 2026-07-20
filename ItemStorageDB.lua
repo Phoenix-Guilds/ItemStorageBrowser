@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784535516
+ItemStorageDB_LastUpdate = 1784535605
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19003,9 +19003,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-18 11:58:48",
+        updated_at = "2026-07-20 11:20:05",
         money = 3936,
-        empty = 51,
+        empty = 52,
         location = "Оргриммар",
         items = {
             {
@@ -19021,11 +19021,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
-                name = "Окованные серебром прочные ботинки",
                 count = 1,
             },
             {
@@ -19635,16 +19630,11 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784365074,
+            last_update = 1784535579,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                     name = "Мертвопламенный плащ",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
-                    name = "Окованные серебром прочные ботинки",
                     count = 1,
                 },
                 {
@@ -20170,7 +20160,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784365117,
+            last_update = 1784535591,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
