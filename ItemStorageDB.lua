@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784560230
+ItemStorageDB_LastUpdate = 1784560268
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13818,9 +13818,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-20 18:10:30",
+        updated_at = "2026-07-20 18:11:08",
         money = 108852,
-        empty = 36,
+        empty = 37,
         location = "Оргриммар",
         items = {
             {
@@ -14414,11 +14414,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:4570:20319:0:0:0:0:1012:0:10|h[Кувалда Березовой рощи со знаком кита]|h|r",
-                name = "Кувалда Березовой рощи со знаком кита",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:4571:20239:0:0:0:0:23:0:10|h[Нож воина со знаком силы]|h|r",
                 name = "Нож воина со знаком силы",
                 count = 1,
@@ -14815,7 +14810,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784560196,
+            last_update = 1784560244,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
@@ -15540,7 +15535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784560220,
+            last_update = 1784560259,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14109:0:0:0:0:0:758:0:10|h[Дикарское одеяние со знаком совы]|h|r",
@@ -15750,11 +15745,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4570:0:0:0:0:0:840:0:10|h[Кувалда Березовой рощи со знаком орла]|h|r",
                     name = "Кувалда Березовой рощи со знаком орла",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:4570:20319:0:0:0:0:1012:0:10|h[Кувалда Березовой рощи со знаком кита]|h|r",
-                    name = "Кувалда Березовой рощи со знаком кита",
                     count = 1,
                 },
                 {
