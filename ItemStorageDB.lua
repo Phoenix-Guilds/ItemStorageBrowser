@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784643465
+ItemStorageDB_LastUpdate = 1784645952
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11412,10 +11412,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-21 13:52:48",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-21 17:59:12",
         money = 13104,
-        empty = 75,
+        empty = 77,
         location = "Оргриммар",
         items = {
             {
@@ -11526,7 +11526,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                 name = "Двуствольный дробовик",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
@@ -11571,7 +11571,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -11610,7 +11610,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784631074,
+            last_update = 1784645881,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -11715,7 +11715,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                     name = "Двуствольный дробовик",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
@@ -11725,7 +11725,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                     name = "Пристрелянный огнестрел",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -11740,7 +11740,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784631089,
+            last_update = 1784645933,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
