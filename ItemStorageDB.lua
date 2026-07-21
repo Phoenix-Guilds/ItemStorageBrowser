@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784630869
+ItemStorageDB_LastUpdate = 1784631168
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11408,9 +11408,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-18 21:53:20",
+        updated_at = "2026-07-21 13:52:48",
         money = 13104,
-        empty = 76,
+        empty = 75,
         location = "Оргриммар",
         items = {
             {
@@ -11466,7 +11466,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
                 name = "Раскалывающий череп арбалет",
-                count = 5,
+                count = 6,
             },
             {
                 link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
@@ -11605,7 +11605,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784398858,
+            last_update = 1784631074,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -11735,12 +11735,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784398877,
+            last_update = 1784631089,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
                     name = "Каменноосколочная беспатронная пуля",
                     count = 200,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
+                    name = "Раскалывающий череп арбалет",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
