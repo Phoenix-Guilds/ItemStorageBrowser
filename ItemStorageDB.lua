@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784629907
+ItemStorageDB_LastUpdate = 1784630020
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-20 11:21:00",
+        updated_at = "2026-07-21 13:33:40",
         money = 92710,
-        empty = 70,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -2401,7 +2401,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                 name = "Клинок Многоглаза",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
@@ -2541,7 +2541,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                 name = "Вязкий молот",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -2622,11 +2622,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
                 name = "Фамильный щит Гарреттов",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
-                name = "Тяжелый ятаган мародера",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
@@ -2960,7 +2955,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784535625,
+            last_update = 1784629993,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -2986,11 +2981,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                     name = "Топор геолога",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
-                    name = "Клинок Многоглаза",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
@@ -3190,11 +3180,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
                     name = "Игольщик",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
-                    name = "Тяжелый ятаган мародера",
                     count = 1,
                 },
                 {
@@ -3470,7 +3455,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784535645,
+            last_update = 1784630008,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3505,11 +3490,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                     name = "Лук небесного бойца",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
-                    name = "Вязкий молот",
                     count = 1,
                 },
                 {
