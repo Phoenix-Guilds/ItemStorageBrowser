@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784630020
+ItemStorageDB_LastUpdate = 1784630066
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20288,9 +20288,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-20 18:11:52",
+        updated_at = "2026-07-21 13:34:26",
         money = 194111,
-        empty = 123,
+        empty = 124,
         location = "Оргриммар",
         items = {
             {
@@ -20559,11 +20559,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
-                name = "Тяжелое золотое ожерелье битвы",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:20833:0:0:0:0:0:0:0:10|h[Гибельное кольцо лунного камня]|h|r",
                 name = "Гибельное кольцо лунного камня",
                 count = 1,
@@ -20715,7 +20710,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784560288,
+            last_update = 1784630042,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -21030,7 +21025,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784560306,
+            last_update = 1784630057,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -21106,11 +21101,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
                     name = "Амулет Луны",
                     count = 2,
-                },
-                {
-                    link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
-                    name = "Тяжелое золотое ожерелье битвы",
-                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
