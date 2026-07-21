@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1784630767
+ItemStorageDB_LastUpdate = 1784630869
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-21 13:35:36",
+        updated_at = "2026-07-21 13:47:49",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -111,7 +111,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41094:0:0:0:0:0:0:0:10|h[Символ печати повиновения]|h|r",
                 name = "Символ печати повиновения",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
@@ -691,7 +691,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
                 name = "Символ благословения могущества",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
@@ -1180,7 +1180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784630111,
+            last_update = 1784630828,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1280,7 +1280,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41094:0:0:0:0:0:0:0:10|h[Символ печати повиновения]|h|r",
                     name = "Символ печати повиновения",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
@@ -1855,7 +1855,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
                     name = "Символ благословения могущества",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
@@ -2345,7 +2345,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784630121,
+            last_update = 1784630835,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
