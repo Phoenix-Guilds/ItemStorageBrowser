@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784799909
+ItemStorageDB_LastUpdate = 1784799956
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1213,9 +1213,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 12:42:32",
+        updated_at = "2026-07-23 12:45:56",
         money = 158410,
-        empty = 161,
+        empty = 162,
         location = "Оргриммар",
         items = {
             {
@@ -1368,14 +1368,9 @@ ItemStorageDB = {
                 name = "Повергатель",
                 count = 2,
             },
-            {
-                link = "|cff0070dd|Hitem:49227:0:0:0:0:0:-88:56:10|h[Клык Сколла с меткой предсказателя]|h|r",
-                name = "Клык Сколла с меткой предсказателя",
-                count = 1,
-            },
         },
         bank = {
-            last_update = 1784799747,
+            last_update = 1784799951,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -1527,15 +1522,10 @@ ItemStorageDB = {
                     name = "Повергатель",
                     count = 2,
                 },
-                {
-                    link = "|cff0070dd|Hitem:49227:0:0:0:0:0:-88:56:10|h[Клык Сколла с меткой предсказателя]|h|r",
-                    name = "Клык Сколла с меткой предсказателя",
-                    count = 1,
-                },
             },
         },
         bags = {
-            last_update = 1784799748,
+            last_update = 1784799952,
             items = {
             },
         },
