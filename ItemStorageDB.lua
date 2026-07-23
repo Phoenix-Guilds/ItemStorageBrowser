@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784800598
+ItemStorageDB_LastUpdate = 1784800625
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5103,9 +5103,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-18 18:45:51",
+        updated_at = "2026-07-23 12:57:05",
         money = 0,
-        empty = 196,
+        empty = 194,
         location = "Оргриммар",
         items = {
             {
@@ -5119,6 +5119,11 @@ ItemStorageDB = {
                 count = 65,
             },
             {
+                link = "|cffffffff|Hitem:18045:0:0:0:0:0:0:0:10|h[Нежный стейк из волчатины]|h|r",
+                name = "Нежный стейк из волчатины",
+                count = 16,
+            },
+            {
                 link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
                 name = "Копченые пустынные клецки",
                 count = 20,
@@ -5127,6 +5132,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
                 name = "Хрустящий паучий десерт",
                 count = 4,
+            },
+            {
+                link = "|cffffffff|Hitem:27651:0:0:0:0:0:0:0:10|h[Закуска из канюка]|h|r",
+                name = "Закуска из канюка",
+                count = 24,
             },
             {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
@@ -5205,7 +5215,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784389514,
+            last_update = 1784800619,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -5218,6 +5228,11 @@ ItemStorageDB = {
                     count = 65,
                 },
                 {
+                    link = "|cffffffff|Hitem:18045:0:0:0:0:0:0:0:10|h[Нежный стейк из волчатины]|h|r",
+                    name = "Нежный стейк из волчатины",
+                    count = 16,
+                },
+                {
                     link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
                     name = "Копченые пустынные клецки",
                     count = 20,
@@ -5226,6 +5241,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
                     name = "Хрустящий паучий десерт",
                     count = 4,
+                },
+                {
+                    link = "|cffffffff|Hitem:27651:0:0:0:0:0:0:0:10|h[Закуска из канюка]|h|r",
+                    name = "Закуска из канюка",
+                    count = 24,
                 },
                 {
                     link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
@@ -5260,7 +5280,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:34751:0:0:0:0:0:0:0:10|h[Жареный ворг]|h|r",
                     name = "Жареный ворг",
-                    count = 50,
+                    count = 66,
                 },
                 {
                     link = "|cffffffff|Hitem:39691:0:0:0:0:0:0:0:10|h[Наваристая похлебка из косатки]|h|r",
@@ -5305,13 +5325,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784389534,
+            last_update = 1784800620,
             items = {
-                {
-                    link = "|cffffffff|Hitem:34751:0:0:0:0:0:0:0:10|h[Жареный ворг]|h|r",
-                    name = "Жареный ворг",
-                    count = 16,
-                },
             },
         },
     },
