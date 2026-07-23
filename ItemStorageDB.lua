@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784799995
+ItemStorageDB_LastUpdate = 1784800045
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1532,11 +1532,11 @@ ItemStorageDB = {
     },
     {
         name = "Запределька",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 13:01:53",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-23 12:47:25",
         money = 13629,
-        empty = 137,
-        location = "",
+        empty = 138,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:10270:0:0:0:0:0:793:0:10|h[Сапоги искусной работы со знаком совы]|h|r",
@@ -1721,11 +1721,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25061:0:0:0:0:0:-37:23:10|h[Гиддентовое ожерелье с меткой целителя]|h|r",
                 name = "Гиддентовое ожерелье с меткой целителя",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:25074:0:0:0:0:0:-17:22:10|h[Щит Телаари со знаком силы]|h|r",
-                name = "Щит Телаари со знаком силы",
                 count = 1,
             },
             {
@@ -1930,7 +1925,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784109329,
+            last_update = 1784800040,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10270:0:0:0:0:0:793:0:10|h[Сапоги искусной работы со знаком совы]|h|r",
@@ -2118,11 +2113,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:25074:0:0:0:0:0:-17:22:10|h[Щит Телаари со знаком силы]|h|r",
-                    name = "Щит Телаари со знаком силы",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:25312:0:0:0:0:0:-44:17:10|h[Славный скипетр с меткой старца]|h|r",
                     name = "Славный скипетр с меткой старца",
                     count = 1,
@@ -2135,7 +2125,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784282399,
+            last_update = 1784800041,
             items = {
                 {
                     link = "|cff1eff00|Hitem:25087:0:0:0:0:0:-36:21:10|h[Кровоточащее Око с меткой волшебника]|h|r",
