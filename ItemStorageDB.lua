@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784754149
+ItemStorageDB_LastUpdate = 1784786835
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1283,9 +1283,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-19 10:57:18",
+        updated_at = "2026-07-23 09:07:15",
         money = 158410,
-        empty = 160,
+        empty = 161,
         location = "Оргриммар",
         items = {
             {
@@ -1351,11 +1351,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37749:20242:0:0:0:0:0:0:10|h[Ударные когти]|h|r",
                 name = "Ударные когти",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:37802:20242:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
-                name = "Острие Эланора",
                 count = 1,
             },
             {
@@ -1450,7 +1445,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784447812,
+            last_update = 1784786663,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -1510,11 +1505,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37749:20242:0:0:0:0:0:0:10|h[Ударные когти]|h|r",
                     name = "Ударные когти",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:37802:20242:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
-                    name = "Острие Эланора",
                     count = 1,
                 },
                 {
@@ -1610,7 +1600,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784447828,
+            last_update = 1784786826,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
