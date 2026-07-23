@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784799719
+ItemStorageDB_LastUpdate = 1784799752
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -1212,8 +1212,8 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 09:07:15",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-23 12:42:32",
         money = 158410,
         empty = 161,
         location = "Оргриммар",
@@ -1375,7 +1375,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784786663,
+            last_update = 1784799747,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -1388,6 +1388,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
+                    name = "Клинок невезения",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
                     name = "Клинок обретенного знания",
                     count = 1,
@@ -1395,12 +1400,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31186:0:0:0:0:0:0:0:10|h[Посох дремы Браксиса]|h|r",
                     name = "Посох дремы Браксиса",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
                     name = "Клинок Неутолимой Жажды",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31200:0:0:0:0:0:0:0:10|h[Щит своенравного пехотинца]|h|r",
@@ -1530,23 +1535,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784786826,
+            last_update = 1784799748,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
-                    name = "Клинок невезения",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31186:0:0:0:0:0:0:0:10|h[Посох дремы Браксиса]|h|r",
-                    name = "Посох дремы Браксиса",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
-                    name = "Клинок Неутолимой Жажды",
-                    count = 1,
-                },
             },
         },
     },
