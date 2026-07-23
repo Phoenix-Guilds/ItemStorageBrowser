@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784802387
+ItemStorageDB_LastUpdate = 1784802779
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8503,9 +8503,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 12:59:04",
+        updated_at = "2026-07-23 13:32:59",
         money = 208636,
-        empty = 65,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -8692,6 +8692,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3384:0:0:0:0:0:0:0:10|h[Слабое зелье защиты от магии]|h|r",
                 name = "Слабое зелье защиты от магии",
                 count = 15,
+            },
+            {
+                link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
+                name = "Маленький флакон с зельем маны",
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:3386:0:0:0:0:0:0:0:10|h[Эликсир излечения]|h|r",
@@ -8965,7 +8970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784800736,
+            last_update = 1784802771,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9325,7 +9330,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784800739,
+            last_update = 1784802774,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9391,6 +9396,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:33448:0:0:0:0:0:0:0:10|h[Рунический флакон с зельем маны]|h|r",
                     name = "Рунический флакон с зельем маны",
                     count = 15,
+                },
+                {
+                    link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
+                    name = "Маленький флакон с зельем маны",
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
