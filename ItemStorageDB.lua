@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784833483
+ItemStorageDB_LastUpdate = 1784833722
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5287,10 +5287,10 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 12:09:55",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-23 22:08:42",
         money = 16160,
-        empty = 154,
+        empty = 152,
         location = "Оргриммар",
         items = {
             {
@@ -5362,6 +5362,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2880:0:0:0:0:0:0:0:10|h[Слабый плавень]|h|r",
                 name = "Слабый плавень",
                 count = 56,
+            },
+            {
+                link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
+                name = "Мифриловая руда",
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:39681:0:0:0:0:0:0:0:10|h[Пригоршня кобальтовых болтов]|h|r",
@@ -5455,7 +5460,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784797790,
+            last_update = 1784833687,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5470,7 +5475,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10559:0:0:0:0:0:0:0:10|h[Мифриловая труба]|h|r",
                     name = "Мифриловая труба",
-                    count = 13,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:10560:0:0:0:0:0:0:0:10|h[Нестабильное пусковое устройство]|h|r",
@@ -5620,8 +5625,18 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784797791,
+            last_update = 1784833713,
             items = {
+                {
+                    link = "|cffffffff|Hitem:10559:0:0:0:0:0:0:0:10|h[Мифриловая труба]|h|r",
+                    name = "Мифриловая труба",
+                    count = 2,
+                },
+                {
+                    link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
+                    name = "Мифриловая руда",
+                    count = 2,
+                },
             },
         },
     },
