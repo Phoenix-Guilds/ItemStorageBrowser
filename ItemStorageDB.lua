@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784803406
+ItemStorageDB_LastUpdate = 1784803478
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3553,14 +3553,19 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 12:45:56",
+        updated_at = "2026-07-23 13:44:38",
         money = 158410,
-        empty = 162,
+        empty = 161,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
                 name = "Идол Луны",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
+                name = "Тотем бури",
                 count = 1,
             },
             {
@@ -3710,11 +3715,16 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784799951,
+            last_update = 1784803438,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
                     name = "Идол Луны",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
+                    name = "Тотем бури",
                     count = 1,
                 },
                 {
@@ -3865,7 +3875,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784799952,
+            last_update = 1784803474,
             items = {
             },
         },
