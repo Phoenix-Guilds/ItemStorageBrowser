@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784797772
+ItemStorageDB_LastUpdate = 1784797795
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2982,10 +2982,10 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-20 14:44:55",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-23 12:09:55",
         money = 16160,
-        empty = 153,
+        empty = 154,
         location = "Оргриммар",
         items = {
             {
@@ -3032,11 +3032,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:23737:0:0:0:0:0:0:0:10|h[Адамантитовая граната]|h|r",
                 name = "Адамантитовая граната",
                 count = 4,
-            },
-            {
-                link = "|cffffffff|Hitem:23781:0:0:0:0:0:0:0:10|h[Взрывчатое вещество стихий]|h|r",
-                name = "Взрывчатое вещество стихий",
-                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:23782:0:0:0:0:0:0:0:10|h[Обшивка из оскверненного железа]|h|r",
@@ -3155,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784547871,
+            last_update = 1784797790,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -3320,13 +3315,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784547874,
+            last_update = 1784797791,
             items = {
-                {
-                    link = "|cffffffff|Hitem:23781:0:0:0:0:0:0:0:10|h[Взрывчатое вещество стихий]|h|r",
-                    name = "Взрывчатое вещество стихий",
-                    count = 16,
-                },
             },
         },
     },
