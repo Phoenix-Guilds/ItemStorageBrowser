@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784803634
+ItemStorageDB_LastUpdate = 1784803670
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5638,9 +5638,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 12:02:31",
+        updated_at = "2026-07-23 13:47:50",
         money = 421241,
-        empty = 70,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -5904,6 +5904,11 @@ ItemStorageDB = {
                 count = 60,
             },
             {
+                link = "|cffffffff|Hitem:2863:0:0:0:0:0:0:0:10|h[Зернистое точило]|h|r",
+                name = "Зернистое точило",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
                 name = "Тяжелое точило",
                 count = 45,
@@ -5970,7 +5975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784797343,
+            last_update = 1784803662,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6210,7 +6215,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784797346,
+            last_update = 1784803665,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6256,6 +6261,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:2862:0:0:0:0:0:0:0:10|h[Грубое точило]|h|r",
                     name = "Грубое точило",
                     count = 60,
+                },
+                {
+                    link = "|cffffffff|Hitem:2863:0:0:0:0:0:0:0:10|h[Зернистое точило]|h|r",
+                    name = "Зернистое точило",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
