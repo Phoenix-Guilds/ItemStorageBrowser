@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784800625
+ItemStorageDB_LastUpdate = 1784800655
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12587,10 +12587,10 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-19 09:36:13",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-23 12:57:35",
         money = 4042,
-        empty = 155,
+        empty = 156,
         location = "Оргриммар",
         items = {
             {
@@ -12720,7 +12720,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784442905,
+            last_update = 1784800651,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -12756,6 +12756,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
                     name = "Пластинчатая бронерыба",
                     count = 16,
+                },
+                {
+                    link = "|cffffffff|Hitem:13929:0:0:0:0:0:0:0:10|h[Окунь горячего копчения]|h|r",
+                    name = "Окунь горячего копчения",
+                    count = 25,
                 },
                 {
                     link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
@@ -12820,7 +12825,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
                     name = "Сырая ощетиненная зубатка",
-                    count = 27,
+                    count = 29,
                 },
                 {
                     link = "|cffffffff|Hitem:6361:0:0:0:0:0:0:0:10|h[Сырой радужный тунец]|h|r",
@@ -12845,18 +12850,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784442963,
+            last_update = 1784800651,
             items = {
-                {
-                    link = "|cffffffff|Hitem:13929:0:0:0:0:0:0:0:10|h[Окунь горячего копчения]|h|r",
-                    name = "Окунь горячего копчения",
-                    count = 25,
-                },
-                {
-                    link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
-                    name = "Сырая ощетиненная зубатка",
-                    count = 2,
-                },
             },
         },
     },
