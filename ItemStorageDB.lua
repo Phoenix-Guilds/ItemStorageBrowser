@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784804609
+ItemStorageDB_LastUpdate = 1784806164
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4677,10 +4677,10 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 12:56:38",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-23 14:29:24",
         money = 999680,
-        empty = 121,
+        empty = 122,
         location = "Оргриммар",
         items = {
             {
@@ -4766,12 +4766,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
                 name = "Извечная вода",
-                count = 44,
-            },
-            {
-                link = "|cff1eff00|Hitem:35623:0:0:0:0:0:0:0:10|h[Извечный воздух]|h|r",
-                name = "Извечный воздух",
-                count = 6,
+                count = 39,
             },
             {
                 link = "|cff1eff00|Hitem:35624:0:0:0:0:0:0:0:10|h[Извечная земля]|h|r",
@@ -4985,7 +4980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784800591,
+            last_update = 1784806111,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5050,12 +5045,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
                     name = "Извечная вода",
-                    count = 44,
-                },
-                {
-                    link = "|cff1eff00|Hitem:35623:0:0:0:0:0:0:0:10|h[Извечный воздух]|h|r",
-                    name = "Извечный воздух",
-                    count = 6,
+                    count = 39,
                 },
                 {
                     link = "|cff1eff00|Hitem:35624:0:0:0:0:0:0:0:10|h[Извечная земля]|h|r",
@@ -5240,7 +5230,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784800594,
+            last_update = 1784806156,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
