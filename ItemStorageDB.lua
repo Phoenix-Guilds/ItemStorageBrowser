@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784804399
+ItemStorageDB_LastUpdate = 1784804450
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20798,9 +20798,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 13:46:38",
+        updated_at = "2026-07-23 14:00:50",
         money = 3936,
-        empty = 47,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -21246,7 +21246,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                 name = "Двойной мундир",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
@@ -21440,7 +21440,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784803590,
+            last_update = 1784804442,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21980,7 +21980,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784803592,
+            last_update = 1784804445,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -22115,7 +22115,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                     name = "Двойной мундир",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:20832:0:0:0:0:0:0:0:10|h[Корона лунной души]|h|r",
