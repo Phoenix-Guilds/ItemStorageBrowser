@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784797725
+ItemStorageDB_LastUpdate = 1784797772
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8948,9 +8948,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-21 17:59:12",
+        updated_at = "2026-07-23 12:09:32",
         money = 13104,
-        empty = 77,
+        empty = 76,
         location = "Оргриммар",
         items = {
             {
@@ -8976,7 +8976,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                 name = "Лук небесного бойца",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13021:0:0:0:0:0:0:0:10|h[Продеватель игл]|h|r",
@@ -9145,7 +9145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784645881,
+            last_update = 1784797763,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -9165,7 +9165,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                     name = "Лук небесного бойца",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13021:0:0:0:0:0:0:0:10|h[Продеватель игл]|h|r",
@@ -9195,7 +9195,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
                     name = "Раскалывающий череп арбалет",
-                    count = 5,
+                    count = 6,
                 },
                 {
                     link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
@@ -9275,17 +9275,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784645933,
+            last_update = 1784797768,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
                     name = "Каменноосколочная беспатронная пуля",
                     count = 200,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
-                    name = "Раскалывающий череп арбалет",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
