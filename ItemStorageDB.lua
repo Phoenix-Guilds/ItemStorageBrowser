@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784799956
+ItemStorageDB_LastUpdate = 1784799995
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8387,8 +8387,8 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-17 12:39:31",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-23 12:46:35",
         money = 13785,
         empty = 105,
         location = "Оргриммар",
@@ -8640,7 +8640,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784281145,
+            last_update = 1784799983,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
@@ -8650,7 +8650,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31178:0:0:0:0:0:0:0:10|h[Амулет ускользающего могущества]|h|r",
                     name = "Амулет ускользающего могущества",
-                    count = 5,
+                    count = 6,
                 },
                 {
                     link = "|cff0070dd|Hitem:31194:0:0:0:0:0:-10:31:10|h[Боевые бусы Благословения Гроннов со знаком гориллы]|h|r",
@@ -8680,7 +8680,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31196:0:0:0:0:0:0:0:10|h[Амулет посвящения]|h|r",
                     name = "Амулет посвящения",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:31258:0:0:0:0:0:0:0:10|h[Кольцо скорби]|h|r",
@@ -8890,18 +8890,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784281156,
+            last_update = 1784799991,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:31178:0:0:0:0:0:0:0:10|h[Амулет ускользающего могущества]|h|r",
-                    name = "Амулет ускользающего могущества",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31196:0:0:0:0:0:0:0:10|h[Амулет посвящения]|h|r",
-                    name = "Амулет посвящения",
-                    count = 1,
-                },
             },
         },
     },
