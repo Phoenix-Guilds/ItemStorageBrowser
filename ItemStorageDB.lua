@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784799266
+ItemStorageDB_LastUpdate = 1784799348
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7112,21 +7112,16 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-20 10:06:15",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-23 12:35:48",
         money = 4062,
-        empty = 107,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
                 count = 3,
-            },
-            {
-                link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
-                name = "Зеленый кожаный доспех",
-                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -7136,7 +7131,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 25,
+                count = 23,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -7300,7 +7295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784531066,
+            last_update = 1784799342,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -7465,17 +7460,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784531167,
+            last_update = 1784799344,
             items = {
-                {
-                    link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
-                    name = "Зеленый кожаный доспех",
-                    count = 1,
-                },
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 25,
+                    count = 23,
                 },
                 {
                     link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
