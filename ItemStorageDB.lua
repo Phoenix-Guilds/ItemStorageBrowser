@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784833848
+ItemStorageDB_LastUpdate = 1784880446
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2362,10 +2362,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 13:47:14",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-24 11:07:26",
         money = 92710,
-        empty = 79,
+        empty = 76,
         location = "Оргриммар",
         items = {
             {
@@ -2456,7 +2456,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13016:0:0:0:0:0:0:0:10|h[Убойная алебарда]|h|r",
                 name = "Убойная алебарда",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13017:0:0:0:0:0:0:0:10|h[Боевой топор Рубаки]|h|r",
@@ -2741,7 +2741,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
                 name = "Змеиный поцелуй",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:6622:0:0:0:0:0:0:0:10|h[Меч рвения]|h|r",
@@ -2901,7 +2901,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:647:0:0:0:0:0:0:0:10|h[Судьба]|h|r",
                 name = "Судьба",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
@@ -2950,7 +2950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784803627,
+            last_update = 1784880434,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3485,7 +3485,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784803629,
+            last_update = 1784880440,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3495,6 +3495,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13016:0:0:0:0:0:0:0:10|h[Убойная алебарда]|h|r",
+                    name = "Убойная алебарда",
                     count = 1,
                 },
                 {
@@ -3520,6 +3525,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
+                    name = "Змеиный поцелуй",
                     count = 1,
                 },
                 {
@@ -3550,6 +3560,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                     name = "Стена мертвых",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:647:0:0:0:0:0:0:0:10|h[Судьба]|h|r",
+                    name = "Судьба",
                     count = 1,
                 },
             },
