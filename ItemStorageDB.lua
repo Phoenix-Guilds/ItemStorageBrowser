@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784881153
+ItemStorageDB_LastUpdate = 1784881238
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-24 11:13:44",
+        updated_at = "2026-07-24 11:20:38",
         money = 92710,
-        empty = 71,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -2671,7 +2671,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2256:0:0:0:0:0:0:0:10|h[Скелетная дубина]|h|r",
                 name = "Скелетная дубина",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
@@ -2866,7 +2866,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                 name = "Стена мертвых",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1982:20319:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
@@ -2896,7 +2896,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
                 name = "Канг Обезглавливатель",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:2801:0:0:0:0:0:0:0:10|h[Клинок Ханны]|h|r",
@@ -2916,6 +2916,11 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
                 name = "Кровавая бритва",
+                count = 1,
+            },
+            {
+                link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
+                name = "Молот Северного ветра",
                 count = 1,
             },
             {
@@ -2941,7 +2946,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
                 name = "Огненная секира",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
@@ -3495,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784880803,
+            last_update = 1784881228,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3548,6 +3553,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:2256:0:0:0:0:0:0:0:10|h[Скелетная дубина]|h|r",
+                    name = "Скелетная дубина",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
                     name = "Жезл антиподов",
                     count = 1,
@@ -3595,11 +3605,26 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                     name = "Стена мертвых",
+                    count = 2,
+                },
+                {
+                    link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
+                    name = "Канг Обезглавливатель",
                     count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:647:0:0:0:0:0:0:0:10|h[Судьба]|h|r",
                     name = "Судьба",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
+                    name = "Молот Северного ветра",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
+                    name = "Огненная секира",
                     count = 1,
                 },
             },
