@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784881588
+ItemStorageDB_LastUpdate = 1784881687
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-24 11:24:26",
+        updated_at = "2026-07-24 11:28:07",
         money = 92710,
-        empty = 60,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -2581,7 +2581,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
                 name = "Угрюмый жнец",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13055:0:0:0:0:0:0:0:10|h[Костеглод]|h|r",
@@ -2651,7 +2651,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
                 name = "Острокаменная кувалда",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1726:0:0:0:0:0:0:0:10|h[Костяное копье с отравленным наконечником]|h|r",
@@ -2916,7 +2916,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
                 name = "Кровавая бритва",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
@@ -2965,7 +2965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784881459,
+            last_update = 1784881677,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3500,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784881460,
+            last_update = 1784881681,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3533,6 +3533,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
+                    name = "Угрюмый жнец",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
                     name = "Кровавая пика",
                     count = 1,
@@ -3555,6 +3560,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
                     name = "Тяжелый ятаган мародера",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
+                    name = "Острокаменная кувалда",
                     count = 1,
                 },
                 {
@@ -3640,6 +3650,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:647:0:0:0:0:0:0:0:10|h[Судьба]|h|r",
                     name = "Судьба",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
+                    name = "Кровавая бритва",
                     count = 1,
                 },
                 {
