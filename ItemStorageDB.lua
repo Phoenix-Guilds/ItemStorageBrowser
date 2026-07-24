@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784882513
+ItemStorageDB_LastUpdate = 1784883077
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12567,10 +12567,10 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 12:56:04",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-24 11:51:17",
         money = 385478,
-        empty = 101,
+        empty = 103,
         location = "Оргриммар",
         items = {
             {
@@ -12626,7 +12626,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:10|h[Осколок грез]|h|r",
                 name = "Осколок грез",
-                count = 52,
+                count = 47,
             },
             {
                 link = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:10|h[Маленький осколок грез]|h|r",
@@ -12702,11 +12702,6 @@ ItemStorageDB = {
                 link = "|cffa335ee|Hitem:20725:0:0:0:0:0:0:0:10|h[Кристалл-источник]|h|r",
                 name = "Кристалл-источник",
                 count = 51,
-            },
-            {
-                link = "|cffa335ee|Hitem:34057:0:0:0:0:0:0:0:10|h[Кристалл пропасти]|h|r",
-                name = "Кристалл пропасти",
-                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
@@ -12810,7 +12805,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784800552,
+            last_update = 1784883071,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12865,7 +12860,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:10|h[Осколок грез]|h|r",
                     name = "Осколок грез",
-                    count = 52,
+                    count = 47,
                 },
                 {
                     link = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:10|h[Маленький осколок грез]|h|r",
@@ -12943,11 +12938,6 @@ ItemStorageDB = {
                     count = 51,
                 },
                 {
-                    link = "|cffa335ee|Hitem:34057:0:0:0:0:0:0:0:10|h[Кристалл пропасти]|h|r",
-                    name = "Кристалл пропасти",
-                    count = 1,
-                },
-                {
                     link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                     name = "Странная пыль",
                     count = 351,
@@ -13010,7 +13000,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784800560,
+            last_update = 1784883072,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
