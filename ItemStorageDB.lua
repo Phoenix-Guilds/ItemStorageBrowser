@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784883077
+ItemStorageDB_LastUpdate = 1784883097
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6967,10 +6967,10 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 13:59:59",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-24 11:51:37",
         money = 181084,
-        empty = 159,
+        empty = 162,
         location = "Оргриммар",
         items = {
             {
@@ -6991,7 +6991,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:38372:0:0:0:0:0:0:0:10|h[Нерубские накладки для поножей]|h|r",
                 name = "Нерубские накладки для поножей",
-                count = 15,
+                count = 14,
             },
             {
                 link = "|cff0070dd|Hitem:44128:0:0:0:0:0:0:0:10|h[Арктический мех]|h|r",
@@ -7006,7 +7006,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:38376:0:0:0:0:0:0:0:10|h[Накладки из толстой борейской кожи]|h|r",
                 name = "Накладки из толстой борейской кожи",
-                count = 17,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:15407:0:0:0:0:0:0:0:10|h[Обработанная грубая шкура]|h|r",
@@ -7156,7 +7156,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
                 name = "Борейская кожа",
-                count = 403,
+                count = 253,
             },
             {
                 link = "|cffffffff|Hitem:34330:0:0:0:0:0:0:0:10|h[Накладки из толстой узловатой кожи]|h|r",
@@ -7171,7 +7171,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38425:0:0:0:0:0:0:0:10|h[Толстая борейская кожа]|h|r",
                 name = "Толстая борейская кожа",
-                count = 25,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:38557:0:0:0:0:0:0:0:10|h[Мерзлая чешуя дракона]|h|r",
@@ -7300,7 +7300,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784804374,
+            last_update = 1784883091,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7425,12 +7425,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
                     name = "Борейская кожа",
-                    count = 403,
+                    count = 253,
                 },
                 {
                     link = "|cffffffff|Hitem:38425:0:0:0:0:0:0:0:10|h[Толстая борейская кожа]|h|r",
                     name = "Толстая борейская кожа",
-                    count = 25,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:38557:0:0:0:0:0:0:0:10|h[Мерзлая чешуя дракона]|h|r",
@@ -7545,7 +7545,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784804394,
+            last_update = 1784883092,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
@@ -7560,7 +7560,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:38372:0:0:0:0:0:0:0:10|h[Нерубские накладки для поножей]|h|r",
                     name = "Нерубские накладки для поножей",
-                    count = 15,
+                    count = 14,
                 },
                 {
                     link = "|cff1eff00|Hitem:34207:0:0:0:0:0:0:0:10|h[Упрочнения для перчаток]|h|r",
@@ -7570,7 +7570,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:38376:0:0:0:0:0:0:0:10|h[Накладки из толстой борейской кожи]|h|r",
                     name = "Накладки из толстой борейской кожи",
-                    count = 17,
+                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
