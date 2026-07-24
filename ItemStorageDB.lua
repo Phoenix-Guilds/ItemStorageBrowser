@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784880824
+ItemStorageDB_LastUpdate = 1784880852
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20877,10 +20877,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 14:00:50",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-24 11:14:12",
         money = 3936,
-        empty = 46,
+        empty = 45,
         location = "Оргриммар",
         items = {
             {
@@ -20907,6 +20907,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12988:0:0:0:0:0:0:0:10|h[Мундир Звездного зрения]|h|r",
                 name = "Мундир Звездного зрения",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
+                name = "Рукавицы Торбии",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
@@ -21520,7 +21525,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784804442,
+            last_update = 1784880843,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -22060,7 +22065,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784804445,
+            last_update = 1784880846,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -22071,6 +22076,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                     name = "Перчатки Волшебного кулака",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
+                    name = "Рукавицы Торбии",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
