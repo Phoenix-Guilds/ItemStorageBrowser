@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784881687
+ItemStorageDB_LastUpdate = 1784881812
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22163,9 +22163,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-24 11:25:48",
+        updated_at = "2026-07-24 11:30:12",
         money = 194111,
-        empty = 98,
+        empty = 93,
         location = "Оргриммар",
         items = {
             {
@@ -22216,7 +22216,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
                 name = "Медальон главнокомандующего Морриса",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
@@ -22231,7 +22231,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13095:0:0:0:0:0:0:0:10|h[Кольцо штурма]|h|r",
                 name = "Кольцо штурма",
-                count = 4,
+                count = 6,
             },
             {
                 link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
@@ -22251,7 +22251,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
                 name = "Ожерелье Калисеи",
-                count = 2,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1015:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
@@ -22610,7 +22610,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784881539,
+            last_update = 1784881805,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22640,7 +22640,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13095:0:0:0:0:0:0:0:10|h[Кольцо штурма]|h|r",
                     name = "Кольцо штурма",
-                    count = 4,
+                    count = 6,
                 },
                 {
                     link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
@@ -22935,7 +22935,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784881542,
+            last_update = 1784881805,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22970,7 +22970,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
                     name = "Медальон главнокомандующего Морриса",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
@@ -22980,7 +22980,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
                     name = "Ожерелье Калисеи",
-                    count = 2,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
