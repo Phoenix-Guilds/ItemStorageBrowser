@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784881510
+ItemStorageDB_LastUpdate = 1784881548
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22098,15 +22098,15 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-24 11:15:01",
+        updated_at = "2026-07-24 11:25:48",
         money = 194111,
-        empty = 101,
+        empty = 98,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                 name = "Сила Утера",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22301,7 +22301,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:7734:0:0:0:0:0:0:0:10|h[Сумка Шести Демонов]|h|r",
                 name = "Сумка Шести Демонов",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:11981:0:0:0:0:0:26:0:10|h[Свинцовое кольцо со знаком интеллекта]|h|r",
@@ -22521,7 +22521,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
                 name = "Кольцо спасителей",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
@@ -22545,7 +22545,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784880893,
+            last_update = 1784881539,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22850,7 +22850,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
                     name = "Кольцо спасителей",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
@@ -22870,12 +22870,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784880896,
+            last_update = 1784881542,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                     name = "Сила Утера",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
@@ -22935,7 +22935,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:7734:0:0:0:0:0:0:0:10|h[Сумка Шести Демонов]|h|r",
                     name = "Сумка Шести Демонов",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff1eff00|Hitem:12040:0:0:0:0:0:167:0:10|h[Лесная подвеска со знаком ловкости]|h|r",
