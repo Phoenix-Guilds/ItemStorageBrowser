@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785014033
+ItemStorageDB_LastUpdate = 1785014969
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22358,9 +22358,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-24 11:30:12",
+        updated_at = "2026-07-26 00:29:29",
         money = 194111,
-        empty = 93,
+        empty = 95,
         location = "Оргриммар",
         items = {
             {
@@ -22789,14 +22789,9 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffa335ee|Hitem:2246:0:0:0:0:0:0:0:10|h[Перстень клеврета]|h|r",
-                name = "Перстень клеврета",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
                 name = "Жизнекамень",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
@@ -22805,7 +22800,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784881805,
+            last_update = 1785014305,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23118,11 +23113,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffa335ee|Hitem:2246:0:0:0:0:0:0:0:10|h[Перстень клеврета]|h|r",
-                    name = "Перстень клеврета",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
                     name = "Кольцо заморозки",
                     count = 4,
@@ -23130,7 +23120,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784881805,
+            last_update = 1785014313,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23250,7 +23240,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
                     name = "Жизнекамень",
-                    count = 3,
+                    count = 2,
                 },
             },
         },
