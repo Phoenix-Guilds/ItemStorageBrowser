@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1784960443
+ItemStorageDB_LastUpdate = 1784960454
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20993,10 +20993,10 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-24 11:25:10",
+        updated_at = "2026-07-25 09:20:54",
         money = 3936,
-        empty = 40,
-        location = "Оргриммар",
+        empty = 42,
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -21086,7 +21086,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                 name = "Броня гидролиска",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13068:0:0:0:0:0:0:0:10|h[Обсидиановые наголенники]|h|r",
@@ -21116,7 +21116,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
                 name = "Шлем Маг-Тола",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
@@ -21645,7 +21645,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784881493,
+            last_update = 1784901820,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21715,7 +21715,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                     name = "Броня гидролиска",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13068:0:0:0:0:0:0:0:10|h[Обсидиановые наголенники]|h|r",
@@ -21740,7 +21740,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
                     name = "Шлем Маг-Тола",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
@@ -22185,7 +22185,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784881505,
+            last_update = 1784902198,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
