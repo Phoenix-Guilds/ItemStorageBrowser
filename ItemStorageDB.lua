@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1784960454
+ItemStorageDB_LastUpdate = 1784960466
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-24 11:52:26",
+        updated_at = "2026-07-25 09:21:06",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -911,7 +911,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43426:0:0:0:0:0:0:0:10|h[Символ отчаянной защиты]|h|r",
                 name = "Символ отчаянной защиты",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43427:0:0:0:0:0:0:0:10|h[Символ раскола брони]|h|r",
@@ -1180,7 +1180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784883139,
+            last_update = 1784902428,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2080,7 +2080,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43426:0:0:0:0:0:0:0:10|h[Символ отчаянной защиты]|h|r",
                     name = "Символ отчаянной защиты",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43427:0:0:0:0:0:0:0:10|h[Символ раскола брони]|h|r",
@@ -2350,7 +2350,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784883140,
+            last_update = 1784902452,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
