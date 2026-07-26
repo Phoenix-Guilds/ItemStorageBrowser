@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785076822
+ItemStorageDB_LastUpdate = 1785076887
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6977,10 +6977,10 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-24 11:51:37",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-26 17:41:27",
         money = 181084,
-        empty = 162,
+        empty = 163,
         location = "Оргриммар",
         items = {
             {
@@ -6996,7 +6996,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
                 name = "Накладки для поножей из шкуры копытня",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:38372:0:0:0:0:0:0:0:10|h[Нерубские накладки для поножей]|h|r",
@@ -7079,11 +7079,6 @@ ItemStorageDB = {
                 count = 10,
             },
             {
-                link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
-                name = "Накладки из жесткой кожи",
-                count = 10,
-            },
-            {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
                 name = "Тонкая кожа",
                 count = 732,
@@ -7116,7 +7111,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25650:0:0:0:0:0:0:0:10|h[Накладки из узловатой кожи]|h|r",
                 name = "Накладки из узловатой кожи",
-                count = 20,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:25699:0:0:0:0:0:0:0:10|h[Пронизанная кристаллами кожа]|h|r",
@@ -7310,7 +7305,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784883091,
+            last_update = 1785076853,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7555,7 +7550,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784883092,
+            last_update = 1785076871,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
@@ -7565,7 +7560,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
                     name = "Накладки для поножей из шкуры копытня",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:38372:0:0:0:0:0:0:0:10|h[Нерубские накладки для поножей]|h|r",
@@ -7598,11 +7593,6 @@ ItemStorageDB = {
                     count = 10,
                 },
                 {
-                    link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
-                    name = "Накладки из жесткой кожи",
-                    count = 10,
-                },
-                {
                     link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
                     name = "Грубая нить",
                     count = 25,
@@ -7615,7 +7605,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:25650:0:0:0:0:0:0:0:10|h[Накладки из узловатой кожи]|h|r",
                     name = "Накладки из узловатой кожи",
-                    count = 20,
+                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:34330:0:0:0:0:0:0:0:10|h[Накладки из толстой узловатой кожи]|h|r",
