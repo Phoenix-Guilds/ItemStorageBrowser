@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785076627
+ItemStorageDB_LastUpdate = 1785076721
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4842,10 +4842,10 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-25 09:20:43",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-26 17:38:41",
         money = 999680,
-        empty = 122,
+        empty = 123,
         location = "Оргриммар",
         items = {
             {
@@ -4966,7 +4966,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                 name = "Северный лотос",
-                count = 28,
+                count = 16,
             },
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
@@ -5116,7 +5116,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 61,
+                count = 60,
             },
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5136,7 +5136,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
-                count = 110,
+                count = 99,
             },
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
@@ -5150,7 +5150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784897223,
+            last_update = 1785076689,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5245,7 +5245,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                     name = "Северный лотос",
-                    count = 28,
+                    count = 16,
                 },
                 {
                     link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -5375,7 +5375,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                     name = "Сердце огня",
-                    count = 61,
+                    count = 60,
                 },
                 {
                     link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5395,7 +5395,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                     name = "Настой колдунства",
-                    count = 110,
+                    count = 99,
                 },
                 {
                     link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
@@ -5405,7 +5405,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784897224,
+            last_update = 1785076707,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
