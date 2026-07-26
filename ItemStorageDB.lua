@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785076721
+ItemStorageDB_LastUpdate = 1785076822
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18232,10 +18232,10 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-26 00:12:20",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-26 17:40:22",
         money = 1158902,
-        empty = 75,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -18277,6 +18277,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
                 name = "Ткань Скверны",
                 count = 20,
+            },
+            {
+                link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
+                name = "Ткань Пустоты",
+                count = 361,
             },
             {
                 link = "|cffffffff|Hitem:21881:0:0:0:0:0:0:0:10|h[Шелковая паутина Пустоты]|h|r",
@@ -18370,7 +18375,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785013923,
+            last_update = 1785076767,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18435,7 +18440,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785013927,
+            last_update = 1785076780,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18456,6 +18461,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:14227:0:0:0:0:0:0:0:10|h[Железношелковая паутина]|h|r",
                     name = "Железношелковая паутина",
                     count = 77,
+                },
+                {
+                    link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
+                    name = "Ткань Пустоты",
+                    count = 361,
                 },
                 {
                     link = "|cffffffff|Hitem:21881:0:0:0:0:0:0:0:10|h[Шелковая паутина Пустоты]|h|r",
