@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785076295
+ItemStorageDB_LastUpdate = 1785076430
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2362,10 +2362,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-24 11:28:07",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-26 17:33:50",
         money = 92710,
-        empty = 57,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -2546,7 +2546,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
                 name = "Отвага Бланчарда",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13047:0:0:0:0:0:0:0:10|h[Сучок с Древа Жизни]|h|r",
@@ -2965,7 +2965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784881677,
+            last_update = 1785076390,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3135,7 +3135,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
                     name = "Отвага Бланчарда",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13047:0:0:0:0:0:0:0:10|h[Сучок с Древа Жизни]|h|r",
@@ -3500,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784881681,
+            last_update = 1785076417,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
