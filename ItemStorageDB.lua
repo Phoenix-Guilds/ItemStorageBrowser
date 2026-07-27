@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785165393
+ItemStorageDB_LastUpdate = 1785165724
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8037,10 +8037,10 @@ ItemStorageDB = {
     },
     {
         name = "Крошшерный",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-26 18:34:55",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-27 18:22:04",
         money = 3895,
-        empty = 145,
+        empty = 144,
         location = "Оргриммар",
         items = {
             {
@@ -8071,7 +8071,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16650:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 6]|h|r",
                 name = "Руководство по использованию крошшера, стр. 6",
-                count = 7,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:16651:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 7]|h|r",
@@ -8105,7 +8105,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785079976,
+            last_update = 1785165659,
             items = {
                 {
                     link = "|cffffffff|Hitem:16645:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 1]|h|r",
@@ -8170,7 +8170,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785080047,
+            last_update = 1785165693,
             items = {
                 {
                     link = "|cffffffff|Hitem:16645:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 1]|h|r",
@@ -8195,7 +8195,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:16650:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 6]|h|r",
                     name = "Руководство по использованию крошшера, стр. 6",
-                    count = 1,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:16651:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 7]|h|r",
