@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785092536
+ItemStorageDB_LastUpdate = 1785149996
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18557,10 +18557,10 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 12:53:59",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-27 13:59:56",
         money = 1005064,
-        empty = 116,
+        empty = 117,
         location = "Оргриммар",
         items = {
             {
@@ -18591,7 +18591,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
                 name = "Масло каменного угря",
-                count = 169,
+                count = 119,
             },
             {
                 link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
@@ -18845,7 +18845,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784800430,
+            last_update = 1785148181,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19080,7 +19080,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784800434,
+            last_update = 1785148191,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -19095,7 +19095,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
                     name = "Масло каменного угря",
-                    count = 169,
+                    count = 119,
                 },
                 {
                     link = "|cffffffff|Hitem:3371:0:0:0:0:0:0:0:10|h[Пустая колба]|h|r",
