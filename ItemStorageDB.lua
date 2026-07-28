@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785273276
+ItemStorageDB_LastUpdate = 1785273473
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20808,9 +20808,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-26 00:56:23",
+        updated_at = "2026-07-29 00:17:53",
         money = 3936,
-        empty = 44,
+        empty = 45,
         location = "Оргриммар",
         items = {
             {
@@ -21012,11 +21012,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13113:0:0:0:0:0:0:0:10|h[Головной убор Оперенной Луны]|h|r",
                 name = "Головной убор Оперенной Луны",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
-                name = "Поножи Троллегубителя",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
@@ -21450,7 +21445,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785016564,
+            last_update = 1785273314,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21985,7 +21980,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785016573,
+            last_update = 1785273402,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22046,11 +22041,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
                     name = "Портупея волчьего страха",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
-                    name = "Поножи Троллегубителя",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
