@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785266767
+ItemStorageDB_LastUpdate = 1785266865
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4842,8 +4842,8 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-28 16:19:00",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-07-28 22:27:45",
         money = 999680,
         empty = 123,
         location = "Оргриммар",
@@ -4886,12 +4886,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
                 name = "Изначальный Огонь",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:21885:0:0:0:0:0:0:0:10|h[Изначальная Вода]|h|r",
                 name = "Изначальная Вода",
-                count = 30,
+                count = 29,
             },
             {
                 link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
@@ -4901,12 +4901,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
                 name = "Изначальный Воздух",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:22452:0:0:0:0:0:0:0:10|h[Изначальная Земля]|h|r",
                 name = "Изначальная Земля",
-                count = 87,
+                count = 86,
             },
             {
                 link = "|cff1eff00|Hitem:22456:0:0:0:0:0:0:0:10|h[Изначальная Тень]|h|r",
@@ -4916,7 +4916,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22457:0:0:0:0:0:0:0:10|h[Изначальная Мана]|h|r",
                 name = "Изначальная Мана",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
@@ -5150,7 +5150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785244700,
+            last_update = 1785266841,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5180,12 +5180,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
                     name = "Изначальный Огонь",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:21885:0:0:0:0:0:0:0:10|h[Изначальная Вода]|h|r",
                     name = "Изначальная Вода",
-                    count = 30,
+                    count = 29,
                 },
                 {
                     link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
@@ -5195,12 +5195,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
                     name = "Изначальный Воздух",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff1eff00|Hitem:22452:0:0:0:0:0:0:0:10|h[Изначальная Земля]|h|r",
                     name = "Изначальная Земля",
-                    count = 87,
+                    count = 86,
                 },
                 {
                     link = "|cff1eff00|Hitem:22456:0:0:0:0:0:0:0:10|h[Изначальная Тень]|h|r",
@@ -5210,7 +5210,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:22457:0:0:0:0:0:0:0:10|h[Изначальная Мана]|h|r",
                     name = "Изначальная Мана",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
@@ -5405,7 +5405,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785244718,
+            last_update = 1785266849,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
