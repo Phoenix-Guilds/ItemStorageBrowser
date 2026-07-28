@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785265092
+ItemStorageDB_LastUpdate = 1785265917
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12613,7 +12613,7 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-28 21:58:12",
+        updated_at = "2026-07-28 22:11:57",
         money = 385478,
         empty = 107,
         location = "Оргриммар",
@@ -12661,7 +12661,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
                 name = "Малый радужный осколок",
-                count = 196,
+                count = 172,
             },
             {
                 link = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:10|h[Осколок грез]|h|r",
@@ -12845,7 +12845,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785264973,
+            last_update = 1785265901,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12890,7 +12890,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
                     name = "Малый радужный осколок",
-                    count = 196,
+                    count = 172,
                 },
                 {
                     link = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:0:10|h[Осколок грез]|h|r",
@@ -13035,7 +13035,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785265085,
+            last_update = 1785265908,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
