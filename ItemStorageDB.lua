@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785359410
+ItemStorageDB_LastUpdate = 1785359544
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2353,9 +2353,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-26 17:33:50",
+        updated_at = "2026-07-30 00:12:24",
         money = 92710,
-        empty = 58,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -2734,11 +2734,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
-                name = "Клык Боана",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
                 name = "Змеиный поцелуй",
                 count = 2,
@@ -2826,7 +2821,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                 name = "Перекованный клинок Героев",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
@@ -2955,7 +2950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785076390,
+            last_update = 1785359447,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3383,11 +3378,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
-                    name = "Перекованный клинок Героев",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
                     name = "Кинжал с жемчужной рукояткой",
                     count = 2,
@@ -3490,7 +3480,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785076417,
+            last_update = 1785359480,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3575,11 +3565,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
-                    name = "Клык Боана",
                     count = 1,
                 },
                 {
