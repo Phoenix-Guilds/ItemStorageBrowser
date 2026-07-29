@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785333133
+ItemStorageDB_LastUpdate = 1785333192
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8358,7 +8358,7 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-23 22:04:43",
+        updated_at = "2026-07-29 16:53:12",
         money = 141967,
         empty = 155,
         location = "Оргриммар",
@@ -8526,7 +8526,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                 name = "Мифриловая руда",
-                count = 190,
+                count = 188,
             },
             {
                 link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
@@ -8540,7 +8540,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1784833336,
+            last_update = 1785333177,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8690,7 +8690,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
                     name = "Кобальтовая руда",
-                    count = 339,
+                    count = 269,
                 },
                 {
                     link = "|cffffffff|Hitem:36912:0:0:0:0:0:0:0:10|h[Саронитовая руда]|h|r",
@@ -8720,12 +8720,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1784833338,
+            last_update = 1785333177,
             items = {
                 {
-                    link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
-                    name = "Мифриловая руда",
-                    count = 2,
+                    link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
+                    name = "Кобальтовая руда",
+                    count = 70,
                 },
             },
         },
