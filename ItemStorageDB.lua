@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785501753
+ItemStorageDB_LastUpdate = 1785501796
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14983,7 +14983,7 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-31 11:06:31",
+        updated_at = "2026-07-31 15:43:16",
         money = 214291,
         empty = 179,
         location = "Оргриммар",
@@ -15146,7 +15146,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38945:0:0:0:0:0:0:0:10|h[Свиток чар для щита - выносливость V]|h|r",
                 name = "Свиток чар для щита - выносливость V",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:38953:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - Точность]|h|r",
@@ -15405,7 +15405,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785485183,
+            last_update = 1785501785,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -15465,7 +15465,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:38945:0:0:0:0:0:0:0:10|h[Свиток чар для щита - выносливость V]|h|r",
                     name = "Свиток чар для щита - выносливость V",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:38953:0:0:0:0:0:0:0:10|h[Свиток чар для перчаток - Точность]|h|r",
