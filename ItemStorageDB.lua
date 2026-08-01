@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785591753
+ItemStorageDB_LastUpdate = 1785591814
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11623,9 +11623,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-07-29 16:54:30",
+        updated_at = "2026-08-01 16:43:34",
         money = 13104,
-        empty = 72,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -11791,7 +11791,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
@@ -11820,7 +11820,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785333260,
+            last_update = 1785591793,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -11945,12 +11945,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                     name = "Лук Жгучих Стрел",
-                    count = 5,
+                    count = 4,
                 },
             },
         },
         bags = {
-            last_update = 1785333264,
+            last_update = 1785591807,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
