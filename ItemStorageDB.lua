@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785669516
+ItemStorageDB_LastUpdate = 1785669716
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15943,9 +15943,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-02 14:08:04",
+        updated_at = "2026-08-02 14:21:56",
         money = 108852,
-        empty = 62,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -16346,7 +16346,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3482:0:0:0:0:0:0:0:10|h[Посеребренные бронзовые сапоги]|h|r",
                 name = "Посеребренные бронзовые сапоги",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:3483:0:0:0:0:0:0:0:10|h[Посеребренные бронзовые рукавицы]|h|r",
@@ -16815,7 +16815,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785668570,
+            last_update = 1785669619,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11970:0:0:0:0:0:1500:0:10|h[Шпинелевое кольцо с заслоном от сил природы]|h|r",
@@ -17100,7 +17100,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3482:0:0:0:0:0:0:0:10|h[Посеребренные бронзовые сапоги]|h|r",
                     name = "Посеребренные бронзовые сапоги",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:3483:0:0:0:0:0:0:0:10|h[Посеребренные бронзовые рукавицы]|h|r",
@@ -17425,7 +17425,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785668570,
+            last_update = 1785669670,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
