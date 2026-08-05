@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1785955076
+ItemStorageDB_LastUpdate = 1785955892
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 21:37:56",
+        updated_at = "2026-08-05 21:51:32",
         money = 339404,
-        empty = 111,
+        empty = 106,
         location = "Оргриммар",
         items = {
             {
@@ -21,7 +21,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
                 name = "Символ трепки",
-                count = 17,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:40899:0:0:0:0:0:0:0:10|h[Символ рыка]|h|r",
@@ -116,7 +116,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
                 name = "Символ молота правосудия",
-                count = 10,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:41097:0:0:0:0:0:0:0:10|h[Символ молота гнева]|h|r",
@@ -271,7 +271,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42402:0:0:0:0:0:0:0:10|h[Символ внутреннего огня]|h|r",
                 name = "Символ внутреннего огня",
-                count = 22,
+                count = 32,
             },
             {
                 link = "|cffffffff|Hitem:42406:0:0:0:0:0:0:0:10|h[Символ Слова Тьмы: Боль]|h|r",
@@ -287,6 +287,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
                 name = "Символ слова силы: Щит",
                 count = 7,
+            },
+            {
+                link = "|cffffffff|Hitem:42410:0:0:0:0:0:0:0:10|h[Символ ментального крика]|h|r",
+                name = "Символ ментального крика",
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:42411:0:0:0:0:0:0:0:10|h[Символ обновления]|h|r",
@@ -866,7 +871,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43418:0:0:0:0:0:0:0:10|h[Символ удара героя]|h|r",
                 name = "Символ удара героя",
-                count = 16,
+                count = 18,
             },
             {
                 link = "|cffffffff|Hitem:43419:0:0:0:0:0:0:0:10|h[Символ вмешательства]|h|r",
@@ -1175,7 +1180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785955031,
+            last_update = 1785955688,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2340,12 +2345,37 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785955037,
+            last_update = 1785955702,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                     name = "Книга познания символов",
                     count = 21,
+                },
+                {
+                    link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
+                    name = "Символ трепки",
+                    count = 3,
+                },
+                {
+                    link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
+                    name = "Символ молота правосудия",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:42402:0:0:0:0:0:0:0:10|h[Символ внутреннего огня]|h|r",
+                    name = "Символ внутреннего огня",
+                    count = 10,
+                },
+                {
+                    link = "|cffffffff|Hitem:42410:0:0:0:0:0:0:0:10|h[Символ ментального крика]|h|r",
+                    name = "Символ ментального крика",
+                    count = 8,
+                },
+                {
+                    link = "|cffffffff|Hitem:43418:0:0:0:0:0:0:0:10|h[Символ удара героя]|h|r",
+                    name = "Символ удара героя",
+                    count = 2,
                 },
             },
         },
