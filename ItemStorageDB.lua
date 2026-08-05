@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785933021
+ItemStorageDB_LastUpdate = 1785937810
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12363,9 +12363,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 15:29:31",
+        updated_at = "2026-08-05 16:50:10",
         money = 385478,
-        empty = 127,
+        empty = 129,
         location = "Оргриммар",
         items = {
             {
@@ -12514,11 +12514,6 @@ ItemStorageDB = {
                 count = 64,
             },
             {
-                link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
-                name = "Арканитовый жезл",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
                 name = "Семена клена",
                 count = 40,
@@ -12551,7 +12546,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
                 name = "Жезл из оскверненного железа",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
@@ -12585,7 +12580,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785932905,
+            last_update = 1785937780,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12770,7 +12765,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785932958,
+            last_update = 1785937794,
             items = {
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
@@ -12778,14 +12773,9 @@ ItemStorageDB = {
                     count = 4,
                 },
                 {
-                    link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
-                    name = "Арканитовый жезл",
-                    count = 1,
-                },
-                {
                     link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
                     name = "Жезл из оскверненного железа",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
