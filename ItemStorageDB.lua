@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785907530
+ItemStorageDB_LastUpdate = 1785907565
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22782,10 +22782,10 @@ ItemStorageDB = {
     },
     {
         name = "Сокетная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-06-04 12:47:20",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-05 08:26:05",
         money = 13534,
-        empty = 194,
+        empty = 195,
         location = "Оргриммар",
         items = {
             {
@@ -22796,7 +22796,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:40023:0:0:0:0:0:0:0:10|h[Изменчивый сумеречный опал]|h|r",
                 name = "Изменчивый сумеречный опал",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:40053:0:0:0:0:0:0:0:10|h[Нетронутый императорский топаз]|h|r",
@@ -22830,7 +22830,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1780566431,
+            last_update = 1785907559,
             items = {
                 {
                     link = "|cff0070dd|Hitem:40012:0:0:0:0:0:0:0:10|h[Сверкающее сияние осени]|h|r",
@@ -22840,7 +22840,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:40023:0:0:0:0:0:0:0:10|h[Изменчивый сумеречный опал]|h|r",
                     name = "Изменчивый сумеречный опал",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:40053:0:0:0:0:0:0:0:10|h[Нетронутый императорский топаз]|h|r",
@@ -22875,7 +22875,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1780566434,
+            last_update = 1785907561,
             items = {
             },
         },
