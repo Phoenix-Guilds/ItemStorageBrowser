@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785937971
+ItemStorageDB_LastUpdate = 1785938014
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2353,9 +2353,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 16:51:29",
+        updated_at = "2026-08-05 16:53:34",
         money = 92710,
-        empty = 69,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -2844,6 +2844,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:1169:852:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
+                name = "Черночерепный щит",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
                 name = "Мозгоруб",
                 count = 1,
@@ -2856,6 +2861,11 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1982:20319:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
                 name = "Ночной клинок",
+                count = 1,
+            },
+            {
+                link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
+                name = "Пристрелянный огнестрел",
                 count = 1,
             },
             {
@@ -2922,6 +2932,11 @@ ItemStorageDB = {
                 link = "|cffa335ee|Hitem:868:0:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
                 name = "Ревностный хранитель",
                 count = 2,
+            },
+            {
+                link = "|cffa335ee|Hitem:868:20239:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
+                name = "Ревностный хранитель",
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
@@ -3460,7 +3475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785937881,
+            last_update = 1785938007,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3543,8 +3558,18 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cffa335ee|Hitem:1169:852:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
+                    name = "Черночерепный щит",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                     name = "Стена мертвых",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
+                    name = "Пристрелянный огнестрел",
                     count = 1,
                 },
                 {
@@ -3560,6 +3585,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
                     name = "Молот Северного ветра",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:868:20239:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
+                    name = "Ревностный хранитель",
                     count = 1,
                 },
                 {
