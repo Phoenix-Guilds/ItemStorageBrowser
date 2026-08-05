@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785906943
+ItemStorageDB_LastUpdate = 1785907010
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15783,9 +15783,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-04 18:52:42",
+        updated_at = "2026-08-05 08:16:50",
         money = 108852,
-        empty = 66,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -15801,6 +15801,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11970:0:0:0:0:0:1500:0:10|h[Шпинелевое кольцо с заслоном от сил природы]|h|r",
                 name = "Шпинелевое кольцо с заслоном от сил природы",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:1355:0:0:0:0:0:0:0:10|h[Замшевая накидка]|h|r",
+                name = "Замшевая накидка",
                 count = 1,
             },
             {
@@ -16076,7 +16081,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2966:0:0:0:0:0:0:0:10|h[Воинские штаны]|h|r",
                 name = "Воинские штаны",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:2969:0:0:0:0:0:0:0:10|h[Жилет заклинателя]|h|r",
@@ -16645,7 +16650,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785858711,
+            last_update = 1785906992,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11970:0:0:0:0:0:1500:0:10|h[Шпинелевое кольцо с заслоном от сил природы]|h|r",
@@ -16855,7 +16860,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2966:0:0:0:0:0:0:0:10|h[Воинские штаны]|h|r",
                     name = "Воинские штаны",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:2969:0:0:0:0:0:0:0:10|h[Жилет заклинателя]|h|r",
@@ -17255,7 +17260,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785858733,
+            last_update = 1785907005,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -17266,6 +17271,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
                     name = "Большой магический жезл",
                     count = 3,
+                },
+                {
+                    link = "|cff1eff00|Hitem:1355:0:0:0:0:0:0:0:10|h[Замшевая накидка]|h|r",
+                    name = "Замшевая накидка",
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:15211:20235:0:0:0:0:24:0:10|h[Короткий меч ополченца со знаком силы]|h|r",
