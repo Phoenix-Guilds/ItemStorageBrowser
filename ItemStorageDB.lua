@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1785906237
+ItemStorageDB_LastUpdate = 1785906369
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20458,9 +20458,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-02 14:18:36",
+        updated_at = "2026-08-05 08:06:09",
         money = 3936,
-        empty = 59,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -20591,7 +20591,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
                 name = "Сапоги Фьюрена",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13101:0:0:0:0:0:0:0:10|h[Ботинки Волкогонца]|h|r",
@@ -20956,7 +20956,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
@@ -21070,7 +21070,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785669393,
+            last_update = 1785906274,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21585,7 +21585,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785669414,
+            last_update = 1785906364,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21625,6 +21625,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                     name = "Поножи осколка голема",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
+                    name = "Сапоги Фьюрена",
                     count = 1,
                 },
                 {
@@ -21760,7 +21765,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                     name = "Шапка терпения",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
