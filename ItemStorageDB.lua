@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786036261
+ItemStorageDB_LastUpdate = 1786036287
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20563,9 +20563,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 20:02:20",
+        updated_at = "2026-08-06 20:11:27",
         money = 3936,
-        empty = 48,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -20791,7 +20791,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                 name = "Крыло дракончика",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -20801,7 +20801,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
                 name = "Эльфийские плетеные сапоги",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
@@ -21190,7 +21190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786035730,
+            last_update = 1786036279,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21735,7 +21735,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786035734,
+            last_update = 1786036281,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21805,6 +21805,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
                     name = "Змеиный кушак",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
+                    name = "Крыло дракончика",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
+                    name = "Эльфийские плетеные сапоги",
                     count = 1,
                 },
                 {
