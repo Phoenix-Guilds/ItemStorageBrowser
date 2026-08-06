@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786036970
+ItemStorageDB_LastUpdate = 1786037007
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22038,9 +22038,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 20:05:50",
+        updated_at = "2026-08-06 20:23:27",
         money = 194111,
-        empty = 99,
+        empty = 96,
         location = "Оргриммар",
         items = {
             {
@@ -22066,7 +22066,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
                 name = "Подвеска леди Ализабет",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -22076,12 +22076,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                 name = "Колье Ярости Реки",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
                 name = "Оберег Газлова",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
@@ -22770,7 +22770,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786035945,
+            last_update = 1786037001,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22780,7 +22780,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
                     name = "Подвеска леди Ализабет",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -22790,12 +22790,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                     name = "Колье Ярости Реки",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
                     name = "Оберег Газлова",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
