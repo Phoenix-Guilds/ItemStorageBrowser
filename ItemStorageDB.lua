@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786034629
+ItemStorageDB_LastUpdate = 1786034670
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18162,10 +18162,10 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 08:47:45",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-06 19:44:30",
         money = 1005064,
-        empty = 139,
+        empty = 136,
         location = "Оргриммар",
         items = {
             {
@@ -18261,12 +18261,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 262,
+                count = 286,
             },
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
-                count = 86,
+                count = 129,
+            },
+            {
+                link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
+                name = "Остротерн",
+                count = 26,
             },
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
@@ -18401,12 +18406,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
-                count = 339,
+                count = 366,
             },
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 125,
+                count = 149,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -18440,7 +18445,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785908858,
+            last_update = 1786034664,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18520,12 +18525,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                     name = "Мироцвет",
-                    count = 262,
+                    count = 286,
                 },
                 {
                     link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                     name = "Земляной корень",
-                    count = 86,
+                    count = 129,
+                },
+                {
+                    link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
+                    name = "Остротерн",
+                    count = 26,
                 },
                 {
                     link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
@@ -18630,12 +18640,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                     name = "Сребролист",
-                    count = 339,
+                    count = 366,
                 },
                 {
                     link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                     name = "Магороза",
-                    count = 125,
+                    count = 149,
                 },
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -18670,7 +18680,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785908861,
+            last_update = 1786034665,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
