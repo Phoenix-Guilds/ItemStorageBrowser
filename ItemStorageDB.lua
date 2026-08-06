@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786035368
+ItemStorageDB_LastUpdate = 1786035578
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2372,10 +2372,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 16:53:34",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-06 19:59:38",
         money = 92710,
-        empty = 66,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2531,7 +2531,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13041:0:0:0:0:0:0:0:10|h[Клинок стража]|h|r",
                 name = "Клинок стража",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13042:0:0:0:0:0:0:0:10|h[Меч мирового судьи]|h|r",
@@ -2591,7 +2591,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
                 name = "Угрюмый жнец",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13055:0:0:0:0:0:0:0:10|h[Костеглод]|h|r",
@@ -2611,7 +2611,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                 name = "Острие Кху",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
@@ -2871,7 +2871,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
                 name = "Мозгоруб",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
@@ -2980,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785937868,
+            last_update = 1786035570,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3495,7 +3495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785938007,
+            last_update = 1786035573,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3515,6 +3515,21 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                     name = "Небесный свет",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13041:0:0:0:0:0:0:0:10|h[Клинок стража]|h|r",
+                    name = "Клинок стража",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
+                    name = "Угрюмый жнец",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
+                    name = "Острие Кху",
                     count = 1,
                 },
                 {
@@ -3580,6 +3595,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1169:852:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                     name = "Черночерепный щит",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
+                    name = "Мозгоруб",
                     count = 1,
                 },
                 {
