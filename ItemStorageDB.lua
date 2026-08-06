@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786049102
+ItemStorageDB_LastUpdate = 1786049269
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2372,10 +2372,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 20:24:21",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-06 23:47:49",
         money = 92710,
-        empty = 45,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -2731,7 +2731,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -2995,7 +2995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786037054,
+            last_update = 1786049190,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786037056,
+            last_update = 1786049249,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3610,7 +3610,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                     name = "Массивная треугольная палица",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
