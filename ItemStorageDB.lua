@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786034823
+ItemStorageDB_LastUpdate = 1786034922
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17883,9 +17883,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 19:45:07",
+        updated_at = "2026-08-06 19:48:42",
         money = 1158902,
-        empty = 78,
+        empty = 76,
         location = "Оргриммар",
         items = {
             {
@@ -17946,17 +17946,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 1206,
+                count = 1248,
             },
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 1284,
+                count = 1395,
             },
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                 name = "Рулон льняной ткани",
-                count = 252,
+                count = 253,
             },
             {
                 link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
@@ -18020,7 +18020,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786034701,
+            last_update = 1786034917,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18045,17 +18045,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                     name = "Льняной материал",
-                    count = 1206,
+                    count = 1248,
                 },
                 {
                     link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                     name = "Шерсть",
-                    count = 1284,
+                    count = 1395,
                 },
                 {
                     link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                     name = "Рулон льняной ткани",
-                    count = 252,
+                    count = 253,
                 },
                 {
                     link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
@@ -18085,7 +18085,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786034701,
+            last_update = 1786034917,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
