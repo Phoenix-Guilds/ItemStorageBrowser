@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786035993
+ItemStorageDB_LastUpdate = 1786036034
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3667,8 +3667,8 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 16:52:51",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-06 20:07:14",
         money = 158410,
         empty = 152,
         location = "Оргриммар",
@@ -3686,11 +3686,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
                 name = "Манускрипт страсти",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
-                name = "Клинок невезения",
                 count = 1,
             },
             {
@@ -3712,6 +3707,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
                 name = "Клинок Неутолимой Жажды",
                 count = 3,
+            },
+            {
+                link = "|cff0070dd|Hitem:31200:0:0:0:0:0:0:0:10|h[Щит своенравного пехотинца]|h|r",
+                name = "Щит своенравного пехотинца",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
@@ -3850,7 +3850,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785937918,
+            last_update = 1786036028,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3865,11 +3865,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
                     name = "Манускрипт страсти",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
-                    name = "Клинок невезения",
                     count = 1,
                 },
                 {
@@ -3891,6 +3886,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:31193:0:0:0:0:0:0:0:10|h[Клинок Неутолимой Жажды]|h|r",
                     name = "Клинок Неутолимой Жажды",
                     count = 3,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31200:0:0:0:0:0:0:0:10|h[Щит своенравного пехотинца]|h|r",
+                    name = "Щит своенравного пехотинца",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
@@ -4030,7 +4030,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785937925,
+            last_update = 1786036029,
             items = {
             },
         },
