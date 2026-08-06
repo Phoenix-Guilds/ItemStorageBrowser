@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786034560
+ItemStorageDB_LastUpdate = 1786034629
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9887,8 +9887,8 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 08:49:46",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-06 19:43:49",
         money = 213874,
         empty = 79,
         location = "Оргриммар",
@@ -9966,7 +9966,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
                 name = "Хрустящая паучья лапка",
-                count = 161,
+                count = 173,
             },
             {
                 link = "|cffffffff|Hitem:24477:0:0:0:0:0:0:0:10|h[Мясо джаггала]|h|r",
@@ -9976,7 +9976,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
                 name = "Жилистая волчатина",
-                count = 20,
+                count = 48,
             },
             {
                 link = "|cffffffff|Hitem:2675:0:0:0:0:0:0:0:10|h[Клешня краба]|h|r",
@@ -10190,7 +10190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785908978,
+            last_update = 1786034623,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10265,7 +10265,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22644:0:0:0:0:0:0:0:10|h[Хрустящая паучья лапка]|h|r",
                     name = "Хрустящая паучья лапка",
-                    count = 161,
+                    count = 173,
                 },
                 {
                     link = "|cffffffff|Hitem:24477:0:0:0:0:0:0:0:10|h[Мясо джаггала]|h|r",
@@ -10275,7 +10275,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
                     name = "Жилистая волчатина",
-                    count = 20,
+                    count = 48,
                 },
                 {
                     link = "|cffffffff|Hitem:2675:0:0:0:0:0:0:0:10|h[Клешня краба]|h|r",
@@ -10490,7 +10490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785908981,
+            last_update = 1786034624,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
