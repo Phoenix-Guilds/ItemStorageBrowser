@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786035740
+ItemStorageDB_LastUpdate = 1786035772
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 19:59:38",
+        updated_at = "2026-08-06 20:02:52",
         money = 92710,
-        empty = 62,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -2876,7 +2876,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                 name = "Стена мертвых",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1982:20319:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
@@ -2980,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786035570,
+            last_update = 1786035765,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3495,7 +3495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786035573,
+            last_update = 1786035766,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3605,7 +3605,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                     name = "Стена мертвых",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
