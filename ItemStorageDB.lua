@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786037007
+ItemStorageDB_LastUpdate = 1786037034
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20618,9 +20618,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 20:16:33",
+        updated_at = "2026-08-06 20:23:54",
         money = 3936,
-        empty = 41,
+        empty = 40,
         location = "Оргриммар",
         items = {
             {
@@ -20636,6 +20636,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
+                name = "Окованные серебром прочные ботинки",
                 count = 1,
             },
             {
@@ -21255,7 +21260,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786036586,
+            last_update = 1786037028,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21800,7 +21805,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786036587,
+            last_update = 1786037028,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21810,6 +21815,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
                     name = "Пояс вестника шторма",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
+                    name = "Окованные серебром прочные ботинки",
                     count = 1,
                 },
                 {
