@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786019167
+ItemStorageDB_LastUpdate = 1786019248
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12413,7 +12413,7 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 15:26:07",
+        updated_at = "2026-08-06 15:27:28",
         money = 385478,
         empty = 129,
         location = "",
@@ -12815,7 +12815,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786019161,
+            last_update = 1786019241,
             items = {
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
