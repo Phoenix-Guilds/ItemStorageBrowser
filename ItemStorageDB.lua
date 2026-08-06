@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786035772
+ItemStorageDB_LastUpdate = 1786035917
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 20:02:52",
+        updated_at = "2026-08-06 20:05:17",
         money = 92710,
-        empty = 61,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -2451,7 +2451,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13014:0:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
                 name = "Секира Рин'джи",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13014:20246:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
@@ -2516,7 +2516,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
                 name = "Рапира из быстростали",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13035:0:0:0:0:0:0:0:10|h[Змеиный тесак]|h|r",
@@ -2879,6 +2879,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:1982:0:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
+                name = "Ночной клинок",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:1982:20319:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
                 name = "Ночной клинок",
                 count = 1,
@@ -2980,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786035765,
+            last_update = 1786035911,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3495,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786035766,
+            last_update = 1786035912,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3508,6 +3513,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13014:0:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
+                    name = "Секира Рин'джи",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
                     name = "Сокрушитель Безеля",
                     count = 1,
@@ -3515,6 +3525,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                     name = "Небесный свет",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
+                    name = "Рапира из быстростали",
                     count = 1,
                 },
                 {
@@ -3606,6 +3621,11 @@ ItemStorageDB = {
                     link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                     name = "Стена мертвых",
                     count = 2,
+                },
+                {
+                    link = "|cffa335ee|Hitem:1982:0:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
+                    name = "Ночной клинок",
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
