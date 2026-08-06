@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786014942
+ItemStorageDB_LastUpdate = 1786017328
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15762,10 +15762,10 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 08:55:51",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-06 14:55:28",
         money = 108852,
-        empty = 62,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -16106,11 +16106,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2985:1892:0:0:0:0:0:0:10|h[Расписанная кожаная кираса]|h|r",
                 name = "Расписанная кожаная кираса",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:3036:0:0:0:0:0:0:0:10|h[Тяжелый короткий лук]|h|r",
-                name = "Тяжелый короткий лук",
                 count = 1,
             },
             {
@@ -16640,7 +16635,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785909343,
+            last_update = 1786016919,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11970:0:0:0:0:0:1500:0:10|h[Шпинелевое кольцо с заслоном от сил природы]|h|r",
@@ -17265,7 +17260,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785909344,
+            last_update = 1786017030,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -17346,11 +17341,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:2078:20235:0:0:0:0:23:0:10|h[Северный короткий меч со знаком силы]|h|r",
                     name = "Северный короткий меч со знаком силы",
                     count = 2,
-                },
-                {
-                    link = "|cff1eff00|Hitem:3036:0:0:0:0:0:0:0:10|h[Тяжелый короткий лук]|h|r",
-                    name = "Тяжелый короткий лук",
-                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:3039:0:0:0:0:0:0:0:10|h[Короткий ясеневый лук]|h|r",
