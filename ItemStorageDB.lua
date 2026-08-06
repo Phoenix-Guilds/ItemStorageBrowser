@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786035950
+ItemStorageDB_LastUpdate = 1786035993
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18877,10 +18877,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 08:24:46",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-06 20:06:33",
         money = 336703,
-        empty = 98,
+        empty = 97,
         location = "Оргриммар",
         items = {
             {
@@ -19041,6 +19041,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31226:0:0:0:0:0:0:0:10|h[Поножи Коварного]|h|r",
                 name = "Поножи Коварного",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31228:0:0:0:0:0:-39:40:10|h[Оперенный пояс с меткой заклинателя]|h|r",
+                name = "Оперенный пояс с меткой заклинателя",
                 count = 1,
             },
             {
@@ -19710,7 +19715,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785907478,
+            last_update = 1786035986,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -20540,8 +20545,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785907481,
+            last_update = 1786035987,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:31228:0:0:0:0:0:-39:40:10|h[Оперенный пояс с меткой заклинателя]|h|r",
+                    name = "Оперенный пояс с меткой заклинателя",
+                    count = 1,
+                },
             },
         },
     },
