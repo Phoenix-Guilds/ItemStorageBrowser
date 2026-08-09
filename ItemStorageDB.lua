@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786259342
+ItemStorageDB_LastUpdate = 1786260899
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12113,9 +12113,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 08:12:50",
+        updated_at = "2026-08-09 10:34:59",
         money = 13104,
-        empty = 71,
+        empty = 77,
         location = "Оргриммар",
         items = {
             {
@@ -12126,7 +12126,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                 name = "Зов небес",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -12226,7 +12226,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                 name = "Двуствольный дробовик",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
@@ -12239,14 +12239,9 @@ ItemStorageDB = {
                 count = 15601,
             },
             {
-                link = "|cff1eff00|Hitem:10512:0:0:0:0:0:0:0:10|h[Бронебойные мифриловые пули]|h|r",
-                name = "Бронебойные мифриловые пули",
-                count = 5000,
-            },
-            {
                 link = "|cff1eff00|Hitem:15997:0:0:0:0:0:0:0:10|h[Ториевые патроны]|h|r",
                 name = "Ториевые патроны",
-                count = 17710,
+                count = 7710,
             },
             {
                 link = "|cff1eff00|Hitem:18042:0:0:0:0:0:0:0:10|h[Стрела с ториевым наконечником]|h|r",
@@ -12281,7 +12276,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
@@ -12310,12 +12305,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785906764,
+            last_update = 1786260719,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                     name = "Зов небес",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -12415,7 +12410,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                     name = "Двуствольный дробовик",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
@@ -12435,12 +12430,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                     name = "Лук Жгучих Стрел",
-                    count = 4,
+                    count = 3,
                 },
             },
         },
         bags = {
-            last_update = 1785906765,
+            last_update = 1786260850,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -12458,14 +12453,9 @@ ItemStorageDB = {
                     count = 15601,
                 },
                 {
-                    link = "|cff1eff00|Hitem:10512:0:0:0:0:0:0:0:10|h[Бронебойные мифриловые пули]|h|r",
-                    name = "Бронебойные мифриловые пули",
-                    count = 5000,
-                },
-                {
                     link = "|cff1eff00|Hitem:15997:0:0:0:0:0:0:0:10|h[Ториевые патроны]|h|r",
                     name = "Ториевые патроны",
-                    count = 17710,
+                    count = 7710,
                 },
                 {
                     link = "|cff1eff00|Hitem:18042:0:0:0:0:0:0:0:10|h[Стрела с ториевым наконечником]|h|r",
