@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786294278
+ItemStorageDB_LastUpdate = 1786294329
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 23:47:49",
+        updated_at = "2026-08-09 19:52:09",
         money = 92710,
-        empty = 46,
+        empty = 51,
         location = "Оргриммар",
         items = {
             {
@@ -2591,7 +2591,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
                 name = "Угрюмый жнец",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13055:0:0:0:0:0:0:0:10|h[Костеглод]|h|r",
@@ -2611,7 +2611,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                 name = "Острие Кху",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
@@ -2806,7 +2806,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:890:0:0:0:0:0:0:0:10|h[Крученый посох певчего]|h|r",
                 name = "Крученый посох певчего",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
@@ -2855,11 +2855,6 @@ ItemStorageDB = {
             },
             {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
-                name = "Щит пылающего черепа",
-                count = 1,
-            },
-            {
-                link = "|cffa335ee|Hitem:1168:1890:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
                 count = 1,
             },
@@ -2916,7 +2911,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                 name = "Клинок Крола",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
@@ -2995,7 +2990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786049190,
+            last_update = 1786294307,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3445,7 +3440,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                     name = "Клинок Крола",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
@@ -3510,7 +3505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786049249,
+            last_update = 1786294318,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3560,16 +3555,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13053:0:0:0:0:0:0:0:10|h[Носитель Рока]|h|r",
                     name = "Носитель Рока",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
-                    name = "Угрюмый жнец",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
-                    name = "Острие Кху",
                     count = 1,
                 },
                 {
@@ -3623,11 +3608,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:890:0:0:0:0:0:0:0:10|h[Крученый посох певчего]|h|r",
-                    name = "Крученый посох певчего",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:937:0:0:0:0:0:0:0:10|h[Черный посох Сумеречного леса]|h|r",
                     name = "Черный посох Сумеречного леса",
                     count = 1,
@@ -3639,11 +3619,6 @@ ItemStorageDB = {
                 },
                 {
                     link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
-                    name = "Щит пылающего черепа",
-                    count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:1168:1890:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                     name = "Щит пылающего черепа",
                     count = 1,
                 },
