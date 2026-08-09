@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786302395
+ItemStorageDB_LastUpdate = 1786305359
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20853,9 +20853,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-09 22:06:35",
+        updated_at = "2026-08-09 22:55:59",
         money = 3936,
-        empty = 44,
+        empty = 45,
         location = "Оргриммар",
         items = {
             {
@@ -21061,7 +21061,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
                 name = "Оплечье Бараньей стрижки",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
@@ -21470,7 +21470,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786302295,
+            last_update = 1786305314,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22000,7 +22000,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786302321,
+            last_update = 1786305331,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22066,11 +22066,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
                     name = "Портупея волчьего страха",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
-                    name = "Оплечье Бараньей стрижки",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
