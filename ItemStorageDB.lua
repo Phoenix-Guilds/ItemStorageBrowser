@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786294329
+ItemStorageDB_LastUpdate = 1786295409
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9592,8 +9592,8 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-09 19:47:12",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-09 20:10:09",
         money = 4062,
         empty = 122,
         location = "Оргриммар",
@@ -9721,7 +9721,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                 name = "Знак Кил'джедена",
-                count = 89,
+                count = 69,
             },
             {
                 link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
@@ -9775,7 +9775,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786294001,
+            last_update = 1786295384,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9885,7 +9885,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                     name = "Знак Кил'джедена",
-                    count = 89,
+                    count = 69,
                 },
                 {
                     link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
@@ -9940,7 +9940,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786294012,
+            last_update = 1786295397,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
