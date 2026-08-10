@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786380203
+ItemStorageDB_LastUpdate = 1786380317
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20898,9 +20898,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-10 19:43:23",
+        updated_at = "2026-08-10 19:45:17",
         money = 3936,
-        empty = 36,
+        empty = 35,
         location = "Оргриммар",
         items = {
             {
@@ -21491,7 +21491,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:14552:0:0:0:0:0:0:0:10|h[Тюремное наплечье]|h|r",
                 name = "Тюремное наплечье",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:14553:0:0:0:0:0:0:0:10|h[Кушак милосердия]|h|r",
@@ -21535,7 +21535,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786380194,
+            last_update = 1786380311,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22025,7 +22025,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:14552:0:0:0:0:0:0:0:10|h[Тюремное наплечье]|h|r",
                     name = "Тюремное наплечье",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:14553:0:0:0:0:0:0:0:10|h[Кушак милосердия]|h|r",
@@ -22065,7 +22065,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786380197,
+            last_update = 1786380312,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10332:0:0:0:0:0:0:0:10|h[Алые сапоги]|h|r",
