@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786378890
+ItemStorageDB_LastUpdate = 1786378943
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2372,10 +2372,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-09 22:03:06",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-10 19:22:23",
         money = 92710,
-        empty = 52,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -2551,7 +2551,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                 name = "Вязкий молот",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -2591,7 +2591,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
                 name = "Угрюмый жнец",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13055:0:0:0:0:0:0:0:10|h[Костеглод]|h|r",
@@ -2869,6 +2869,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
+                name = "Зеленая башня",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
                 name = "Мозгоруб",
                 count = 2,
@@ -2911,7 +2916,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                 name = "Клинок Крола",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
@@ -2990,7 +2995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786302093,
+            last_update = 1786378935,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3190,7 +3195,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13053:0:0:0:0:0:0:0:10|h[Носитель Рока]|h|r",
                     name = "Носитель Рока",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
@@ -3225,7 +3230,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
                     name = "Игольщик",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
@@ -3505,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786302121,
+            last_update = 1786378936,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3543,6 +3548,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
+                    name = "Вязкий молот",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
                     name = "Отвага Бланчарда",
                     count = 1,
@@ -3553,13 +3563,8 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:13053:0:0:0:0:0:0:0:10|h[Носитель Рока]|h|r",
-                    name = "Носитель Рока",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
-                    name = "Игольщик",
+                    link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
+                    name = "Угрюмый жнец",
                     count = 1,
                 },
                 {
@@ -3633,6 +3638,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
+                    name = "Зеленая башня",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
                     name = "Мозгоруб",
                     count = 1,
@@ -3650,6 +3660,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                     name = "Пристрелянный огнестрел",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
+                    name = "Клинок Крола",
                     count = 1,
                 },
                 {
