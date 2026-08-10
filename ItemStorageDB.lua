@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786379563
+ItemStorageDB_LastUpdate = 1786379596
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10013,7 +10013,7 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-10 19:28:04",
+        updated_at = "2026-08-10 19:33:16",
         money = 213874,
         empty = 84,
         location = "Оргриммар",
@@ -10036,7 +10036,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12037:0:0:0:0:0:0:0:10|h[Таинственное мясо]|h|r",
                 name = "Таинственное мясо",
-                count = 119,
+                count = 130,
             },
             {
                 link = "|cffffffff|Hitem:12184:0:0:0:0:0:0:0:10|h[Плоть ящера]|h|r",
@@ -10281,12 +10281,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
                 name = "Мясо моллюска",
-                count = 79,
+                count = 81,
             },
             {
                 link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                 name = "Пикантное мясо моллюска",
-                count = 25,
+                count = 30,
             },
             {
                 link = "|cffffffff|Hitem:6657:0:0:0:0:0:0:0:10|h[Загадочное острое лакомство]|h|r",
@@ -10315,7 +10315,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786379279,
+            last_update = 1786379591,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10335,7 +10335,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12037:0:0:0:0:0:0:0:10|h[Таинственное мясо]|h|r",
                     name = "Таинственное мясо",
-                    count = 119,
+                    count = 130,
                 },
                 {
                     link = "|cffffffff|Hitem:12184:0:0:0:0:0:0:0:10|h[Плоть ящера]|h|r",
@@ -10580,12 +10580,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
                     name = "Мясо моллюска",
-                    count = 79,
+                    count = 81,
                 },
                 {
                     link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
                     name = "Пикантное мясо моллюска",
-                    count = 25,
+                    count = 30,
                 },
                 {
                     link = "|cffffffff|Hitem:6657:0:0:0:0:0:0:0:10|h[Загадочное острое лакомство]|h|r",
@@ -10615,7 +10615,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786379280,
+            last_update = 1786379591,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
