@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786379210
+ItemStorageDB_LastUpdate = 1786379238
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18243,7 +18243,7 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-10 19:15:46",
+        updated_at = "2026-08-10 19:27:18",
         money = 1158902,
         empty = 93,
         location = "Оргриммар",
@@ -18331,7 +18331,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
-                count = 130,
+                count = 131,
             },
             {
                 link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
@@ -18351,7 +18351,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                 name = "Плотная паутина",
-                count = 161,
+                count = 162,
             },
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
@@ -18450,7 +18450,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786378535,
+            last_update = 1786379233,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18495,7 +18495,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                     name = "Паутина",
-                    count = 130,
+                    count = 131,
                 },
                 {
                     link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
@@ -18505,7 +18505,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                     name = "Плотная паутина",
-                    count = 161,
+                    count = 162,
                 },
                 {
                     link = "|cffffffff|Hitem:4589:0:0:0:0:0:0:0:10|h[Длинное элегантное перо]|h|r",
