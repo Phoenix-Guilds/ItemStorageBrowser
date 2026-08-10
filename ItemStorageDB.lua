@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786380317
+ItemStorageDB_LastUpdate = 1786380464
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20898,9 +20898,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-10 19:45:17",
+        updated_at = "2026-08-10 19:47:44",
         money = 3936,
-        empty = 35,
+        empty = 34,
         location = "Оргриммар",
         items = {
             {
@@ -21447,6 +21447,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:9402:0:0:0:0:0:0:0:10|h[Сотворенный землей килт]|h|r",
                 name = "Сотворенный землей килт",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
+                name = "Ремень силы голема",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
@@ -22065,7 +22070,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786380312,
+            last_update = 1786380455,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10332:0:0:0:0:0:0:0:10|h[Алые сапоги]|h|r",
@@ -22290,6 +22295,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:39894:0:0:0:0:0:-9:10:10|h[Наплечники из темноткани со знаком совы]|h|r",
                     name = "Наплечники из темноткани со знаком совы",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
+                    name = "Ремень силы голема",
                     count = 1,
                 },
                 {
