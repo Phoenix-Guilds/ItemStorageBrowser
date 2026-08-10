@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786380464
+ItemStorageDB_LastUpdate = 1786380494
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-10 19:37:44",
+        updated_at = "2026-08-10 19:48:14",
         money = 92710,
-        empty = 47,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -2856,7 +2856,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786379859,
+            last_update = 1786380485,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3630,7 +3630,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                     name = "Щит пылающего черепа",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
