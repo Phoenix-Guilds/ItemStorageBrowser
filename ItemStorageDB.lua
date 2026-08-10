@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786379284
+ItemStorageDB_LastUpdate = 1786379356
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7018,7 +7018,7 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 19:53:33",
+        updated_at = "2026-08-10 19:29:16",
         money = 181084,
         empty = 183,
         location = "Оргриммар",
@@ -7259,11 +7259,6 @@ ItemStorageDB = {
                 count = 50,
             },
             {
-                link = "|cffffffff|Hitem:4265:0:0:0:0:0:0:0:10|h[Накладки из толстой кожи]|h|r",
-                name = "Накладки из толстой кожи",
-                count = 6,
-            },
-            {
                 link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                 name = "Плотная кожа",
                 count = 188,
@@ -7271,7 +7266,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
                 name = "Шкура ящера",
-                count = 239,
+                count = 270,
             },
             {
                 link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
@@ -7580,7 +7575,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786035199,
+            last_update = 1786379336,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29533:0:0:0:0:0:0:0:10|h[Накладки для поножей из кожи кобры]|h|r",
@@ -7648,9 +7643,9 @@ ItemStorageDB = {
                     count = 26,
                 },
                 {
-                    link = "|cffffffff|Hitem:4265:0:0:0:0:0:0:0:10|h[Накладки из толстой кожи]|h|r",
-                    name = "Накладки из толстой кожи",
-                    count = 6,
+                    link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
+                    name = "Шкура ящера",
+                    count = 31,
                 },
                 {
                     link = "|cffffffff|Hitem:5373:0:0:0:0:0:0:0:10|h[Талисман на удачу]|h|r",
