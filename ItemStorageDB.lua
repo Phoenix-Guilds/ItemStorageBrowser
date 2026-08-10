@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786379839
+ItemStorageDB_LastUpdate = 1786379864
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-10 19:22:23",
+        updated_at = "2026-08-10 19:37:44",
         money = 92710,
-        empty = 48,
+        empty = 47,
         location = "Оргриммар",
         items = {
             {
@@ -2611,7 +2611,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                 name = "Острие Кху",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
@@ -2995,7 +2995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786378935,
+            last_update = 1786379858,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786378936,
+            last_update = 1786379859,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3565,6 +3565,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13054:0:0:0:0:0:0:0:10|h[Угрюмый жнец]|h|r",
                     name = "Угрюмый жнец",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
+                    name = "Острие Кху",
                     count = 1,
                 },
                 {
