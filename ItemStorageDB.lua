@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786488804
+ItemStorageDB_LastUpdate = 1786488846
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22118,7 +22118,7 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-11 23:16:08",
+        updated_at = "2026-08-12 01:54:06",
         money = 194111,
         empty = 103,
         location = "Оргриммар",
@@ -22525,7 +22525,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786479044,
+            last_update = 1786488837,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22808,6 +22808,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
+                    name = "Кольцо нижнего мира",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
                     name = "Кольцо заморозки",
                     count = 4,
@@ -22815,7 +22820,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786479045,
+            last_update = 1786488839,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22921,11 +22926,6 @@ ItemStorageDB = {
                     link = "|cffa335ee|Hitem:1443:0:0:0:0:0:0:0:10|h[Изукрашенный амулет Кайнвин]|h|r",
                     name = "Изукрашенный амулет Кайнвин",
                     count = 3,
-                },
-                {
-                    link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
-                    name = "Кольцо нижнего мира",
-                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
