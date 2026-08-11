@@ -1,8 +1,8 @@
 ## Interface: 30300
-## Title: ItemStorageBrowser |cff7fff7f v2.8.4|r
+## Title: ItemStorageBrowser |cff7fff7f v2.8.5|r
 ## Notes: A simple addon to browse item storage
 ## Author: Volodymyr Buinov
-## Version: 2.8.4
+## Version: 2.8.5
 ## SavedVariablesPerCharacter: ItemStorage_ExportData
 ## SavedVariables: ItemStorageBrowserDB, ItemStorage_Basics
 

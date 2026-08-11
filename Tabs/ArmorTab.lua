@@ -59,6 +59,8 @@ local function UpdateMultiSelectDropdownText(dropdown, options)
     end
 end
 
+local HideShoppingTooltips
+
 -- Ждем инициализации системы вкладок
 local function RegisterArmorTab()
     -- Регистрируем вкладку брони
@@ -615,7 +617,7 @@ initFrame:SetScript("OnEvent", function(self, event)
 end)
 
 -- Вспомогательная функция: прячет окна сравнения (ShoppingTooltip1/2)
-local function HideShoppingTooltips()
+HideShoppingTooltips = function()
     for i = 1, 2 do
         local st = _G["ShoppingTooltip" .. i]
         if st and st:IsShown() then

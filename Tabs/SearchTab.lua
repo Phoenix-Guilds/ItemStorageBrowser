@@ -1,5 +1,7 @@
 local addonName, ItemStorageBrowser = ...
 
+local HideShoppingTooltips
+
 -- Ждем инициализации системы вкладок
 local function RegisterSearchTab()
     -- Регистрируем вкладку поиска
@@ -261,7 +263,7 @@ initFrame:SetScript("OnEvent", function(self, event)
 end)
 
 -- Вспомогательная функция: прячет окна сравнения (ShoppingTooltip1/2)
-local function HideShoppingTooltips()
+HideShoppingTooltips = function()
     for i = 1, 2 do
         local st = _G["ShoppingTooltip" .. i]
         if st and st:IsShown() then

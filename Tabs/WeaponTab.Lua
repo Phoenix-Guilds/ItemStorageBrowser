@@ -59,6 +59,8 @@ local function UpdateMultiSelectDropdownText(dropdown, options)
     end
 end
 
+local HideShoppingTooltips
+
 local function RegisterWeaponTab()
     -- Регистрируем вкладку оружия
     ItemStorageBrowser:RegisterTab({
@@ -646,7 +648,7 @@ initFrame:SetScript("OnEvent", function(self, event)
 end)
 
 -- Вспомогательная функция: прячет окна сравнения (ShoppingTooltip1/2)
-local function HideShoppingTooltips()
+HideShoppingTooltips = function()
     for i = 1, 2 do
         local st = _G["ShoppingTooltip" .. i]
         if st and st:IsShown() then
