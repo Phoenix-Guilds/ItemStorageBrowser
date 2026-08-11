@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786457804
+ItemStorageDB_LastUpdate = 1786458440
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12547,10 +12547,10 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-11 13:10:09",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-11 17:27:20",
         money = 385478,
-        empty = 139,
+        empty = 141,
         location = "Оргриммар",
         items = {
             {
@@ -12581,7 +12581,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:11178:0:0:0:0:0:0:0:10|h[Большой светозарный осколок]|h|r",
                 name = "Большой светозарный осколок",
-                count = 121,
+                count = 100,
             },
             {
                 link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
@@ -12591,7 +12591,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                 name = "Большой сверкающий осколок",
-                count = 67,
+                count = 17,
             },
             {
                 link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12765,7 +12765,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786442996,
+            last_update = 1786458319,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12795,7 +12795,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:11178:0:0:0:0:0:0:0:10|h[Большой светозарный осколок]|h|r",
                     name = "Большой светозарный осколок",
-                    count = 121,
+                    count = 100,
                 },
                 {
                     link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
@@ -12805,7 +12805,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                     name = "Большой сверкающий осколок",
-                    count = 67,
+                    count = 17,
                 },
                 {
                     link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12950,7 +12950,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786443002,
+            last_update = 1786458337,
             items = {
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
