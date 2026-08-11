@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786457541
+ItemStorageDB_LastUpdate = 1786457804
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20817,10 +20817,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-10 19:47:44",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-11 17:16:44",
         money = 3936,
-        empty = 34,
+        empty = 36,
         location = "Оргриммар",
         items = {
             {
@@ -21106,7 +21106,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                 name = "Скелетные наплечники",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13133:0:0:0:0:0:0:0:10|h[Эполеты Драконьего огня]|h|r",
@@ -21246,7 +21246,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
                 name = "Полированная джазерентская броня",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
@@ -21460,7 +21460,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786380311,
+            last_update = 1786457630,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21840,7 +21840,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1715:0:0:0:0:0:0:0:10|h[Полированная джазерентская броня]|h|r",
                     name = "Полированная джазерентская броня",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
@@ -21990,7 +21990,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786380455,
+            last_update = 1786457676,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10332:0:0:0:0:0:0:0:10|h[Алые сапоги]|h|r",
@@ -22115,11 +22115,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
                     name = "Искрящееся оплечье",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
-                    name = "Скелетные наплечники",
                     count = 1,
                 },
                 {
