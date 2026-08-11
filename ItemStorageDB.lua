@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786476400
+ItemStorageDB_LastUpdate = 1786477316
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6518,7 +6518,7 @@ ItemStorageDB = {
     {
         name = "Карточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-11 21:23:57",
+        updated_at = "2026-08-11 22:41:56",
         money = 404282,
         empty = 144,
         location = "Оргриммар",
@@ -6661,7 +6661,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
                 name = "Колода Демонов",
-                count = 6,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
@@ -6671,22 +6671,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
                 name = "Туз из колоды Разбойников",
-                count = 33,
+                count = 39,
             },
             {
                 link = "|cffffffff|Hitem:37143:0:0:0:0:0:0:0:10|h[Двойка из колоды Разбойников]|h|r",
                 name = "Двойка из колоды Разбойников",
-                count = 32,
+                count = 37,
             },
             {
                 link = "|cffffffff|Hitem:37145:0:0:0:0:0:0:0:10|h[Туз из колоды Мечей]|h|r",
                 name = "Туз из колоды Мечей",
-                count = 13,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:37147:0:0:0:0:0:0:0:10|h[Двойка из колоды Мечей]|h|r",
                 name = "Двойка из колоды Мечей",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:37156:0:0:0:0:0:0:0:10|h[Тройка из колоды Разбойников]|h|r",
@@ -6755,7 +6755,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786472610,
+            last_update = 1786476797,
             items = {
                 {
                     link = "|cff0070dd|Hitem:19230:0:0:0:0:0:0:0:10|h[Двойка из колоды Зверей]|h|r",
@@ -6950,7 +6950,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786472628,
+            last_update = 1786476941,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
@@ -6960,7 +6960,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
                     name = "Колода Демонов",
-                    count = 6,
+                    count = 4,
                 },
                 {
                     link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
@@ -6968,14 +6968,24 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
+                    name = "Туз из колоды Разбойников",
+                    count = 6,
+                },
+                {
+                    link = "|cffffffff|Hitem:37143:0:0:0:0:0:0:0:10|h[Двойка из колоды Разбойников]|h|r",
+                    name = "Двойка из колоды Разбойников",
+                    count = 5,
+                },
+                {
                     link = "|cffffffff|Hitem:37145:0:0:0:0:0:0:0:10|h[Туз из колоды Мечей]|h|r",
                     name = "Туз из колоды Мечей",
-                    count = 13,
+                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:37147:0:0:0:0:0:0:0:10|h[Двойка из колоды Мечей]|h|r",
                     name = "Двойка из колоды Мечей",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:37159:0:0:0:0:0:0:0:10|h[Тройка из колоды Мечей]|h|r",
