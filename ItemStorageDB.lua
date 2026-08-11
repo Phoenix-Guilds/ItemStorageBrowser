@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1786458440
+ItemStorageDB_LastUpdate = 1786470381
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-11 16:56:22",
+        updated_at = "2026-08-11 20:46:21",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -1091,7 +1091,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45778:0:0:0:0:0:0:0:10|h[Символ тотема каменного когтя]|h|r",
                 name = "Символ тотема каменного когтя",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:45780:0:0:0:0:0:0:0:10|h[Символ метаморфозы]|h|r",
@@ -1170,7 +1170,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786456545,
+            last_update = 1786470346,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2245,7 +2245,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:45778:0:0:0:0:0:0:0:10|h[Символ тотема каменного когтя]|h|r",
                     name = "Символ тотема каменного когтя",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:45780:0:0:0:0:0:0:0:10|h[Символ метаморфозы]|h|r",
@@ -2325,7 +2325,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786456566,
+            last_update = 1786470363,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
