@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786479752
+ItemStorageDB_LastUpdate = 1786479834
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7668,15 +7668,15 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 08:50:15",
+        updated_at = "2026-08-11 23:23:54",
         money = 0,
-        empty = 194,
+        empty = 195,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
                 name = "Десерт из мертвечины",
-                count = 80,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7780,22 +7780,17 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785909006,
+            last_update = 1786479779,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
                     name = "Десерт из мертвечины",
-                    count = 80,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
                     name = "Мощь-рыба в кляре",
                     count = 65,
-                },
-                {
-                    link = "|cffffffff|Hitem:18045:0:0:0:0:0:0:0:10|h[Нежный стейк из волчатины]|h|r",
-                    name = "Нежный стейк из волчатины",
-                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
@@ -7890,8 +7885,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785909009,
+            last_update = 1786479797,
             items = {
+                {
+                    link = "|cffffffff|Hitem:18045:0:0:0:0:0:0:0:10|h[Нежный стейк из волчатины]|h|r",
+                    name = "Нежный стейк из волчатины",
+                    count = 16,
+                },
             },
         },
     },
