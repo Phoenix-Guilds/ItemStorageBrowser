@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786479368
+ItemStorageDB_LastUpdate = 1786479617
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5837,10 +5837,10 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-11 13:09:12",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-11 23:20:17",
         money = 421241,
-        empty = 76,
+        empty = 77,
         location = "Оргриммар",
         items = {
             {
@@ -6066,7 +6066,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12404:0:0:0:0:0:0:0:10|h[Массивное точило]|h|r",
                 name = "Массивное точило",
-                count = 251,
+                count = 231,
             },
             {
                 link = "|cffffffff|Hitem:12644:0:0:0:0:0:0:0:10|h[Массивный шлифовальный камень]|h|r",
@@ -6149,11 +6149,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffffffff|Hitem:6043:0:0:0:0:0:0:0:10|h[Железный противовес]|h|r",
-                name = "Железный противовес",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                 name = "Твердый камень",
                 count = 481,
@@ -6166,7 +6161,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7965:0:0:0:0:0:0:0:10|h[Твердое грузило]|h|r",
                 name = "Твердое грузило",
-                count = 30,
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
@@ -6175,7 +6170,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786442922,
+            last_update = 1786479508,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6410,7 +6405,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786442944,
+            last_update = 1786479572,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6440,7 +6435,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12404:0:0:0:0:0:0:0:10|h[Массивное точило]|h|r",
                     name = "Массивное точило",
-                    count = 251,
+                    count = 231,
                 },
                 {
                     link = "|cffffffff|Hitem:23528:0:0:0:0:0:0:0:10|h[Точило Скверны]|h|r",
@@ -6498,11 +6493,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:6043:0:0:0:0:0:0:0:10|h[Железный противовес]|h|r",
-                    name = "Железный противовес",
-                    count = 1,
-                },
-                {
                     link = "|cffffffff|Hitem:7964:0:0:0:0:0:0:0:10|h[Твердое точило]|h|r",
                     name = "Твердое точило",
                     count = 50,
@@ -6510,7 +6500,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7965:0:0:0:0:0:0:0:10|h[Твердое грузило]|h|r",
                     name = "Твердое грузило",
-                    count = 30,
+                    count = 25,
                 },
             },
         },
