@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786387896
+ItemStorageDB_LastUpdate = 1786437654
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9658,15 +9658,15 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-09 21:42:29",
+        updated_at = "2026-08-11 11:40:54",
         money = 4062,
-        empty = 121,
+        empty = 123,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -9686,7 +9686,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
-                count = 38,
+                count = 37,
             },
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -9706,7 +9706,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 228,
+                count = 203,
             },
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
@@ -9840,12 +9840,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786300886,
+            last_update = 1786437318,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                     name = "Латные перчатки Скверны",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -9870,7 +9870,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                     name = "Легкое перышко",
-                    count = 228,
+                    count = 203,
                 },
                 {
                     link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
@@ -10005,7 +10005,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786300890,
+            last_update = 1786437641,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
@@ -10020,7 +10020,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                     name = "Мифриловая обшивка",
-                    count = 38,
+                    count = 37,
                 },
             },
         },
