@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786524159
+ItemStorageDB_LastUpdate = 1786524463
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8307,10 +8307,10 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 19:50:18",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-12 11:47:43",
         money = 141967,
-        empty = 149,
+        empty = 162,
         location = "Оргриммар",
         items = {
             {
@@ -8346,12 +8346,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                 name = "Серебряная руда",
-                count = 110,
+                count = 60,
             },
             {
                 link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
                 name = "Золотая руда",
-                count = 419,
+                count = 369,
             },
             {
                 link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
@@ -8429,24 +8429,19 @@ ItemStorageDB = {
                 count = 8,
             },
             {
-                link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
-                name = "Медная руда",
-                count = 50,
-            },
-            {
                 link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                 name = "Оловянная руда",
-                count = 242,
+                count = 100,
             },
             {
                 link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
                 name = "Железная руда",
-                count = 685,
+                count = 550,
             },
             {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                 name = "Бронзовый слиток",
-                count = 129,
+                count = 75,
             },
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
@@ -8456,7 +8451,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
                 name = "Оловянный слиток",
-                count = 210,
+                count = 160,
             },
             {
                 link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
@@ -8476,7 +8471,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                 name = "Мифриловая руда",
-                count = 334,
+                count = 200,
             },
             {
                 link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
@@ -8490,7 +8485,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786035013,
+            last_update = 1786524436,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8525,12 +8520,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                     name = "Серебряная руда",
-                    count = 110,
+                    count = 60,
                 },
                 {
                     link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
                     name = "Золотая руда",
-                    count = 419,
+                    count = 369,
                 },
                 {
                     link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
@@ -8608,24 +8603,19 @@ ItemStorageDB = {
                     count = 8,
                 },
                 {
-                    link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
-                    name = "Медная руда",
-                    count = 50,
-                },
-                {
                     link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                     name = "Оловянная руда",
-                    count = 242,
+                    count = 100,
                 },
                 {
                     link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
                     name = "Железная руда",
-                    count = 685,
+                    count = 550,
                 },
                 {
                     link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                     name = "Бронзовый слиток",
-                    count = 129,
+                    count = 74,
                 },
                 {
                     link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
@@ -8635,7 +8625,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
                     name = "Оловянный слиток",
-                    count = 210,
+                    count = 160,
                 },
                 {
                     link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
@@ -8655,7 +8645,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                     name = "Мифриловая руда",
-                    count = 334,
+                    count = 200,
                 },
                 {
                     link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
@@ -8670,8 +8660,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786035013,
+            last_update = 1786524437,
             items = {
+                {
+                    link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
+                    name = "Бронзовый слиток",
+                    count = 1,
+                },
             },
         },
     },
