@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786523773
+ItemStorageDB_LastUpdate = 1786524159
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8677,8 +8677,8 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-11 16:55:08",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-12 11:42:39",
         money = 208636,
         empty = 70,
         location = "Оргриммар",
@@ -8896,7 +8896,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
                 name = "Зелье простой невидимости",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:3824:0:0:0:0:0:0:0:10|h[Масло Тьмы]|h|r",
@@ -8911,7 +8911,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
                 name = "Масло льда",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
@@ -9121,11 +9121,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                 name = "Лечебное зелье",
-                count = 100,
+                count = 99,
             },
         },
         bank = {
-            last_update = 1786456409,
+            last_update = 1786523891,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9270,7 +9270,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
                     name = "Зелье простой невидимости",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:3824:0:0:0:0:0:0:0:10|h[Масло Тьмы]|h|r",
@@ -9285,7 +9285,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
                     name = "Масло льда",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:40068:0:0:0:0:0:0:0:10|h[Эликсир гнева]|h|r",
@@ -9480,7 +9480,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786456468,
+            last_update = 1786524047,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9570,7 +9570,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                     name = "Лечебное зелье",
-                    count = 100,
+                    count = 99,
                 },
             },
         },
