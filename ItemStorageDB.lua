@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786524463
+ItemStorageDB_LastUpdate = 1786524639
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8673,9 +8673,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-12 11:42:39",
+        updated_at = "2026-08-12 11:50:39",
         money = 208636,
-        empty = 70,
+        empty = 71,
         location = "Оргриммар",
         items = {
             {
@@ -8711,7 +8711,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
                 name = "Наилучший эликсир защиты",
-                count = 27,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
@@ -8821,7 +8821,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:28102:0:0:0:0:0:0:0:10|h[Эликсир натиска]|h|r",
                 name = "Эликсир натиска",
-                count = 62,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:28103:0:0:0:0:0:0:0:10|h[Эликсир адепта]|h|r",
@@ -9096,7 +9096,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
                 name = "Сильный эликсир ловкости",
-                count = 68,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
@@ -9120,7 +9120,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786523891,
+            last_update = 1786524574,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9140,7 +9140,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13445:0:0:0:0:0:0:0:10|h[Наилучший эликсир защиты]|h|r",
                     name = "Наилучший эликсир защиты",
-                    count = 27,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:13447:0:0:0:0:0:0:0:10|h[Эликсир мудрецов]|h|r",
@@ -9210,7 +9210,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:28102:0:0:0:0:0:0:0:10|h[Эликсир натиска]|h|r",
                     name = "Эликсир натиска",
-                    count = 62,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:28103:0:0:0:0:0:0:0:10|h[Эликсир адепта]|h|r",
@@ -9455,7 +9455,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
                     name = "Сильный эликсир ловкости",
-                    count = 68,
+                    count = 53,
                 },
                 {
                     link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
@@ -9475,7 +9475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786524047,
+            last_update = 1786524625,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
