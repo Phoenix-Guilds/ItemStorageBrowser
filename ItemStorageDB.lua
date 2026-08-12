@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786458440
+ItemStorageDB_LastUpdate = 1786519881
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4868,9 +4868,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-10 21:02:03",
+        updated_at = "2026-08-12 10:31:21",
         money = 999680,
-        empty = 121,
+        empty = 122,
         location = "Оргриммар",
         items = {
             {
@@ -5007,11 +5007,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
                 name = "Субстанция Земли",
                 count = 5,
-            },
-            {
-                link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
-                name = "Субстанция Огня",
-                count = 12,
             },
             {
                 link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
@@ -5185,7 +5180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786384723,
+            last_update = 1786519683,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5286,11 +5281,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
                     name = "Субстанция Земли",
                     count = 5,
-                },
-                {
-                    link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
-                    name = "Субстанция Огня",
-                    count = 12,
                 },
                 {
                     link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
@@ -5440,7 +5430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786384736,
+            last_update = 1786519705,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
