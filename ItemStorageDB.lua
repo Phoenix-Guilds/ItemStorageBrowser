@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786523701
+ItemStorageDB_LastUpdate = 1786523773
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4807,10 +4807,10 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-12 10:31:21",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-12 11:36:13",
         money = 999680,
-        empty = 122,
+        empty = 123,
         location = "Оргриммар",
         items = {
             {
@@ -5054,11 +5054,6 @@ ItemStorageDB = {
                 count = 57,
             },
             {
-                link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
-                name = "Синяя жемчужина",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
                 count = 44,
@@ -5120,7 +5115,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786519683,
+            last_update = 1786523756,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5370,7 +5365,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786519705,
+            last_update = 1786523765,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5420,11 +5415,6 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
                     name = "Ткань Скверны",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
-                    name = "Синяя жемчужина",
                     count = 1,
                 },
                 {
