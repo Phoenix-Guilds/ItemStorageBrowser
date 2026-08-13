@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786628688
+ItemStorageDB_LastUpdate = 1786652925
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20838,9 +20838,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-13 16:42:01",
+        updated_at = "2026-08-13 23:28:45",
         money = 3936,
-        empty = 54,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -21001,7 +21001,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
                 name = "Мантия тигриного прыжка",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
@@ -21445,7 +21445,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786628403,
+            last_update = 1786652840,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10332:0:0:0:0:0:0:0:10|h[Алые сапоги]|h|r",
@@ -21970,7 +21970,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786628464,
+            last_update = 1786652854,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10403:0:0:0:0:0:0:0:10|h[Черненый пояс Братства Справедливости]|h|r",
@@ -22006,11 +22006,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                     name = "Броня гидролиска",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
-                    name = "Мантия тигриного прыжка",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
