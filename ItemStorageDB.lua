@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786605365
+ItemStorageDB_LastUpdate = 1786605872
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2343,9 +2343,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-12 18:59:29",
+        updated_at = "2026-08-13 10:24:32",
         money = 92710,
-        empty = 57,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -2441,7 +2441,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13018:0:0:0:0:0:0:0:10|h[Колун палача]|h|r",
                 name = "Колун палача",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
@@ -2769,11 +2769,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:890:0:0:0:0:0:0:0:10|h[Крученый посох певчего]|h|r",
-                name = "Крученый посох певчего",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
                 name = "Жнец Сталвана",
                 count = 2,
@@ -2781,11 +2776,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9359:0:0:0:0:0:0:0:10|h[Третья нога Вирта]|h|r",
                 name = "Третья нога Вирта",
-                count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
-                name = "Короткий меч Ночного Дозора",
                 count = 2,
             },
             {
@@ -2950,7 +2940,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786550211,
+            last_update = 1786605751,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3040,7 +3030,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13018:0:0:0:0:0:0:0:10|h[Колун палача]|h|r",
                     name = "Колун палача",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
@@ -3323,11 +3313,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:890:0:0:0:0:0:0:0:10|h[Крученый посох певчего]|h|r",
-                    name = "Крученый посох певчего",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
                     name = "Жнец Сталвана",
                     count = 2,
@@ -3335,11 +3320,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9359:0:0:0:0:0:0:0:10|h[Третья нога Вирта]|h|r",
                     name = "Третья нога Вирта",
-                    count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
-                    name = "Короткий меч Ночного Дозора",
                     count = 2,
                 },
                 {
@@ -3460,7 +3440,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786550223,
+            last_update = 1786605803,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
