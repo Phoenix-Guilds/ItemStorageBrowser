@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786610246
+ItemStorageDB_LastUpdate = 1786615115
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8637,10 +8637,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-12 11:50:39",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-13 12:58:35",
         money = 208636,
-        empty = 71,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -8664,9 +8664,14 @@ ItemStorageDB = {
                 count = 105,
             },
             {
+                link = "|cffffffff|Hitem:13442:0:0:0:0:0:0:0:10|h[Мощное зелье ярости]|h|r",
+                name = "Мощное зелье ярости",
+                count = 8,
+            },
+            {
                 link = "|cffffffff|Hitem:13443:0:0:0:0:0:0:0:10|h[Большой флакон с зельем маны]|h|r",
                 name = "Большой флакон с зельем маны",
-                count = 17,
+                count = 36,
             },
             {
                 link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
@@ -8709,9 +8714,34 @@ ItemStorageDB = {
                 count = 10,
             },
             {
+                link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
+                name = "Снолист",
+                count = 76,
+            },
+            {
+                link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
+                name = "Горный серебряный шалфей",
+                count = 2,
+            },
+            {
+                link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
+                name = "Чумоцвет",
+                count = 29,
+            },
+            {
+                link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
+                name = "Ледяной зев",
+                count = 22,
+            },
+            {
                 link = "|cffffffff|Hitem:13512:0:0:0:0:0:0:0:10|h[Настой великой силы]|h|r",
                 name = "Настой великой силы",
                 count = 33,
+            },
+            {
+                link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
+                name = "Пыль иллюзий",
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
@@ -8871,7 +8901,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
                 name = "Масло льда",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
@@ -9024,6 +9054,11 @@ ItemStorageDB = {
                 count = 15,
             },
             {
+                link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
+                name = "Пастушья сумка",
+                count = 12,
+            },
+            {
                 link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
                 name = "Эликсир ловкости",
                 count = 17,
@@ -9041,7 +9076,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
                 name = "Эликсир обнаружения нежити",
-                count = 16,
+                count = 36,
             },
             {
                 link = "|cffffffff|Hitem:9155:0:0:0:0:0:0:0:10|h[Чародейский эликсир]|h|r",
@@ -9085,7 +9120,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786524574,
+            last_update = 1786614586,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9245,7 +9280,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
                     name = "Масло льда",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:40068:0:0:0:0:0:0:0:10|h[Эликсир гнева]|h|r",
@@ -9440,7 +9475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786524625,
+            last_update = 1786615101,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9448,9 +9483,14 @@ ItemStorageDB = {
                     count = 113,
                 },
                 {
+                    link = "|cffffffff|Hitem:13442:0:0:0:0:0:0:0:10|h[Мощное зелье ярости]|h|r",
+                    name = "Мощное зелье ярости",
+                    count = 8,
+                },
+                {
                     link = "|cffffffff|Hitem:13443:0:0:0:0:0:0:0:10|h[Большой флакон с зельем маны]|h|r",
                     name = "Большой флакон с зельем маны",
-                    count = 17,
+                    count = 36,
                 },
                 {
                     link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
@@ -9461,6 +9501,31 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
                     name = "Огромный флакон с лечебным зельем",
                     count = 129,
+                },
+                {
+                    link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
+                    name = "Снолист",
+                    count = 76,
+                },
+                {
+                    link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
+                    name = "Горный серебряный шалфей",
+                    count = 2,
+                },
+                {
+                    link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
+                    name = "Чумоцвет",
+                    count = 29,
+                },
+                {
+                    link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
+                    name = "Ледяной зев",
+                    count = 22,
+                },
+                {
+                    link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
+                    name = "Пыль иллюзий",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
@@ -9526,6 +9591,16 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                     name = "Средний флакон с зельем маны",
                     count = 226,
+                },
+                {
+                    link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
+                    name = "Пастушья сумка",
+                    count = 12,
+                },
+                {
+                    link = "|cffffffff|Hitem:9154:0:0:0:0:0:0:0:10|h[Эликсир обнаружения нежити]|h|r",
+                    name = "Эликсир обнаружения нежити",
+                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
