@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786607992
+ItemStorageDB_LastUpdate = 1786609577
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8272,10 +8272,10 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-12 11:47:43",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-13 11:26:17",
         money = 141967,
-        empty = 162,
+        empty = 163,
         location = "Оргриммар",
         items = {
             {
@@ -8406,7 +8406,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                 name = "Бронзовый слиток",
-                count = 75,
+                count = 74,
             },
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
@@ -8450,7 +8450,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786524436,
+            last_update = 1786609534,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8610,7 +8610,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                     name = "Мифриловая руда",
-                    count = 200,
+                    count = 150,
                 },
                 {
                     link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
@@ -8625,12 +8625,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786524437,
+            last_update = 1786609536,
             items = {
                 {
-                    link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
-                    name = "Бронзовый слиток",
-                    count = 1,
+                    link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
+                    name = "Мифриловая руда",
+                    count = 50,
                 },
             },
         },
