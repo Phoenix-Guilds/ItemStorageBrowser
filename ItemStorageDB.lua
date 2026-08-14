@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786699675
+ItemStorageDB_LastUpdate = 1786699701
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4793,7 +4793,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-14 12:20:52",
+        updated_at = "2026-08-14 12:28:21",
         money = 999680,
         empty = 121,
         location = "Оргриммар",
@@ -4906,7 +4906,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
                 name = "Жемчужина Северного моря",
-                count = 26,
+                count = 27,
             },
             {
                 link = "|cff1eff00|Hitem:36860:0:0:0:0:0:0:0:10|h[Извечный огонь]|h|r",
@@ -4916,7 +4916,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                 name = "Северный лотос",
-                count = 20,
+                count = 21,
             },
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
@@ -5036,7 +5036,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
                 name = "Кристаллизованная вода",
-                count = 57,
+                count = 62,
             },
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
@@ -5091,7 +5091,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
                 name = "Настой большого колдунства",
-                count = 68,
+                count = 80,
             },
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
@@ -5100,7 +5100,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786699244,
+            last_update = 1786699696,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5195,7 +5195,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                     name = "Северный лотос",
-                    count = 20,
+                    count = 21,
                 },
                 {
                     link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -5290,7 +5290,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
                     name = "Кристаллизованная вода",
-                    count = 57,
+                    count = 62,
                 },
                 {
                     link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
@@ -5345,7 +5345,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
                     name = "Настой большого колдунства",
-                    count = 68,
+                    count = 80,
                 },
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
@@ -5355,7 +5355,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786699246,
+            last_update = 1786699697,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5380,7 +5380,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
                     name = "Жемчужина Северного моря",
-                    count = 26,
+                    count = 27,
                 },
                 {
                     link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
