@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786652990
+ItemStorageDB_LastUpdate = 1786686167
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18118,7 +18118,7 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-13 10:16:05",
+        updated_at = "2026-08-14 08:42:47",
         money = 1158902,
         empty = 95,
         location = "Оргриммар",
@@ -18325,7 +18325,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786605356,
+            last_update = 1786686130,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
