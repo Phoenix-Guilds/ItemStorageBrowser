@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786699902
+ItemStorageDB_LastUpdate = 1786699928
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19188,7 +19188,7 @@ ItemStorageDB = {
     {
         name = "Царапучка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-14 12:15:39",
+        updated_at = "2026-08-14 12:32:08",
         money = 14656,
         empty = 108,
         location = "Оргриммар",
@@ -19196,7 +19196,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
                 name = "Большая ядовитая железа",
-                count = 15,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
@@ -19225,12 +19225,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786380644,
+            last_update = 1786699924,
             items = {
                 {
                     link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
                     name = "Большая ядовитая железа",
-                    count = 15,
+                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
@@ -19255,18 +19255,13 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
                     name = "Большой клык",
-                    count = 124,
+                    count = 130,
                 },
             },
         },
         bags = {
-            last_update = 1786698933,
+            last_update = 1786699924,
             items = {
-                {
-                    link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
-                    name = "Большой клык",
-                    count = 6,
-                },
             },
         },
     },
