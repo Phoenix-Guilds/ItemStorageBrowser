@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786722049
+ItemStorageDB_LastUpdate = 1786722186
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20937,10 +20937,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-14 12:40:02",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-14 18:43:06",
         money = 3936,
-        empty = 38,
+        empty = 39,
         location = "Оргриммар",
         items = {
             {
@@ -20957,11 +20957,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                 name = "Перчатки Волшебного кулака",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
-                name = "Пояс вестника шторма",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21570,7 +21565,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786700395,
+            last_update = 1786722095,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10332:0:0:0:0:0:0:0:10|h[Алые сапоги]|h|r",
@@ -22095,7 +22090,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786700396,
+            last_update = 1786722133,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10403:0:0:0:0:0:0:0:10|h[Черненый пояс Братства Справедливости]|h|r",
@@ -22105,11 +22100,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                     name = "Перчатки Волшебного кулака",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
-                    name = "Пояс вестника шторма",
                     count = 1,
                 },
                 {
