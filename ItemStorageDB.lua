@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786689795
+ItemStorageDB_LastUpdate = 1786693385
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3632,10 +3632,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-06 20:22:10",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-14 10:43:05",
         money = 158410,
-        empty = 139,
+        empty = 140,
         location = "Оргриммар",
         items = {
             {
@@ -3661,11 +3661,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
                 name = "Клинок обретенного знания",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31153:0:0:0:0:0:0:0:10|h[Топор Легиона]|h|r",
-                name = "Топор Легиона",
                 count = 1,
             },
             {
@@ -3820,7 +3815,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786036924,
+            last_update = 1786693221,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3845,11 +3840,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
                     name = "Клинок обретенного знания",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31153:0:0:0:0:0:0:0:10|h[Топор Легиона]|h|r",
-                    name = "Топор Легиона",
                     count = 1,
                 },
                 {
@@ -3978,11 +3968,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:40670:0:0:0:0:0:0:0:10|h[Саронитовый защитник]|h|r",
-                    name = "Саронитовый защитник",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:41245:0:0:0:0:0:0:0:10|h[Смертоносный саронитовый кортик]|h|r",
                     name = "Смертоносный саронитовый кортик",
                     count = 1,
@@ -4005,8 +3990,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786036926,
+            last_update = 1786693223,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:40670:0:0:0:0:0:0:0:10|h[Саронитовый защитник]|h|r",
+                    name = "Саронитовый защитник",
+                    count = 1,
+                },
             },
         },
     },
