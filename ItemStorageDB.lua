@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786700167
+ItemStorageDB_LastUpdate = 1786700194
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20978,9 +20978,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-14 12:26:04",
+        updated_at = "2026-08-14 12:36:34",
         money = 3936,
-        empty = 43,
+        empty = 41,
         location = "Оргриммар",
         items = {
             {
@@ -20999,6 +20999,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
+                name = "Пояс вестника шторма",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
                 count = 1,
@@ -21012,6 +21017,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12988:0:0:0:0:0:0:0:10|h[Мундир Звездного зрения]|h|r",
                 name = "Мундир Звездного зрения",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
+                name = "Рукавицы Торбии",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
@@ -21590,7 +21600,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786699557,
+            last_update = 1786700187,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10332:0:0:0:0:0:0:0:10|h[Алые сапоги]|h|r",
@@ -22115,7 +22125,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786699558,
+            last_update = 1786700189,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10403:0:0:0:0:0:0:0:10|h[Черненый пояс Братства Справедливости]|h|r",
@@ -22125,6 +22135,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                     name = "Перчатки Волшебного кулака",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
+                    name = "Пояс вестника шторма",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
+                    name = "Рукавицы Торбии",
                     count = 1,
                 },
                 {
