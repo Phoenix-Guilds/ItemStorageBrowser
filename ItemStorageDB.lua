@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786698818
+ItemStorageDB_LastUpdate = 1786698843
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4792,10 +4792,10 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-12 12:01:05",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-14 12:14:03",
         money = 999680,
-        empty = 123,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -4934,6 +4934,11 @@ ItemStorageDB = {
                 count = 5,
             },
             {
+                link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
+                name = "Субстанция Огня",
+                count = 12,
+            },
+            {
                 link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
                 name = "Субстанция Воды",
                 count = 14,
@@ -4941,12 +4946,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 50,
+                count = 51,
             },
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 11,
+                count = 31,
             },
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
@@ -5066,7 +5071,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 58,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5100,7 +5105,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786525252,
+            last_update = 1786381188,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5203,6 +5208,11 @@ ItemStorageDB = {
                     count = 5,
                 },
                 {
+                    link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
+                    name = "Субстанция Огня",
+                    count = 12,
+                },
+                {
                     link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
                     name = "Субстанция Воды",
                     count = 14,
@@ -5210,7 +5220,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                     name = "Дикая лоза",
-                    count = 11,
+                    count = 31,
                 },
                 {
                     link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
@@ -5320,7 +5330,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                     name = "Сердце огня",
-                    count = 58,
+                    count = 59,
                 },
                 {
                     link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5350,7 +5360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786525258,
+            last_update = 1786698836,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5390,7 +5400,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                     name = "Черная жемчужина",
-                    count = 50,
+                    count = 51,
                 },
                 {
                     link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
