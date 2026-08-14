@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786700885
+ItemStorageDB_LastUpdate = 1786722049
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2372,10 +2372,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-14 12:39:23",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-14 18:40:49",
         money = 92710,
-        empty = 55,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -2402,11 +2402,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12974:0:0:0:0:0:0:0:10|h[Черный рыцарь]|h|r",
                 name = "Черный рыцарь",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
-                name = "Топор геолога",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -2980,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786700356,
+            last_update = 1786721935,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3001,11 +2996,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:12974:0:0:0:0:0:0:0:10|h[Черный рыцарь]|h|r",
                     name = "Черный рыцарь",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
-                    name = "Топор геолога",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
@@ -3495,7 +3485,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786700357,
+            last_update = 1786721977,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
