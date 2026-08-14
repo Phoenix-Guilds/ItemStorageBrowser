@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786700236
+ItemStorageDB_LastUpdate = 1786700363
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2373,9 +2373,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-14 12:37:16",
+        updated_at = "2026-08-14 12:39:23",
         money = 92710,
-        empty = 58,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -2406,6 +2406,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
+                name = "Клинок Многоглаза",
                 count = 1,
             },
             {
@@ -2471,7 +2476,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13018:0:0:0:0:0:0:0:10|h[Колун палача]|h|r",
                 name = "Колун палача",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
@@ -2526,7 +2531,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13041:0:0:0:0:0:0:0:10|h[Клинок стража]|h|r",
                 name = "Клинок стража",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13042:0:0:0:0:0:0:0:10|h[Меч мирового судьи]|h|r",
@@ -2975,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786700228,
+            last_update = 1786700356,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3000,6 +3005,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                     name = "Топор геолога",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
+                    name = "Клинок Многоглаза",
                     count = 1,
                 },
                 {
@@ -3065,7 +3075,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13018:0:0:0:0:0:0:0:10|h[Колун палача]|h|r",
                     name = "Колун палача",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
@@ -3115,7 +3125,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13041:0:0:0:0:0:0:0:10|h[Клинок стража]|h|r",
                     name = "Клинок стража",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13042:0:0:0:0:0:0:0:10|h[Меч мирового судьи]|h|r",
@@ -3485,7 +3495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786700231,
+            last_update = 1786700357,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
