@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786699078
+ItemStorageDB_LastUpdate = 1786699108
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9707,8 +9707,8 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-13 13:37:07",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-14 12:18:28",
         money = 4062,
         empty = 121,
         location = "Оргриммар",
@@ -9801,7 +9801,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 718,
+                count = 727,
             },
             {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -9876,7 +9876,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 89,
+                count = 79,
             },
             {
                 link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -9895,7 +9895,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786616763,
+            last_update = 1786699102,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9965,7 +9965,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                     name = "Средоточие Стихий",
-                    count = 718,
+                    count = 727,
                 },
                 {
                     link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -10040,7 +10040,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                     name = "Жареное крыло канюка",
-                    count = 89,
+                    count = 79,
                 },
                 {
                     link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -10060,7 +10060,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786617390,
+            last_update = 1786699103,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
