@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786700363
+ItemStorageDB_LastUpdate = 1786700402
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21003,9 +21003,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-14 12:36:34",
+        updated_at = "2026-08-14 12:40:02",
         money = 3936,
-        empty = 41,
+        empty = 38,
         location = "Оргриммар",
         items = {
             {
@@ -21069,9 +21069,19 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
+                name = "Набедренники Снопевца",
+                count = 2,
+            },
+            {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
                 name = "Отделанный серебром пояс",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
+                name = "Наручи Йоргена",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -21625,7 +21635,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786700187,
+            last_update = 1786700395,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10332:0:0:0:0:0:0:0:10|h[Алые сапоги]|h|r",
@@ -22150,7 +22160,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786700189,
+            last_update = 1786700396,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10403:0:0:0:0:0:0:0:10|h[Черненый пояс Братства Справедливости]|h|r",
@@ -22170,6 +22180,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
                     name = "Рукавицы Торбии",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
+                    name = "Набедренники Снопевца",
+                    count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
+                    name = "Наручи Йоргена",
                     count = 1,
                 },
                 {
