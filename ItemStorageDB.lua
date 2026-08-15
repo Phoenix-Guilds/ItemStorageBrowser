@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786776236
+ItemStorageDB_LastUpdate = 1786776395
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12142,10 +12142,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-09 10:34:59",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-15 09:46:35",
         money = 13104,
-        empty = 77,
+        empty = 79,
         location = "Оргриммар",
         items = {
             {
@@ -12156,7 +12156,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                 name = "Зов небес",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -12211,12 +12211,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                 name = "Громодерево",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -12296,7 +12296,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -12335,12 +12335,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786260719,
+            last_update = 1786776268,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                     name = "Зов небес",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -12395,12 +12395,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                     name = "Громодерево",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                     name = "Звездопад",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -12450,7 +12450,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                     name = "Пристрелянный огнестрел",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -12465,7 +12465,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786260850,
+            last_update = 1786776285,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
