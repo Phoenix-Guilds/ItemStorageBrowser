@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786782750
+ItemStorageDB_LastUpdate = 1786784690
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2383,9 +2383,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-14 18:40:49",
+        updated_at = "2026-08-15 12:04:50",
         money = 92710,
-        empty = 56,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -2966,7 +2966,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
                 name = "Огненная секира",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
@@ -2985,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786721935,
+            last_update = 1786784646,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3495,7 +3495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786721977,
+            last_update = 1786784668,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3640,11 +3640,6 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
                     name = "Ослепительный длинный меч",
-                    count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
-                    name = "Огненная секира",
                     count = 1,
                 },
                 {
