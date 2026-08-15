@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786776169
+ItemStorageDB_LastUpdate = 1786776236
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8662,8 +8662,8 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-13 12:58:35",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-15 09:43:56",
         money = 208636,
         empty = 63,
         location = "Оргриммар",
@@ -8896,7 +8896,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
                 name = "Эликсир Защиты",
-                count = 35,
+                count = 33,
             },
             {
                 link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
@@ -9145,7 +9145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786614586,
+            last_update = 1786776203,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9280,7 +9280,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
                     name = "Эликсир Защиты",
-                    count = 35,
+                    count = 33,
                 },
                 {
                     link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
@@ -9500,7 +9500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786615101,
+            last_update = 1786776215,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
