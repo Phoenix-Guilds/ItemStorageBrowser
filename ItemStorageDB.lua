@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1786776037
+ItemStorageDB_LastUpdate = 1786776169
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-15 09:40:37",
+        updated_at = "2026-08-15 09:42:49",
         money = 339404,
         empty = 109,
         location = "Оргриммар",
@@ -31,7 +31,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40900:0:0:0:0:0:0:0:10|h[Символ увечья]|h|r",
                 name = "Символ увечья",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:40901:0:0:0:0:0:0:0:10|h[Символ полосования]|h|r",
@@ -1185,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786776018,
+            last_update = 1786776067,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1205,7 +1205,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40900:0:0:0:0:0:0:0:10|h[Символ увечья]|h|r",
                     name = "Символ увечья",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:40901:0:0:0:0:0:0:0:10|h[Символ полосования]|h|r",
@@ -2360,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786776025,
+            last_update = 1786776072,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
