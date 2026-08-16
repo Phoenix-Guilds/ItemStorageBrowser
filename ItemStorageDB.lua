@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786895814
+ItemStorageDB_LastUpdate = 1786896771
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12433,7 +12433,7 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-16 16:59:03",
+        updated_at = "2026-08-16 19:12:51",
         money = 385478,
         empty = 149,
         location = "Оргриммар",
@@ -12476,7 +12476,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                 name = "Большой сверкающий осколок",
-                count = 17,
+                count = 11,
             },
             {
                 link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12526,7 +12526,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                 name = "Великая вечная субстанция",
-                count = 22,
+                count = 18,
             },
             {
                 link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
@@ -12650,7 +12650,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786888726,
+            last_update = 1786896755,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12690,7 +12690,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
                     name = "Большой сверкающий осколок",
-                    count = 17,
+                    count = 11,
                 },
                 {
                     link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -12740,7 +12740,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                     name = "Великая вечная субстанция",
-                    count = 22,
+                    count = 18,
                 },
                 {
                     link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
@@ -12835,7 +12835,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786888732,
+            last_update = 1786896764,
             items = {
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
