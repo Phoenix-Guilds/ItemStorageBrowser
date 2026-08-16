@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786895338
+ItemStorageDB_LastUpdate = 1786895814
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12042,10 +12042,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-15 09:46:35",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-16 18:56:54",
         money = 13104,
-        empty = 79,
+        empty = 81,
         location = "Оргриммар",
         items = {
             {
@@ -12066,7 +12066,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                 name = "Короткий лук из когтя гарпии",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
@@ -12136,7 +12136,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                 name = "Железноткач",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -12211,7 +12211,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
                 name = "Смертоносный прицел",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
@@ -12235,7 +12235,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786776268,
+            last_update = 1786895662,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12250,7 +12250,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                     name = "Короткий лук из когтя гарпии",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
@@ -12320,7 +12320,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                     name = "Железноткач",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -12365,7 +12365,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786776285,
+            last_update = 1786895791,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -12405,7 +12405,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
                     name = "Смертоносный прицел",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
