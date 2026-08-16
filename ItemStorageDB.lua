@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1786905747
+ItemStorageDB_LastUpdate = 1786905830
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-15 11:15:49",
+        updated_at = "2026-08-16 21:43:50",
         money = 339404,
-        empty = 108,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -426,7 +426,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42741:0:0:0:0:0:0:0:10|h[Символ кольца льда]|h|r",
                 name = "Символ кольца льда",
-                count = 11,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:42743:0:0:0:0:0:0:0:10|h[Символ ледяного доспеха]|h|r",
@@ -436,7 +436,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42744:0:0:0:0:0:0:0:10|h[Символ ледяной глыбы]|h|r",
                 name = "Символ ледяной глыбы",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:42745:0:0:0:0:0:0:0:10|h[Символ ледяного копья]|h|r",
@@ -487,11 +487,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
                 name = "Символ духа зверя",
                 count = 3,
-            },
-            {
-                link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
-                name = "Символ лечения",
-                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -721,7 +716,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                 name = "Символ замедленного падения",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:43365:0:0:0:0:0:0:0:10|h[Символ благословения королей]|h|r",
@@ -1190,7 +1185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786780158,
+            last_update = 1786905804,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1605,7 +1600,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42741:0:0:0:0:0:0:0:10|h[Символ кольца льда]|h|r",
                     name = "Символ кольца льда",
-                    count = 11,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:42743:0:0:0:0:0:0:0:10|h[Символ ледяного доспеха]|h|r",
@@ -1615,7 +1610,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42744:0:0:0:0:0:0:0:10|h[Символ ледяной глыбы]|h|r",
                     name = "Символ ледяной глыбы",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:42745:0:0:0:0:0:0:0:10|h[Символ ледяного копья]|h|r",
@@ -1666,11 +1661,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
                     name = "Символ духа зверя",
                     count = 3,
-                },
-                {
-                    link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
-                    name = "Символ лечения",
-                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -1900,7 +1890,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                     name = "Символ замедленного падения",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:43365:0:0:0:0:0:0:0:10|h[Символ благословения королей]|h|r",
@@ -2370,7 +2360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786781733,
+            last_update = 1786905815,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
