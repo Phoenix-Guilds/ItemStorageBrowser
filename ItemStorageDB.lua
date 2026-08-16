@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1786906664
+ItemStorageDB_LastUpdate = 1786907768
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20698,9 +20698,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-16 21:55:05",
+        updated_at = "2026-08-16 22:16:08",
         money = 3936,
-        empty = 54,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -20851,11 +20851,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13105:0:0:0:0:0:0:0:10|h[Опоясок Сутарна]|h|r",
                 name = "Опоясок Сутарна",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
-                name = "Светящиеся магические браслеты",
                 count = 1,
             },
             {
@@ -21164,11 +21159,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
-                name = "Святой капюшон",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
                 name = "Черные бархатные одеяния",
                 count = 3,
@@ -21300,7 +21290,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786906346,
+            last_update = 1786907621,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21440,11 +21430,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13105:0:0:0:0:0:0:0:10|h[Опоясок Сутарна]|h|r",
                     name = "Опоясок Сутарна",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
-                    name = "Светящиеся магические браслеты",
                     count = 1,
                 },
                 {
@@ -21713,11 +21698,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
-                    name = "Святой капюшон",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                     name = "Ремень Келлера",
                     count = 1,
@@ -21815,7 +21795,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786906499,
+            last_update = 1786907637,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10403:0:0:0:0:0:0:0:10|h[Черненый пояс Братства Справедливости]|h|r",
