@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787571737
+ItemStorageDB_LastUpdate = 1787571963
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15912,10 +15912,10 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-24 10:00:04",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-24 14:46:03",
         money = 108852,
-        empty = 61,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -16316,11 +16316,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3205:0:0:0:0:0:0:0:10|h[Покрытые письменами кожаные наручи]|h|r",
                 name = "Покрытые письменами кожаные наручи",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:3212:856:0:0:0:0:0:0:10|h[Отблескивающие чешуйчатые наручи]|h|r",
-                name = "Отблескивающие чешуйчатые наручи",
                 count = 1,
             },
             {
@@ -16795,7 +16790,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787554678,
+            last_update = 1787571768,
             items = {
                 {
                     link = "|cff1eff00|Hitem:1355:884:0:0:0:0:0:0:10|h[Замшевая накидка]|h|r",
@@ -17030,11 +17025,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3205:0:0:0:0:0:0:0:10|h[Покрытые письменами кожаные наручи]|h|r",
                     name = "Покрытые письменами кожаные наручи",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:3212:856:0:0:0:0:0:0:10|h[Отблескивающие чешуйчатые наручи]|h|r",
-                    name = "Отблескивающие чешуйчатые наручи",
                     count = 1,
                 },
                 {
@@ -17345,7 +17335,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787554790,
+            last_update = 1787571825,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
