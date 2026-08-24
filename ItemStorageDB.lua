@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787555101
+ItemStorageDB_LastUpdate = 1787555175
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15407,8 +15407,8 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-22 11:00:47",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-24 10:06:15",
         money = 214291,
         empty = 184,
         location = "Оргриммар",
@@ -15456,7 +15456,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2290:0:0:0:0:0:0:0:10|h[Свиток интеллекта II]|h|r",
                 name = "Свиток интеллекта II",
-                count = 20,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:27498:0:0:0:0:0:0:0:10|h[Свиток ловкости V]|h|r",
@@ -15661,11 +15661,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
                 name = "Свиток интеллекта",
-                count = 21,
+                count = 11,
             },
         },
         bank = {
-            last_update = 1787385526,
+            last_update = 1787555155,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15695,7 +15695,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2290:0:0:0:0:0:0:0:10|h[Свиток интеллекта II]|h|r",
                     name = "Свиток интеллекта II",
-                    count = 20,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:27498:0:0:0:0:0:0:0:10|h[Свиток ловкости V]|h|r",
@@ -15795,12 +15795,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
                     name = "Свиток интеллекта",
-                    count = 21,
+                    count = 11,
                 },
             },
         },
         bags = {
-            last_update = 1787385635,
+            last_update = 1787555164,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
