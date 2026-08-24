@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787605331
+ItemStorageDB_LastUpdate = 1787606791
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12388,9 +12388,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-16 20:55:13",
+        updated_at = "2026-08-25 00:26:31",
         money = 385478,
-        empty = 149,
+        empty = 151,
         location = "Оргриммар",
         items = {
             {
@@ -12474,14 +12474,9 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:11175:0:0:0:0:0:0:0:10|h[Великая субстанция Пустоты]|h|r",
-                name = "Великая субстанция Пустоты",
-                count = 8,
-            },
-            {
                 link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                 name = "Великая вечная субстанция",
-                count = 18,
+                count = 16,
             },
             {
                 link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
@@ -12531,7 +12526,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
                 name = "Сонная пыль",
-                count = 130,
+                count = 80,
             },
             {
                 link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
@@ -12605,7 +12600,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786902898,
+            last_update = 1787606757,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12688,14 +12683,9 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:11175:0:0:0:0:0:0:0:10|h[Великая субстанция Пустоты]|h|r",
-                    name = "Великая субстанция Пустоты",
-                    count = 8,
-                },
-                {
                     link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                     name = "Великая вечная субстанция",
-                    count = 18,
+                    count = 16,
                 },
                 {
                     link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
@@ -12740,7 +12730,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
                     name = "Сонная пыль",
-                    count = 130,
+                    count = 80,
                 },
                 {
                     link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
@@ -12790,7 +12780,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786902906,
+            last_update = 1787606778,
             items = {
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
