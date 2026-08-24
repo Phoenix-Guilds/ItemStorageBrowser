@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787581203
+ItemStorageDB_LastUpdate = 1787581606
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20733,9 +20733,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-24 14:42:17",
+        updated_at = "2026-08-24 17:26:46",
         money = 3936,
-        empty = 31,
+        empty = 30,
         location = "Оргриммар",
         items = {
             {
@@ -20827,6 +20827,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13070:0:0:0:0:0:0:0:10|h[Чешуйчатые сапоги Сапфирона]|h|r",
                 name = "Чешуйчатые сапоги Сапфирона",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
+                name = "Латная боевая перчатка Хаку",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13072:0:0:0:0:0:0:0:10|h[Рукавицы Каменной хватки]|h|r",
@@ -21425,7 +21430,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787571587,
+            last_update = 1787581592,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21925,7 +21930,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787571629,
+            last_update = 1787581596,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10403:0:0:0:0:0:0:0:10|h[Черненый пояс Братства Справедливости]|h|r",
@@ -21961,6 +21966,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                     name = "Броня гидролиска",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
+                    name = "Латная боевая перчатка Хаку",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13072:0:0:0:0:0:0:0:10|h[Рукавицы Каменной хватки]|h|r",
