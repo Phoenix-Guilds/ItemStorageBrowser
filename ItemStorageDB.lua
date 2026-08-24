@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787555175
+ItemStorageDB_LastUpdate = 1787555263
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17702,10 +17702,10 @@ ItemStorageDB = {
     },
     {
         name = "Сумчатая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-16 22:45:01",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-24 10:07:43",
         money = 9245,
-        empty = 103,
+        empty = 88,
         location = "Оргриммар",
         items = {
             {
@@ -17726,7 +17726,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 61,
+                count = 79,
             },
             {
                 link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
@@ -17768,24 +17768,9 @@ ItemStorageDB = {
                 name = "Переносная дыра в пространстве",
                 count = 1,
             },
-            {
-                link = "|cffffffff|Hitem:1685:0:0:0:0:0:0:0:10|h[Сумка из шкуры тролля]|h|r",
-                name = "Сумка из шкуры тролля",
-                count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:1725:0:0:0:0:0:0:0:10|h[Большой ранец]|h|r",
-                name = "Большой ранец",
-                count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
-                name = "Заплечный мешок подмастерья",
-                count = 1,
-            },
         },
         bank = {
-            last_update = 1786909494,
+            last_update = 1787555246,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
@@ -17805,7 +17790,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                     name = "Сумка из ткани Пустоты",
-                    count = 37,
+                    count = 13,
                 },
                 {
                     link = "|cff1eff00|Hitem:21843:0:0:0:0:0:0:0:10|h[Сумка из прочной ткани Пустоты]|h|r",
@@ -17847,30 +17832,15 @@ ItemStorageDB = {
                     name = "Переносная дыра в пространстве",
                     count = 1,
                 },
-                {
-                    link = "|cffffffff|Hitem:1685:0:0:0:0:0:0:0:10|h[Сумка из шкуры тролля]|h|r",
-                    name = "Сумка из шкуры тролля",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:1725:0:0:0:0:0:0:0:10|h[Большой ранец]|h|r",
-                    name = "Большой ранец",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:3914:0:0:0:0:0:0:0:10|h[Заплечный мешок подмастерья]|h|r",
-                    name = "Заплечный мешок подмастерья",
-                    count = 1,
-                },
             },
         },
         bags = {
-            last_update = 1786909496,
+            last_update = 1787555255,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                     name = "Сумка из ткани Пустоты",
-                    count = 24,
+                    count = 66,
                 },
                 {
                     link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
