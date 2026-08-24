@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787555263
+ItemStorageDB_LastUpdate = 1787557799
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2342,10 +2342,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-24 10:02:19",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-24 10:49:59",
         money = 92710,
-        empty = 51,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -2376,7 +2376,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
@@ -2397,11 +2397,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
                 name = "Пламенеющий клинок",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
-                name = "Рукавицы Торбии",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
@@ -2706,7 +2701,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -2945,7 +2940,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787554845,
+            last_update = 1787557634,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -2970,7 +2965,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                     name = "Топор геолога",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
@@ -2991,11 +2986,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
                     name = "Пламенеющий клинок",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
-                    name = "Рукавицы Торбии",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13000:0:0:0:0:0:0:0:10|h[Посох сильного магического огня]|h|r",
@@ -3440,7 +3430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787554921,
+            last_update = 1787557648,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3525,11 +3515,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
                     name = "Жезл антиподов",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                    name = "Массивная треугольная палица",
                     count = 1,
                 },
                 {
