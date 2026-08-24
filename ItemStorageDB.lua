@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787607211
+ItemStorageDB_LastUpdate = 1787607533
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22227,10 +22227,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Proxy Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-24 10:03:24",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-25 00:38:53",
         money = 194111,
-        empty = 106,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -22302,11 +22302,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
                 name = "Кольцо жреца",
                 count = 3,
-            },
-            {
-                link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
-                name = "Кольцо грозного лика",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
@@ -22471,7 +22466,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
                 name = "Амулет Луны",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:20833:0:0:0:0:0:0:0:10|h[Гибельное кольцо лунного камня]|h|r",
@@ -22630,7 +22625,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787554979,
+            last_update = 1787607430,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22666,11 +22661,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
                     name = "Кольцо жреца",
                     count = 3,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
-                    name = "Кольцо грозного лика",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1015:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
@@ -22925,7 +22915,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787554997,
+            last_update = 1787607497,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23005,7 +22995,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
                     name = "Амулет Луны",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:21755:0:0:0:0:0:0:0:10|h[Аквамариновая подвеска воина]|h|r",
