@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787558143
+ItemStorageDB_LastUpdate = 1787559468
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2343,9 +2343,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-24 10:49:59",
+        updated_at = "2026-08-24 11:17:48",
         money = 92710,
-        empty = 54,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -2731,7 +2731,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
                 name = "Змеиный поцелуй",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:6622:0:0:0:0:0:0:0:10|h[Меч рвения]|h|r",
@@ -2940,7 +2940,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787557634,
+            last_update = 1787559294,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3275,7 +3275,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
                     name = "Змеиный поцелуй",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:6622:0:0:0:0:0:0:0:10|h[Меч рвения]|h|r",
@@ -3430,7 +3430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787557648,
+            last_update = 1787559314,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
