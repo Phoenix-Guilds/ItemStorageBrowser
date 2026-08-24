@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787604305
+ItemStorageDB_LastUpdate = 1787604596
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2343,9 +2343,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-24 11:17:48",
+        updated_at = "2026-08-24 23:49:56",
         money = 92710,
-        empty = 55,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -2501,7 +2501,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13042:0:0:0:0:0:0:0:10|h[Меч мирового судьи]|h|r",
                 name = "Меч мирового судьи",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
@@ -2582,11 +2582,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
                 name = "Игольщик",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                name = "Щит Торсена",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -2681,7 +2676,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
@@ -2696,11 +2691,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
                 name = "Боевая перчатка расплаты",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                name = "Массивная треугольная палица",
                 count = 1,
             },
             {
@@ -2836,7 +2826,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                 name = "Зеленая башня",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
@@ -2940,7 +2930,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787559294,
+            last_update = 1787604520,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3248,11 +3238,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                    name = "Массивная треугольная палица",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
                     name = "Кубок боли",
                     count = 3,
@@ -3430,7 +3415,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787559314,
+            last_update = 1787604569,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3463,6 +3448,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13042:0:0:0:0:0:0:0:10|h[Меч мирового судьи]|h|r",
+                    name = "Меч мирового судьи",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
                     name = "Клинок титанов",
                     count = 1,
@@ -3475,11 +3465,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                     name = "Острие Кху",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
-                    name = "Щит Торсена",
                     count = 1,
                 },
                 {
@@ -3505,11 +3490,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
                     name = "Алмазный молот",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
-                    name = "Зазубренный боевой топор",
                     count = 1,
                 },
                 {
@@ -3565,7 +3545,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                     name = "Зеленая башня",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
