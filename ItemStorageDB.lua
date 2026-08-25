@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787641421
+ItemStorageDB_LastUpdate = 1787641456
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18077,10 +18077,10 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-14 12:42:23",
+        realm = "Proxy Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-25 10:04:16",
         money = 1158902,
-        empty = 81,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -18101,7 +18101,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                 name = "Тенешелк",
-                count = 54,
+                count = 58,
             },
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
@@ -18151,7 +18151,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 1511,
+                count = 1673,
             },
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
@@ -18171,17 +18171,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
                 name = "Паутина паука-ледопряда",
-                count = 91,
+                count = 103,
             },
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                 name = "Рулон шелка",
-                count = 351,
+                count = 322,
             },
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 2020,
+                count = 2300,
             },
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
@@ -18191,7 +18191,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                 name = "Магическая ткань",
-                count = 952,
+                count = 1352,
             },
             {
                 link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
@@ -18220,7 +18220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1786700537,
+            last_update = 1787641446,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18250,7 +18250,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                     name = "Шерсть",
-                    count = 1511,
+                    count = 1625,
                 },
                 {
                     link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
@@ -18263,19 +18263,24 @@ ItemStorageDB = {
                     count = 325,
                 },
                 {
+                    link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
+                    name = "Паутина паука-ледопряда",
+                    count = 3,
+                },
+                {
                     link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
                     name = "Рулон шелка",
-                    count = 351,
+                    count = 322,
                 },
                 {
                     link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                     name = "Шелковый материал",
-                    count = 2020,
+                    count = 2269,
                 },
                 {
                     link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                     name = "Магическая ткань",
-                    count = 952,
+                    count = 1352,
                 },
                 {
                     link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
@@ -18285,7 +18290,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1786700538,
+            last_update = 1787641450,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18300,7 +18305,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                     name = "Тенешелк",
-                    count = 54,
+                    count = 58,
                 },
                 {
                     link = "|cffffffff|Hitem:14227:0:0:0:0:0:0:0:10|h[Железношелковая паутина]|h|r",
@@ -18328,6 +18333,11 @@ ItemStorageDB = {
                     count = 37,
                 },
                 {
+                    link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
+                    name = "Шерсть",
+                    count = 48,
+                },
+                {
                     link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                     name = "Паутина",
                     count = 131,
@@ -18335,7 +18345,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
                     name = "Паутина паука-ледопряда",
-                    count = 91,
+                    count = 100,
+                },
+                {
+                    link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
+                    name = "Шелковый материал",
+                    count = 31,
                 },
                 {
                     link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
