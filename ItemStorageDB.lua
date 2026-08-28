@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1787936578
+ItemStorageDB_LastUpdate = 1787936896
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13012,10 +13012,10 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-21 05:25:10",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-28 20:08:16",
         money = 164134,
-        empty = 2,
+        empty = 4,
         location = "Оргриммар",
         items = {
             {
@@ -13914,11 +13914,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:9293:0:0:0:0:0:0:0:10|h[Рецепт: зелье защиты от магии]|h|r",
-                name = "Рецепт: зелье защиты от магии",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:9294:0:0:0:0:0:0:0:10|h[Рецепт: зелье из дикой лозы]|h|r",
                 name = "Рецепт: зелье из дикой лозы",
                 count = 1,
@@ -14076,7 +14071,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
                 name = "Рецепт: эликсир силы огра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:6369:0:0:0:0:0:0:0:10|h[Рецепт: каменношкурая треска]|h|r",
@@ -14105,7 +14100,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787279043,
+            last_update = 1787936867,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14925,7 +14920,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787279103,
+            last_update = 1787936882,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -15253,11 +15248,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:9293:0:0:0:0:0:0:0:10|h[Рецепт: зелье защиты от магии]|h|r",
-                    name = "Рецепт: зелье защиты от магии",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:9298:0:0:0:0:0:0:0:10|h[Рецепт: эликсир великанов]|h|r",
                     name = "Рецепт: эликсир великанов",
                     count = 1,
@@ -15280,7 +15270,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
                     name = "Рецепт: эликсир силы огра",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:7362:0:0:0:0:0:0:0:10|h[Выкройка: кожаные наплечники земли]|h|r",
