@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788011154
+ItemStorageDB_LastUpdate = 1788030009
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12147,8 +12147,8 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-29 11:02:57",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-29 22:00:09",
         money = 13104,
         empty = 82,
         location = "Оргриммар",
@@ -12311,7 +12311,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
                 name = "Смертоносный прицел",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
@@ -12330,7 +12330,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787990565,
+            last_update = 1788029969,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12460,7 +12460,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787990571,
+            last_update = 1788029985,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -12510,7 +12510,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
                     name = "Смертоносный прицел",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
