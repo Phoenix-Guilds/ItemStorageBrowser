@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788105775
+ItemStorageDB_LastUpdate = 1788110327
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -32,10 +32,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-29 11:01:16",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-30 20:18:47",
         money = 92710,
-        empty = 40,
+        empty = 41,
         location = "Оргриммар",
         items = {
             {
@@ -516,7 +516,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                 name = "Зеленая башня",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
@@ -625,7 +625,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787990448,
+            last_update = 1788109904,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -1105,7 +1105,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787990469,
+            last_update = 1788109938,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -1300,7 +1300,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                     name = "Зеленая башня",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
