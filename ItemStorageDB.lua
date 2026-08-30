@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788082917
+ItemStorageDB_LastUpdate = 1788083090
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20793,9 +20793,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-29 11:00:11",
+        updated_at = "2026-08-30 12:44:50",
         money = 203936,
-        empty = 38,
+        empty = 41,
         location = "Оргриммар",
         items = {
             {
@@ -20866,7 +20866,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13029:0:0:0:0:0:0:0:10|h[Мрачный кристалл]|h|r",
                 name = "Мрачный кристалл",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13030:0:0:0:0:0:0:0:10|h[Кость василиска]|h|r",
@@ -21016,7 +21016,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                 name = "Наручи Гневливого",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
@@ -21359,11 +21359,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:14674:0:0:0:0:0:0:0:10|h[Ремень Вожака прайда]|h|r",
-                name = "Ремень Вожака прайда",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:14774:0:0:0:0:0:0:0:10|h[Корона Опустошителя]|h|r",
                 name = "Корона Опустошителя",
                 count = 1,
@@ -21495,7 +21490,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1787990389,
+            last_update = 1788083050,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21550,7 +21545,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13029:0:0:0:0:0:0:0:10|h[Мрачный кристалл]|h|r",
                     name = "Мрачный кристалл",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13030:0:0:0:0:0:0:0:10|h[Кость василиска]|h|r",
@@ -21670,7 +21665,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                     name = "Наручи Гневливого",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
@@ -21970,7 +21965,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1787990396,
+            last_update = 1788083075,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
@@ -22200,11 +22195,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:14435:0:0:0:0:0:0:0:10|h[Кушак преследующего ветер]|h|r",
                     name = "Кушак преследующего ветер",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:14674:0:0:0:0:0:0:0:10|h[Ремень Вожака прайда]|h|r",
-                    name = "Ремень Вожака прайда",
                     count = 1,
                 },
                 {
