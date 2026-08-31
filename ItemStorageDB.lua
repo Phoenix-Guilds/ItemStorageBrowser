@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788195561
+ItemStorageDB_LastUpdate = 1788200604
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -33,9 +33,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-30 20:18:47",
+        updated_at = "2026-08-31 21:23:24",
         money = 92710,
-        empty = 41,
+        empty = 42,
         location = "Оргриммар",
         items = {
             {
@@ -201,7 +201,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                 name = "Вязкий молот",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -625,7 +625,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788109904,
+            last_update = 1788200499,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -1105,7 +1105,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788109938,
+            last_update = 1788200526,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -1146,11 +1146,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
                     name = "Клинок титанов",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
-                    name = "Вязкий молот",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
