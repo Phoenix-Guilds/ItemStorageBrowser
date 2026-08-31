@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788192123
+ItemStorageDB_LastUpdate = 1788195561
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12997,10 +12997,10 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-30 12:41:57",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-31 19:59:21",
         money = 214291,
-        empty = 184,
+        empty = 183,
         location = "Оргриммар",
         items = {
             {
@@ -13219,6 +13219,11 @@ ItemStorageDB = {
                 count = 50,
             },
             {
+                link = "|cffffffff|Hitem:4426:0:0:0:0:0:0:0:10|h[Свиток силы III]|h|r",
+                name = "Свиток силы III",
+                count = 50,
+            },
+            {
                 link = "|cffffffff|Hitem:44449:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - штурм I]|h|r",
                 name = "Свиток чар для обуви - штурм I",
                 count = 9,
@@ -13255,7 +13260,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788082902,
+            last_update = 1788194831,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -13390,7 +13395,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788082910,
+            last_update = 1788194838,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -13481,6 +13486,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:39006:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - живучесть клыкарра]|h|r",
                     name = "Свиток чар для обуви - живучесть клыкарра",
                     count = 2,
+                },
+                {
+                    link = "|cffffffff|Hitem:4426:0:0:0:0:0:0:0:10|h[Свиток силы III]|h|r",
+                    name = "Свиток силы III",
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:44449:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - штурм I]|h|r",
