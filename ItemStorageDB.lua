@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788191979
+ItemStorageDB_LastUpdate = 1788192123
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18532,10 +18532,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-30 12:44:50",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-08-31 19:02:03",
         money = 203936,
-        empty = 41,
+        empty = 42,
         location = "Оргриммар",
         items = {
             {
@@ -18976,7 +18976,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:20832:0:0:0:0:0:0:0:10|h[Корона лунной души]|h|r",
                 name = "Корона лунной души",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:21774:0:0:0:0:0:0:0:10|h[Изумрудная корона разрушения]|h|r",
@@ -19230,7 +19230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788083050,
+            last_update = 1788192065,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -19595,7 +19595,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:20832:0:0:0:0:0:0:0:10|h[Корона лунной души]|h|r",
                     name = "Корона лунной души",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:21774:0:0:0:0:0:0:0:10|h[Изумрудная корона разрушения]|h|r",
@@ -19705,7 +19705,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788083075,
+            last_update = 1788192086,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
