@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788246502
+ItemStorageDB_LastUpdate = 1788246540
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18348,9 +18348,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-01 10:08:22",
+        updated_at = "2026-09-01 10:09:00",
         money = 203936,
-        empty = 42,
+        empty = 44,
         location = "Оргриммар",
         items = {
             {
@@ -18552,11 +18552,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
                 name = "Наплеч Незримых",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
-                name = "Кушак Огрона",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -18771,7 +18766,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                 name = "Штаны из шкуры василиска",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:18238:0:0:0:0:0:0:0:10|h[Тенекожаные перчатки]|h|r",
@@ -19515,7 +19510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788246479,
+            last_update = 1788246533,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
@@ -19603,11 +19598,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
-                    name = "Кушак Огрона",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
                     name = "Змеиный кушак",
                     count = 1,
@@ -19680,11 +19670,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                     name = "Двойной мундир",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
-                    name = "Штаны из шкуры василиска",
                     count = 1,
                 },
                 {
