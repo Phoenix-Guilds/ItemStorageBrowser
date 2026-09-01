@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788246442
+ItemStorageDB_LastUpdate = 1788246502
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18347,8 +18347,8 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-31 19:02:03",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-01 10:08:22",
         money = 203936,
         empty = 42,
         location = "Оргриммар",
@@ -19045,7 +19045,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788192065,
+            last_update = 1788246477,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -19273,11 +19273,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:13145:0:0:0:0:0:0:0:10|h[Огромный огрский пояс]|h|r",
-                    name = "Огромный огрский пояс",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                     name = "Наручники Раздробленного хребта",
                     count = 1,
@@ -19390,7 +19385,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                     name = "Штаны из шкуры василиска",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:18238:0:0:0:0:0:0:0:10|h[Тенекожаные перчатки]|h|r",
@@ -19520,7 +19515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788192086,
+            last_update = 1788246479,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
@@ -19655,7 +19650,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13145:0:0:0:0:0:0:0:10|h[Огромный огрский пояс]|h|r",
                     name = "Огромный огрский пояс",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
@@ -19685,6 +19680,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                     name = "Двойной мундир",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
+                    name = "Штаны из шкуры василиска",
                     count = 1,
                 },
                 {
