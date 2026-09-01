@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1788272593
+ItemStorageDB_LastUpdate = 1788283580
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-01 12:36:13",
+        updated_at = "2026-09-01 20:26:20",
         money = 339404,
         empty = 112,
         location = "Оргриммар",
@@ -96,7 +96,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40922:0:0:0:0:0:0:0:10|h[Символ гнева]|h|r",
                 name = "Символ гнева",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:40923:0:0:0:0:0:0:0:10|h[Символ лунного огня]|h|r",
@@ -656,7 +656,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
                 name = "Символ водного облика",
-                count = 12,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -1170,7 +1170,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788255292,
+            last_update = 1788283498,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1255,7 +1255,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40922:0:0:0:0:0:0:0:10|h[Символ гнева]|h|r",
                     name = "Символ гнева",
-                    count = 9,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:40923:0:0:0:0:0:0:0:10|h[Символ лунного огня]|h|r",
@@ -1815,7 +1815,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
                     name = "Символ водного облика",
-                    count = 12,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -2330,7 +2330,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788255294,
+            last_update = 1788283512,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
