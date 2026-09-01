@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788255373
+ItemStorageDB_LastUpdate = 1788271373
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20657,10 +20657,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-01 10:09:00",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-01 17:02:53",
         money = 203936,
-        empty = 44,
+        empty = 45,
         location = "Оргриммар",
         items = {
             {
@@ -20907,11 +20907,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
                 name = "Шлем Большого Берга",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
-                name = "Поножи Огненной Гривы",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
@@ -21350,7 +21345,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788246477,
+            last_update = 1788271234,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21820,7 +21815,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788246533,
+            last_update = 1788271331,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
@@ -21925,11 +21920,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
                     name = "Шлем Большого Берга",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13129:0:0:0:0:0:0:0:10|h[Поножи Огненной Гривы]|h|r",
-                    name = "Поножи Огненной Гривы",
                     count = 1,
                 },
                 {
