@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788246392
+ItemStorageDB_LastUpdate = 1788246442
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -32,10 +32,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-31 21:23:24",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-01 10:07:22",
         money = 92710,
-        empty = 42,
+        empty = 44,
         location = "Оргриммар",
         items = {
             {
@@ -251,7 +251,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                 name = "Острие Кху",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
@@ -484,11 +484,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:2079:0:0:0:0:0:1548:0:10|h[Боевой молот сержанта с печатью могущества]|h|r",
-                name = "Боевой молот сержанта с печатью могущества",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
                 name = "Кинжал с жемчужной рукояткой",
                 count = 2,
@@ -625,7 +620,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788200499,
+            last_update = 1788246427,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -826,11 +821,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13056:0:0:0:0:0:0:0:10|h[Яростный удар]|h|r",
                     name = "Яростный удар",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
-                    name = "Острие Кху",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
@@ -1105,7 +1095,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788200526,
+            last_update = 1788246435,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -1266,11 +1256,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                     name = "Перекованный клинок Героев",
                     count = 2,
-                },
-                {
-                    link = "|cff1eff00|Hitem:2079:0:0:0:0:0:1548:0:10|h[Боевой молот сержанта с печатью могущества]|h|r",
-                    name = "Боевой молот сержанта с печатью могущества",
-                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:6571:0:0:0:0:0:97:0:10|h[Кулачный щит лазутчика со знаком силы]|h|r",
