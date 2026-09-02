@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788328872
+ItemStorageDB_LastUpdate = 1788328987
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20607,10 +20607,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-01 17:02:53",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-02 09:03:07",
         money = 203936,
-        empty = 45,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -20761,7 +20761,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13101:0:0:0:0:0:0:0:10|h[Ботинки Волкогонца]|h|r",
                 name = "Ботинки Волкогонца",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13102:0:0:0:0:0:0:0:10|h[Милость Кассандры]|h|r",
@@ -21295,7 +21295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788271234,
+            last_update = 1788328900,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21415,7 +21415,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13101:0:0:0:0:0:0:0:10|h[Ботинки Волкогонца]|h|r",
                     name = "Ботинки Волкогонца",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13102:0:0:0:0:0:0:0:10|h[Милость Кассандры]|h|r",
@@ -21765,7 +21765,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788271331,
+            last_update = 1788328960,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
