@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788520315
+ItemStorageDB_LastUpdate = 1788520343
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2343,9 +2343,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-04 14:05:49",
+        updated_at = "2026-09-04 14:12:23",
         money = 92710,
-        empty = 38,
+        empty = 35,
         location = "Оргриммар",
         items = {
             {
@@ -2566,7 +2566,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                 name = "Острие Кху",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
@@ -2826,7 +2826,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                 name = "Зеленая башня",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
@@ -2924,6 +2924,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
+                name = "Топор шквала",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:943:0:0:0:0:0:0:0:10|h[Посох тюремщика]|h|r",
                 name = "Посох тюремщика",
                 count = 2,
@@ -2935,7 +2940,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788519942,
+            last_update = 1788520337,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3425,7 +3430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788519943,
+            last_update = 1788520338,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3480,7 +3485,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                     name = "Острие Кху",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -3595,7 +3600,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                     name = "Зеленая башня",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
@@ -3645,6 +3650,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
                     name = "Ослепительный длинный меч",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
+                    name = "Топор шквала",
                     count = 1,
                 },
             },
