@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788519505
+ItemStorageDB_LastUpdate = 1788519530
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4818,9 +4818,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-04 13:45:47",
+        updated_at = "2026-09-04 13:58:50",
         money = 999680,
-        empty = 119,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -4856,7 +4856,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                 name = "Золотая жемчужина",
-                count = 100,
+                count = 101,
             },
             {
                 link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
@@ -4966,7 +4966,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 56,
+                count = 57,
             },
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
@@ -5125,7 +5125,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788518741,
+            last_update = 1788519525,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5390,7 +5390,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788518742,
+            last_update = 1788519525,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5400,7 +5400,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                     name = "Золотая жемчужина",
-                    count = 100,
+                    count = 101,
                 },
                 {
                     link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
@@ -5430,7 +5430,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                     name = "Черная жемчужина",
-                    count = 56,
+                    count = 57,
                 },
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
