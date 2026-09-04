@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788519530
+ItemStorageDB_LastUpdate = 1788519838
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3638,9 +3638,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-04 13:54:43",
+        updated_at = "2026-09-04 14:03:58",
         money = 158410,
-        empty = 127,
+        empty = 124,
         location = "Оргриммар",
         items = {
             {
@@ -3666,12 +3666,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
                 name = "Боевая перчатка расплаты",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
                 name = "Клинок обретенного знания",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31153:0:0:0:0:0:0:0:10|h[Топор Легиона]|h|r",
@@ -3731,7 +3731,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37749:0:0:0:0:0:0:0:10|h[Ударные когти]|h|r",
                 name = "Ударные когти",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:37802:0:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
@@ -3830,7 +3830,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788519277,
+            last_update = 1788519831,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3855,12 +3855,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
                     name = "Боевая перчатка расплаты",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
                     name = "Клинок обретенного знания",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31153:0:0:0:0:0:0:0:10|h[Топор Легиона]|h|r",
@@ -3920,7 +3920,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37749:0:0:0:0:0:0:0:10|h[Ударные когти]|h|r",
                     name = "Ударные когти",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:37802:0:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
@@ -4020,7 +4020,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788519278,
+            last_update = 1788519832,
             items = {
             },
         },
