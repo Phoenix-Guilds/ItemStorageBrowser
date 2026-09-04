@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788518722
+ItemStorageDB_LastUpdate = 1788518747
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4823,7 +4823,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-04 13:45:22",
+        updated_at = "2026-09-04 13:45:47",
         money = 999680,
         empty = 119,
         location = "Оргриммар",
@@ -4906,7 +4906,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
                 name = "Сумрачная жемчужина",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
@@ -4966,7 +4966,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
                 name = "Субстанция Воды",
-                count = 14,
+                count = 15,
             },
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
@@ -5130,7 +5130,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788518716,
+            last_update = 1788518741,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5235,7 +5235,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
                     name = "Субстанция Воды",
-                    count = 14,
+                    count = 15,
                 },
                 {
                     link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
@@ -5395,7 +5395,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788518717,
+            last_update = 1788518742,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5415,7 +5415,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
                     name = "Сумрачная жемчужина",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
