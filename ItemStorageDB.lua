@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788521195
+ItemStorageDB_LastUpdate = 1788546792
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18203,9 +18203,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-30 13:31:56",
+        updated_at = "2026-09-04 21:33:12",
         money = 975064,
-        empty = 119,
+        empty = 127,
         location = "Оргриммар",
         items = {
             {
@@ -18257,21 +18257,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
                 name = "Ледяной зев",
                 count = 113,
-            },
-            {
-                link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
-                name = "Сквернопля",
-                count = 83,
-            },
-            {
-                link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
-                name = "Сияние грез",
-                count = 114,
-            },
-            {
-                link = "|cffffffff|Hitem:22787:0:0:0:0:0:0:0:10|h[Кисейница]|h|r",
-                name = "Кисейница",
-                count = 146,
             },
             {
                 link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
@@ -18485,7 +18470,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788085809,
+            last_update = 1788546749,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18521,21 +18506,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
                     name = "Ледяной зев",
                     count = 113,
-                },
-                {
-                    link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
-                    name = "Сквернопля",
-                    count = 83,
-                },
-                {
-                    link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
-                    name = "Сияние грез",
-                    count = 114,
-                },
-                {
-                    link = "|cffffffff|Hitem:22787:0:0:0:0:0:0:0:10|h[Кисейница]|h|r",
-                    name = "Кисейница",
-                    count = 146,
                 },
                 {
                     link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
@@ -18715,7 +18685,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788085816,
+            last_update = 1788546772,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
