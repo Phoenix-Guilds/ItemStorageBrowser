@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1788626882
+ItemStorageDB_LastUpdate = 1788626969
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-01 20:26:20",
+        updated_at = "2026-09-05 19:49:29",
         money = 339404,
-        empty = 112,
+        empty = 113,
         location = "Оргриммар",
         items = {
             {
@@ -21,7 +21,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
                 name = "Символ трепки",
-                count = 18,
+                count = 17,
             },
             {
                 link = "|cffffffff|Hitem:40899:0:0:0:0:0:0:0:10|h[Символ рыка]|h|r",
@@ -111,7 +111,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                 name = "Символ правосудия",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
@@ -151,7 +151,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41108:0:0:0:0:0:0:0:10|h[Символ божественности]|h|r",
                 name = "Символ божественности",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:41518:0:0:0:0:0:0:0:10|h[Символ цепной молнии]|h|r",
@@ -251,7 +251,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42397:0:0:0:0:0:0:0:10|h[Символ рассеивания заклинаний]|h|r",
                 name = "Символ рассеивания заклинаний",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:42398:0:0:0:0:0:0:0:10|h[Символ ухода в тень]|h|r",
@@ -481,7 +481,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42898:0:0:0:0:0:0:0:10|h[Символ чародейского выстрела]|h|r",
                 name = "Символ чародейского выстрела",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
@@ -656,7 +656,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
                 name = "Символ водного облика",
-                count = 11,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -691,7 +691,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
@@ -722,11 +722,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:43366:0:0:0:0:0:0:0:10|h[Символ благословения мудрости]|h|r",
                 name = "Символ благословения мудрости",
                 count = 6,
-            },
-            {
-                link = "|cffffffff|Hitem:43367:0:0:0:0:0:0:0:10|h[Символ возложения рук]|h|r",
-                name = "Символ возложения рук",
-                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:43368:0:0:0:0:0:0:0:10|h[Символ чутья на нежить]|h|r",
@@ -896,7 +891,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43426:0:0:0:0:0:0:0:10|h[Символ отчаянной защиты]|h|r",
                 name = "Символ отчаянной защиты",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43427:0:0:0:0:0:0:0:10|h[Символ раскола брони]|h|r",
@@ -1170,7 +1165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788283498,
+            last_update = 1788626946,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1180,7 +1175,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
                     name = "Символ трепки",
-                    count = 18,
+                    count = 17,
                 },
                 {
                     link = "|cffffffff|Hitem:40899:0:0:0:0:0:0:0:10|h[Символ рыка]|h|r",
@@ -1270,7 +1265,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                     name = "Символ правосудия",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
@@ -1310,7 +1305,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41108:0:0:0:0:0:0:0:10|h[Символ божественности]|h|r",
                     name = "Символ божественности",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:41518:0:0:0:0:0:0:0:10|h[Символ цепной молнии]|h|r",
@@ -1410,7 +1405,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42397:0:0:0:0:0:0:0:10|h[Символ рассеивания заклинаний]|h|r",
                     name = "Символ рассеивания заклинаний",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:42398:0:0:0:0:0:0:0:10|h[Символ ухода в тень]|h|r",
@@ -1640,7 +1635,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42898:0:0:0:0:0:0:0:10|h[Символ чародейского выстрела]|h|r",
                     name = "Символ чародейского выстрела",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
@@ -1815,7 +1810,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
                     name = "Символ водного облика",
-                    count = 11,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -1850,7 +1845,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                     name = "Символ лечения питомца",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
@@ -1881,11 +1876,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:43366:0:0:0:0:0:0:0:10|h[Символ благословения мудрости]|h|r",
                     name = "Символ благословения мудрости",
                     count = 6,
-                },
-                {
-                    link = "|cffffffff|Hitem:43367:0:0:0:0:0:0:0:10|h[Символ возложения рук]|h|r",
-                    name = "Символ возложения рук",
-                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:43368:0:0:0:0:0:0:0:10|h[Символ чутья на нежить]|h|r",
@@ -2055,7 +2045,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43426:0:0:0:0:0:0:0:10|h[Символ отчаянной защиты]|h|r",
                     name = "Символ отчаянной защиты",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43427:0:0:0:0:0:0:0:10|h[Символ раскола брони]|h|r",
@@ -2330,7 +2320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788283512,
+            last_update = 1788626955,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
