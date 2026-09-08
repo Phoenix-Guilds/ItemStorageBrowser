@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788887489
+ItemStorageDB_LastUpdate = 1788887611
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2332,10 +2332,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-08 12:35:52",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-08 20:13:31",
         money = 92710,
-        empty = 33,
+        empty = 34,
         location = "Оргриммар",
         items = {
             {
@@ -2621,7 +2621,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
                 name = "Острокаменная кувалда",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1726:0:0:0:0:0:0:0:10|h[Костяное копье с отравленным наконечником]|h|r",
@@ -2935,7 +2935,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788860138,
+            last_update = 1788887554,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3171,11 +3171,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:1721:0:0:0:0:0:0:0:10|h[Боевой молот викинга]|h|r",
                     name = "Боевой молот викинга",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
-                    name = "Острокаменная кувалда",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1726:0:0:0:0:0:0:0:10|h[Костяное копье с отравленным наконечником]|h|r",
@@ -3425,7 +3420,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788860146,
+            last_update = 1788887571,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
