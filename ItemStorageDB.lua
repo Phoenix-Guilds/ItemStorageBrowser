@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788889888
+ItemStorageDB_LastUpdate = 1788890458
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2333,9 +2333,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-08 20:13:31",
+        updated_at = "2026-09-08 21:00:58",
         money = 92710,
-        empty = 34,
+        empty = 36,
         location = "Оргриммар",
         items = {
             {
@@ -2619,11 +2619,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
-                name = "Острокаменная кувалда",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:1726:0:0:0:0:0:0:0:10|h[Костяное копье с отравленным наконечником]|h|r",
                 name = "Костяное копье с отравленным наконечником",
                 count = 3,
@@ -2661,7 +2656,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
                 name = "Изогнутый мясницкий нож",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
@@ -2935,7 +2930,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788887554,
+            last_update = 1788890232,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3210,7 +3205,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
                     name = "Изогнутый мясницкий нож",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
@@ -3420,7 +3415,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788887571,
+            last_update = 1788890331,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3500,11 +3495,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
                     name = "Тяжелый ятаган мародера",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
-                    name = "Острокаменная кувалда",
                     count = 1,
                 },
                 {
