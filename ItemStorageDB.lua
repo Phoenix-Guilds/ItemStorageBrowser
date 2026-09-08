@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788887611
+ItemStorageDB_LastUpdate = 1788888015
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17462,26 +17462,26 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-04 21:33:12",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-08 20:20:15",
         money = 975064,
-        empty = 127,
+        empty = 129,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
                 name = "Черный лотос",
-                count = 51,
+                count = 50,
+            },
+            {
+                link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
+                name = "Дикая лоза",
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
                 name = "Чистый пергамент",
                 count = 4,
-            },
-            {
-                link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
-                name = "Рассветница",
-                count = 43,
             },
             {
                 link = "|cffffffff|Hitem:13422:0:0:0:0:0:0:0:10|h[Каменный угорь]|h|r",
@@ -17496,27 +17496,42 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                 name = "Снолист",
-                count = 250,
+                count = 274,
             },
             {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                 name = "Золотой сансам",
-                count = 166,
+                count = 167,
             },
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                 name = "Горный серебряный шалфей",
-                count = 30,
+                count = 28,
             },
             {
                 link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
                 name = "Чумоцвет",
-                count = 128,
+                count = 149,
             },
             {
                 link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
                 name = "Ледяной зев",
-                count = 113,
+                count = 91,
+            },
+            {
+                link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
+                name = "Сквернопля",
+                count = 133,
+            },
+            {
+                link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
+                name = "Сияние грез",
+                count = 164,
+            },
+            {
+                link = "|cffffffff|Hitem:22787:0:0:0:0:0:0:0:10|h[Кисейница]|h|r",
+                name = "Кисейница",
+                count = 196,
             },
             {
                 link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
@@ -17526,12 +17541,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                 name = "Древний лишайник",
-                count = 28,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
                 name = "Ползучий кошмарник",
-                count = 71,
+                count = 81,
             },
             {
                 link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
@@ -17546,47 +17561,47 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
-                count = 130,
+                count = 80,
             },
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
                 name = "Остротерн",
-                count = 22,
+                count = 63,
             },
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 86,
+                count = 47,
             },
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 398,
+                count = 259,
             },
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 91,
+                count = 48,
             },
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 289,
+                count = 243,
             },
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                 name = "Корень жизни",
-                count = 124,
+                count = 48,
             },
             {
                 link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
                 name = "Кадгаров ус",
-                count = 389,
+                count = 277,
             },
             {
                 link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
                 name = "Могильный мох",
-                count = 104,
+                count = 83,
             },
             {
                 link = "|cffffffff|Hitem:3371:0:0:0:0:0:0:0:10|h[Пустая колба]|h|r",
@@ -17601,7 +17616,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                 name = "Язык аспида",
-                count = 20,
+                count = 38,
             },
             {
                 link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
@@ -17616,12 +17631,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36906:0:0:0:0:0:0:0:10|h[Ледошип]|h|r",
                 name = "Ледошип",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:36907:0:0:0:0:0:0:0:10|h[Роза Таландры]|h|r",
                 name = "Роза Таландры",
-                count = 9,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
@@ -17631,22 +17646,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
                 name = "Бледнолист",
-                count = 217,
+                count = 60,
             },
             {
                 link = "|cffffffff|Hitem:3819:0:0:0:0:0:0:0:10|h[Морозник]|h|r",
                 name = "Морозник",
-                count = 59,
+                count = 54,
             },
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 69,
+                count = 105,
             },
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
-                count = 191,
+                count = 30,
             },
             {
                 link = "|cffffffff|Hitem:39505:0:0:0:0:0:0:0:10|h[Набор виртуозного начертателя]|h|r",
@@ -17656,7 +17671,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
                 name = "Огнелист",
-                count = 94,
+                count = 174,
             },
             {
                 link = "|cffffffff|Hitem:40195:0:0:0:0:0:0:0:10|h[Карломасло]|h|r",
@@ -17666,12 +17681,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
                 name = "Карликовый сосокунь",
-                count = 178,
+                count = 78,
             },
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                 name = "Огнецвет",
-                count = 245,
+                count = 191,
             },
             {
                 link = "|cffffffff|Hitem:5066:0:0:0:0:0:0:0:10|h[Ущельник]|h|r",
@@ -17691,17 +17706,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                 name = "Сребролист",
-                count = 268,
+                count = 335,
             },
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 159,
+                count = 156,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                 name = "Лиловый лотос",
-                count = 116,
+                count = 100,
             },
             {
                 link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -17711,61 +17726,71 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8838:0:0:0:0:0:0:0:10|h[Солнечник]|h|r",
                 name = "Солнечник",
-                count = 37,
+                count = 75,
             },
             {
                 link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                 name = "Пастушья сумка",
-                count = 64,
+                count = 101,
             },
             {
                 link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                 name = "Призрачная поганка",
-                count = 131,
+                count = 91,
             },
             {
                 link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
                 name = "Кровь Грома",
-                count = 83,
+                count = 175,
             },
         },
         bank = {
-            last_update = 1788546749,
+            last_update = 1784046493,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
                     name = "Черный лотос",
-                    count = 51,
-                },
-                {
-                    link = "|cffffffff|Hitem:11040:0:0:0:0:0:0:0:10|h[Рассветница]|h|r",
-                    name = "Рассветница",
-                    count = 43,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                     name = "Снолист",
-                    count = 250,
+                    count = 274,
                 },
                 {
                     link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                     name = "Золотой сансам",
-                    count = 166,
+                    count = 167,
                 },
                 {
                     link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                     name = "Горный серебряный шалфей",
-                    count = 30,
+                    count = 28,
                 },
                 {
                     link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
                     name = "Чумоцвет",
-                    count = 128,
+                    count = 149,
                 },
                 {
                     link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
                     name = "Ледяной зев",
-                    count = 113,
+                    count = 91,
+                },
+                {
+                    link = "|cffffffff|Hitem:22785:0:0:0:0:0:0:0:10|h[Сквернопля]|h|r",
+                    name = "Сквернопля",
+                    count = 133,
+                },
+                {
+                    link = "|cffffffff|Hitem:22786:0:0:0:0:0:0:0:10|h[Сияние грез]|h|r",
+                    name = "Сияние грез",
+                    count = 164,
+                },
+                {
+                    link = "|cffffffff|Hitem:22787:0:0:0:0:0:0:0:10|h[Кисейница]|h|r",
+                    name = "Кисейница",
+                    count = 196,
                 },
                 {
                     link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
@@ -17775,12 +17800,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                     name = "Древний лишайник",
-                    count = 28,
+                    count = 40,
                 },
                 {
                     link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
                     name = "Ползучий кошмарник",
-                    count = 71,
+                    count = 81,
                 },
                 {
                     link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
@@ -17790,57 +17815,52 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                     name = "Мироцвет",
-                    count = 260,
+                    count = 193,
                 },
                 {
                     link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                     name = "Земляной корень",
-                    count = 130,
-                },
-                {
-                    link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
-                    name = "Остротерн",
-                    count = 22,
+                    count = 49,
                 },
                 {
                     link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                     name = "Скорополох",
-                    count = 85,
+                    count = 21,
                 },
                 {
                     link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                     name = "Синячник",
-                    count = 397,
+                    count = 211,
                 },
                 {
                     link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                     name = "Дикий сталецвет",
-                    count = 91,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                     name = "Королевская кровь",
-                    count = 289,
+                    count = 243,
                 },
                 {
                     link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                     name = "Корень жизни",
-                    count = 124,
+                    count = 48,
                 },
                 {
                     link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
                     name = "Кадгаров ус",
-                    count = 389,
+                    count = 277,
                 },
                 {
                     link = "|cffffffff|Hitem:3369:0:0:0:0:0:0:0:10|h[Могильный мох]|h|r",
                     name = "Могильный мох",
-                    count = 104,
+                    count = 83,
                 },
                 {
                     link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                     name = "Язык аспида",
-                    count = 20,
+                    count = 38,
                 },
                 {
                     link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
@@ -17855,12 +17875,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36906:0:0:0:0:0:0:0:10|h[Ледошип]|h|r",
                     name = "Ледошип",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:36907:0:0:0:0:0:0:0:10|h[Роза Таландры]|h|r",
                     name = "Роза Таландры",
-                    count = 9,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
@@ -17870,12 +17890,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
                     name = "Бледнолист",
-                    count = 217,
+                    count = 59,
                 },
                 {
                     link = "|cffffffff|Hitem:3819:0:0:0:0:0:0:0:10|h[Морозник]|h|r",
                     name = "Морозник",
-                    count = 59,
+                    count = 54,
                 },
                 {
                     link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
@@ -17885,37 +17905,32 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                     name = "Златошип",
-                    count = 191,
+                    count = 30,
                 },
                 {
                     link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
                     name = "Огнелист",
-                    count = 94,
-                },
-                {
-                    link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
-                    name = "Карликовый сосокунь",
-                    count = 100,
+                    count = 174,
                 },
                 {
                     link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                     name = "Огнецвет",
-                    count = 245,
+                    count = 191,
                 },
                 {
                     link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
                     name = "Сребролист",
-                    count = 268,
+                    count = 256,
                 },
                 {
                     link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                     name = "Магороза",
-                    count = 159,
+                    count = 62,
                 },
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                     name = "Лиловый лотос",
-                    count = 116,
+                    count = 100,
                 },
                 {
                     link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -17925,28 +17940,33 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8838:0:0:0:0:0:0:0:10|h[Солнечник]|h|r",
                     name = "Солнечник",
-                    count = 37,
+                    count = 75,
                 },
                 {
                     link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                     name = "Пастушья сумка",
-                    count = 64,
+                    count = 101,
                 },
                 {
                     link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                     name = "Призрачная поганка",
-                    count = 131,
+                    count = 91,
                 },
                 {
                     link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
                     name = "Кровь Грома",
-                    count = 83,
+                    count = 175,
                 },
             },
         },
         bags = {
-            last_update = 1788546772,
+            last_update = 1788887991,
             items = {
+                {
+                    link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
+                    name = "Дикая лоза",
+                    count = 6,
+                },
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
                     name = "Чистый пергамент",
@@ -17963,14 +17983,34 @@ ItemStorageDB = {
                     count = 39,
                 },
                 {
+                    link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
+                    name = "Мироцвет",
+                    count = 67,
+                },
+                {
+                    link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
+                    name = "Земляной корень",
+                    count = 31,
+                },
+                {
+                    link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
+                    name = "Остротерн",
+                    count = 63,
+                },
+                {
                     link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                     name = "Скорополох",
-                    count = 1,
+                    count = 26,
                 },
                 {
                     link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                     name = "Синячник",
-                    count = 1,
+                    count = 48,
+                },
+                {
+                    link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
+                    name = "Дикий сталецвет",
+                    count = 42,
                 },
                 {
                     link = "|cffffffff|Hitem:3371:0:0:0:0:0:0:0:10|h[Пустая колба]|h|r",
@@ -17983,9 +18023,14 @@ ItemStorageDB = {
                     count = 36,
                 },
                 {
+                    link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
+                    name = "Бледнолист",
+                    count = 1,
+                },
+                {
                     link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                     name = "Удавник",
-                    count = 19,
+                    count = 55,
                 },
                 {
                     link = "|cffffffff|Hitem:39505:0:0:0:0:0:0:0:10|h[Набор виртуозного начертателя]|h|r",
@@ -18016,6 +18061,16 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
                     name = "Огнеперый луциан",
                     count = 6,
+                },
+                {
+                    link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
+                    name = "Сребролист",
+                    count = 79,
+                },
+                {
+                    link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
+                    name = "Магороза",
+                    count = 94,
                 },
             },
         },
