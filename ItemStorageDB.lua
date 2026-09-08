@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788860119
+ItemStorageDB_LastUpdate = 1788860152
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2333,9 +2333,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-04 14:26:08",
+        updated_at = "2026-09-08 12:35:52",
         money = 92710,
-        empty = 31,
+        empty = 33,
         location = "Оргриммар",
         items = {
             {
@@ -2366,11 +2366,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12975:0:0:0:0:0:0:0:10|h[Топор геолога]|h|r",
                 name = "Топор геолога",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
-                name = "Клинок Многоглаза",
                 count = 1,
             },
             {
@@ -2929,11 +2924,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
-                name = "Топор шквала",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:943:0:0:0:0:0:0:0:10|h[Посох тюремщика]|h|r",
                 name = "Посох тюремщика",
                 count = 2,
@@ -2945,7 +2935,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788521160,
+            last_update = 1788860138,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3435,17 +3425,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788521162,
+            last_update = 1788860146,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                     name = "Эгида Штормграда",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
-                    name = "Клинок Многоглаза",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
@@ -3671,11 +3656,6 @@ ItemStorageDB = {
                     link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
                     name = "Ослепительный длинный меч",
                     count = 2,
-                },
-                {
-                    link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
-                    name = "Топор шквала",
-                    count = 1,
                 },
             },
         },
