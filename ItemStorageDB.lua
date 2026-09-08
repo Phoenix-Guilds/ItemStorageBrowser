@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1788864661
+ItemStorageDB_LastUpdate = 1788882093
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-06 21:15:44",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-08 18:41:33",
         money = 339404,
         empty = 113,
         location = "Оргриммар",
@@ -351,7 +351,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42464:0:0:0:0:0:0:0:10|h[Символ жертвенного огня]|h|r",
                 name = "Символ жертвенного огня",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:42465:0:0:0:0:0:0:0:10|h[Символ беса]|h|r",
@@ -781,7 +781,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
                 name = "Символ бесконечного дыхания",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:43390:0:0:0:0:0:0:0:10|h[Символ похищения души]|h|r",
@@ -881,7 +881,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43424:0:0:0:0:0:0:0:10|h[Символ реванша]|h|r",
                 name = "Символ реванша",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:43425:0:0:0:0:0:0:0:10|h[Символ блокирования]|h|r",
@@ -1156,7 +1156,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:50077:0:0:0:0:0:0:0:10|h[Символ быстрого разложения]|h|r",
                 name = "Символ быстрого разложения",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:50125:0:0:0:0:0:0:0:10|h[Символ стремительного омоложения]|h|r",
@@ -1165,7 +1165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788718514,
+            last_update = 1788882047,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1505,7 +1505,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42464:0:0:0:0:0:0:0:10|h[Символ жертвенного огня]|h|r",
                     name = "Символ жертвенного огня",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:42465:0:0:0:0:0:0:0:10|h[Символ беса]|h|r",
@@ -1935,7 +1935,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
                     name = "Символ бесконечного дыхания",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:43390:0:0:0:0:0:0:0:10|h[Символ похищения души]|h|r",
@@ -2035,7 +2035,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43424:0:0:0:0:0:0:0:10|h[Символ реванша]|h|r",
                     name = "Символ реванша",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:43425:0:0:0:0:0:0:0:10|h[Символ блокирования]|h|r",
@@ -2310,7 +2310,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:50077:0:0:0:0:0:0:0:10|h[Символ быстрого разложения]|h|r",
                     name = "Символ быстрого разложения",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:50125:0:0:0:0:0:0:0:10|h[Символ стремительного омоложения]|h|r",
@@ -2320,7 +2320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788718523,
+            last_update = 1788882066,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
