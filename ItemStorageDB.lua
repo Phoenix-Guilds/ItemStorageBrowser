@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788973693
+ItemStorageDB_LastUpdate = 1788973722
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19363,20 +19363,20 @@ ItemStorageDB = {
     {
         name = "Царапучка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-10 19:51:34",
+        updated_at = "2026-09-09 20:08:42",
         money = 14656,
-        empty = 110,
+        empty = 102,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
                 name = "Большая ядовитая железа",
-                count = 15,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
                 name = "Малая ядовитая железа",
-                count = 76,
+                count = 83,
             },
             {
                 link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
@@ -19391,21 +19391,21 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
                 name = "Острый коготь",
-                count = 146,
+                count = 152,
             },
             {
                 link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
                 name = "Большой клык",
-                count = 124,
+                count = 133,
             },
         },
         bank = {
-            last_update = 1786380644,
+            last_update = 1788973716,
             items = {
                 {
                     link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
                     name = "Большая ядовитая железа",
-                    count = 15,
+                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
@@ -19430,13 +19430,33 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
                     name = "Большой клык",
-                    count = 124,
+                    count = 130,
                 },
             },
         },
         bags = {
-            last_update = 1786380690,
+            last_update = 1788973717,
             items = {
+                {
+                    link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
+                    name = "Большая ядовитая железа",
+                    count = 4,
+                },
+                {
+                    link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
+                    name = "Малая ядовитая железа",
+                    count = 7,
+                },
+                {
+                    link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
+                    name = "Острый коготь",
+                    count = 6,
+                },
+                {
+                    link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
+                    name = "Большой клык",
+                    count = 3,
+                },
             },
         },
     },
