@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788980062
+ItemStorageDB_LastUpdate = 1788980170
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23237,10 +23237,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:54:57",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-09 21:56:10",
         money = 194111,
-        empty = 105,
+        empty = 106,
         location = "Оргриммар",
         items = {
             {
@@ -23609,11 +23609,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
-                name = "Кольцо спасителей",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
                 name = "Кольцо нижнего мира",
                 count = 1,
@@ -23630,7 +23625,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788972890,
+            last_update = 1788980112,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23903,11 +23898,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
-                    name = "Кольцо спасителей",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:1980:0:0:0:0:0:0:0:10|h[Кольцо нижнего мира]|h|r",
                     name = "Кольцо нижнего мира",
                     count = 1,
@@ -23920,7 +23910,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788972891,
+            last_update = 1788980131,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
