@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788968308
+ItemStorageDB_LastUpdate = 1788968334
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8723,7 +8723,7 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 18:29:15",
+        updated_at = "2026-09-09 18:38:54",
         money = 208636,
         empty = 73,
         location = "Оргриммар",
@@ -8826,7 +8826,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                 name = "Гигантский флакон с лечебным зельем",
-                count = 114,
+                count = 141,
             },
             {
                 link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
@@ -9170,7 +9170,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788967749,
+            last_update = 1788968326,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9515,7 +9515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788967750,
+            last_update = 1788968327,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9555,7 +9555,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
                     name = "Гигантский флакон с лечебным зельем",
-                    count = 114,
+                    count = 141,
                 },
                 {
                     link = "|cffffffff|Hitem:22832:0:0:0:0:0:0:0:10|h[Гигантский флакон с зельем маны]|h|r",
