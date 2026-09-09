@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788980224
+ItemStorageDB_LastUpdate = 1788980451
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7817,8 +7817,8 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 20:03:39",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-09 22:00:51",
         money = 0,
         empty = 195,
         location = "Оргриммар",
@@ -7925,7 +7925,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788973402,
+            last_update = 1788980240,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -8030,7 +8030,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788973403,
+            last_update = 1788980291,
             items = {
             },
         },
