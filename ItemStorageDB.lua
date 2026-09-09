@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788970805
+ItemStorageDB_LastUpdate = 1788970876
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9763,9 +9763,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 07:02:17",
+        updated_at = "2026-09-09 19:21:16",
         money = 4062,
-        empty = 120,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -9781,7 +9781,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
                 name = "Поврежденное ожерелье",
-                count = 10,
+                count = 11,
             },
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
@@ -9950,7 +9950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788926509,
+            last_update = 1788970869,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9960,7 +9960,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
                     name = "Поврежденное ожерелье",
-                    count = 10,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -10065,7 +10065,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
                     name = "Перстень Огнекрылов",
-                    count = 19,
+                    count = 29,
                 },
                 {
                     link = "|cffffffff|Hitem:30809:0:0:0:0:0:0:0:10|h[Знак Саргераса]|h|r",
@@ -10115,7 +10115,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788926531,
+            last_update = 1788970870,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
@@ -10136,11 +10136,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                     name = "Мифриловая обшивка",
                     count = 53,
-                },
-                {
-                    link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
-                    name = "Перстень Огнекрылов",
-                    count = 10,
                 },
             },
         },
