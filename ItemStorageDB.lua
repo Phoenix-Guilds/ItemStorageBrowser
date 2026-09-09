@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788973022
+ItemStorageDB_LastUpdate = 1788973040
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9813,9 +9813,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:21:16",
+        updated_at = "2026-09-09 19:57:20",
         money = 4062,
-        empty = 121,
+        empty = 120,
         location = "Оргриммар",
         items = {
             {
@@ -9856,7 +9856,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
                 name = "Разорванная шкура медведя",
-                count = 9,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э'ко диких совухов]|h|r",
@@ -10000,7 +10000,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788970869,
+            last_update = 1788973034,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -10020,7 +10020,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
                     name = "Разорванная шкура медведя",
-                    count = 9,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э'ко диких совухов]|h|r",
@@ -10165,7 +10165,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788970870,
+            last_update = 1788973035,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
