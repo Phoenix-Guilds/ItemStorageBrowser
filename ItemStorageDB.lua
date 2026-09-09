@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788973379
+ItemStorageDB_LastUpdate = 1788973419
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7817,26 +7817,21 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 08:50:15",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-09 20:03:39",
         money = 0,
-        empty = 194,
+        empty = 195,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
                 name = "Десерт из мертвечины",
-                count = 80,
+                count = 24,
             },
             {
                 link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
                 name = "Мощь-рыба в кляре",
                 count = 65,
-            },
-            {
-                link = "|cffffffff|Hitem:18045:0:0:0:0:0:0:0:10|h[Нежный стейк из волчатины]|h|r",
-                name = "Нежный стейк из волчатины",
-                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
@@ -7911,12 +7906,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 20,
+                count = 75,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
-                count = 35,
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
@@ -7930,22 +7925,17 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785909006,
+            last_update = 1788973402,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
                     name = "Десерт из мертвечины",
-                    count = 80,
+                    count = 24,
                 },
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
                     name = "Мощь-рыба в кляре",
                     count = 65,
-                },
-                {
-                    link = "|cffffffff|Hitem:18045:0:0:0:0:0:0:0:10|h[Нежный стейк из волчатины]|h|r",
-                    name = "Нежный стейк из волчатины",
-                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
@@ -8020,12 +8010,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                     name = "Хрустящий хвост ящерицы",
-                    count = 20,
+                    count = 75,
                 },
                 {
                     link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                     name = "Отварные мидии",
-                    count = 35,
+                    count = 25,
                 },
                 {
                     link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
@@ -8040,7 +8030,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785909009,
+            last_update = 1788973403,
             items = {
             },
         },
