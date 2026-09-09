@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788972861
+ItemStorageDB_LastUpdate = 1788972897
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23143,9 +23143,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:19:13",
+        updated_at = "2026-09-09 19:54:57",
         money = 194111,
-        empty = 109,
+        empty = 105,
         location = "Оргриммар",
         items = {
             {
@@ -23156,7 +23156,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                 name = "Кольцо защиты",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -23321,7 +23321,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5266:0:0:0:0:0:0:0:10|h[Око Адегуса]|h|r",
                 name = "Око Адегуса",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:7734:0:0:0:0:0:0:0:10|h[Сумка Шести Демонов]|h|r",
@@ -23376,7 +23376,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
                 name = "Кольцо сумеречных призраков",
-                count = 3,
+                count = 5,
             },
             {
                 link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
@@ -23535,12 +23535,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788970747,
+            last_update = 1788972890,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                     name = "Кольцо защиты",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -23655,7 +23655,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:5266:0:0:0:0:0:0:0:10|h[Око Адегуса]|h|r",
                     name = "Око Адегуса",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff1eff00|Hitem:11987:0:0:0:0:0:772:0:10|h[Иридиевый обруч со знаком совы]|h|r",
@@ -23695,7 +23695,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
                     name = "Кольцо сумеречных призраков",
-                    count = 3,
+                    count = 5,
                 },
                 {
                     link = "|cff1eff00|Hitem:20833:0:0:0:0:0:0:0:10|h[Гибельное кольцо лунного камня]|h|r",
@@ -23825,7 +23825,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788970748,
+            last_update = 1788972891,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
