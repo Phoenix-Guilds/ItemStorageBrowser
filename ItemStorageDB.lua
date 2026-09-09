@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788973693
+ItemStorageDB_LastUpdate = 1788980062
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21562,10 +21562,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:54:21",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-09 21:54:22",
         money = 203936,
-        empty = 8,
+        empty = 10,
         location = "Оргриммар",
         items = {
             {
@@ -21701,7 +21701,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                 name = "Поножи осколка голема",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13075:0:0:0:0:0:0:0:10|h[Набедренники Мрачнокрылого]|h|r",
@@ -21711,7 +21711,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13076:0:0:0:0:0:0:0:10|h[Наручи истребителя великанов]|h|r",
                 name = "Наручи истребителя великанов",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13077:0:0:0:0:0:0:0:10|h[Ремень Утера]|h|r",
@@ -22330,7 +22330,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788972853,
+            last_update = 1788979897,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
@@ -22440,7 +22440,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                     name = "Поножи осколка голема",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13075:0:0:0:0:0:0:0:10|h[Набедренники Мрачнокрылого]|h|r",
@@ -22450,7 +22450,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13076:0:0:0:0:0:0:0:10|h[Наручи истребителя великанов]|h|r",
                     name = "Наручи истребителя великанов",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13077:0:0:0:0:0:0:0:10|h[Ремень Утера]|h|r",
@@ -22855,7 +22855,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788972855,
+            last_update = 1788979925,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
