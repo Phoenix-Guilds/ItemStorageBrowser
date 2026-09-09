@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788969885
+ItemStorageDB_LastUpdate = 1788969929
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12463,9 +12463,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 18:53:50",
+        updated_at = "2026-09-09 19:05:29",
         money = 13104,
-        empty = 70,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -12476,7 +12476,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                 name = "Зов небес",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -12541,12 +12541,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
                 name = "Огнеиспускатель Джайны",
-                count = 4,
+                count = 6,
             },
             {
                 link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                 name = "Жезл Аллистария",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
@@ -12561,7 +12561,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
                 name = "Глушитель",
-                count = 5,
+                count = 6,
             },
             {
                 link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
@@ -12606,12 +12606,12 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
                 name = "Дворфийская пищаль",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 5,
+                count = 6,
             },
             {
                 link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -12645,12 +12645,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788969224,
+            last_update = 1788969924,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                     name = "Зов небес",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -12715,12 +12715,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
                     name = "Огнеиспускатель Джайны",
-                    count = 4,
+                    count = 6,
                 },
                 {
                     link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                     name = "Жезл Аллистария",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
@@ -12735,7 +12735,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
                     name = "Глушитель",
-                    count = 5,
+                    count = 6,
                 },
                 {
                     link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
@@ -12755,12 +12755,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
                     name = "Дворфийская пищаль",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                     name = "Пристрелянный огнестрел",
-                    count = 5,
+                    count = 6,
                 },
                 {
                     link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -12775,7 +12775,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788969225,
+            last_update = 1788969925,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
