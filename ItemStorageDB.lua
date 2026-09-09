@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788970716
+ItemStorageDB_LastUpdate = 1788970753
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23018,9 +23018,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:04:45",
+        updated_at = "2026-09-09 19:19:13",
         money = 194111,
-        empty = 111,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -23061,12 +23061,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
                 name = "Оберег Газлова",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                 name = "Подвеска Скиби",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
@@ -23410,7 +23410,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788969877,
+            last_update = 1788970747,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23700,7 +23700,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788969880,
+            last_update = 1788970748,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23725,12 +23725,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
                     name = "Оберег Газлова",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                     name = "Подвеска Скиби",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
