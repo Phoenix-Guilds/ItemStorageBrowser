@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788972811
+ItemStorageDB_LastUpdate = 1788972836
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2333,9 +2333,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:18:36",
+        updated_at = "2026-09-09 19:53:56",
         money = 92710,
-        empty = 24,
+        empty = 23,
         location = "Оргриммар",
         items = {
             {
@@ -2637,6 +2637,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:1721:0:0:0:0:0:0:0:10|h[Боевой молот викинга]|h|r",
                 name = "Боевой молот викинга",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
+                name = "Острокаменная кувалда",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1726:0:0:0:0:0:0:0:10|h[Костяное копье с отравленным наконечником]|h|r",
@@ -2975,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788970710,
+            last_update = 1788972827,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3475,7 +3480,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788970710,
+            last_update = 1788972829,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3580,6 +3585,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
                     name = "Тяжелый ятаган мародера",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
+                    name = "Острокаменная кувалда",
                     count = 1,
                 },
                 {
