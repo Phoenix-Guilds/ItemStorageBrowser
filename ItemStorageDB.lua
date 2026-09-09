@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788969783
+ItemStorageDB_LastUpdate = 1788969818
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2333,9 +2333,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 18:51:40",
+        updated_at = "2026-09-09 19:03:38",
         money = 92710,
-        empty = 30,
+        empty = 26,
         location = "Оргриммар",
         items = {
             {
@@ -2559,6 +2559,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
+                name = "Кровавая пика",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                 name = "Острие Кху",
                 count = 2,
@@ -2566,7 +2571,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
                 name = "Каменный ворон",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
@@ -2576,7 +2581,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -2696,7 +2701,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -2965,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788969092,
+            last_update = 1788969810,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3465,7 +3470,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788969094,
+            last_update = 1788969812,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3523,14 +3528,24 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
+                    name = "Кровавая пика",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                     name = "Острие Кху",
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
+                    name = "Каменный ворон",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -3590,6 +3605,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
                     name = "Боевая перчатка расплаты",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
+                    name = "Массивная треугольная палица",
                     count = 1,
                 },
                 {
