@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788973196
+ItemStorageDB_LastUpdate = 1788973209
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24062,8 +24062,8 @@ ItemStorageDB = {
     },
     {
         name = "Сокетная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-08-05 08:26:05",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-09 20:00:09",
         money = 13534,
         empty = 195,
         location = "Оргриммар",
@@ -24110,7 +24110,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1785907559,
+            last_update = 1788973203,
             items = {
                 {
                     link = "|cff0070dd|Hitem:40012:0:0:0:0:0:0:0:10|h[Сверкающее сияние осени]|h|r",
@@ -24155,7 +24155,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1785907561,
+            last_update = 1788973204,
             items = {
             },
         },
