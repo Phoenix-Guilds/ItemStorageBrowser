@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788967699
+ItemStorageDB_LastUpdate = 1788967725
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10008,9 +10008,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-04 13:58:25",
+        updated_at = "2026-09-09 18:28:45",
         money = 213874,
-        empty = 67,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -10176,7 +10176,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:34736:0:0:0:0:0:0:0:10|h[Кусок мяса мамонта]|h|r",
                 name = "Кусок мяса мамонта",
-                count = 80,
+                count = 83,
             },
             {
                 link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
@@ -10221,7 +10221,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43011:0:0:0:0:0:0:0:10|h[Окорок ворга]|h|r",
                 name = "Окорок ворга",
-                count = 139,
+                count = 151,
             },
             {
                 link = "|cffffffff|Hitem:43012:0:0:0:0:0:0:0:10|h[Мясо люторога]|h|r",
@@ -10231,7 +10231,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 1189,
+                count = 1195,
             },
             {
                 link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
@@ -10310,7 +10310,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788519498,
+            last_update = 1788967718,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10610,7 +10610,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788519500,
+            last_update = 1788967719,
             items = {
                 {
                     link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
@@ -10643,6 +10643,11 @@ ItemStorageDB = {
                     count = 18,
                 },
                 {
+                    link = "|cffffffff|Hitem:34736:0:0:0:0:0:0:0:10|h[Кусок мяса мамонта]|h|r",
+                    name = "Кусок мяса мамонта",
+                    count = 3,
+                },
+                {
                     link = "|cffffffff|Hitem:3712:0:0:0:0:0:0:0:10|h[Черепашье мясо]|h|r",
                     name = "Черепашье мясо",
                     count = 3,
@@ -10658,9 +10663,14 @@ ItemStorageDB = {
                     count = 12,
                 },
                 {
+                    link = "|cffffffff|Hitem:43011:0:0:0:0:0:0:0:10|h[Окорок ворга]|h|r",
+                    name = "Окорок ворга",
+                    count = 12,
+                },
+                {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                     name = "Охлажденное мясо",
-                    count = 839,
+                    count = 845,
                 },
                 {
                     link = "|cffffffff|Hitem:5465:0:0:0:0:0:0:0:10|h[Небольшая паучья лапка]|h|r",
