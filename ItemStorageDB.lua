@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788973040
+ItemStorageDB_LastUpdate = 1788973070
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18193,7 +18193,7 @@ ItemStorageDB = {
     {
         name = "Сумчатая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 18:36:52",
+        updated_at = "2026-09-09 19:57:50",
         money = 4245,
         empty = 64,
         location = "Оргриммар",
@@ -18255,7 +18255,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788968206,
+            last_update = 1788973056,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
@@ -18310,7 +18310,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788968207,
+            last_update = 1788973057,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
