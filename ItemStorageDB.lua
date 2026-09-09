@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1788968126
+ItemStorageDB_LastUpdate = 1788968085
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 18:35:26",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-09 07:07:55",
         money = 339404,
         empty = 113,
         location = "Оргриммар",
@@ -131,7 +131,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41099:0:0:0:0:0:0:0:10|h[Символ освящения]|h|r",
                 name = "Символ освящения",
-                count = 7,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:41103:0:0:0:0:0:0:0:10|h[Символ экзорцизма]|h|r",
@@ -396,7 +396,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42735:0:0:0:0:0:0:0:10|h[Символ чародейских стрел]|h|r",
                 name = "Символ чародейских стрел",
-                count = 7,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:42736:0:0:0:0:0:0:0:10|h[Символ мощи тайной магии]|h|r",
@@ -1021,7 +1021,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45743:0:0:0:0:0:0:0:10|h[Символ божественной бури]|h|r",
                 name = "Символ божественной бури",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:45745:0:0:0:0:0:0:0:10|h[Символ святой клятвы]|h|r",
@@ -1165,7 +1165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788968002,
+            last_update = 1788926861,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1285,7 +1285,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41099:0:0:0:0:0:0:0:10|h[Символ освящения]|h|r",
                     name = "Символ освящения",
-                    count = 7,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:41103:0:0:0:0:0:0:0:10|h[Символ экзорцизма]|h|r",
@@ -1550,7 +1550,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42735:0:0:0:0:0:0:0:10|h[Символ чародейских стрел]|h|r",
                     name = "Символ чародейских стрел",
-                    count = 7,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:42736:0:0:0:0:0:0:0:10|h[Символ мощи тайной магии]|h|r",
@@ -2175,7 +2175,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:45743:0:0:0:0:0:0:0:10|h[Символ божественной бури]|h|r",
                     name = "Символ божественной бури",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:45745:0:0:0:0:0:0:0:10|h[Символ святой клятвы]|h|r",
@@ -2320,7 +2320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788968024,
+            last_update = 1788926867,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -10008,9 +10008,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 18:35:11",
+        updated_at = "2026-09-09 18:28:45",
         money = 213874,
-        empty = 62,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -10186,7 +10186,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36782:0:0:0:0:0:0:0:10|h[Сочное мясо моллюска]|h|r",
                 name = "Сочное мясо моллюска",
-                count = 96,
+                count = 74,
             },
             {
                 link = "|cffffffff|Hitem:3685:0:0:0:0:0:0:0:10|h[Яйцо ящера]|h|r",
@@ -10231,7 +10231,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 1294,
+                count = 1195,
             },
             {
                 link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
@@ -10310,7 +10310,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788968102,
+            last_update = 1788967718,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10610,7 +10610,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788968105,
+            last_update = 1788967719,
             items = {
                 {
                     link = "|cffffffff|Hitem:1081:0:0:0:0:0:0:0:10|h[Хрустящее паучье мясо]|h|r",
@@ -10648,11 +10648,6 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
-                    link = "|cffffffff|Hitem:36782:0:0:0:0:0:0:0:10|h[Сочное мясо моллюска]|h|r",
-                    name = "Сочное мясо моллюска",
-                    count = 22,
-                },
-                {
                     link = "|cffffffff|Hitem:3712:0:0:0:0:0:0:0:10|h[Черепашье мясо]|h|r",
                     name = "Черепашье мясо",
                     count = 3,
@@ -10675,7 +10670,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                     name = "Охлажденное мясо",
-                    count = 944,
+                    count = 845,
                 },
                 {
                     link = "|cffffffff|Hitem:5465:0:0:0:0:0:0:0:10|h[Небольшая паучья лапка]|h|r",
