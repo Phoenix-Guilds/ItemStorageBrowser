@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788893245
+ItemStorageDB_LastUpdate = 1788926472
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2332,10 +2332,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-08 21:00:58",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-09 07:01:12",
         money = 92710,
-        empty = 36,
+        empty = 38,
         location = "Оргриммар",
         items = {
             {
@@ -2561,7 +2561,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
                 name = "Каменный ворон",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
@@ -2682,11 +2682,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
                 name = "Боевая перчатка расплаты",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                name = "Массивная треугольная палица",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -2930,7 +2925,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788890232,
+            last_update = 1788926401,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3135,7 +3130,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
                     name = "Каменный ворон",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
@@ -3415,7 +3410,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788890331,
+            last_update = 1788926462,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3530,11 +3525,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
                     name = "Боевая перчатка расплаты",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
-                    name = "Массивная треугольная палица",
                     count = 1,
                 },
                 {
