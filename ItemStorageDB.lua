@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788973070
+ItemStorageDB_LastUpdate = 1788973088
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3768,9 +3768,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:16:04",
+        updated_at = "2026-09-09 19:58:08",
         money = 158410,
-        empty = 107,
+        empty = 102,
         location = "Оргриммар",
         items = {
             {
@@ -3801,12 +3801,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
                 name = "Клинок обретенного знания",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:31153:0:0:0:0:0:0:0:10|h[Топор Легиона]|h|r",
                 name = "Топор Легиона",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:31186:0:0:0:0:0:0:0:10|h[Посох дремы Браксиса]|h|r",
@@ -3841,7 +3841,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31303:0:0:0:0:0:0:0:10|h[Длинный лук Валаноса]|h|r",
                 name = "Длинный лук Валаноса",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31305:0:0:0:0:0:0:0:10|h[Резец Цеда]|h|r",
@@ -3896,7 +3896,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37807:0:0:0:0:0:0:0:10|h[Заостренный мечелом Линдии]|h|r",
                 name = "Заостренный мечелом Линдии",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:37808:0:0:0:0:0:0:0:10|h[Драконий зубодробитель]|h|r",
@@ -3926,7 +3926,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37813:0:0:0:0:0:0:0:10|h[Знамерез]|h|r",
                 name = "Знамерез",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:37817:0:0:0:0:0:0:0:10|h[Ветвь отложенной казни]|h|r",
@@ -3965,7 +3965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788970557,
+            last_update = 1788973074,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3995,12 +3995,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
                     name = "Клинок обретенного знания",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:31153:0:0:0:0:0:0:0:10|h[Топор Легиона]|h|r",
                     name = "Топор Легиона",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:31186:0:0:0:0:0:0:0:10|h[Посох дремы Браксиса]|h|r",
@@ -4035,7 +4035,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31303:0:0:0:0:0:0:0:10|h[Длинный лук Валаноса]|h|r",
                     name = "Длинный лук Валаноса",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31305:0:0:0:0:0:0:0:10|h[Резец Цеда]|h|r",
@@ -4090,7 +4090,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37807:0:0:0:0:0:0:0:10|h[Заостренный мечелом Линдии]|h|r",
                     name = "Заостренный мечелом Линдии",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:37808:0:0:0:0:0:0:0:10|h[Драконий зубодробитель]|h|r",
@@ -4120,7 +4120,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37813:0:0:0:0:0:0:0:10|h[Знамерез]|h|r",
                     name = "Знамерез",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:37817:0:0:0:0:0:0:0:10|h[Ветвь отложенной казни]|h|r",
@@ -4160,7 +4160,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788970559,
+            last_update = 1788973075,
             items = {
             },
         },
