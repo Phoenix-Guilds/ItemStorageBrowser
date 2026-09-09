@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1788970611
+ItemStorageDB_LastUpdate = 1788970651
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12483,9 +12483,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:05:29",
+        updated_at = "2026-09-09 19:17:31",
         money = 13104,
-        empty = 63,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -12506,12 +12506,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                 name = "Короткий лук из когтя гарпии",
-                count = 3,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                 name = "Лук небесного бойца",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13021:0:0:0:0:0:0:0:10|h[Продеватель игл]|h|r",
@@ -12531,7 +12531,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                 name = "Оса Хрустальных сосен",
-                count = 3,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
@@ -12566,7 +12566,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                 name = "Жезл Аллистария",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
@@ -12665,7 +12665,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788969924,
+            last_update = 1788970645,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12680,12 +12680,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
                     name = "Короткий лук из когтя гарпии",
-                    count = 3,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                     name = "Лук небесного бойца",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13021:0:0:0:0:0:0:0:10|h[Продеватель игл]|h|r",
@@ -12705,7 +12705,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                     name = "Оса Хрустальных сосен",
-                    count = 3,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
@@ -12740,7 +12740,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                     name = "Жезл Аллистария",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
@@ -12795,7 +12795,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788969925,
+            last_update = 1788970646,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
