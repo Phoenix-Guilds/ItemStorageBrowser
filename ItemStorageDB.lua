@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789073377
+ItemStorageDB_LastUpdate = 1789127595
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21558,9 +21558,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-10 23:49:37",
+        updated_at = "2026-09-11 14:53:15",
         money = 203936,
-        empty = 16,
+        empty = 17,
         location = "Оргриммар",
         items = {
             {
@@ -21781,7 +21781,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
                 name = "Наплеч Незримых",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
@@ -22300,7 +22300,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789073339,
+            last_update = 1789127424,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
@@ -22825,7 +22825,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789073351,
+            last_update = 1789127464,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
@@ -22911,11 +22911,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
                     name = "Оплечье Бараньей стрижки",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
-                    name = "Наплеч Незримых",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
