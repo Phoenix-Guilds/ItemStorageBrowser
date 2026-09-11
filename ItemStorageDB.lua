@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789148686
+ItemStorageDB_LastUpdate = 1789148772
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23047,10 +23047,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 21:56:10",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-11 20:46:12",
         money = 194111,
-        empty = 106,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -23106,7 +23106,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
                 name = "Кольцо тлеющих углей",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
@@ -23211,7 +23211,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
                 name = "Кольцо побегов",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
@@ -23435,7 +23435,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788980112,
+            last_update = 1789148727,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23455,7 +23455,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
                     name = "Кольцо тлеющих углей",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
@@ -23545,7 +23545,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
                     name = "Кольцо побегов",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
@@ -23720,7 +23720,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788980131,
+            last_update = 1789148743,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
