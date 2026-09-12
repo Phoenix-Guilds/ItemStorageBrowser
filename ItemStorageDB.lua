@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789236160
+ItemStorageDB_LastUpdate = 1789236210
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4948,7 +4948,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 20:02:59",
+        updated_at = "2026-09-12 21:03:30",
         money = 999680,
         empty = 118,
         location = "Оргриммар",
@@ -5251,11 +5251,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                 name = "Черный купорос",
-                count = 103,
+                count = 102,
             },
         },
         bank = {
-            last_update = 1788973372,
+            last_update = 1789236193,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5520,7 +5520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788973373,
+            last_update = 1789236199,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5565,7 +5565,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                     name = "Черный купорос",
-                    count = 100,
+                    count = 99,
                 },
             },
         },
