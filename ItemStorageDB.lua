@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789309464
+ItemStorageDB_LastUpdate = 1789313395
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21402,11 +21402,11 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-13 16:59:52",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-13 18:29:55",
         money = 203936,
-        empty = 21,
-        location = "Оргриммар",
+        empty = 20,
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
@@ -21921,7 +21921,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
                 name = "Перчатки буяна",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
@@ -22140,7 +22140,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789307971,
+            last_update = 1788979897,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
@@ -22575,7 +22575,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
                     name = "Перчатки буяна",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
@@ -22665,7 +22665,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789307983,
+            last_update = 1789313364,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
