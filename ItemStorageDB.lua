@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789309351
+ItemStorageDB_LastUpdate = 1789309464
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2332,10 +2332,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-13 16:58:44",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-13 17:24:24",
         money = 92710,
-        empty = 27,
+        empty = 28,
         location = "Оргриммар",
         items = {
             {
@@ -2794,11 +2794,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cff0070dd|Hitem:8225:0:0:0:0:0:0:0:10|h[Гниющий пронзатель]|h|r",
-                name = "Гниющий пронзатель",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:8226:0:0:0:0:0:0:0:10|h[Мясник]|h|r",
                 name = "Мясник",
                 count = 1,
@@ -2980,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789307909,
+            last_update = 1789309394,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3348,11 +3343,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:8225:0:0:0:0:0:0:0:10|h[Гниющий пронзатель]|h|r",
-                    name = "Гниющий пронзатель",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
                     name = "Жнец Сталвана",
                     count = 2,
@@ -3480,7 +3470,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789307918,
+            last_update = 1789309413,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
