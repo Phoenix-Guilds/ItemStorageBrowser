@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789307924
+ItemStorageDB_LastUpdate = 1789307992
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21413,9 +21413,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-11 20:44:46",
+        updated_at = "2026-09-13 16:59:52",
         money = 203936,
-        empty = 19,
+        empty = 21,
         location = "Оргриммар",
         items = {
             {
@@ -21676,7 +21676,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
                 name = "Корона северного разбойника",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
@@ -21846,7 +21846,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                 name = "Двойной мундир",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
@@ -22150,7 +22150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789148653,
+            last_update = 1789307971,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10578:0:0:0:0:0:0:0:10|h[Сапоги оброненной мысли]|h|r",
@@ -22675,7 +22675,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789148665,
+            last_update = 1789307983,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
@@ -22773,11 +22773,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
-                    name = "Корона северного разбойника",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
                     name = "Шлем Большого Берга",
                     count = 1,
@@ -22830,7 +22825,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                     name = "Двойной мундир",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
