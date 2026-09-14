@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789372617
+ItemStorageDB_LastUpdate = 1789372764
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16308,9 +16308,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-14 10:56:57",
+        updated_at = "2026-09-14 10:59:24",
         money = 108852,
-        empty = 103,
+        empty = 104,
         location = "Оргриммар",
         items = {
             {
@@ -16322,11 +16322,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
                 name = "Тонкий длинный лук",
                 count = 2,
-            },
-            {
-                link = "|cff1eff00|Hitem:11982:0:0:0:0:0:759:0:10|h[Иридиевое кольцо со знаком совы]|h|r",
-                name = "Иридиевое кольцо со знаком совы",
-                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:14127:0:0:0:0:0:1021:0:10|h[Ритуальный покров со знаком кита]|h|r",
@@ -17045,7 +17040,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789372478,
+            last_update = 1789372747,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -17056,11 +17051,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
                     name = "Тонкий длинный лук",
                     count = 2,
-                },
-                {
-                    link = "|cff1eff00|Hitem:11982:0:0:0:0:0:759:0:10|h[Иридиевое кольцо со знаком совы]|h|r",
-                    name = "Иридиевое кольцо со знаком совы",
-                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:14127:0:0:0:0:0:1021:0:10|h[Ритуальный покров со знаком кита]|h|r",
@@ -17495,7 +17485,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789372605,
+            last_update = 1789372758,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14409:0:0:0:0:0:0:0:10|h[Накидка из каменной ткани]|h|r",
