@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1789375539
+ItemStorageDB_LastUpdate = 1789376221
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-14 11:10:47",
+        updated_at = "2026-09-14 11:57:01",
         money = 339404,
         empty = 113,
         location = "Оргриммар",
@@ -1165,7 +1165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789373406,
+            last_update = 1789376211,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2320,7 +2320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789373411,
+            last_update = 1789376213,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
