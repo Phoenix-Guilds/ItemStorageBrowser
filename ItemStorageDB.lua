@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789372440
+ItemStorageDB_LastUpdate = 1789372617
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16308,15 +16308,15 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-14 10:23:09",
+        updated_at = "2026-09-14 10:56:57",
         money = 108852,
-        empty = 100,
+        empty = 103,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
                 name = "Малый магический жезл",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
@@ -16751,11 +16751,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
                 name = "Огненный жезл",
-                count = 2,
-            },
-            {
-                link = "|cff1eff00|Hitem:5212:0:0:0:0:0:0:0:10|h[Пылающий жезл]|h|r",
-                name = "Пылающий жезл",
                 count = 1,
             },
             {
@@ -17050,12 +17045,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789370569,
+            last_update = 1789372478,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
                     name = "Малый магический жезл",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
@@ -17320,11 +17315,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
                     name = "Огненный жезл",
-                    count = 2,
-                },
-                {
-                    link = "|cff1eff00|Hitem:5212:0:0:0:0:0:0:0:10|h[Пылающий жезл]|h|r",
-                    name = "Пылающий жезл",
                     count = 1,
                 },
                 {
@@ -17505,7 +17495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789370580,
+            last_update = 1789372605,
             items = {
                 {
                     link = "|cff1eff00|Hitem:14409:0:0:0:0:0:0:0:10|h[Накидка из каменной ткани]|h|r",
