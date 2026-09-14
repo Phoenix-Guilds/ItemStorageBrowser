@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789377859
+ItemStorageDB_LastUpdate = 1789390404
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9638,9 +9638,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-11 19:52:20",
+        updated_at = "2026-09-14 15:53:24",
         money = 4062,
-        empty = 122,
+        empty = 124,
         location = "Оргриммар",
         items = {
             {
@@ -9661,7 +9661,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -9671,7 +9671,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
-                count = 51,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -9825,7 +9825,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789144980,
+            last_update = 1789390391,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9990,7 +9990,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789145474,
+            last_update = 1789390397,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
@@ -10000,7 +10000,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -10010,7 +10010,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                     name = "Мифриловая обшивка",
-                    count = 51,
+                    count = 50,
                 },
             },
         },
