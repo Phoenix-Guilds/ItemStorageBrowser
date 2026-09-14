@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1789377412
+ItemStorageDB_LastUpdate = 1789377859
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-14 12:09:53",
+        updated_at = "2026-09-14 12:24:19",
         money = 339404,
         empty = 113,
         location = "Оргриммар",
@@ -886,7 +886,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43425:0:0:0:0:0:0:0:10|h[Символ блокирования]|h|r",
                 name = "Символ блокирования",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43426:0:0:0:0:0:0:0:10|h[Символ отчаянной защиты]|h|r",
@@ -911,7 +911,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
                 name = "Символ грохочущей мощи",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:43431:0:0:0:0:0:0:0:10|h[Символ победного ража]|h|r",
@@ -1165,7 +1165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789376959,
+            last_update = 1789377845,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2040,7 +2040,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43425:0:0:0:0:0:0:0:10|h[Символ блокирования]|h|r",
                     name = "Символ блокирования",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43426:0:0:0:0:0:0:0:10|h[Символ отчаянной защиты]|h|r",
@@ -2065,7 +2065,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
                     name = "Символ грохочущей мощи",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43431:0:0:0:0:0:0:0:10|h[Символ победного ража]|h|r",
@@ -2320,7 +2320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789376970,
+            last_update = 1789377853,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
