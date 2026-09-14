@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789409250
+ItemStorageDB_LastUpdate = 1789410664
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8363,9 +8363,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-12 21:04:25",
+        updated_at = "2026-09-14 21:31:04",
         money = 141967,
-        empty = 149,
+        empty = 150,
         location = "Оргриммар",
         items = {
             {
@@ -8511,7 +8511,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
                 name = "Железный слиток",
-                count = 446,
+                count = 438,
             },
             {
                 link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
@@ -8546,11 +8546,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
-                count = 627,
+                count = 620,
             },
         },
         bank = {
-            last_update = 1789236248,
+            last_update = 1789410658,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8695,7 +8695,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
                     name = "Железный слиток",
-                    count = 446,
+                    count = 438,
                 },
                 {
                     link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
@@ -8730,12 +8730,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                     name = "Мифриловый слиток",
-                    count = 627,
+                    count = 620,
                 },
             },
         },
         bags = {
-            last_update = 1789236250,
+            last_update = 1789410658,
             items = {
             },
         },
