@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789374200
+ItemStorageDB_LastUpdate = 1789374695
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7923,9 +7923,9 @@ ItemStorageDB = {
     {
         name = "Красочка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 20:07:36",
+        updated_at = "2026-09-14 11:31:35",
         money = 9413,
-        empty = 164,
+        empty = 167,
         location = "Оргриммар",
         items = {
             {
@@ -7976,7 +7976,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37101:0:0:0:0:0:0:0:10|h[Бежевые чернила]|h|r",
                 name = "Бежевые чернила",
-                count = 152,
+                count = 102,
             },
             {
                 link = "|cffffffff|Hitem:39151:0:0:0:0:0:0:0:10|h[Алебастровый краситель]|h|r",
@@ -7989,11 +7989,6 @@ ItemStorageDB = {
                 count = 79,
             },
             {
-                link = "|cffffffff|Hitem:39774:0:0:0:0:0:0:0:10|h[Полуночные чернила]|h|r",
-                name = "Полуночные чернила",
-                count = 7,
-            },
-            {
                 link = "|cffffffff|Hitem:43116:0:0:0:0:0:0:0:10|h[Чернила царя зверей]|h|r",
                 name = "Чернила царя зверей",
                 count = 65,
@@ -8001,7 +7996,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43118:0:0:0:0:0:0:0:10|h[Чернила нефритового пламени]|h|r",
                 name = "Чернила нефритового пламени",
-                count = 63,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:43120:0:0:0:0:0:0:0:10|h[Астрономические чернила]|h|r",
@@ -8015,7 +8010,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788973650,
+            last_update = 1789374629,
             items = {
                 {
                     link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
@@ -8065,7 +8060,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:37101:0:0:0:0:0:0:0:10|h[Бежевые чернила]|h|r",
                     name = "Бежевые чернила",
-                    count = 152,
+                    count = 102,
                 },
                 {
                     link = "|cffffffff|Hitem:39151:0:0:0:0:0:0:0:10|h[Алебастровый краситель]|h|r",
@@ -8078,11 +8073,6 @@ ItemStorageDB = {
                     count = 79,
                 },
                 {
-                    link = "|cffffffff|Hitem:39774:0:0:0:0:0:0:0:10|h[Полуночные чернила]|h|r",
-                    name = "Полуночные чернила",
-                    count = 7,
-                },
-                {
                     link = "|cffffffff|Hitem:43116:0:0:0:0:0:0:0:10|h[Чернила царя зверей]|h|r",
                     name = "Чернила царя зверей",
                     count = 65,
@@ -8090,7 +8080,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43118:0:0:0:0:0:0:0:10|h[Чернила нефритового пламени]|h|r",
                     name = "Чернила нефритового пламени",
-                    count = 63,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:43120:0:0:0:0:0:0:0:10|h[Астрономические чернила]|h|r",
@@ -8105,7 +8095,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788973651,
+            last_update = 1789374631,
             items = {
             },
         },
