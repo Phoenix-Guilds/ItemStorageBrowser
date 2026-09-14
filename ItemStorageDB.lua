@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789377347
+ItemStorageDB_LastUpdate = 1789377412
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2333,9 +2333,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-14 10:52:51",
+        updated_at = "2026-09-14 12:16:52",
         money = 92710,
-        empty = 31,
+        empty = 36,
         location = "Оргриммар",
         items = {
             {
@@ -2446,11 +2446,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                 name = "Небесный свет",
-                count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
-                name = "Костегрыз",
                 count = 2,
             },
             {
@@ -2672,11 +2667,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:2299:0:0:0:0:0:0:0:10|h[Горящая секира]|h|r",
                 name = "Горящая секира",
                 count = 3,
-            },
-            {
-                link = "|cff0070dd|Hitem:24222:0:0:0:0:0:0:0:10|h[Протыкатель Тенеследа]|h|r",
-                name = "Протыкатель Тенеследа",
-                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
@@ -2906,7 +2896,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
                 name = "Канг Обезглавливатель",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:2801:0:0:0:0:0:0:0:10|h[Клинок Ханны]|h|r",
@@ -2975,7 +2965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789372322,
+            last_update = 1789377387,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3070,11 +3060,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                     name = "Ручной молот Мертвого Леса",
-                    count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
-                    name = "Костегрыз",
                     count = 2,
                 },
                 {
@@ -3248,11 +3233,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:24222:0:0:0:0:0:0:0:10|h[Протыкатель Тенеследа]|h|r",
-                    name = "Протыкатель Тенеследа",
-                    count = 2,
-                },
-                {
                     link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
                     name = "Изогнутый мясницкий нож",
                     count = 1,
@@ -3408,11 +3388,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
-                    name = "Канг Обезглавливатель",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:2801:0:0:0:0:0:0:0:10|h[Клинок Ханны]|h|r",
                     name = "Клинок Ханны",
                     count = 1,
@@ -3465,7 +3440,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789372362,
+            last_update = 1789377399,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
