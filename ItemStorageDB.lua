@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789372294
+ItemStorageDB_LastUpdate = 1789372371
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2333,9 +2333,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-14 10:20:35",
+        updated_at = "2026-09-14 10:52:51",
         money = 92710,
-        empty = 30,
+        empty = 31,
         location = "Оргриммар",
         items = {
             {
@@ -2781,7 +2781,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                 name = "Корявый ясеневый посох",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
@@ -2975,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789370375,
+            last_update = 1789372322,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3328,11 +3328,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
-                    name = "Корявый ясеневый посох",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
                     name = "Пронзатель",
                     count = 2,
@@ -3470,7 +3465,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789370392,
+            last_update = 1789372362,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
