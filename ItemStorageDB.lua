@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789374695
+ItemStorageDB_LastUpdate = 1789374966
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18088,9 +18088,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-12 23:03:38",
+        updated_at = "2026-09-14 11:36:06",
         money = 975064,
-        empty = 117,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -18301,7 +18301,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                 name = "Огнецвет",
-                count = 245,
+                count = 145,
             },
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
@@ -18321,7 +18321,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 258,
+                count = 158,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -18355,7 +18355,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789243398,
+            last_update = 1789374834,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18525,7 +18525,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                     name = "Огнецвет",
-                    count = 245,
+                    count = 145,
                 },
                 {
                     link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
@@ -18535,7 +18535,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                     name = "Магороза",
-                    count = 258,
+                    count = 158,
                 },
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -18570,7 +18570,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789243412,
+            last_update = 1789374842,
             items = {
                 {
                     link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
