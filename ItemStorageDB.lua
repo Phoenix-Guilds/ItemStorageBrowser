@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789372371
+ItemStorageDB_LastUpdate = 1789372440
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12418,9 +12418,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:55:20",
+        updated_at = "2026-09-14 10:54:00",
         money = 13104,
-        empty = 57,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -12431,12 +12431,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                 name = "Зов небес",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
                 name = "Факел Остен",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
@@ -12486,22 +12486,22 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                 name = "Громодерево",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
                 name = "Огнеиспускатель Джайны",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                 name = "Жезл Аллистария",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
@@ -12600,17 +12600,17 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788972909,
+            last_update = 1789372407,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                     name = "Зов небес",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
                     name = "Факел Остен",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
@@ -12660,22 +12660,22 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                     name = "Громодерево",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                     name = "Звездопад",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
                     name = "Огнеиспускатель Джайны",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                     name = "Жезл Аллистария",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
@@ -12730,7 +12730,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788972910,
+            last_update = 1789372419,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
