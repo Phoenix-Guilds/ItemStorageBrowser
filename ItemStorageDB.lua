@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789590412
+ItemStorageDB_LastUpdate = 1789590743
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8673,9 +8673,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:25:11",
+        updated_at = "2026-09-16 23:32:23",
         money = 208636,
-        empty = 78,
+        empty = 79,
         location = "Оргриммар",
         items = {
             {
@@ -8756,7 +8756,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 86,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
@@ -9091,11 +9091,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                 name = "Лечебное зелье",
-                count = 64,
+                count = 44,
             },
         },
         bank = {
-            last_update = 1789557905,
+            last_update = 1789590510,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9425,7 +9425,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789557906,
+            last_update = 1789590570,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9455,7 +9455,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                     name = "Средний флакон с лечебным зельем",
-                    count = 86,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
@@ -9520,7 +9520,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                     name = "Лечебное зелье",
-                    count = 64,
+                    count = 44,
                 },
             },
         },
