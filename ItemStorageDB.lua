@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789558389
+ItemStorageDB_LastUpdate = 1789558520
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3758,9 +3758,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:29:39",
+        updated_at = "2026-09-16 14:35:20",
         money = 158410,
-        empty = 99,
+        empty = 98,
         location = "Оргриммар",
         items = {
             {
@@ -3866,7 +3866,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37802:0:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
                 name = "Острие Эланора",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:37803:0:0:0:0:0:0:0:10|h[Животворная ветвь Лолы]|h|r",
@@ -3965,7 +3965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789558172,
+            last_update = 1789558515,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -4070,7 +4070,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37802:0:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
                     name = "Острие Эланора",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:37803:0:0:0:0:0:0:0:10|h[Животворная ветвь Лолы]|h|r",
@@ -4170,7 +4170,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789558174,
+            last_update = 1789558515,
             items = {
             },
         },
