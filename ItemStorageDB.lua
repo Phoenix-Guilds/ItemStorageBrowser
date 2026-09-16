@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789519171
+ItemStorageDB_LastUpdate = 1789519216
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7747,10 +7747,10 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-14 11:31:35",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 03:40:16",
         money = 9413,
-        empty = 167,
+        empty = 168,
         location = "Оргриммар",
         items = {
             {
@@ -7824,18 +7824,13 @@ ItemStorageDB = {
                 count = 13,
             },
             {
-                link = "|cffffffff|Hitem:43120:0:0:0:0:0:0:0:10|h[Астрономические чернила]|h|r",
-                name = "Астрономические чернила",
-                count = 2,
-            },
-            {
                 link = "|cffffffff|Hitem:43126:0:0:0:0:0:0:0:10|h[Чернила моря]|h|r",
                 name = "Чернила моря",
                 count = 21,
             },
         },
         bank = {
-            last_update = 1789374629,
+            last_update = 1789519209,
             items = {
                 {
                     link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
@@ -7908,11 +7903,6 @@ ItemStorageDB = {
                     count = 13,
                 },
                 {
-                    link = "|cffffffff|Hitem:43120:0:0:0:0:0:0:0:10|h[Астрономические чернила]|h|r",
-                    name = "Астрономические чернила",
-                    count = 2,
-                },
-                {
                     link = "|cffffffff|Hitem:43126:0:0:0:0:0:0:0:10|h[Чернила моря]|h|r",
                     name = "Чернила моря",
                     count = 21,
@@ -7920,7 +7910,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789374631,
+            last_update = 1789519211,
             items = {
             },
         },
