@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789558827
+ItemStorageDB_LastUpdate = 1789558858
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11957,10 +11957,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 03:27:25",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 14:40:58",
         money = 13104,
-        empty = 63,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -11971,12 +11971,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                 name = "Зов небес",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
                 name = "Факел Остен",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
@@ -12031,7 +12031,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -12140,17 +12140,17 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789518438,
+            last_update = 1789558853,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                     name = "Зов небес",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
                     name = "Факел Остен",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13019:0:0:0:0:0:0:0:10|h[Короткий лук из когтя гарпии]|h|r",
@@ -12205,7 +12205,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                     name = "Звездопад",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -12270,7 +12270,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789518441,
+            last_update = 1789558853,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
