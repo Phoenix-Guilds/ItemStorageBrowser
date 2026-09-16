@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789558571
+ItemStorageDB_LastUpdate = 1789558779
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3758,9 +3758,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:35:20",
+        updated_at = "2026-09-16 14:39:39",
         money = 158410,
-        empty = 98,
+        empty = 95,
         location = "Оргриммар",
         items = {
             {
@@ -3866,7 +3866,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37802:0:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
                 name = "Острие Эланора",
-                count = 4,
+                count = 6,
             },
             {
                 link = "|cff0070dd|Hitem:37803:0:0:0:0:0:0:0:10|h[Животворная ветвь Лолы]|h|r",
@@ -3931,7 +3931,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37817:0:0:0:0:0:0:0:10|h[Ветвь отложенной казни]|h|r",
                 name = "Ветвь отложенной казни",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:37824:0:0:0:0:0:0:0:10|h[Рунический драконий жезл Гвинета]|h|r",
@@ -3965,7 +3965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789558515,
+            last_update = 1789558774,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -4070,7 +4070,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37802:0:0:0:0:0:0:0:10|h[Острие Эланора]|h|r",
                     name = "Острие Эланора",
-                    count = 4,
+                    count = 6,
                 },
                 {
                     link = "|cff0070dd|Hitem:37803:0:0:0:0:0:0:0:10|h[Животворная ветвь Лолы]|h|r",
@@ -4135,7 +4135,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37817:0:0:0:0:0:0:0:10|h[Ветвь отложенной казни]|h|r",
                     name = "Ветвь отложенной казни",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:37824:0:0:0:0:0:0:0:10|h[Рунический драконий жезл Гвинета]|h|r",
@@ -4170,7 +4170,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789558515,
+            last_update = 1789558774,
             items = {
             },
         },
