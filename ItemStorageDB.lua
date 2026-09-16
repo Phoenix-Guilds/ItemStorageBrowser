@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789518939
+ItemStorageDB_LastUpdate = 1789518961
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4737,10 +4737,10 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-12 21:03:30",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 03:36:01",
         money = 999680,
-        empty = 118,
+        empty = 122,
         location = "Оргриммар",
         items = {
             {
@@ -4899,24 +4899,9 @@ ItemStorageDB = {
                 count = 121,
             },
             {
-                link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
-                name = "Земля Ун'Горо",
-                count = 36,
-            },
-            {
                 link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
                 name = "Мощный амулет",
                 count = 6,
-            },
-            {
-                link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
-                name = "Ткань Скверны",
-                count = 1,
-            },
-            {
-                link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
-                name = "Средоточие Стихий",
-                count = 189,
             },
             {
                 link = "|cffffffff|Hitem:22572:0:0:0:0:0:0:0:10|h[Частица Воздуха]|h|r",
@@ -5011,7 +4996,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 51,
+                count = 49,
             },
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5041,11 +5026,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                 name = "Черный купорос",
-                count = 102,
+                count = 101,
             },
         },
         bank = {
-            last_update = 1789236193,
+            last_update = 1789518955,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5163,24 +5148,9 @@ ItemStorageDB = {
                     count = 121,
                 },
                 {
-                    link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
-                    name = "Земля Ун'Горо",
-                    count = 36,
-                },
-                {
                     link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
                     name = "Мощный амулет",
                     count = 6,
-                },
-                {
-                    link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
-                    name = "Ткань Скверны",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
-                    name = "Средоточие Стихий",
-                    count = 189,
                 },
                 {
                     link = "|cffffffff|Hitem:22572:0:0:0:0:0:0:0:10|h[Частица Воздуха]|h|r",
@@ -5275,7 +5245,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                     name = "Сердце огня",
-                    count = 51,
+                    count = 49,
                 },
                 {
                     link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5302,15 +5272,10 @@ ItemStorageDB = {
                     name = "Настой большого колдунства",
                     count = 82,
                 },
-                {
-                    link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
-                    name = "Черный купорос",
-                    count = 3,
-                },
             },
         },
         bags = {
-            last_update = 1789236199,
+            last_update = 1789518956,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5355,7 +5320,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                     name = "Черный купорос",
-                    count = 99,
+                    count = 101,
                 },
             },
         },
