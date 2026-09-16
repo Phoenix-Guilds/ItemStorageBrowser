@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789556801
+ItemStorageDB_LastUpdate = 1789556857
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9478,7 +9478,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:06:41",
+        updated_at = "2026-09-16 14:07:37",
         money = 4062,
         empty = 103,
         location = "Оргриммар",
@@ -9536,7 +9536,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                 name = "Рыбий жир",
-                count = 102,
+                count = 131,
             },
             {
                 link = "|cffffffff|Hitem:18944:0:0:0:0:0:0:0:10|h[Чешуя пламезавра]|h|r",
@@ -9551,7 +9551,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:19933:0:0:0:0:0:0:0:10|h[Светящаяся кровь скорпида]|h|r",
                 name = "Светящаяся кровь скорпида",
-                count = 22,
+                count = 32,
             },
             {
                 link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
@@ -9660,7 +9660,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789556795,
+            last_update = 1789556852,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9700,7 +9700,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                     name = "Рыбий жир",
-                    count = 102,
+                    count = 131,
                 },
                 {
                     link = "|cffffffff|Hitem:18944:0:0:0:0:0:0:0:10|h[Чешуя пламезавра]|h|r",
@@ -9715,7 +9715,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:19933:0:0:0:0:0:0:0:10|h[Светящаяся кровь скорпида]|h|r",
                     name = "Светящаяся кровь скорпида",
-                    count = 22,
+                    count = 32,
                 },
                 {
                     link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
@@ -9825,7 +9825,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789556796,
+            last_update = 1789556852,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
