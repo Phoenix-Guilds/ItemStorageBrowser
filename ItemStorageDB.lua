@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789556969
+ItemStorageDB_LastUpdate = 1789556996
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4768,9 +4768,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 13:55:50",
+        updated_at = "2026-09-16 14:09:56",
         money = 999680,
-        empty = 119,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -4806,7 +4806,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                 name = "Золотая жемчужина",
-                count = 100,
+                count = 101,
             },
             {
                 link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
@@ -4926,12 +4926,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 25,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                 name = "Сердце дикой природы",
-                count = 121,
+                count = 129,
             },
             {
                 link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
@@ -5036,7 +5036,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
                 name = "Магическая сфера воды",
-                count = 11,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
@@ -5065,7 +5065,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789556145,
+            last_update = 1789556991,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5180,12 +5180,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                     name = "Дикая лоза",
-                    count = 25,
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                     name = "Сердце дикой природы",
-                    count = 121,
+                    count = 129,
                 },
                 {
                     link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
@@ -5290,7 +5290,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
                     name = "Магическая сфера воды",
-                    count = 11,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:7081:0:0:0:0:0:0:0:10|h[Дыхание ветра]|h|r",
@@ -5315,7 +5315,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789556146,
+            last_update = 1789556991,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5325,7 +5325,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                     name = "Золотая жемчужина",
-                    count = 100,
+                    count = 101,
                 },
                 {
                     link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
