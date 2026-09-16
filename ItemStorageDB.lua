@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789556701
+ItemStorageDB_LastUpdate = 1789556740
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21183,9 +21183,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 12:52:47",
+        updated_at = "2026-09-16 14:05:40",
         money = 194111,
-        empty = 140,
+        empty = 139,
         location = "Оргриммар",
         items = {
             {
@@ -21221,7 +21221,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                 name = "Колье Ярости Реки",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
@@ -21515,7 +21515,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789552362,
+            last_update = 1789556733,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -21755,7 +21755,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789552362,
+            last_update = 1789556735,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -21775,7 +21775,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                     name = "Колье Ярости Реки",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
