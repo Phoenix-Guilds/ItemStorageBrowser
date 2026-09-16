@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789518445
+ItemStorageDB_LastUpdate = 1789518470
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5362,8 +5362,8 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-09 19:55:55",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 03:27:50",
         money = 16160,
         empty = 147,
         location = "Оргриммар",
@@ -5446,12 +5446,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39681:0:0:0:0:0:0:0:10|h[Пригоршня кобальтовых болтов]|h|r",
                 name = "Пригоршня кобальтовых болтов",
-                count = 28,
+                count = 26,
             },
             {
                 link = "|cffffffff|Hitem:39683:0:0:0:0:0:0:0:10|h[Труба из ледяной стали]|h|r",
                 name = "Труба из ледяной стали",
-                count = 6,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:39690:0:0:0:0:0:0:0:10|h[Неустойчивый детонатор]|h|r",
@@ -5550,7 +5550,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1788972948,
+            last_update = 1789518463,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5630,12 +5630,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:39681:0:0:0:0:0:0:0:10|h[Пригоршня кобальтовых болтов]|h|r",
                     name = "Пригоршня кобальтовых болтов",
-                    count = 28,
+                    count = 26,
                 },
                 {
                     link = "|cffffffff|Hitem:39683:0:0:0:0:0:0:0:10|h[Труба из ледяной стали]|h|r",
                     name = "Труба из ледяной стали",
-                    count = 6,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:39690:0:0:0:0:0:0:0:10|h[Неустойчивый детонатор]|h|r",
@@ -5735,7 +5735,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1788972949,
+            last_update = 1789518465,
             items = {
             },
         },
