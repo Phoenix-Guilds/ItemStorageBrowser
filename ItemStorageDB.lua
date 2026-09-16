@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1789590743
+ItemStorageDB_LastUpdate = 1789591635
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 23:26:52",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 23:47:15",
         money = 339404,
-        empty = 113,
+        empty = 112,
         location = "Оргриммар",
         items = {
             {
@@ -282,6 +282,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
                 name = "Символ Тьмы",
                 count = 10,
+            },
+            {
+                link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
+                name = "Символ слова силы: Щит",
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:42410:0:0:0:0:0:0:0:10|h[Символ ментального крика]|h|r",
@@ -1165,7 +1170,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789590256,
+            last_update = 1789591624,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1436,6 +1441,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
                     name = "Символ Тьмы",
                     count = 10,
+                },
+                {
+                    link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
+                    name = "Символ слова силы: Щит",
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:42410:0:0:0:0:0:0:0:10|h[Символ ментального крика]|h|r",
@@ -2320,7 +2330,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789590401,
+            last_update = 1789591626,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
