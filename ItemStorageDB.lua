@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1789589881
+ItemStorageDB_LastUpdate = 1789590412
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 03:38:35",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 23:26:52",
         money = 339404,
-        empty = 112,
+        empty = 113,
         location = "Оргриммар",
         items = {
             {
@@ -111,7 +111,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                 name = "Символ правосудия",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
@@ -231,7 +231,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41541:0:0:0:0:0:0:0:10|h[Символ хозяина вод]|h|r",
                 name = "Символ хозяина вод",
-                count = 5,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:41542:0:0:0:0:0:0:0:10|h[Символ оружия неистовства ветра]|h|r",
@@ -282,11 +282,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
                 name = "Символ Тьмы",
                 count = 10,
-            },
-            {
-                link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
-                name = "Символ слова силы: Щит",
-                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:42410:0:0:0:0:0:0:0:10|h[Символ ментального крика]|h|r",
@@ -1170,7 +1165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789519108,
+            last_update = 1789590256,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1270,7 +1265,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                     name = "Символ правосудия",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
@@ -1390,7 +1385,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41541:0:0:0:0:0:0:0:10|h[Символ хозяина вод]|h|r",
                     name = "Символ хозяина вод",
-                    count = 5,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:41542:0:0:0:0:0:0:0:10|h[Символ оружия неистовства ветра]|h|r",
@@ -1441,11 +1436,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
                     name = "Символ Тьмы",
                     count = 10,
-                },
-                {
-                    link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
-                    name = "Символ слова силы: Щит",
-                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:42410:0:0:0:0:0:0:0:10|h[Символ ментального крика]|h|r",
@@ -2330,7 +2320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789519110,
+            last_update = 1789590401,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
