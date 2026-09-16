@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789557413
+ItemStorageDB_LastUpdate = 1789557525
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21303,9 +21303,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:05:40",
+        updated_at = "2026-09-16 14:18:45",
         money = 194111,
-        empty = 139,
+        empty = 137,
         location = "Оргриммар",
         items = {
             {
@@ -21366,7 +21366,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13095:0:0:0:0:0:0:0:10|h[Кольцо штурма]|h|r",
@@ -21481,7 +21481,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5266:0:0:0:0:0:0:0:10|h[Око Адегуса]|h|r",
                 name = "Око Адегуса",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:7734:0:0:0:0:0:0:0:10|h[Сумка Шести Демонов]|h|r",
@@ -21875,7 +21875,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789556735,
+            last_update = 1789557508,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -21913,6 +21913,11 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
+                    name = "Самоцвет Королевы",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
                     name = "Крест Жизни",
                     count = 1,
@@ -21930,6 +21935,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
                     name = "Подвеска Хитрости",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:5266:0:0:0:0:0:0:0:10|h[Око Адегуса]|h|r",
+                    name = "Око Адегуса",
                     count = 1,
                 },
                 {
