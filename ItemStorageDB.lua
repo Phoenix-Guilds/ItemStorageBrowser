@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789519030
+ItemStorageDB_LastUpdate = 1789519061
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8592,10 +8592,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-15 13:39:38",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 03:37:41",
         money = 208636,
-        empty = 76,
+        empty = 78,
         location = "Оргриммар",
         items = {
             {
@@ -8789,11 +8789,6 @@ ItemStorageDB = {
                 count = 34,
             },
             {
-                link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
-                name = "Эликсир Защиты",
-                count = 16,
-            },
-            {
                 link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
                 name = "Зелье безумного алхимика",
                 count = 55,
@@ -8909,11 +8904,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cffffffff|Hitem:45621:0:0:0:0:0:0:0:10|h[Слабый эликсир меткости]|h|r",
-                name = "Слабый эликсир меткости",
-                count = 2,
-            },
-            {
                 link = "|cffffffff|Hitem:4623:0:0:0:0:0:0:0:10|h[Простое зелье каменного щита]|h|r",
                 name = "Простое зелье каменного щита",
                 count = 27,
@@ -9026,11 +9016,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                 name = "Лечебное зелье",
-                count = 84,
+                count = 64,
             },
         },
         bank = {
-            last_update = 1789468741,
+            last_update = 1789519055,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9158,11 +9148,6 @@ ItemStorageDB = {
                     count = 34,
                 },
                 {
-                    link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
-                    name = "Эликсир Защиты",
-                    count = 16,
-                },
-                {
                     link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
                     name = "Зелье безумного алхимика",
                     count = 5,
@@ -9261,11 +9246,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:44939:0:0:0:0:0:0:0:10|h[Малый настой сопротивления]|h|r",
                     name = "Малый настой сопротивления",
                     count = 3,
-                },
-                {
-                    link = "|cffffffff|Hitem:45621:0:0:0:0:0:0:0:10|h[Слабый эликсир меткости]|h|r",
-                    name = "Слабый эликсир меткости",
-                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:4623:0:0:0:0:0:0:0:10|h[Простое зелье каменного щита]|h|r",
@@ -9375,7 +9355,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789468747,
+            last_update = 1789519056,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9470,7 +9450,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                     name = "Лечебное зелье",
-                    count = 84,
+                    count = 64,
                 },
             },
         },
