@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789558886
+ItemStorageDB_LastUpdate = 1789558915
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2343,9 +2343,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:31:36",
+        updated_at = "2026-09-16 14:41:55",
         money = 92710,
-        empty = 27,
+        empty = 24,
         location = "Оргриммар",
         items = {
             {
@@ -2576,12 +2576,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
                 name = "Кровавая пика",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                 name = "Острие Кху",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
@@ -2971,7 +2971,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
                 name = "Огненная секира",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:943:0:0:0:0:0:0:0:10|h[Посох тюремщика]|h|r",
@@ -2985,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789558289,
+            last_update = 1789558907,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3485,7 +3485,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789558290,
+            last_update = 1789558908,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3540,6 +3540,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
                     name = "Отвага Бланчарда",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13057:0:0:0:0:0:0:0:10|h[Кровавая пика]|h|r",
+                    name = "Кровавая пика",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
+                    name = "Острие Кху",
                     count = 1,
                 },
                 {
@@ -3751,6 +3761,11 @@ ItemStorageDB = {
                     link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
                     name = "Ослепительный длинный меч",
                     count = 2,
+                },
+                {
+                    link = "|cffa335ee|Hitem:870:0:0:0:0:0:0:0:10|h[Огненная секира]|h|r",
+                    name = "Огненная секира",
+                    count = 1,
                 },
             },
         },
