@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789541995
+ItemStorageDB_LastUpdate = 1789546207
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17427,10 +17427,10 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 03:35:16",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 11:10:07",
         money = 975064,
-        empty = 130,
+        empty = 132,
         location = "Оргриммар",
         items = {
             {
@@ -17482,11 +17482,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
                 name = "Ледяной зев",
                 count = 113,
-            },
-            {
-                link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
-                name = "Терошишка",
-                count = 75,
             },
             {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
@@ -17690,7 +17685,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789518910,
+            last_update = 1789546187,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -17726,11 +17721,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
                     name = "Ледяной зев",
                     count = 113,
-                },
-                {
-                    link = "|cffffffff|Hitem:22789:0:0:0:0:0:0:0:10|h[Терошишка]|h|r",
-                    name = "Терошишка",
-                    count = 75,
                 },
                 {
                     link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
@@ -17905,7 +17895,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789518911,
+            last_update = 1789546200,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
