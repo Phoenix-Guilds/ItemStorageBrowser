@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789558339
+ItemStorageDB_LastUpdate = 1789558389
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21438,15 +21438,15 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:18:45",
+        updated_at = "2026-09-16 14:33:09",
         money = 194111,
-        empty = 137,
+        empty = 131,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                 name = "Сила Утера",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -21496,7 +21496,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
                 name = "Кольцо тлеющих углей",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
@@ -21621,7 +21621,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:7734:0:0:0:0:0:0:0:10|h[Сумка Шести Демонов]|h|r",
                 name = "Сумка Шести Демонов",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff1eff00|Hitem:12007:0:0:0:0:0:1742:0:10|h[Кольцо прерий с печатью уклонения]|h|r",
@@ -21761,16 +21761,16 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
                 name = "Жизнекамень",
-                count = 2,
+                count = 4,
             },
             {
                 link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
                 name = "Кольцо заморозки",
-                count = 1,
+                count = 2,
             },
         },
         bank = {
-            last_update = 1789556733,
+            last_update = 1789558383,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -21790,12 +21790,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
                     name = "Кольцо тлеющих углей",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                     name = "Самоцвет Королевы",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13095:0:0:0:0:0:0:0:10|h[Кольцо штурма]|h|r",
@@ -21890,7 +21890,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:5266:0:0:0:0:0:0:0:10|h[Око Адегуса]|h|r",
                     name = "Око Адегуса",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff1eff00|Hitem:12007:0:0:0:0:0:1742:0:10|h[Кольцо прерий с печатью уклонения]|h|r",
@@ -22005,17 +22005,17 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
                     name = "Кольцо заморозки",
-                    count = 1,
+                    count = 2,
                 },
             },
         },
         bags = {
-            last_update = 1789557508,
+            last_update = 1789558384,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                     name = "Сила Утера",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
@@ -22048,11 +22048,6 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
-                    link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
-                    name = "Самоцвет Королевы",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
                     name = "Крест Жизни",
                     count = 1,
@@ -22073,14 +22068,9 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:5266:0:0:0:0:0:0:0:10|h[Око Адегуса]|h|r",
-                    name = "Око Адегуса",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:7734:0:0:0:0:0:0:0:10|h[Сумка Шести Демонов]|h|r",
                     name = "Сумка Шести Демонов",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff1eff00|Hitem:12040:0:0:0:0:0:596:0:10|h[Лесная подвеска со знаком мартышки]|h|r",
@@ -22110,7 +22100,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
                     name = "Жизнекамень",
-                    count = 2,
+                    count = 4,
                 },
             },
         },
