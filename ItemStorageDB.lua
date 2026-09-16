@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789552231
+ItemStorageDB_LastUpdate = 1789552367
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21092,10 +21092,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 03:26:57",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 12:52:47",
         money = 194111,
-        empty = 138,
+        empty = 140,
         location = "Оргриммар",
         items = {
             {
@@ -21364,11 +21364,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:21790:0:0:0:0:0:0:0:10|h[Сапфировая подвеска зимней ночи]|h|r",
-                name = "Сапфировая подвеска зимней ночи",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:24074:0:0:0:0:0:0:0:10|h[Кровавое кольцо из оскверненного железа]|h|r",
                 name = "Кровавое кольцо из оскверненного железа",
                 count = 2,
@@ -21416,7 +21411,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1443:0:0:0:0:0:0:0:10|h[Изукрашенный амулет Кайнвин]|h|r",
                 name = "Изукрашенный амулет Кайнвин",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
@@ -21430,7 +21425,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789518410,
+            last_update = 1789552362,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -21670,7 +21665,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789518412,
+            last_update = 1789552362,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -21748,11 +21743,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff1eff00|Hitem:21790:0:0:0:0:0:0:0:10|h[Сапфировая подвеска зимней ночи]|h|r",
-                    name = "Сапфировая подвеска зимней ночи",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
                     name = "Гирлянда из лилий",
                     count = 5,
@@ -21760,7 +21750,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1443:0:0:0:0:0:0:0:10|h[Изукрашенный амулет Кайнвин]|h|r",
                     name = "Изукрашенный амулет Кайнвин",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
