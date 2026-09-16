@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789491129
+ItemStorageDB_LastUpdate = 1789518267
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8292,10 +8292,10 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-14 21:31:04",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 03:24:27",
         money = 141967,
-        empty = 150,
+        empty = 153,
         location = "Оргриммар",
         items = {
             {
@@ -8429,11 +8429,6 @@ ItemStorageDB = {
                 count = 601,
             },
             {
-                link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
-                name = "Медный слиток",
-                count = 134,
-            },
-            {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                 name = "Бронзовый слиток",
                 count = 4,
@@ -8480,7 +8475,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789410658,
+            last_update = 1789518259,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8613,11 +8608,6 @@ ItemStorageDB = {
                     count = 601,
                 },
                 {
-                    link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
-                    name = "Медный слиток",
-                    count = 134,
-                },
-                {
                     link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                     name = "Бронзовый слиток",
                     count = 4,
@@ -8665,7 +8655,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789410658,
+            last_update = 1789518263,
             items = {
             },
         },
