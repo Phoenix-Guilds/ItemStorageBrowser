@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789518528
+ItemStorageDB_LastUpdate = 1789518550
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9517,17 +9517,12 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-14 15:53:24",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-16 03:29:10",
         money = 4062,
-        empty = 124,
+        empty = 103,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
-                name = "Украшенные узором бронзовые наручи",
-                count = 1,
-            },
             {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
@@ -9541,7 +9536,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 7,
+                count = 27,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -9556,7 +9551,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
                 name = "Земля Ун'Горо",
-                count = 466,
+                count = 502,
             },
             {
                 link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
@@ -9611,7 +9606,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 727,
+                count = 916,
             },
             {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -9676,7 +9671,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                 name = "Гирохронатом",
-                count = 28,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
@@ -9705,7 +9700,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789390391,
+            last_update = 1789518543,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9720,7 +9715,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
                     name = "Земля Ун'Горо",
-                    count = 466,
+                    count = 502,
                 },
                 {
                     link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
@@ -9775,7 +9770,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                     name = "Средоточие Стихий",
-                    count = 727,
+                    count = 916,
                 },
                 {
                     link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -9840,7 +9835,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                     name = "Гирохронатом",
-                    count = 28,
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
@@ -9870,17 +9865,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789390397,
+            last_update = 1789518545,
             items = {
-                {
-                    link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
-                    name = "Украшенные узором бронзовые наручи",
-                    count = 1,
-                },
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 7,
+                    count = 27,
                 },
                 {
                     link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
