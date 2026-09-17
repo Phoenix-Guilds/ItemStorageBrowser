@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789675482
+ItemStorageDB_LastUpdate = 1789675546
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19828,9 +19828,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 21:45:22",
+        updated_at = "2026-09-17 23:05:46",
         money = 203936,
-        empty = 51,
+        empty = 52,
         location = "Оргриммар",
         items = {
             {
@@ -19981,7 +19981,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13099:0:0:0:0:0:0:0:10|h[Мокасины Белого кролика]|h|r",
                 name = "Мокасины Белого кролика",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
@@ -20455,7 +20455,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789670664,
+            last_update = 1789675518,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
@@ -21030,7 +21030,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789670713,
+            last_update = 1789675537,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21065,11 +21065,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                     name = "Поножи осколка голема",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13099:0:0:0:0:0:0:0:10|h[Мокасины Белого кролика]|h|r",
-                    name = "Мокасины Белого кролика",
                     count = 1,
                 },
                 {
