@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789684628
+ItemStorageDB_LastUpdate = 1789685636
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12678,9 +12678,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 23:04:08",
+        updated_at = "2026-09-18 01:53:56",
         money = 164134,
-        empty = 1,
+        empty = 2,
         location = "Оргриммар",
         items = {
             {
@@ -13151,11 +13151,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2409:0:0:0:0:0:0:0:10|h[Выкройка: темный кожаный мундир]|h|r",
                 name = "Выкройка: темный кожаный мундир",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
-                name = "Рецепт: зелье скорости",
                 count = 1,
             },
             {
@@ -13775,7 +13770,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789675419,
+            last_update = 1789684654,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14590,7 +14585,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789675432,
+            last_update = 1789684677,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14785,11 +14780,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:16215:0:0:0:0:0:0:0:10|h[Формула чар для обуви - выносливость IV]|h|r",
                     name = "Формула чар для обуви - выносливость IV",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
-                    name = "Рецепт: зелье скорости",
                     count = 1,
                 },
                 {
