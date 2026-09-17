@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789675546
+ItemStorageDB_LastUpdate = 1789675610
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21242,10 +21242,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:40:27",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-17 23:06:50",
         money = 194111,
-        empty = 127,
+        empty = 129,
         location = "Оргриммар",
         items = {
             {
@@ -21306,7 +21306,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
                 name = "Самоцвет Королевы",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13095:0:0:0:0:0:0:0:10|h[Кольцо штурма]|h|r",
@@ -21466,7 +21466,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
                 name = "Амулет Луны",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20907:0:0:0:0:0:0:0:10|h[Цельное бронзовое кольцо]|h|r",
@@ -21575,7 +21575,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789558383,
+            last_update = 1789675586,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -21595,7 +21595,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
                     name = "Кольцо тлеющих углей",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
@@ -21815,7 +21815,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789558822,
+            last_update = 1789675603,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -21851,16 +21851,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
                     name = "Медальон главнокомандующего Морриса",
                     count = 3,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
-                    name = "Кольцо тлеющих углей",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
-                    name = "Самоцвет Королевы",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
@@ -21900,7 +21890,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
                     name = "Амулет Луны",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
