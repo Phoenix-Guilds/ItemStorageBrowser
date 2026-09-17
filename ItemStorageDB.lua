@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789658458
+ItemStorageDB_LastUpdate = 1789658500
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4802,8 +4802,8 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:24:34",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-17 18:21:40",
         money = 999680,
         empty = 118,
         location = "Оргриммар",
@@ -4966,7 +4966,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                 name = "Сердце дикой природы",
-                count = 129,
+                count = 130,
             },
             {
                 link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
@@ -5100,7 +5100,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789557869,
+            last_update = 1789658493,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5220,7 +5220,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
                     name = "Сердце дикой природы",
-                    count = 129,
+                    count = 130,
                 },
                 {
                     link = "|cffffffff|Hitem:12804:0:0:0:0:0:0:0:10|h[Мощный амулет]|h|r",
@@ -5350,7 +5350,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789557869,
+            last_update = 1789658495,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
