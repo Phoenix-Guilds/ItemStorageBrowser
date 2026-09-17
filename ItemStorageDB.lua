@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789677620
+ItemStorageDB_LastUpdate = 1789679482
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17473,7 +17473,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 23:14:01",
+        updated_at = "2026-09-18 00:11:22",
         money = 975064,
         empty = 123,
         location = "Оргриммар",
@@ -17531,7 +17531,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                 name = "Древний лишайник",
-                count = 28,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
@@ -17725,7 +17725,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789676024,
+            last_update = 1789677651,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -17765,7 +17765,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                     name = "Древний лишайник",
-                    count = 28,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
@@ -17935,7 +17935,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789676034,
+            last_update = 1789677659,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
