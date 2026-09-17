@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789671878
+ItemStorageDB_LastUpdate = 1789672021
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11877,10 +11877,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:40:58",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-17 22:07:01",
         money = 13104,
-        empty = 60,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -11936,7 +11936,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
                 name = "Раскалывающий череп арбалет",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
@@ -11976,7 +11976,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
                 name = "Глушитель",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
@@ -12026,7 +12026,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -12060,7 +12060,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789558853,
+            last_update = 1789672014,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12110,7 +12110,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
                     name = "Раскалывающий череп арбалет",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13040:0:0:0:0:0:0:0:10|h[Арбалет Ищущий Сердце]|h|r",
@@ -12150,7 +12150,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
                     name = "Глушитель",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13139:0:0:0:0:0:0:0:10|h[Выдавливатель внутренностей]|h|r",
@@ -12175,7 +12175,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                     name = "Пристрелянный огнестрел",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -12190,7 +12190,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789558853,
+            last_update = 1789672017,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
