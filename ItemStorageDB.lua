@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789658230
+ItemStorageDB_LastUpdate = 1789658332
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17327,10 +17327,10 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 14:36:11",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-17 18:18:52",
         money = 602,
-        empty = 89,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -17420,7 +17420,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789558558,
+            last_update = 1789658298,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -17480,7 +17480,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789558562,
+            last_update = 1789658325,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
