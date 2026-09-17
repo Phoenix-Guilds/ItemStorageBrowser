@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789658095
+ItemStorageDB_LastUpdate = 1789658135
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5783,9 +5783,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 20:02:12",
+        updated_at = "2026-09-17 18:15:35",
         money = 421241,
-        empty = 55,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -6084,6 +6084,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffffffff|Hitem:6043:0:0:0:0:0:0:0:10|h[Железный противовес]|h|r",
+                name = "Железный противовес",
+                count = 3,
+            },
+            {
                 link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                 name = "Твердый камень",
                 count = 587,
@@ -6105,7 +6110,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789578125,
+            last_update = 1789658127,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6345,7 +6350,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789578127,
+            last_update = 1789658131,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6416,6 +6421,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:6042:0:0:0:0:0:0:0:10|h[Железный шип для щита]|h|r",
                     name = "Железный шип для щита",
                     count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:6043:0:0:0:0:0:0:0:10|h[Железный противовес]|h|r",
+                    name = "Железный противовес",
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:7964:0:0:0:0:0:0:0:10|h[Твердое точило]|h|r",
