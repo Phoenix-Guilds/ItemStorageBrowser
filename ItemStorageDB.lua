@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789676633
+ItemStorageDB_LastUpdate = 1789677394
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19847,10 +19847,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 23:05:46",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-17 23:36:34",
         money = 203936,
-        empty = 52,
+        empty = 53,
         location = "Оргриммар",
         items = {
             {
@@ -20419,11 +20419,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffa335ee|Hitem:14549:0:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
-                name = "Сапоги Избежания",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:14551:0:0:0:0:0:0:0:10|h[Боевые рукавицы виртуоза клинка]|h|r",
                 name = "Боевые рукавицы виртуоза клинка",
                 count = 2,
@@ -20475,7 +20470,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789675518,
+            last_update = 1789677357,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
@@ -21050,7 +21045,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789675537,
+            last_update = 1789677371,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21230,11 +21225,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:10331:0:0:0:0:0:0:0:10|h[Алые рукавицы]|h|r",
                     name = "Алые рукавицы",
-                    count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:14549:0:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
-                    name = "Сапоги Избежания",
                     count = 1,
                 },
                 {
