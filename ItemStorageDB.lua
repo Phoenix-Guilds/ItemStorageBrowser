@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1789675851
+ItemStorageDB_LastUpdate = 1789675968
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 23:03:15",
+        updated_at = "2026-09-17 23:12:48",
         money = 339404,
-        empty = 113,
+        empty = 111,
         location = "Оргриммар",
         items = {
             {
@@ -62,6 +62,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:40912:0:0:0:0:0:0:0:10|h[Символ восстановления]|h|r",
                 name = "Символ восстановления",
                 count = 8,
+            },
+            {
+                link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
+                name = "Символ омоложения",
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:40914:0:0:0:0:0:0:0:10|h[Символ целительного прикосновения]|h|r",
@@ -814,6 +819,11 @@ ItemStorageDB = {
                 count = 5,
             },
             {
+                link = "|cffffffff|Hitem:43399:0:0:0:0:0:0:0:10|h[Символ удара грома]|h|r",
+                name = "Символ удара грома",
+                count = 2,
+            },
+            {
                 link = "|cffffffff|Hitem:43400:0:0:0:0:0:0:0:10|h[Символ неоспоримой победы]|h|r",
                 name = "Символ неоспоримой победы",
                 count = 4,
@@ -1165,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789675304,
+            last_update = 1789675935,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1216,6 +1226,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:40912:0:0:0:0:0:0:0:10|h[Символ восстановления]|h|r",
                     name = "Символ восстановления",
                     count = 8,
+                },
+                {
+                    link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
+                    name = "Символ омоложения",
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:40914:0:0:0:0:0:0:0:10|h[Символ целительного прикосновения]|h|r",
@@ -1968,6 +1983,11 @@ ItemStorageDB = {
                     count = 5,
                 },
                 {
+                    link = "|cffffffff|Hitem:43399:0:0:0:0:0:0:0:10|h[Символ удара грома]|h|r",
+                    name = "Символ удара грома",
+                    count = 2,
+                },
+                {
                     link = "|cffffffff|Hitem:43400:0:0:0:0:0:0:0:10|h[Символ неоспоримой победы]|h|r",
                     name = "Символ неоспоримой победы",
                     count = 4,
@@ -2320,7 +2340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789675372,
+            last_update = 1789675963,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
