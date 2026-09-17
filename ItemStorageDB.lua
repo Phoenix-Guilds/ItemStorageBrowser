@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789661321
+ItemStorageDB_LastUpdate = 1789661635
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2343,9 +2343,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 01:47:18",
+        updated_at = "2026-09-17 19:13:55",
         money = 92710,
-        empty = 27,
+        empty = 30,
         location = "Оргриммар",
         items = {
             {
@@ -2744,11 +2744,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
-                name = "Змеиный поцелуй",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:6622:0:0:0:0:0:0:0:10|h[Меч рвения]|h|r",
                 name = "Меч рвения",
                 count = 1,
@@ -2801,7 +2796,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9359:0:0:0:0:0:0:0:10|h[Третья нога Вирта]|h|r",
                 name = "Третья нога Вирта",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
@@ -2891,7 +2886,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2164:0:0:0:0:0:0:0:10|h[Потрошитель]|h|r",
                 name = "Потрошитель",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:2243:0:0:0:0:0:0:0:10|h[Рука Эдварда Странного]|h|r",
@@ -2975,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789598829,
+            last_update = 1789661627,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3203,6 +3198,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
+                    name = "Тяжелый ятаган мародера",
+                    count = 2,
+                },
+                {
                     link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
                     name = "Поющий клинок Та-Киертан",
                     count = 1,
@@ -3240,7 +3240,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
                     name = "Алмазный молот",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:2236:0:0:0:0:0:0:0:10|h[Черный клык]|h|r",
@@ -3308,11 +3308,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:5426:0:0:0:0:0:0:0:10|h[Змеиный поцелуй]|h|r",
-                    name = "Змеиный поцелуй",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:6622:0:0:0:0:0:0:0:10|h[Меч рвения]|h|r",
                     name = "Меч рвения",
                     count = 1,
@@ -3355,7 +3350,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9359:0:0:0:0:0:0:0:10|h[Третья нога Вирта]|h|r",
                     name = "Третья нога Вирта",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
@@ -3410,7 +3405,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2164:0:0:0:0:0:0:0:10|h[Потрошитель]|h|r",
                     name = "Потрошитель",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
@@ -3470,7 +3465,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789598833,
+            last_update = 1789661629,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3555,16 +3550,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1481:0:0:0:0:0:0:0:10|h[Лютый Коготь]|h|r",
                     name = "Лютый Коготь",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
-                    name = "Тяжелый ятаган мародера",
-                    count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
-                    name = "Алмазный молот",
                     count = 1,
                 },
                 {
