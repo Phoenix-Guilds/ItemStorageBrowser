@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789675395
+ItemStorageDB_LastUpdate = 1789675448
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12658,9 +12658,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 18:37:07",
+        updated_at = "2026-09-17 23:04:08",
         money = 164134,
-        empty = 0,
+        empty = 1,
         location = "Оргриммар",
         items = {
             {
@@ -13136,7 +13136,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
                 name = "Рецепт: зелье скорости",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:2598:0:0:0:0:0:0:0:10|h[Выкройка: красное льняное одеяние]|h|r",
@@ -13755,7 +13755,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789658179,
+            last_update = 1789675419,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14570,7 +14570,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789659419,
+            last_update = 1789675432,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14770,7 +14770,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
                     name = "Рецепт: зелье скорости",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:3611:0:0:0:0:0:0:0:10|h[Чертеж: зеленые железные сапоги]|h|r",
