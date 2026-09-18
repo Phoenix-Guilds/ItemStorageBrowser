@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789760796
+ItemStorageDB_LastUpdate = 1789760847
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19838,9 +19838,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-18 22:36:48",
+        updated_at = "2026-09-18 22:47:27",
         money = 203936,
-        empty = 57,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -20284,6 +20284,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:20832:0:0:0:0:0:0:0:10|h[Корона лунной души]|h|r",
+                name = "Корона лунной души",
+                count = 2,
+            },
+            {
                 link = "|cff0070dd|Hitem:21774:0:0:0:0:0:0:0:10|h[Изумрудная корона разрушения]|h|r",
                 name = "Изумрудная корона разрушения",
                 count = 1,
@@ -20455,7 +20460,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789760135,
+            last_update = 1789760841,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
@@ -21025,7 +21030,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789760201,
+            last_update = 1789760842,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21146,6 +21151,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                     name = "Двойной мундир",
                     count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:20832:0:0:0:0:0:0:0:10|h[Корона лунной души]|h|r",
+                    name = "Корона лунной души",
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
