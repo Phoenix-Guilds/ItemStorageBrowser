@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789733044
+ItemStorageDB_LastUpdate = 1789737355
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18067,8 +18067,8 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 23:40:20",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-18 16:15:55",
         money = 336703,
         empty = 88,
         location = "Оргриммар",
@@ -18950,7 +18950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789676944,
+            last_update = 1789737325,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -19790,7 +19790,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789677033,
+            last_update = 1789737335,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31174:0:0:0:0:0:-6:47:10|h[Вытканное демоном облачение со знаком орла]|h|r",
