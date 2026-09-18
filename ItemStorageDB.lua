@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789760208
+ItemStorageDB_LastUpdate = 1789760272
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21213,9 +21213,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 23:10:51",
+        updated_at = "2026-09-18 22:37:52",
         money = 194111,
-        empty = 130,
+        empty = 132,
         location = "Оргриммар",
         items = {
             {
@@ -21374,11 +21374,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cff0070dd|Hitem:29157:0:0:0:0:0:0:0:10|h[Золотое кольцо власти]|h|r",
-                name = "Золотое кольцо власти",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
                 name = "Кольцо побегов",
                 count = 1,
@@ -21427,11 +21422,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
                 name = "Кольцо сумеречных призраков",
                 count = 4,
-            },
-            {
-                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
-                name = "Амулет Луны",
-                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20907:0:0:0:0:0:0:0:10|h[Цельное бронзовое кольцо]|h|r",
@@ -21540,7 +21530,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789675835,
+            last_update = 1789760249,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -21646,11 +21636,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:21768:0:0:0:0:0:696:0:10|h[Сапфировый перстень со знаком тигра]|h|r",
                     name = "Сапфировый перстень со знаком тигра",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:29157:0:0:0:0:0:0:0:10|h[Золотое кольцо власти]|h|r",
-                    name = "Золотое кольцо власти",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
@@ -21775,7 +21760,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789675844,
+            last_update = 1789760259,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -21845,11 +21830,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12042:0:0:0:0:0:514:0:10|h[Болотная цепь со знаком волка]|h|r",
                     name = "Болотная цепь со знаком волка",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
-                    name = "Амулет Луны",
                     count = 1,
                 },
                 {
