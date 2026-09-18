@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1789760272
+ItemStorageDB_LastUpdate = 1789760344
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-18 15:04:04",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-18 22:39:04",
         money = 339404,
         empty = 111,
         location = "Оргриммар",
@@ -41,7 +41,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40902:0:0:0:0:0:0:0:10|h[Символ разрывания]|h|r",
                 name = "Символ разрывания",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:40903:0:0:0:0:0:0:0:10|h[Символ глубокой раны]|h|r",
@@ -271,12 +271,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42402:0:0:0:0:0:0:0:10|h[Символ внутреннего огня]|h|r",
                 name = "Символ внутреннего огня",
-                count = 32,
+                count = 31,
             },
             {
                 link = "|cffffffff|Hitem:42406:0:0:0:0:0:0:0:10|h[Символ Слова Тьмы: Боль]|h|r",
                 name = "Символ Слова Тьмы: Боль",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
@@ -936,7 +936,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43674:0:0:0:0:0:0:0:10|h[Символ порыва]|h|r",
                 name = "Символ порыва",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:43725:0:0:0:0:0:0:0:10|h[Символ призрачного волка]|h|r",
@@ -976,7 +976,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45601:0:0:0:0:0:0:0:10|h[Символ берсерка]|h|r",
                 name = "Символ берсерка",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:45602:0:0:0:0:0:0:0:10|h[Символ буйного роста]|h|r",
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789733016,
+            last_update = 1789760326,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1205,7 +1205,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40902:0:0:0:0:0:0:0:10|h[Символ разрывания]|h|r",
                     name = "Символ разрывания",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:40903:0:0:0:0:0:0:0:10|h[Символ глубокой раны]|h|r",
@@ -1435,12 +1435,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42402:0:0:0:0:0:0:0:10|h[Символ внутреннего огня]|h|r",
                     name = "Символ внутреннего огня",
-                    count = 32,
+                    count = 31,
                 },
                 {
                     link = "|cffffffff|Hitem:42406:0:0:0:0:0:0:0:10|h[Символ Слова Тьмы: Боль]|h|r",
                     name = "Символ Слова Тьмы: Боль",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
@@ -2100,7 +2100,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43674:0:0:0:0:0:0:0:10|h[Символ порыва]|h|r",
                     name = "Символ порыва",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:43725:0:0:0:0:0:0:0:10|h[Символ призрачного волка]|h|r",
@@ -2140,7 +2140,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:45601:0:0:0:0:0:0:0:10|h[Символ берсерка]|h|r",
                     name = "Символ берсерка",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:45602:0:0:0:0:0:0:0:10|h[Символ буйного роста]|h|r",
@@ -2340,7 +2340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789733033,
+            last_update = 1789760334,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
