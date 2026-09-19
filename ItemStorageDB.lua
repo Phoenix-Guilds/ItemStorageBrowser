@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1789830185
+ItemStorageDB_LastUpdate = 1789831891
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-19 18:03:05",
+        updated_at = "2026-09-19 18:31:31",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -681,7 +681,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
                 name = "Символ благословения могущества",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
@@ -1180,7 +1180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789760326,
+            last_update = 1789831863,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1848,6 +1848,11 @@ ItemStorageDB = {
                     count = 5,
                 },
                 {
+                    link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
+                    name = "Символ благословения могущества",
+                    count = 4,
+                },
+                {
                     link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
                     name = "Символ обшаривания карманов",
                     count = 4,
@@ -2345,17 +2350,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789830168,
+            last_update = 1789831884,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                     name = "Книга познания символов",
                     count = 29,
-                },
-                {
-                    link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
-                    name = "Символ благословения могущества",
-                    count = 5,
                 },
             },
         },
