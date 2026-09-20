@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789916578
+ItemStorageDB_LastUpdate = 1789927151
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8582,10 +8582,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-19 20:41:43",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-20 20:59:11",
         money = 208636,
-        empty = 76,
+        empty = 77,
         location = "Оргриммар",
         items = {
             {
@@ -8959,11 +8959,6 @@ ItemStorageDB = {
                 count = 8,
             },
             {
-                link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
-                name = "Сильный эликсир защиты",
-                count = 3,
-            },
-            {
                 link = "|cffffffff|Hitem:9030:0:0:0:0:0:0:0:10|h[Приводящее в сознание зелье]|h|r",
                 name = "Приводящее в сознание зелье",
                 count = 2,
@@ -9015,7 +9010,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789839697,
+            last_update = 1789927041,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9298,11 +9293,6 @@ ItemStorageDB = {
                     count = 8,
                 },
                 {
-                    link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
-                    name = "Сильный эликсир защиты",
-                    count = 3,
-                },
-                {
                     link = "|cffffffff|Hitem:9030:0:0:0:0:0:0:0:10|h[Приводящее в сознание зелье]|h|r",
                     name = "Приводящее в сознание зелье",
                     count = 2,
@@ -9350,7 +9340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789839698,
+            last_update = 1789927143,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
