@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1789996072
+ItemStorageDB_LastUpdate = 1789996203
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8673,9 +8673,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-20 20:59:11",
+        updated_at = "2026-09-21 16:10:03",
         money = 208636,
-        empty = 77,
+        empty = 76,
         location = "Оргриммар",
         items = {
             {
@@ -8721,7 +8721,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
                 name = "Огромный флакон с лечебным зельем",
-                count = 79,
+                count = 69,
             },
             {
                 link = "|cffffffff|Hitem:13447:0:0:0:0:0:0:0:10|h[Эликсир мудрецов]|h|r",
@@ -8906,7 +8906,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                 name = "Большой флакон с лечебным зельем",
-                count = 335,
+                count = 366,
             },
             {
                 link = "|cffffffff|Hitem:39671:0:0:0:0:0:0:0:10|h[Флакон с бодрящим лечебным зельем]|h|r",
@@ -9081,7 +9081,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
                 name = "Эликсир великанов",
-                count = 24,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:9233:0:0:0:0:0:0:0:10|h[Эликсир обнаружения демонов]|h|r",
@@ -9100,7 +9100,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789927041,
+            last_update = 1789996088,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9415,7 +9415,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:9206:0:0:0:0:0:0:0:10|h[Эликсир великанов]|h|r",
                     name = "Эликсир великанов",
-                    count = 24,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:9233:0:0:0:0:0:0:0:10|h[Эликсир обнаружения демонов]|h|r",
@@ -9430,7 +9430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789927143,
+            last_update = 1789996196,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9455,7 +9455,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13446:0:0:0:0:0:0:0:10|h[Огромный флакон с лечебным зельем]|h|r",
                     name = "Огромный флакон с лечебным зельем",
-                    count = 79,
+                    count = 69,
                 },
                 {
                     link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
@@ -9515,7 +9515,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
                     name = "Большой флакон с лечебным зельем",
-                    count = 335,
+                    count = 366,
                 },
                 {
                     link = "|cffffffff|Hitem:39671:0:0:0:0:0:0:0:10|h[Флакон с бодрящим лечебным зельем]|h|r",
