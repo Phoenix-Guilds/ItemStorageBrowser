@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790101618
+ItemStorageDB_LastUpdate = 1790101650
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11528,9 +11528,9 @@ ItemStorageDB = {
     {
         name = "Ожерельная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:21:27",
+        updated_at = "2026-09-22 21:27:30",
         money = 13785,
-        empty = 126,
+        empty = 125,
         location = "Оргриммар",
         items = {
             {
@@ -11686,7 +11686,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44683:0:0:0:0:0:-42:65:10|h[Королевская глазница с меткой оракула]|h|r",
                 name = "Королевская глазница с меткой оракула",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:44683:0:0:0:0:0:-43:65:10|h[Королевская глазница с меткой солдата]|h|r",
@@ -11755,7 +11755,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790101280,
+            last_update = 1790101644,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
@@ -11910,7 +11910,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:44683:0:0:0:0:0:-42:65:10|h[Королевская глазница с меткой оракула]|h|r",
                     name = "Королевская глазница с меткой оракула",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:44683:0:0:0:0:0:-43:65:10|h[Королевская глазница с меткой солдата]|h|r",
@@ -11980,7 +11980,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790101281,
+            last_update = 1790101645,
             items = {
             },
         },
