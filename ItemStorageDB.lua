@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790101650
+ItemStorageDB_LastUpdate = 1790101803
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:25:34",
+        updated_at = "2026-09-22 21:30:03",
         money = 92710,
-        empty = 49,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -2684,6 +2684,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:24222:0:0:0:0:0:0:0:10|h[Протыкатель Тенеследа]|h|r",
+                name = "Протыкатель Тенеследа",
+                count = 2,
+            },
+            {
                 link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
                 name = "Изогнутый мясницкий нож",
                 count = 2,
@@ -2792,6 +2797,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
                 name = "Меч Ханзо",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:8225:0:0:0:0:0:0:0:10|h[Гниющий пронзатель]|h|r",
+                name = "Гниющий пронзатель",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:8226:0:0:0:0:0:0:0:10|h[Мясник]|h|r",
@@ -2985,7 +2995,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790101527,
+            last_update = 1790101796,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3510,7 +3520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790101528,
+            last_update = 1790101797,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3598,6 +3608,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:24222:0:0:0:0:0:0:0:10|h[Протыкатель Тенеследа]|h|r",
+                    name = "Протыкатель Тенеследа",
+                    count = 2,
+                },
+                {
                     link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
                     name = "Изогнутый мясницкий нож",
                     count = 1,
@@ -3650,6 +3665,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                     name = "Корявый ясеневый посох",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:8225:0:0:0:0:0:0:0:10|h[Гниющий пронзатель]|h|r",
+                    name = "Гниющий пронзатель",
                     count = 1,
                 },
                 {
