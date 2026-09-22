@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790100980
+ItemStorageDB_LastUpdate = 1790101007
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17573,9 +17573,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:11:16",
+        updated_at = "2026-09-22 21:16:47",
         money = 975064,
-        empty = 133,
+        empty = 132,
         location = "Оргриммар",
         items = {
             {
@@ -17621,7 +17621,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
                 name = "Чумоцвет",
-                count = 157,
+                count = 200,
             },
             {
                 link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
@@ -17671,7 +17671,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 152,
+                count = 157,
             },
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
@@ -17739,6 +17739,11 @@ ItemStorageDB = {
                 count = 66,
             },
             {
+                link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
+                name = "Удавник",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
                 count = 235,
@@ -17766,7 +17771,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                 name = "Огнецвет",
-                count = 145,
+                count = 146,
             },
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
@@ -17820,7 +17825,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790100662,
+            last_update = 1790101002,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -17850,7 +17855,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
                     name = "Чумоцвет",
-                    count = 157,
+                    count = 200,
                 },
                 {
                     link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
@@ -17900,7 +17905,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                     name = "Дикий сталецвет",
-                    count = 152,
+                    count = 157,
                 },
                 {
                     link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
@@ -17963,6 +17968,11 @@ ItemStorageDB = {
                     count = 66,
                 },
                 {
+                    link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
+                    name = "Удавник",
+                    count = 1,
+                },
+                {
                     link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                     name = "Златошип",
                     count = 235,
@@ -17980,7 +17990,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                     name = "Огнецвет",
-                    count = 145,
+                    count = 146,
                 },
                 {
                     link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
@@ -18025,7 +18035,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790100671,
+            last_update = 1790101002,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
