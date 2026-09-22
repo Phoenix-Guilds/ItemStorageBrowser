@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790100605
+ItemStorageDB_LastUpdate = 1790100640
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15047,10 +15047,10 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-18 01:25:44",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-22 21:10:40",
         money = 4042,
-        empty = 154,
+        empty = 155,
         location = "Оргриммар",
         items = {
             {
@@ -15141,7 +15141,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                 name = "Сырая блестящая рыбка",
-                count = 99,
+                count = 79,
             },
             {
                 link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
@@ -15175,7 +15175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789683718,
+            last_update = 1790100629,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15300,13 +15300,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789683718,
+            last_update = 1790100635,
             items = {
-                {
-                    link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
-                    name = "Сырая блестящая рыбка",
-                    count = 20,
-                },
             },
         },
     },
