@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790116769
+ItemStorageDB_LastUpdate = 1790117021
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15722,10 +15722,10 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:02:50",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-23 01:43:41",
         money = 108852,
-        empty = 115,
+        empty = 117,
         location = "Оргриммар",
         items = {
             {
@@ -16022,11 +16022,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:3302:929:0:0:0:0:0:0:10|h[Сапоги недвижной воды]|h|r",
                 name = "Сапоги недвижной воды",
                 count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:3306:0:0:0:0:0:0:0:10|h[Жилет недвижной воды]|h|r",
-                name = "Жилет недвижной воды",
-                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:3313:1892:0:0:0:0:0:0:10|h[Парадная кожаная портупея]|h|r",
@@ -16385,17 +16380,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790100160,
+            last_update = 1790116881,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
                     name = "Малый магический жезл",
                     count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
-                    name = "Тонкий длинный лук",
-                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:14094:0:0:0:0:0:5:0:10|h[Бисерная блуза со знаком интеллекта]|h|r",
@@ -16606,11 +16596,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:3302:929:0:0:0:0:0:0:10|h[Сапоги недвижной воды]|h|r",
                     name = "Сапоги недвижной воды",
                     count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:3306:0:0:0:0:0:0:0:10|h[Жилет недвижной воды]|h|r",
-                    name = "Жилет недвижной воды",
-                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:3313:1892:0:0:0:0:0:0:10|h[Парадная кожаная портупея]|h|r",
@@ -16835,11 +16820,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790100161,
+            last_update = 1790117016,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
                     name = "Большой магический жезл",
+                    count = 2,
+                },
+                {
+                    link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
+                    name = "Тонкий длинный лук",
                     count = 2,
                 },
                 {
