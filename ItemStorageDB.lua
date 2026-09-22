@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790112914
+ItemStorageDB_LastUpdate = 1790113043
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8727,8 +8727,8 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:19:36",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-23 00:37:23",
         money = 208636,
         empty = 69,
         location = "Оргриммар",
@@ -8921,7 +8921,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
                 name = "Маленький флакон с зельем маны",
-                count = 6,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:3386:0:0:0:0:0:0:0:10|h[Эликсир излечения]|h|r",
@@ -9160,7 +9160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790101170,
+            last_update = 1790112949,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9490,7 +9490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790101171,
+            last_update = 1790113028,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9565,7 +9565,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
                     name = "Маленький флакон с зельем маны",
-                    count = 6,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
