@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790114661
+ItemStorageDB_LastUpdate = 1790114844
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -11982,10 +11982,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 20:46:42",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-23 01:07:24",
         money = 13104,
-        empty = 64,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -12071,7 +12071,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -12165,7 +12165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790099194,
+            last_update = 1790114791,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12245,7 +12245,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                     name = "Пугач маленького Тимми",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -12295,7 +12295,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790099196,
+            last_update = 1790114801,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
