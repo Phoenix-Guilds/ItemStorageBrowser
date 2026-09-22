@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790100927
+ItemStorageDB_LastUpdate = 1790100980
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9967,8 +9967,8 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 18:40:16",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-22 21:16:20",
         money = 213874,
         empty = 74,
         location = "Оргриммар",
@@ -10011,7 +10011,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12205:0:0:0:0:0:0:0:10|h[Белое мясо паука]|h|r",
                 name = "Белое мясо паука",
-                count = 18,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:12206:0:0:0:0:0:0:0:10|h[Нежное крабовое мясо]|h|r",
@@ -10021,7 +10021,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                 name = "Гигантское яйцо",
-                count = 65,
+                count = 98,
             },
             {
                 link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
@@ -10051,7 +10051,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24477:0:0:0:0:0:0:0:10|h[Мясо джаггала]|h|r",
                 name = "Мясо джаггала",
-                count = 257,
+                count = 272,
             },
             {
                 link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
@@ -10081,7 +10081,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27671:0:0:0:0:0:0:0:10|h[Мясо канюка]|h|r",
                 name = "Мясо канюка",
-                count = 170,
+                count = 186,
             },
             {
                 link = "|cffffffff|Hitem:27674:0:0:0:0:0:0:0:10|h[Плоть опустошителя]|h|r",
@@ -10270,7 +10270,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789659610,
+            last_update = 1790100975,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10310,7 +10310,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12205:0:0:0:0:0:0:0:10|h[Белое мясо паука]|h|r",
                     name = "Белое мясо паука",
-                    count = 18,
+                    count = 29,
                 },
                 {
                     link = "|cffffffff|Hitem:12206:0:0:0:0:0:0:0:10|h[Нежное крабовое мясо]|h|r",
@@ -10320,7 +10320,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                     name = "Гигантское яйцо",
-                    count = 65,
+                    count = 98,
                 },
                 {
                     link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
@@ -10350,7 +10350,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:24477:0:0:0:0:0:0:0:10|h[Мясо джаггала]|h|r",
                     name = "Мясо джаггала",
-                    count = 257,
+                    count = 272,
                 },
                 {
                     link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
@@ -10380,7 +10380,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:27671:0:0:0:0:0:0:0:10|h[Мясо канюка]|h|r",
                     name = "Мясо канюка",
-                    count = 170,
+                    count = 186,
                 },
                 {
                     link = "|cffffffff|Hitem:27674:0:0:0:0:0:0:0:10|h[Плоть опустошителя]|h|r",
@@ -10565,7 +10565,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789659611,
+            last_update = 1790100975,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
