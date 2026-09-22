@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1790078502
+ItemStorageDB_LastUpdate = 1790081642
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-21 14:52:34",
+        updated_at = "2026-09-22 15:54:02",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -1156,7 +1156,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:48720:0:0:0:0:0:0:0:10|h[Символ когтя]|h|r",
                 name = "Символ когтя",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:49084:0:0:0:0:0:0:0:10|h[Символ властности]|h|r",
@@ -1180,7 +1180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789991210,
+            last_update = 1790081557,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2325,7 +2325,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:48720:0:0:0:0:0:0:0:10|h[Символ когтя]|h|r",
                     name = "Символ когтя",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:49084:0:0:0:0:0:0:0:10|h[Символ властности]|h|r",
@@ -2350,7 +2350,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789991548,
+            last_update = 1790081633,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
