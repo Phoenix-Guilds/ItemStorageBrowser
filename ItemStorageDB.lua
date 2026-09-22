@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790083811
+ItemStorageDB_LastUpdate = 1790084040
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19653,16 +19653,11 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-21 20:18:48",
+        updated_at = "2026-09-22 16:34:00",
         money = 203936,
-        empty = 70,
+        empty = 72,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
-                name = "Перчатки Клыка",
-                count = 1,
-            },
             {
                 link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
                 name = "Рысьи лапы",
@@ -19966,7 +19961,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                 name = "Наручники Раздробленного хребта",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:16671:0:0:0:0:0:0:0:10|h[Наручники Стихий]|h|r",
@@ -20255,13 +20250,8 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790011103,
+            last_update = 1790084024,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
-                    name = "Перчатки Клыка",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
                     name = "Рысьи лапы",
@@ -20550,7 +20540,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                     name = "Наручники Раздробленного хребта",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:16671:0:0:0:0:0:0:0:10|h[Наручники Стихий]|h|r",
@@ -20800,7 +20790,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790011118,
+            last_update = 1790084032,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
