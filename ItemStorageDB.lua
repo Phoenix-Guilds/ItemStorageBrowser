@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790101444
+ItemStorageDB_LastUpdate = 1790101534
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:22:06",
+        updated_at = "2026-09-22 21:25:34",
         money = 92710,
-        empty = 50,
+        empty = 49,
         location = "Оргриммар",
         items = {
             {
@@ -2696,7 +2696,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
@@ -2985,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790101319,
+            last_update = 1790101527,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790101320,
+            last_update = 1790101528,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3605,6 +3605,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
                     name = "Клеймор бойца",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
+                    name = "Зазубренный боевой топор",
                     count = 1,
                 },
                 {
