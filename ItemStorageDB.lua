@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790100354
+ItemStorageDB_LastUpdate = 1790100578
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 20:56:18",
+        updated_at = "2026-09-22 21:09:38",
         money = 92710,
-        empty = 56,
+        empty = 51,
         location = "Оргриммар",
         items = {
             {
@@ -2476,7 +2476,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                 name = "Небесный свет",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
@@ -2541,7 +2541,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
                 name = "Отвага Бланчарда",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13047:0:0:0:0:0:0:0:10|h[Сучок с Древа Жизни]|h|r",
@@ -2876,7 +2876,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                 name = "Стена мертвых",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1982:0:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
@@ -2896,7 +2896,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2164:0:0:0:0:0:0:0:10|h[Потрошитель]|h|r",
                 name = "Потрошитель",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:2243:0:0:0:0:0:0:0:10|h[Рука Эдварда Странного]|h|r",
@@ -2941,7 +2941,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
                 name = "Топор Лесных чащоб",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:812:0:0:0:0:0:0:0:10|h[Светящийся посох Светлой рощи]|h|r",
@@ -2985,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790099769,
+            last_update = 1790100571,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790099770,
+            last_update = 1790100572,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3535,7 +3535,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                     name = "Небесный свет",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
@@ -3546,6 +3546,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
                     name = "Клинок титанов",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
+                    name = "Отвага Бланчарда",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13055:0:0:0:0:0:0:0:10|h[Костеглод]|h|r",
@@ -3695,7 +3700,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1979:0:0:0:0:0:0:0:10|h[Стена мертвых]|h|r",
                     name = "Стена мертвых",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:2163:0:0:0:0:0:0:0:10|h[Теневой клинок]|h|r",
@@ -3703,8 +3708,18 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cffa335ee|Hitem:2164:0:0:0:0:0:0:0:10|h[Потрошитель]|h|r",
+                    name = "Потрошитель",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
                     name = "Молот Северного ветра",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
+                    name = "Топор Лесных чащоб",
                     count = 1,
                 },
                 {
