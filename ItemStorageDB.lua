@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790099898
+ItemStorageDB_LastUpdate = 1790099933
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19708,9 +19708,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 20:46:07",
+        updated_at = "2026-09-22 20:58:53",
         money = 203936,
-        empty = 66,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -19801,7 +19801,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
                 name = "Наплеч Змееубийцы",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
@@ -19921,7 +19921,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                 name = "Кушак Огрона",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -20151,7 +20151,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
@@ -20305,7 +20305,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790099156,
+            last_update = 1790099926,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -20390,7 +20390,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
                     name = "Наплеч Змееубийцы",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
@@ -20510,7 +20510,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                     name = "Кушак Огрона",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -20730,7 +20730,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                     name = "Поножи некроманта",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
@@ -20850,7 +20850,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790099160,
+            last_update = 1790099927,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
