@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790101353
+ItemStorageDB_LastUpdate = 1790101380
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8358,7 +8358,7 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-18 11:37:01",
+        updated_at = "2026-09-22 21:23:00",
         money = 141967,
         empty = 151,
         location = "Оргриммар",
@@ -8456,7 +8456,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
                 name = "Руда оскверненного железа",
-                count = 110,
+                count = 115,
             },
             {
                 link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
@@ -8540,7 +8540,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789720615,
+            last_update = 1790101374,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8635,7 +8635,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
                     name = "Руда оскверненного железа",
-                    count = 110,
+                    count = 115,
                 },
                 {
                     link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
@@ -8720,7 +8720,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789720616,
+            last_update = 1790101374,
             items = {
             },
         },
