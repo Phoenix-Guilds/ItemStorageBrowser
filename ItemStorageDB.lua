@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790099600
+ItemStorageDB_LastUpdate = 1790099778
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 20:45:20",
+        updated_at = "2026-09-22 20:56:18",
         money = 92710,
-        empty = 57,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -2969,6 +2969,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
+                name = "Топор шквала",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:943:0:0:0:0:0:0:0:10|h[Посох тюремщика]|h|r",
                 name = "Посох тюремщика",
                 count = 2,
@@ -2980,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790099112,
+            last_update = 1790099769,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3505,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790099114,
+            last_update = 1790099770,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3700,6 +3705,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
                     name = "Молот Северного ветра",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
+                    name = "Топор шквала",
                     count = 1,
                 },
             },
