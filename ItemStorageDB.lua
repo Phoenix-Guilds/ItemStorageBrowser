@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1790113589
+ItemStorageDB_LastUpdate = 1790114107
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 20:53:20",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-23 00:55:07",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -476,7 +476,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42897:0:0:0:0:0:0:0:10|h[Символ прицельного выстрела]|h|r",
                 name = "Символ прицельного выстрела",
-                count = 17,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:42898:0:0:0:0:0:0:0:10|h[Символ чародейского выстрела]|h|r",
@@ -696,7 +696,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
@@ -856,7 +856,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43416:0:0:0:0:0:0:0:10|h[Символ казни]|h|r",
                 name = "Символ казни",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43417:0:0:0:0:0:0:0:10|h[Символ подрезанного сухожилия]|h|r",
@@ -931,7 +931,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43431:0:0:0:0:0:0:0:10|h[Символ победного ража]|h|r",
                 name = "Символ победного ража",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:43432:0:0:0:0:0:0:0:10|h[Символ вихря]|h|r",
@@ -1180,7 +1180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790099588,
+            last_update = 1790114077,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1645,7 +1645,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42897:0:0:0:0:0:0:0:10|h[Символ прицельного выстрела]|h|r",
                     name = "Символ прицельного выстрела",
-                    count = 17,
+                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:42898:0:0:0:0:0:0:0:10|h[Символ чародейского выстрела]|h|r",
@@ -1865,7 +1865,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                     name = "Символ лечения питомца",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
@@ -2025,7 +2025,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43416:0:0:0:0:0:0:0:10|h[Символ казни]|h|r",
                     name = "Символ казни",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43417:0:0:0:0:0:0:0:10|h[Символ подрезанного сухожилия]|h|r",
@@ -2100,7 +2100,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43431:0:0:0:0:0:0:0:10|h[Символ победного ража]|h|r",
                     name = "Символ победного ража",
-                    count = 9,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:43432:0:0:0:0:0:0:0:10|h[Символ вихря]|h|r",
@@ -2350,7 +2350,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790099594,
+            last_update = 1790114095,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
