@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790101044
+ItemStorageDB_LastUpdate = 1790101112
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12338,9 +12338,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:04:59",
+        updated_at = "2026-09-22 21:18:32",
         money = 385478,
-        empty = 113,
+        empty = 112,
         location = "Оргриммар",
         items = {
             {
@@ -12501,7 +12501,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
                 name = "Простое волшебное масло",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:20748:0:0:0:0:0:0:0:10|h[Сверкающее масло маны]|h|r",
@@ -12550,7 +12550,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790100292,
+            last_update = 1790101105,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12725,7 +12725,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790100295,
+            last_update = 1790101106,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -12740,7 +12740,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
                     name = "Простое волшебное масло",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
