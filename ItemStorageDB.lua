@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790100212
+ItemStorageDB_LastUpdate = 1790100299
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12323,9 +12323,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-21 13:55:40",
+        updated_at = "2026-09-22 21:04:59",
         money = 385478,
-        empty = 116,
+        empty = 113,
         location = "Оргриммар",
         items = {
             {
@@ -12486,7 +12486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
                 name = "Простое волшебное масло",
-                count = 1,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:20748:0:0:0:0:0:0:0:10|h[Сверкающее масло маны]|h|r",
@@ -12535,7 +12535,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789974595,
+            last_update = 1790100292,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -12710,7 +12710,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789988134,
+            last_update = 1790100295,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -12721,6 +12721,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
                     name = "Жезл из истинного серебра",
                     count = 6,
+                },
+                {
+                    link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
+                    name = "Простое волшебное масло",
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
