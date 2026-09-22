@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790101534
+ItemStorageDB_LastUpdate = 1790101561
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19908,9 +19908,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:10:05",
+        updated_at = "2026-09-22 21:26:01",
         money = 203936,
-        empty = 62,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -19996,7 +19996,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13031:0:0:0:0:0:0:0:10|h[Сфера Мисмантла]|h|r",
                 name = "Сфера Мисмантла",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
@@ -20426,7 +20426,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                 name = "Ремень силы голема",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
@@ -20505,7 +20505,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790100599,
+            last_update = 1790101554,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -20585,7 +20585,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13031:0:0:0:0:0:0:0:10|h[Сфера Мисмантла]|h|r",
                     name = "Сфера Мисмантла",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
@@ -20990,7 +20990,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                     name = "Ремень силы голема",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
@@ -21050,7 +21050,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790100599,
+            last_update = 1790101555,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
