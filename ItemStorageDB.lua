@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790100578
+ItemStorageDB_LastUpdate = 1790100605
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19793,9 +19793,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 20:58:53",
+        updated_at = "2026-09-22 21:10:05",
         money = 203936,
-        empty = 63,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -19936,7 +19936,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13099:0:0:0:0:0:0:0:10|h[Мокасины Белого кролика]|h|r",
                 name = "Мокасины Белого кролика",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
@@ -20390,7 +20390,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790099926,
+            last_update = 1790100599,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1121:0:0:0:0:0:0:0:10|h[Рысьи лапы]|h|r",
@@ -20525,7 +20525,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13099:0:0:0:0:0:0:0:10|h[Мокасины Белого кролика]|h|r",
                     name = "Мокасины Белого кролика",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
@@ -20935,7 +20935,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790099927,
+            last_update = 1790100599,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
