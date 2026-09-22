@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790114107
+ItemStorageDB_LastUpdate = 1790114661
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21258,9 +21258,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-23 00:35:14",
+        updated_at = "2026-09-23 01:04:21",
         money = 194111,
-        empty = 121,
+        empty = 122,
         location = "Оргриммар",
         items = {
             {
@@ -21461,7 +21461,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
                 name = "Инкрустированное малахитом кольцо",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
@@ -21585,7 +21585,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790112904,
+            last_update = 1790114141,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -21715,7 +21715,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
                     name = "Инкрустированное малахитом кольцо",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
@@ -21825,7 +21825,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790112909,
+            last_update = 1790114149,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
