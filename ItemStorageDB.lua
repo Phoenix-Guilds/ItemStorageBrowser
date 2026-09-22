@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790101287
+ItemStorageDB_LastUpdate = 1790101326
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:09:38",
+        updated_at = "2026-09-22 21:22:06",
         money = 92710,
-        empty = 51,
+        empty = 50,
         location = "Оргриммар",
         items = {
             {
@@ -2741,7 +2741,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5267:0:0:0:0:0:0:0:10|h[Алый крис]|h|r",
                 name = "Алый крис",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
@@ -2985,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790100571,
+            last_update = 1790101319,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790100572,
+            last_update = 1790101320,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3621,6 +3621,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:5267:0:0:0:0:0:0:0:10|h[Алый крис]|h|r",
+                    name = "Алый крис",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
