@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790189651
+ItemStorageDB_LastUpdate = 1790189684
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15363,9 +15363,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-21 20:23:10",
+        updated_at = "2026-09-23 21:54:44",
         money = 214291,
-        empty = 195,
+        empty = 193,
         location = "Оргриммар",
         items = {
             {
@@ -15558,9 +15558,19 @@ ItemStorageDB = {
                 name = "Свиток чар для наручей - штурм II",
                 count = 1,
             },
+            {
+                link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
+                name = "Свиток силы",
+                count = 3,
+            },
+            {
+                link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
+                name = "Свиток интеллекта",
+                count = 7,
+            },
         },
         bank = {
-            last_update = 1790011378,
+            last_update = 1790189675,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -15640,7 +15650,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790011385,
+            last_update = 1790189678,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -15756,6 +15766,16 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:44815:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - штурм II]|h|r",
                     name = "Свиток чар для наручей - штурм II",
                     count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
+                    name = "Свиток силы",
+                    count = 3,
+                },
+                {
+                    link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
+                    name = "Свиток интеллекта",
+                    count = 7,
                 },
             },
         },
