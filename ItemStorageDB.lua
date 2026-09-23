@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790190343
+ItemStorageDB_LastUpdate = 1790190377
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5838,9 +5838,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 21:22:33",
+        updated_at = "2026-09-23 22:06:17",
         money = 421241,
-        empty = 63,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -5911,7 +5911,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
-                count = 142,
+                count = 143,
             },
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
@@ -6031,7 +6031,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
                 name = "Малахит",
-                count = 150,
+                count = 152,
             },
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
@@ -6056,7 +6056,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                 name = "Тигровый глаз",
-                count = 150,
+                count = 153,
             },
             {
                 link = "|cffffffff|Hitem:12365:0:0:0:0:0:0:0:10|h[Массивный камень]|h|r",
@@ -6160,7 +6160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790101347,
+            last_update = 1790190371,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6225,7 +6225,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                     name = "Моховой агат",
-                    count = 142,
+                    count = 143,
                 },
                 {
                     link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
@@ -6335,7 +6335,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:774:0:0:0:0:0:0:0:10|h[Малахит]|h|r",
                     name = "Малахит",
-                    count = 150,
+                    count = 152,
                 },
                 {
                     link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
@@ -6350,7 +6350,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                     name = "Тигровый глаз",
-                    count = 150,
+                    count = 153,
                 },
                 {
                     link = "|cffffffff|Hitem:12365:0:0:0:0:0:0:0:10|h[Массивный камень]|h|r",
@@ -6400,7 +6400,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790101348,
+            last_update = 1790190372,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
