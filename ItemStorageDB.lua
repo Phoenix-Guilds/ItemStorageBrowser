@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790165904
+ItemStorageDB_LastUpdate = 1790184771
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2362,10 +2362,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-23 10:45:18",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-23 20:32:51",
         money = 92710,
-        empty = 53,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -2526,7 +2526,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                 name = "Вязкий молот",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -2894,11 +2894,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:2243:0:0:0:0:0:0:0:10|h[Рука Эдварда Странного]|h|r",
-                name = "Рука Эдварда Странного",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                 name = "Клинок Крола",
                 count = 2,
@@ -2980,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790149462,
+            last_update = 1790184709,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3120,7 +3115,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                     name = "Вязкий молот",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -3403,11 +3398,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffa335ee|Hitem:2243:0:0:0:0:0:0:0:10|h[Рука Эдварда Странного]|h|r",
-                    name = "Рука Эдварда Странного",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                     name = "Клинок Крола",
                     count = 2,
@@ -3485,7 +3475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790149472,
+            last_update = 1790184729,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
