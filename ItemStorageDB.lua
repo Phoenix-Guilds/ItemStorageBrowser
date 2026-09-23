@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790189845
+ItemStorageDB_LastUpdate = 1790189915
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17733,9 +17733,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-23 21:51:57",
+        updated_at = "2026-09-23 21:58:35",
         money = 975064,
-        empty = 126,
+        empty = 125,
         location = "Оргриммар",
         items = {
             {
@@ -17806,7 +17806,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 412,
+                count = 414,
             },
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
@@ -17826,7 +17826,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 249,
+                count = 260,
             },
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
@@ -17990,7 +17990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790189509,
+            last_update = 1790189910,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18045,7 +18045,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                     name = "Мироцвет",
-                    count = 412,
+                    count = 414,
                 },
                 {
                     link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
@@ -18065,7 +18065,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                     name = "Синячник",
-                    count = 249,
+                    count = 260,
                 },
                 {
                     link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
@@ -18200,7 +18200,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790189511,
+            last_update = 1790189910,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
