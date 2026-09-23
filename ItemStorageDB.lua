@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790189946
+ItemStorageDB_LastUpdate = 1790190067
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20068,9 +20068,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-23 21:57:25",
+        updated_at = "2026-09-23 22:01:07",
         money = 203936,
-        empty = 62,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -20181,7 +20181,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
                 name = "Шлем Маг-Тола",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
@@ -20655,7 +20655,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790189834,
+            last_update = 1790190057,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21195,7 +21195,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790189839,
+            last_update = 1790190060,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21210,6 +21210,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                     name = "Броня гидролиска",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
+                    name = "Шлем Маг-Тола",
                     count = 1,
                 },
                 {
