@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790189813
+ItemStorageDB_LastUpdate = 1790189845
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20068,9 +20068,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-23 21:48:19",
+        updated_at = "2026-09-23 21:57:25",
         money = 203936,
-        empty = 64,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -20306,7 +20306,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
                 name = "Эльфийские плетеные сапоги",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
@@ -20326,7 +20326,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
                 name = "Набедренники Ветрокрылых",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
@@ -20655,7 +20655,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790189289,
+            last_update = 1790189834,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21195,7 +21195,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790189293,
+            last_update = 1790189839,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21245,6 +21245,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
                     name = "Наплеч Незримых",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
+                    name = "Эльфийские плетеные сапоги",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
+                    name = "Набедренники Ветрокрылых",
                     count = 1,
                 },
                 {
