@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790150652
+ItemStorageDB_LastUpdate = 1790152785
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19943,15 +19943,15 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-22 22:37:25",
+        updated_at = "2026-09-23 11:39:45",
         money = 203936,
-        empty = 59,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                 name = "Перчатки Волшебного кулака",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -19966,7 +19966,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
                 name = "Темнотканые брюки",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12988:0:0:0:0:0:0:0:10|h[Мундир Звездного зрения]|h|r",
@@ -20416,7 +20416,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
@@ -20540,7 +20540,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790105728,
+            last_update = 1790151116,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -20560,7 +20560,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
                     name = "Темнотканые брюки",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12988:0:0:0:0:0:0:0:10|h[Мундир Звездного зрения]|h|r",
@@ -20980,7 +20980,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                     name = "Ремень Келлера",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
@@ -21075,13 +21075,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790105790,
+            last_update = 1790152777,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
-                    name = "Перчатки Волшебного кулака",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
                     name = "Рукавицы Торбии",
