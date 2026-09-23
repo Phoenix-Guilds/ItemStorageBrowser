@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790190067
+ItemStorageDB_LastUpdate = 1790190175
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20068,9 +20068,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-23 22:01:07",
+        updated_at = "2026-09-23 22:02:55",
         money = 203936,
-        empty = 61,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -20311,7 +20311,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
                 name = "Рукавицы Зовущего битву",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
@@ -20546,7 +20546,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
                 name = "Перчатки буяна",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
@@ -20655,7 +20655,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790190057,
+            last_update = 1790190168,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21195,7 +21195,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790190060,
+            last_update = 1790190169,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21258,6 +21258,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
+                    name = "Рукавицы Зовущего битву",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
                     name = "Набедренники Ветрокрылых",
                     count = 1,
@@ -21315,6 +21320,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:5425:0:0:0:0:0:0:0:10|h[Ремень из рунической чешуи]|h|r",
                     name = "Ремень из рунической чешуи",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
+                    name = "Перчатки буяна",
                     count = 1,
                 },
                 {
