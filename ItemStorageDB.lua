@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790190518
+ItemStorageDB_LastUpdate = 1790190546
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20073,9 +20073,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-23 22:02:55",
+        updated_at = "2026-09-23 22:09:06",
         money = 203936,
-        empty = 59,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -20356,7 +20356,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13135:0:0:0:0:0:0:0:10|h[Властные боевые наручи]|h|r",
                 name = "Властные боевые наручи",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
@@ -20660,7 +20660,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790190168,
+            last_update = 1790190537,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21200,7 +21200,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790190169,
+            last_update = 1790190539,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21270,6 +21270,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
                     name = "Набедренники Ветрокрылых",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13135:0:0:0:0:0:0:0:10|h[Властные боевые наручи]|h|r",
+                    name = "Властные боевые наручи",
                     count = 1,
                 },
                 {
