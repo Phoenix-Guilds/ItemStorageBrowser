@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790345354
+ItemStorageDB_LastUpdate = 1790450197
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17502,10 +17502,10 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-24 17:15:02",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-26 22:16:37",
         money = 602,
-        empty = 96,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -17526,7 +17526,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 206,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
@@ -17573,29 +17573,9 @@ ItemStorageDB = {
                 name = "Рулон магической ткани",
                 count = 187,
             },
-            {
-                link = "|cffffffff|Hitem:4589:0:0:0:0:0:0:0:10|h[Длинное элегантное перо]|h|r",
-                name = "Длинное элегантное перо",
-                count = 100,
-            },
-            {
-                link = "|cffffffff|Hitem:7071:0:0:0:0:0:0:0:10|h[Железная скоба]|h|r",
-                name = "Железная скоба",
-                count = 46,
-            },
-            {
-                link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
-                name = "Чешуя наги",
-                count = 113,
-            },
-            {
-                link = "|cffffffff|Hitem:9210:0:0:0:0:0:0:0:10|h[Призрачная краска]|h|r",
-                name = "Призрачная краска",
-                count = 20,
-            },
         },
         bank = {
-            last_update = 1790259279,
+            last_update = 1790450176,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -17605,7 +17585,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                     name = "Руническая ткань",
-                    count = 206,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
@@ -17655,7 +17635,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790259289,
+            last_update = 1790450190,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -17666,26 +17646,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41603:0:0:0:0:0:0:0:10|h[Лазурная чародейская нить]|h|r",
                     name = "Лазурная чародейская нить",
                     count = 10,
-                },
-                {
-                    link = "|cffffffff|Hitem:4589:0:0:0:0:0:0:0:10|h[Длинное элегантное перо]|h|r",
-                    name = "Длинное элегантное перо",
-                    count = 100,
-                },
-                {
-                    link = "|cffffffff|Hitem:7071:0:0:0:0:0:0:0:10|h[Железная скоба]|h|r",
-                    name = "Железная скоба",
-                    count = 46,
-                },
-                {
-                    link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
-                    name = "Чешуя наги",
-                    count = 113,
-                },
-                {
-                    link = "|cffffffff|Hitem:9210:0:0:0:0:0:0:0:10|h[Призрачная краска]|h|r",
-                    name = "Призрачная краска",
-                    count = 20,
                 },
             },
         },
