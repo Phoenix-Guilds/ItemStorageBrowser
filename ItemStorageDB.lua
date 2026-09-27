@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790511020
+ItemStorageDB_LastUpdate = 1790511099
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8328,9 +8328,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 15:08:53",
+        updated_at = "2026-09-27 15:11:39",
         money = 141967,
-        empty = 150,
+        empty = 148,
         location = "Оргриммар",
         items = {
             {
@@ -8401,7 +8401,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                 name = "Руда истинного серебра",
-                count = 896,
+                count = 946,
             },
             {
                 link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
@@ -8496,7 +8496,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                 name = "Мифриловая руда",
-                count = 229,
+                count = 279,
             },
             {
                 link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
@@ -8510,7 +8510,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790510927,
+            last_update = 1790511094,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8580,7 +8580,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                     name = "Руда истинного серебра",
-                    count = 896,
+                    count = 946,
                 },
                 {
                     link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
@@ -8675,7 +8675,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                     name = "Мифриловая руда",
-                    count = 229,
+                    count = 279,
                 },
                 {
                     link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
@@ -8690,7 +8690,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790510928,
+            last_update = 1790511095,
             items = {
             },
         },
