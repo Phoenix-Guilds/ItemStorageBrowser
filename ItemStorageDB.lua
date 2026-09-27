@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790508874
+ItemStorageDB_LastUpdate = 1790508909
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4897,10 +4897,10 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-23 00:39:05",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-27 14:35:09",
         money = 999680,
-        empty = 115,
+        empty = 114,
         location = "Оргриммар",
         items = {
             {
@@ -5041,7 +5041,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
                 name = "Субстанция Воды",
-                count = 16,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:7082:0:0:0:0:0:0:0:10|h[Субстанция Воздуха]|h|r",
@@ -5161,7 +5161,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 49,
+                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5195,7 +5195,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790113118,
+            last_update = 1790508901,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5300,7 +5300,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7080:0:0:0:0:0:0:0:10|h[Субстанция Воды]|h|r",
                     name = "Субстанция Воды",
-                    count = 16,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:7082:0:0:0:0:0:0:0:10|h[Субстанция Воздуха]|h|r",
@@ -5415,7 +5415,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                     name = "Сердце огня",
-                    count = 49,
+                    count = 51,
                 },
                 {
                     link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5445,7 +5445,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790113123,
+            last_update = 1790508904,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
