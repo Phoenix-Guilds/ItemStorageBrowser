@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790509867
+ItemStorageDB_LastUpdate = 1790509985
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20413,9 +20413,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 14:46:13",
+        updated_at = "2026-09-27 14:53:05",
         money = 203936,
-        empty = 58,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -20576,7 +20576,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13103:0:0:0:0:0:0:0:10|h[Оплечье Ядовитого паука]|h|r",
                 name = "Оплечье Ядовитого паука",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13105:0:0:0:0:0:0:0:10|h[Опоясок Сутарна]|h|r",
@@ -21005,7 +21005,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790509566,
+            last_update = 1790509978,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21550,7 +21550,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790509567,
+            last_update = 1790509979,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21585,6 +21585,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13101:0:0:0:0:0:0:0:10|h[Ботинки Волкогонца]|h|r",
                     name = "Ботинки Волкогонца",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13103:0:0:0:0:0:0:0:10|h[Оплечье Ядовитого паука]|h|r",
+                    name = "Оплечье Ядовитого паука",
                     count = 1,
                 },
                 {
