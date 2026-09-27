@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790509537
+ItemStorageDB_LastUpdate = 1790509573
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19883,9 +19883,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 14:42:50",
+        updated_at = "2026-09-27 14:46:13",
         money = 203936,
-        empty = 60,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -20321,12 +20321,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
                 name = "Эполеты лесного следопыта",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
@@ -20475,7 +20475,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790509358,
+            last_update = 1790509566,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21020,7 +21020,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790509363,
+            last_update = 1790509567,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21120,6 +21120,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                     name = "Сапоги тиноброда",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
+                    name = "Поножи некроманта",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
+                    name = "Эполеты лесного следопыта",
                     count = 1,
                 },
                 {
