@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790511313
+ItemStorageDB_LastUpdate = 1790511340
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18243,9 +18243,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 15:02:52",
+        updated_at = "2026-09-27 15:15:40",
         money = 975064,
-        empty = 116,
+        empty = 114,
         location = "Оргриммар",
         items = {
             {
@@ -18331,7 +18331,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                 name = "Скорополох",
-                count = 60,
+                count = 110,
             },
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
@@ -18341,7 +18341,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 231,
+                count = 281,
             },
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
@@ -18500,7 +18500,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790510562,
+            last_update = 1790511335,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18570,7 +18570,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2452:0:0:0:0:0:0:0:10|h[Скорополох]|h|r",
                     name = "Скорополох",
-                    count = 60,
+                    count = 110,
                 },
                 {
                     link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
@@ -18580,7 +18580,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                     name = "Дикий сталецвет",
-                    count = 231,
+                    count = 281,
                 },
                 {
                     link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
@@ -18710,7 +18710,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790510564,
+            last_update = 1790511336,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
