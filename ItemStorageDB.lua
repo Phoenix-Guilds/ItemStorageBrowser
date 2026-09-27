@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790510849
+ItemStorageDB_LastUpdate = 1790510933
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8328,9 +8328,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 15:00:21",
+        updated_at = "2026-09-27 15:08:53",
         money = 141967,
-        empty = 151,
+        empty = 150,
         location = "Оргриммар",
         items = {
             {
@@ -8396,17 +8396,17 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6037:0:0:0:0:0:0:0:10|h[Слиток истинного серебра]|h|r",
                 name = "Слиток истинного серебра",
-                count = 323,
+                count = 324,
             },
             {
                 link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                 name = "Руда истинного серебра",
-                count = 890,
+                count = 896,
             },
             {
                 link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
                 name = "Ториевая руда",
-                count = 761,
+                count = 833,
             },
             {
                 link = "|cffffffff|Hitem:11371:0:0:0:0:0:0:0:10|h[Слиток черного железа]|h|r",
@@ -8510,7 +8510,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790510415,
+            last_update = 1790510927,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8575,17 +8575,17 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:6037:0:0:0:0:0:0:0:10|h[Слиток истинного серебра]|h|r",
                     name = "Слиток истинного серебра",
-                    count = 323,
+                    count = 324,
                 },
                 {
                     link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                     name = "Руда истинного серебра",
-                    count = 890,
+                    count = 896,
                 },
                 {
                     link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
                     name = "Ториевая руда",
-                    count = 761,
+                    count = 833,
                 },
                 {
                     link = "|cffffffff|Hitem:11371:0:0:0:0:0:0:0:10|h[Слиток черного железа]|h|r",
@@ -8690,7 +8690,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790510416,
+            last_update = 1790510928,
             items = {
             },
         },
