@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790511433
+ItemStorageDB_LastUpdate = 1790511546
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 15:05:34",
+        updated_at = "2026-09-27 15:19:06",
         money = 92710,
-        empty = 52,
+        empty = 49,
         location = "Оргриммар",
         items = {
             {
@@ -2601,6 +2601,16 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
                 name = "Игольщик",
+                count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
+                name = "Копейный щит Черепа",
                 count = 2,
             },
             {
@@ -2975,7 +2985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790510726,
+            last_update = 1790511540,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3505,7 +3515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790510728,
+            last_update = 1790511540,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3551,6 +3561,16 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                     name = "Острие Кху",
                     count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                    name = "Щит Торсена",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
+                    name = "Копейный щит Черепа",
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
