@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790510972
+ItemStorageDB_LastUpdate = 1790511020
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13178,9 +13178,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-21 20:43:51",
+        updated_at = "2026-09-27 15:10:20",
         money = 164134,
-        empty = 4,
+        empty = 3,
         location = "Оргриммар",
         items = {
             {
@@ -13476,6 +13476,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13481:0:0:0:0:0:0:0:10|h[Рецепт: эликсир грубой силы]|h|r",
                 name = "Рецепт: эликсир грубой силы",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:13486:0:0:0:0:0:0:0:10|h[Рецепт: трансмутация нежити в воду]|h|r",
+                name = "Рецепт: трансмутация нежити в воду",
                 count = 1,
             },
             {
@@ -14260,7 +14265,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790012554,
+            last_update = 1790511012,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14445,6 +14450,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:13481:0:0:0:0:0:0:0:10|h[Рецепт: эликсир грубой силы]|h|r",
                     name = "Рецепт: эликсир грубой силы",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:13486:0:0:0:0:0:0:0:10|h[Рецепт: трансмутация нежити в воду]|h|r",
+                    name = "Рецепт: трансмутация нежити в воду",
                     count = 1,
                 },
                 {
@@ -15070,7 +15080,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790012601,
+            last_update = 1790511014,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
