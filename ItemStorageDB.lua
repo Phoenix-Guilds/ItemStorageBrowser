@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790511722
+ItemStorageDB_LastUpdate = 1790511764
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2363,9 +2363,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 15:19:06",
+        updated_at = "2026-09-27 15:22:44",
         money = 92710,
-        empty = 49,
+        empty = 51,
         location = "Оргриммар",
         items = {
             {
@@ -2866,7 +2866,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                 name = "Черночерепный щит",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:1169:852:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
@@ -2929,11 +2929,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
-                name = "Кровавая бритва",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
                 name = "Молот Северного ветра",
                 count = 2,
@@ -2985,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790511540,
+            last_update = 1790511747,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3458,11 +3453,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
-                    name = "Кровавая бритва",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
                     name = "Молот Северного ветра",
                     count = 1,
@@ -3515,7 +3505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790511540,
+            last_update = 1790511758,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3690,7 +3680,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                     name = "Черночерепный щит",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1169:852:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
