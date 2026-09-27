@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790534103
+ItemStorageDB_LastUpdate = 1790534224
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2353,9 +2353,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 15:32:30",
+        updated_at = "2026-09-27 21:37:04",
         money = 92710,
-        empty = 48,
+        empty = 50,
         location = "Оргриммар",
         items = {
             {
@@ -2601,7 +2601,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                 name = "Копейный щит Черепа",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
@@ -2829,11 +2829,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:9378:0:0:0:0:0:0:0:10|h[Шахтерское кайло Лопаторукого]|h|r",
-                name = "Шахтерское кайло Лопаторукого",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:937:0:0:0:0:0:0:0:10|h[Черный посох Сумеречного леса]|h|r",
                 name = "Черный посох Сумеречного леса",
                 count = 2,
@@ -2980,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790512342,
+            last_update = 1790534161,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3378,11 +3373,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:9378:0:0:0:0:0:0:0:10|h[Шахтерское кайло Лопаторукого]|h|r",
-                    name = "Шахтерское кайло Лопаторукого",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:937:0:0:0:0:0:0:0:10|h[Черный посох Сумеречного леса]|h|r",
                     name = "Черный посох Сумеречного леса",
                     count = 1,
@@ -3505,7 +3495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790512344,
+            last_update = 1790534168,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3560,7 +3550,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                     name = "Копейный щит Черепа",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
