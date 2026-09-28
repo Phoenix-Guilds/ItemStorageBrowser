@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790616149
+ItemStorageDB_LastUpdate = 1790616270
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7693,7 +7693,7 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 03:36:22",
+        updated_at = "2026-09-28 20:24:30",
         money = 0,
         empty = 195,
         location = "Оргриммар",
@@ -7800,7 +7800,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789518976,
+            last_update = 1790616216,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7811,11 +7811,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
                     name = "Мощь-рыба в кляре",
                     count = 65,
-                },
-                {
-                    link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
-                    name = "Копченые пустынные клецки",
-                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
@@ -7905,8 +7900,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789518978,
+            last_update = 1790616223,
             items = {
+                {
+                    link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
+                    name = "Копченые пустынные клецки",
+                    count = 20,
+                },
             },
         },
     },
