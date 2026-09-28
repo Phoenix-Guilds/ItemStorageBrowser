@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790588759
+ItemStorageDB_LastUpdate = 1790588903
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20673,9 +20673,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 21:35:03",
+        updated_at = "2026-09-28 12:48:23",
         money = 203936,
-        empty = 55,
+        empty = 53,
         location = "Оргриммар",
         items = {
             {
@@ -20781,7 +20781,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
                 name = "Латная боевая перчатка Хаку",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13072:0:0:0:0:0:0:0:10|h[Рукавицы Каменной хватки]|h|r",
@@ -21191,7 +21191,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
                 name = "Перчатки Старины",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:9402:0:0:0:0:0:0:0:10|h[Сотворенный землей килт]|h|r",
@@ -21280,7 +21280,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790534072,
+            last_update = 1790588883,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21760,7 +21760,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9395:0:0:0:0:0:0:0:10|h[Перчатки Старины]|h|r",
                     name = "Перчатки Старины",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:9402:0:0:0:0:0:0:0:10|h[Сотворенный землей килт]|h|r",
@@ -21830,7 +21830,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790534095,
+            last_update = 1790588887,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21845,6 +21845,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                     name = "Броня гидролиска",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
+                    name = "Латная боевая перчатка Хаку",
                     count = 1,
                 },
                 {
