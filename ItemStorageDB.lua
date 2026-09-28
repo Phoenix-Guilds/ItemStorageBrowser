@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1790577838
+ItemStorageDB_LastUpdate = 1790578737
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 21:33:53",
+        updated_at = "2026-09-28 09:58:57",
         money = 339404,
         empty = 111,
         location = "Оргриммар",
@@ -236,7 +236,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41542:0:0:0:0:0:0:0:10|h[Символ оружия неистовства ветра]|h|r",
                 name = "Символ оружия неистовства ветра",
-                count = 11,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:41547:0:0:0:0:0:0:0:10|h[Символ ледяного шока]|h|r",
@@ -691,7 +691,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
                 name = "Символ подводного дыхания",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790534016,
+            last_update = 1790577879,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1400,7 +1400,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41542:0:0:0:0:0:0:0:10|h[Символ оружия неистовства ветра]|h|r",
                     name = "Символ оружия неистовства ветра",
-                    count = 11,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:41547:0:0:0:0:0:0:0:10|h[Символ ледяного шока]|h|r",
@@ -1855,7 +1855,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
                     name = "Символ подводного дыхания",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
@@ -2340,7 +2340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790534024,
+            last_update = 1790577890,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
