@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790589276
+ItemStorageDB_LastUpdate = 1790589307
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20703,9 +20703,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 12:52:04",
+        updated_at = "2026-09-28 12:55:07",
         money = 203936,
-        empty = 52,
+        empty = 51,
         location = "Оргриммар",
         items = {
             {
@@ -20826,7 +20826,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                 name = "Поножи осколка голема",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13075:0:0:0:0:0:0:0:10|h[Набедренники Мрачнокрылого]|h|r",
@@ -21310,7 +21310,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790589117,
+            last_update = 1790589298,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21860,7 +21860,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790589118,
+            last_update = 1790589300,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21890,7 +21890,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                     name = "Поножи осколка голема",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13100:0:0:0:0:0:0:0:10|h[Сапоги Фьюрена]|h|r",
