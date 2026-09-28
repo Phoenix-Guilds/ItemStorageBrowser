@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790588974
+ItemStorageDB_LastUpdate = 1790589124
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20683,9 +20683,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 12:48:23",
+        updated_at = "2026-09-28 12:52:04",
         money = 203936,
-        empty = 53,
+        empty = 52,
         location = "Оргриммар",
         items = {
             {
@@ -21226,7 +21226,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
                 name = "Решетчатые костяные рукавицы",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
@@ -21290,7 +21290,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790588883,
+            last_update = 1790589117,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21840,7 +21840,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790588887,
+            last_update = 1790589118,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -22005,6 +22005,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
                     name = "Забытые напульсники",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
+                    name = "Решетчатые костяные рукавицы",
                     count = 1,
                 },
                 {
