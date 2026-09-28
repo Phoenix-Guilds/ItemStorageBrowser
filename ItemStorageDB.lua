@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790588630
+ItemStorageDB_LastUpdate = 1790588668
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15798,9 +15798,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-25 17:09:14",
+        updated_at = "2026-09-28 12:44:28",
         money = 214291,
-        empty = 193,
+        empty = 192,
         location = "Оргриммар",
         items = {
             {
@@ -15832,6 +15832,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:10310:0:0:0:0:0:0:0:10|h[Свиток силы IV]|h|r",
                 name = "Свиток силы IV",
                 count = 15,
+            },
+            {
+                link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
+                name = "Свиток силы II",
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:27499:0:0:0:0:0:0:0:10|h[Свиток интеллекта V]|h|r",
@@ -16005,7 +16010,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790345315,
+            last_update = 1790588659,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -16085,7 +16090,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790345347,
+            last_update = 1790588662,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -16101,6 +16106,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:44453:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - могущество II]|h|r",
                     name = "Свиток чар для оружия - могущество II",
                     count = 5,
+                },
+                {
+                    link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
+                    name = "Свиток силы II",
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
