@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790593013
+ItemStorageDB_LastUpdate = 1790594477
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15808,7 +15808,7 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 12:56:27",
+        updated_at = "2026-09-28 14:21:17",
         money = 214291,
         empty = 192,
         location = "Оргриммар",
@@ -16020,7 +16020,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790589380,
+            last_update = 1790594451,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -16036,6 +16036,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:10310:0:0:0:0:0:0:0:10|h[Свиток силы IV]|h|r",
                     name = "Свиток силы IV",
                     count = 15,
+                },
+                {
+                    link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
+                    name = "Свиток силы II",
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:27499:0:0:0:0:0:0:0:10|h[Свиток интеллекта V]|h|r",
@@ -16097,10 +16102,20 @@ ItemStorageDB = {
                     name = "Свиток силы III",
                     count = 50,
                 },
+                {
+                    link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
+                    name = "Свиток силы",
+                    count = 3,
+                },
+                {
+                    link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
+                    name = "Свиток интеллекта",
+                    count = 7,
+                },
             },
         },
         bags = {
-            last_update = 1790589381,
+            last_update = 1790594461,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -16116,11 +16131,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:44453:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - могущество II]|h|r",
                     name = "Свиток чар для оружия - могущество II",
                     count = 5,
-                },
-                {
-                    link = "|cffffffff|Hitem:2289:0:0:0:0:0:0:0:10|h[Свиток силы II]|h|r",
-                    name = "Свиток силы II",
-                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
@@ -16221,16 +16231,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:44815:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - штурм II]|h|r",
                     name = "Свиток чар для наручей - штурм II",
                     count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:954:0:0:0:0:0:0:0:10|h[Свиток силы]|h|r",
-                    name = "Свиток силы",
-                    count = 3,
-                },
-                {
-                    link = "|cffffffff|Hitem:955:0:0:0:0:0:0:0:10|h[Свиток интеллекта]|h|r",
-                    name = "Свиток интеллекта",
-                    count = 7,
                 },
             },
         },
