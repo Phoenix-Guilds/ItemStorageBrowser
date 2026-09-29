@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790663702
+ItemStorageDB_LastUpdate = 1790665176
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15563,9 +15563,9 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-29 09:33:52",
+        updated_at = "2026-09-29 09:59:36",
         money = 4042,
-        empty = 156,
+        empty = 159,
         location = "Оргриммар",
         items = {
             {
@@ -15606,11 +15606,6 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
                 name = "Сырой шалфокунь",
-                count = 8,
-            },
-            {
-                link = "|cffffffff|Hitem:21072:0:0:0:0:0:0:0:10|h[Копченый шалфокунь]|h|r",
-                name = "Копченый шалфокунь",
                 count = 4,
             },
             {
@@ -15681,7 +15676,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
                 name = "Сырая каменношкурая треска",
-                count = 351,
+                count = 301,
             },
             {
                 link = "|cffffffff|Hitem:6522:0:0:0:0:0:0:0:10|h[Загадочная рыба]|h|r",
@@ -15695,7 +15690,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790663572,
+            last_update = 1790665169,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15735,7 +15730,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:21071:0:0:0:0:0:0:0:10|h[Сырой шалфокунь]|h|r",
                     name = "Сырой шалфокунь",
-                    count = 8,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:41802:0:0:0:0:0:0:0:10|h[Королевский морской дьявол]|h|r",
@@ -15785,7 +15780,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                     name = "Сырая блестящая рыбка",
-                    count = 79,
+                    count = 94,
                 },
                 {
                     link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
@@ -15805,7 +15800,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
                     name = "Сырая каменношкурая треска",
-                    count = 351,
+                    count = 301,
                 },
                 {
                     link = "|cffffffff|Hitem:6522:0:0:0:0:0:0:0:10|h[Загадочная рыба]|h|r",
@@ -15820,18 +15815,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790663626,
+            last_update = 1790665172,
             items = {
-                {
-                    link = "|cffffffff|Hitem:21072:0:0:0:0:0:0:0:10|h[Копченый шалфокунь]|h|r",
-                    name = "Копченый шалфокунь",
-                    count = 4,
-                },
-                {
-                    link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
-                    name = "Сырая блестящая рыбка",
-                    count = 15,
-                },
             },
         },
     },
