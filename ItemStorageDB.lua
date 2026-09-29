@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790680900
+ItemStorageDB_LastUpdate = 1790680931
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18777,16 +18777,16 @@ ItemStorageDB = {
     },
     {
         name = "Царапучка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 18:24:42",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-29 14:22:11",
         money = 14656,
-        empty = 105,
+        empty = 103,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
                 name = "Большая ядовитая железа",
-                count = 20,
+                count = 24,
             },
             {
                 link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
@@ -18811,16 +18811,16 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
                 name = "Большой клык",
-                count = 133,
+                count = 138,
             },
         },
         bank = {
-            last_update = 1789658628,
+            last_update = 1790680924,
             items = {
                 {
                     link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
                     name = "Большая ядовитая железа",
-                    count = 20,
+                    count = 24,
                 },
                 {
                     link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
@@ -18845,12 +18845,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5637:0:0:0:0:0:0:0:10|h[Большой клык]|h|r",
                     name = "Большой клык",
-                    count = 133,
+                    count = 138,
                 },
             },
         },
         bags = {
-            last_update = 1789658632,
+            last_update = 1790680927,
             items = {
             },
         },
