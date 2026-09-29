@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790678664
+ItemStorageDB_LastUpdate = 1790680149
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2352,10 +2352,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 20:08:35",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-09-29 14:09:09",
         money = 92710,
-        empty = 51,
+        empty = 52,
         location = "Оргриммар",
         items = {
             {
@@ -2744,11 +2744,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
-                name = "Клык Боана",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:6622:0:0:0:0:0:0:0:10|h[Меч рвения]|h|r",
                 name = "Меч рвения",
                 count = 1,
@@ -2975,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790615200,
+            last_update = 1790680127,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3490,7 +3485,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790615281,
+            last_update = 1790680144,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3606,11 +3601,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
-                    name = "Клык Боана",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:7730:0:0:0:0:0:0:0:10|h[Кобальтовый крушитель]|h|r",
