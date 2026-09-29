@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1790705273
+ItemStorageDB_LastUpdate = 1790705408
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 12:43:00",
+        updated_at = "2026-09-29 21:10:08",
         money = 339404,
         empty = 111,
         location = "Оргриммар",
@@ -1081,7 +1081,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45771:0:0:0:0:0:0:0:10|h[Символ духа дикого волка]|h|r",
                 name = "Символ духа дикого волка",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:45775:0:0:0:0:0:0:0:10|h[Символ щита земли]|h|r",
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790588572,
+            last_update = 1790705336,
             items = {
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2245,7 +2245,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:45771:0:0:0:0:0:0:0:10|h[Символ духа дикого волка]|h|r",
                     name = "Символ духа дикого волка",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:45775:0:0:0:0:0:0:0:10|h[Символ щита земли]|h|r",
@@ -2340,7 +2340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790588572,
+            last_update = 1790705341,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
