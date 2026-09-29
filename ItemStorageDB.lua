@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790661168
+ItemStorageDB_LastUpdate = 1790662868
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4863,7 +4863,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 12:41:27",
+        updated_at = "2026-09-29 09:21:08",
         money = 999680,
         empty = 114,
         location = "Оргриммар",
@@ -5086,7 +5086,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37703:0:0:0:0:0:0:0:10|h[Кристаллизованная тьма]|h|r",
                 name = "Кристаллизованная тьма",
-                count = 36,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
@@ -5096,7 +5096,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
                 name = "Кристаллизованная вода",
-                count = 116,
+                count = 110,
             },
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
@@ -5160,7 +5160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790588477,
+            last_update = 1790662851,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5340,7 +5340,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:37703:0:0:0:0:0:0:0:10|h[Кристаллизованная тьма]|h|r",
                     name = "Кристаллизованная тьма",
-                    count = 36,
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
@@ -5350,7 +5350,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
                     name = "Кристаллизованная вода",
-                    count = 116,
+                    count = 110,
                 },
                 {
                     link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
@@ -5410,7 +5410,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790588479,
+            last_update = 1790662862,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
