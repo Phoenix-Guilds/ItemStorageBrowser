@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790665492
+ItemStorageDB_LastUpdate = 1790665819
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15553,15 +15553,15 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-29 09:59:36",
+        updated_at = "2026-09-29 10:10:19",
         money = 4042,
-        empty = 159,
+        empty = 160,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
                 name = "Сырая блестящая мощь-рыба",
-                count = 167,
+                count = 117,
             },
             {
                 link = "|cffffffff|Hitem:13755:0:0:0:0:0:0:0:10|h[Зимний кальмар]|h|r",
@@ -15571,7 +15571,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                 name = "Сырой летний окунь",
-                count = 50,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
@@ -15680,12 +15680,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790665169,
+            last_update = 1790665813,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
                     name = "Сырая блестящая мощь-рыба",
-                    count = 167,
+                    count = 117,
                 },
                 {
                     link = "|cffffffff|Hitem:13755:0:0:0:0:0:0:0:10|h[Зимний кальмар]|h|r",
@@ -15695,7 +15695,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                     name = "Сырой летний окунь",
-                    count = 50,
+                    count = 29,
                 },
                 {
                     link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
@@ -15805,7 +15805,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790665172,
+            last_update = 1790665814,
             items = {
             },
         },
