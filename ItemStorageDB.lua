@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790680636
+ItemStorageDB_LastUpdate = 1790680900
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21893,9 +21893,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 12:49:34",
+        updated_at = "2026-09-29 14:21:40",
         money = 194111,
-        empty = 119,
+        empty = 117,
         location = "Оргриммар",
         items = {
             {
@@ -21924,9 +21924,19 @@ ItemStorageDB = {
                 count = 3,
             },
             {
+                link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
+                name = "Калейдоскопическая цепь",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
                 name = "Колье Горизонта",
                 count = 4,
+            },
+            {
+                link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
+                name = "Колье Ярости Реки",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
@@ -22230,7 +22240,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790588966,
+            last_update = 1790680894,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22485,7 +22495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790588968,
+            last_update = 1790680895,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22498,9 +22508,19 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
+                    name = "Калейдоскопическая цепь",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
                     name = "Колье Горизонта",
                     count = 4,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
+                    name = "Колье Ярости Реки",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
