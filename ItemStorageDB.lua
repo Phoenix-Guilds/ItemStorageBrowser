@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790928103
+ItemStorageDB_LastUpdate = 1790928286
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9583,9 +9583,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 14:36:33",
+        updated_at = "2026-10-02 11:04:46",
         money = 4062,
-        empty = 80,
+        empty = 79,
         location = "Оргриммар",
         items = {
             {
@@ -9631,12 +9631,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                 name = "Блестящая рыбья чешуя",
-                count = 93,
+                count = 104,
             },
             {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                 name = "Рыбий жир",
-                count = 131,
+                count = 141,
             },
             {
                 link = "|cffffffff|Hitem:18944:0:0:0:0:0:0:0:10|h[Чешуя пламезавра]|h|r",
@@ -9760,7 +9760,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790508985,
+            last_update = 1790928280,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9795,12 +9795,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                     name = "Блестящая рыбья чешуя",
-                    count = 93,
+                    count = 104,
                 },
                 {
                     link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                     name = "Рыбий жир",
-                    count = 131,
+                    count = 141,
                 },
                 {
                     link = "|cffffffff|Hitem:18944:0:0:0:0:0:0:0:10|h[Чешуя пламезавра]|h|r",
@@ -9925,7 +9925,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790508988,
+            last_update = 1790928281,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
