@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790928827
+ItemStorageDB_LastUpdate = 1790928861
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20608,9 +20608,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-02 11:05:51",
+        updated_at = "2026-10-02 11:14:21",
         money = 203936,
-        empty = 62,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -20816,7 +20816,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
                 name = "Поножи Троллегубителя",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
@@ -20926,7 +20926,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                 name = "Наручники Раздробленного хребта",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:16671:0:0:0:0:0:0:0:10|h[Наручники Стихий]|h|r",
@@ -21205,7 +21205,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790928343,
+            last_update = 1790928855,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21405,7 +21405,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
                     name = "Поножи Троллегубителя",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
@@ -21515,7 +21515,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                     name = "Наручники Раздробленного хребта",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:16671:0:0:0:0:0:0:0:10|h[Наручники Стихий]|h|r",
@@ -21750,7 +21750,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790928345,
+            last_update = 1790928856,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
