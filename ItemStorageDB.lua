@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790927664
+ItemStorageDB_LastUpdate = 1790927694
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4853,7 +4853,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-29 14:30:46",
+        updated_at = "2026-10-02 10:54:54",
         money = 999680,
         empty = 114,
         location = "Оргриммар",
@@ -4906,7 +4906,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
                 name = "Изначальная Жизнь",
-                count = 38,
+                count = 46,
             },
             {
                 link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
@@ -5091,7 +5091,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
-                count = 58,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
@@ -5106,7 +5106,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 196,
+                count = 198,
             },
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -5150,7 +5150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790681440,
+            last_update = 1790927688,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5190,7 +5190,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
                     name = "Изначальная Жизнь",
-                    count = 38,
+                    count = 46,
                 },
                 {
                     link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
@@ -5345,7 +5345,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                     name = "Первородная земля",
-                    count = 58,
+                    count = 59,
                 },
                 {
                     link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
@@ -5360,7 +5360,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                     name = "Первородная вода",
-                    count = 196,
+                    count = 198,
                 },
                 {
                     link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -5400,7 +5400,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790681441,
+            last_update = 1790927688,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
