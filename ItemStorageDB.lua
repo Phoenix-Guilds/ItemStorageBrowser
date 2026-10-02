@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790976461
+ItemStorageDB_LastUpdate = 1790976822
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18303,9 +18303,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-02 10:54:24",
+        updated_at = "2026-10-03 00:33:42",
         money = 975064,
-        empty = 114,
+        empty = 119,
         location = "Оргриммар",
         items = {
             {
@@ -18546,12 +18546,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                 name = "Пастушья сумка",
-                count = 173,
+                count = 73,
             },
             {
                 link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                 name = "Призрачная поганка",
-                count = 244,
+                count = 94,
             },
             {
                 link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
@@ -18560,7 +18560,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790927657,
+            last_update = 1790976767,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18750,12 +18750,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                     name = "Пастушья сумка",
-                    count = 173,
+                    count = 73,
                 },
                 {
                     link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                     name = "Призрачная поганка",
-                    count = 244,
+                    count = 94,
                 },
                 {
                     link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
@@ -18765,7 +18765,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790927659,
+            last_update = 1790976815,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
