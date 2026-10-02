@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790928861
+ItemStorageDB_LastUpdate = 1790928907
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2353,9 +2353,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-29 14:09:09",
+        updated_at = "2026-10-02 11:15:07",
         money = 92710,
-        empty = 52,
+        empty = 50,
         location = "Оргриммар",
         items = {
             {
@@ -2594,6 +2594,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                 name = "Копейный щит Черепа",
                 count = 2,
@@ -2742,6 +2747,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:5267:0:0:0:0:0:0:0:10|h[Алый крис]|h|r",
                 name = "Алый крис",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:5756:0:0:0:0:0:0:0:10|h[Серебряный клинок]|h|r",
+                name = "Серебряный клинок",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:6622:0:0:0:0:0:0:0:10|h[Меч рвения]|h|r",
@@ -2970,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790680127,
+            last_update = 1790928899,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3303,6 +3313,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:5756:0:0:0:0:0:0:0:10|h[Серебряный клинок]|h|r",
+                    name = "Серебряный клинок",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:6622:0:0:0:0:0:0:0:10|h[Меч рвения]|h|r",
                     name = "Меч рвения",
                     count = 1,
@@ -3485,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790680144,
+            last_update = 1790928900,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3530,6 +3545,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                     name = "Острие Кху",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                    name = "Щит Торсена",
                     count = 1,
                 },
                 {
