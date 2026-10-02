@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790928790
+ItemStorageDB_LastUpdate = 1790928827
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12357,10 +12357,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-23 01:07:24",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-02 11:13:47",
         money = 13104,
-        empty = 65,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -12426,7 +12426,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                 name = "Громодерево",
-                count = 3,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
@@ -12446,7 +12446,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -12540,7 +12540,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790114791,
+            last_update = 1790928821,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12600,7 +12600,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                     name = "Громодерево",
-                    count = 3,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
@@ -12620,7 +12620,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                     name = "Пугач маленького Тимми",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -12670,7 +12670,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790114801,
+            last_update = 1790928822,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
