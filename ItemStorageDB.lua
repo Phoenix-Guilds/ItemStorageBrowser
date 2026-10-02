@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790975917
+ItemStorageDB_LastUpdate = 1790976461
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7862,10 +7862,10 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-16 03:40:16",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-03 00:27:41",
         money = 9413,
-        empty = 168,
+        empty = 171,
         location = "Оргриммар",
         items = {
             {
@@ -7916,7 +7916,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37101:0:0:0:0:0:0:0:10|h[Бежевые чернила]|h|r",
                 name = "Бежевые чернила",
-                count = 102,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:39151:0:0:0:0:0:0:0:10|h[Алебастровый краситель]|h|r",
@@ -7938,30 +7938,10 @@ ItemStorageDB = {
                 name = "Чернила нефритового пламени",
                 count = 13,
             },
-            {
-                link = "|cffffffff|Hitem:43126:0:0:0:0:0:0:0:10|h[Чернила моря]|h|r",
-                name = "Чернила моря",
-                count = 21,
-            },
         },
         bank = {
-            last_update = 1789519209,
+            last_update = 1790976409,
             items = {
-                {
-                    link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
-                    name = "Зеленый краситель",
-                    count = 32,
-                },
-                {
-                    link = "|cff1eff00|Hitem:43108:0:0:0:0:0:0:0:10|h[Эбеновый краситель]|h|r",
-                    name = "Эбеновый краситель",
-                    count = 30,
-                },
-                {
-                    link = "|cff1eff00|Hitem:43109:0:0:0:0:0:0:0:10|h[Ледяной краситель]|h|r",
-                    name = "Ледяной краситель",
-                    count = 2,
-                },
                 {
                     link = "|cff1eff00|Hitem:43115:0:0:0:0:0:0:0:10|h[Чернила охотника]|h|r",
                     name = "Чернила охотника",
@@ -7995,12 +7975,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:37101:0:0:0:0:0:0:0:10|h[Бежевые чернила]|h|r",
                     name = "Бежевые чернила",
-                    count = 102,
-                },
-                {
-                    link = "|cffffffff|Hitem:39151:0:0:0:0:0:0:0:10|h[Алебастровый краситель]|h|r",
-                    name = "Алебастровый краситель",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:39469:0:0:0:0:0:0:0:10|h[Чернила лунного сияния]|h|r",
@@ -8017,16 +7992,31 @@ ItemStorageDB = {
                     name = "Чернила нефритового пламени",
                     count = 13,
                 },
-                {
-                    link = "|cffffffff|Hitem:43126:0:0:0:0:0:0:0:10|h[Чернила моря]|h|r",
-                    name = "Чернила моря",
-                    count = 21,
-                },
             },
         },
         bags = {
-            last_update = 1789519211,
+            last_update = 1790976437,
             items = {
+                {
+                    link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
+                    name = "Зеленый краситель",
+                    count = 32,
+                },
+                {
+                    link = "|cff1eff00|Hitem:43108:0:0:0:0:0:0:0:10|h[Эбеновый краситель]|h|r",
+                    name = "Эбеновый краситель",
+                    count = 30,
+                },
+                {
+                    link = "|cff1eff00|Hitem:43109:0:0:0:0:0:0:0:10|h[Ледяной краситель]|h|r",
+                    name = "Ледяной краситель",
+                    count = 2,
+                },
+                {
+                    link = "|cffffffff|Hitem:39151:0:0:0:0:0:0:0:10|h[Алебастровый краситель]|h|r",
+                    name = "Алебастровый краситель",
+                    count = 1,
+                },
             },
         },
     },
