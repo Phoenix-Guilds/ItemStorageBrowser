@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790929227
+ItemStorageDB_LastUpdate = 1790929256
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20628,9 +20628,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-02 11:18:24",
+        updated_at = "2026-10-02 11:20:56",
         money = 203936,
-        empty = 58,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -21081,7 +21081,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
                 name = "Эполеты лесного следопыта",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
@@ -21121,7 +21121,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
                 name = "Перчатки буяна",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
@@ -21225,7 +21225,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790929096,
+            last_update = 1790929249,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21683,6 +21683,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
+                    name = "Перчатки буяна",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
                     name = "Перчатки Флетчера",
                     count = 1,
@@ -21770,7 +21775,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790929098,
+            last_update = 1790929250,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21885,7 +21890,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
                     name = "Эполеты лесного следопыта",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
