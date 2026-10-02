@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790929256
+ItemStorageDB_LastUpdate = 1790929340
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17788,9 +17788,9 @@ ItemStorageDB = {
     {
         name = "Сумчатая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-30 14:02:03",
+        updated_at = "2026-10-02 11:22:20",
         money = 4245,
-        empty = 133,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -17811,7 +17811,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 39,
+                count = 82,
             },
             {
                 link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
@@ -17850,7 +17850,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790584476,
+            last_update = 1790100009,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
@@ -17866,6 +17866,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:44446:0:0:0:0:0:0:0:10|h[Рюкзак с бесчисленными карманами]|h|r",
                     name = "Рюкзак с бесчисленными карманами",
                     count = 5,
+                },
+                {
+                    link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
+                    name = "Сумка из ткани Пустоты",
+                    count = 47,
                 },
                 {
                     link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
@@ -17905,12 +17910,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790766113,
+            last_update = 1790929297,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                     name = "Сумка из ткани Пустоты",
-                    count = 39,
+                    count = 35,
                 },
                 {
                     link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
