@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790929024
+ItemStorageDB_LastUpdate = 1790929104
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20628,9 +20628,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-02 11:17:04",
+        updated_at = "2026-10-02 11:18:24",
         money = 203936,
-        empty = 59,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -20731,7 +20731,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13070:0:0:0:0:0:0:0:10|h[Чешуйчатые сапоги Сапфирона]|h|r",
                 name = "Чешуйчатые сапоги Сапфирона",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
@@ -21225,7 +21225,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790929018,
+            last_update = 1790929096,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21320,7 +21320,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13070:0:0:0:0:0:0:0:10|h[Чешуйчатые сапоги Сапфирона]|h|r",
                     name = "Чешуйчатые сапоги Сапфирона",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
@@ -21770,7 +21770,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790929018,
+            last_update = 1790929098,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
