@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1790929340
+ItemStorageDB_LastUpdate = 1790929445
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2353,9 +2353,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-02 11:20:27",
+        updated_at = "2026-10-02 11:24:05",
         money = 92710,
-        empty = 49,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -2461,7 +2461,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                 name = "Небесный свет",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
@@ -2980,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790929221,
+            last_update = 1790929437,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3500,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790929221,
+            last_update = 1790929438,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3525,7 +3525,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                     name = "Небесный свет",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
