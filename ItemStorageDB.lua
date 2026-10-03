@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791064666
+ItemStorageDB_LastUpdate = 1791064678
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5827,8 +5827,8 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 12:45:59",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-04 00:57:58",
         money = 421241,
         empty = 54,
         location = "Оргриммар",
@@ -6066,7 +6066,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23528:0:0:0:0:0:0:0:10|h[Точило Скверны]|h|r",
                 name = "Точило Скверны",
-                count = 45,
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
@@ -6150,7 +6150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790588751,
+            last_update = 1791064422,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6390,7 +6390,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790588754,
+            last_update = 1791064482,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6425,7 +6425,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:23528:0:0:0:0:0:0:0:10|h[Точило Скверны]|h|r",
                     name = "Точило Скверны",
-                    count = 45,
+                    count = 25,
                 },
                 {
                     link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
