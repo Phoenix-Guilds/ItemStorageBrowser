@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791058849
+ItemStorageDB_LastUpdate = 1791061794
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3692,20 +3692,15 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 09:43:58",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-04 00:09:54",
         money = 158410,
-        empty = 136,
+        empty = 137,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
                 name = "Идол Луны",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
-                name = "Тотем бури",
                 count = 1,
             },
             {
@@ -3900,16 +3895,11 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790577728,
+            last_update = 1791061681,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
                     name = "Идол Луны",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
-                    name = "Тотем бури",
                     count = 1,
                 },
                 {
@@ -3920,7 +3910,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
                     name = "Клинок невезения",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
@@ -4105,8 +4095,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790577736,
+            last_update = 1791061683,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
+                    name = "Клинок невезения",
+                    count = 1,
+                },
             },
         },
     },
