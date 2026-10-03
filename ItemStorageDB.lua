@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791054310
+ItemStorageDB_LastUpdate = 1791054361
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2353,9 +2353,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-02 11:24:05",
+        updated_at = "2026-10-03 22:06:01",
         money = 92710,
-        empty = 48,
+        empty = 49,
         location = "Оргриммар",
         items = {
             {
@@ -2699,11 +2699,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
-                name = "Жезл антиподов",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
                 name = "Коготь Тенеманта",
                 count = 2,
@@ -2980,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790929437,
+            last_update = 1791054337,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3500,7 +3495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790929438,
+            last_update = 1791054350,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3595,11 +3590,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
                     name = "Клеймор бойца",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
-                    name = "Жезл антиподов",
                     count = 1,
                 },
                 {
