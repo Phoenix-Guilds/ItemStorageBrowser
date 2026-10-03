@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791058703
+ItemStorageDB_LastUpdate = 1791058774
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2353,9 +2353,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-03 22:06:01",
+        updated_at = "2026-10-03 23:19:34",
         money = 92710,
-        empty = 49,
+        empty = 51,
         location = "Оргриммар",
         items = {
             {
@@ -2859,11 +2859,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffa335ee|Hitem:1169:852:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
-                name = "Черночерепный щит",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                 name = "Зеленая башня",
                 count = 1,
@@ -2919,11 +2914,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
-                name = "Кровавая бритва",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
                 name = "Молот Северного ветра",
                 count = 2,
@@ -2975,7 +2965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791054337,
+            last_update = 1791058759,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3071,6 +3061,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                     name = "Ручной молот Мертвого Леса",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
+                    name = "Небесный свет",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
@@ -3495,7 +3490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791054350,
+            last_update = 1791058766,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3520,7 +3515,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                     name = "Небесный свет",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
@@ -3673,11 +3668,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffa335ee|Hitem:1169:852:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
-                    name = "Черночерепный щит",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                     name = "Зеленая башня",
                     count = 1,
@@ -3685,11 +3675,6 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2163:0:0:0:0:0:0:0:10|h[Теневой клинок]|h|r",
                     name = "Теневой клинок",
-                    count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
-                    name = "Кровавая бритва",
                     count = 1,
                 },
                 {
