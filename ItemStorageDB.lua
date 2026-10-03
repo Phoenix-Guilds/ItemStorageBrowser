@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791064678
+ItemStorageDB_LastUpdate = 1791064709
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3693,9 +3693,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 00:09:54",
+        updated_at = "2026-10-04 00:58:29",
         money = 158410,
-        empty = 137,
+        empty = 138,
         location = "Оргриммар",
         items = {
             {
@@ -3711,7 +3711,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
                 name = "Клинок невезения",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
@@ -3895,16 +3895,11 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791061681,
+            last_update = 1791064649,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
                     name = "Идол Луны",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
-                    name = "Манускрипт страсти",
                     count = 1,
                 },
                 {
@@ -4095,11 +4090,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791061683,
+            last_update = 1791064650,
             items = {
                 {
-                    link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
-                    name = "Клинок невезения",
+                    link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
+                    name = "Манускрипт страсти",
                     count = 1,
                 },
             },
