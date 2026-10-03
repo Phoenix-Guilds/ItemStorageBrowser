@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791065165
+ItemStorageDB_LastUpdate = 1791065273
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7648,7 +7648,7 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 20:24:30",
+        updated_at = "2026-10-04 01:07:53",
         money = 0,
         empty = 195,
         location = "Оргриммар",
@@ -7662,11 +7662,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
                 name = "Мощь-рыба в кляре",
                 count = 65,
-            },
-            {
-                link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
-                name = "Копченые пустынные клецки",
-                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
@@ -7755,7 +7750,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790616216,
+            last_update = 1791065233,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7790,7 +7785,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:27658:0:0:0:0:0:0:0:10|h[Жареное мясо копытня]|h|r",
                     name = "Жареное мясо копытня",
-                    count = 37,
+                    count = 22,
                 },
                 {
                     link = "|cffffffff|Hitem:27659:0:0:0:0:0:0:0:10|h[Котлета из прыгуаны]|h|r",
@@ -7855,12 +7850,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790616223,
+            last_update = 1791065234,
             items = {
                 {
-                    link = "|cffffffff|Hitem:20452:0:0:0:0:0:0:0:10|h[Копченые пустынные клецки]|h|r",
-                    name = "Копченые пустынные клецки",
-                    count = 20,
+                    link = "|cffffffff|Hitem:27658:0:0:0:0:0:0:0:10|h[Жареное мясо копытня]|h|r",
+                    name = "Жареное мясо копытня",
+                    count = 15,
                 },
             },
         },
