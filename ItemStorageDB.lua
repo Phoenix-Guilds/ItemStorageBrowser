@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791133194
+ItemStorageDB_LastUpdate = 1791133386
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18858,11 +18858,16 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 19:47:14",
+        updated_at = "2026-10-04 20:03:06",
         money = 336703,
-        empty = 95,
+        empty = 94,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
+                name = "Сапоги массового поражения",
+                count = 1,
+            },
             {
                 link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
                 name = "Перчатки лютости",
@@ -19700,7 +19705,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791132268,
+            last_update = 1791133379,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
@@ -20535,8 +20540,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791132399,
+            last_update = 1791133380,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
+                    name = "Сапоги массового поражения",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:44667:0:0:0:0:0:-88:101:10|h[Корона из шерсти мамонта с меткой предсказателя]|h|r",
                     name = "Корона из шерсти мамонта с меткой предсказателя",
