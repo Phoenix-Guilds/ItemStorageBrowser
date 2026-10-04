@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791132871
+ItemStorageDB_LastUpdate = 1791133012
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2358,9 +2358,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 19:43:00",
+        updated_at = "2026-10-04 19:56:52",
         money = 92710,
-        empty = 50,
+        empty = 49,
         location = "Оргриммар",
         items = {
             {
@@ -2919,6 +2919,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
+                name = "Кровавая бритва",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
                 name = "Молот Северного ветра",
                 count = 2,
@@ -2970,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791132174,
+            last_update = 1791133004,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3495,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791132175,
+            last_update = 1791133006,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3680,6 +3685,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2163:0:0:0:0:0:0:0:10|h[Теневой клинок]|h|r",
                     name = "Теневой клинок",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
+                    name = "Кровавая бритва",
                     count = 1,
                 },
                 {
