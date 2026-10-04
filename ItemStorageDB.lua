@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791131817
+ItemStorageDB_LastUpdate = 1791131847
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18207,10 +18207,10 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 01:16:39",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-04 19:37:27",
         money = 975064,
-        empty = 120,
+        empty = 119,
         location = "Оргриммар",
         items = {
             {
@@ -18401,7 +18401,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
                 name = "Карликовый сосокунь",
-                count = 128,
+                count = 186,
             },
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
@@ -18465,7 +18465,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791065374,
+            last_update = 1791131840,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18670,7 +18670,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791065395,
+            last_update = 1791131842,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -18705,7 +18705,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40199:0:0:0:0:0:0:0:10|h[Карликовый сосокунь]|h|r",
                     name = "Карликовый сосокунь",
-                    count = 128,
+                    count = 186,
                 },
                 {
                     link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
