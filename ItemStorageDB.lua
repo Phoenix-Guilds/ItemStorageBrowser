@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791066108
+ItemStorageDB_LastUpdate = 1791131817
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18033,9 +18033,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-02 22:17:39",
+        updated_at = "2026-10-04 19:36:57",
         money = 602,
-        empty = 87,
+        empty = 80,
         location = "Оргриммар",
         items = {
             {
@@ -18066,7 +18066,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
                 name = "Ткань Пустоты",
-                count = 179,
+                count = 444,
             },
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
@@ -18091,7 +18091,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
                 name = "Ледяная ткань",
-                count = 696,
+                count = 793,
             },
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
@@ -18115,7 +18115,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790968647,
+            last_update = 1791131808,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18175,7 +18175,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790968653,
+            last_update = 1791131810,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18195,12 +18195,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
                     name = "Ткань Пустоты",
-                    count = 179,
+                    count = 444,
                 },
                 {
                     link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
                     name = "Ледяная ткань",
-                    count = 696,
+                    count = 793,
                 },
             },
         },
