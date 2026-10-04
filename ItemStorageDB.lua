@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791132754
+ItemStorageDB_LastUpdate = 1791132785
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9598,9 +9598,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-02 11:04:46",
+        updated_at = "2026-10-04 19:53:05",
         money = 4062,
-        empty = 79,
+        empty = 81,
         location = "Оргриммар",
         items = {
             {
@@ -9616,7 +9616,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 53,
+                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
@@ -9666,7 +9666,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:19933:0:0:0:0:0:0:0:10|h[Светящаяся кровь скорпида]|h|r",
                 name = "Светящаяся кровь скорпида",
-                count = 32,
+                count = 35,
             },
             {
                 link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
@@ -9775,7 +9775,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790928280,
+            last_update = 1791132780,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9830,7 +9830,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:19933:0:0:0:0:0:0:0:10|h[Светящаяся кровь скорпида]|h|r",
                     name = "Светящаяся кровь скорпида",
-                    count = 32,
+                    count = 35,
                 },
                 {
                     link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
@@ -9940,12 +9940,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790928281,
+            last_update = 1791132780,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 53,
+                    count = 51,
                 },
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
