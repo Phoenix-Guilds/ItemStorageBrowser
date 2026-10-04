@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791133386
+ItemStorageDB_LastUpdate = 1791133468
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20558,9 +20558,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 19:57:27",
+        updated_at = "2026-10-04 20:04:28",
         money = 203936,
-        empty = 60,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -21021,7 +21021,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
                 name = "Когти эльфийского духа",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
@@ -21111,7 +21111,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:14551:0:0:0:0:0:0:0:10|h[Боевые рукавицы виртуоза клинка]|h|r",
                 name = "Боевые рукавицы виртуоза клинка",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:14552:0:0:0:0:0:0:0:10|h[Тюремное наплечье]|h|r",
@@ -21695,7 +21695,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791133041,
+            last_update = 1791133444,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21803,6 +21803,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
+                    name = "Когти эльфийского духа",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
                     name = "Жезл расплавленного огня",
                     count = 1,
@@ -21840,6 +21845,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:10331:0:0:0:0:0:0:0:10|h[Алые рукавицы]|h|r",
                     name = "Алые рукавицы",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:14551:0:0:0:0:0:0:0:10|h[Боевые рукавицы виртуоза клинка]|h|r",
+                    name = "Боевые рукавицы виртуоза клинка",
                     count = 1,
                 },
                 {
