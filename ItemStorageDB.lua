@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791133116
+ItemStorageDB_LastUpdate = 1791133161
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15762,10 +15762,10 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 01:20:21",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-04 19:59:21",
         money = 214291,
-        empty = 194,
+        empty = 193,
         location = "Оргриммар",
         items = {
             {
@@ -15827,6 +15827,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:33457:0:0:0:0:0:0:0:10|h[Свиток ловкости VI]|h|r",
                 name = "Свиток ловкости VI",
                 count = 6,
+            },
+            {
+                link = "|cffffffff|Hitem:33460:0:0:0:0:0:0:0:10|h[Свиток духа VI]|h|r",
+                name = "Свиток духа VI",
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:33462:0:0:0:0:0:0:0:10|h[Свиток силы VI]|h|r",
@@ -15970,7 +15975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791065900,
+            last_update = 1791133155,
             items = {
                 {
                     link = "|cffffffff|Hitem:10309:0:0:0:0:0:0:0:10|h[Свиток ловкости IV]|h|r",
@@ -16070,7 +16075,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791066012,
+            last_update = 1791133156,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -16095,6 +16100,11 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:33457:0:0:0:0:0:0:0:10|h[Свиток ловкости VI]|h|r",
                     name = "Свиток ловкости VI",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:33460:0:0:0:0:0:0:0:10|h[Свиток духа VI]|h|r",
+                    name = "Свиток духа VI",
                     count = 1,
                 },
                 {
