@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791138373
+ItemStorageDB_LastUpdate = 1791138414
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7632,8 +7632,8 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 01:07:53",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-04 21:26:54",
         money = 0,
         empty = 195,
         location = "Оргриммар",
@@ -7671,7 +7671,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27658:0:0:0:0:0:0:0:10|h[Жареное мясо копытня]|h|r",
                 name = "Жареное мясо копытня",
-                count = 37,
+                count = 22,
             },
             {
                 link = "|cffffffff|Hitem:27659:0:0:0:0:0:0:0:10|h[Котлета из прыгуаны]|h|r",
@@ -7735,7 +7735,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791065233,
+            last_update = 1791138401,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7825,7 +7825,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
                     name = "Мидии по-гоблински",
-                    count = 37,
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
@@ -7835,12 +7835,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791065234,
+            last_update = 1791138405,
             items = {
                 {
-                    link = "|cffffffff|Hitem:27658:0:0:0:0:0:0:0:10|h[Жареное мясо копытня]|h|r",
-                    name = "Жареное мясо копытня",
-                    count = 15,
+                    link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
+                    name = "Мидии по-гоблински",
+                    count = 10,
                 },
             },
         },
