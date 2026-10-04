@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791133161
+ItemStorageDB_LastUpdate = 1791133194
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18258,9 +18258,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 19:37:27",
+        updated_at = "2026-10-04 19:59:54",
         money = 975064,
-        empty = 119,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -18506,7 +18506,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                 name = "Призрачная поганка",
-                count = 94,
+                count = 106,
             },
             {
                 link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
@@ -18515,7 +18515,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791131840,
+            last_update = 1791133185,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18710,7 +18710,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                     name = "Призрачная поганка",
-                    count = 94,
+                    count = 106,
                 },
                 {
                     link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
@@ -18720,7 +18720,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791131842,
+            last_update = 1791133188,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
