@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791191264
+ItemStorageDB_LastUpdate = 1791202454
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2358,9 +2358,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 19:56:52",
+        updated_at = "2026-10-05 15:14:14",
         money = 92710,
-        empty = 49,
+        empty = 50,
         location = "Оргриммар",
         items = {
             {
@@ -2526,7 +2526,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                 name = "Вязкий молот",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -2975,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791133004,
+            last_update = 1791202410,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3130,7 +3130,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                     name = "Вязкий молот",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -3500,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791133006,
+            last_update = 1791202449,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
