@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791224644
+ItemStorageDB_LastUpdate = 1791225336
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8718,9 +8718,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-05 12:04:49",
+        updated_at = "2026-10-05 21:35:36",
         money = 208636,
-        empty = 69,
+        empty = 70,
         location = "Оргриммар",
         items = {
             {
@@ -8777,11 +8777,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
                 name = "Эликсир грубой силы",
                 count = 82,
-            },
-            {
-                link = "|cffffffff|Hitem:13454:0:0:0:0:0:0:0:10|h[Сильный чародейский эликсир]|h|r",
-                name = "Сильный чародейский эликсир",
-                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:13462:0:0:0:0:0:0:0:10|h[Зелье очищения]|h|r",
@@ -9121,7 +9116,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9155:0:0:0:0:0:0:0:10|h[Чародейский эликсир]|h|r",
                 name = "Чародейский эликсир",
-                count = 54,
+                count = 98,
             },
             {
                 link = "|cffffffff|Hitem:9172:0:0:0:0:0:0:0:10|h[Зелье невидимости]|h|r",
@@ -9155,7 +9150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791191078,
+            last_update = 1791225325,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9186,11 +9181,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:13453:0:0:0:0:0:0:0:10|h[Эликсир грубой силы]|h|r",
                     name = "Эликсир грубой силы",
                     count = 82,
-                },
-                {
-                    link = "|cffffffff|Hitem:13454:0:0:0:0:0:0:0:10|h[Сильный чародейский эликсир]|h|r",
-                    name = "Сильный чародейский эликсир",
-                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:13462:0:0:0:0:0:0:0:10|h[Зелье очищения]|h|r",
@@ -9455,7 +9445,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:9155:0:0:0:0:0:0:0:10|h[Чародейский эликсир]|h|r",
                     name = "Чародейский эликсир",
-                    count = 54,
+                    count = 98,
                 },
                 {
                     link = "|cffffffff|Hitem:9172:0:0:0:0:0:0:0:10|h[Зелье невидимости]|h|r",
@@ -9485,7 +9475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791191079,
+            last_update = 1791225328,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
