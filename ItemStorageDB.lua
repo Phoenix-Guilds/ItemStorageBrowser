@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1791222391
+ItemStorageDB_LastUpdate = 1791222545
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-05 15:17:14",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-05 20:49:05",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -136,7 +136,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41103:0:0:0:0:0:0:0:10|h[Символ экзорцизма]|h|r",
                 name = "Символ экзорцизма",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:41104:0:0:0:0:0:0:0:10|h[Символ очищения]|h|r",
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791202604,
+            last_update = 1791222483,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1335,7 +1335,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41526:0:0:0:0:0:0:0:10|h[Символ шока]|h|r",
                     name = "Символ шока",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:41527:0:0:0:0:0:0:0:10|h[Символ оружия жизни земли]|h|r",
@@ -2345,11 +2345,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791202609,
+            last_update = 1791222486,
             items = {
                 {
-                    link = "|cffffffff|Hitem:41103:0:0:0:0:0:0:0:10|h[Символ экзорцизма]|h|r",
-                    name = "Символ экзорцизма",
+                    link = "|cffffffff|Hitem:41526:0:0:0:0:0:0:0:10|h[Символ шока]|h|r",
+                    name = "Символ шока",
                     count = 1,
                 },
             },
