@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791222545
+ItemStorageDB_LastUpdate = 1791224584
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6943,9 +6943,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 19:51:33",
+        updated_at = "2026-10-05 21:23:04",
         money = 181084,
-        empty = 139,
+        empty = 140,
         location = "Оргриммар",
         items = {
             {
@@ -7021,7 +7021,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 53,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:18512:0:0:0:0:0:0:0:10|h[Ларвальная кислота]|h|r",
@@ -7196,7 +7196,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                 name = "Плотная кожа",
-                count = 631,
+                count = 581,
             },
             {
                 link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
@@ -7276,7 +7276,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8172:0:0:0:0:0:0:0:10|h[Обработанная плотная шкура]|h|r",
                 name = "Обработанная плотная шкура",
-                count = 34,
+                count = 26,
             },
             {
                 link = "|cffffffff|Hitem:8173:0:0:0:0:0:0:0:10|h[Накладки из плотной кожи]|h|r",
@@ -7285,7 +7285,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791132685,
+            last_update = 1791224560,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7465,7 +7465,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                     name = "Плотная кожа",
-                    count = 631,
+                    count = 581,
                 },
                 {
                     link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
@@ -7535,12 +7535,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8172:0:0:0:0:0:0:0:10|h[Обработанная плотная шкура]|h|r",
                     name = "Обработанная плотная шкура",
-                    count = 34,
+                    count = 26,
                 },
             },
         },
         bags = {
-            last_update = 1791132688,
+            last_update = 1791224573,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7575,7 +7575,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                     name = "Легкое перышко",
-                    count = 53,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:18512:0:0:0:0:0:0:0:10|h[Ларвальная кислота]|h|r",
