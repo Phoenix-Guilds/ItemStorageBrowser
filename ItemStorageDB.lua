@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791225336
+ItemStorageDB_LastUpdate = 1791229888
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9597,10 +9597,10 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 22:12:11",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-05 22:51:28",
         money = 4062,
-        empty = 81,
+        empty = 83,
         location = "Оргриммар",
         items = {
             {
@@ -9616,7 +9616,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 51,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
@@ -9756,7 +9756,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 79,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -9775,7 +9775,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791141113,
+            last_update = 1791229839,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9920,7 +9920,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                     name = "Жареное крыло канюка",
-                    count = 79,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -9940,12 +9940,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791141119,
+            last_update = 1791229855,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 51,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
