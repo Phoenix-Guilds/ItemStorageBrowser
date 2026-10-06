@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1791321635
+ItemStorageDB_LastUpdate = 1791322070
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-06 23:24:56",
+        updated_at = "2026-10-07 00:27:50",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -671,7 +671,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43338:0:0:0:0:0:0:0:10|h[Символ воскрешения питомца]|h|r",
                 name = "Символ воскрешения питомца",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43339:0:0:0:0:0:0:0:10|h[Символ чародейского интеллекта]|h|r",
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791318265,
+            last_update = 1791322045,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1365,7 +1365,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41533:0:0:0:0:0:0:0:10|h[Символ тотема исцеляющего потока]|h|r",
                     name = "Символ тотема исцеляющего потока",
-                    count = 14,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:41534:0:0:0:0:0:0:0:10|h[Символ волны исцеления]|h|r",
@@ -2345,11 +2345,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791318266,
+            last_update = 1791322045,
             items = {
                 {
-                    link = "|cffffffff|Hitem:43338:0:0:0:0:0:0:0:10|h[Символ воскрешения питомца]|h|r",
-                    name = "Символ воскрешения питомца",
+                    link = "|cffffffff|Hitem:41533:0:0:0:0:0:0:0:10|h[Символ тотема исцеляющего потока]|h|r",
+                    name = "Символ тотема исцеляющего потока",
                     count = 1,
                 },
             },
