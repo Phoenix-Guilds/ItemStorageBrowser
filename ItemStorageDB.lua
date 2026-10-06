@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791302729
+ItemStorageDB_LastUpdate = 1791302778
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21858,9 +21858,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-05 20:46:31",
+        updated_at = "2026-10-06 19:06:18",
         money = 194111,
-        empty = 125,
+        empty = 126,
         location = "Оргриммар",
         items = {
             {
@@ -22016,7 +22016,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:21768:0:0:0:0:0:696:0:10|h[Сапфировый перстень со знаком тигра]|h|r",
                 name = "Сапфировый перстень со знаком тигра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
@@ -22180,7 +22180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791222354,
+            last_update = 1791302755,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22285,7 +22285,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:21768:0:0:0:0:0:696:0:10|h[Сапфировый перстень со знаком тигра]|h|r",
                     name = "Сапфировый перстень со знаком тигра",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
@@ -22410,7 +22410,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791222376,
+            last_update = 1791302768,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
