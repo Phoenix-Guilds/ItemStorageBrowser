@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791313496
+ItemStorageDB_LastUpdate = 1791315786
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9553,9 +9553,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-06 20:07:41",
+        updated_at = "2026-10-06 22:43:06",
         money = 4062,
-        empty = 84,
+        empty = 85,
         location = "Оргриммар",
         items = {
             {
@@ -9571,7 +9571,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 49,
+                count = 48,
             },
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
@@ -9895,12 +9895,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791306288,
+            last_update = 1791315409,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 49,
+                    count = 48,
                 },
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
