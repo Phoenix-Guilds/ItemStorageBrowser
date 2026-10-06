@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791302682
+ItemStorageDB_LastUpdate = 1791302729
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2357,10 +2357,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-05 15:14:14",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-06 19:05:29",
         money = 92710,
-        empty = 50,
+        empty = 51,
         location = "Оргриммар",
         items = {
             {
@@ -2926,7 +2926,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
                 name = "Молот Северного ветра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
@@ -2975,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791202410,
+            last_update = 1791302712,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3500,7 +3500,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791202449,
+            last_update = 1791302721,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3690,11 +3690,6 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:809:0:0:0:0:0:0:0:10|h[Кровавая бритва]|h|r",
                     name = "Кровавая бритва",
-                    count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:810:0:0:0:0:0:0:0:10|h[Молот Северного ветра]|h|r",
-                    name = "Молот Северного ветра",
                     count = 1,
                 },
             },
