@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1791302778
+ItemStorageDB_LastUpdate = 1791302851
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-05 20:49:05",
+        updated_at = "2026-10-06 19:07:31",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -166,7 +166,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41526:0:0:0:0:0:0:0:10|h[Символ шока]|h|r",
                 name = "Символ шока",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:41527:0:0:0:0:0:0:0:10|h[Символ оружия жизни земли]|h|r",
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791222483,
+            last_update = 1791302820,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1975,7 +1975,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
                     name = "Символ боевого крика",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
@@ -2345,11 +2345,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791222486,
+            last_update = 1791302820,
             items = {
                 {
-                    link = "|cffffffff|Hitem:41526:0:0:0:0:0:0:0:10|h[Символ шока]|h|r",
-                    name = "Символ шока",
+                    link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
+                    name = "Символ боевого крика",
                     count = 1,
                 },
             },
