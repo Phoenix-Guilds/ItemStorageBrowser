@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791317951
+ItemStorageDB_LastUpdate = 1791318107
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12467,10 +12467,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-02 11:13:47",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-06 23:21:47",
         money = 13104,
-        empty = 62,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -12581,7 +12581,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                 name = "Двуствольный дробовик",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
@@ -12650,7 +12650,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790928821,
+            last_update = 1791318000,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12755,7 +12755,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                     name = "Двуствольный дробовик",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
@@ -12780,7 +12780,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790928822,
+            last_update = 1791318041,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
