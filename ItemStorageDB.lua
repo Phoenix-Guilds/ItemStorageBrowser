@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791359409
+ItemStorageDB_LastUpdate = 1791359440
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15913,9 +15913,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:30:48",
+        updated_at = "2026-10-07 10:50:40",
         money = 214291,
-        empty = 189,
+        empty = 188,
         location = "Оргриммар",
         items = {
             {
@@ -16002,6 +16002,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:38829:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - интеллект II]|h|r",
                 name = "Свиток чар для наручей - интеллект II",
                 count = 1,
+            },
+            {
+                link = "|cffffffff|Hitem:38860:0:0:0:0:0:0:0:10|h[Свиток чар для щита - Живучесть]|h|r",
+                name = "Свиток чар для щита - Живучесть",
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:38897:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - грубая сила]|h|r",
@@ -16125,7 +16130,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791358242,
+            last_update = 1791359434,
             items = {
                 {
                     link = "|cffffffff|Hitem:10309:0:0:0:0:0:0:0:10|h[Свиток ловкости IV]|h|r",
@@ -16225,7 +16230,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791358243,
+            last_update = 1791359435,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -16281,6 +16286,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:38829:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - интеллект II]|h|r",
                     name = "Свиток чар для наручей - интеллект II",
                     count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:38860:0:0:0:0:0:0:0:10|h[Свиток чар для щита - Живучесть]|h|r",
+                    name = "Свиток чар для щита - Живучесть",
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:38897:0:0:0:0:0:0:0:10|h[Свиток чар для наручей - грубая сила]|h|r",
