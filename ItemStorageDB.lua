@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791359260
+ItemStorageDB_LastUpdate = 1791359312
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18393,9 +18393,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:33:09",
+        updated_at = "2026-10-07 10:48:32",
         money = 975064,
-        empty = 116,
+        empty = 111,
         location = "Оргриммар",
         items = {
             {
@@ -18466,12 +18466,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 436,
+                count = 443,
             },
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                 name = "Земляной корень",
-                count = 270,
+                count = 271,
             },
             {
                 link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
@@ -18486,7 +18486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                 name = "Синячник",
-                count = 438,
+                count = 573,
             },
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
@@ -18616,7 +18616,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 345,
+                count = 355,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -18648,9 +18648,14 @@ ItemStorageDB = {
                 name = "Кровь Грома",
                 count = 80,
             },
+            {
+                link = "|cffffffff|Hitem:9210:0:0:0:0:0:0:0:10|h[Призрачная краска]|h|r",
+                name = "Призрачная краска",
+                count = 7,
+            },
         },
         bank = {
-            last_update = 1791358384,
+            last_update = 1791359305,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18705,12 +18710,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                     name = "Мироцвет",
-                    count = 436,
+                    count = 443,
                 },
                 {
                     link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
                     name = "Земляной корень",
-                    count = 270,
+                    count = 271,
                 },
                 {
                     link = "|cffffffff|Hitem:2450:0:0:0:0:0:0:0:10|h[Остротерн]|h|r",
@@ -18725,7 +18730,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2453:0:0:0:0:0:0:0:10|h[Синячник]|h|r",
                     name = "Синячник",
-                    count = 438,
+                    count = 573,
                 },
                 {
                     link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
@@ -18820,7 +18825,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                     name = "Магороза",
-                    count = 345,
+                    count = 355,
                 },
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -18855,7 +18860,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791358384,
+            last_update = 1791359306,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -18906,6 +18911,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                     name = "Масло черноротика",
                     count = 10,
+                },
+                {
+                    link = "|cffffffff|Hitem:9210:0:0:0:0:0:0:0:10|h[Призрачная краска]|h|r",
+                    name = "Призрачная краска",
+                    count = 7,
                 },
             },
         },
