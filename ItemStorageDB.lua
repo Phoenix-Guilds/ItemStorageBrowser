@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791359743
+ItemStorageDB_LastUpdate = 1791360022
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19108,11 +19108,16 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:54:53",
+        updated_at = "2026-10-07 11:00:22",
         money = 336703,
-        empty = 93,
+        empty = 92,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
+                name = "Тотем бури",
+                count = 1,
+            },
             {
                 link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
                 name = "Сапоги массового поражения",
@@ -19960,7 +19965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791359685,
+            last_update = 1791360014,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
@@ -20795,8 +20800,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791359686,
+            last_update = 1791360015,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
+                    name = "Тотем бури",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
                     name = "Сапоги массового поражения",
