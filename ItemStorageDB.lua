@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791358715
+ItemStorageDB_LastUpdate = 1791358987
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21978,9 +21978,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:36:43",
+        updated_at = "2026-10-07 10:43:07",
         money = 194111,
-        empty = 126,
+        empty = 124,
         location = "Оргриммар",
         items = {
             {
@@ -22031,7 +22031,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                 name = "Подвеска Скиби",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
@@ -22041,7 +22041,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
                 name = "Кольцо тлеющих углей",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
@@ -22295,7 +22295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791358593,
+            last_update = 1791358980,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22315,7 +22315,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
                     name = "Кольцо тлеющих углей",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13094:0:0:0:0:0:0:0:10|h[Самоцвет Королевы]|h|r",
@@ -22520,7 +22520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791358598,
+            last_update = 1791358982,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22555,7 +22555,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                     name = "Подвеска Скиби",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
