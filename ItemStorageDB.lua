@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791358180
+ItemStorageDB_LastUpdate = 1791358220
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8673,9 +8673,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-05 21:35:36",
+        updated_at = "2026-10-07 10:30:20",
         money = 208636,
-        empty = 70,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -8706,7 +8706,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13443:0:0:0:0:0:0:0:10|h[Большой флакон с зельем маны]|h|r",
                 name = "Большой флакон с зельем маны",
-                count = 26,
+                count = 36,
             },
             {
                 link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
@@ -8746,7 +8746,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                 name = "Средний флакон с лечебным зельем",
-                count = 85,
+                count = 89,
             },
             {
                 link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
@@ -8901,7 +8901,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                 name = "Зелье маны",
-                count = 12,
+                count = 23,
             },
             {
                 link = "|cffffffff|Hitem:3829:0:0:0:0:0:0:0:10|h[Масло льда]|h|r",
@@ -9016,7 +9016,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                 name = "Средний флакон с зельем маны",
-                count = 257,
+                count = 265,
             },
             {
                 link = "|cffffffff|Hitem:6372:0:0:0:0:0:0:0:10|h[Зелье быстрого плавания]|h|r",
@@ -9057,6 +9057,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:8949:0:0:0:0:0:0:0:10|h[Эликсир ловкости]|h|r",
                 name = "Эликсир ловкости",
                 count = 17,
+            },
+            {
+                link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
+                name = "Сильный эликсир защиты",
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:9030:0:0:0:0:0:0:0:10|h[Приводящее в сознание зелье]|h|r",
@@ -9105,7 +9110,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791225325,
+            last_update = 1791358214,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9388,6 +9393,11 @@ ItemStorageDB = {
                     count = 17,
                 },
                 {
+                    link = "|cffffffff|Hitem:8951:0:0:0:0:0:0:0:10|h[Сильный эликсир защиты]|h|r",
+                    name = "Сильный эликсир защиты",
+                    count = 20,
+                },
+                {
                     link = "|cffffffff|Hitem:9030:0:0:0:0:0:0:0:10|h[Приводящее в сознание зелье]|h|r",
                     name = "Приводящее в сознание зелье",
                     count = 2,
@@ -9430,7 +9440,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791225328,
+            last_update = 1791358214,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9445,7 +9455,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13443:0:0:0:0:0:0:0:10|h[Большой флакон с зельем маны]|h|r",
                     name = "Большой флакон с зельем маны",
-                    count = 26,
+                    count = 36,
                 },
                 {
                     link = "|cffffffff|Hitem:13444:0:0:0:0:0:0:0:10|h[Огромный флакон с зельем маны]|h|r",
@@ -9460,7 +9470,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:1710:0:0:0:0:0:0:0:10|h[Средний флакон с лечебным зельем]|h|r",
                     name = "Средний флакон с лечебным зельем",
-                    count = 85,
+                    count = 89,
                 },
                 {
                     link = "|cffffffff|Hitem:22829:0:0:0:0:0:0:0:10|h[Гигантский флакон с лечебным зельем]|h|r",
@@ -9515,7 +9525,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                     name = "Зелье маны",
-                    count = 12,
+                    count = 23,
                 },
                 {
                     link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
@@ -9530,7 +9540,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6149:0:0:0:0:0:0:0:10|h[Средний флакон с зельем маны]|h|r",
                     name = "Средний флакон с зельем маны",
-                    count = 257,
+                    count = 265,
                 },
                 {
                     link = "|cffffffff|Hitem:858:0:0:0:0:0:0:0:10|h[Маленький флакон с лечебным зельем]|h|r",
