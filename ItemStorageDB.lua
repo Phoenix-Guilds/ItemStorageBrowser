@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791331578
+ItemStorageDB_LastUpdate = 1791332844
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16328,9 +16328,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-05 20:45:25",
+        updated_at = "2026-10-07 03:27:24",
         money = 108852,
-        empty = 98,
+        empty = 100,
         location = "Оргриммар",
         items = {
             {
@@ -16654,11 +16654,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:3288:1892:0:0:0:0:0:0:10|h[Племенной жилет]|h|r",
-                name = "Племенной жилет",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:3292:1892:0:0:0:0:0:0:10|h[Мундир предков]|h|r",
                 name = "Мундир предков",
                 count = 1,
@@ -16941,7 +16936,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:727:20235:0:0:0:0:15:0:10|h[Зубчатый короткий меч с печатью выносливости]|h|r",
                 name = "Зубчатый короткий меч с печатью выносливости",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:7285:856:0:0:0:0:0:0:10|h[Перчатки из гибкой кожи]|h|r",
@@ -17080,7 +17075,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791222264,
+            last_update = 1791332831,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -17305,11 +17300,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3282:0:0:0:0:0:0:0:10|h[Боевые плетеные штаны]|h|r",
                     name = "Боевые плетеные штаны",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:3288:1892:0:0:0:0:0:0:10|h[Племенной жилет]|h|r",
-                    name = "Племенной жилет",
                     count = 1,
                 },
                 {
@@ -17595,7 +17585,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791222300,
+            last_update = 1791332836,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
@@ -17775,7 +17765,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:727:20235:0:0:0:0:15:0:10|h[Зубчатый короткий меч с печатью выносливости]|h|r",
                     name = "Зубчатый короткий меч с печатью выносливости",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:789:20244:0:0:0:0:1182:0:10|h[Боевой молот упорства со знаком медведя]|h|r",
