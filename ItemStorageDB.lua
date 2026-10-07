@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791360054
+ItemStorageDB_LastUpdate = 1791360209
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22158,9 +22158,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:53:17",
+        updated_at = "2026-10-07 11:03:29",
         money = 194111,
-        empty = 123,
+        empty = 125,
         location = "Оргриммар",
         items = {
             {
@@ -22241,7 +22241,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
                 name = "Кольцо грозного лика",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
@@ -22361,7 +22361,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
                 name = "Серебряное кольцо могущества",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
@@ -22475,7 +22475,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791359591,
+            last_update = 1791360177,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22515,7 +22515,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
                     name = "Кольцо грозного лика",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1015:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
@@ -22600,7 +22600,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
                     name = "Серебряное кольцо могущества",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:20828:0:0:0:0:0:0:0:10|h[Кольцо сумеречных призраков]|h|r",
@@ -22700,7 +22700,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791359592,
+            last_update = 1791360187,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
