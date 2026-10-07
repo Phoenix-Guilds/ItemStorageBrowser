@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791359658
+ItemStorageDB_LastUpdate = 1791359693
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19108,9 +19108,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 20:03:06",
+        updated_at = "2026-10-07 10:54:53",
         money = 336703,
-        empty = 94,
+        empty = 93,
         location = "Оргриммар",
         items = {
             {
@@ -19496,6 +19496,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37756:0:0:0:0:0:0:0:10|h[Удобная накидка Зои]|h|r",
                 name = "Удобная накидка Зои",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:37757:0:0:0:0:0:0:0:10|h[Наплечье покарания Шарлотты]|h|r",
+                name = "Наплечье покарания Шарлотты",
                 count = 1,
             },
             {
@@ -19955,7 +19960,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791133379,
+            last_update = 1791359685,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
@@ -20790,11 +20795,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791133380,
+            last_update = 1791359686,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
                     name = "Сапоги массового поражения",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:37757:0:0:0:0:0:0:0:10|h[Наплечье покарания Шарлотты]|h|r",
+                    name = "Наплечье покарания Шарлотты",
                     count = 1,
                 },
                 {
