@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791360022
+ItemStorageDB_LastUpdate = 1791360054
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20828,9 +20828,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:43:38",
+        updated_at = "2026-10-07 11:00:54",
         money = 203936,
-        empty = 56,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -20926,7 +20926,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
                 name = "Наплеч Змееубийцы",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
@@ -21425,7 +21425,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791359009,
+            last_update = 1791360045,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21970,7 +21970,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791359012,
+            last_update = 1791360048,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22001,6 +22001,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
                     name = "Оплечье старшего волшебника",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
+                    name = "Наплеч Змееубийцы",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
