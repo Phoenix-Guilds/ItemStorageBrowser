@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791569491
+ItemStorageDB_LastUpdate = 1791569880
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20792,10 +20792,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-09 10:44:38",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-09 21:18:00",
         money = 203936,
-        empty = 61,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -20806,7 +20806,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                 name = "Перчатки Волшебного кулака",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -21276,7 +21276,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
@@ -21390,16 +21390,11 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791531862,
+            last_update = 1791569704,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
                     name = "Рукавицы Мраковод",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
-                    name = "Перчатки Волшебного кулака",
                     count = 1,
                 },
                 {
@@ -21840,7 +21835,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                     name = "Ремень Келлера",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
@@ -21930,7 +21925,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791531873,
+            last_update = 1791569790,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
