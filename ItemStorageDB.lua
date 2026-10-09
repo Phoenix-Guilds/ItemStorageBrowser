@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791531878
+ItemStorageDB_LastUpdate = 1791535667
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2358,7 +2358,7 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-09 08:53:43",
+        updated_at = "2026-10-09 11:47:47",
         money = 92710,
         empty = 48,
         location = "Оргриммар",
@@ -2980,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791525185,
+            last_update = 1791535647,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791525218,
+            last_update = 1791535662,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
