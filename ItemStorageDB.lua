@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791525096
+ItemStorageDB_LastUpdate = 1791525223
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2358,9 +2358,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:47:40",
+        updated_at = "2026-10-09 08:53:43",
         money = 92710,
-        empty = 47,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -2906,7 +2906,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
                 name = "Канг Обезглавливатель",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:2801:0:0:0:0:0:0:0:10|h[Клинок Ханны]|h|r",
@@ -2980,7 +2980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791359071,
+            last_update = 1791525185,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3435,7 +3435,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
                     name = "Канг Обезглавливатель",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:2801:0:0:0:0:0:0:0:10|h[Клинок Ханны]|h|r",
@@ -3510,7 +3510,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791359248,
+            last_update = 1791525218,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
