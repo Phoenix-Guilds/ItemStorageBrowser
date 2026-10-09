@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791543121
+ItemStorageDB_LastUpdate = 1791543279
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2358,9 +2358,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-09 11:47:47",
+        updated_at = "2026-10-09 13:54:39",
         money = 92710,
-        empty = 48,
+        empty = 53,
         location = "Оргриммар",
         items = {
             {
@@ -2401,7 +2401,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -2624,11 +2624,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
-                name = "Тяжелый ятаган мародера",
-                count = 2,
-            },
-            {
                 link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
                 name = "Поющий клинок Та-Киертан",
                 count = 1,
@@ -2696,11 +2691,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
                 name = "Клеймор бойца",
-                count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
-                name = "Зазубренный боевой топор",
                 count = 2,
             },
             {
@@ -2980,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791535647,
+            last_update = 1791543262,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3015,7 +3005,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -3208,11 +3198,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:1493:0:0:0:0:0:0:0:10|h[Тяжелый ятаган мародера]|h|r",
-                    name = "Тяжелый ятаган мародера",
-                    count = 2,
-                },
-                {
                     link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
                     name = "Поющий клинок Та-Киертан",
                     count = 1,
@@ -3281,11 +3266,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
                     name = "Клеймор бойца",
                     count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
-                    name = "Зазубренный боевой топор",
-                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
@@ -3510,7 +3490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791535662,
+            last_update = 1791543274,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
