@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791525055
+ItemStorageDB_LastUpdate = 1791525096
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18288,9 +18288,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-09 08:47:40",
+        updated_at = "2026-10-09 08:51:36",
         money = 602,
-        empty = 72,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -18311,7 +18311,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 54,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
@@ -18370,7 +18370,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791524777,
+            last_update = 1791525068,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18430,7 +18430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791524806,
+            last_update = 1791525075,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18441,11 +18441,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41603:0:0:0:0:0:0:0:10|h[Лазурная чародейская нить]|h|r",
                     name = "Лазурная чародейская нить",
                     count = 10,
-                },
-                {
-                    link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
-                    name = "Руническая ткань",
-                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
