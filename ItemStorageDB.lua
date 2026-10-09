@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1791543964
+ItemStorageDB_LastUpdate = 1791567745
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 00:27:50",
+        updated_at = "2026-10-09 20:42:25",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -196,7 +196,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41533:0:0:0:0:0:0:0:10|h[Символ тотема исцеляющего потока]|h|r",
                 name = "Символ тотема исцеляющего потока",
-                count = 14,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:41534:0:0:0:0:0:0:0:10|h[Символ волны исцеления]|h|r",
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791322045,
+            last_update = 1791567692,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1950,7 +1950,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
                     name = "Символ хождения по воде",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
@@ -2345,11 +2345,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791322045,
+            last_update = 1791567695,
             items = {
                 {
-                    link = "|cffffffff|Hitem:41533:0:0:0:0:0:0:0:10|h[Символ тотема исцеляющего потока]|h|r",
-                    name = "Символ тотема исцеляющего потока",
+                    link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
+                    name = "Символ хождения по воде",
                     count = 1,
                 },
             },
