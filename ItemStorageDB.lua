@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791543355
+ItemStorageDB_LastUpdate = 1791543964
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12833,7 +12833,7 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-08 22:49:42",
+        updated_at = "2026-10-09 14:06:04",
         money = 385478,
         empty = 114,
         location = "Оргриммар",
@@ -12841,7 +12841,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
                 name = "Малый мерцающий осколок",
-                count = 132,
+                count = 117,
             },
             {
                 link = "|cff0070dd|Hitem:11084:0:0:0:0:0:0:0:10|h[Большой мерцающий осколок]|h|r",
@@ -13065,12 +13065,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791488965,
+            last_update = 1791543915,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
                     name = "Малый мерцающий осколок",
-                    count = 132,
+                    count = 117,
                 },
                 {
                     link = "|cff0070dd|Hitem:11084:0:0:0:0:0:0:0:10|h[Большой мерцающий осколок]|h|r",
@@ -13260,7 +13260,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791488973,
+            last_update = 1791543920,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
