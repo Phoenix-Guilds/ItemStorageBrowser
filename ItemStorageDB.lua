@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791524712
+ItemStorageDB_LastUpdate = 1791524860
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18288,7 +18288,7 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-09 08:45:12",
+        updated_at = "2026-10-09 08:47:40",
         money = 602,
         empty = 72,
         location = "Оргриммар",
@@ -18311,7 +18311,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                 name = "Руническая ткань",
-                count = 56,
+                count = 54,
             },
             {
                 link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
@@ -18370,7 +18370,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791524709,
+            last_update = 1791524777,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18380,7 +18380,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                     name = "Руническая ткань",
-                    count = 56,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:14256:0:0:0:0:0:0:0:10|h[Ткань Скверны]|h|r",
@@ -18430,7 +18430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791524709,
+            last_update = 1791524806,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18441,6 +18441,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41603:0:0:0:0:0:0:0:10|h[Лазурная чародейская нить]|h|r",
                     name = "Лазурная чародейская нить",
                     count = 10,
+                },
+                {
+                    link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
+                    name = "Руническая ткань",
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
