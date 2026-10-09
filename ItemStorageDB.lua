@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791531849
+ItemStorageDB_LastUpdate = 1791531878
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20823,9 +20823,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-09 09:40:56",
+        updated_at = "2026-10-09 10:44:38",
         money = 203936,
-        empty = 60,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -21276,7 +21276,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
@@ -21420,7 +21420,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791527713,
+            last_update = 1791531862,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21960,7 +21960,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791528030,
+            last_update = 1791531873,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22076,11 +22076,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:20832:0:0:0:0:0:0:0:10|h[Корона лунной души]|h|r",
                     name = "Корона лунной души",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
-                    name = "Поножи некроманта",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
