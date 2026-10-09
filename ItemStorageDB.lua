@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791524860
+ItemStorageDB_LastUpdate = 1791524886
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9568,7 +9568,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:55:20",
+        updated_at = "2026-10-09 08:48:06",
         money = 4062,
         empty = 85,
         location = "Оргриммар",
@@ -9586,7 +9586,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 48,
+                count = 47,
             },
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
@@ -9596,7 +9596,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
                 name = "Земля Ун'Горо",
-                count = 446,
+                count = 502,
             },
             {
                 link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
@@ -9616,12 +9616,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                 name = "Блестящая рыбья чешуя",
-                count = 104,
+                count = 93,
             },
             {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                 name = "Рыбий жир",
-                count = 141,
+                count = 131,
             },
             {
                 link = "|cffffffff|Hitem:18944:0:0:0:0:0:0:0:10|h[Чешуя пламезавра]|h|r",
@@ -9636,7 +9636,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:19933:0:0:0:0:0:0:0:10|h[Светящаяся кровь скорпида]|h|r",
                 name = "Светящаяся кровь скорпида",
-                count = 35,
+                count = 32,
             },
             {
                 link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
@@ -9651,7 +9651,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 950,
+                count = 922,
             },
             {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -9661,7 +9661,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
                 name = "Дикий росток",
-                count = 63,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:24245:0:0:0:0:0:0:0:10|h[Огнешляпка]|h|r",
@@ -9726,7 +9726,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 50,
+                count = 79,
             },
             {
                 link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -9745,7 +9745,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791359714,
+            last_update = 1789972707,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9760,7 +9760,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
                     name = "Земля Ун'Горо",
-                    count = 446,
+                    count = 502,
                 },
                 {
                     link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
@@ -9780,12 +9780,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                     name = "Блестящая рыбья чешуя",
-                    count = 104,
+                    count = 93,
                 },
                 {
                     link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
                     name = "Рыбий жир",
-                    count = 141,
+                    count = 131,
                 },
                 {
                     link = "|cffffffff|Hitem:18944:0:0:0:0:0:0:0:10|h[Чешуя пламезавра]|h|r",
@@ -9800,7 +9800,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:19933:0:0:0:0:0:0:0:10|h[Светящаяся кровь скорпида]|h|r",
                     name = "Светящаяся кровь скорпида",
-                    count = 35,
+                    count = 32,
                 },
                 {
                     link = "|cffffffff|Hitem:22525:0:0:0:0:0:0:0:10|h[Конечности и панцири некрорахнидов]|h|r",
@@ -9815,7 +9815,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                     name = "Средоточие Стихий",
-                    count = 950,
+                    count = 922,
                 },
                 {
                     link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -9825,7 +9825,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
                     name = "Дикий росток",
-                    count = 63,
+                    count = 59,
                 },
                 {
                     link = "|cffffffff|Hitem:24245:0:0:0:0:0:0:0:10|h[Огнешляпка]|h|r",
@@ -9890,7 +9890,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                     name = "Жареное крыло канюка",
-                    count = 50,
+                    count = 79,
                 },
                 {
                     link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -9910,12 +9910,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791359715,
+            last_update = 1791524881,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 48,
+                    count = 47,
                 },
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
