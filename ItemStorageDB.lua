@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1791567745
+ItemStorageDB_LastUpdate = 1791569491
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-09 20:42:25",
+        updated_at = "2026-10-09 21:11:31",
         money = 339404,
-        empty = 110,
+        empty = 111,
         location = "Оргриммар",
         items = {
             {
@@ -411,7 +411,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                 name = "Символ прилива сил",
-                count = 19,
+                count = 18,
             },
             {
                 link = "|cffffffff|Hitem:42739:0:0:0:0:0:0:0:10|h[Символ огненного шара]|h|r",
@@ -781,7 +781,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
                 name = "Символ хождения по воде",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791567692,
+            last_update = 1791569468,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1580,7 +1580,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                     name = "Символ прилива сил",
-                    count = 19,
+                    count = 18,
                 },
                 {
                     link = "|cffffffff|Hitem:42739:0:0:0:0:0:0:0:10|h[Символ огненного шара]|h|r",
@@ -2345,13 +2345,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791567695,
+            last_update = 1791569475,
             items = {
-                {
-                    link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
-                    name = "Символ хождения по воде",
-                    count = 1,
-                },
             },
         },
     },
