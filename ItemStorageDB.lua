@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791662320
+ItemStorageDB_LastUpdate = 1791664611
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5813,7 +5813,7 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 22:11:08",
+        updated_at = "2026-10-10 23:36:51",
         money = 421241,
         empty = 56,
         location = "Оргриммар",
@@ -5851,7 +5851,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:36921:0:0:0:0:0:0:0:10|h[Сияние осени]|h|r",
                 name = "Сияние осени",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:10|h[Сумеречный опал]|h|r",
@@ -6140,7 +6140,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791659461,
+            last_update = 1791664598,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6175,7 +6175,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:36921:0:0:0:0:0:0:0:10|h[Сияние осени]|h|r",
                     name = "Сияние осени",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:36927:0:0:0:0:0:0:0:10|h[Сумеречный опал]|h|r",
@@ -6380,7 +6380,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791659463,
+            last_update = 1791664599,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
