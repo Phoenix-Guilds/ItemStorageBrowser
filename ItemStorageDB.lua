@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791658654
+ItemStorageDB_LastUpdate = 1791658730
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12838,9 +12838,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 21:56:19",
+        updated_at = "2026-10-10 21:58:50",
         money = 385478,
-        empty = 102,
+        empty = 97,
         location = "Оргриммар",
         items = {
             {
@@ -12976,7 +12976,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
@@ -13046,7 +13046,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
                 name = "Адамантитовый жезл",
-                count = 2,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
@@ -13270,12 +13270,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791658441,
+            last_update = 1791658714,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                     name = "Золотой жезл",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
@@ -13300,7 +13300,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
                     name = "Адамантитовый жезл",
-                    count = 2,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
