@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791656701
+ItemStorageDB_LastUpdate = 1791657462
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9538,9 +9538,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 21:25:01",
+        updated_at = "2026-10-10 21:37:42",
         money = 4062,
-        empty = 87,
+        empty = 82,
         location = "Оргриммар",
         items = {
             {
@@ -9557,6 +9557,11 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
                 count = 46,
+            },
+            {
+                link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
+                name = "Одеяния Тайны",
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
@@ -9715,7 +9720,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791656691,
+            last_update = 1791656938,
             items = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
@@ -9726,6 +9731,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
                     name = "Поврежденное ожерелье",
                     count = 11,
+                },
+                {
+                    link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
+                    name = "Одеяния Тайны",
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -9880,7 +9890,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791656696,
+            last_update = 1791656940,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
