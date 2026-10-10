@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791658825
+ItemStorageDB_LastUpdate = 1791659305
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22103,9 +22103,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 15:27:17",
+        updated_at = "2026-10-10 22:08:25",
         money = 194111,
-        empty = 133,
+        empty = 131,
         location = "Оргриммар",
         items = {
             {
@@ -22349,6 +22349,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
+                name = "Толстое бронзовое ожерелье",
+                count = 2,
+            },
+            {
                 link = "|cff1eff00|Hitem:24074:0:0:0:0:0:0:0:10|h[Кровавое кольцо из оскверненного железа]|h|r",
                 name = "Кровавое кольцо из оскверненного железа",
                 count = 1,
@@ -22405,7 +22410,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791635208,
+            last_update = 1791658869,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22620,7 +22625,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791635228,
+            last_update = 1791658911,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22696,6 +22701,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:12042:0:0:0:0:0:514:0:10|h[Болотная цепь со знаком волка]|h|r",
                     name = "Болотная цепь со знаком волка",
                     count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
+                    name = "Толстое бронзовое ожерелье",
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
