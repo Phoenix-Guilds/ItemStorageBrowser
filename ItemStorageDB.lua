@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791657681
+ItemStorageDB_LastUpdate = 1791657717
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5812,10 +5812,10 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:54:18",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-10 21:41:57",
         money = 421241,
-        empty = 54,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -5901,7 +5901,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
                 name = "Чародейный кристалл",
-                count = 87,
+                count = 50,
             },
             {
                 link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
@@ -6135,7 +6135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791359652,
+            last_update = 1791657703,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6215,7 +6215,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
                     name = "Чародейный кристалл",
-                    count = 87,
+                    count = 50,
                 },
                 {
                     link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
@@ -6375,7 +6375,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791359653,
+            last_update = 1791657709,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
