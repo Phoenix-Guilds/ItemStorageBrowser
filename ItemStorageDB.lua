@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791657911
+ItemStorageDB_LastUpdate = 1791658135
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8288,9 +8288,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 21:41:21",
+        updated_at = "2026-10-10 21:48:55",
         money = 141967,
-        empty = 148,
+        empty = 149,
         location = "Оргриммар",
         items = {
             {
@@ -8376,7 +8376,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                 name = "Ториевый слиток",
-                count = 82,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
@@ -8470,7 +8470,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791657661,
+            last_update = 1791657988,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8575,7 +8575,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
                     name = "Слиток оскверненного железа",
-                    count = 198,
+                    count = 98,
                 },
                 {
                     link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
@@ -8650,12 +8650,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791657666,
+            last_update = 1791657996,
             items = {
                 {
-                    link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
-                    name = "Ториевый слиток",
-                    count = 32,
+                    link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
+                    name = "Слиток оскверненного железа",
+                    count = 100,
                 },
             },
         },
