@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791659468
+ItemStorageDB_LastUpdate = 1791661269
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8288,9 +8288,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 21:48:55",
+        updated_at = "2026-10-10 22:41:09",
         money = 141967,
-        empty = 149,
+        empty = 151,
         location = "Оргриммар",
         items = {
             {
@@ -8396,7 +8396,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
                 name = "Слиток оскверненного железа",
-                count = 198,
+                count = 98,
             },
             {
                 link = "|cffffffff|Hitem:23446:0:0:0:0:0:0:0:10|h[Адамантитовый слиток]|h|r",
@@ -8470,7 +8470,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791657988,
+            last_update = 1791661162,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8545,7 +8545,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
                     name = "Ториевая руда",
-                    count = 833,
+                    count = 533,
                 },
                 {
                     link = "|cffffffff|Hitem:11371:0:0:0:0:0:0:0:10|h[Слиток черного железа]|h|r",
@@ -8650,12 +8650,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791657996,
+            last_update = 1791661167,
             items = {
                 {
-                    link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
-                    name = "Слиток оскверненного железа",
-                    count = 100,
+                    link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
+                    name = "Ториевая руда",
+                    count = 300,
                 },
             },
         },
