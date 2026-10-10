@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1791570248
+ItemStorageDB_LastUpdate = 1791624496
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-09 21:11:31",
+        updated_at = "2026-10-10 12:28:16",
         money = 339404,
-        empty = 111,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791569468,
+            last_update = 1791624477,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2020,7 +2020,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43415:0:0:0:0:0:0:0:10|h[Символ сокрушения]|h|r",
                     name = "Символ сокрушения",
-                    count = 18,
+                    count = 17,
                 },
                 {
                     link = "|cffffffff|Hitem:43416:0:0:0:0:0:0:0:10|h[Символ казни]|h|r",
@@ -2070,7 +2070,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43425:0:0:0:0:0:0:0:10|h[Символ блокирования]|h|r",
                     name = "Символ блокирования",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43426:0:0:0:0:0:0:0:10|h[Символ отчаянной защиты]|h|r",
@@ -2345,8 +2345,18 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791569475,
+            last_update = 1791624477,
             items = {
+                {
+                    link = "|cffffffff|Hitem:43415:0:0:0:0:0:0:0:10|h[Символ сокрушения]|h|r",
+                    name = "Символ сокрушения",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43425:0:0:0:0:0:0:0:10|h[Символ блокирования]|h|r",
+                    name = "Символ блокирования",
+                    count = 1,
+                },
             },
         },
     },
