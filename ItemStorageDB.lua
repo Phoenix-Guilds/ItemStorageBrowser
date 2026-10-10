@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1791646430
+ItemStorageDB_LastUpdate = 1791651672
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 15:34:07",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-10 20:01:12",
         money = 339404,
-        empty = 109,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
@@ -111,7 +111,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                 name = "Символ правосудия",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
@@ -131,7 +131,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41099:0:0:0:0:0:0:0:10|h[Символ освящения]|h|r",
                 name = "Символ освящения",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:41103:0:0:0:0:0:0:0:10|h[Символ экзорцизма]|h|r",
@@ -1175,7 +1175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791635602,
+            last_update = 1791651655,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1825,7 +1825,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
                     name = "Символ водного облика",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -2345,16 +2345,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791635604,
+            last_update = 1791651657,
             items = {
                 {
-                    link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
-                    name = "Символ правосудия",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:41099:0:0:0:0:0:0:0:10|h[Символ освящения]|h|r",
-                    name = "Символ освящения",
+                    link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
+                    name = "Символ водного облика",
                     count = 1,
                 },
             },
