@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791635131
+ItemStorageDB_LastUpdate = 1791635237
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22083,9 +22083,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 12:32:42",
+        updated_at = "2026-10-10 15:27:17",
         money = 194111,
-        empty = 131,
+        empty = 133,
         location = "Оргриммар",
         items = {
             {
@@ -22116,7 +22116,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                 name = "Калейдоскопическая цепь",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -22242,11 +22242,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
                 name = "Пылающая эмблема",
                 count = 3,
-            },
-            {
-                link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
-                name = "Кольцо побегов",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
@@ -22390,7 +22385,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791624754,
+            last_update = 1791635208,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22490,11 +22485,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:21768:0:0:0:0:0:696:0:10|h[Сапфировый перстень со знаком тигра]|h|r",
                     name = "Сапфировый перстень со знаком тигра",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
-                    name = "Кольцо побегов",
                     count = 1,
                 },
                 {
@@ -22610,7 +22600,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791624757,
+            last_update = 1791635228,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22625,7 +22615,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                     name = "Калейдоскопическая цепь",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
