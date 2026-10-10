@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791661424
+ItemStorageDB_LastUpdate = 1791661599
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8288,7 +8288,7 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 22:41:09",
+        updated_at = "2026-10-10 22:46:39",
         money = 141967,
         empty = 151,
         location = "Оргриммар",
@@ -8366,7 +8366,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
                 name = "Ториевая руда",
-                count = 833,
+                count = 533,
             },
             {
                 link = "|cffffffff|Hitem:11371:0:0:0:0:0:0:0:10|h[Слиток черного железа]|h|r",
@@ -8376,7 +8376,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                 name = "Ториевый слиток",
-                count = 50,
+                count = 350,
             },
             {
                 link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
@@ -8470,7 +8470,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791661162,
+            last_update = 1791661596,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8555,7 +8555,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                     name = "Ториевый слиток",
-                    count = 50,
+                    count = 350,
                 },
                 {
                     link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
@@ -8650,13 +8650,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791661167,
+            last_update = 1791661596,
             items = {
-                {
-                    link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
-                    name = "Ториевая руда",
-                    count = 300,
-                },
             },
         },
     },
