@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791635237
+ItemStorageDB_LastUpdate = 1791635490
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20793,9 +20793,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 12:30:17",
+        updated_at = "2026-10-10 15:31:30",
         money = 203936,
-        empty = 65,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -21051,7 +21051,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
                 name = "Сапоги из чешуи равазавра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
@@ -21281,7 +21281,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:5425:0:0:0:0:0:0:0:10|h[Ремень из рунической чешуи]|h|r",
@@ -21331,7 +21331,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
                 name = "Решетчатые костяные рукавицы",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:10329:0:0:0:0:0:0:0:10|h[Алый пояс]|h|r",
@@ -21390,7 +21390,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791624601,
+            last_update = 1791635360,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21640,7 +21640,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
                     name = "Сапоги из чешуи равазавра",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
@@ -21895,7 +21895,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
                     name = "Решетчатые костяные рукавицы",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:6423:0:0:0:0:0:0:0:10|h[Наголенники Черной Кузни]|h|r",
@@ -21940,7 +21940,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791624611,
+            last_update = 1791635448,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -22040,7 +22040,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                     name = "Шапка терпения",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:5425:0:0:0:0:0:0:0:10|h[Ремень из рунической чешуи]|h|r",
