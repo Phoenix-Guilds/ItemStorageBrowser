@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791659305
+ItemStorageDB_LastUpdate = 1791659408
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6922,10 +6922,10 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:32:21",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-10 22:10:08",
         money = 181084,
-        empty = 134,
+        empty = 136,
         location = "Оргриммар",
         items = {
             {
@@ -6957,11 +6957,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:38376:0:0:0:0:0:0:0:10|h[Накладки из толстой борейской кожи]|h|r",
                 name = "Накладки из толстой борейской кожи",
                 count = 15,
-            },
-            {
-                link = "|cffffffff|Hitem:12643:0:0:0:0:0:0:0:10|h[Массивное грузило]|h|r",
-                name = "Массивное грузило",
-                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:15407:0:0:0:0:0:0:0:10|h[Обработанная грубая шкура]|h|r",
@@ -7201,12 +7196,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6470:0:0:0:0:0:0:0:10|h[Искаженная чешуя]|h|r",
                 name = "Искаженная чешуя",
-                count = 104,
+                count = 102,
             },
             {
                 link = "|cffffffff|Hitem:6471:0:0:0:0:0:0:0:10|h[Идеальная искаженная чешуя]|h|r",
                 name = "Идеальная искаженная чешуя",
-                count = 15,
+                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
@@ -7265,7 +7260,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791358335,
+            last_update = 1791659366,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7465,12 +7460,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6470:0:0:0:0:0:0:0:10|h[Искаженная чешуя]|h|r",
                     name = "Искаженная чешуя",
-                    count = 104,
+                    count = 102,
                 },
                 {
                     link = "|cffffffff|Hitem:6471:0:0:0:0:0:0:0:10|h[Идеальная искаженная чешуя]|h|r",
                     name = "Идеальная искаженная чешуя",
-                    count = 15,
+                    count = 14,
                 },
                 {
                     link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
@@ -7520,7 +7515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791358336,
+            last_update = 1791659395,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7541,11 +7536,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:38376:0:0:0:0:0:0:0:10|h[Накладки из толстой борейской кожи]|h|r",
                     name = "Накладки из толстой борейской кожи",
                     count = 15,
-                },
-                {
-                    link = "|cffffffff|Hitem:12643:0:0:0:0:0:0:0:10|h[Массивное грузило]|h|r",
-                    name = "Массивное грузило",
-                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:15564:0:0:0:0:0:0:0:10|h[Накладки из грубой кожи]|h|r",
