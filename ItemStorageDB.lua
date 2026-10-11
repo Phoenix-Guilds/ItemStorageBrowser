@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791705610
+ItemStorageDB_LastUpdate = 1791715421
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20752,10 +20752,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 15:31:30",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-11 13:43:41",
         money = 203936,
-        empty = 66,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -21214,11 +21214,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
-                name = "Укрепленный кожаный доспех",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
                 name = "Когти эльфийского духа",
                 count = 2,
@@ -21350,7 +21345,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791635360,
+            last_update = 1791715412,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21793,11 +21788,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2314:254:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
-                    name = "Укрепленный кожаный доспех",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
                     name = "Когти эльфийского духа",
                     count = 1,
@@ -21900,7 +21890,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791635448,
+            last_update = 1791715414,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
