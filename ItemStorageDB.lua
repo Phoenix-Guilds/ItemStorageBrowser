@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791671290
+ItemStorageDB_LastUpdate = 1791697705
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19027,10 +19027,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 11:00:22",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-11 08:48:25",
         money = 336703,
-        empty = 92,
+        empty = 93,
         location = "Оргриммар",
         items = {
             {
@@ -19106,11 +19106,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31150:0:0:0:0:0:0:0:10|h[Перчатки благочестия]|h|r",
                 name = "Перчатки благочестия",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31151:0:0:0:0:0:0:0:10|h[Ремень осады]|h|r",
-                name = "Ремень осады",
                 count = 1,
             },
             {
@@ -19885,7 +19880,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791360014,
+            last_update = 1791697644,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
@@ -19950,11 +19945,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31150:0:0:0:0:0:0:0:10|h[Перчатки благочестия]|h|r",
                     name = "Перчатки благочестия",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31151:0:0:0:0:0:0:0:10|h[Ремень осады]|h|r",
-                    name = "Ремень осады",
                     count = 1,
                 },
                 {
@@ -20720,7 +20710,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791360015,
+            last_update = 1791697677,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
