@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791760478
+ItemStorageDB_LastUpdate = 1791760849
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8238,9 +8238,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 02:06:19",
+        updated_at = "2026-10-12 02:20:49",
         money = 141967,
-        empty = 152,
+        empty = 155,
         location = "Оргриммар",
         items = {
             {
@@ -8376,7 +8376,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                 name = "Бронзовый слиток",
-                count = 304,
+                count = 154,
             },
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
@@ -8420,7 +8420,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791759879,
+            last_update = 1791760532,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8560,7 +8560,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
                     name = "Железный слиток",
-                    count = 422,
+                    count = 250,
                 },
                 {
                     link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
@@ -8600,12 +8600,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791759884,
+            last_update = 1791760534,
             items = {
                 {
-                    link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
-                    name = "Бронзовый слиток",
-                    count = 150,
+                    link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
+                    name = "Железный слиток",
+                    count = 172,
                 },
             },
         },
