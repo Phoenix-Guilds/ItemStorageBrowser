@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791743738
+ItemStorageDB_LastUpdate = 1791745124
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8657,10 +8657,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 22:00:25",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-11 21:58:44",
         money = 208636,
-        empty = 70,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -9066,7 +9066,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9179:0:0:0:0:0:0:0:10|h[Сильный эликсир интеллекта]|h|r",
                 name = "Сильный эликсир интеллекта",
-                count = 118,
+                count = 150,
             },
             {
                 link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
@@ -9090,7 +9090,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791658779,
+            last_update = 1791745092,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9415,7 +9415,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791658810,
+            last_update = 1791745114,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9521,6 +9521,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:858:0:0:0:0:0:0:0:10|h[Маленький флакон с лечебным зельем]|h|r",
                     name = "Маленький флакон с лечебным зельем",
                     count = 22,
+                },
+                {
+                    link = "|cffffffff|Hitem:9179:0:0:0:0:0:0:0:10|h[Сильный эликсир интеллекта]|h|r",
+                    name = "Сильный эликсир интеллекта",
+                    count = 32,
                 },
                 {
                     link = "|cffffffff|Hitem:9233:0:0:0:0:0:0:0:10|h[Эликсир обнаружения демонов]|h|r",
