@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791753372
+ItemStorageDB_LastUpdate = 1791753934
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8632,10 +8632,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-11 21:58:44",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-12 00:25:34",
         money = 208636,
-        empty = 69,
+        empty = 72,
         location = "Оргриммар",
         items = {
             {
@@ -8746,7 +8746,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                 name = "Крохотный флакон с зельем маны",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:2456:0:0:0:0:0:0:0:10|h[Слабое зелье омоложения]|h|r",
@@ -8786,7 +8786,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:32067:0:0:0:0:0:0:0:10|h[Эликсир дренейской мудрости]|h|r",
                 name = "Эликсир дренейской мудрости",
-                count = 95,
+                count = 45,
             },
             {
                 link = "|cffffffff|Hitem:33447:0:0:0:0:0:0:0:10|h[Рунический флакон с лечебным зельем]|h|r",
@@ -8816,7 +8816,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
                 name = "Маленький флакон с зельем маны",
-                count = 27,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:3386:0:0:0:0:0:0:0:10|h[Эликсир излечения]|h|r",
@@ -9061,11 +9061,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                 name = "Лечебное зелье",
-                count = 127,
+                count = 100,
             },
         },
         bank = {
-            last_update = 1791745092,
+            last_update = 1791753926,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9155,7 +9155,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:32067:0:0:0:0:0:0:0:10|h[Эликсир дренейской мудрости]|h|r",
                     name = "Эликсир дренейской мудрости",
-                    count = 95,
+                    count = 45,
                 },
                 {
                     link = "|cffffffff|Hitem:3382:0:0:0:0:0:0:0:10|h[Слабое зелье тролльей крови]|h|r",
@@ -9370,7 +9370,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:9179:0:0:0:0:0:0:0:10|h[Сильный эликсир интеллекта]|h|r",
                     name = "Сильный эликсир интеллекта",
-                    count = 118,
+                    count = 150,
                 },
                 {
                     link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
@@ -9390,7 +9390,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791745114,
+            last_update = 1791753928,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9435,7 +9435,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                     name = "Крохотный флакон с зельем маны",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:2456:0:0:0:0:0:0:0:10|h[Слабое зелье омоложения]|h|r",
@@ -9465,7 +9465,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3385:0:0:0:0:0:0:0:10|h[Маленький флакон с зельем маны]|h|r",
                     name = "Маленький флакон с зельем маны",
-                    count = 27,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
@@ -9498,11 +9498,6 @@ ItemStorageDB = {
                     count = 22,
                 },
                 {
-                    link = "|cffffffff|Hitem:9179:0:0:0:0:0:0:0:10|h[Сильный эликсир интеллекта]|h|r",
-                    name = "Сильный эликсир интеллекта",
-                    count = 32,
-                },
-                {
                     link = "|cffffffff|Hitem:9233:0:0:0:0:0:0:0:10|h[Эликсир обнаружения демонов]|h|r",
                     name = "Эликсир обнаружения демонов",
                     count = 10,
@@ -9510,7 +9505,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                     name = "Лечебное зелье",
-                    count = 127,
+                    count = 100,
                 },
             },
         },
