@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791747690
+ItemStorageDB_LastUpdate = 1791747898
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4833,9 +4833,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 21:18:59",
+        updated_at = "2026-10-11 22:44:58",
         money = 999680,
-        empty = 113,
+        empty = 114,
         location = "Оргриммар",
         items = {
             {
@@ -4871,7 +4871,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                 name = "Золотая жемчужина",
-                count = 104,
+                count = 103,
             },
             {
                 link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
@@ -4886,7 +4886,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
                 name = "Изначальная Жизнь",
-                count = 46,
+                count = 45,
             },
             {
                 link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
@@ -4896,17 +4896,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22452:0:0:0:0:0:0:0:10|h[Изначальная Земля]|h|r",
                 name = "Изначальная Земля",
-                count = 49,
+                count = 48,
             },
             {
                 link = "|cff1eff00|Hitem:22456:0:0:0:0:0:0:0:10|h[Изначальная Тень]|h|r",
                 name = "Изначальная Тень",
                 count = 112,
-            },
-            {
-                link = "|cff1eff00|Hitem:22457:0:0:0:0:0:0:0:10|h[Изначальная Мана]|h|r",
-                name = "Изначальная Мана",
-                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
@@ -5130,7 +5125,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791656282,
+            last_update = 1791747883,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5170,7 +5165,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
                     name = "Изначальная Жизнь",
-                    count = 46,
+                    count = 45,
                 },
                 {
                     link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
@@ -5180,17 +5175,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:22452:0:0:0:0:0:0:0:10|h[Изначальная Земля]|h|r",
                     name = "Изначальная Земля",
-                    count = 49,
+                    count = 48,
                 },
                 {
                     link = "|cff1eff00|Hitem:22456:0:0:0:0:0:0:0:10|h[Изначальная Тень]|h|r",
                     name = "Изначальная Тень",
                     count = 112,
-                },
-                {
-                    link = "|cff1eff00|Hitem:22457:0:0:0:0:0:0:0:10|h[Изначальная Мана]|h|r",
-                    name = "Изначальная Мана",
-                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
@@ -5380,7 +5370,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791656331,
+            last_update = 1791747892,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5390,7 +5380,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                     name = "Золотая жемчужина",
-                    count = 104,
+                    count = 103,
                 },
                 {
                     link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
