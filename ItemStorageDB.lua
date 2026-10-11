@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791760849
+ItemStorageDB_LastUpdate = 1791760920
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20773,9 +20773,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 01:54:11",
+        updated_at = "2026-10-12 02:22:00",
         money = 203936,
-        empty = 64,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -21249,6 +21249,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:2870:0:0:0:0:0:0:0:10|h[Сияющая серебряная кираса]|h|r",
+                name = "Сияющая серебряная кираса",
+                count = 2,
+            },
+            {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
                 count = 1,
@@ -21257,6 +21262,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
                 count = 3,
+            },
+            {
+                link = "|cff0070dd|Hitem:3844:0:0:0:0:0:0:0:10|h[Зеленый железный хауберк]|h|r",
+                name = "Зеленый железный хауберк",
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:4320:929:0:0:0:0:0:0:10|h[Сапоги из паучьего шелка]|h|r",
@@ -21370,7 +21380,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791759137,
+            last_update = 1791760912,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21920,7 +21930,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791759246,
+            last_update = 1791760915,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -22018,9 +22028,19 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:2870:0:0:0:0:0:0:0:10|h[Сияющая серебряная кираса]|h|r",
+                    name = "Сияющая серебряная кираса",
+                    count = 2,
+                },
+                {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                     name = "Шапка терпения",
                     count = 3,
+                },
+                {
+                    link = "|cff0070dd|Hitem:3844:0:0:0:0:0:0:0:10|h[Зеленый железный хауберк]|h|r",
+                    name = "Зеленый железный хауберк",
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:5425:0:0:0:0:0:0:0:10|h[Ремень из рунической чешуи]|h|r",
