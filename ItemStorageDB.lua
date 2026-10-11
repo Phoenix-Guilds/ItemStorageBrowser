@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791756672
+ItemStorageDB_LastUpdate = 1791756980
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2358,9 +2358,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 00:27:44",
+        updated_at = "2026-10-12 01:16:20",
         money = 92710,
-        empty = 59,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -2824,11 +2824,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
-                name = "Кинжал с жемчужной рукояткой",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:6571:0:0:0:0:0:97:0:10|h[Кулачный щит лазутчика со знаком силы]|h|r",
                 name = "Кулачный щит лазутчика со знаком силы",
                 count = 1,
@@ -2955,7 +2950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791753988,
+            last_update = 1791756729,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3348,11 +3343,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:5540:0:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
-                    name = "Кинжал с жемчужной рукояткой",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
                     name = "Мозгоруб",
                     count = 2,
@@ -3460,7 +3450,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791754000,
+            last_update = 1791756738,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
