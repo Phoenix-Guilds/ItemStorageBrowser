@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791839970
+ItemStorageDB_LastUpdate = 1791840088
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12558,9 +12558,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-10 23:53:13",
+        updated_at = "2026-10-13 00:21:28",
         money = 13104,
-        empty = 63,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -12606,7 +12606,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                 name = "Оса Хрустальных сосен",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
@@ -12721,7 +12721,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
                 name = "Смертоносный прицел",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
@@ -12740,7 +12740,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791665585,
+            last_update = 1791840010,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12780,7 +12780,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                     name = "Оса Хрустальных сосен",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
@@ -12870,7 +12870,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791665589,
+            last_update = 1791840025,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -12905,7 +12905,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
                     name = "Смертоносный прицел",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
