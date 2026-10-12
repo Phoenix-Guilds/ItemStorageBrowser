@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791839914
+ItemStorageDB_LastUpdate = 1791839970
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2368,9 +2368,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 21:37:35",
+        updated_at = "2026-10-13 00:19:30",
         money = 92710,
-        empty = 54,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -2809,11 +2809,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:8226:0:0:0:0:0:0:0:10|h[Мясник]|h|r",
-                name = "Мясник",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
                 name = "Жнец Сталвана",
                 count = 2,
@@ -2975,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791830246,
+            last_update = 1791839952,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3495,7 +3490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791830249,
+            last_update = 1791839964,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3605,11 +3600,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:7786:0:0:0:0:0:0:0:10|h[Головокол]|h|r",
                     name = "Головокол",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:8226:0:0:0:0:0:0:0:10|h[Мясник]|h|r",
-                    name = "Мясник",
                     count = 1,
                 },
                 {
