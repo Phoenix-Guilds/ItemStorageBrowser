@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791839828
+ItemStorageDB_LastUpdate = 1791839914
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21013,9 +21013,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-13 00:12:15",
+        updated_at = "2026-10-13 00:18:34",
         money = 203936,
-        empty = 65,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -21221,7 +21221,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
                 name = "Поножи Троллегубителя",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
@@ -21461,7 +21461,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
                 name = "Эполеты лесного следопыта",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2314:1892:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
@@ -21610,7 +21610,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791839508,
+            last_update = 1791839894,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21805,7 +21805,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
                     name = "Поножи Троллегубителя",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
@@ -22038,11 +22038,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
-                    name = "Эполеты лесного следопыта",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:2314:1892:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
                     name = "Укрепленный кожаный доспех",
                     count = 1,
@@ -22155,7 +22150,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791839530,
+            last_update = 1791839908,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
