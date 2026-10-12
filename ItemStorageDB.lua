@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791830158
+ItemStorageDB_LastUpdate = 1791830255
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2368,9 +2368,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 21:10:24",
+        updated_at = "2026-10-12 21:37:35",
         money = 92710,
-        empty = 56,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -2411,7 +2411,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -2706,7 +2706,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
@@ -2975,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791828617,
+            last_update = 1791830246,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3495,12 +3495,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791828619,
+            last_update = 1791830249,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                     name = "Эгида Штормграда",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
+                    name = "Дубина Ракзура",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -3570,6 +3575,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
                     name = "Клеймор бойца",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
+                    name = "Зазубренный боевой топор",
                     count = 1,
                 },
                 {
