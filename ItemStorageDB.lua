@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791828442
+ItemStorageDB_LastUpdate = 1791828577
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16398,9 +16398,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 20:24:15",
+        updated_at = "2026-10-12 21:09:37",
         money = 108852,
-        empty = 70,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -16926,6 +16926,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4821:929:0:0:0:0:0:0:10|h[Медвежий кулачный щит]|h|r",
                 name = "Медвежий кулачный щит",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:5071:0:0:0:0:0:0:0:10|h[Жезл тени]|h|r",
+                name = "Жезл тени",
                 count = 1,
             },
             {
@@ -17800,7 +17805,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791825849,
+            last_update = 1791828568,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
@@ -17976,6 +17981,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:4577:0:0:0:0:0:0:0:10|h[Компактный дробовик]|h|r",
                     name = "Компактный дробовик",
                     count = 2,
+                },
+                {
+                    link = "|cff1eff00|Hitem:5071:0:0:0:0:0:0:0:10|h[Жезл тени]|h|r",
+                    name = "Жезл тени",
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:5540:20239:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
