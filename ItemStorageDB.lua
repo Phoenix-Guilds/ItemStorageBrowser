@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791830339
+ItemStorageDB_LastUpdate = 1791830397
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19228,9 +19228,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 21:07:22",
+        updated_at = "2026-10-12 21:39:57",
         money = 336703,
-        empty = 91,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -19351,6 +19351,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31180:0:0:0:0:0:0:0:10|h[Рукавицы Дробителей Черепов]|h|r",
                 name = "Рукавицы Дробителей Черепов",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31181:0:0:0:0:0:-19:40:10|h[Повязки из шкуры камнечервя со знаком интеллекта]|h|r",
+                name = "Повязки из шкуры камнечервя со знаком интеллекта",
                 count = 1,
             },
             {
@@ -20090,7 +20095,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791828434,
+            last_update = 1791830389,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
@@ -20925,7 +20930,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791828436,
+            last_update = 1791830391,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
@@ -20935,6 +20940,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31151:0:0:0:0:0:0:0:10|h[Ремень осады]|h|r",
                     name = "Ремень осады",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31181:0:0:0:0:0:-19:40:10|h[Повязки из шкуры камнечервя со знаком интеллекта]|h|r",
+                    name = "Повязки из шкуры камнечервя со знаком интеллекта",
                     count = 1,
                 },
                 {
