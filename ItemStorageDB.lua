@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791830443
+ItemStorageDB_LastUpdate = 1791830812
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5488,9 +5488,9 @@ ItemStorageDB = {
     {
         name = "Инженерная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-17 18:34:50",
+        updated_at = "2026-10-12 21:46:52",
         money = 16160,
-        empty = 147,
+        empty = 145,
         location = "Оргриммар",
         items = {
             {
@@ -5606,7 +5606,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
                 name = "Медная труба",
-                count = 23,
+                count = 34,
             },
             {
                 link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
@@ -5631,7 +5631,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4377:0:0:0:0:0:0:0:10|h[Тяжелое взрывчатое вещество]|h|r",
                 name = "Тяжелое взрывчатое вещество",
-                count = 13,
+                count = 30,
             },
             {
                 link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
@@ -5656,7 +5656,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4404:0:0:0:0:0:0:0:10|h[Серебряный контакт]|h|r",
                 name = "Серебряный контакт",
-                count = 100,
+                count = 186,
             },
             {
                 link = "|cffffffff|Hitem:6219:0:0:0:0:0:0:0:10|h[Тангенциальный вращатель]|h|r",
@@ -5675,7 +5675,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1789659249,
+            last_update = 1791830570,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5770,7 +5770,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
                     name = "Кирка-молот",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:40893:0:0:0:0:0:0:0:10|h[Заостренная кирка]|h|r",
@@ -5790,7 +5790,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
                     name = "Медная труба",
-                    count = 23,
+                    count = 34,
                 },
                 {
                     link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
@@ -5815,7 +5815,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4377:0:0:0:0:0:0:0:10|h[Тяжелое взрывчатое вещество]|h|r",
                     name = "Тяжелое взрывчатое вещество",
-                    count = 13,
+                    count = 30,
                 },
                 {
                     link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
@@ -5840,7 +5840,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4404:0:0:0:0:0:0:0:10|h[Серебряный контакт]|h|r",
                     name = "Серебряный контакт",
-                    count = 100,
+                    count = 186,
                 },
                 {
                     link = "|cffffffff|Hitem:6219:0:0:0:0:0:0:0:10|h[Тангенциальный вращатель]|h|r",
@@ -5860,8 +5860,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1789659285,
+            last_update = 1791830633,
             items = {
+                {
+                    link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
+                    name = "Кирка-молот",
+                    count = 1,
+                },
             },
         },
     },
