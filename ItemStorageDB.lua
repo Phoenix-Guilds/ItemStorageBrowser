@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791811790
+ItemStorageDB_LastUpdate = 1791820949
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18247,10 +18247,10 @@ ItemStorageDB = {
     },
     {
         name = "Тканюшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 15:28:25",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-12 19:02:29",
         money = 900602,
-        empty = 51,
+        empty = 99,
         location = "Оргриммар",
         items = {
             {
@@ -18279,11 +18279,6 @@ ItemStorageDB = {
                 count = 22,
             },
             {
-                link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
-                name = "Ткань Пустоты",
-                count = 2046,
-            },
-            {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
                 count = 1308,
@@ -18291,7 +18286,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 1617,
+                count = 1583,
             },
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
@@ -18307,11 +18302,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
                 name = "Паутина",
                 count = 44,
-            },
-            {
-                link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
-                name = "Ледяная ткань",
-                count = 289,
             },
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
@@ -18335,7 +18325,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791808092,
+            last_update = 1791820941,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18400,7 +18390,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791808099,
+            last_update = 1791820943,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18411,21 +18401,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41603:0:0:0:0:0:0:0:10|h[Лазурная чародейская нить]|h|r",
                     name = "Лазурная чародейская нить",
                     count = 10,
-                },
-                {
-                    link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
-                    name = "Ткань Пустоты",
-                    count = 2046,
-                },
-                {
-                    link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
-                    name = "Шерсть",
-                    count = 34,
-                },
-                {
-                    link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
-                    name = "Ледяная ткань",
-                    count = 289,
                 },
             },
         },
