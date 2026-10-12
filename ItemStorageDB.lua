@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791828922
+ItemStorageDB_LastUpdate = 1791828965
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8168,9 +8168,9 @@ ItemStorageDB = {
     {
         name = "Ларец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 20:36:48",
+        updated_at = "2026-10-12 21:16:05",
         money = 3254,
-        empty = 121,
+        empty = 119,
         location = "Оргриммар",
         items = {
             {
@@ -8191,7 +8191,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4633:0:0:0:0:0:0:0:10|h[Тяжелый бронзовый сейф]|h|r",
                 name = "Тяжелый бронзовый сейф",
-                count = 10,
+                count = 11,
             },
             {
                 link = "|cff1eff00|Hitem:4634:0:0:0:0:0:0:0:10|h[Железный сейф]|h|r",
@@ -8206,7 +8206,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4637:0:0:0:0:0:0:0:10|h[Стальной сейф]|h|r",
                 name = "Стальной сейф",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:4638:0:0:0:0:0:0:0:10|h[Укрепленный стальной сейф]|h|r",
@@ -8245,7 +8245,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791826502,
+            last_update = 1791828959,
             items = {
                 {
                     link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
@@ -8265,7 +8265,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4633:0:0:0:0:0:0:0:10|h[Тяжелый бронзовый сейф]|h|r",
                     name = "Тяжелый бронзовый сейф",
-                    count = 10,
+                    count = 11,
                 },
                 {
                     link = "|cff1eff00|Hitem:4634:0:0:0:0:0:0:0:10|h[Железный сейф]|h|r",
@@ -8280,7 +8280,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4637:0:0:0:0:0:0:0:10|h[Стальной сейф]|h|r",
                     name = "Стальной сейф",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:4638:0:0:0:0:0:0:0:10|h[Укрепленный стальной сейф]|h|r",
@@ -8320,7 +8320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791826502,
+            last_update = 1791828959,
             items = {
             },
         },
