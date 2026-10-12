@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791832372
+ItemStorageDB_LastUpdate = 1791832416
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7673,7 +7673,7 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 21:01:44",
+        updated_at = "2026-10-12 22:13:36",
         money = 0,
         empty = 192,
         location = "Оргриммар",
@@ -7706,7 +7706,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
                 name = "Сосиска из мяса опустошителя",
-                count = 53,
+                count = 66,
             },
             {
                 link = "|cffffffff|Hitem:27656:0:0:0:0:0:0:0:10|h[Закуска спорлингов]|h|r",
@@ -7795,7 +7795,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791828096,
+            last_update = 1791832410,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7825,7 +7825,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
                     name = "Сосиска из мяса опустошителя",
-                    count = 53,
+                    count = 66,
                 },
                 {
                     link = "|cffffffff|Hitem:27656:0:0:0:0:0:0:0:10|h[Закуска спорлингов]|h|r",
@@ -7915,7 +7915,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791828099,
+            last_update = 1791832411,
             items = {
             },
         },
