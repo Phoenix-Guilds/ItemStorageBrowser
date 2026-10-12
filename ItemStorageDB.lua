@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791796383
+ItemStorageDB_LastUpdate = 1791798889
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16288,9 +16288,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 12:13:03",
+        updated_at = "2026-10-12 12:54:49",
         money = 108852,
-        empty = 74,
+        empty = 76,
         location = "Оргриммар",
         items = {
             {
@@ -16561,7 +16561,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2865:0:0:0:0:0:0:0:10|h[Грубые бронзовые поножи]|h|r",
                 name = "Грубые бронзовые поножи",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:2957:1892:0:0:0:0:0:0:10|h[Жилет подмастерья]|h|r",
@@ -16666,7 +16666,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3480:0:0:0:0:0:0:0:10|h[Грубые бронзовые наплечники]|h|r",
                 name = "Грубые бронзовые наплечники",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:3647:929:0:0:0:0:0:0:10|h[Яркие наручи]|h|r",
@@ -17085,7 +17085,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791796215,
+            last_update = 1791798868,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -17295,7 +17295,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2865:0:0:0:0:0:0:0:10|h[Грубые бронзовые поножи]|h|r",
                     name = "Грубые бронзовые поножи",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:2957:1892:0:0:0:0:0:0:10|h[Жилет подмастерья]|h|r",
@@ -17360,7 +17360,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3480:0:0:0:0:0:0:0:10|h[Грубые бронзовые наплечники]|h|r",
                     name = "Грубые бронзовые наплечники",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:3647:929:0:0:0:0:0:0:10|h[Яркие наручи]|h|r",
@@ -17650,7 +17650,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791796231,
+            last_update = 1791798883,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
