@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791823536
+ItemStorageDB_LastUpdate = 1791823590
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20703,9 +20703,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 19:37:00",
+        updated_at = "2026-10-12 19:46:30",
         money = 203936,
-        empty = 62,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -21146,7 +21146,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
@@ -21300,7 +21300,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791823011,
+            last_update = 1791823576,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21845,7 +21845,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791823014,
+            last_update = 1791823578,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21916,6 +21916,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:20832:0:0:0:0:0:0:0:10|h[Корона лунной души]|h|r",
                     name = "Корона лунной души",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
+                    name = "Поножи некроманта",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
