@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791821230
+ItemStorageDB_LastUpdate = 1791821280
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7567,8 +7567,8 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-04 21:26:54",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-12 19:08:00",
         money = 0,
         empty = 195,
         location = "Оргриммар",
@@ -7661,7 +7661,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
                 name = "Мидии по-гоблински",
-                count = 37,
+                count = 27,
+            },
+            {
+                link = "|cffffffff|Hitem:6657:0:0:0:0:0:0:0:10|h[Загадочное острое лакомство]|h|r",
+                name = "Загадочное острое лакомство",
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
@@ -7670,7 +7675,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791138401,
+            last_update = 1791821271,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7763,6 +7768,11 @@ ItemStorageDB = {
                     count = 27,
                 },
                 {
+                    link = "|cffffffff|Hitem:6657:0:0:0:0:0:0:0:10|h[Загадочное острое лакомство]|h|r",
+                    name = "Загадочное острое лакомство",
+                    count = 20,
+                },
+                {
                     link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
                     name = "Яйцо с травами",
                     count = 86,
@@ -7770,13 +7780,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791138405,
+            last_update = 1791821275,
             items = {
-                {
-                    link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
-                    name = "Мидии по-гоблински",
-                    count = 10,
-                },
             },
         },
     },
