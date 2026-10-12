@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791801204
+ItemStorageDB_LastUpdate = 1791802829
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12787,10 +12787,10 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 02:27:11",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-12 14:00:29",
         money = 385478,
-        empty = 105,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -12916,7 +12916,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
-                count = 139,
+                count = 39,
             },
             {
                 link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
@@ -12926,7 +12926,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
@@ -13025,7 +13025,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791761194,
+            last_update = 1791801273,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13150,7 +13150,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                     name = "Странная пыль",
-                    count = 139,
+                    count = 39,
                 },
                 {
                     link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
@@ -13220,12 +13220,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791761203,
+            last_update = 1791801285,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                     name = "Золотой жезл",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
