@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791826334
+ItemStorageDB_LastUpdate = 1791826439
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7568,9 +7568,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 19:08:00",
+        updated_at = "2026-10-12 20:33:59",
         money = 0,
-        empty = 195,
+        empty = 194,
         location = "Оргриммар",
         items = {
             {
@@ -7629,6 +7629,11 @@ ItemStorageDB = {
                 count = 66,
             },
             {
+                link = "|cffffffff|Hitem:34763:0:0:0:0:0:0:0:10|h[Копченый лосось]|h|r",
+                name = "Копченый лосось",
+                count = 36,
+            },
+            {
                 link = "|cffffffff|Hitem:39691:0:0:0:0:0:0:0:10|h[Наваристая похлебка из косатки]|h|r",
                 name = "Наваристая похлебка из косатки",
                 count = 20,
@@ -7675,7 +7680,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791821271,
+            last_update = 1791826385,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7733,6 +7738,11 @@ ItemStorageDB = {
                     count = 66,
                 },
                 {
+                    link = "|cffffffff|Hitem:34763:0:0:0:0:0:0:0:10|h[Копченый лосось]|h|r",
+                    name = "Копченый лосось",
+                    count = 36,
+                },
+                {
                     link = "|cffffffff|Hitem:39691:0:0:0:0:0:0:0:10|h[Наваристая похлебка из косатки]|h|r",
                     name = "Наваристая похлебка из косатки",
                     count = 20,
@@ -7780,7 +7790,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791821275,
+            last_update = 1791826434,
             items = {
             },
         },
