@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791825689
+ItemStorageDB_LastUpdate = 1791825743
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19083,9 +19083,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 19:52:16",
+        updated_at = "2026-10-12 20:22:23",
         money = 336703,
-        empty = 95,
+        empty = 94,
         location = "Оргриммар",
         items = {
             {
@@ -19639,6 +19639,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:44441:0:0:0:0:0:0:0:10|h[Темный нагрудный доспех жителя льдов]|h|r",
+                name = "Темный нагрудный доспех жителя льдов",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:44649:0:0:0:0:0:-41:75:10|h[Ноготь Хрусталедуба с меткой зверя]|h|r",
                 name = "Ноготь Хрусталедуба с меткой зверя",
                 count = 1,
@@ -19925,7 +19930,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791823929,
+            last_update = 1791825730,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
@@ -20760,11 +20765,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791823930,
+            last_update = 1791825736,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
                     name = "Тотем бури",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:44441:0:0:0:0:0:0:0:10|h[Темный нагрудный доспех жителя льдов]|h|r",
+                    name = "Темный нагрудный доспех жителя льдов",
                     count = 1,
                 },
             },
