@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791825785
+ItemStorageDB_LastUpdate = 1791825855
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16288,9 +16288,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 19:45:36",
+        updated_at = "2026-10-12 20:24:15",
         money = 108852,
-        empty = 73,
+        empty = 70,
         location = "Оргриммар",
         items = {
             {
@@ -16749,6 +16749,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:4251:0:0:0:0:0:0:0:10|h[Наплечники жителя холмов]|h|r",
+                name = "Наплечники жителя холмов",
+                count = 3,
+            },
+            {
                 link = "|cff1eff00|Hitem:4314:0:0:0:0:0:0:0:10|h[Шерстяные наплечники с двойным швом]|h|r",
                 name = "Шерстяные наплечники с двойным швом",
                 count = 2,
@@ -17110,7 +17115,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791823529,
+            last_update = 1791825848,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -17438,6 +17443,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:4251:0:0:0:0:0:0:0:10|h[Наплечники жителя холмов]|h|r",
+                    name = "Наплечники жителя холмов",
+                    count = 3,
+                },
+                {
                     link = "|cff1eff00|Hitem:4314:0:0:0:0:0:0:0:10|h[Шерстяные наплечники с двойным швом]|h|r",
                     name = "Шерстяные наплечники с двойным швом",
                     count = 2,
@@ -17680,7 +17690,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791823530,
+            last_update = 1791825849,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
