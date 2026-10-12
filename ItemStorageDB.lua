@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791822827
+ItemStorageDB_LastUpdate = 1791822921
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21972,10 +21972,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 12:56:47",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-12 19:35:21",
         money = 194111,
-        empty = 136,
+        empty = 133,
         location = "Оргриммар",
         items = {
             {
@@ -21986,7 +21986,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                 name = "Кольцо защиты",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -22016,7 +22016,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                 name = "Колье Ярости Реки",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
@@ -22169,6 +22169,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:12055:0:0:0:0:0:0:0:10|h[Кольцо звездной пыли]|h|r",
+                name = "Кольцо звездной пыли",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
                 name = "Серебряное кольцо могущества",
                 count = 1,
@@ -22270,12 +22275,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791798933,
+            last_update = 1791822913,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                     name = "Кольцо защиты",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -22388,6 +22393,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:12055:0:0:0:0:0:0:0:10|h[Кольцо звездной пыли]|h|r",
+                    name = "Кольцо звездной пыли",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
                     name = "Серебряное кольцо могущества",
                     count = 1,
@@ -22480,7 +22490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791798944,
+            last_update = 1791822915,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22505,7 +22515,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                     name = "Колье Ярости Реки",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
