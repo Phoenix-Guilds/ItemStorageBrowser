@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791823936
+ItemStorageDB_LastUpdate = 1791823992
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10438,9 +10438,9 @@ ItemStorageDB = {
     {
         name = "Нордочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-06 21:23:42",
+        updated_at = "2026-10-12 19:53:12",
         money = 3778,
-        empty = 54,
+        empty = 53,
         location = "Оргриммар",
         items = {
             {
@@ -10959,6 +10959,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:36459:0:0:0:0:0:-23:37:10|h[Ледяная сфера с магической аурой]|h|r",
+                name = "Ледяная сфера с магической аурой",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:36473:0:0:0:0:0:-40:29:10|h[Кинжал первопроходца с меткой преступника]|h|r",
                 name = "Кинжал первопроходца с меткой преступника",
                 count = 1,
@@ -11190,7 +11195,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791311015,
+            last_update = 1791823981,
             items = {
                 {
                     link = "|cff1eff00|Hitem:35955:0:0:0:0:0:-37:50:10|h[Далеченский пояс с меткой целителя]|h|r",
@@ -11708,6 +11713,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:36459:0:0:0:0:0:-23:37:10|h[Ледяная сфера с магической аурой]|h|r",
+                    name = "Ледяная сфера с магической аурой",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:36560:0:0:0:0:0:-19:32:10|h[Захваты бойца со знаком интеллекта]|h|r",
                     name = "Захваты бойца со знаком интеллекта",
                     count = 1,
@@ -11730,7 +11740,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791311016,
+            last_update = 1791823986,
             items = {
                 {
                     link = "|cff1eff00|Hitem:36473:0:0:0:0:0:-40:29:10|h[Кинжал первопроходца с меткой преступника]|h|r",
