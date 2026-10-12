@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791823694
+ItemStorageDB_LastUpdate = 1791823740
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18413,9 +18413,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 19:04:55",
+        updated_at = "2026-10-12 19:49:00",
         money = 975064,
-        empty = 102,
+        empty = 101,
         location = "Оргриммар",
         items = {
             {
@@ -18486,7 +18486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                 name = "Мироцвет",
-                count = 443,
+                count = 444,
             },
             {
                 link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
@@ -18656,7 +18656,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                 name = "Пастушья сумка",
-                count = 149,
+                count = 151,
             },
             {
                 link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
@@ -18675,7 +18675,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791821084,
+            last_update = 1791823733,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18730,7 +18730,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
                     name = "Мироцвет",
-                    count = 443,
+                    count = 444,
                 },
                 {
                     link = "|cffffffff|Hitem:2449:0:0:0:0:0:0:0:10|h[Земляной корень]|h|r",
@@ -18865,7 +18865,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8839:0:0:0:0:0:0:0:10|h[Пастушья сумка]|h|r",
                     name = "Пастушья сумка",
-                    count = 149,
+                    count = 151,
                 },
                 {
                     link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
@@ -18880,7 +18880,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791821090,
+            last_update = 1791823735,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
