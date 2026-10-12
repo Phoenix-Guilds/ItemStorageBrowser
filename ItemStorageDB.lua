@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791828054
+ItemStorageDB_LastUpdate = 1791828104
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7568,9 +7568,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 20:33:59",
+        updated_at = "2026-10-12 21:01:44",
         money = 0,
-        empty = 194,
+        empty = 192,
         location = "Оргриммар",
         items = {
             {
@@ -7586,6 +7586,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
                 name = "Хрустящий паучий десерт",
+                count = 4,
+            },
+            {
+                link = "|cffffffff|Hitem:22788:0:0:0:0:0:0:0:10|h[Огненный зев]|h|r",
+                name = "Огненный зев",
                 count = 4,
             },
             {
@@ -7617,6 +7622,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:27666:0:0:0:0:0:0:0:10|h[Палочки из золотой рыбки]|h|r",
                 name = "Палочки из золотой рыбки",
                 count = 16,
+            },
+            {
+                link = "|cffffffff|Hitem:29292:0:0:0:0:0:0:0:10|h[Зловепревая ветчина]|h|r",
+                name = "Зловепревая ветчина",
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
@@ -7680,7 +7690,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791826385,
+            last_update = 1791828096,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7695,6 +7705,11 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
                     name = "Хрустящий паучий десерт",
+                    count = 4,
+                },
+                {
+                    link = "|cffffffff|Hitem:22788:0:0:0:0:0:0:0:10|h[Огненный зев]|h|r",
+                    name = "Огненный зев",
                     count = 4,
                 },
                 {
@@ -7726,6 +7741,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:27666:0:0:0:0:0:0:0:10|h[Палочки из золотой рыбки]|h|r",
                     name = "Палочки из золотой рыбки",
                     count = 16,
+                },
+                {
+                    link = "|cffffffff|Hitem:29292:0:0:0:0:0:0:0:10|h[Зловепревая ветчина]|h|r",
+                    name = "Зловепревая ветчина",
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
@@ -7790,7 +7810,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791826434,
+            last_update = 1791828099,
             items = {
             },
         },
