@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791828577
+ItemStorageDB_LastUpdate = 1791828624
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2368,9 +2368,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 19:44:56",
+        updated_at = "2026-10-12 21:10:24",
         money = 92710,
-        empty = 58,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -2501,7 +2501,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
                 name = "Рапира из быстростали",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13035:0:0:0:0:0:0:0:10|h[Змеиный тесак]|h|r",
@@ -2869,6 +2869,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:14555:0:0:0:0:0:0:0:10|h[Солнечное лезвие Алькора]|h|r",
+                name = "Солнечное лезвие Алькора",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:1982:0:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
                 name = "Ночной клинок",
                 count = 1,
@@ -2970,7 +2975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791823473,
+            last_update = 1791828617,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3490,7 +3495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791823488,
+            last_update = 1791828619,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3520,7 +3525,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
                     name = "Рапира из быстростали",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
@@ -3626,6 +3631,11 @@ ItemStorageDB = {
                     link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
                     name = "Зеленая башня",
                     count = 2,
+                },
+                {
+                    link = "|cffa335ee|Hitem:14555:0:0:0:0:0:0:0:10|h[Солнечное лезвие Алькора]|h|r",
+                    name = "Солнечное лезвие Алькора",
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:2163:0:0:0:0:0:0:0:10|h[Теневой клинок]|h|r",
