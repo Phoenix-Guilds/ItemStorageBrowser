@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791821144
+ItemStorageDB_LastUpdate = 1791821230
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9857,8 +9857,8 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-07 10:34:20",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-12 19:07:10",
         money = 213874,
         empty = 77,
         location = "Оргриммар",
@@ -9896,7 +9896,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
                 name = "Красное волчье мясо",
-                count = 289,
+                count = 296,
             },
             {
                 link = "|cffffffff|Hitem:12205:0:0:0:0:0:0:0:10|h[Белое мясо паука]|h|r",
@@ -9911,12 +9911,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                 name = "Гигантское яйцо",
-                count = 88,
+                count = 96,
             },
             {
                 link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
                 name = "Нежная волчатина",
-                count = 190,
+                count = 211,
             },
             {
                 link = "|cffffffff|Hitem:12223:0:0:0:0:0:0:0:10|h[Мясистое крыло летучей мыши]|h|r",
@@ -10124,11 +10124,6 @@ ItemStorageDB = {
                 count = 6,
             },
             {
-                link = "|cffffffff|Hitem:6657:0:0:0:0:0:0:0:10|h[Загадочное острое лакомство]|h|r",
-                name = "Загадочное острое лакомство",
-                count = 20,
-            },
-            {
                 link = "|cffffffff|Hitem:6889:0:0:0:0:0:0:0:10|h[Небольшое яйцо]|h|r",
                 name = "Небольшое яйцо",
                 count = 100,
@@ -10150,7 +10145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791358454,
+            last_update = 1791821211,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10185,7 +10180,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
                     name = "Красное волчье мясо",
-                    count = 289,
+                    count = 296,
                 },
                 {
                     link = "|cffffffff|Hitem:12205:0:0:0:0:0:0:0:10|h[Белое мясо паука]|h|r",
@@ -10200,12 +10195,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                     name = "Гигантское яйцо",
-                    count = 88,
+                    count = 96,
                 },
                 {
                     link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
                     name = "Нежная волчатина",
-                    count = 190,
+                    count = 211,
                 },
                 {
                     link = "|cffffffff|Hitem:12223:0:0:0:0:0:0:0:10|h[Мясистое крыло летучей мыши]|h|r",
@@ -10408,11 +10403,6 @@ ItemStorageDB = {
                     count = 6,
                 },
                 {
-                    link = "|cffffffff|Hitem:6657:0:0:0:0:0:0:0:10|h[Загадочное острое лакомство]|h|r",
-                    name = "Загадочное острое лакомство",
-                    count = 20,
-                },
-                {
                     link = "|cffffffff|Hitem:6889:0:0:0:0:0:0:0:10|h[Небольшое яйцо]|h|r",
                     name = "Небольшое яйцо",
                     count = 100,
@@ -10435,7 +10425,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791358455,
+            last_update = 1791821222,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
