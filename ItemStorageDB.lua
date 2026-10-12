@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791837827
+ItemStorageDB_LastUpdate = 1791839535
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21013,9 +21013,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 20:49:46",
+        updated_at = "2026-10-13 00:12:15",
         money = 203936,
-        empty = 66,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -21067,6 +21067,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13009:0:0:0:0:0:0:0:10|h[Шкура Коровьего Короля]|h|r",
                 name = "Шкура Коровьего Короля",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
+                name = "Набедренники Снопевца",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -21605,7 +21610,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791827377,
+            last_update = 1791839508,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22150,11 +22155,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791827379,
+            last_update = 1791839530,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
                     name = "Ветродольские брюки",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
+                    name = "Набедренники Снопевца",
                     count = 1,
                 },
                 {
