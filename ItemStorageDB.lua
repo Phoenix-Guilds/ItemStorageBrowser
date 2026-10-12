@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1791795481
+ItemStorageDB_LastUpdate = 1791795626
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 11:58:01",
+        updated_at = "2026-10-12 12:00:26",
         money = 339404,
         empty = 110,
         location = "Оргриммар",
@@ -96,7 +96,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40922:0:0:0:0:0:0:0:10|h[Символ гнева]|h|r",
                 name = "Символ гнева",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:40923:0:0:0:0:0:0:0:10|h[Символ лунного огня]|h|r",
@@ -659,6 +659,11 @@ ItemStorageDB = {
                 count = 6,
             },
             {
+                link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
+                name = "Символ шипов",
+                count = 7,
+            },
+            {
                 link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
                 name = "Символ вызывающего рева",
                 count = 5,
@@ -1175,7 +1180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791795392,
+            last_update = 1791795618,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1828,6 +1833,11 @@ ItemStorageDB = {
                     count = 6,
                 },
                 {
+                    link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
+                    name = "Символ шипов",
+                    count = 7,
+                },
+                {
                     link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
                     name = "Символ вызывающего рева",
                     count = 5,
@@ -2345,13 +2355,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791795452,
+            last_update = 1791795620,
             items = {
-                {
-                    link = "|cffffffff|Hitem:40922:0:0:0:0:0:0:0:10|h[Символ гнева]|h|r",
-                    name = "Символ гнева",
-                    count = 1,
-                },
             },
         },
     },
