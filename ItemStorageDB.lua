@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791807456
+ItemStorageDB_LastUpdate = 1791808078
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8243,7 +8243,7 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 13:33:24",
+        updated_at = "2026-10-12 15:27:58",
         money = 141967,
         empty = 159,
         location = "Оргриммар",
@@ -8364,11 +8364,6 @@ ItemStorageDB = {
                 count = 8,
             },
             {
-                link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
-                name = "Медная руда",
-                count = 23,
-            },
-            {
                 link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                 name = "Оловянная руда",
                 count = 73,
@@ -8425,7 +8420,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791801190,
+            last_update = 1791807645,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8475,7 +8470,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
                     name = "Золотой слиток",
-                    count = 265,
+                    count = 264,
                 },
                 {
                     link = "|cff1eff00|Hitem:36910:0:0:0:0:0:0:0:10|h[Титановая руда]|h|r",
@@ -8543,11 +8538,6 @@ ItemStorageDB = {
                     count = 8,
                 },
                 {
-                    link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
-                    name = "Медная руда",
-                    count = 23,
-                },
-                {
                     link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                     name = "Оловянная руда",
                     count = 73,
@@ -8605,8 +8595,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791801196,
+            last_update = 1791807647,
             items = {
+                {
+                    link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
+                    name = "Золотой слиток",
+                    count = 1,
+                },
             },
         },
     },
