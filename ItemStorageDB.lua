@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791830397
+ItemStorageDB_LastUpdate = 1791830443
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13418,9 +13418,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 21:05:42",
+        updated_at = "2026-10-12 21:40:43",
         money = 164134,
-        empty = 24,
+        empty = 23,
         location = "Оргриммар",
         items = {
             {
@@ -13461,6 +13461,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:15752:0:0:0:0:0:0:0:10|h[Выкройка: поножи жизни]|h|r",
                 name = "Выкройка: поножи жизни",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:15753:0:0:0:0:0:0:0:10|h[Выкройка: доспех Грозовой Покров]|h|r",
+                name = "Выкройка: доспех Грозовой Покров",
                 count = 1,
             },
             {
@@ -14585,7 +14590,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791828335,
+            last_update = 1791830434,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -15400,7 +15405,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791828336,
+            last_update = 1791830437,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
@@ -15410,6 +15415,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:15733:0:0:0:0:0:0:0:10|h[Выкройка: поножи из чешуи зеленого дракона]|h|r",
                     name = "Выкройка: поножи из чешуи зеленого дракона",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:15753:0:0:0:0:0:0:0:10|h[Выкройка: доспех Грозовой Покров]|h|r",
+                    name = "Выкройка: доспех Грозовой Покров",
                     count = 1,
                 },
                 {
