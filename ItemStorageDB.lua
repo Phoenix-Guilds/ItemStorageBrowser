@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791823496
+ItemStorageDB_LastUpdate = 1791823536
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16228,9 +16228,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 19:33:47",
+        updated_at = "2026-10-12 19:45:36",
         money = 108852,
-        empty = 74,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -16859,6 +16859,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:6571:0:0:0:0:0:97:0:10|h[Кулачный щит лазутчика со знаком силы]|h|r",
+                name = "Кулачный щит лазутчика со знаком силы",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:6571:929:0:0:0:0:111:0:10|h[Кулачный щит лазутчика со знаком ловкости]|h|r",
                 name = "Кулачный щит лазутчика со знаком ловкости",
                 count = 1,
@@ -17045,7 +17050,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791822819,
+            last_update = 1791823529,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -17615,7 +17620,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791822820,
+            last_update = 1791823530,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
@@ -17796,6 +17801,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:5540:20239:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
                     name = "Кинжал с жемчужной рукояткой",
                     count = 2,
+                },
+                {
+                    link = "|cff1eff00|Hitem:6571:0:0:0:0:0:97:0:10|h[Кулачный щит лазутчика со знаком силы]|h|r",
+                    name = "Кулачный щит лазутчика со знаком силы",
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:727:20239:0:0:0:0:6:0:10|h[Зубчатый короткий меч со знаком силы]|h|r",
