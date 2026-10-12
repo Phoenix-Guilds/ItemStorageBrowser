@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791828002
+ItemStorageDB_LastUpdate = 1791828054
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18468,7 +18468,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 19:49:00",
+        updated_at = "2026-10-12 21:00:54",
         money = 975064,
         empty = 101,
         location = "Оргриммар",
@@ -18521,7 +18521,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
                 name = "Ледяной зев",
-                count = 23,
+                count = 35,
             },
             {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
@@ -18716,7 +18716,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                 name = "Призрачная поганка",
-                count = 121,
+                count = 141,
             },
             {
                 link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
@@ -18730,7 +18730,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791823733,
+            last_update = 1791828046,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18765,7 +18765,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
                     name = "Ледяной зев",
-                    count = 23,
+                    count = 35,
                 },
                 {
                     link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
@@ -18925,7 +18925,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8845:0:0:0:0:0:0:0:10|h[Призрачная поганка]|h|r",
                     name = "Призрачная поганка",
-                    count = 121,
+                    count = 141,
                 },
                 {
                     link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
@@ -18935,7 +18935,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791823735,
+            last_update = 1791828048,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
