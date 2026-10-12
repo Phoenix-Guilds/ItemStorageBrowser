@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1791799007
+ItemStorageDB_LastUpdate = 1791799159
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 12:00:26",
+        updated_at = "2026-10-12 12:59:19",
         money = 339404,
-        empty = 110,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
@@ -1180,7 +1180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791795618,
+            last_update = 1791799147,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1285,7 +1285,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                     name = "Символ правосудия",
-                    count = 9,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
@@ -2355,8 +2355,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791795620,
+            last_update = 1791799150,
             items = {
+                {
+                    link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
+                    name = "Символ правосудия",
+                    count = 1,
+                },
             },
         },
     },
