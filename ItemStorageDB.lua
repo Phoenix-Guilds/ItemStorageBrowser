@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791826439
+ItemStorageDB_LastUpdate = 1791826608
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8137,10 +8137,10 @@ ItemStorageDB = {
     },
     {
         name = "Ларец",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-27 14:58:50",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-12 20:36:48",
         money = 3254,
-        empty = 122,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -8181,7 +8181,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4638:0:0:0:0:0:0:0:10|h[Укрепленный стальной сейф]|h|r",
                 name = "Укрепленный стальной сейф",
-                count = 6,
+                count = 7,
             },
             {
                 link = "|cff1eff00|Hitem:5758:0:0:0:0:0:0:0:10|h[Мифриловый сейф]|h|r",
@@ -8215,7 +8215,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790510325,
+            last_update = 1791826502,
             items = {
                 {
                     link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
@@ -8255,7 +8255,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4638:0:0:0:0:0:0:0:10|h[Укрепленный стальной сейф]|h|r",
                     name = "Укрепленный стальной сейф",
-                    count = 6,
+                    count = 7,
                 },
                 {
                     link = "|cff1eff00|Hitem:5758:0:0:0:0:0:0:0:10|h[Мифриловый сейф]|h|r",
@@ -8290,7 +8290,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790510325,
+            last_update = 1791826502,
             items = {
             },
         },
