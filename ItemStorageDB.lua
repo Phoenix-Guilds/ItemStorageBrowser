@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791832416
+ItemStorageDB_LastUpdate = 1791832470
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10013,9 +10013,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 21:52:55",
+        updated_at = "2026-10-12 22:14:30",
         money = 213874,
-        empty = 74,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -10081,7 +10081,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:20424:0:0:0:0:0:0:0:10|h[Мясо песчаного червя]|h|r",
                 name = "Мясо песчаного червя",
-                count = 77,
+                count = 81,
             },
             {
                 link = "|cffffffff|Hitem:2251:0:0:0:0:0:0:0:10|h[Липкая паучья лапка]|h|r",
@@ -10096,7 +10096,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24477:0:0:0:0:0:0:0:10|h[Мясо джаггала]|h|r",
                 name = "Мясо джаггала",
-                count = 272,
+                count = 281,
             },
             {
                 link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
@@ -10126,7 +10126,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27671:0:0:0:0:0:0:0:10|h[Мясо канюка]|h|r",
                 name = "Мясо канюка",
-                count = 150,
+                count = 173,
             },
             {
                 link = "|cffffffff|Hitem:27674:0:0:0:0:0:0:0:10|h[Плоть опустошителя]|h|r",
@@ -10300,7 +10300,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791831083,
+            last_update = 1791832462,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10365,7 +10365,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:20424:0:0:0:0:0:0:0:10|h[Мясо песчаного червя]|h|r",
                     name = "Мясо песчаного червя",
-                    count = 77,
+                    count = 81,
                 },
                 {
                     link = "|cffffffff|Hitem:2251:0:0:0:0:0:0:0:10|h[Липкая паучья лапка]|h|r",
@@ -10380,7 +10380,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:24477:0:0:0:0:0:0:0:10|h[Мясо джаггала]|h|r",
                     name = "Мясо джаггала",
-                    count = 272,
+                    count = 281,
                 },
                 {
                     link = "|cffffffff|Hitem:2672:0:0:0:0:0:0:0:10|h[Жилистая волчатина]|h|r",
@@ -10410,7 +10410,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:27671:0:0:0:0:0:0:0:10|h[Мясо канюка]|h|r",
                     name = "Мясо канюка",
-                    count = 150,
+                    count = 173,
                 },
                 {
                     link = "|cffffffff|Hitem:27674:0:0:0:0:0:0:0:10|h[Плоть опустошителя]|h|r",
@@ -10580,7 +10580,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791831169,
+            last_update = 1791832465,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
