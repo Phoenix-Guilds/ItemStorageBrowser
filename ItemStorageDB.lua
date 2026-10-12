@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791802829
+ItemStorageDB_LastUpdate = 1791807456
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16288,9 +16288,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 12:54:49",
+        updated_at = "2026-10-12 15:17:36",
         money = 108852,
-        empty = 76,
+        empty = 79,
         location = "Оргриммар",
         items = {
             {
@@ -16529,14 +16529,9 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:2315:929:0:0:0:0:0:0:10|h[Темные кожаные сапоги]|h|r",
-                name = "Темные кожаные сапоги",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:2317:1892:0:0:0:0:0:0:10|h[Темный кожаный мундир]|h|r",
                 name = "Темный кожаный мундир",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:2583:929:0:0:0:0:0:0:10|h[Шерстяные сапоги]|h|r",
@@ -16951,7 +16946,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7282:0:0:0:0:0:0:0:10|h[Штаны из тонкой кожи]|h|r",
                 name = "Штаны из тонкой кожи",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:7554:0:0:0:0:0:842:0:10|h[Ивовая ветвь со знаком орла]|h|r",
@@ -17085,7 +17080,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791798868,
+            last_update = 1791807377,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -17263,14 +17258,9 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:2315:929:0:0:0:0:0:0:10|h[Темные кожаные сапоги]|h|r",
-                    name = "Темные кожаные сапоги",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:2317:1892:0:0:0:0:0:0:10|h[Темный кожаный мундир]|h|r",
                     name = "Темный кожаный мундир",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:2583:929:0:0:0:0:0:0:10|h[Шерстяные сапоги]|h|r",
@@ -17570,7 +17560,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7282:0:0:0:0:0:0:0:10|h[Штаны из тонкой кожи]|h|r",
                     name = "Штаны из тонкой кожи",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:7554:0:0:0:0:0:842:0:10|h[Ивовая ветвь со знаком орла]|h|r",
@@ -17650,7 +17640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791798883,
+            last_update = 1791807421,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11288:0:0:0:0:0:0:0:10|h[Большой магический жезл]|h|r",
