@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791917740
+ItemStorageDB_LastUpdate = 1791919351
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13427,10 +13427,10 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-13 19:52:55",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-13 22:22:31",
         money = 164134,
-        empty = 24,
+        empty = 25,
         location = "Оргриммар",
         items = {
             {
@@ -14236,7 +14236,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6661:0:0:0:0:0:0:0:10|h[Рецепт: загадочное острое лакомство]|h|r",
                 name = "Рецепт: загадочное острое лакомство",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
@@ -14595,7 +14595,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791910353,
+            last_update = 1791919202,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -15140,7 +15140,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:6661:0:0:0:0:0:0:0:10|h[Рецепт: загадочное острое лакомство]|h|r",
                     name = "Рецепт: загадочное острое лакомство",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
@@ -15410,7 +15410,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791910367,
+            last_update = 1791919334,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
