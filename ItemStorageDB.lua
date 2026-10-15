@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792091125
+ItemStorageDB_LastUpdate = 1792091199
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8373,9 +8373,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-13 00:27:09",
+        updated_at = "2026-10-15 22:06:39",
         money = 141967,
-        empty = 159,
+        empty = 167,
         location = "Оргриммар",
         items = {
             {
@@ -8506,7 +8506,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                 name = "Бронзовый слиток",
-                count = 174,
+                count = 85,
             },
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
@@ -8546,11 +8546,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
-                count = 620,
+                count = 320,
             },
         },
         bank = {
-            last_update = 1791840304,
+            last_update = 1792091176,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8680,7 +8680,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                     name = "Бронзовый слиток",
-                    count = 100,
+                    count = 85,
                 },
                 {
                     link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
@@ -8720,17 +8720,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                     name = "Мифриловый слиток",
-                    count = 620,
+                    count = 250,
                 },
             },
         },
         bags = {
-            last_update = 1791840307,
+            last_update = 1792091186,
             items = {
                 {
-                    link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
-                    name = "Бронзовый слиток",
-                    count = 74,
+                    link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
+                    name = "Мифриловый слиток",
+                    count = 70,
                 },
             },
         },
