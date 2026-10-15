@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1791923008
+ItemStorageDB_LastUpdate = 1792079763
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9617,10 +9617,10 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-13 23:23:28",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-15 18:56:03",
         money = 14062,
-        empty = 81,
+        empty = 82,
         location = "Оргриммар",
         items = {
             {
@@ -9641,7 +9641,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 44,
+                count = 43,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -9651,7 +9651,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
-                count = 40,
+                count = 39,
             },
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -9810,7 +9810,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791922998,
+            last_update = 1791829401,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
@@ -9990,17 +9990,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791922998,
+            last_update = 1792079756,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 44,
+                    count = 43,
                 },
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                     name = "Мифриловая обшивка",
-                    count = 40,
+                    count = 39,
                 },
             },
         },
