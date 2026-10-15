@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792092823
+ItemStorageDB_LastUpdate = 1792092870
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13427,10 +13427,10 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-13 22:22:31",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-15 22:34:30",
         money = 164134,
-        empty = 25,
+        empty = 24,
         location = "Оргриммар",
         items = {
             {
@@ -14164,6 +14164,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:5578:0:0:0:0:0:0:0:10|h[Чертеж: посеребренная бронзовая кираса]|h|r",
+                name = "Чертеж: посеребренная бронзовая кираса",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:5774:0:0:0:0:0:0:0:10|h[Выкройка: зеленая шелковая сума]|h|r",
                 name = "Выкройка: зеленая шелковая сума",
                 count = 1,
@@ -14595,7 +14600,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791919202,
+            last_update = 1792092860,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -15103,6 +15108,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:5578:0:0:0:0:0:0:0:10|h[Чертеж: посеребренная бронзовая кираса]|h|r",
+                    name = "Чертеж: посеребренная бронзовая кираса",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:5972:0:0:0:0:0:0:0:10|h[Выкройка: тонкие кожаные штаны]|h|r",
                     name = "Выкройка: тонкие кожаные штаны",
                     count = 1,
@@ -15410,7 +15420,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791919334,
+            last_update = 1792092863,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
