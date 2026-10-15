@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792092941
+ItemStorageDB_LastUpdate = 1792094873
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2368,9 +2368,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-15 20:55:09",
+        updated_at = "2026-10-15 23:07:53",
         money = 92710,
-        empty = 56,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -2411,7 +2411,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -2970,7 +2970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792086892,
+            last_update = 1792094841,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3003,14 +3003,9 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
-                    name = "Дубина Ракзура",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
                     name = "Лезвие бритвы",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:12992:0:0:0:0:0:0:0:10|h[Пламенеющий клинок]|h|r",
@@ -3191,6 +3186,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
                     name = "Игольщик",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1481:0:0:0:0:0:0:0:10|h[Лютый Коготь]|h|r",
+                    name = "Лютый Коготь",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
@@ -3490,7 +3490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792086902,
+            last_update = 1792094860,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3500,11 +3500,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
-                    name = "Лезвие бритвы",
                     count = 1,
                 },
                 {
@@ -3556,11 +3551,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
                     name = "Фамильный щит Гарреттов",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:1481:0:0:0:0:0:0:0:10|h[Лютый Коготь]|h|r",
-                    name = "Лютый Коготь",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
