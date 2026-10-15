@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792094984
+ItemStorageDB_LastUpdate = 1792095028
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4868,7 +4868,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-13 00:47:29",
+        updated_at = "2026-10-15 23:10:28",
         money = 999680,
         empty = 114,
         location = "Оргриммар",
@@ -5131,7 +5131,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 46,
+                count = 45,
             },
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5165,7 +5165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791832364,
+            last_update = 1792095013,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5385,7 +5385,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                     name = "Сердце огня",
-                    count = 46,
+                    count = 45,
                 },
                 {
                     link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5415,7 +5415,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791841410,
+            last_update = 1792095020,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
