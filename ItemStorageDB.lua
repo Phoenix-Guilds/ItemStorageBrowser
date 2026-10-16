@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792155416
+ItemStorageDB_LastUpdate = 1792166516
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19218,9 +19218,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 22:18:57",
+        updated_at = "2026-10-16 19:01:56",
         money = 336703,
-        empty = 89,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -19316,11 +19316,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31173:0:0:0:0:0:0:0:10|h[Сапоги свирепости]|h|r",
                 name = "Сапоги свирепости",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31174:0:0:0:0:0:-6:47:10|h[Вытканное демоном облачение со знаком орла]|h|r",
-                name = "Вытканное демоном облачение со знаком орла",
                 count = 1,
             },
             {
@@ -20090,7 +20085,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791832673,
+            last_update = 1792166408,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
@@ -20175,11 +20170,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31173:0:0:0:0:0:0:0:10|h[Сапоги свирепости]|h|r",
                     name = "Сапоги свирепости",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31174:0:0:0:0:0:-6:47:10|h[Вытканное демоном облачение со знаком орла]|h|r",
-                    name = "Вытканное демоном облачение со знаком орла",
                     count = 1,
                 },
                 {
@@ -20925,7 +20915,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791832730,
+            last_update = 1792166469,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
