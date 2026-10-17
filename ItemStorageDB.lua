@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792268260
+ItemStorageDB_LastUpdate = 1792268771
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10543,9 +10543,9 @@ ItemStorageDB = {
     {
         name = "Нордочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 19:53:12",
+        updated_at = "2026-10-17 23:26:11",
         money = 3778,
-        empty = 53,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -11284,11 +11284,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:40668:1071:0:0:0:0:0:0:10|h[Кобальтовый треугольный щит]|h|r",
-                name = "Кобальтовый треугольный щит",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:42336:0:0:0:0:0:0:0:10|h[Кольцо кровавого камня]|h|r",
                 name = "Кольцо кровавого камня",
                 count = 2,
@@ -11300,7 +11295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791823981,
+            last_update = 1792268292,
             items = {
                 {
                     link = "|cff1eff00|Hitem:35955:0:0:0:0:0:-37:50:10|h[Далеченский пояс с меткой целителя]|h|r",
@@ -11828,11 +11823,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:40668:1071:0:0:0:0:0:0:10|h[Кобальтовый треугольный щит]|h|r",
-                    name = "Кобальтовый треугольный щит",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:42336:0:0:0:0:0:0:0:10|h[Кольцо кровавого камня]|h|r",
                     name = "Кольцо кровавого камня",
                     count = 2,
@@ -11845,7 +11835,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791823986,
+            last_update = 1792268301,
             items = {
                 {
                     link = "|cff1eff00|Hitem:36473:0:0:0:0:0:-40:29:10|h[Кинжал первопроходца с меткой преступника]|h|r",
