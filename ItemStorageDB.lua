@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792268221
+ItemStorageDB_LastUpdate = 1792268260
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12062,16 +12062,16 @@ ItemStorageDB = {
     },
     {
         name = "Ожерельная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-28 09:41:17",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-17 23:17:40",
         money = 13785,
-        empty = 127,
+        empty = 128,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
                 name = "Подвеска Хитрости",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31178:0:0:0:0:0:0:0:10|h[Амулет ускользающего могущества]|h|r",
@@ -12285,7 +12285,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790577620,
+            last_update = 1792268244,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
@@ -12370,7 +12370,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37751:0:0:0:0:0:0:0:10|h[Потеряный коготь Туги]|h|r",
                     name = "Потеряный коготь Туги",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:37758:0:0:0:0:0:0:0:10|h[Неугасающее колье Рейна]|h|r",
@@ -12505,11 +12505,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790577666,
+            last_update = 1792268244,
             items = {
                 {
-                    link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
-                    name = "Подвеска Хитрости",
+                    link = "|cff0070dd|Hitem:37751:0:0:0:0:0:0:0:10|h[Потеряный коготь Туги]|h|r",
+                    name = "Потеряный коготь Туги",
                     count = 1,
                 },
             },
