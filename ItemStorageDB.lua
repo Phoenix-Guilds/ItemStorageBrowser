@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792270304
+ItemStorageDB_LastUpdate = 1792270791
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2368,9 +2368,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-17 23:51:44",
+        updated_at = "2026-10-17 23:59:51",
         money = 92710,
-        empty = 60,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -2696,7 +2696,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
@@ -2960,7 +2960,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792270286,
+            last_update = 1792270411,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3040,7 +3040,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
                     name = "Сокрушитель Безеля",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
@@ -3475,7 +3475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792270295,
+            last_update = 1792270785,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3490,11 +3490,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                     name = "Боевой топор лорда Александра",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13024:0:0:0:0:0:0:0:10|h[Сокрушитель Безеля]|h|r",
-                    name = "Сокрушитель Безеля",
                     count = 1,
                 },
                 {
@@ -3540,11 +3535,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
                     name = "Клеймор бойца",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
-                    name = "Зазубренный боевой топор",
                     count = 1,
                 },
                 {
