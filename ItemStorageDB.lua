@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792238785
+ItemStorageDB_LastUpdate = 1792264787
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2368,9 +2368,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-15 23:07:53",
+        updated_at = "2026-10-17 22:19:47",
         money = 92710,
-        empty = 57,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -2436,12 +2436,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13014:0:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
                 name = "Секира Рин'джи",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:13014:20246:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
-                name = "Секира Рин'джи",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13015:0:0:0:0:0:0:0:10|h[Сератил]|h|r",
@@ -2611,7 +2606,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -2784,11 +2779,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:7786:0:0:0:0:0:0:0:10|h[Головокол]|h|r",
-                name = "Головокол",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                 name = "Корявый ясеневый посох",
                 count = 2,
@@ -2802,6 +2792,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
                 name = "Меч Ханзо",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
+                name = "Клинок Василиска",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:8225:0:0:0:0:0:0:0:10|h[Гниющий пронзатель]|h|r",
@@ -2970,7 +2965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792094841,
+            last_update = 1792264780,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3025,12 +3020,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13014:0:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
                     name = "Секира Рин'джи",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13014:20246:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
-                    name = "Секира Рин'джи",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13015:0:0:0:0:0:0:0:10|h[Сератил]|h|r",
@@ -3490,7 +3480,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792094860,
+            last_update = 1792264781,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3535,7 +3525,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -3588,8 +3578,8 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:7786:0:0:0:0:0:0:0:10|h[Головокол]|h|r",
-                    name = "Головокол",
+                    link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
+                    name = "Клинок Василиска",
                     count = 1,
                 },
                 {
