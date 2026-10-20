@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792489038
+ItemStorageDB_LastUpdate = 1792489116
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12908,9 +12908,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-17 23:11:04",
+        updated_at = "2026-10-20 12:38:36",
         money = 385478,
-        empty = 108,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
@@ -13011,7 +13011,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                 name = "Великая вечная субстанция",
-                count = 14,
+                count = 9,
             },
             {
                 link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
@@ -13076,7 +13076,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                 name = "Арканитовый жезл",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
@@ -13116,7 +13116,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
                 name = "Жезл из оскверненного железа",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
@@ -13150,7 +13150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792267848,
+            last_update = 1792489097,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13250,7 +13250,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                     name = "Великая вечная субстанция",
-                    count = 14,
+                    count = 9,
                 },
                 {
                     link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
@@ -13350,7 +13350,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792267856,
+            last_update = 1792489109,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -13365,7 +13365,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                     name = "Арканитовый жезл",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
@@ -13375,7 +13375,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
                     name = "Жезл из оскверненного железа",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
