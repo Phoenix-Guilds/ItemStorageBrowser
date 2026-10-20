@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792487785
+ItemStorageDB_LastUpdate = 1792488935
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5448,9 +5448,9 @@ ItemStorageDB = {
     {
         name = "Инженерная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 21:46:52",
+        updated_at = "2026-10-20 12:35:35",
         money = 16160,
-        empty = 145,
+        empty = 141,
         location = "Оргриммар",
         items = {
             {
@@ -5544,9 +5544,14 @@ ItemStorageDB = {
                 count = 18,
             },
             {
+                link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
+                name = "Гномский армейский нож",
+                count = 5,
+            },
+            {
                 link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
                 name = "Кирка-молот",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:40893:0:0:0:0:0:0:0:10|h[Заостренная кирка]|h|r",
@@ -5635,7 +5640,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791830570,
+            last_update = 1792488914,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5726,6 +5731,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:39690:0:0:0:0:0:0:0:10|h[Неустойчивый детонатор]|h|r",
                     name = "Неустойчивый детонатор",
                     count = 18,
+                },
+                {
+                    link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
+                    name = "Гномский армейский нож",
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
@@ -5820,13 +5830,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791830633,
+            last_update = 1792488917,
             items = {
-                {
-                    link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
-                    name = "Кирка-молот",
-                    count = 1,
-                },
             },
         },
     },
