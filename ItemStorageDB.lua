@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792492639
+ItemStorageDB_LastUpdate = 1792493277
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5458,7 +5458,7 @@ ItemStorageDB = {
     {
         name = "Инженерная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-20 12:35:35",
+        updated_at = "2026-10-20 13:47:57",
         money = 16160,
         empty = 141,
         location = "Оргриммар",
@@ -5650,7 +5650,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792488914,
+            last_update = 1792493186,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5745,7 +5745,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
                     name = "Гномский армейский нож",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
@@ -5840,8 +5840,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792488917,
+            last_update = 1792493200,
             items = {
+                {
+                    link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
+                    name = "Гномский армейский нож",
+                    count = 1,
+                },
             },
         },
     },
