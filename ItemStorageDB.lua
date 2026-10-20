@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792484156
+ItemStorageDB_LastUpdate = 1792484319
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2368,9 +2368,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-17 23:59:51",
+        updated_at = "2026-10-20 11:18:39",
         money = 92710,
-        empty = 61,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2596,7 +2596,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
                 name = "Каменный ворон",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
@@ -2960,7 +2960,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792270411,
+            last_update = 1792484287,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3165,7 +3165,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
                     name = "Каменный ворон",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
@@ -3475,7 +3475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792270785,
+            last_update = 1792484298,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
