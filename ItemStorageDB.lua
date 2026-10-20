@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792512636
+ItemStorageDB_LastUpdate = 1792516026
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15562,8 +15562,8 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-09-29 10:10:19",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-20 20:07:06",
         money = 4042,
         empty = 160,
         location = "Оргриммар",
@@ -15581,7 +15581,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                 name = "Сырой летний окунь",
-                count = 29,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
@@ -15690,7 +15690,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790665813,
+            last_update = 1792516004,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15705,7 +15705,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
                     name = "Сырой летний окунь",
-                    count = 29,
+                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
@@ -15815,7 +15815,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790665814,
+            last_update = 1792516014,
             items = {
             },
         },
