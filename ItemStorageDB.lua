@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792517745
+ItemStorageDB_LastUpdate = 1792520916
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17863,9 +17863,9 @@ ItemStorageDB = {
     {
         name = "Сумчатая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-20 20:35:45",
+        updated_at = "2026-10-20 21:28:36",
         money = 45,
-        empty = 77,
+        empty = 79,
         location = "Оргриммар",
         items = {
             {
@@ -17886,7 +17886,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 71,
+                count = 69,
             },
             {
                 link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
@@ -17920,7 +17920,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792517732,
+            last_update = 1792520757,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
@@ -17940,7 +17940,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                     name = "Сумка из ткани Пустоты",
-                    count = 31,
+                    count = 29,
                 },
                 {
                     link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
@@ -17975,7 +17975,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792517739,
+            last_update = 1792520911,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
