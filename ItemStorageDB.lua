@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792502159
+ItemStorageDB_LastUpdate = 1792502266
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12918,9 +12918,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-20 14:51:47",
+        updated_at = "2026-10-20 16:17:46",
         money = 385478,
-        empty = 112,
+        empty = 113,
         location = "Оргриммар",
         items = {
             {
@@ -13021,7 +13021,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
                 name = "Великая планарная субстанция",
-                count = 4,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:22447:0:0:0:0:0:0:0:10|h[Простая планарная субстанция]|h|r",
@@ -13126,7 +13126,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
                 name = "Этерниевый жезл",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:34054:0:0:0:0:0:0:0:10|h[Абсолютная пыль]|h|r",
@@ -13150,7 +13150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792497038,
+            last_update = 1792502227,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13250,7 +13250,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
                     name = "Великая планарная субстанция",
-                    count = 4,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:22447:0:0:0:0:0:0:0:10|h[Простая планарная субстанция]|h|r",
@@ -13340,7 +13340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792497067,
+            last_update = 1792502234,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -13375,7 +13375,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
                     name = "Этерниевый жезл",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:41745:0:0:0:0:0:0:0:10|h[Титановый жезл]|h|r",
