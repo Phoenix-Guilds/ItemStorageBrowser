@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792493478
+ItemStorageDB_LastUpdate = 1792497107
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12918,9 +12918,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-20 12:38:36",
+        updated_at = "2026-10-20 14:51:47",
         money = 385478,
-        empty = 110,
+        empty = 112,
         location = "Оргриммар",
         items = {
             {
@@ -12957,11 +12957,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
                 name = "Малый сверкающий осколок",
                 count = 292,
-            },
-            {
-                link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
-                name = "Большой сверкающий осколок",
-                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -13079,11 +13074,6 @@ ItemStorageDB = {
                 count = 50,
             },
             {
-                link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
-                name = "Пыль иллюзий",
-                count = 2,
-            },
-            {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                 name = "Арканитовый жезл",
                 count = 3,
@@ -13160,7 +13150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792489097,
+            last_update = 1792497038,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13196,11 +13186,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:14343:0:0:0:0:0:0:0:10|h[Малый сверкающий осколок]|h|r",
                     name = "Малый сверкающий осколок",
                     count = 292,
-                },
-                {
-                    link = "|cff0070dd|Hitem:14344:0:0:0:0:0:0:0:10|h[Большой сверкающий осколок]|h|r",
-                    name = "Большой сверкающий осколок",
-                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:0:10|h[Малый радужный осколок]|h|r",
@@ -13308,11 +13293,6 @@ ItemStorageDB = {
                     count = 50,
                 },
                 {
-                    link = "|cffffffff|Hitem:16204:0:0:0:0:0:0:0:10|h[Пыль иллюзий]|h|r",
-                    name = "Пыль иллюзий",
-                    count = 2,
-                },
-                {
                     link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
                     name = "Семена клена",
                     count = 40,
@@ -13360,7 +13340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792489109,
+            last_update = 1792497067,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
