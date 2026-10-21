@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792616673
+ItemStorageDB_LastUpdate = 1792616746
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21128,9 +21128,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:49:45",
+        updated_at = "2026-10-22 00:05:46",
         money = 203936,
-        empty = 66,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -21141,7 +21141,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                 name = "Перчатки Волшебного кулака",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21589,6 +21589,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
+                name = "Святой капюшон",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
                 name = "Черные бархатные одеяния",
                 count = 2,
@@ -21720,7 +21725,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792615775,
+            last_update = 1792616727,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22250,8 +22255,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792615777,
+            last_update = 1792616729,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
+                    name = "Перчатки Волшебного кулака",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
                     name = "Ветродольские брюки",
@@ -22315,6 +22325,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
                     name = "Жезл расплавленного огня",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
+                    name = "Святой капюшон",
                     count = 1,
                 },
                 {
