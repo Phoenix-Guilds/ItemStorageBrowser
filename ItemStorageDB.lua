@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792616362
+ItemStorageDB_LastUpdate = 1792616441
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8378,9 +8378,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:23:35",
+        updated_at = "2026-10-22 00:00:41",
         money = 141967,
-        empty = 163,
+        empty = 158,
         location = "Оргриммар",
         items = {
             {
@@ -8426,7 +8426,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
                 name = "Серебряный слиток",
-                count = 448,
+                count = 464,
             },
             {
                 link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
@@ -8501,7 +8501,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
                 name = "Медная руда",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
@@ -8516,12 +8516,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
                 name = "Медный слиток",
-                count = 102,
+                count = 214,
             },
             {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                 name = "Бронзовый слиток",
-                count = 161,
+                count = 162,
             },
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
@@ -8531,7 +8531,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
                 name = "Оловянный слиток",
-                count = 276,
+                count = 388,
             },
             {
                 link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
@@ -8565,7 +8565,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792614199,
+            last_update = 1792616434,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8610,7 +8610,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
                     name = "Серебряный слиток",
-                    count = 448,
+                    count = 464,
                 },
                 {
                     link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
@@ -8685,7 +8685,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
                     name = "Медная руда",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
@@ -8700,12 +8700,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
                     name = "Медный слиток",
-                    count = 102,
+                    count = 214,
                 },
                 {
                     link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                     name = "Бронзовый слиток",
-                    count = 161,
+                    count = 162,
                 },
                 {
                     link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
@@ -8715,7 +8715,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
                     name = "Оловянный слиток",
-                    count = 276,
+                    count = 388,
                 },
                 {
                     link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
@@ -8750,7 +8750,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792614202,
+            last_update = 1792616436,
             items = {
             },
         },
