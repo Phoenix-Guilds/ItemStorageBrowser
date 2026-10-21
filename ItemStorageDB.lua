@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792617268
+ItemStorageDB_LastUpdate = 1792617303
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6963,9 +6963,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:42:06",
+        updated_at = "2026-10-22 00:15:03",
         money = 181084,
-        empty = 147,
+        empty = 146,
         location = "Оргриммар",
         items = {
             {
@@ -7221,7 +7221,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
                 name = "Тонкая кожа кодо",
-                count = 9,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:5373:0:0:0:0:0:0:0:10|h[Талисман на удачу]|h|r",
@@ -7555,7 +7555,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792615317,
+            last_update = 1792617295,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7631,6 +7631,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:4265:0:0:0:0:0:0:0:10|h[Накладки из толстой кожи]|h|r",
                     name = "Накладки из толстой кожи",
                     count = 6,
+                },
+                {
+                    link = "|cffffffff|Hitem:5082:0:0:0:0:0:0:0:10|h[Тонкая кожа кодо]|h|r",
+                    name = "Тонкая кожа кодо",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:5373:0:0:0:0:0:0:0:10|h[Талисман на удачу]|h|r",
