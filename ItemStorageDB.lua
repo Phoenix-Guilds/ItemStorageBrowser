@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792611947
+ItemStorageDB_LastUpdate = 1792611991
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18888,9 +18888,9 @@ ItemStorageDB = {
     {
         name = "Царапучка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 21:15:22",
+        updated_at = "2026-10-21 22:46:31",
         money = 14656,
-        empty = 101,
+        empty = 100,
         location = "Оргриммар",
         items = {
             {
@@ -18901,7 +18901,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
                 name = "Малая ядовитая железа",
-                count = 83,
+                count = 86,
             },
             {
                 link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
@@ -18911,7 +18911,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4402:0:0:0:0:0:0:0:10|h[Малая пламенная железа]|h|r",
                 name = "Малая пламенная железа",
-                count = 52,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
@@ -18925,7 +18925,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791828915,
+            last_update = 1792611983,
             items = {
                 {
                     link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
@@ -18935,7 +18935,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:1475:0:0:0:0:0:0:0:10|h[Малая ядовитая железа]|h|r",
                     name = "Малая ядовитая железа",
-                    count = 83,
+                    count = 86,
                 },
                 {
                     link = "|cffffffff|Hitem:19441:0:0:0:0:0:0:0:10|h[Огромная ядовитая железа]|h|r",
@@ -18945,7 +18945,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4402:0:0:0:0:0:0:0:10|h[Малая пламенная железа]|h|r",
                     name = "Малая пламенная железа",
-                    count = 52,
+                    count = 53,
                 },
                 {
                     link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
@@ -18960,7 +18960,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791828917,
+            last_update = 1792611984,
             items = {
             },
         },
