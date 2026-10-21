@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792615110
+ItemStorageDB_LastUpdate = 1792615154
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21023,9 +21023,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:10:42",
+        updated_at = "2026-10-21 23:39:14",
         money = 203936,
-        empty = 73,
+        empty = 72,
         location = "Оргриммар",
         items = {
             {
@@ -21181,7 +21181,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13101:0:0:0:0:0:0:0:10|h[Ботинки Волкогонца]|h|r",
                 name = "Ботинки Волкогонца",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13102:0:0:0:0:0:0:0:10|h[Милость Кассандры]|h|r",
@@ -22135,7 +22135,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792613437,
+            last_update = 1792615147,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -22146,6 +22146,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
                     name = "Оплечье старшего волшебника",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13101:0:0:0:0:0:0:0:10|h[Ботинки Волкогонца]|h|r",
+                    name = "Ботинки Волкогонца",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
