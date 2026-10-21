@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792615205
+ItemStorageDB_LastUpdate = 1792615265
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19313,9 +19313,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:06:18",
+        updated_at = "2026-10-21 23:41:05",
         money = 336703,
-        empty = 92,
+        empty = 91,
         location = "Оргриммар",
         items = {
             {
@@ -19342,6 +19342,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:31131:0:0:0:0:0:0:0:10|h[Кушак безмолвных лезвий]|h|r",
                 name = "Кушак безмолвных лезвий",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:31133:0:0:0:0:0:0:0:10|h[Поножи сгустка тьмы]|h|r",
+                name = "Поножи сгустка тьмы",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:31136:0:0:0:0:0:0:0:10|h[Кираса отражения клинков]|h|r",
@@ -21005,11 +21010,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792613172,
+            last_update = 1792615258,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
                     name = "Тотем бури",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31133:0:0:0:0:0:0:0:10|h[Поножи сгустка тьмы]|h|r",
+                    name = "Поножи сгустка тьмы",
                     count = 1,
                 },
                 {
