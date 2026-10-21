@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792611615
+ItemStorageDB_LastUpdate = 1792611696
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9583,7 +9583,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-20 16:15:59",
+        updated_at = "2026-10-21 22:41:36",
         money = 14062,
         empty = 80,
         location = "Оргриммар",
@@ -9596,7 +9596,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -9771,11 +9771,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8932:0:0:0:0:0:0:0:10|h[Альтеракский сыр]|h|r",
                 name = "Альтеракский сыр",
-                count = 27,
+                count = 7,
             },
         },
         bank = {
-            last_update = 1792092676,
+            last_update = 1792611679,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
@@ -9785,7 +9785,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                     name = "Латные перчатки Скверны",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -9950,12 +9950,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8932:0:0:0:0:0:0:0:10|h[Альтеракский сыр]|h|r",
                     name = "Альтеракский сыр",
-                    count = 27,
+                    count = 7,
                 },
             },
         },
         bags = {
-            last_update = 1792502150,
+            last_update = 1792611687,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
