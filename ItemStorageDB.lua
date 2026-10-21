@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792617303
+ItemStorageDB_LastUpdate = 1792617376
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21158,9 +21158,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-22 00:05:46",
+        updated_at = "2026-10-22 00:16:16",
         money = 203936,
-        empty = 64,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -21172,6 +21172,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                 name = "Перчатки Волшебного кулака",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
+                name = "Пояс вестника шторма",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -21755,7 +21760,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792616727,
+            last_update = 1792617367,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22285,11 +22290,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792616729,
+            last_update = 1792617370,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                     name = "Перчатки Волшебного кулака",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
+                    name = "Пояс вестника шторма",
                     count = 1,
                 },
                 {
