@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792617159
+ItemStorageDB_LastUpdate = 1792617230
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4838,7 +4838,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:57:24",
+        updated_at = "2026-10-22 00:13:50",
         money = 999680,
         empty = 115,
         location = "Оргриммар",
@@ -4971,7 +4971,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 21,
+                count = 22,
             },
             {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -5395,7 +5395,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792616229,
+            last_update = 1792617221,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5430,7 +5430,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                     name = "Радужная жемчужина",
-                    count = 21,
+                    count = 22,
                 },
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
