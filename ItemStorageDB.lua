@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792616629
+ItemStorageDB_LastUpdate = 1792616673
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22383,10 +22383,10 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:50:15",
+        updated_at = "2026-10-22 00:04:33",
         money = 194111,
-        empty = 135,
-        location = "",
+        empty = 129,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22594,6 +22594,21 @@ ItemStorageDB = {
                 count = 3,
             },
             {
+                link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
+                name = "Амулет Луны",
+                count = 2,
+            },
+            {
+                link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
+                name = "Тяжелое золотое ожерелье битвы",
+                count = 2,
+            },
+            {
+                link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
+                name = "Подвеска Агатового Щита",
+                count = 2,
+            },
+            {
                 link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
                 name = "Кольцо золотого дракона",
                 count = 1,
@@ -22685,7 +22700,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792614366,
+            last_update = 1792616665,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22900,7 +22915,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792615798,
+            last_update = 1792616669,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -22976,6 +22991,21 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:12042:0:0:0:0:0:514:0:10|h[Болотная цепь со знаком волка]|h|r",
                     name = "Болотная цепь со знаком волка",
                     count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:20830:0:0:0:0:0:0:0:10|h[Амулет Луны]|h|r",
+                    name = "Амулет Луны",
+                    count = 2,
+                },
+                {
+                    link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
+                    name = "Тяжелое золотое ожерелье битвы",
+                    count = 2,
+                },
+                {
+                    link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
+                    name = "Подвеска Агатового Щита",
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
