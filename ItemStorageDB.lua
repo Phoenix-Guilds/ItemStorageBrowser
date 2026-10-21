@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792613386
+ItemStorageDB_LastUpdate = 1792613442
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20793,9 +20793,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:04:33",
+        updated_at = "2026-10-21 23:10:42",
         money = 203936,
-        empty = 75,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -21249,6 +21249,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:2870:0:0:0:0:0:0:0:10|h[Сияющая серебряная кираса]|h|r",
+                name = "Сияющая серебряная кираса",
+                count = 2,
+            },
+            {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
                 count = 1,
@@ -21370,7 +21375,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792613065,
+            last_update = 1792613434,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21900,7 +21905,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792613068,
+            last_update = 1792613437,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -21946,6 +21951,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
                     name = "Черные бархатные одеяния",
                     count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2870:0:0:0:0:0:0:0:10|h[Сияющая серебряная кираса]|h|r",
+                    name = "Сияющая серебряная кираса",
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
