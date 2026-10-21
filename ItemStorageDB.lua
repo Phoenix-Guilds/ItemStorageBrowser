@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792613809
+ItemStorageDB_LastUpdate = 1792613849
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18453,7 +18453,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 22:52:02",
+        updated_at = "2026-10-21 23:17:29",
         money = 475064,
         empty = 99,
         location = "Оргриммар",
@@ -18476,7 +18476,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13422:0:0:0:0:0:0:0:10|h[Каменный угорь]|h|r",
                 name = "Каменный угорь",
-                count = 34,
+                count = 45,
             },
             {
                 link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
@@ -18661,7 +18661,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                 name = "Масляный черноротик",
-                count = 158,
+                count = 175,
             },
             {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
@@ -18681,7 +18681,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 360,
+                count = 362,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -18720,7 +18720,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792612316,
+            last_update = 1792613842,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -18895,7 +18895,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                     name = "Магороза",
-                    count = 360,
+                    count = 362,
                 },
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -18930,7 +18930,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792612317,
+            last_update = 1792613843,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -18940,7 +18940,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13422:0:0:0:0:0:0:0:10|h[Каменный угорь]|h|r",
                     name = "Каменный угорь",
-                    count = 34,
+                    count = 45,
                 },
                 {
                     link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
@@ -18970,7 +18970,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                     name = "Масляный черноротик",
-                    count = 158,
+                    count = 175,
                 },
                 {
                     link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
