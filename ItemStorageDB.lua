@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792616093
+ItemStorageDB_LastUpdate = 1792616129
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8208,9 +8208,9 @@ ItemStorageDB = {
     {
         name = "Ларец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-12 21:16:05",
+        updated_at = "2026-10-21 23:55:29",
         money = 3254,
-        empty = 119,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -8283,9 +8283,14 @@ ItemStorageDB = {
                 name = "Прочный ларь",
                 count = 23,
             },
+            {
+                link = "|cffffffff|Hitem:6354:0:0:0:0:0:0:0:10|h[Маленький запертый сундук]|h|r",
+                name = "Маленький запертый сундук",
+                count = 1,
+            },
         },
         bank = {
-            last_update = 1791828959,
+            last_update = 1792616120,
             items = {
                 {
                     link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
@@ -8357,10 +8362,15 @@ ItemStorageDB = {
                     name = "Прочный ларь",
                     count = 23,
                 },
+                {
+                    link = "|cffffffff|Hitem:6354:0:0:0:0:0:0:0:10|h[Маленький запертый сундук]|h|r",
+                    name = "Маленький запертый сундук",
+                    count = 1,
+                },
             },
         },
         bags = {
-            last_update = 1791828959,
+            last_update = 1792616125,
             items = {
             },
         },
