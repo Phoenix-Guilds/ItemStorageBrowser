@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792613886
+ItemStorageDB_LastUpdate = 1792613940
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15558,9 +15558,9 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-20 20:07:06",
+        updated_at = "2026-10-21 23:19:00",
         money = 4042,
-        empty = 160,
+        empty = 158,
         location = "Оргриммар",
         items = {
             {
@@ -15581,12 +15581,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                 name = "Молниевый угорь",
-                count = 56,
+                count = 69,
             },
             {
                 link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
                 name = "Сырая краснобородка",
-                count = 12,
+                count = 21,
+            },
+            {
+                link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
+                name = "Сырой ночной луциан",
+                count = 22,
+            },
+            {
+                link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
+                name = "Сырой солнечный лосось",
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
@@ -15641,7 +15651,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
                 name = "Сырой пятнистый желтохвост",
-                count = 335,
+                count = 342,
             },
             {
                 link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
@@ -15656,7 +15666,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
                 name = "Сырая скользкокожая скумбрия",
-                count = 219,
+                count = 236,
             },
             {
                 link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
@@ -15681,11 +15691,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
                 name = "Сырая мифрилоголовая форель",
-                count = 22,
+                count = 29,
             },
         },
         bank = {
-            last_update = 1792516004,
+            last_update = 1792613934,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15705,12 +15715,22 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                     name = "Молниевый угорь",
-                    count = 56,
+                    count = 69,
                 },
                 {
                     link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
                     name = "Сырая краснобородка",
-                    count = 12,
+                    count = 21,
+                },
+                {
+                    link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
+                    name = "Сырой ночной луциан",
+                    count = 22,
+                },
+                {
+                    link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
+                    name = "Сырой солнечный лосось",
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
@@ -15765,7 +15785,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
                     name = "Сырой пятнистый желтохвост",
-                    count = 335,
+                    count = 342,
                 },
                 {
                     link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
@@ -15780,7 +15800,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
                     name = "Сырая скользкокожая скумбрия",
-                    count = 219,
+                    count = 236,
                 },
                 {
                     link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
@@ -15805,12 +15825,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
                     name = "Сырая мифрилоголовая форель",
-                    count = 22,
+                    count = 29,
                 },
             },
         },
         bags = {
-            last_update = 1792516014,
+            last_update = 1792613935,
             items = {
             },
         },
