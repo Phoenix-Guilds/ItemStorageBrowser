@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792613981
+ItemStorageDB_LastUpdate = 1792614034
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15568,9 +15568,9 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:19:00",
+        updated_at = "2026-10-21 23:20:34",
         money = 4042,
-        empty = 158,
+        empty = 156,
         location = "Оргриммар",
         items = {
             {
@@ -15581,7 +15581,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13755:0:0:0:0:0:0:0:10|h[Зимний кальмар]|h|r",
                 name = "Зимний кальмар",
-                count = 250,
+                count = 261,
             },
             {
                 link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
@@ -15612,6 +15612,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
                 name = "Пластинчатая бронерыба",
                 count = 16,
+            },
+            {
+                link = "|cffffffff|Hitem:13893:0:0:0:0:0:0:0:10|h[Крупная сырая мощь-рыба]|h|r",
+                name = "Крупная сырая мощь-рыба",
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:13929:0:0:0:0:0:0:0:10|h[Окунь горячего копчения]|h|r",
@@ -15705,7 +15710,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792613934,
+            last_update = 1792614027,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15715,7 +15720,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13755:0:0:0:0:0:0:0:10|h[Зимний кальмар]|h|r",
                     name = "Зимний кальмар",
-                    count = 250,
+                    count = 261,
                 },
                 {
                     link = "|cffffffff|Hitem:13756:0:0:0:0:0:0:0:10|h[Сырой летний окунь]|h|r",
@@ -15746,6 +15751,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
                     name = "Пластинчатая бронерыба",
                     count = 16,
+                },
+                {
+                    link = "|cffffffff|Hitem:13893:0:0:0:0:0:0:0:10|h[Крупная сырая мощь-рыба]|h|r",
+                    name = "Крупная сырая мощь-рыба",
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:13929:0:0:0:0:0:0:0:10|h[Окунь горячего копчения]|h|r",
@@ -15840,7 +15850,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792613935,
+            last_update = 1792614028,
             items = {
             },
         },
