@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792608877
+ItemStorageDB_LastUpdate = 1792609365
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17833,9 +17833,9 @@ ItemStorageDB = {
     {
         name = "Сумчатая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 15:44:51",
+        updated_at = "2026-10-21 22:02:45",
         money = 45,
-        empty = 91,
+        empty = 99,
         location = "Оргриммар",
         items = {
             {
@@ -17856,7 +17856,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 57,
+                count = 49,
             },
             {
                 link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
@@ -17890,7 +17890,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792579917,
+            last_update = 1792609350,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
@@ -17910,7 +17910,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                     name = "Сумка из ткани Пустоты",
-                    count = 29,
+                    count = 9,
                 },
                 {
                     link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
@@ -17945,12 +17945,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792586605,
+            last_update = 1792609350,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                     name = "Сумка из ткани Пустоты",
-                    count = 28,
+                    count = 40,
                 },
                 {
                     link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
