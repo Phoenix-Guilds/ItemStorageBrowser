@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792615154
+ItemStorageDB_LastUpdate = 1792615205
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2343,9 +2343,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:03:47",
+        updated_at = "2026-10-21 23:40:05",
         money = 92710,
-        empty = 60,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -2802,6 +2802,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:9385:0:0:0:0:0:0:0:10|h[Древний защитник]|h|r",
                 name = "Древний защитник",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:9465:0:0:0:0:0:0:0:10|h[Кайло 5000]|h|r",
+                name = "Кайло 5000",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
@@ -3450,7 +3455,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792613022,
+            last_update = 1792615197,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3550,6 +3555,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
                     name = "Короткий меч Ночного Дозора",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:9465:0:0:0:0:0:0:0:10|h[Кайло 5000]|h|r",
+                    name = "Кайло 5000",
                     count = 1,
                 },
                 {
