@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792678882
+ItemStorageDB_LastUpdate = 1792679013
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6603,9 +6603,9 @@ ItemStorageDB = {
     {
         name = "Карточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-22 16:36:01",
+        updated_at = "2026-10-22 17:23:33",
         money = 404282,
-        empty = 150,
+        empty = 149,
         location = "Оргриммар",
         items = {
             {
@@ -6739,6 +6739,11 @@ ItemStorageDB = {
                 count = 4,
             },
             {
+                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
+                name = "Колода Мечей",
+                count = 2,
+            },
+            {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
                 count = 2,
@@ -6766,17 +6771,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37145:0:0:0:0:0:0:0:10|h[Туз из колоды Мечей]|h|r",
                 name = "Туз из колоды Мечей",
-                count = 12,
-            },
-            {
-                link = "|cffffffff|Hitem:37147:0:0:0:0:0:0:0:10|h[Двойка из колоды Мечей]|h|r",
-                name = "Двойка из колоды Мечей",
-                count = 1,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:37160:0:0:0:0:0:0:0:10|h[Четверка из колоды Мечей]|h|r",
                 name = "Четверка из колоды Мечей",
-                count = 7,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:44143:0:0:0:0:0:0:0:10|h[Туз из колоды Демонов]|h|r",
@@ -6960,8 +6960,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792676121,
+            last_update = 1792678995,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
+                    name = "Колода Мечей",
+                    count = 2,
+                },
                 {
                     link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                     name = "Колода Магов",
@@ -6990,17 +6995,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:37145:0:0:0:0:0:0:0:10|h[Туз из колоды Мечей]|h|r",
                     name = "Туз из колоды Мечей",
-                    count = 12,
-                },
-                {
-                    link = "|cffffffff|Hitem:37147:0:0:0:0:0:0:0:10|h[Двойка из колоды Мечей]|h|r",
-                    name = "Двойка из колоды Мечей",
-                    count = 1,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:37160:0:0:0:0:0:0:0:10|h[Четверка из колоды Мечей]|h|r",
                     name = "Четверка из колоды Мечей",
-                    count = 7,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:44143:0:0:0:0:0:0:0:10|h[Туз из колоды Демонов]|h|r",
