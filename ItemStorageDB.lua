@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792617425
+ItemStorageDB_LastUpdate = 1792675905
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21188,9 +21188,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-22 00:16:16",
+        updated_at = "2026-10-22 16:31:45",
         money = 203936,
-        empty = 63,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -21634,11 +21634,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
-                name = "Эполеты лесного следопыта",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:2314:1892:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
                 name = "Укрепленный кожаный доспех",
                 count = 1,
@@ -21790,7 +21785,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792617367,
+            last_update = 1792675819,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22208,11 +22203,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
-                    name = "Эполеты лесного следопыта",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:2314:1892:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
                     name = "Укрепленный кожаный доспех",
                     count = 1,
@@ -22320,7 +22310,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792617370,
+            last_update = 1792675896,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
