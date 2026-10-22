@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792676161
+ItemStorageDB_LastUpdate = 1792678772
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18828,9 +18828,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:58:01",
+        updated_at = "2026-10-22 17:19:32",
         money = 475064,
-        empty = 95,
+        empty = 96,
         location = "Оргриммар",
         items = {
             {
@@ -18892,11 +18892,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                 name = "Древний лишайник",
                 count = 13,
-            },
-            {
-                link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
-                name = "Ползучий кошмарник",
-                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
@@ -19095,7 +19090,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792616275,
+            last_update = 1792678764,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19141,11 +19136,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:22790:0:0:0:0:0:0:0:10|h[Древний лишайник]|h|r",
                     name = "Древний лишайник",
                     count = 13,
-                },
-                {
-                    link = "|cffffffff|Hitem:22792:0:0:0:0:0:0:0:10|h[Ползучий кошмарник]|h|r",
-                    name = "Ползучий кошмарник",
-                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
@@ -19305,7 +19295,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792616275,
+            last_update = 1792678765,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
