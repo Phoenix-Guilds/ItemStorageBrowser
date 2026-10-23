@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792766877
+ItemStorageDB_LastUpdate = 1792767075
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22562,10 +22562,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-22 00:04:33",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-23 17:51:15",
         money = 194111,
-        empty = 129,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -22576,7 +22576,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                 name = "Кольцо защиты",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -22601,7 +22601,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
                 name = "Колье Горизонта",
-                count = 4,
+                count = 6,
             },
             {
                 link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
@@ -22781,12 +22781,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
                 name = "Тяжелое золотое ожерелье битвы",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
                 name = "Подвеска Агатового Щита",
-                count = 2,
+                count = 5,
             },
             {
                 link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
@@ -22876,16 +22876,16 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
                 name = "Кольцо заморозки",
-                count = 2,
+                count = 3,
             },
         },
         bank = {
-            last_update = 1792616665,
+            last_update = 1792767066,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                     name = "Кольцо защиты",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -23095,7 +23095,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792616669,
+            last_update = 1792767070,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23115,7 +23115,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
                     name = "Колье Горизонта",
-                    count = 4,
+                    count = 6,
                 },
                 {
                     link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
@@ -23180,12 +23180,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
                     name = "Тяжелое золотое ожерелье битвы",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:20950:0:0:0:0:0:0:0:10|h[Подвеска Агатового Щита]|h|r",
                     name = "Подвеска Агатового Щита",
-                    count = 2,
+                    count = 5,
                 },
                 {
                     link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
@@ -23196,6 +23196,11 @@ ItemStorageDB = {
                     link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
                     name = "Жизнекамень",
                     count = 3,
+                },
+                {
+                    link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
+                    name = "Кольцо заморозки",
+                    count = 1,
                 },
             },
         },
