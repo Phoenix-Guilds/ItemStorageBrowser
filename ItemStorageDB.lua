@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792768617
+ItemStorageDB_LastUpdate = 1792768648
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4948,7 +4948,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 17:59:27",
+        updated_at = "2026-10-23 18:17:28",
         money = 999680,
         empty = 114,
         location = "Оргриммар",
@@ -5026,12 +5026,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
                 name = "Жемчужина джаггала",
-                count = 12,
+                count = 13,
             },
             {
                 link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
                 name = "Сумрачная жемчужина",
-                count = 2,
+                count = 5,
             },
             {
                 link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
@@ -5076,7 +5076,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                 name = "Маленькая блестящая жемчужина",
-                count = 86,
+                count = 87,
             },
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
@@ -5106,7 +5106,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 44,
+                count = 45,
             },
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
@@ -5250,7 +5250,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792767560,
+            last_update = 1792768638,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5505,7 +5505,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792767561,
+            last_update = 1792768639,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5520,12 +5520,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
                     name = "Жемчужина джаггала",
-                    count = 12,
+                    count = 13,
                 },
                 {
                     link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
                     name = "Сумрачная жемчужина",
-                    count = 2,
+                    count = 5,
                 },
                 {
                     link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
@@ -5535,7 +5535,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                     name = "Маленькая блестящая жемчужина",
-                    count = 86,
+                    count = 87,
                 },
                 {
                     link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
@@ -5545,7 +5545,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                     name = "Черная жемчужина",
-                    count = 44,
+                    count = 45,
                 },
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
