@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792769113
+ItemStorageDB_LastUpdate = 1792769168
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2452,10 +2452,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:40:05",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-23 18:26:08",
         money = 92710,
-        empty = 59,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -2686,6 +2686,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
                 name = "Игольщик",
+                count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                name = "Щит Торсена",
                 count = 2,
             },
             {
@@ -3050,7 +3055,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792613020,
+            last_update = 1792769139,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3565,7 +3570,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792615197,
+            last_update = 1792769139,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3606,6 +3611,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                     name = "Острие Кху",
                     count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
+                    name = "Щит Торсена",
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
