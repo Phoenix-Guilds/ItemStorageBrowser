@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792695993
+ItemStorageDB_LastUpdate = 1792766877
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12677,10 +12677,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-13 00:21:28",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-23 17:47:57",
         money = 13104,
-        empty = 64,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -12691,7 +12691,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                 name = "Зов небес",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -12726,7 +12726,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                 name = "Оса Хрустальных сосен",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
@@ -12761,7 +12761,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                 name = "Жезл Аллистария",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
@@ -12771,7 +12771,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                 name = "Железноткач",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -12791,7 +12791,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                 name = "Двуствольный дробовик",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
@@ -12839,11 +12839,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
-                name = "Смертоносный прицел",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
                 name = "Снайперский прицел",
                 count = 4,
@@ -12860,12 +12855,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1791840010,
+            last_update = 1792766870,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                     name = "Зов небес",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -12900,7 +12895,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                     name = "Оса Хрустальных сосен",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
@@ -12935,7 +12930,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13065:0:0:0:0:0:0:0:10|h[Жезл Аллистария]|h|r",
                     name = "Жезл Аллистария",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
@@ -12945,7 +12940,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                     name = "Железноткач",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -12965,7 +12960,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                     name = "Двуствольный дробовик",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
@@ -12990,7 +12985,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1791840025,
+            last_update = 1792766872,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -13021,11 +13016,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:23772:0:0:0:0:0:0:0:10|h[Патроны из оскверненного железа]|h|r",
                     name = "Патроны из оскверненного железа",
                     count = 16495,
-                },
-                {
-                    link = "|cffffffff|Hitem:10546:0:0:0:0:0:0:0:10|h[Смертоносный прицел]|h|r",
-                    name = "Смертоносный прицел",
-                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
