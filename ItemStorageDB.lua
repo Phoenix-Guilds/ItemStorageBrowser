@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792768499
+ItemStorageDB_LastUpdate = 1792768567
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18768,9 +18768,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 18:00:46",
+        updated_at = "2026-10-23 18:16:07",
         money = 900602,
-        empty = 75,
+        empty = 73,
         location = "Оргриммар",
         items = {
             {
@@ -18811,7 +18811,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
                 name = "Ткань Пустоты",
-                count = 492,
+                count = 592,
             },
             {
                 link = "|cffffffff|Hitem:21881:0:0:0:0:0:0:0:10|h[Шелковая паутина Пустоты]|h|r",
@@ -18880,7 +18880,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792767630,
+            last_update = 1792768546,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18965,7 +18965,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792767637,
+            last_update = 1792768548,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18980,7 +18980,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
                     name = "Ткань Пустоты",
-                    count = 492,
+                    count = 592,
                 },
                 {
                     link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
