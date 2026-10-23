@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792769036
+ItemStorageDB_LastUpdate = 1792769101
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22728,9 +22728,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 18:06:47",
+        updated_at = "2026-10-23 18:25:01",
         money = 194111,
-        empty = 118,
+        empty = 115,
         location = "Оргриммар",
         items = {
             {
@@ -22771,7 +22771,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                 name = "Колье Ярости Реки",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
@@ -22781,7 +22781,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                 name = "Подвеска Скиби",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
@@ -22881,7 +22881,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
                 name = "Пылающая эмблема",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
@@ -23045,7 +23045,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792767990,
+            last_update = 1792769076,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23260,7 +23260,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792767991,
+            last_update = 1792769077,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23285,7 +23285,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                     name = "Колье Ярости Реки",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
@@ -23295,7 +23295,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                     name = "Подвеска Скиби",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
@@ -23315,7 +23315,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
                     name = "Пылающая эмблема",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
