@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792767118
+ItemStorageDB_LastUpdate = 1792767497
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19562,10 +19562,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:41:05",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-23 17:58:17",
         money = 336703,
-        empty = 91,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -19906,6 +19906,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31297:0:0:0:0:0:0:0:10|h[Одеяние Багрового ордена]|h|r",
                 name = "Одеяние Багрового ордена",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31298:0:0:0:0:0:0:0:10|h[Набедренники Изувеченной Длани]|h|r",
+                name = "Набедренники Изувеченной Длани",
                 count = 1,
             },
             {
@@ -20425,7 +20430,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792613137,
+            last_update = 1792767457,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -21260,7 +21265,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792615258,
+            last_update = 1792767482,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
@@ -21270,6 +21275,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31133:0:0:0:0:0:0:0:10|h[Поножи сгустка тьмы]|h|r",
                     name = "Поножи сгустка тьмы",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31298:0:0:0:0:0:0:0:10|h[Набедренники Изувеченной Длани]|h|r",
+                    name = "Набедренники Изувеченной Длани",
                     count = 1,
                 },
                 {
