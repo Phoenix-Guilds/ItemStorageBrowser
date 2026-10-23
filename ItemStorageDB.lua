@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792767809
+ItemStorageDB_LastUpdate = 1792767881
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12688,9 +12688,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 17:47:57",
+        updated_at = "2026-10-23 18:04:41",
         money = 13104,
-        empty = 62,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -12809,6 +12809,11 @@ ItemStorageDB = {
                 count = 8955,
             },
             {
+                link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
+                name = "Ружье-клинок",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:41165:0:0:0:0:0:0:0:10|h[Саронитовые острейшие стрелы]|h|r",
                 name = "Саронитовые острейшие стрелы",
                 count = 15601,
@@ -12846,7 +12851,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
@@ -12865,7 +12870,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792766870,
+            last_update = 1792767864,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12973,6 +12978,11 @@ ItemStorageDB = {
                     count = 5,
                 },
                 {
+                    link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
+                    name = "Ружье-клинок",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
                     name = "Дворфийская пищаль",
                     count = 5,
@@ -12990,12 +13000,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                     name = "Лук Жгучих Стрел",
-                    count = 3,
+                    count = 4,
                 },
             },
         },
         bags = {
-            last_update = 1792766872,
+            last_update = 1792767864,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
