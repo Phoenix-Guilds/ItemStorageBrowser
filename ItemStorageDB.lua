@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792768567
+ItemStorageDB_LastUpdate = 1792768617
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18768,9 +18768,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 18:16:07",
+        updated_at = "2026-10-23 18:16:57",
         money = 900602,
-        empty = 73,
+        empty = 72,
         location = "Оргриммар",
         items = {
             {
@@ -18846,7 +18846,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
                 name = "Ледяная ткань",
-                count = 379,
+                count = 403,
             },
             {
                 link = "|cffffffff|Hitem:4305:0:0:0:0:0:0:0:10|h[Рулон шелка]|h|r",
@@ -18880,7 +18880,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792768546,
+            last_update = 1792768611,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18965,7 +18965,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792768548,
+            last_update = 1792768612,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18985,7 +18985,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
                     name = "Ледяная ткань",
-                    count = 379,
+                    count = 403,
                 },
                 {
                     link = "|cffffffff|Hitem:7071:0:0:0:0:0:0:0:10|h[Железная скоба]|h|r",
