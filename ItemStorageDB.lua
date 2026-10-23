@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792767881
+ItemStorageDB_LastUpdate = 1792768007
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22638,9 +22638,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 17:51:15",
+        updated_at = "2026-10-23 18:06:47",
         money = 194111,
-        empty = 121,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -22666,12 +22666,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
                 name = "Подвеска леди Ализабет",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                 name = "Калейдоскопическая цепь",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -22946,7 +22946,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
                 name = "Жизнекамень",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
@@ -22955,7 +22955,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792767066,
+            last_update = 1792767990,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23170,7 +23170,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792767070,
+            last_update = 1792767991,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23180,12 +23180,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
                     name = "Подвеска леди Ализабет",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                     name = "Калейдоскопическая цепь",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -23270,7 +23270,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:833:0:0:0:0:0:0:0:10|h[Жизнекамень]|h|r",
                     name = "Жизнекамень",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
