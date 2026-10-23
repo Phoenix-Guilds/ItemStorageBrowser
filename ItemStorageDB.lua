@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792768835
+ItemStorageDB_LastUpdate = 1792768865
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9727,10 +9727,10 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 23:11:53",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-23 18:21:05",
         money = 14062,
-        empty = 82,
+        empty = 81,
         location = "Оргриммар",
         items = {
             {
@@ -9739,9 +9739,14 @@ ItemStorageDB = {
                 count = 6,
             },
             {
+                link = "|cff1eff00|Hitem:29739:0:0:0:0:0:0:0:10|h[Чародейский фолиант]|h|r",
+                name = "Чародейский фолиант",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
-                count = 1,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -9861,7 +9866,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                 name = "Знак Кил'джедена",
-                count = 69,
+                count = 82,
             },
             {
                 link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
@@ -9871,12 +9876,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:30809:0:0:0:0:0:0:0:10|h[Знак Саргераса]|h|r",
                 name = "Знак Саргераса",
-                count = 1,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:30810:0:0:0:0:0:0:0:10|h[Перстень Ярости Солнца]|h|r",
                 name = "Перстень Ярости Солнца",
-                count = 8,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
@@ -9920,7 +9925,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792613486,
+            last_update = 1792768855,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
@@ -9928,9 +9933,14 @@ ItemStorageDB = {
                     count = 6,
                 },
                 {
+                    link = "|cff1eff00|Hitem:29739:0:0:0:0:0:0:0:10|h[Чародейский фолиант]|h|r",
+                    name = "Чародейский фолиант",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                     name = "Латные перчатки Скверны",
-                    count = 1,
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -10040,7 +10050,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                     name = "Знак Кил'джедена",
-                    count = 69,
+                    count = 82,
                 },
                 {
                     link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
@@ -10050,12 +10060,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:30809:0:0:0:0:0:0:0:10|h[Знак Саргераса]|h|r",
                     name = "Знак Саргераса",
-                    count = 1,
+                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:30810:0:0:0:0:0:0:0:10|h[Перстень Ярости Солнца]|h|r",
                     name = "Перстень Ярости Солнца",
-                    count = 8,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
@@ -10100,7 +10110,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792613499,
+            last_update = 1792768856,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
