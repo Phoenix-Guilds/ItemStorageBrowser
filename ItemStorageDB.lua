@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792769168
+ItemStorageDB_LastUpdate = 1792769341
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21408,9 +21408,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 18:25:13",
+        updated_at = "2026-10-23 18:29:01",
         money = 203936,
-        empty = 49,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -21456,7 +21456,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
                 name = "Покрывало Эми",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
@@ -22025,7 +22025,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792769106,
+            last_update = 1792769315,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22550,7 +22550,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792769107,
+            last_update = 1792769315,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22565,6 +22565,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
                     name = "Рукавицы Торбии",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
+                    name = "Покрывало Эми",
                     count = 1,
                 },
                 {
