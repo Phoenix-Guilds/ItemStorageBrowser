@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792851305
+ItemStorageDB_LastUpdate = 1792851408
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2458,9 +2458,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 16:29:19",
+        updated_at = "2026-10-24 17:16:48",
         money = 92710,
-        empty = 60,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -3024,11 +3024,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:868:20239:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
-                name = "Ревностный хранитель",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
                 name = "Ослепительный длинный меч",
                 count = 1,
@@ -3055,7 +3050,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792848533,
+            last_update = 1792851348,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3538,11 +3533,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cffa335ee|Hitem:868:20239:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
-                    name = "Ревностный хранитель",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:869:0:0:0:0:0:0:0:10|h[Ослепительный длинный меч]|h|r",
                     name = "Ослепительный длинный меч",
                     count = 1,
@@ -3570,7 +3560,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792848544,
+            last_update = 1792851386,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
