@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792847873
+ItemStorageDB_LastUpdate = 1792848455
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2452,10 +2452,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 18:26:08",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-24 16:27:35",
         money = 92710,
-        empty = 57,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -2901,7 +2901,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
                 name = "Короткий меч Ночного Дозора",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
@@ -3055,7 +3055,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792769139,
+            last_update = 1792847934,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3570,7 +3570,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792769139,
+            last_update = 1792847944,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3670,11 +3670,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9359:0:0:0:0:0:0:0:10|h[Третья нога Вирта]|h|r",
                     name = "Третья нога Вирта",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
-                    name = "Короткий меч Ночного Дозора",
                     count = 1,
                 },
                 {
