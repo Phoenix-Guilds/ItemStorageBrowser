@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1792848689
+ItemStorageDB_LastUpdate = 1792851204
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 16:16:43",
+        updated_at = "2026-10-24 17:13:24",
         money = 339404,
-        empty = 100,
+        empty = 99,
         location = "Оргриммар",
         items = {
             {
@@ -841,7 +841,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
                 name = "Символ кровавой ярости",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:43397:0:0:0:0:0:0:0:10|h[Символ рывка]|h|r",
@@ -956,7 +956,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
                 name = "Символ грохочущей мощи",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:43431:0:0:0:0:0:0:0:10|h[Символ победного ража]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792847788,
+            last_update = 1792851185,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1235,7 +1235,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
                     name = "Символ трепки",
-                    count = 14,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:40899:0:0:0:0:0:0:0:10|h[Символ рыка]|h|r",
@@ -1280,7 +1280,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
                     name = "Символ омоложения",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:40914:0:0:0:0:0:0:0:10|h[Символ целительного прикосновения]|h|r",
@@ -1315,7 +1315,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40923:0:0:0:0:0:0:0:10|h[Символ лунного огня]|h|r",
                     name = "Символ лунного огня",
-                    count = 9,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:40924:0:0:0:0:0:0:0:10|h[Символ гнева деревьев]|h|r",
@@ -2435,16 +2435,21 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792847788,
+            last_update = 1792851185,
             items = {
                 {
-                    link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
-                    name = "Символ кровавой ярости",
+                    link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
+                    name = "Символ трепки",
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
-                    name = "Символ грохочущей мощи",
+                    link = "|cffffffff|Hitem:40913:0:0:0:0:0:0:0:10|h[Символ омоложения]|h|r",
+                    name = "Символ омоложения",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:40923:0:0:0:0:0:0:0:10|h[Символ лунного огня]|h|r",
+                    name = "Символ лунного огня",
                     count = 1,
                 },
             },
