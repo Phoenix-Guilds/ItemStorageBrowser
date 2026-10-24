@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792851204
+ItemStorageDB_LastUpdate = 1792851305
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22672,8 +22672,8 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 18:25:01",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-24 17:15:05",
         money = 194111,
         empty = 115,
         location = "Оргриммар",
@@ -22990,7 +22990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792769076,
+            last_update = 1792851254,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23205,7 +23205,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792769077,
+            last_update = 1792851294,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
