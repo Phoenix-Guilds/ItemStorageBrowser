@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792851718
+ItemStorageDB_LastUpdate = 1792851772
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2458,9 +2458,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 17:16:48",
+        updated_at = "2026-10-24 17:22:52",
         money = 92710,
-        empty = 61,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2696,7 +2696,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                 name = "Копейный щит Черепа",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
@@ -3050,7 +3050,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792851348,
+            last_update = 1792851750,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3560,7 +3560,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792851386,
+            last_update = 1792851759,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3605,7 +3605,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                     name = "Копейный щит Черепа",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
