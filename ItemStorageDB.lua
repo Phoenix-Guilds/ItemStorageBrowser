@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792848510
+ItemStorageDB_LastUpdate = 1792848559
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2453,9 +2453,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 16:27:35",
+        updated_at = "2026-10-24 16:29:19",
         money = 92710,
-        empty = 58,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -2576,11 +2576,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
                 name = "Клинок фанатика",
-                count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
-                name = "Рапира из быстростали",
                 count = 2,
             },
             {
@@ -3055,7 +3050,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792847934,
+            last_update = 1792848533,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3570,7 +3565,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792847944,
+            last_update = 1792848544,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3596,11 +3591,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                     name = "Небесный свет",
                     count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
-                    name = "Рапира из быстростали",
-                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13043:0:0:0:0:0:0:0:10|h[Клинок титанов]|h|r",
