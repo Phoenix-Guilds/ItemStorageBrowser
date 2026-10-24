@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1792847725
+ItemStorageDB_LastUpdate = 1792847803
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-22 18:16:38",
+        updated_at = "2026-10-24 16:16:43",
         money = 339404,
         empty = 100,
         location = "Оргриммар",
@@ -226,12 +226,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41539:0:0:0:0:0:0:0:10|h[Символ удара бури]|h|r",
                 name = "Символ удара бури",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:41540:0:0:0:0:0:0:0:10|h[Символ вскипания лавы]|h|r",
                 name = "Символ вскипания лавы",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:41541:0:0:0:0:0:0:0:10|h[Символ хозяина вод]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792682041,
+            last_update = 1792847788,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2055,7 +2055,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
                     name = "Символ кровавой ярости",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:43397:0:0:0:0:0:0:0:10|h[Символ рывка]|h|r",
@@ -2170,7 +2170,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
                     name = "Символ грохочущей мощи",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43431:0:0:0:0:0:0:0:10|h[Символ победного ража]|h|r",
@@ -2435,16 +2435,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792682042,
+            last_update = 1792847788,
             items = {
                 {
-                    link = "|cffffffff|Hitem:41539:0:0:0:0:0:0:0:10|h[Символ удара бури]|h|r",
-                    name = "Символ удара бури",
+                    link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
+                    name = "Символ кровавой ярости",
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:41540:0:0:0:0:0:0:0:10|h[Символ вскипания лавы]|h|r",
-                    name = "Символ вскипания лавы",
+                    link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
+                    name = "Символ грохочущей мощи",
                     count = 1,
                 },
             },
