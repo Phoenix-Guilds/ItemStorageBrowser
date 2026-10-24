@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1792859616
+ItemStorageDB_LastUpdate = 1792859687
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 17:48:44",
+        updated_at = "2026-10-24 19:34:47",
         money = 339404,
-        empty = 100,
+        empty = 101,
         location = "Оргриммар",
         items = {
             {
@@ -226,12 +226,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41539:0:0:0:0:0:0:0:10|h[Символ удара бури]|h|r",
                 name = "Символ удара бури",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:41540:0:0:0:0:0:0:0:10|h[Символ вскипания лавы]|h|r",
                 name = "Символ вскипания лавы",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:41541:0:0:0:0:0:0:0:10|h[Символ хозяина вод]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792853273,
+            last_update = 1792859668,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2400,7 +2400,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:45797:0:0:0:0:0:0:0:10|h[Символ глухой обороны]|h|r",
                     name = "Символ глухой обороны",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:46372:0:0:0:0:0:0:0:10|h[Символ инстинкта выживания]|h|r",
@@ -2435,16 +2435,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792853274,
+            last_update = 1792859668,
             items = {
                 {
-                    link = "|cffffffff|Hitem:41539:0:0:0:0:0:0:0:10|h[Символ удара бури]|h|r",
-                    name = "Символ удара бури",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:41540:0:0:0:0:0:0:0:10|h[Символ вскипания лавы]|h|r",
-                    name = "Символ вскипания лавы",
+                    link = "|cffffffff|Hitem:45797:0:0:0:0:0:0:0:10|h[Символ глухой обороны]|h|r",
+                    name = "Символ глухой обороны",
                     count = 1,
                 },
             },
