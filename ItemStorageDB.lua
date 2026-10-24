@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1792863931
+ItemStorageDB_LastUpdate = 1792864907
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 19:34:47",
+        updated_at = "2026-10-24 21:01:47",
         money = 339404,
         empty = 101,
         location = "Оргриммар",
@@ -1186,7 +1186,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45797:0:0:0:0:0:0:0:10|h[Символ глухой обороны]|h|r",
                 name = "Символ глухой обороны",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:46372:0:0:0:0:0:0:0:10|h[Символ инстинкта выживания]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792859668,
+            last_update = 1792863987,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2050,7 +2050,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
                     name = "Символ боевого крика",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
@@ -2435,11 +2435,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792859668,
+            last_update = 1792863987,
             items = {
                 {
-                    link = "|cffffffff|Hitem:45797:0:0:0:0:0:0:0:10|h[Символ глухой обороны]|h|r",
-                    name = "Символ глухой обороны",
+                    link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
+                    name = "Символ боевого крика",
                     count = 1,
                 },
             },
