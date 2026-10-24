@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792852515
+ItemStorageDB_LastUpdate = 1792852574
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16468,9 +16468,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 16:12:55",
+        updated_at = "2026-10-24 17:36:14",
         money = 108852,
-        empty = 45,
+        empty = 44,
         location = "Оргриммар",
         items = {
             {
@@ -17069,6 +17069,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:4570:0:0:0:0:0:22:0:10|h[Кувалда Березовой рощи с печатью выносливости]|h|r",
+                name = "Кувалда Березовой рощи с печатью выносливости",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:4577:0:0:0:0:0:0:0:10|h[Компактный дробовик]|h|r",
                 name = "Компактный дробовик",
                 count = 2,
@@ -17415,7 +17420,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792847546,
+            last_update = 1792852558,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -17980,7 +17985,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792847555,
+            last_update = 1792852568,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -18235,6 +18240,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4568:20235:0:0:0:0:24:0:10|h[Топор рубаки со знаком силы]|h|r",
                     name = "Топор рубаки со знаком силы",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:4570:0:0:0:0:0:22:0:10|h[Кувалда Березовой рощи с печатью выносливости]|h|r",
+                    name = "Кувалда Березовой рощи с печатью выносливости",
                     count = 1,
                 },
                 {
