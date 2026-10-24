@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792855618
+ItemStorageDB_LastUpdate = 1792855668
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21308,9 +21308,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 17:21:58",
+        updated_at = "2026-10-24 18:27:48",
         money = 203936,
-        empty = 58,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -21406,7 +21406,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                 name = "Броня гидролиска",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13070:0:0:0:0:0:0:0:10|h[Чешуйчатые сапоги Сапфирона]|h|r",
@@ -21861,7 +21861,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:14552:0:0:0:0:0:0:0:10|h[Тюремное наплечье]|h|r",
                 name = "Тюремное наплечье",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:14553:0:0:0:0:0:0:0:10|h[Кушак милосердия]|h|r",
@@ -21895,7 +21895,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792851685,
+            last_update = 1792855650,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21985,7 +21985,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                     name = "Броня гидролиска",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13070:0:0:0:0:0:0:0:10|h[Чешуйчатые сапоги Сапфирона]|h|r",
@@ -22373,11 +22373,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cffa335ee|Hitem:14552:0:0:0:0:0:0:0:10|h[Тюремное наплечье]|h|r",
-                    name = "Тюремное наплечье",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:14553:0:0:0:0:0:0:0:10|h[Кушак милосердия]|h|r",
                     name = "Кушак милосердия",
                     count = 1,
@@ -22405,7 +22400,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792851708,
+            last_update = 1792855660,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
