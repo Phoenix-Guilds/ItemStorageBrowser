@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792937675
+ItemStorageDB_LastUpdate = 1792937814
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20743,10 +20743,10 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 20:41:35",
+        updated_at = "2026-10-25 16:16:54",
         money = 203936,
-        empty = 60,
-        location = "",
+        empty = 61,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -20801,7 +20801,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                 name = "Набедренники Снопевца",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -21330,7 +21330,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792855650,
+            last_update = 1792937790,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21385,7 +21385,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                     name = "Набедренники Снопевца",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -21835,7 +21835,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792863678,
+            last_update = 1792937804,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
