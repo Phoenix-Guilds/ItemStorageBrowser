@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792962897
+ItemStorageDB_LastUpdate = 1792962969
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19093,9 +19093,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 19:02:00",
+        updated_at = "2026-10-25 23:16:09",
         money = 475064,
-        empty = 97,
+        empty = 98,
         location = "Оргриммар",
         items = {
             {
@@ -19321,7 +19321,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                 name = "Лиловый лотос",
-                count = 159,
+                count = 160,
             },
             {
                 link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -19348,14 +19348,9 @@ ItemStorageDB = {
                 name = "Кровь Грома",
                 count = 86,
             },
-            {
-                link = "|cffffffff|Hitem:9210:0:0:0:0:0:0:0:10|h[Призрачная краска]|h|r",
-                name = "Призрачная краска",
-                count = 7,
-            },
         },
         bank = {
-            last_update = 1792857374,
+            last_update = 1792962934,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19530,7 +19525,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                     name = "Лиловый лотос",
-                    count = 159,
+                    count = 160,
                 },
                 {
                     link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -19560,7 +19555,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792857390,
+            last_update = 1792962954,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -19611,11 +19606,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                     name = "Масло черноротика",
                     count = 10,
-                },
-                {
-                    link = "|cffffffff|Hitem:9210:0:0:0:0:0:0:0:10|h[Призрачная краска]|h|r",
-                    name = "Призрачная краска",
-                    count = 7,
                 },
             },
         },
