@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792948219
+ItemStorageDB_LastUpdate = 1792948349
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2453,9 +2453,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 18:49:46",
+        updated_at = "2026-10-25 19:12:29",
         money = 92710,
-        empty = 66,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -2844,11 +2844,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:7730:0:0:0:0:0:0:0:10|h[Кобальтовый крушитель]|h|r",
-                name = "Кобальтовый крушитель",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
                 name = "Кровопроливец",
                 count = 2,
@@ -3040,7 +3035,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792946937,
+            last_update = 1792948276,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3378,11 +3373,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:7730:0:0:0:0:0:0:0:10|h[Кобальтовый крушитель]|h|r",
-                    name = "Кобальтовый крушитель",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
                     name = "Кровопроливец",
                     count = 2,
@@ -3540,7 +3530,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792946981,
+            last_update = 1792948293,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
