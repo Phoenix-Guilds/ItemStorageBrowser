@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792946788
+ItemStorageDB_LastUpdate = 1792946914
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12543,9 +12543,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 16:31:29",
+        updated_at = "2026-10-25 18:48:34",
         money = 13104,
-        empty = 62,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -12611,12 +12611,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                 name = "Громодерево",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -12725,7 +12725,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792848594,
+            last_update = 1792946826,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12785,12 +12785,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                     name = "Громодерево",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                     name = "Звездопад",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -12860,7 +12860,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792848608,
+            last_update = 1792946865,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
