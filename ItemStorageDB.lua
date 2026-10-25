@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792931886
+ItemStorageDB_LastUpdate = 1792932171
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7033,9 +7033,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 13:21:07",
+        updated_at = "2026-10-25 14:42:51",
         money = 181084,
-        empty = 144,
+        empty = 145,
         location = "Оргриммар",
         items = {
             {
@@ -7051,7 +7051,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:38372:0:0:0:0:0:0:0:10|h[Нерубские накладки для поножей]|h|r",
                 name = "Нерубские накладки для поножей",
-                count = 14,
+                count = 13,
             },
             {
                 link = "|cff0070dd|Hitem:44128:0:0:0:0:0:0:0:10|h[Арктический мех]|h|r",
@@ -7221,7 +7221,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38375:0:0:0:0:0:0:0:10|h[Накладки из борейской кожи]|h|r",
                 name = "Накладки из борейской кожи",
-                count = 26,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:38425:0:0:0:0:0:0:0:10|h[Толстая борейская кожа]|h|r",
@@ -7370,7 +7370,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792927135,
+            last_update = 1792931948,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7625,7 +7625,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792927209,
+            last_update = 1792932141,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7635,7 +7635,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:38372:0:0:0:0:0:0:0:10|h[Нерубские накладки для поножей]|h|r",
                     name = "Нерубские накладки для поножей",
-                    count = 14,
+                    count = 13,
                 },
                 {
                     link = "|cff1eff00|Hitem:34207:0:0:0:0:0:0:0:10|h[Упрочнения для перчаток]|h|r",
@@ -7690,7 +7690,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:38375:0:0:0:0:0:0:0:10|h[Накладки из борейской кожи]|h|r",
                     name = "Накладки из борейской кожи",
-                    count = 26,
+                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:4232:0:0:0:0:0:0:0:10|h[Средняя шкура]|h|r",
