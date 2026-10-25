@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792946321
+ItemStorageDB_LastUpdate = 1792946478
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5918,9 +5918,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 21:37:28",
+        updated_at = "2026-10-25 18:41:18",
         money = 421241,
-        empty = 51,
+        empty = 52,
         location = "Оргриммар",
         items = {
             {
@@ -6204,11 +6204,6 @@ ItemStorageDB = {
                 count = 25,
             },
             {
-                link = "|cffffffff|Hitem:3478:0:0:0:0:0:0:0:10|h[Зернистый шлифовальный камень]|h|r",
-                name = "Зернистый шлифовальный камень",
-                count = 25,
-            },
-            {
                 link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
                 name = "Тяжелый шлифовальный камень",
                 count = 171,
@@ -6245,7 +6240,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792865755,
+            last_update = 1792946397,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6435,7 +6430,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
                     name = "Тигровый глаз",
-                    count = 179,
+                    count = 207,
                 },
                 {
                     link = "|cffffffff|Hitem:12365:0:0:0:0:0:0:0:10|h[Массивный камень]|h|r",
@@ -6463,11 +6458,6 @@ ItemStorageDB = {
                     count = 739,
                 },
                 {
-                    link = "|cffffffff|Hitem:3478:0:0:0:0:0:0:0:10|h[Зернистый шлифовальный камень]|h|r",
-                    name = "Зернистый шлифовальный камень",
-                    count = 25,
-                },
-                {
                     link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
                     name = "Тяжелый шлифовальный камень",
                     count = 171,
@@ -6485,7 +6475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792865766,
+            last_update = 1792946406,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6511,11 +6501,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:7969:0:0:0:0:0:0:0:10|h[Мифриловые шпоры]|h|r",
                     name = "Мифриловые шпоры",
                     count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
-                    name = "Тигровый глаз",
-                    count = 28,
                 },
                 {
                     link = "|cffffffff|Hitem:12404:0:0:0:0:0:0:0:10|h[Массивное точило]|h|r",
