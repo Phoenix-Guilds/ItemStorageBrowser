@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792947142
+ItemStorageDB_LastUpdate = 1792947298
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4913,7 +4913,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 21:14:57",
+        updated_at = "2026-10-25 18:54:58",
         money = 999680,
         empty = 114,
         location = "Оргриммар",
@@ -4946,7 +4946,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12808:0:0:0:0:0:0:0:10|h[Субстанция Нежити]|h|r",
                 name = "Субстанция Нежити",
-                count = 11,
+                count = 10,
             },
             {
                 link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
@@ -5181,7 +5181,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                 name = "Сердце огня",
-                count = 45,
+                count = 43,
             },
             {
                 link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5215,7 +5215,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792865680,
+            last_update = 1792947268,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5240,7 +5240,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12808:0:0:0:0:0:0:0:10|h[Субстанция Нежити]|h|r",
                     name = "Субстанция Нежити",
-                    count = 11,
+                    count = 10,
                 },
                 {
                     link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
@@ -5440,7 +5440,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
                     name = "Сердце огня",
-                    count = 45,
+                    count = 43,
                 },
                 {
                     link = "|cffffffff|Hitem:7079:0:0:0:0:0:0:0:10|h[Магическая сфера воды]|h|r",
@@ -5470,7 +5470,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792865689,
+            last_update = 1792947292,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
