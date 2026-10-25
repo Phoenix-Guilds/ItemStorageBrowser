@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792959636
+ItemStorageDB_LastUpdate = 1792959682
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8263,20 +8263,20 @@ ItemStorageDB = {
     {
         name = "Ларец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 21:52:36",
+        updated_at = "2026-10-25 22:21:22",
         money = 3254,
-        empty = 115,
+        empty = 113,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
                 name = "Кориевый сейф",
-                count = 12,
+                count = 13,
             },
             {
                 link = "|cff1eff00|Hitem:43622:0:0:0:0:0:0:0:10|h[Сейф из ледяной стали]|h|r",
                 name = "Сейф из ледяной стали",
-                count = 8,
+                count = 9,
             },
             {
                 link = "|cff1eff00|Hitem:4632:0:0:0:0:0:0:0:10|h[Изысканный бронзовый сейф]|h|r",
@@ -8345,17 +8345,17 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792957949,
+            last_update = 1792959675,
             items = {
                 {
                     link = "|cff1eff00|Hitem:31952:0:0:0:0:0:0:0:10|h[Кориевый сейф]|h|r",
                     name = "Кориевый сейф",
-                    count = 12,
+                    count = 13,
                 },
                 {
                     link = "|cff1eff00|Hitem:43622:0:0:0:0:0:0:0:10|h[Сейф из ледяной стали]|h|r",
                     name = "Сейф из ледяной стали",
-                    count = 8,
+                    count = 9,
                 },
                 {
                     link = "|cff1eff00|Hitem:4632:0:0:0:0:0:0:0:10|h[Изысканный бронзовый сейф]|h|r",
@@ -8425,7 +8425,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792957951,
+            last_update = 1792959676,
             items = {
             },
         },
