@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792950124
+ItemStorageDB_LastUpdate = 1792950339
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16198,9 +16198,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 19:00:04",
+        updated_at = "2026-10-25 19:45:39",
         money = 108852,
-        empty = 80,
+        empty = 77,
         location = "Оргриммар",
         items = {
             {
@@ -16664,6 +16664,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:4343:0:0:0:0:0:0:0:10|h[Коричневые льняные штаны]|h|r",
+                name = "Коричневые льняные штаны",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:4562:20319:0:0:0:0:1009:0:10|h[Сверхострый топор со знаком кита]|h|r",
                 name = "Сверхострый топор со знаком кита",
                 count = 1,
@@ -16711,6 +16716,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4821:929:0:0:0:0:0:0:10|h[Медвежий кулачный щит]|h|r",
                 name = "Медвежий кулачный щит",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
+                name = "Огненный жезл",
                 count = 1,
             },
             {
@@ -16891,7 +16901,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:8180:0:0:0:0:0:0:0:10|h[Охотничий лук]|h|r",
                 name = "Охотничий лук",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:9753:929:0:0:0:0:584:0:10|h[Цыганский кулачный щит со знаком мартышки]|h|r",
@@ -16970,7 +16980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792947434,
+            last_update = 1792950331,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -17313,6 +17323,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:4343:0:0:0:0:0:0:0:10|h[Коричневые льняные штаны]|h|r",
+                    name = "Коричневые льняные штаны",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:4697:0:0:0:0:0:0:0:10|h[Вороненый ремень]|h|r",
                     name = "Вороненый ремень",
                     count = 1,
@@ -17520,7 +17535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792947441,
+            last_update = 1792950333,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -17683,6 +17698,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
+                    name = "Огненный жезл",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:5540:20239:0:0:0:0:0:0:10|h[Кинжал с жемчужной рукояткой]|h|r",
                     name = "Кинжал с жемчужной рукояткой",
                     count = 2,
@@ -17740,7 +17760,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:8180:0:0:0:0:0:0:0:10|h[Охотничий лук]|h|r",
                     name = "Охотничий лук",
-                    count = 2,
+                    count = 3,
                 },
             },
         },
