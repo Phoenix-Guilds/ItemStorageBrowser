@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792958154
+ItemStorageDB_LastUpdate = 1792958201
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12568,9 +12568,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 18:48:34",
+        updated_at = "2026-10-25 21:56:41",
         money = 13104,
-        empty = 64,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -12636,7 +12636,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                 name = "Громодерево",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
@@ -12750,7 +12750,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792946826,
+            last_update = 1792958194,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12810,7 +12810,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13062:0:0:0:0:0:0:0:10|h[Громодерево]|h|r",
                     name = "Громодерево",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
@@ -12885,7 +12885,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792946865,
+            last_update = 1792958197,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
