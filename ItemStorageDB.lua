@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792959343
+ItemStorageDB_LastUpdate = 1792959378
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5933,7 +5933,7 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 18:56:38",
+        updated_at = "2026-10-25 22:16:18",
         money = 421241,
         empty = 52,
         location = "Оргриммар",
@@ -6006,12 +6006,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
-                count = 157,
+                count = 165,
             },
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 206,
+                count = 211,
             },
             {
                 link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
@@ -6255,7 +6255,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792947365,
+            last_update = 1792959373,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6320,12 +6320,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                     name = "Моховой агат",
-                    count = 157,
+                    count = 165,
                 },
                 {
                     link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                     name = "Камень теней",
-                    count = 206,
+                    count = 211,
                 },
                 {
                     link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
@@ -6490,7 +6490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792947378,
+            last_update = 1792959374,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
