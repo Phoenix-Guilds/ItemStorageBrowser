@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792959807
+ItemStorageDB_LastUpdate = 1792959843
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13128,7 +13128,7 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 22:13:50",
+        updated_at = "2026-10-25 22:24:03",
         money = 385478,
         empty = 100,
         location = "Оргриммар",
@@ -13256,7 +13256,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
-                count = 109,
+                count = 124,
             },
             {
                 link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
@@ -13355,7 +13355,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792959216,
+            last_update = 1792959837,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13480,7 +13480,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                     name = "Странная пыль",
-                    count = 109,
+                    count = 124,
                 },
                 {
                     link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
@@ -13540,7 +13540,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792959225,
+            last_update = 1792959838,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
