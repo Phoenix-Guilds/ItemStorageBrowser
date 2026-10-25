@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792963010
+ItemStorageDB_LastUpdate = 1792963048
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10113,7 +10113,7 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 19:14:20",
+        updated_at = "2026-10-25 23:17:28",
         money = 213874,
         empty = 69,
         location = "Оргриммар",
@@ -10166,7 +10166,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                 name = "Гигантское яйцо",
-                count = 114,
+                count = 117,
             },
             {
                 link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
@@ -10271,7 +10271,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3173:0:0:0:0:0:0:0:10|h[Медвежатина]|h|r",
                 name = "Медвежатина",
-                count = 25,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:3174:0:0:0:0:0:0:0:10|h[Паучья лимфа]|h|r",
@@ -10400,7 +10400,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792858453,
+            last_update = 1792963042,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10450,7 +10450,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12207:0:0:0:0:0:0:0:10|h[Гигантское яйцо]|h|r",
                     name = "Гигантское яйцо",
-                    count = 114,
+                    count = 117,
                 },
                 {
                     link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
@@ -10555,7 +10555,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3173:0:0:0:0:0:0:0:10|h[Медвежатина]|h|r",
                     name = "Медвежатина",
-                    count = 25,
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:3174:0:0:0:0:0:0:0:10|h[Паучья лимфа]|h|r",
@@ -10615,7 +10615,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                     name = "Охлажденное мясо",
-                    count = 24,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
@@ -10685,7 +10685,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792858455,
+            last_update = 1792963044,
             items = {
                 {
                     link = "|cffffffff|Hitem:36782:0:0:0:0:0:0:0:10|h[Сочное мясо моллюска]|h|r",
@@ -10695,7 +10695,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                     name = "Охлажденное мясо",
-                    count = 1300,
+                    count = 1274,
                 },
             },
         },
