@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792947398
+ItemStorageDB_LastUpdate = 1792947604
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16208,9 +16208,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 18:52:22",
+        updated_at = "2026-10-25 19:00:04",
         money = 108852,
-        empty = 79,
+        empty = 80,
         location = "Оргриммар",
         items = {
             {
@@ -16849,11 +16849,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:7282:0:0:0:0:0:0:0:10|h[Штаны из тонкой кожи]|h|r",
-                name = "Штаны из тонкой кожи",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:7554:0:0:0:0:0:842:0:10|h[Ивовая ветвь со знаком орла]|h|r",
                 name = "Ивовая ветвь со знаком орла",
                 count = 1,
@@ -16985,7 +16980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792947098,
+            last_update = 1792947434,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -17453,11 +17448,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:7282:0:0:0:0:0:0:0:10|h[Штаны из тонкой кожи]|h|r",
-                    name = "Штаны из тонкой кожи",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:7554:0:0:0:0:0:842:0:10|h[Ивовая ветвь со знаком орла]|h|r",
                     name = "Ивовая ветвь со знаком орла",
                     count = 1,
@@ -17540,7 +17530,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792947108,
+            last_update = 1792947441,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
