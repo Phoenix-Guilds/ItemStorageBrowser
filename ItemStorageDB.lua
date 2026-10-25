@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792954111
+ItemStorageDB_LastUpdate = 1792954227
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16238,9 +16238,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 20:44:27",
+        updated_at = "2026-10-25 20:50:27",
         money = 108852,
-        empty = 28,
+        empty = 27,
         location = "Оргриммар",
         items = {
             {
@@ -16446,6 +16446,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:15499:929:0:0:0:0:1181:0:10|h[Походные манжеты со знаком медведя]|h|r",
                 name = "Походные манжеты со знаком медведя",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:15502:856:0:0:0:0:1185:0:10|h[Походные перчатки со знаком медведя]|h|r",
+                name = "Походные перчатки со знаком медведя",
                 count = 1,
             },
             {
@@ -17255,7 +17260,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792953859,
+            last_update = 1792954149,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -17985,7 +17990,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792953861,
+            last_update = 1792954221,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -18040,6 +18045,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:15259:20319:0:0:0:0:1022:0:10|h[Здоровенный боевой молот со знаком кита]|h|r",
                     name = "Здоровенный боевой молот со знаком кита",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:15502:856:0:0:0:0:1185:0:10|h[Походные перчатки со знаком медведя]|h|r",
+                    name = "Походные перчатки со знаком медведя",
                     count = 1,
                 },
                 {
