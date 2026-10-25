@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792926042
+ItemStorageDB_LastUpdate = 1792926264
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18998,9 +18998,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 20:43:32",
+        updated_at = "2026-10-25 13:04:24",
         money = 336703,
-        empty = 87,
+        empty = 88,
         location = "Оргриммар",
         items = {
             {
@@ -19326,11 +19326,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31282:0:0:0:0:0:0:0:10|h[Накидка духовной чистоты]|h|r",
                 name = "Накидка духовной чистоты",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31284:0:0:0:0:0:0:0:10|h[Наручи безрассудства]|h|r",
-                name = "Наручи безрассудства",
                 count = 1,
             },
             {
@@ -19880,7 +19875,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792863787,
+            last_update = 1792926095,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -20180,11 +20175,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31282:0:0:0:0:0:0:0:10|h[Накидка духовной чистоты]|h|r",
                     name = "Накидка духовной чистоты",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31284:0:0:0:0:0:0:0:10|h[Наручи безрассудства]|h|r",
-                    name = "Наручи безрассудства",
                     count = 1,
                 },
                 {
@@ -20705,7 +20695,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792863803,
+            last_update = 1792926114,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23199:0:0:0:0:0:0:0:10|h[Тотем бури]|h|r",
