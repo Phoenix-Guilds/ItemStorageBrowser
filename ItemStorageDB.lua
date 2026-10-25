@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792953412
+ItemStorageDB_LastUpdate = 1792953705
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12958,9 +12958,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 19:27:13",
+        updated_at = "2026-10-25 20:41:45",
         money = 385478,
-        empty = 105,
+        empty = 102,
         location = "Оргриммар",
         items = {
             {
@@ -13046,7 +13046,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11175:0:0:0:0:0:0:0:10|h[Великая субстанция Пустоты]|h|r",
                 name = "Великая субстанция Пустоты",
-                count = 14,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:16202:0:0:0:0:0:0:0:10|h[Простая вечная субстанция]|h|r",
@@ -13056,7 +13056,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                 name = "Великая вечная субстанция",
-                count = 9,
+                count = 5,
             },
             {
                 link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
@@ -13109,11 +13109,6 @@ ItemStorageDB = {
                 count = 5,
             },
             {
-                link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
-                name = "Сонная пыль",
-                count = 50,
-            },
-            {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                 name = "Арканитовый жезл",
                 count = 5,
@@ -13126,7 +13121,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:20744:0:0:0:0:0:0:0:10|h[Слабое волшебное масло]|h|r",
                 name = "Слабое волшебное масло",
-                count = 1,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
@@ -13190,7 +13185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792948525,
+            last_update = 1792953690,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13275,7 +13270,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:11175:0:0:0:0:0:0:0:10|h[Великая субстанция Пустоты]|h|r",
                     name = "Великая субстанция Пустоты",
-                    count = 14,
+                    count = 4,
                 },
                 {
                     link = "|cff1eff00|Hitem:16202:0:0:0:0:0:0:0:10|h[Простая вечная субстанция]|h|r",
@@ -13285,7 +13280,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:16203:0:0:0:0:0:0:0:10|h[Великая вечная субстанция]|h|r",
                     name = "Великая вечная субстанция",
-                    count = 9,
+                    count = 5,
                 },
                 {
                     link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
@@ -13328,11 +13323,6 @@ ItemStorageDB = {
                     count = 201,
                 },
                 {
-                    link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
-                    name = "Сонная пыль",
-                    count = 50,
-                },
-                {
                     link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
                     name = "Семена клена",
                     count = 40,
@@ -13340,12 +13330,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:20744:0:0:0:0:0:0:0:10|h[Слабое волшебное масло]|h|r",
                     name = "Слабое волшебное масло",
-                    count = 1,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
                     name = "Простое волшебное масло",
-                    count = 1,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:20748:0:0:0:0:0:0:0:10|h[Сверкающее масло маны]|h|r",
@@ -13380,7 +13370,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792948532,
+            last_update = 1792953691,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -13396,11 +13386,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                     name = "Арканитовый жезл",
                     count = 5,
-                },
-                {
-                    link = "|cffffffff|Hitem:20746:0:0:0:0:0:0:0:10|h[Простое волшебное масло]|h|r",
-                    name = "Простое волшебное масло",
-                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
