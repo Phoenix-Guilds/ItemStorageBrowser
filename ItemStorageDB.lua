@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792959378
+ItemStorageDB_LastUpdate = 1792959423
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12748,9 +12748,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 21:56:41",
+        updated_at = "2026-10-25 22:17:03",
         money = 13104,
-        empty = 63,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -12879,6 +12879,11 @@ ItemStorageDB = {
                 count = 15601,
             },
             {
+                link = "|cff1eff00|Hitem:158658:0:0:0:0:0:0:0:10|h[Бронебойная мифриловая амуниция]|h|r",
+                name = "Бронебойная мифриловая амуниция",
+                count = 3,
+            },
+            {
                 link = "|cff1eff00|Hitem:15997:0:0:0:0:0:0:0:10|h[Ториевые патроны]|h|r",
                 name = "Ториевые патроны",
                 count = 7710,
@@ -12930,7 +12935,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792958194,
+            last_update = 1792959413,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13065,7 +13070,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792958197,
+            last_update = 1792959417,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -13081,6 +13086,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41165:0:0:0:0:0:0:0:10|h[Саронитовые острейшие стрелы]|h|r",
                     name = "Саронитовые острейшие стрелы",
                     count = 15601,
+                },
+                {
+                    link = "|cff1eff00|Hitem:158658:0:0:0:0:0:0:0:10|h[Бронебойная мифриловая амуниция]|h|r",
+                    name = "Бронебойная мифриловая амуниция",
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:15997:0:0:0:0:0:0:0:10|h[Ториевые патроны]|h|r",
