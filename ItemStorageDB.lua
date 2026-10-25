@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792960055
+ItemStorageDB_LastUpdate = 1792960134
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22693,9 +22693,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 20:48:31",
+        updated_at = "2026-10-25 22:28:54",
         money = 194111,
-        empty = 118,
+        empty = 117,
         location = "Оргриммар",
         items = {
             {
@@ -22716,7 +22716,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13001:0:0:0:0:0:0:0:10|h[Обруч девушки]|h|r",
                 name = "Обруч девушки",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
@@ -23005,7 +23005,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792954062,
+            last_update = 1792960125,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23020,7 +23020,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13001:0:0:0:0:0:0:0:10|h[Обруч девушки]|h|r",
                     name = "Обруч девушки",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
@@ -23215,7 +23215,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792954088,
+            last_update = 1792960128,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
