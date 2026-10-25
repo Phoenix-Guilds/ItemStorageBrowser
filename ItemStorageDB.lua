@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792947298
+ItemStorageDB_LastUpdate = 1792947398
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5918,7 +5918,7 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 18:41:18",
+        updated_at = "2026-10-25 18:56:38",
         money = 421241,
         empty = 52,
         location = "Оргриммар",
@@ -6001,7 +6001,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
                 name = "Синий сапфир",
-                count = 38,
+                count = 37,
             },
             {
                 link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
@@ -6021,7 +6021,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12800:0:0:0:0:0:0:0:10|h[Азеротский алмаз]|h|r",
                 name = "Азеротский алмаз",
-                count = 46,
+                count = 42,
             },
             {
                 link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
@@ -6240,7 +6240,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792946397,
+            last_update = 1792947365,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6315,7 +6315,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
                     name = "Синий сапфир",
-                    count = 38,
+                    count = 37,
                 },
                 {
                     link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
@@ -6335,7 +6335,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12800:0:0:0:0:0:0:0:10|h[Азеротский алмаз]|h|r",
                     name = "Азеротский алмаз",
-                    count = 46,
+                    count = 42,
                 },
                 {
                     link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
@@ -6475,7 +6475,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792946406,
+            last_update = 1792947378,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
