@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792932171
+ItemStorageDB_LastUpdate = 1792932479
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7733,9 +7733,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-21 20:29:16",
+        updated_at = "2026-10-25 14:47:59",
         money = 0,
-        empty = 192,
+        empty = 193,
         location = "Оргриммар",
         items = {
             {
@@ -7794,6 +7794,11 @@ ItemStorageDB = {
                 count = 4,
             },
             {
+                link = "|cffffffff|Hitem:31672:0:0:0:0:0:0:0:10|h[Ребрышки Мок'Натала]|h|r",
+                name = "Ребрышки Мок'Натала",
+                count = 2,
+            },
+            {
                 link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
                 name = "Стейк из черпорога",
                 count = 40,
@@ -7814,11 +7819,6 @@ ItemStorageDB = {
                 count = 20,
             },
             {
-                link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
-                name = "Филе дракоперой рыбы-ангела",
-                count = 20,
-            },
-            {
                 link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
                 name = "Даларанская похлебка из моллюсков",
                 count = 8,
@@ -7831,7 +7831,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 75,
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -7855,7 +7855,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792603720,
+            last_update = 1792932252,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7933,11 +7933,6 @@ ItemStorageDB = {
                     count = 20,
                 },
                 {
-                    link = "|cffffffff|Hitem:43000:0:0:0:0:0:0:0:10|h[Филе дракоперой рыбы-ангела]|h|r",
-                    name = "Филе дракоперой рыбы-ангела",
-                    count = 20,
-                },
-                {
                     link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
                     name = "Даларанская похлебка из моллюсков",
                     count = 8,
@@ -7975,12 +7970,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792603723,
+            last_update = 1792932294,
             items = {
                 {
-                    link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
-                    name = "Хрустящий хвост ящерицы",
-                    count = 50,
+                    link = "|cffffffff|Hitem:31672:0:0:0:0:0:0:0:10|h[Ребрышки Мок'Натала]|h|r",
+                    name = "Ребрышки Мок'Натала",
+                    count = 2,
                 },
             },
         },
