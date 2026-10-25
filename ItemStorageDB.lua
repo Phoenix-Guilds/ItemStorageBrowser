@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792946478
+ItemStorageDB_LastUpdate = 1792946627
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8438,9 +8438,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-24 21:12:37",
+        updated_at = "2026-10-25 18:43:47",
         money = 141967,
-        empty = 158,
+        empty = 160,
         location = "Оргриммар",
         items = {
             {
@@ -8621,11 +8621,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
-                count = 354,
+                count = 260,
             },
         },
         bank = {
-            last_update = 1792864954,
+            last_update = 1792946509,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8641,11 +8641,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:23427:0:0:0:0:0:0:0:10|h[Этерниевая руда]|h|r",
                     name = "Этерниевая руда",
                     count = 168,
-                },
-                {
-                    link = "|cff1eff00|Hitem:23447:0:0:0:0:0:0:0:10|h[Этерниевый слиток]|h|r",
-                    name = "Этерниевый слиток",
-                    count = 23,
                 },
                 {
                     link = "|cff1eff00|Hitem:23448:0:0:0:0:0:0:0:10|h[Слиток оскверненной стали]|h|r",
@@ -8810,12 +8805,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792864955,
+            last_update = 1792946509,
             items = {
                 {
-                    link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
-                    name = "Мифриловый слиток",
-                    count = 94,
+                    link = "|cff1eff00|Hitem:23447:0:0:0:0:0:0:0:10|h[Этерниевый слиток]|h|r",
+                    name = "Этерниевый слиток",
+                    count = 23,
                 },
             },
         },
