@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792961496
+ItemStorageDB_LastUpdate = 1792961539
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21453,9 +21453,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 21:55:54",
+        updated_at = "2026-10-25 22:52:19",
         money = 203936,
-        empty = 55,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -22019,6 +22019,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffa335ee|Hitem:14549:929:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
+                name = "Сапоги Избежания",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:14551:0:0:0:0:0:0:0:10|h[Боевые рукавицы виртуоза клинка]|h|r",
                 name = "Боевые рукавицы виртуоза клинка",
                 count = 2,
@@ -22060,7 +22065,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792958146,
+            last_update = 1792961531,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22585,7 +22590,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792958148,
+            last_update = 1792961533,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22729,6 +22734,11 @@ ItemStorageDB = {
                 },
                 {
                     link = "|cffa335ee|Hitem:14549:0:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
+                    name = "Сапоги Избежания",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:14549:929:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
                     name = "Сапоги Избежания",
                     count = 1,
                 },
