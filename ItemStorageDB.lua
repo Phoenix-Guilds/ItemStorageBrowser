@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1792946627
+ItemStorageDB_LastUpdate = 1792946788
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16208,7 +16208,7 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 18:18:26",
+        updated_at = "2026-10-25 18:46:28",
         money = 108852,
         empty = 77,
         location = "",
@@ -17560,7 +17560,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792945075,
+            last_update = 1792946638,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
