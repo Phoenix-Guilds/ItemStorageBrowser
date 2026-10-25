@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1792950339
+ItemStorageDB_LastUpdate = 1792950431
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 19:42:04",
+        updated_at = "2026-10-25 19:47:11",
         money = 339404,
-        empty = 101,
+        empty = 100,
         location = "Оргриммар",
         items = {
             {
@@ -806,7 +806,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43386:0:0:0:0:0:0:0:10|h[Символ водного щита]|h|r",
                 name = "Символ водного щита",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792950102,
+            last_update = 1792950395,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1675,7 +1675,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42747:0:0:0:0:0:0:0:10|h[Символ ожога]|h|r",
                     name = "Символ ожога",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:42748:0:0:0:0:0:0:0:10|h[Символ невидимости]|h|r",
@@ -1960,7 +1960,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                     name = "Символ замедленного падения",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:43365:0:0:0:0:0:0:0:10|h[Символ благословения королей]|h|r",
@@ -2435,11 +2435,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792950105,
+            last_update = 1792950395,
             items = {
                 {
-                    link = "|cffffffff|Hitem:43386:0:0:0:0:0:0:0:10|h[Символ водного щита]|h|r",
-                    name = "Символ водного щита",
+                    link = "|cffffffff|Hitem:42747:0:0:0:0:0:0:0:10|h[Символ ожога]|h|r",
+                    name = "Символ ожога",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
+                    name = "Символ замедленного падения",
                     count = 1,
                 },
             },
