@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793048845
+ItemStorageDB_LastUpdate = 1793049650
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5908,9 +5908,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 22:51:36",
-        money = 470351,
-        empty = 49,
+        updated_at = "2026-10-26 23:20:50",
+        money = 468301,
+        empty = 51,
         location = "Оргриммар",
         items = {
             {
@@ -6161,12 +6161,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
                 name = "Необработанный камень",
-                count = 50,
+                count = 106,
             },
             {
                 link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                 name = "Тяжелый камень",
-                count = 750,
+                count = 450,
             },
             {
                 link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
@@ -6216,7 +6216,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
                 name = "Тяжелый шлифовальный камень",
-                count = 178,
+                count = 278,
             },
             {
                 link = "|cffffffff|Hitem:6041:0:0:0:0:0:0:0:10|h[Стальная цепь для оружия]|h|r",
@@ -6250,7 +6250,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792961404,
+            last_update = 1793049642,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6460,12 +6460,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
                     name = "Необработанный камень",
-                    count = 50,
+                    count = 106,
                 },
                 {
                     link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                     name = "Тяжелый камень",
-                    count = 750,
+                    count = 450,
                 },
                 {
                     link = "|cffffffff|Hitem:3470:0:0:0:0:0:0:0:10|h[Грубый шлифовальный камень]|h|r",
@@ -6480,7 +6480,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
                     name = "Тяжелый шлифовальный камень",
-                    count = 178,
+                    count = 278,
                 },
                 {
                     link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
@@ -6495,7 +6495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792961439,
+            last_update = 1793049644,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
