@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793049734
+ItemStorageDB_LastUpdate = 1793049782
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2447,11 +2447,11 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-26 22:35:27",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-26 23:23:02",
         money = 92710,
-        empty = 69,
-        location = "Оргриммар",
+        empty = 67,
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -2734,6 +2734,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
+                name = "Алмазный молот",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:2236:0:0:0:0:0:0:0:10|h[Черный клык]|h|r",
                 name = "Черный клык",
                 count = 1,
@@ -2872,6 +2877,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:9359:0:0:0:0:0:0:0:10|h[Третья нога Вирта]|h|r",
                 name = "Третья нога Вирта",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
+                name = "Короткий меч Ночного Дозора",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
@@ -3020,7 +3030,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793043316,
+            last_update = 1792948276,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3268,6 +3278,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
+                    name = "Алмазный молот",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:2236:0:0:0:0:0:0:0:10|h[Черный клык]|h|r",
                     name = "Черный клык",
                     count = 1,
@@ -3388,6 +3403,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
+                    name = "Короткий меч Ночного Дозора",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
                     name = "Полночная палица",
                     count = 2,
@@ -3505,7 +3525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793043317,
+            last_update = 1793049761,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
