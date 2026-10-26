@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793047194
+ItemStorageDB_LastUpdate = 1793047238
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22642,10 +22642,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-26 22:13:35",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-26 22:40:38",
         money = 194111,
-        empty = 118,
+        empty = 119,
         location = "Оргриммар",
         items = {
             {
@@ -22929,11 +22929,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cff1eff00|Hitem:5001:0:0:0:0:0:0:0:10|h[Кольцо сердца]|h|r",
-                name = "Кольцо сердца",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:7552:0:0:0:0:0:0:0:10|h[Драгоценность Сокола]|h|r",
                 name = "Драгоценность Сокола",
                 count = 1,
@@ -22955,7 +22950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793041991,
+            last_update = 1793047223,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23148,11 +23143,6 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
-                    link = "|cff1eff00|Hitem:5001:0:0:0:0:0:0:0:10|h[Кольцо сердца]|h|r",
-                    name = "Кольцо сердца",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:7552:0:0:0:0:0:0:0:10|h[Драгоценность Сокола]|h|r",
                     name = "Драгоценность Сокола",
                     count = 1,
@@ -23165,7 +23155,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793042010,
+            last_update = 1793047232,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
