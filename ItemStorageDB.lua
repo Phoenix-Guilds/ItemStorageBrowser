@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793042015
+ItemStorageDB_LastUpdate = 1793042141
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8877,10 +8877,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 22:19:36",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-26 22:15:41",
         money = 208636,
-        empty = 71,
+        empty = 72,
         location = "Оргриммар",
         items = {
             {
@@ -9001,7 +9001,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
                 name = "Зелье скорости",
-                count = 45,
+                count = 35,
             },
             {
                 link = "|cffffffff|Hitem:28100:0:0:0:0:0:0:0:10|h[Флакон с летучим лечебным зельем]|h|r",
@@ -9071,7 +9071,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
                 name = "Эликсир Защиты",
-                count = 11,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
@@ -9234,11 +9234,6 @@ ItemStorageDB = {
                 count = 6,
             },
             {
-                link = "|cffffffff|Hitem:6662:0:0:0:0:0:0:0:10|h[Эликсир увеличения]|h|r",
-                name = "Эликсир увеличения",
-                count = 8,
-            },
-            {
                 link = "|cffffffff|Hitem:858:0:0:0:0:0:0:0:10|h[Маленький флакон с лечебным зельем]|h|r",
                 name = "Маленький флакон с лечебным зельем",
                 count = 29,
@@ -9296,11 +9291,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                 name = "Лечебное зелье",
-                count = 80,
+                count = 70,
             },
         },
         bank = {
-            last_update = 1792959560,
+            last_update = 1793042117,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9370,7 +9365,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
                     name = "Зелье скорости",
-                    count = 45,
+                    count = 35,
                 },
                 {
                     link = "|cffffffff|Hitem:28103:0:0:0:0:0:0:0:10|h[Эликсир адепта]|h|r",
@@ -9415,7 +9410,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
                     name = "Эликсир Защиты",
-                    count = 11,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
@@ -9558,11 +9553,6 @@ ItemStorageDB = {
                     count = 6,
                 },
                 {
-                    link = "|cffffffff|Hitem:6662:0:0:0:0:0:0:0:10|h[Эликсир увеличения]|h|r",
-                    name = "Эликсир увеличения",
-                    count = 8,
-                },
-                {
                     link = "|cffffffff|Hitem:8827:0:0:0:0:0:0:0:10|h[Эликсир хождения по воде]|h|r",
                     name = "Эликсир хождения по воде",
                     count = 15,
@@ -9615,7 +9605,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792959563,
+            last_update = 1793042131,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9730,7 +9720,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:929:0:0:0:0:0:0:0:10|h[Лечебное зелье]|h|r",
                     name = "Лечебное зелье",
-                    count = 80,
+                    count = 70,
                 },
             },
         },
