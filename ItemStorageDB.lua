@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793040089
+ItemStorageDB_LastUpdate = 1793041652
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2457,11 +2457,11 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 20:47:24",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-26 22:07:32",
         money = 92710,
-        empty = 67,
-        location = "",
+        empty = 68,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -2889,11 +2889,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
-                name = "Короткий меч Ночного Дозора",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
                 name = "Полночная палица",
                 count = 2,
@@ -3040,7 +3035,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792948276,
+            last_update = 1793041602,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3413,11 +3408,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
-                    name = "Короткий меч Ночного Дозора",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
                     name = "Полночная палица",
                     count = 2,
@@ -3535,7 +3525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792953979,
+            last_update = 1793041637,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
