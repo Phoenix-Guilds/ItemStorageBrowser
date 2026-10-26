@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793039594
+ItemStorageDB_LastUpdate = 1793039845
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-26 07:16:04",
+        updated_at = "2026-10-26 20:37:25",
         money = 339404,
-        empty = 102,
+        empty = 99,
         location = "Оргриммар",
         items = {
             {
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792991686,
+            last_update = 1793039752,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2030,7 +2030,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
                     name = "Символ бесконечного дыхания",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:43390:0:0:0:0:0:0:0:10|h[Символ похищения души]|h|r",
@@ -2370,7 +2370,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:45785:0:0:0:0:0:0:0:10|h[Символ жизнеотвода]|h|r",
                     name = "Символ жизнеотвода",
-                    count = 13,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:45790:0:0:0:0:0:0:0:10|h[Символ вихря клинков]|h|r",
@@ -2425,7 +2425,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:50077:0:0:0:0:0:0:0:10|h[Символ быстрого разложения]|h|r",
                     name = "Символ быстрого разложения",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:50125:0:0:0:0:0:0:0:10|h[Символ стремительного омоложения]|h|r",
@@ -2435,8 +2435,23 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792991697,
+            last_update = 1793039754,
             items = {
+                {
+                    link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
+                    name = "Символ бесконечного дыхания",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:45785:0:0:0:0:0:0:0:10|h[Символ жизнеотвода]|h|r",
+                    name = "Символ жизнеотвода",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:50077:0:0:0:0:0:0:0:10|h[Символ быстрого разложения]|h|r",
+                    name = "Символ быстрого разложения",
+                    count = 1,
+                },
             },
         },
     },
