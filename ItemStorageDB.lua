@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793042141
+ItemStorageDB_LastUpdate = 1793043327
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2458,9 +2458,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-26 22:07:32",
+        updated_at = "2026-10-26 22:35:27",
         money = 92710,
-        empty = 68,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -2742,11 +2742,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:2011:0:0:0:0:0:0:0:10|h[Крученая сабля]|h|r",
                 name = "Крученая сабля",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
-                name = "Алмазный молот",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2236:0:0:0:0:0:0:0:10|h[Черный клык]|h|r",
@@ -3035,7 +3030,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793041602,
+            last_update = 1793043316,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3283,11 +3278,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
-                    name = "Алмазный молот",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:2236:0:0:0:0:0:0:0:10|h[Черный клык]|h|r",
                     name = "Черный клык",
                     count = 1,
@@ -3525,7 +3515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793041637,
+            last_update = 1793043317,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
