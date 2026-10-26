@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1792968242
+ItemStorageDB_LastUpdate = 1792991764
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 19:47:11",
+        updated_at = "2026-10-26 07:16:04",
         money = 339404,
-        empty = 100,
+        empty = 102,
         location = "Оргриммар",
         items = {
             {
@@ -461,7 +461,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42747:0:0:0:0:0:0:0:10|h[Символ ожога]|h|r",
                 name = "Символ ожога",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:42748:0:0:0:0:0:0:0:10|h[Символ невидимости]|h|r",
@@ -686,7 +686,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                 name = "Символ шипов",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -746,7 +746,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                 name = "Символ замедленного падения",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:43365:0:0:0:0:0:0:0:10|h[Символ благословения королей]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792950395,
+            last_update = 1792991686,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1900,7 +1900,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                     name = "Символ шипов",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -2435,18 +2435,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792950395,
+            last_update = 1792991697,
             items = {
-                {
-                    link = "|cffffffff|Hitem:42747:0:0:0:0:0:0:0:10|h[Символ ожога]|h|r",
-                    name = "Символ ожога",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
-                    name = "Символ замедленного падения",
-                    count = 1,
-                },
             },
         },
     },
