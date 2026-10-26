@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793043327
+ItemStorageDB_LastUpdate = 1793046782
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7058,7 +7058,7 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-26 20:41:29",
+        updated_at = "2026-10-26 22:33:02",
         money = 181084,
         empty = 148,
         location = "Оргриммар",
@@ -7351,7 +7351,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
                 name = "Глубокоскальная соль",
-                count = 138,
+                count = 124,
             },
             {
                 link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
@@ -7395,7 +7395,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793040042,
+            last_update = 1793046472,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7650,7 +7650,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793040057,
+            last_update = 1793046479,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7725,7 +7725,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
                     name = "Глубокоскальная соль",
-                    count = 138,
+                    count = 124,
                 },
                 {
                     link = "|cffffffff|Hitem:8173:0:0:0:0:0:0:0:10|h[Накладки из плотной кожи]|h|r",
