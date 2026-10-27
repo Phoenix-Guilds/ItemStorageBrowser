@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793123659
+ItemStorageDB_LastUpdate = 1793123699
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15717,10 +15717,10 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-23 18:02:14",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-27 19:54:59",
         money = 4042,
-        empty = 155,
+        empty = 156,
         location = "Оргриммар",
         items = {
             {
@@ -15811,7 +15811,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41813:0:0:0:0:0:0:0:10|h[Медуза]|h|r",
                 name = "Медуза",
-                count = 255,
+                count = 245,
             },
             {
                 link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
@@ -15860,7 +15860,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792767728,
+            last_update = 1792614027,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15950,7 +15950,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41813:0:0:0:0:0:0:0:10|h[Медуза]|h|r",
                     name = "Медуза",
-                    count = 255,
+                    count = 245,
                 },
                 {
                     link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
@@ -16000,7 +16000,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792767729,
+            last_update = 1792614028,
             items = {
             },
         },
