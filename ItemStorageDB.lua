@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793125169
+ItemStorageDB_LastUpdate = 1793125566
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21188,9 +21188,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 20:11:46",
+        updated_at = "2026-10-27 20:26:06",
         money = 203936,
-        empty = 59,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -21311,7 +21311,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
                 name = "Поножи осколка голема",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13075:0:0:0:0:0:0:0:10|h[Набедренники Мрачнокрылого]|h|r",
@@ -21321,7 +21321,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13076:0:0:0:0:0:0:0:10|h[Наручи истребителя великанов]|h|r",
                 name = "Наручи истребителя великанов",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13077:0:0:0:0:0:0:0:10|h[Ремень Утера]|h|r",
@@ -21586,7 +21586,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
                 name = "Одеяние мага",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
@@ -21790,7 +21790,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793124687,
+            last_update = 1793125558,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22310,7 +22310,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793124699,
+            last_update = 1793125560,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22345,6 +22345,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
                     name = "Шлем Маг-Тола",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
+                    name = "Поножи осколка голема",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13076:0:0:0:0:0:0:0:10|h[Наручи истребителя великанов]|h|r",
+                    name = "Наручи истребителя великанов",
                     count = 1,
                 },
                 {
@@ -22385,6 +22395,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:16714:0:0:0:0:0:0:0:10|h[Наручи дикого сердца]|h|r",
                     name = "Наручи дикого сердца",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
+                    name = "Одеяние мага",
                     count = 1,
                 },
                 {
