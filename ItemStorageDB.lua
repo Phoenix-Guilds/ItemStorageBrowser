@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793114598
+ItemStorageDB_LastUpdate = 1793114642
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22558,9 +22558,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-26 22:40:38",
+        updated_at = "2026-10-27 17:24:02",
         money = 194111,
-        empty = 119,
+        empty = 120,
         location = "Оргриммар",
         items = {
             {
@@ -22711,7 +22711,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
                 name = "Пылающая эмблема",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
@@ -22865,7 +22865,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793047223,
+            last_update = 1793114626,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23070,7 +23070,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793047232,
+            last_update = 1793114634,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23125,7 +23125,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
                     name = "Пылающая эмблема",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:31147:0:0:0:0:0:0:0:10|h[Подвеска Хитрости]|h|r",
