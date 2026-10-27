@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793124347
+ItemStorageDB_LastUpdate = 1793124627
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18833,9 +18833,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 19:14:23",
+        updated_at = "2026-10-27 20:10:27",
         money = 475064,
-        empty = 88,
+        empty = 86,
         location = "Оргриммар",
         items = {
             {
@@ -18971,7 +18971,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                 name = "Язык аспида",
-                count = 20,
+                count = 108,
             },
             {
                 link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
@@ -18981,7 +18981,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36905:0:0:0:0:0:0:0:10|h[Личецвет]|h|r",
                 name = "Личецвет",
-                count = 3,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:36906:0:0:0:0:0:0:0:10|h[Ледошип]|h|r",
@@ -19100,7 +19100,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793121256,
+            last_update = 1793124389,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19215,7 +19215,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                     name = "Язык аспида",
-                    count = 20,
+                    count = 108,
                 },
                 {
                     link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
@@ -19225,7 +19225,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36905:0:0:0:0:0:0:0:10|h[Личецвет]|h|r",
                     name = "Личецвет",
-                    count = 3,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:36906:0:0:0:0:0:0:0:10|h[Ледошип]|h|r",
@@ -19315,7 +19315,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793121257,
+            last_update = 1793124390,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
