@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793122904
+ItemStorageDB_LastUpdate = 1793123125
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13123,9 +13123,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 18:18:06",
+        updated_at = "2026-10-27 19:45:25",
         money = 385478,
-        empty = 102,
+        empty = 104,
         location = "Оргриммар",
         items = {
             {
@@ -13261,7 +13261,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
@@ -13341,7 +13341,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
@@ -13535,12 +13535,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793117535,
+            last_update = 1793122965,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                     name = "Золотой жезл",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
@@ -13575,7 +13575,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                     name = "Серебряный жезл",
-                    count = 4,
+                    count = 3,
                 },
             },
         },
