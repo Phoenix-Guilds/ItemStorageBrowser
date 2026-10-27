@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793121217
+ItemStorageDB_LastUpdate = 1793121263
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18828,7 +18828,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 19:12:16",
+        updated_at = "2026-10-27 19:14:23",
         money = 475064,
         empty = 88,
         location = "Оргриммар",
@@ -18876,7 +18876,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                 name = "Горный серебряный шалфей",
-                count = 51,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -19095,7 +19095,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793121089,
+            last_update = 1793121256,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19125,7 +19125,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                     name = "Горный серебряный шалфей",
-                    count = 51,
+                    count = 53,
                 },
                 {
                     link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -19310,7 +19310,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793121131,
+            last_update = 1793121257,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
