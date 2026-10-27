@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793123236
+ItemStorageDB_LastUpdate = 1793123296
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13583,9 +13583,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 18:49:57",
+        updated_at = "2026-10-27 19:48:16",
         money = 164134,
-        empty = 48,
+        empty = 47,
         location = "Оргриммар",
         items = {
             {
@@ -13656,6 +13656,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3871:0:0:0:0:0:0:0:10|h[Чертеж: золотые чешуйчатые наплечники]|h|r",
                 name = "Чертеж: золотые чешуйчатые наплечники",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:4298:0:0:0:0:0:0:0:10|h[Выкройка: пояс стража]|h|r",
+                name = "Выкройка: пояс стража",
                 count = 1,
             },
             {
@@ -14645,7 +14650,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793119788,
+            last_update = 1793123287,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -15465,7 +15470,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793119790,
+            last_update = 1793123290,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
@@ -15490,6 +15495,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:3871:0:0:0:0:0:0:0:10|h[Чертеж: золотые чешуйчатые наплечники]|h|r",
                     name = "Чертеж: золотые чешуйчатые наплечники",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:4298:0:0:0:0:0:0:0:10|h[Выкройка: пояс стража]|h|r",
+                    name = "Выкройка: пояс стража",
                     count = 1,
                 },
                 {
