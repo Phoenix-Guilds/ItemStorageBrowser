@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793124068
+ItemStorageDB_LastUpdate = 1793124143
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9653,9 +9653,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 19:17:37",
+        updated_at = "2026-10-27 20:02:23",
         money = 14062,
-        empty = 83,
+        empty = 79,
         location = "Оргриммар",
         items = {
             {
@@ -9676,7 +9676,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
                 name = "Поврежденное ожерелье",
-                count = 11,
+                count = 14,
             },
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
@@ -9751,7 +9751,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 950,
+                count = 1033,
             },
             {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -9850,7 +9850,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793121451,
+            last_update = 1793124137,
             items = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
@@ -9870,7 +9870,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
                     name = "Поврежденное ожерелье",
-                    count = 11,
+                    count = 14,
                 },
                 {
                     link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -9935,7 +9935,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                     name = "Средоточие Стихий",
-                    count = 950,
+                    count = 1033,
                 },
                 {
                     link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -10035,7 +10035,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793121452,
+            last_update = 1793124138,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
