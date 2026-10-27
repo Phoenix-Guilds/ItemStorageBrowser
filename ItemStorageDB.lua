@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793114642
+ItemStorageDB_LastUpdate = 1793115427
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-26 22:44:58",
+        updated_at = "2026-10-27 17:37:07",
         money = 339404,
-        empty = 101,
+        empty = 100,
         location = "Оргриммар",
         items = {
             {
@@ -696,7 +696,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43335:0:0:0:0:0:0:0:10|h[Символ дикой природы]|h|r",
                 name = "Символ дикой природы",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:43338:0:0:0:0:0:0:0:10|h[Символ воскрешения питомца]|h|r",
@@ -931,7 +931,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43425:0:0:0:0:0:0:0:10|h[Символ блокирования]|h|r",
                 name = "Символ блокирования",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:43426:0:0:0:0:0:0:0:10|h[Символ отчаянной защиты]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793047345,
+            last_update = 1793114853,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1495,12 +1495,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42406:0:0:0:0:0:0:0:10|h[Символ Слова Тьмы: Боль]|h|r",
                     name = "Символ Слова Тьмы: Боль",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
                     name = "Символ Тьмы",
-                    count = 9,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
@@ -2145,7 +2145,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43425:0:0:0:0:0:0:0:10|h[Символ блокирования]|h|r",
                     name = "Символ блокирования",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:43426:0:0:0:0:0:0:0:10|h[Символ отчаянной защиты]|h|r",
@@ -2435,11 +2435,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793047345,
+            last_update = 1793114854,
             items = {
                 {
-                    link = "|cffffffff|Hitem:43335:0:0:0:0:0:0:0:10|h[Символ дикой природы]|h|r",
-                    name = "Символ дикой природы",
+                    link = "|cffffffff|Hitem:42406:0:0:0:0:0:0:0:10|h[Символ Слова Тьмы: Боль]|h|r",
+                    name = "Символ Слова Тьмы: Боль",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
+                    name = "Символ Тьмы",
                     count = 1,
                 },
             },
