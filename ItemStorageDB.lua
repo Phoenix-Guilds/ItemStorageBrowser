@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793115719
+ItemStorageDB_LastUpdate = 1793115844
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 17:37:07",
+        updated_at = "2026-10-27 17:44:04",
         money = 339404,
-        empty = 100,
+        empty = 99,
         location = "Оргриммар",
         items = {
             {
@@ -281,12 +281,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42406:0:0:0:0:0:0:0:10|h[Символ Слова Тьмы: Боль]|h|r",
                 name = "Символ Слова Тьмы: Боль",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
                 name = "Символ Тьмы",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:42408:0:0:0:0:0:0:0:10|h[Символ слова силы: Щит]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793114853,
+            last_update = 1793115788,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1540,7 +1540,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42455:0:0:0:0:0:0:0:10|h[Символ порчи]|h|r",
                     name = "Символ порчи",
-                    count = 9,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:42456:0:0:0:0:0:0:0:10|h[Символ проклятия агонии]|h|r",
@@ -1580,7 +1580,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42464:0:0:0:0:0:0:0:10|h[Символ жертвенного огня]|h|r",
                     name = "Символ жертвенного огня",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:42465:0:0:0:0:0:0:0:10|h[Символ беса]|h|r",
@@ -2030,7 +2030,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
                     name = "Символ бесконечного дыхания",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43390:0:0:0:0:0:0:0:10|h[Символ похищения души]|h|r",
@@ -2435,16 +2435,21 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793114854,
+            last_update = 1793115788,
             items = {
                 {
-                    link = "|cffffffff|Hitem:42406:0:0:0:0:0:0:0:10|h[Символ Слова Тьмы: Боль]|h|r",
-                    name = "Символ Слова Тьмы: Боль",
+                    link = "|cffffffff|Hitem:42455:0:0:0:0:0:0:0:10|h[Символ порчи]|h|r",
+                    name = "Символ порчи",
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:42407:0:0:0:0:0:0:0:10|h[Символ Тьмы]|h|r",
-                    name = "Символ Тьмы",
+                    link = "|cffffffff|Hitem:42464:0:0:0:0:0:0:0:10|h[Символ жертвенного огня]|h|r",
+                    name = "Символ жертвенного огня",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
+                    name = "Символ бесконечного дыхания",
                     count = 1,
                 },
             },
