@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793119542
+ItemStorageDB_LastUpdate = 1793119616
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10088,9 +10088,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-26 22:50:15",
+        updated_at = "2026-10-27 18:46:56",
         money = 213874,
-        empty = 70,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -10284,6 +10284,11 @@ ItemStorageDB = {
                 count = 244,
             },
             {
+                link = "|cffffffff|Hitem:43007:0:0:0:0:0:0:0:10|h[Северные пряности]|h|r",
+                name = "Северные пряности",
+                count = 25,
+            },
+            {
                 link = "|cffffffff|Hitem:43009:0:0:0:0:0:0:0:10|h[Бок черпорога]|h|r",
                 name = "Бок черпорога",
                 count = 190,
@@ -10306,7 +10311,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 1324,
+                count = 1574,
             },
             {
                 link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
@@ -10375,7 +10380,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793047808,
+            last_update = 1793119609,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10568,6 +10573,11 @@ ItemStorageDB = {
                     count = 244,
                 },
                 {
+                    link = "|cffffffff|Hitem:43007:0:0:0:0:0:0:0:10|h[Северные пряности]|h|r",
+                    name = "Северные пряности",
+                    count = 25,
+                },
+                {
                     link = "|cffffffff|Hitem:43009:0:0:0:0:0:0:0:10|h[Бок черпорога]|h|r",
                     name = "Бок черпорога",
                     count = 190,
@@ -10655,12 +10665,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793047810,
+            last_update = 1793119611,
             items = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                     name = "Охлажденное мясо",
-                    count = 1324,
+                    count = 1574,
                 },
             },
         },
