@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793121321
+ItemStorageDB_LastUpdate = 1793121367
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7718,7 +7718,7 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 14:47:59",
+        updated_at = "2026-10-27 19:16:07",
         money = 0,
         empty = 193,
         location = "Оргриммар",
@@ -7741,7 +7741,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22788:0:0:0:0:0:0:0:10|h[Огненный зев]|h|r",
                 name = "Огненный зев",
-                count = 4,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:27651:0:0:0:0:0:0:0:10|h[Закуска из канюка]|h|r",
@@ -7840,7 +7840,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792932252,
+            last_update = 1793121359,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7860,7 +7860,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22788:0:0:0:0:0:0:0:10|h[Огненный зев]|h|r",
                     name = "Огненный зев",
-                    count = 4,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:27651:0:0:0:0:0:0:0:10|h[Закуска из канюка]|h|r",
@@ -7896,6 +7896,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:29292:0:0:0:0:0:0:0:10|h[Зловепревая ветчина]|h|r",
                     name = "Зловепревая ветчина",
                     count = 4,
+                },
+                {
+                    link = "|cffffffff|Hitem:31672:0:0:0:0:0:0:0:10|h[Ребрышки Мок'Натала]|h|r",
+                    name = "Ребрышки Мок'Натала",
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
@@ -7955,13 +7960,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792932294,
+            last_update = 1793121362,
             items = {
-                {
-                    link = "|cffffffff|Hitem:31672:0:0:0:0:0:0:0:10|h[Ребрышки Мок'Натала]|h|r",
-                    name = "Ребрышки Мок'Натала",
-                    count = 2,
-                },
             },
         },
     },
