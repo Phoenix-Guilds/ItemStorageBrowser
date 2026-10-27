@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793126051
+ItemStorageDB_LastUpdate = 1793126348
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2458,9 +2458,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 20:19:29",
+        updated_at = "2026-10-27 20:39:08",
         money = 92710,
-        empty = 69,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -2581,6 +2581,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13033:0:0:0:0:0:0:0:10|h[Клинок фанатика]|h|r",
                 name = "Клинок фанатика",
+                count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
+                name = "Рапира из быстростали",
                 count = 2,
             },
             {
@@ -2889,6 +2894,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
+                name = "Короткий меч Ночного Дозора",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:936:0:0:0:0:0:0:0:10|h[Полночная палица]|h|r",
                 name = "Полночная палица",
                 count = 2,
@@ -3030,7 +3040,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793125144,
+            last_update = 1793126096,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3525,7 +3535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793125148,
+            last_update = 1793126098,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3536,6 +3546,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
                     count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
+                    name = "Рапира из быстростали",
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
@@ -3590,6 +3605,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
                     name = "Клинок Василиска",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
+                    name = "Короткий меч Ночного Дозора",
                     count = 1,
                 },
                 {
