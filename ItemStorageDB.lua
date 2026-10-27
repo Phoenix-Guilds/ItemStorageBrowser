@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793127586
+ItemStorageDB_LastUpdate = 1793127649
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15998,9 +15998,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 17:16:43",
+        updated_at = "2026-10-27 21:00:49",
         money = 214291,
-        empty = 191,
+        empty = 189,
         location = "Оргриммар",
         items = {
             {
@@ -16081,7 +16081,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
                 name = "Материал для свитка брони",
-                count = 50,
+                count = 65,
             },
             {
                 link = "|cffffffff|Hitem:38828:0:0:0:0:0:0:0:10|h[Свиток чар для щита - выносливость III]|h|r",
@@ -16154,6 +16154,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffffffff|Hitem:39349:0:0:0:0:0:0:0:10|h[Материал для свитка оружия]|h|r",
+                name = "Материал для свитка оружия",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:10|h[Свиток ловкости VII]|h|r",
                 name = "Свиток ловкости VII",
                 count = 4,
@@ -16220,7 +16225,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793114197,
+            last_update = 1793127636,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -16325,7 +16330,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793114199,
+            last_update = 1793127643,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -16345,7 +16350,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
                     name = "Материал для свитка брони",
-                    count = 50,
+                    count = 65,
                 },
                 {
                     link = "|cffffffff|Hitem:38828:0:0:0:0:0:0:0:10|h[Свиток чар для щита - выносливость III]|h|r",
@@ -16416,6 +16421,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:39006:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - живучесть клыкарра]|h|r",
                     name = "Свиток чар для обуви - живучесть клыкарра",
                     count = 2,
+                },
+                {
+                    link = "|cffffffff|Hitem:39349:0:0:0:0:0:0:0:10|h[Материал для свитка оружия]|h|r",
+                    name = "Материал для свитка оружия",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:44449:0:0:0:0:0:0:0:10|h[Свиток чар для обуви - штурм I]|h|r",
