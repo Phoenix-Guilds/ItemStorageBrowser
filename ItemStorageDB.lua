@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793123781
+ItemStorageDB_LastUpdate = 1793124020
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5898,9 +5898,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 19:20:05",
+        updated_at = "2026-10-27 20:00:20",
         money = 468301,
-        empty = 51,
+        empty = 50,
         location = "Оргриммар",
         items = {
             {
@@ -5976,7 +5976,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                 name = "Камень теней",
-                count = 125,
+                count = 126,
             },
             {
                 link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
@@ -6011,7 +6011,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                 name = "Малый лунный камень",
-                count = 184,
+                count = 186,
             },
             {
                 link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
@@ -6121,7 +6121,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12365:0:0:0:0:0:0:0:10|h[Массивный камень]|h|r",
                 name = "Массивный камень",
-                count = 625,
+                count = 695,
             },
             {
                 link = "|cffffffff|Hitem:12404:0:0:0:0:0:0:0:10|h[Массивное точило]|h|r",
@@ -6240,7 +6240,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793121597,
+            last_update = 1793124014,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6310,7 +6310,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
                     name = "Камень теней",
-                    count = 125,
+                    count = 126,
                 },
                 {
                     link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
@@ -6345,7 +6345,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                     name = "Малый лунный камень",
-                    count = 184,
+                    count = 186,
                 },
                 {
                     link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
@@ -6435,7 +6435,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12365:0:0:0:0:0:0:0:10|h[Массивный камень]|h|r",
                     name = "Массивный камень",
-                    count = 625,
+                    count = 695,
                 },
                 {
                     link = "|cffffffff|Hitem:12644:0:0:0:0:0:0:0:10|h[Массивный шлифовальный камень]|h|r",
@@ -6485,7 +6485,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793121600,
+            last_update = 1793124015,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
