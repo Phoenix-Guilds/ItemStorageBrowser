@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793127649
+ItemStorageDB_LastUpdate = 1793182671
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13107,10 +13107,10 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 19:46:07",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-28 13:17:51",
         money = 385478,
-        empty = 103,
+        empty = 105,
         location = "Оргриммар",
         items = {
             {
@@ -13246,7 +13246,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
@@ -13326,7 +13326,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
@@ -13335,7 +13335,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793123159,
+            last_update = 1793182664,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13520,12 +13520,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793123162,
+            last_update = 1793182665,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                     name = "Золотой жезл",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
@@ -13560,7 +13560,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                     name = "Серебряный жезл",
-                    count = 3,
+                    count = 2,
                 },
             },
         },
