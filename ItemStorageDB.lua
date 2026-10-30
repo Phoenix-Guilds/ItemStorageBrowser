@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793350326
+ItemStorageDB_LastUpdate = 1793350385
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21233,9 +21233,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:48:19",
+        updated_at = "2026-10-30 11:53:05",
         money = 203936,
-        empty = 56,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -21252,6 +21252,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
+                name = "Темнотканые брюки",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12988:0:0:0:0:0:0:0:10|h[Мундир Звездного зрения]|h|r",
@@ -21456,7 +21461,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                 name = "Кушак Огрона",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -21825,7 +21830,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793350092,
+            last_update = 1793350377,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22340,11 +22345,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793350093,
+            last_update = 1793350378,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                     name = "Перчатки Волшебного кулака",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
+                    name = "Темнотканые брюки",
                     count = 1,
                 },
                 {
@@ -22405,7 +22415,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                     name = "Кушак Огрона",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
