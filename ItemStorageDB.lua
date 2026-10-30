@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793369792
+ItemStorageDB_LastUpdate = 1793373779
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12737,10 +12737,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:52:06",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-30 17:22:59",
         money = 13104,
-        empty = 56,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -12859,11 +12859,6 @@ ItemStorageDB = {
                 count = 8955,
             },
             {
-                link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
-                name = "Ружье-клинок",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:41165:0:0:0:0:0:0:0:10|h[Саронитовые острейшие стрелы]|h|r",
                 name = "Саронитовые острейшие стрелы",
                 count = 15601,
@@ -12925,7 +12920,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793350321,
+            last_update = 1793373644,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13033,11 +13028,6 @@ ItemStorageDB = {
                     count = 5,
                 },
                 {
-                    link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
-                    name = "Ружье-клинок",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
                     name = "Дворфийская пищаль",
                     count = 5,
@@ -13060,7 +13050,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793350322,
+            last_update = 1793373653,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
