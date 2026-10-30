@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793395523
+ItemStorageDB_LastUpdate = 1793395593
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8467,10 +8467,10 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 12:58:29",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-30 23:26:33",
         money = 141967,
-        empty = 136,
+        empty = 135,
         location = "Оргриммар",
         items = {
             {
@@ -8531,7 +8531,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:6037:0:0:0:0:0:0:0:10|h[Слиток истинного серебра]|h|r",
                 name = "Слиток истинного серебра",
-                count = 523,
+                count = 545,
             },
             {
                 link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
@@ -8651,11 +8651,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
-                count = 327,
+                count = 389,
             },
         },
         bank = {
-            last_update = 1793354293,
+            last_update = 1793395586,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8715,7 +8715,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:6037:0:0:0:0:0:0:0:10|h[Слиток истинного серебра]|h|r",
                     name = "Слиток истинного серебра",
-                    count = 523,
+                    count = 545,
                 },
                 {
                     link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
@@ -8835,12 +8835,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                     name = "Мифриловый слиток",
-                    count = 327,
+                    count = 389,
                 },
             },
         },
         bags = {
-            last_update = 1793354303,
+            last_update = 1793395589,
             items = {
             },
         },
