@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793348569
+ItemStorageDB_LastUpdate = 1793348598
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12788,9 +12788,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-29 17:47:16",
+        updated_at = "2026-10-30 11:23:18",
         money = 13104,
-        empty = 63,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -12841,7 +12841,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                 name = "Быстроветр",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
@@ -12861,7 +12861,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -12956,7 +12956,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
@@ -12975,7 +12975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793285222,
+            last_update = 1793348591,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13020,7 +13020,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                     name = "Быстроветр",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
@@ -13040,7 +13040,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                     name = "Звездопад",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -13105,12 +13105,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                     name = "Лук Жгучих Стрел",
-                    count = 4,
+                    count = 5,
                 },
             },
         },
         bags = {
-            last_update = 1793285230,
+            last_update = 1793348592,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
