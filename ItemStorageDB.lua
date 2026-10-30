@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793348028
+ItemStorageDB_LastUpdate = 1793348060
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6582,10 +6582,10 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 19:21:13",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-30 11:14:20",
         money = 404282,
-        empty = 150,
+        empty = 148,
         location = "Оргриммар",
         items = {
             {
@@ -6691,7 +6691,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19278:0:0:0:0:0:0:0:10|h[Двойка из колоды Порталов]|h|r",
                 name = "Двойка из колоды Порталов",
-                count = 5,
+                count = 6,
             },
             {
                 link = "|cff0070dd|Hitem:19279:0:0:0:0:0:0:0:10|h[Тройка из колоды Порталов]|h|r",
@@ -6701,7 +6701,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19280:0:0:0:0:0:0:0:10|h[Четверка из колоды Порталов]|h|r",
                 name = "Четверка из колоды Порталов",
-                count = 7,
+                count = 8,
             },
             {
                 link = "|cff0070dd|Hitem:19281:0:0:0:0:0:0:0:10|h[Пятерка из колоды Порталов]|h|r",
@@ -6805,7 +6805,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793121656,
+            last_update = 1793348052,
             items = {
                 {
                     link = "|cff0070dd|Hitem:19230:0:0:0:0:0:0:0:10|h[Двойка из колоды Зверей]|h|r",
@@ -6940,8 +6940,18 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793121667,
+            last_update = 1793348055,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:19278:0:0:0:0:0:0:0:10|h[Двойка из колоды Порталов]|h|r",
+                    name = "Двойка из колоды Порталов",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:19280:0:0:0:0:0:0:0:10|h[Четверка из колоды Порталов]|h|r",
+                    name = "Четверка из колоды Порталов",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
                     name = "Колода Мечей",
