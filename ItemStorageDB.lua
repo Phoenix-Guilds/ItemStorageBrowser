@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793348171
+ItemStorageDB_LastUpdate = 1793348206
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7042,10 +7042,10 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-28 21:06:12",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-30 11:16:46",
         money = 181084,
-        empty = 148,
+        empty = 147,
         location = "Оргриммар",
         items = {
             {
@@ -7324,6 +7324,11 @@ ItemStorageDB = {
                 count = 6,
             },
             {
+                link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
+                name = "Чешуя наги",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:7392:0:0:0:0:0:0:0:10|h[Чешуя зеленого дракончика]|h|r",
                 name = "Чешуя зеленого дракончика",
                 count = 20,
@@ -7380,7 +7385,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793214318,
+            last_update = 1793348200,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7635,7 +7640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793214335,
+            last_update = 1793348200,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7706,6 +7711,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:5373:0:0:0:0:0:0:0:10|h[Талисман на удачу]|h|r",
                     name = "Талисман на удачу",
                     count = 4,
+                },
+                {
+                    link = "|cffffffff|Hitem:7072:0:0:0:0:0:0:0:10|h[Чешуя наги]|h|r",
+                    name = "Чешуя наги",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
