@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793349397
+ItemStorageDB_LastUpdate = 1793349559
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22488,20 +22488,20 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:29:16",
+        updated_at = "2026-10-30 11:39:19",
         money = 194111,
-        empty = 113,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                 name = "Сила Утера",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                 name = "Кольцо защиты",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -22546,7 +22546,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
                 name = "Медальон главнокомандующего Морриса",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
@@ -22800,12 +22800,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793348950,
+            last_update = 1793349553,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                     name = "Кольцо защиты",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -23005,12 +23005,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793348951,
+            last_update = 1793349554,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                     name = "Сила Утера",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
@@ -23045,7 +23045,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
                     name = "Медальон главнокомандующего Морриса",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
