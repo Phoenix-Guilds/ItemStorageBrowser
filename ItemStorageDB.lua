@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793349886
+ItemStorageDB_LastUpdate = 1793350068
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12738,9 +12738,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:36:37",
+        updated_at = "2026-10-30 11:47:48",
         money = 13104,
-        empty = 58,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -12831,7 +12831,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                 name = "Железноткач",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -12925,7 +12925,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793349392,
+            last_update = 1793350063,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13010,7 +13010,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                     name = "Железноткач",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -13060,7 +13060,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793349392,
+            last_update = 1793350063,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
