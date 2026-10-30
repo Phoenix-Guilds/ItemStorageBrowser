@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793348644
+ItemStorageDB_LastUpdate = 1793348956
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22523,9 +22523,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:22:49",
+        updated_at = "2026-10-30 11:29:16",
         money = 194111,
-        empty = 116,
+        empty = 113,
         location = "Оргриммар",
         items = {
             {
@@ -22556,7 +22556,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                 name = "Калейдоскопическая цепь",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -22566,7 +22566,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                 name = "Колье Ярости Реки",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
@@ -22601,7 +22601,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
                 name = "Кольцо жреца",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
@@ -22835,7 +22835,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793348561,
+            last_update = 1793348950,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22870,7 +22870,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13096:0:0:0:0:0:0:0:10|h[Кольцо жреца]|h|r",
                     name = "Кольцо жреца",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
@@ -23040,7 +23040,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793348563,
+            last_update = 1793348951,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23055,7 +23055,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                     name = "Калейдоскопическая цепь",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -23065,7 +23065,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                     name = "Колье Ярости Реки",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
