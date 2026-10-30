@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793397054
+ItemStorageDB_LastUpdate = 1793397130
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13128,10 +13128,10 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 23:23:31",
+        updated_at = "2026-10-30 23:52:10",
         money = 385478,
         empty = 105,
-        location = "Оргриммар",
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13570,7 +13570,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793395405,
+            last_update = 1793397104,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
