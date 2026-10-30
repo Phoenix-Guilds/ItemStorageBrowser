@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793350099
+ItemStorageDB_LastUpdate = 1793350153
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3643,9 +3643,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:41:39",
+        updated_at = "2026-10-30 11:49:13",
         money = 158410,
-        empty = 137,
+        empty = 135,
         location = "Оргриммар",
         items = {
             {
@@ -3654,9 +3654,14 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
+                name = "Манускрипт страсти",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
                 name = "Клинок невезения",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
@@ -3840,7 +3845,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793349689,
+            last_update = 1793350146,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3848,9 +3853,14 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:23203:0:0:0:0:0:0:0:10|h[Манускрипт страсти]|h|r",
+                    name = "Манускрипт страсти",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:31134:0:0:0:0:0:0:0:10|h[Клинок невезения]|h|r",
                     name = "Клинок невезения",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
@@ -4035,7 +4045,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793349693,
+            last_update = 1793350148,
             items = {
             },
         },
