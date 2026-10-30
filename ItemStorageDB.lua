@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793375237
+ItemStorageDB_LastUpdate = 1793375775
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21292,8 +21292,8 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:53:05",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-30 17:56:15",
         money = 203936,
         empty = 54,
         location = "Оргриммар",
@@ -21890,7 +21890,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793350377,
+            last_update = 1793375270,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22405,7 +22405,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793350378,
+            last_update = 1793375322,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
