@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793376147
+ItemStorageDB_LastUpdate = 1793376233
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7038,9 +7038,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 17:32:08",
+        updated_at = "2026-10-30 18:03:53",
         money = 181084,
-        empty = 140,
+        empty = 139,
         location = "Оргриммар",
         items = {
             {
@@ -7375,7 +7375,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793374300,
+            last_update = 1793376068,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7440,7 +7440,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                     name = "Жесткая кожа",
-                    count = 791,
+                    count = 789,
                 },
                 {
                     link = "|cffffffff|Hitem:23793:0:0:0:0:0:0:0:10|h[Толстая узловатая кожа]|h|r",
@@ -7630,7 +7630,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793374308,
+            last_update = 1793376069,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7676,6 +7676,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
                     name = "Накладки из жесткой кожи",
                     count = 7,
+                },
+                {
+                    link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
+                    name = "Жесткая кожа",
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
