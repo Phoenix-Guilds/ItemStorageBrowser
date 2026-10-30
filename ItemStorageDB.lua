@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793350201
+ItemStorageDB_LastUpdate = 1793350261
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3643,9 +3643,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:49:13",
+        updated_at = "2026-10-30 11:51:01",
         money = 158410,
-        empty = 135,
+        empty = 134,
         location = "Оргриммар",
         items = {
             {
@@ -3666,7 +3666,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
                 name = "Боевая перчатка расплаты",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
@@ -3845,7 +3845,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793350146,
+            last_update = 1793350255,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -3865,7 +3865,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31139:0:0:0:0:0:0:0:10|h[Боевая перчатка расплаты]|h|r",
                     name = "Боевая перчатка расплаты",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31142:0:0:0:0:0:0:0:10|h[Клинок обретенного знания]|h|r",
@@ -4045,7 +4045,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793350148,
+            last_update = 1793350255,
             items = {
             },
         },
