@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793348979
+ItemStorageDB_LastUpdate = 1793349004
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21263,9 +21263,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:24:04",
+        updated_at = "2026-10-30 11:30:04",
         money = 203936,
-        empty = 62,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -21736,7 +21736,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
@@ -21855,7 +21855,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793348636,
+            last_update = 1793348998,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22370,7 +22370,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793348638,
+            last_update = 1793348998,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -22480,7 +22480,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                     name = "Ремень Келлера",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
