@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793348233
+ItemStorageDB_LastUpdate = 1793348530
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2458,9 +2458,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-28 16:32:34",
+        updated_at = "2026-10-30 11:22:10",
         money = 92710,
-        empty = 67,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -2861,7 +2861,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                 name = "Корявый ясеневый посох",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
@@ -3031,11 +3031,11 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:944:0:0:0:0:0:0:0:10|h[Посох магии стихий]|h|r",
                 name = "Посох магии стихий",
-                count = 1,
+                count = 2,
             },
         },
         bank = {
-            last_update = 1793194325,
+            last_update = 1793348522,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3520,12 +3520,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:944:0:0:0:0:0:0:0:10|h[Посох магии стихий]|h|r",
                     name = "Посох магии стихий",
-                    count = 1,
+                    count = 2,
                 },
             },
         },
         bags = {
-            last_update = 1793194346,
+            last_update = 1793348524,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3591,6 +3591,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
+                    name = "Корявый ясеневый посох",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
