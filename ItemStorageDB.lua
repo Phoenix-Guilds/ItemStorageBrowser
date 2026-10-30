@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793348140
+ItemStorageDB_LastUpdate = 1793348171
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18848,9 +18848,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-29 22:01:23",
+        updated_at = "2026-10-30 11:16:11",
         money = 475064,
-        empty = 87,
+        empty = 85,
         location = "Оргриммар",
         items = {
             {
@@ -19056,7 +19056,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                 name = "Огнецвет",
-                count = 174,
+                count = 224,
             },
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
@@ -19072,6 +19072,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
                 count = 10,
+            },
+            {
+                link = "|cffffffff|Hitem:6371:0:0:0:0:0:0:0:10|h[Зажигательное масло]|h|r",
+                name = "Зажигательное масло",
+                count = 17,
             },
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
@@ -19115,7 +19120,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793300415,
+            last_update = 1793348163,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19285,7 +19290,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                     name = "Огнецвет",
-                    count = 174,
+                    count = 224,
                 },
                 {
                     link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
@@ -19330,7 +19335,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793300430,
+            last_update = 1793348165,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -19381,6 +19386,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                     name = "Масло черноротика",
                     count = 10,
+                },
+                {
+                    link = "|cffffffff|Hitem:6371:0:0:0:0:0:0:0:10|h[Зажигательное масло]|h|r",
+                    name = "Зажигательное масло",
+                    count = 17,
                 },
             },
         },
