@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793376310
+ItemStorageDB_LastUpdate = 1793378419
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 18:02:27",
+        updated_at = "2026-10-30 18:40:19",
         money = 339404,
-        empty = 100,
+        empty = 97,
         location = "Оргриммар",
         items = {
             {
@@ -116,7 +116,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41094:0:0:0:0:0:0:0:10|h[Символ печати повиновения]|h|r",
                 name = "Символ печати повиновения",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:41095:0:0:0:0:0:0:0:10|h[Символ молота правосудия]|h|r",
@@ -711,7 +711,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
                 name = "Символ благословения могущества",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:43343:0:0:0:0:0:0:0:10|h[Символ обшаривания карманов]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793375872,
+            last_update = 1793377963,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2050,12 +2050,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
                     name = "Символ боевого крика",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
                     name = "Символ кровавой ярости",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:43397:0:0:0:0:0:0:0:10|h[Символ рывка]|h|r",
@@ -2080,7 +2080,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43412:0:0:0:0:0:0:0:10|h[Символ кровожадности]|h|r",
                     name = "Символ кровожадности",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43413:0:0:0:0:0:0:0:10|h[Символ стремительного рывка]|h|r",
@@ -2170,7 +2170,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
                     name = "Символ грохочущей мощи",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:43431:0:0:0:0:0:0:0:10|h[Символ победного ража]|h|r",
@@ -2415,7 +2415,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:49084:0:0:0:0:0:0:0:10|h[Символ властности]|h|r",
                     name = "Символ властности",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:50045:0:0:0:0:0:0:0:10|h[Символ извечной воды]|h|r",
@@ -2435,16 +2435,31 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793375882,
+            last_update = 1793377963,
             items = {
                 {
-                    link = "|cffffffff|Hitem:41094:0:0:0:0:0:0:0:10|h[Символ печати повиновения]|h|r",
-                    name = "Символ печати повиновения",
+                    link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
+                    name = "Символ боевого крика",
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:43340:0:0:0:0:0:0:0:10|h[Символ благословения могущества]|h|r",
-                    name = "Символ благословения могущества",
+                    link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
+                    name = "Символ кровавой ярости",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43412:0:0:0:0:0:0:0:10|h[Символ кровожадности]|h|r",
+                    name = "Символ кровожадности",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43430:0:0:0:0:0:0:0:10|h[Символ грохочущей мощи]|h|r",
+                    name = "Символ грохочущей мощи",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:49084:0:0:0:0:0:0:0:10|h[Символ властности]|h|r",
+                    name = "Символ властности",
                     count = 1,
                 },
             },
