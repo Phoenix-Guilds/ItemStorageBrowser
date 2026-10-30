@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793391470
+ItemStorageDB_LastUpdate = 1793391806
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21322,10 +21322,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 17:56:15",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-30 23:23:26",
         money = 203936,
-        empty = 54,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -21814,11 +21814,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:45626:884:0:0:0:0:0:0:10|h[Пелерина из паучьего шелка]|h|r",
-                name = "Пелерина из паучьего шелка",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:5257:0:0:0:0:0:0:0:10|h[Накидка с темным капюшоном]|h|r",
                 name = "Накидка с темным капюшоном",
                 count = 1,
@@ -21920,7 +21915,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793375270,
+            last_update = 1793391787,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -21930,7 +21925,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                     name = "Перчатки Волшебного кулака",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -22348,11 +22343,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:45626:884:0:0:0:0:0:0:10|h[Пелерина из паучьего шелка]|h|r",
-                    name = "Пелерина из паучьего шелка",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:5257:0:0:0:0:0:0:0:10|h[Накидка с темным капюшоном]|h|r",
                     name = "Накидка с темным капюшоном",
                     count = 1,
@@ -22435,13 +22425,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793375322,
+            last_update = 1793391790,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
-                    name = "Перчатки Волшебного кулака",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
                     name = "Темнотканые брюки",
