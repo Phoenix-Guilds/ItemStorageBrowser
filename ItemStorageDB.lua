@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793349559
+ItemStorageDB_LastUpdate = 1793349612
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2453,9 +2453,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:22:10",
+        updated_at = "2026-10-30 11:40:12",
         money = 92710,
-        empty = 65,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2561,7 +2561,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
                 name = "Костегрыз",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13028:0:0:0:0:0:0:0:10|h[Ляпис-лазурный молот]|h|r",
@@ -2696,7 +2696,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                 name = "Копейный щит Черепа",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
@@ -2921,7 +2921,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                 name = "Черночерепный щит",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
@@ -3030,7 +3030,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793348522,
+            last_update = 1793349605,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3520,7 +3520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793348524,
+            last_update = 1793349606,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3530,6 +3530,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
+                    name = "Костегрыз",
                     count = 1,
                 },
                 {
@@ -3550,7 +3555,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                     name = "Копейный щит Черепа",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
@@ -3615,7 +3620,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                     name = "Черночерепный щит",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
