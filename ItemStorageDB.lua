@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793354082
+ItemStorageDB_LastUpdate = 1793354124
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18623,9 +18623,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:15:11",
+        updated_at = "2026-10-30 12:55:24",
         money = 900602,
-        empty = 94,
+        empty = 92,
         location = "Оргриммар",
         items = {
             {
@@ -18711,7 +18711,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                 name = "Магическая ткань",
-                count = 2243,
+                count = 2327,
             },
             {
                 link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
@@ -18725,7 +18725,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793348105,
+            last_update = 1793354116,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -18800,7 +18800,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                     name = "Магическая ткань",
-                    count = 2243,
+                    count = 2293,
                 },
                 {
                     link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
@@ -18810,7 +18810,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793348106,
+            last_update = 1793354119,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -18821,6 +18821,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41603:0:0:0:0:0:0:0:10|h[Лазурная чародейская нить]|h|r",
                     name = "Лазурная чародейская нить",
                     count = 10,
+                },
+                {
+                    link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
+                    name = "Магическая ткань",
+                    count = 34,
                 },
                 {
                     link = "|cffffffff|Hitem:7071:0:0:0:0:0:0:0:10|h[Железная скоба]|h|r",
