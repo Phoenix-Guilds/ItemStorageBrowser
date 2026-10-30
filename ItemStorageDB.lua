@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793374328
+ItemStorageDB_LastUpdate = 1793374443
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13098,9 +13098,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 16:16:32",
+        updated_at = "2026-10-30 17:34:03",
         money = 385478,
-        empty = 102,
+        empty = 104,
         location = "Оргриммар",
         items = {
             {
@@ -13256,7 +13256,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                 name = "Арканитовый жезл",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
@@ -13296,7 +13296,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
                 name = "Жезл из оскверненного железа",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
@@ -13330,7 +13330,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793369770,
+            last_update = 1793374352,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13520,7 +13520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793369774,
+            last_update = 1793374421,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -13535,12 +13535,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                     name = "Арканитовый жезл",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
                     name = "Жезл из оскверненного железа",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
