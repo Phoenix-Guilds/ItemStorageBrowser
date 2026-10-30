@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793376233
+ItemStorageDB_LastUpdate = 1793376310
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2452,11 +2452,11 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:44:19",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-30 18:05:10",
         money = 92710,
         empty = 61,
-        location = "Оргриммар",
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -2874,6 +2874,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:8225:0:0:0:0:0:0:0:10|h[Гниющий пронзатель]|h|r",
+                name = "Гниющий пронзатель",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
                 name = "Жнец Сталвана",
                 count = 2,
@@ -3026,11 +3031,11 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:944:0:0:0:0:0:0:0:10|h[Посох магии стихий]|h|r",
                 name = "Посох магии стихий",
-                count = 2,
+                count = 1,
             },
         },
         bank = {
-            last_update = 1793349853,
+            last_update = 1793126096,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3393,6 +3398,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:8225:0:0:0:0:0:0:0:10|h[Гниющий пронзатель]|h|r",
+                    name = "Гниющий пронзатель",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
                     name = "Жнец Сталвана",
                     count = 2,
@@ -3515,12 +3525,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:944:0:0:0:0:0:0:0:10|h[Посох магии стихий]|h|r",
                     name = "Посох магии стихий",
-                    count = 2,
+                    count = 1,
                 },
             },
         },
         bags = {
-            last_update = 1793349853,
+            last_update = 1793376252,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
