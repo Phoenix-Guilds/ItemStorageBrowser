@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793476494
+ItemStorageDB_LastUpdate = 1793476562
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16527,10 +16527,10 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-29 17:48:06",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-31 21:56:02",
         money = 108852,
-        empty = 60,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -16601,6 +16601,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:14406:0:0:0:0:0:0:0:10|h[Эластичный шнурованный ремень]|h|r",
                 name = "Эластичный шнурованный ремень",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:14561:0:0:0:0:0:0:0:10|h[Манжеты геолога]|h|r",
+                name = "Манжеты геолога",
                 count = 1,
             },
             {
@@ -17415,7 +17420,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793285268,
+            last_update = 1793476547,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -18070,7 +18075,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793285275,
+            last_update = 1793476554,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -18086,6 +18091,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:11304:0:0:0:0:0:0:0:10|h[Тонкий длинный лук]|h|r",
                     name = "Тонкий длинный лук",
                     count = 2,
+                },
+                {
+                    link = "|cff1eff00|Hitem:14561:0:0:0:0:0:0:0:10|h[Манжеты геолога]|h|r",
+                    name = "Манжеты геолога",
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:15211:20235:0:0:0:0:24:0:10|h[Короткий меч ополченца со знаком силы]|h|r",
