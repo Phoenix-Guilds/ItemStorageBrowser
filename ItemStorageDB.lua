@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793466739
+ItemStorageDB_LastUpdate = 1793467553
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2448,7 +2448,7 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 17:57:45",
+        updated_at = "2026-10-31 19:25:53",
         money = 92710,
         empty = 61,
         location = "Оргриммар",
@@ -2704,11 +2704,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:1481:0:0:0:0:0:0:0:10|h[Лютый Коготь]|h|r",
-                name = "Лютый Коготь",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
                 name = "Поющий клинок Та-Киертан",
                 count = 1,
@@ -2826,7 +2821,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                 name = "Клык Боана",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:5756:0:0:0:0:0:0:0:10|h[Серебряный клинок]|h|r",
@@ -3035,7 +3030,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793462258,
+            last_update = 1793467547,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3253,11 +3248,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:1481:0:0:0:0:0:0:0:10|h[Лютый Коготь]|h|r",
-                    name = "Лютый Коготь",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:16039:0:0:0:0:0:0:0:10|h[Поющий клинок Та-Киертан]|h|r",
                     name = "Поющий клинок Та-Киертан",
                     count = 1,
@@ -3360,7 +3350,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                     name = "Клык Боана",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:5756:0:0:0:0:0:0:0:10|h[Серебряный клинок]|h|r",
@@ -3535,7 +3525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793462259,
+            last_update = 1793467547,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
