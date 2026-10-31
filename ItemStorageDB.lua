@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793462544
+ItemStorageDB_LastUpdate = 1793462607
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21298,9 +21298,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 18:00:33",
+        updated_at = "2026-10-31 18:03:27",
         money = 203936,
-        empty = 64,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -21481,7 +21481,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
                 name = "Накидка черного пламени",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
@@ -21890,7 +21890,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793462404,
+            last_update = 1793462576,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22060,7 +22060,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
                     name = "Накидка черного пламени",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
@@ -22400,7 +22400,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793462428,
+            last_update = 1793462586,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
