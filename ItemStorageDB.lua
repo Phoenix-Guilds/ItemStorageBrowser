@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793462118
+ItemStorageDB_LastUpdate = 1793462265
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2448,9 +2448,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 17:37:49",
+        updated_at = "2026-10-31 17:57:45",
         money = 92710,
-        empty = 63,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -2824,6 +2824,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
+                name = "Клык Боана",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:5756:0:0:0:0:0:0:0:10|h[Серебряный клинок]|h|r",
                 name = "Серебряный клинок",
                 count = 1,
@@ -2842,6 +2847,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
                 name = "Короткий меч отмщения",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:7752:0:0:0:0:0:0:0:10|h[Сноубийца]|h|r",
+                name = "Сноубийца",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
@@ -3025,7 +3035,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793461039,
+            last_update = 1793462258,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3348,6 +3358,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
+                    name = "Клык Боана",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:5756:0:0:0:0:0:0:0:10|h[Серебряный клинок]|h|r",
                     name = "Серебряный клинок",
                     count = 1,
@@ -3366,6 +3381,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
                     name = "Короткий меч отмщения",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:7752:0:0:0:0:0:0:0:10|h[Сноубийца]|h|r",
+                    name = "Сноубийца",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
@@ -3515,7 +3535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793461060,
+            last_update = 1793462259,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
