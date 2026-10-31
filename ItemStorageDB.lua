@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793465489
+ItemStorageDB_LastUpdate = 1793465559
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13138,9 +13138,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 18:31:18",
+        updated_at = "2026-10-31 18:52:39",
         money = 385478,
-        empty = 104,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -13244,16 +13244,6 @@ ItemStorageDB = {
                 count = 9,
             },
             {
-                link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
-                name = "Великая планарная субстанция",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:22447:0:0:0:0:0:0:0:10|h[Простая планарная субстанция]|h|r",
-                name = "Простая планарная субстанция",
-                count = 3,
-            },
-            {
                 link = "|cff1eff00|Hitem:34055:0:0:0:0:0:0:0:10|h[Великая космическая субстанция]|h|r",
                 name = "Великая космическая субстанция",
                 count = 151,
@@ -13351,7 +13341,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
                 name = "Адамантитовый жезл",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
@@ -13380,7 +13370,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793464271,
+            last_update = 1793465537,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13483,16 +13473,6 @@ ItemStorageDB = {
                     count = 9,
                 },
                 {
-                    link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
-                    name = "Великая планарная субстанция",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:22447:0:0:0:0:0:0:0:10|h[Простая планарная субстанция]|h|r",
-                    name = "Простая планарная субстанция",
-                    count = 3,
-                },
-                {
                     link = "|cff1eff00|Hitem:34055:0:0:0:0:0:0:0:10|h[Великая космическая субстанция]|h|r",
                     name = "Великая космическая субстанция",
                     count = 151,
@@ -13580,7 +13560,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793464272,
+            last_update = 1793465547,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -13605,7 +13585,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:25844:0:0:0:0:0:0:0:10|h[Адамантитовый жезл]|h|r",
                     name = "Адамантитовый жезл",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:25845:0:0:0:0:0:0:0:10|h[Этерниевый жезл]|h|r",
