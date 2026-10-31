@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793460944
+ItemStorageDB_LastUpdate = 1793461069
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2458,10 +2458,10 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 18:05:10",
+        updated_at = "2026-10-31 17:37:49",
         money = 92710,
-        empty = 61,
-        location = "",
+        empty = 63,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -2561,7 +2561,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                 name = "Небесный свет",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
@@ -2816,7 +2816,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
                 name = "Кортик Новолуния",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:44218:0:0:0:0:0:0:0:10|h[Топор палача Новолуния]|h|r",
@@ -2876,11 +2876,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
                 name = "Клинок Василиска",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:8225:0:0:0:0:0:0:0:10|h[Гниющий пронзатель]|h|r",
-                name = "Гниющий пронзатель",
                 count = 1,
             },
             {
@@ -3036,11 +3031,11 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:944:0:0:0:0:0:0:0:10|h[Посох магии стихий]|h|r",
                 name = "Посох магии стихий",
-                count = 1,
+                count = 2,
             },
         },
         bank = {
-            last_update = 1793126096,
+            last_update = 1793461039,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3130,7 +3125,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                     name = "Небесный свет",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
@@ -3355,7 +3350,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
                     name = "Кортик Новолуния",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:5267:0:0:0:0:0:0:0:10|h[Алый крис]|h|r",
@@ -3401,11 +3396,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:8190:0:0:0:0:0:0:0:10|h[Меч Ханзо]|h|r",
                     name = "Меч Ханзо",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:8225:0:0:0:0:0:0:0:10|h[Гниющий пронзатель]|h|r",
-                    name = "Гниющий пронзатель",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
@@ -3530,12 +3520,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:944:0:0:0:0:0:0:0:10|h[Посох магии стихий]|h|r",
                     name = "Посох магии стихий",
-                    count = 1,
+                    count = 2,
                 },
             },
         },
         bags = {
-            last_update = 1793376252,
+            last_update = 1793461060,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
