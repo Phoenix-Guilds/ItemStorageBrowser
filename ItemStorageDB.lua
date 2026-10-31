@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793464192
+ItemStorageDB_LastUpdate = 1793464235
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7053,9 +7053,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 18:28:14",
+        updated_at = "2026-10-31 18:30:35",
         money = 181084,
-        empty = 136,
+        empty = 135,
         location = "Оргриммар",
         items = {
             {
@@ -7264,6 +7264,11 @@ ItemStorageDB = {
                 count = 22,
             },
             {
+                link = "|cffffffff|Hitem:4096:0:0:0:0:0:0:0:10|h[Жесткая шерсть гориллы]|h|r",
+                name = "Жесткая шерсть гориллы",
+                count = 7,
+            },
+            {
                 link = "|cffffffff|Hitem:4231:0:0:0:0:0:0:0:10|h[Обработанная легкая шкура]|h|r",
                 name = "Обработанная легкая шкура",
                 count = 189,
@@ -7390,7 +7395,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793464016,
+            last_update = 1793464228,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7538,6 +7543,11 @@ ItemStorageDB = {
                     count = 22,
                 },
                 {
+                    link = "|cffffffff|Hitem:4096:0:0:0:0:0:0:0:10|h[Жесткая шерсть гориллы]|h|r",
+                    name = "Жесткая шерсть гориллы",
+                    count = 7,
+                },
+                {
                     link = "|cffffffff|Hitem:4231:0:0:0:0:0:0:0:10|h[Обработанная легкая шкура]|h|r",
                     name = "Обработанная легкая шкура",
                     count = 189,
@@ -7645,7 +7655,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793464089,
+            last_update = 1793464231,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
