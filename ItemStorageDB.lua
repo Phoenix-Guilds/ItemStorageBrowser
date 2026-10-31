@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793478636
+ItemStorageDB_LastUpdate = 1793478682
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9723,11 +9723,16 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 22:09:15",
+        updated_at = "2026-10-31 22:31:22",
         money = 14062,
-        empty = 79,
+        empty = 78,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
+                name = "Зачарованная ториевая броня",
+                count = 1,
+            },
             {
                 link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
                 name = "Украшенные узором бронзовые наручи",
@@ -9920,8 +9925,13 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793477343,
+            last_update = 1793478675,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
+                    name = "Зачарованная ториевая броня",
+                    count = 1,
+                },
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
                     name = "Украшенные узором бронзовые наручи",
@@ -10105,7 +10115,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793477351,
+            last_update = 1793478676,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
