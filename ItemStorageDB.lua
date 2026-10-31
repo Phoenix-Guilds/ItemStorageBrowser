@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793477149
+ItemStorageDB_LastUpdate = 1793477191
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 19:39:53",
+        updated_at = "2026-10-31 22:06:31",
         money = 339404,
-        empty = 101,
+        empty = 102,
         location = "Оргриммар",
         items = {
             {
@@ -111,7 +111,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
                 name = "Символ правосудия",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:41094:0:0:0:0:0:0:0:10|h[Символ печати повиновения]|h|r",
@@ -336,7 +336,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42458:0:0:0:0:0:0:0:10|h[Символ страха]|h|r",
                 name = "Символ страха",
-                count = 2,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:42459:0:0:0:0:0:0:0:10|h[Символ стража Скверны]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793467723,
+            last_update = 1793477181,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1550,7 +1550,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42458:0:0:0:0:0:0:0:10|h[Символ страха]|h|r",
                     name = "Символ страха",
-                    count = 2,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:42459:0:0:0:0:0:0:0:10|h[Символ стража Скверны]|h|r",
@@ -2435,13 +2435,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793467723,
+            last_update = 1793477183,
             items = {
-                {
-                    link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
-                    name = "Символ правосудия",
-                    count = 1,
-                },
             },
         },
     },
