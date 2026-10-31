@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793475894
+ItemStorageDB_LastUpdate = 1793475935
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18838,7 +18838,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 21:03:57",
+        updated_at = "2026-10-31 21:45:35",
         money = 475064,
         empty = 102,
         location = "Оргриммар",
@@ -18871,12 +18871,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
                 name = "Масло каменного угря",
-                count = 23,
+                count = 24,
             },
             {
                 link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                 name = "Снолист",
-                count = 234,
+                count = 235,
             },
             {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
@@ -19110,7 +19110,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793473367,
+            last_update = 1793475929,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19130,7 +19130,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                     name = "Снолист",
-                    count = 234,
+                    count = 235,
                 },
                 {
                     link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
@@ -19325,7 +19325,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793473376,
+            last_update = 1793475930,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -19340,7 +19340,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13423:0:0:0:0:0:0:0:10|h[Масло каменного угря]|h|r",
                     name = "Масло каменного угря",
-                    count = 23,
+                    count = 24,
                 },
                 {
                     link = "|cffffffff|Hitem:3372:0:0:0:0:0:0:0:10|h[Освинцованная колба]|h|r",
