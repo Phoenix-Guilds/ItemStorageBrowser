@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793477957
+ItemStorageDB_LastUpdate = 1793478041
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4918,9 +4918,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 21:46:39",
+        updated_at = "2026-10-31 22:20:41",
         money = 899680,
-        empty = 110,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -4977,6 +4977,16 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
                 name = "Изначальная Жизнь",
                 count = 45,
+            },
+            {
+                link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
+                name = "Великая планарная субстанция",
+                count = 13,
+            },
+            {
+                link = "|cff1eff00|Hitem:22447:0:0:0:0:0:0:0:10|h[Простая планарная субстанция]|h|r",
+                name = "Простая планарная субстанция",
+                count = 10,
             },
             {
                 link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
@@ -5076,7 +5086,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 47,
+                count = 46,
             },
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
@@ -5215,7 +5225,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793475986,
+            last_update = 1793478033,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5261,6 +5271,16 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:21886:0:0:0:0:0:0:0:10|h[Изначальная Жизнь]|h|r",
                     name = "Изначальная Жизнь",
                     count = 45,
+                },
+                {
+                    link = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:0:10|h[Великая планарная субстанция]|h|r",
+                    name = "Великая планарная субстанция",
+                    count = 13,
+                },
+                {
+                    link = "|cff1eff00|Hitem:22447:0:0:0:0:0:0:0:10|h[Простая планарная субстанция]|h|r",
+                    name = "Простая планарная субстанция",
+                    count = 10,
                 },
                 {
                     link = "|cff1eff00|Hitem:22451:0:0:0:0:0:0:0:10|h[Изначальный Воздух]|h|r",
@@ -5465,7 +5485,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793475994,
+            last_update = 1793478036,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5505,7 +5525,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                     name = "Черная жемчужина",
-                    count = 47,
+                    count = 46,
                 },
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
