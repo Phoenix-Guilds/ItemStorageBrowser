@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793475999
+ItemStorageDB_LastUpdate = 1793476044
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10068,9 +10068,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 18:20:15",
+        updated_at = "2026-10-31 21:47:24",
         money = 213874,
-        empty = 60,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -10176,7 +10176,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27668:0:0:0:0:0:0:0:10|h[Рысье мясо]|h|r",
                 name = "Рысье мясо",
-                count = 144,
+                count = 158,
             },
             {
                 link = "|cffffffff|Hitem:27669:0:0:0:0:0:0:0:10|h[Плоть летучей мыши]|h|r",
@@ -10242,6 +10242,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:34736:0:0:0:0:0:0:0:10|h[Кусок мяса мамонта]|h|r",
                 name = "Кусок мяса мамонта",
                 count = 83,
+            },
+            {
+                link = "|cffffffff|Hitem:35562:0:0:0:0:0:0:0:10|h[Бок медведя]|h|r",
+                name = "Бок медведя",
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
@@ -10360,7 +10365,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793463572,
+            last_update = 1793476035,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10465,7 +10470,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:27668:0:0:0:0:0:0:0:10|h[Рысье мясо]|h|r",
                     name = "Рысье мясо",
-                    count = 144,
+                    count = 150,
                 },
                 {
                     link = "|cffffffff|Hitem:27669:0:0:0:0:0:0:0:10|h[Плоть летучей мыши]|h|r",
@@ -10645,7 +10650,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793463611,
+            last_update = 1793476039,
             items = {
                 {
                     link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
@@ -10656,6 +10661,16 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
                     name = "Нежная волчатина",
                     count = 22,
+                },
+                {
+                    link = "|cffffffff|Hitem:27668:0:0:0:0:0:0:0:10|h[Рысье мясо]|h|r",
+                    name = "Рысье мясо",
+                    count = 8,
+                },
+                {
+                    link = "|cffffffff|Hitem:35562:0:0:0:0:0:0:0:10|h[Бок медведя]|h|r",
+                    name = "Бок медведя",
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
