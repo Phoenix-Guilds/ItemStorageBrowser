@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793482430
+ItemStorageDB_LastUpdate = 1793482551
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21328,9 +21328,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 22:16:33",
+        updated_at = "2026-10-31 23:35:51",
         money = 203936,
-        empty = 59,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -21601,7 +21601,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
                 name = "Шлем Большого Берга",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
@@ -21646,7 +21646,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                 name = "Наручники Раздробленного хребта",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:16671:0:0:0:0:0:0:0:10|h[Наручники Стихий]|h|r",
@@ -21925,7 +21925,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793477752,
+            last_update = 1793482495,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22445,7 +22445,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793477755,
+            last_update = 1793482498,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -22518,6 +22518,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
+                    name = "Шлем Большого Берга",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
                     name = "Искрящееся оплечье",
                     count = 2,
@@ -22525,6 +22530,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                     name = "Скелетные наплечники",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
+                    name = "Наручники Раздробленного хребта",
                     count = 1,
                 },
                 {
