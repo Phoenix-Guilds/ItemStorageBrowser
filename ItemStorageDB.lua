@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793463615
+ItemStorageDB_LastUpdate = 1793463976
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18857,10 +18857,10 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:16:11",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-31 18:26:16",
         money = 475064,
-        empty = 85,
+        empty = 86,
         location = "Оргриммар",
         items = {
             {
@@ -18961,7 +18961,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                 name = "Дикий сталецвет",
-                count = 257,
+                count = 227,
             },
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
@@ -19130,7 +19130,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793348163,
+            last_update = 1793463648,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19215,7 +19215,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3355:0:0:0:0:0:0:0:10|h[Дикий сталецвет]|h|r",
                     name = "Дикий сталецвет",
-                    count = 257,
+                    count = 227,
                 },
                 {
                     link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
@@ -19345,7 +19345,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793348165,
+            last_update = 1793463656,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
