@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793463976
+ItemStorageDB_LastUpdate = 1793464094
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7053,9 +7053,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 18:11:24",
+        updated_at = "2026-10-31 18:28:14",
         money = 181084,
-        empty = 138,
+        empty = 136,
         location = "Оргриммар",
         items = {
             {
@@ -7341,7 +7341,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
                 name = "Легкая шкура",
-                count = 125,
+                count = 135,
             },
             {
                 link = "|cffffffff|Hitem:8150:0:0:0:0:0:0:0:10|h[Глубокоскальная соль]|h|r",
@@ -7366,7 +7366,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
                 name = "Плотная шкура",
-                count = 247,
+                count = 260,
             },
             {
                 link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
@@ -7376,7 +7376,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8171:0:0:0:0:0:0:0:10|h[Грубая шкура]|h|r",
                 name = "Грубая шкура",
-                count = 190,
+                count = 212,
             },
             {
                 link = "|cffffffff|Hitem:8172:0:0:0:0:0:0:0:10|h[Обработанная плотная шкура]|h|r",
@@ -7390,7 +7390,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793462939,
+            last_update = 1793464016,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7605,7 +7605,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:783:0:0:0:0:0:0:0:10|h[Легкая шкура]|h|r",
                     name = "Легкая шкура",
-                    count = 125,
+                    count = 135,
                 },
                 {
                     link = "|cffffffff|Hitem:8154:0:0:0:0:0:0:0:10|h[Чешуя скорпида]|h|r",
@@ -7625,7 +7625,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8169:0:0:0:0:0:0:0:10|h[Плотная шкура]|h|r",
                     name = "Плотная шкура",
-                    count = 247,
+                    count = 260,
                 },
                 {
                     link = "|cffffffff|Hitem:8170:0:0:0:0:0:0:0:10|h[Грубая кожа]|h|r",
@@ -7635,7 +7635,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8171:0:0:0:0:0:0:0:10|h[Грубая шкура]|h|r",
                     name = "Грубая шкура",
-                    count = 190,
+                    count = 212,
                 },
                 {
                     link = "|cffffffff|Hitem:8172:0:0:0:0:0:0:0:10|h[Обработанная плотная шкура]|h|r",
@@ -7645,7 +7645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793462942,
+            last_update = 1793464089,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
