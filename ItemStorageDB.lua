@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793477227
+ItemStorageDB_LastUpdate = 1793477270
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19448,9 +19448,9 @@ ItemStorageDB = {
     {
         name = "Царапучка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-25 21:51:48",
+        updated_at = "2026-10-31 22:07:50",
         money = 14656,
-        empty = 98,
+        empty = 97,
         location = "Оргриммар",
         items = {
             {
@@ -19471,7 +19471,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4402:0:0:0:0:0:0:0:10|h[Малая пламенная железа]|h|r",
                 name = "Малая пламенная железа",
-                count = 53,
+                count = 56,
             },
             {
                 link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
@@ -19485,7 +19485,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792957901,
+            last_update = 1793477265,
             items = {
                 {
                     link = "|cffffffff|Hitem:1288:0:0:0:0:0:0:0:10|h[Большая ядовитая железа]|h|r",
@@ -19505,7 +19505,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4402:0:0:0:0:0:0:0:10|h[Малая пламенная железа]|h|r",
                     name = "Малая пламенная железа",
-                    count = 53,
+                    count = 56,
                 },
                 {
                     link = "|cffffffff|Hitem:5635:0:0:0:0:0:0:0:10|h[Острый коготь]|h|r",
@@ -19520,7 +19520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792957902,
+            last_update = 1793477266,
             items = {
             },
         },
