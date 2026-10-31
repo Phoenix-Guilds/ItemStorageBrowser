@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793475657
+ItemStorageDB_LastUpdate = 1793475713
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8832,10 +8832,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:12:44",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-31 21:41:53",
         money = 208636,
-        empty = 70,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -8936,12 +8936,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
                 name = "Эликсир львиной силы",
-                count = 96,
+                count = 124,
             },
             {
                 link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                 name = "Крохотный флакон с зельем маны",
-                count = 43,
+                count = 93,
             },
             {
                 link = "|cffffffff|Hitem:2456:0:0:0:0:0:0:0:10|h[Слабое зелье омоложения]|h|r",
@@ -8951,7 +8951,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2458:0:0:0:0:0:0:0:10|h[Слабый эликсир стойкости]|h|r",
                 name = "Слабый эликсир стойкости",
-                count = 118,
+                count = 129,
             },
             {
                 link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
@@ -9245,7 +9245,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793347956,
+            last_update = 1793475705,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9305,12 +9305,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2454:0:0:0:0:0:0:0:10|h[Эликсир львиной силы]|h|r",
                     name = "Эликсир львиной силы",
-                    count = 96,
+                    count = 124,
                 },
                 {
                     link = "|cffffffff|Hitem:2458:0:0:0:0:0:0:0:10|h[Слабый эликсир стойкости]|h|r",
                     name = "Слабый эликсир стойкости",
-                    count = 118,
+                    count = 129,
                 },
                 {
                     link = "|cffffffff|Hitem:2459:0:0:0:0:0:0:0:10|h[Зелье скорости]|h|r",
@@ -9550,7 +9550,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793347958,
+            last_update = 1793475709,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9595,7 +9595,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                     name = "Крохотный флакон с зельем маны",
-                    count = 43,
+                    count = 93,
                 },
                 {
                     link = "|cffffffff|Hitem:2456:0:0:0:0:0:0:0:10|h[Слабое зелье омоложения]|h|r",
