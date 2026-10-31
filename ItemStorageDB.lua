@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793476989
+ItemStorageDB_LastUpdate = 1793477035
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7758,9 +7758,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 19:16:07",
+        updated_at = "2026-10-31 22:03:55",
         money = 0,
-        empty = 193,
+        empty = 192,
         location = "Оргриммар",
         items = {
             {
@@ -7876,11 +7876,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
                 name = "Яйцо с травами",
-                count = 86,
+                count = 147,
             },
         },
         bank = {
-            last_update = 1793121359,
+            last_update = 1793477028,
             items = {
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7995,12 +7995,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6888:0:0:0:0:0:0:0:10|h[Яйцо с травами]|h|r",
                     name = "Яйцо с травами",
-                    count = 86,
+                    count = 147,
                 },
             },
         },
         bags = {
-            last_update = 1793121362,
+            last_update = 1793477031,
             items = {
             },
         },
