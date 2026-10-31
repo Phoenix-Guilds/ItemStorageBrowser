@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793462433
+ItemStorageDB_LastUpdate = 1793462491
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22567,12 +22567,17 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-30 11:44:46",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-31 18:01:31",
         money = 194111,
         empty = 109,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:10634:0:0:0:0:0:0:0:10|h[Обруч Ока Разума]|h|r",
+                name = "Обруч Ока Разума",
+                count = 1,
+            },
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                 name = "Сила Утера",
@@ -22621,7 +22626,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                 name = "Подвеска Скиби",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
@@ -22880,8 +22885,13 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793349880,
+            last_update = 1793462484,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:10634:0:0:0:0:0:0:0:10|h[Обруч Ока Разума]|h|r",
+                    name = "Обруч Ока Разума",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                     name = "Кольцо защиты",
@@ -23085,7 +23095,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793349880,
+            last_update = 1793462485,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23120,7 +23130,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13089:0:0:0:0:0:0:0:10|h[Подвеска Скиби]|h|r",
                     name = "Подвеска Скиби",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13091:0:0:0:0:0:0:0:10|h[Медальон главнокомандующего Морриса]|h|r",
