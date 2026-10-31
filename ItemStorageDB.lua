@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793473030
+ItemStorageDB_LastUpdate = 1793473437
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18838,9 +18838,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 20:30:27",
+        updated_at = "2026-10-31 21:03:57",
         money = 475064,
-        empty = 98,
+        empty = 102,
         location = "Оргриммар",
         items = {
             {
@@ -18876,7 +18876,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                 name = "Снолист",
-                count = 244,
+                count = 234,
             },
             {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
@@ -18886,7 +18886,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                 name = "Горный серебряный шалфей",
-                count = 53,
+                count = 49,
             },
             {
                 link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -18971,17 +18971,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                 name = "Золотой клевер",
-                count = 118,
+                count = 68,
             },
             {
                 link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                 name = "Язык аспида",
-                count = 108,
+                count = 58,
             },
             {
                 link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
                 name = "Тигровая лилия",
-                count = 136,
+                count = 86,
             },
             {
                 link = "|cffffffff|Hitem:36905:0:0:0:0:0:0:0:10|h[Личецвет]|h|r",
@@ -19110,7 +19110,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793471377,
+            last_update = 1793473367,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19130,7 +19130,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13463:0:0:0:0:0:0:0:10|h[Снолист]|h|r",
                     name = "Снолист",
-                    count = 244,
+                    count = 234,
                 },
                 {
                     link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
@@ -19140,7 +19140,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                     name = "Горный серебряный шалфей",
-                    count = 53,
+                    count = 49,
                 },
                 {
                     link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -19220,17 +19220,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                     name = "Золотой клевер",
-                    count = 118,
+                    count = 68,
                 },
                 {
                     link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                     name = "Язык аспида",
-                    count = 108,
+                    count = 58,
                 },
                 {
                     link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
                     name = "Тигровая лилия",
-                    count = 136,
+                    count = 86,
                 },
                 {
                     link = "|cffffffff|Hitem:36905:0:0:0:0:0:0:0:10|h[Личецвет]|h|r",
@@ -19325,7 +19325,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793471384,
+            last_update = 1793473376,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
