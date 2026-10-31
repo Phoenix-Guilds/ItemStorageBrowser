@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793476117
+ItemStorageDB_LastUpdate = 1793476368
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2448,9 +2448,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 19:25:53",
+        updated_at = "2026-10-31 21:52:48",
         money = 92710,
-        empty = 61,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -2551,7 +2551,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                 name = "Небесный свет",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
@@ -2676,7 +2676,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
                 name = "Каменный ворон",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13060:0:0:0:0:0:0:0:10|h[Игольщик]|h|r",
@@ -2801,7 +2801,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
                 name = "Кортик Новолуния",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:44218:0:0:0:0:0:0:0:10|h[Топор палача Новолуния]|h|r",
@@ -3019,6 +3019,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
+                name = "Топор шквала",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:943:0:0:0:0:0:0:0:10|h[Посох тюремщика]|h|r",
                 name = "Посох тюремщика",
                 count = 2,
@@ -3030,7 +3035,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793467547,
+            last_update = 1793476265,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3525,7 +3530,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793467547,
+            last_update = 1793476363,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3535,6 +3540,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
+                    name = "Небесный свет",
                     count = 1,
                 },
                 {
@@ -3550,6 +3560,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                     name = "Острие Кху",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
+                    name = "Каменный ворон",
                     count = 1,
                 },
                 {
@@ -3585,6 +3600,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
                     name = "Жезл антиподов",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
+                    name = "Кортик Новолуния",
                     count = 1,
                 },
                 {
@@ -3640,6 +3660,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2163:0:0:0:0:0:0:0:10|h[Теневой клинок]|h|r",
                     name = "Теневой клинок",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:871:0:0:0:0:0:0:0:10|h[Топор шквала]|h|r",
+                    name = "Топор шквала",
                     count = 1,
                 },
             },
