@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793477191
+ItemStorageDB_LastUpdate = 1793477227
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8002,31 +8002,16 @@ ItemStorageDB = {
     },
     {
         name = "Красочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-03 00:27:41",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-10-31 22:07:07",
         money = 9413,
-        empty = 171,
+        empty = 174,
         location = "Оргриммар",
         items = {
             {
-                link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
-                name = "Зеленый краситель",
-                count = 32,
-            },
-            {
-                link = "|cff1eff00|Hitem:43108:0:0:0:0:0:0:0:10|h[Эбеновый краситель]|h|r",
-                name = "Эбеновый краситель",
-                count = 30,
-            },
-            {
-                link = "|cff1eff00|Hitem:43109:0:0:0:0:0:0:0:10|h[Ледяной краситель]|h|r",
-                name = "Ледяной краситель",
-                count = 2,
-            },
-            {
                 link = "|cff1eff00|Hitem:43115:0:0:0:0:0:0:0:10|h[Чернила охотника]|h|r",
                 name = "Чернила охотника",
-                count = 200,
+                count = 225,
             },
             {
                 link = "|cff1eff00|Hitem:43117:0:0:0:0:0:0:0:10|h[Чернила утренней звезды]|h|r",
@@ -8059,11 +8044,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffffffff|Hitem:39151:0:0:0:0:0:0:0:10|h[Алебастровый краситель]|h|r",
-                name = "Алебастровый краситель",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:39469:0:0:0:0:0:0:0:10|h[Чернила лунного сияния]|h|r",
                 name = "Чернила лунного сияния",
                 count = 79,
@@ -8080,12 +8060,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1790976409,
+            last_update = 1793477220,
             items = {
                 {
                     link = "|cff1eff00|Hitem:43115:0:0:0:0:0:0:0:10|h[Чернила охотника]|h|r",
                     name = "Чернила охотника",
-                    count = 200,
+                    count = 225,
                 },
                 {
                     link = "|cff1eff00|Hitem:43117:0:0:0:0:0:0:0:10|h[Чернила утренней звезды]|h|r",
@@ -8135,28 +8115,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1790976437,
+            last_update = 1793477222,
             items = {
-                {
-                    link = "|cff1eff00|Hitem:43103:0:0:0:0:0:0:0:10|h[Зеленый краситель]|h|r",
-                    name = "Зеленый краситель",
-                    count = 32,
-                },
-                {
-                    link = "|cff1eff00|Hitem:43108:0:0:0:0:0:0:0:10|h[Эбеновый краситель]|h|r",
-                    name = "Эбеновый краситель",
-                    count = 30,
-                },
-                {
-                    link = "|cff1eff00|Hitem:43109:0:0:0:0:0:0:0:10|h[Ледяной краситель]|h|r",
-                    name = "Ледяной краситель",
-                    count = 2,
-                },
-                {
-                    link = "|cffffffff|Hitem:39151:0:0:0:0:0:0:0:10|h[Алебастровый краситель]|h|r",
-                    name = "Алебастровый краситель",
-                    count = 1,
-                },
             },
         },
     },
