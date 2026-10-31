@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793461980
+ItemStorageDB_LastUpdate = 1793462118
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 00:20:05",
+        updated_at = "2026-10-31 17:55:18",
         money = 339404,
-        empty = 99,
+        empty = 101,
         location = "Оргриммар",
         items = {
             {
@@ -761,7 +761,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43368:0:0:0:0:0:0:0:10|h[Символ чутья на нежить]|h|r",
                 name = "Символ чутья на нежить",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
@@ -811,7 +811,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
                 name = "Символ хождения по воде",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
@@ -1166,7 +1166,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:45792:0:0:0:0:0:0:0:10|h[Символ ударной волны]|h|r",
                 name = "Символ ударной волны",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:45793:0:0:0:0:0:0:0:10|h[Символ бдительности]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793398751,
+            last_update = 1793462039,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2300,7 +2300,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:45753:0:0:0:0:0:0:0:10|h[Символ слияния с Тьмой]|h|r",
                     name = "Символ слияния с Тьмой",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:45757:0:0:0:0:0:0:0:10|h[Символ иссушения разума]|h|r",
@@ -2435,21 +2435,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793398754,
+            last_update = 1793462039,
             items = {
                 {
-                    link = "|cffffffff|Hitem:43368:0:0:0:0:0:0:0:10|h[Символ чутья на нежить]|h|r",
-                    name = "Символ чутья на нежить",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:43388:0:0:0:0:0:0:0:10|h[Символ хождения по воде]|h|r",
-                    name = "Символ хождения по воде",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:45792:0:0:0:0:0:0:0:10|h[Символ ударной волны]|h|r",
-                    name = "Символ ударной волны",
+                    link = "|cffffffff|Hitem:45753:0:0:0:0:0:0:0:10|h[Символ слияния с Тьмой]|h|r",
+                    name = "Символ слияния с Тьмой",
                     count = 1,
                 },
             },
