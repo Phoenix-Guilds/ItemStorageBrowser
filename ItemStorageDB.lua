@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793461312
+ItemStorageDB_LastUpdate = 1793461980
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13108,9 +13108,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 00:20:34",
+        updated_at = "2026-10-31 17:53:00",
         money = 385478,
-        empty = 103,
+        empty = 104,
         location = "Оргриммар",
         items = {
             {
@@ -13276,7 +13276,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                 name = "Арканитовый жезл",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
@@ -13350,7 +13350,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793398557,
+            last_update = 1793461957,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13550,7 +13550,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793398562,
+            last_update = 1793461974,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -13565,7 +13565,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                     name = "Арканитовый жезл",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
