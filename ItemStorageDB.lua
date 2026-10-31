@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793475935
+ItemStorageDB_LastUpdate = 1793475999
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4898,9 +4898,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 19:09:21",
+        updated_at = "2026-10-31 21:46:39",
         money = 899680,
-        empty = 111,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
@@ -4941,7 +4941,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                 name = "Золотая жемчужина",
-                count = 103,
+                count = 107,
             },
             {
                 link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
@@ -4981,7 +4981,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
                 name = "Сумрачная жемчужина",
-                count = 5,
+                count = 6,
             },
             {
                 link = "|cff1eff00|Hitem:35622:0:0:0:0:0:0:0:10|h[Извечная вода]|h|r",
@@ -5026,12 +5026,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                 name = "Маленькая блестящая жемчужина",
-                count = 98,
+                count = 101,
             },
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 22,
+                count = 25,
             },
             {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -5056,12 +5056,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                 name = "Черная жемчужина",
-                count = 46,
+                count = 47,
             },
             {
                 link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                 name = "Дикая лоза",
-                count = 25,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
@@ -5101,7 +5101,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
                 name = "Частица Тени",
-                count = 144,
+                count = 147,
             },
             {
                 link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
@@ -5156,7 +5156,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 226,
+                count = 228,
             },
             {
                 link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
@@ -5195,7 +5195,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793466023,
+            last_update = 1793475986,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5315,7 +5315,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:8153:0:0:0:0:0:0:0:10|h[Дикая лоза]|h|r",
                     name = "Дикая лоза",
-                    count = 25,
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:10286:0:0:0:0:0:0:0:10|h[Сердце дикой природы]|h|r",
@@ -5355,7 +5355,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22577:0:0:0:0:0:0:0:10|h[Частица Тени]|h|r",
                     name = "Частица Тени",
-                    count = 144,
+                    count = 147,
                 },
                 {
                     link = "|cffffffff|Hitem:22578:0:0:0:0:0:0:0:10|h[Частица Воды]|h|r",
@@ -5410,7 +5410,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                     name = "Первородная вода",
-                    count = 226,
+                    count = 228,
                 },
                 {
                     link = "|cffffffff|Hitem:7077:0:0:0:0:0:0:0:10|h[Сердце огня]|h|r",
@@ -5445,7 +5445,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793466096,
+            last_update = 1793475994,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5455,7 +5455,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
                     name = "Золотая жемчужина",
-                    count = 103,
+                    count = 107,
                 },
                 {
                     link = "|cff1eff00|Hitem:24478:0:0:0:0:0:0:0:10|h[Жемчужина джаггала]|h|r",
@@ -5465,7 +5465,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:24479:0:0:0:0:0:0:0:10|h[Сумрачная жемчужина]|h|r",
                     name = "Сумрачная жемчужина",
-                    count = 5,
+                    count = 6,
                 },
                 {
                     link = "|cff1eff00|Hitem:36783:0:0:0:0:0:0:0:10|h[Жемчужина Северного моря]|h|r",
@@ -5475,17 +5475,17 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                     name = "Маленькая блестящая жемчужина",
-                    count = 98,
+                    count = 101,
                 },
                 {
                     link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                     name = "Радужная жемчужина",
-                    count = 22,
+                    count = 25,
                 },
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
                     name = "Черная жемчужина",
-                    count = 46,
+                    count = 47,
                 },
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
