@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793562990
+ItemStorageDB_LastUpdate = 1793563559
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21302,10 +21302,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 10:40:25",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-01 22:05:59",
         money = 203936,
-        empty = 65,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -21361,7 +21361,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
                 name = "Отделанный серебром пояс",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
@@ -21471,7 +21471,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
                 name = "Светящиеся магические браслеты",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
@@ -21890,7 +21890,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793517886,
+            last_update = 1793563536,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10631:0:0:0:0:0:0:0:10|h[Рукавицы Мраковод]|h|r",
@@ -22045,7 +22045,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
                     name = "Светящиеся магические браслеты",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
@@ -22405,16 +22405,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793518816,
+            last_update = 1793563553,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
                     name = "Темнотканые брюки",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
-                    name = "Отделанный серебром пояс",
                     count = 1,
                 },
                 {
