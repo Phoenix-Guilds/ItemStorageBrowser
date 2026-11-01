@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793569275
+ItemStorageDB_LastUpdate = 1793569620
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7068,7 +7068,7 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 23:39:34",
+        updated_at = "2026-11-01 23:47:00",
         money = 181084,
         empty = 134,
         location = "Оргриммар",
@@ -7141,7 +7141,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                 name = "Легкое перышко",
-                count = 13,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:18512:0:0:0:0:0:0:0:10|h[Ларвальная кислота]|h|r",
@@ -7410,7 +7410,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793569165,
+            last_update = 1793569325,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7670,7 +7670,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793569169,
+            last_update = 1793569327,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7700,7 +7700,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
                     name = "Легкое перышко",
-                    count = 13,
+                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:18512:0:0:0:0:0:0:0:10|h[Ларвальная кислота]|h|r",
