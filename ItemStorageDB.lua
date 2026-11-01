@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793517435
+ItemStorageDB_LastUpdate = 1793517521
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8812,10 +8812,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 22:14:52",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-01 10:18:41",
         money = 208636,
-        empty = 59,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -9174,11 +9174,6 @@ ItemStorageDB = {
                 count = 77,
             },
             {
-                link = "|cffffffff|Hitem:6373:0:0:0:0:0:0:0:10|h[Эликсир огневой мощи]|h|r",
-                name = "Эликсир огневой мощи",
-                count = 10,
-            },
-            {
                 link = "|cffffffff|Hitem:6452:0:0:0:0:0:0:0:10|h[Противоядие]|h|r",
                 name = "Противоядие",
                 count = 10,
@@ -9250,7 +9245,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793477680,
+            last_update = 1793517507,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9518,11 +9513,6 @@ ItemStorageDB = {
                     count = 77,
                 },
                 {
-                    link = "|cffffffff|Hitem:6373:0:0:0:0:0:0:0:10|h[Эликсир огневой мощи]|h|r",
-                    name = "Эликсир огневой мощи",
-                    count = 10,
-                },
-                {
                     link = "|cffffffff|Hitem:6452:0:0:0:0:0:0:0:10|h[Противоядие]|h|r",
                     name = "Противоядие",
                     count = 10,
@@ -9585,7 +9575,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793477685,
+            last_update = 1793517513,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
