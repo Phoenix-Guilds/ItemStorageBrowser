@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793567281
+ItemStorageDB_LastUpdate = 1793567355
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16118,7 +16118,7 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 20:08:23",
+        updated_at = "2026-11-01 23:09:15",
         money = 214291,
         empty = 191,
         location = "Оргриммар",
@@ -16201,7 +16201,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
                 name = "Материал для свитка брони",
-                count = 65,
+                count = 71,
             },
             {
                 link = "|cffffffff|Hitem:38828:0:0:0:0:0:0:0:10|h[Свиток чар для щита - выносливость III]|h|r",
@@ -16335,7 +16335,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793556449,
+            last_update = 1793567346,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -16435,7 +16435,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793556474,
+            last_update = 1793567349,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
@@ -16455,7 +16455,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
                     name = "Материал для свитка брони",
-                    count = 65,
+                    count = 71,
                 },
                 {
                     link = "|cffffffff|Hitem:38828:0:0:0:0:0:0:0:10|h[Свиток чар для щита - выносливость III]|h|r",
