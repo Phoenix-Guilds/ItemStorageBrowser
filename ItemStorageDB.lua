@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793570364
+ItemStorageDB_LastUpdate = 1793570440
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8483,9 +8483,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 23:33:08",
+        updated_at = "2026-11-02 00:00:40",
         money = 141967,
-        empty = 130,
+        empty = 128,
         location = "Оргриммар",
         items = {
             {
@@ -8581,12 +8581,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
                 name = "Руда оскверненного железа",
-                count = 120,
+                count = 173,
             },
             {
                 link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
                 name = "Адамантитовая руда",
-                count = 197,
+                count = 214,
             },
             {
                 link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
@@ -8670,7 +8670,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793568781,
+            last_update = 1793570430,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8765,12 +8765,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
                     name = "Руда оскверненного железа",
-                    count = 120,
+                    count = 173,
                 },
                 {
                     link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
                     name = "Адамантитовая руда",
-                    count = 197,
+                    count = 214,
                 },
                 {
                     link = "|cffffffff|Hitem:23445:0:0:0:0:0:0:0:10|h[Слиток оскверненного железа]|h|r",
@@ -8855,7 +8855,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793568784,
+            last_update = 1793570434,
             items = {
             },
         },
