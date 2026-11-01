@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793567355
+ItemStorageDB_LastUpdate = 1793567557
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2443,9 +2443,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 22:06:48",
+        updated_at = "2026-11-01 23:12:37",
         money = 92710,
-        empty = 59,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -2486,7 +2486,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -2732,6 +2732,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:2011:0:0:0:0:0:0:0:10|h[Крученая сабля]|h|r",
                 name = "Крученая сабля",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
+                name = "Алмазный молот",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2236:0:0:0:0:0:0:0:10|h[Черный клык]|h|r",
@@ -3030,7 +3035,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793563591,
+            last_update = 1793567549,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3525,7 +3530,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793563603,
+            last_update = 1793567551,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3535,7 +3540,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
@@ -3581,6 +3586,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
                     name = "Фамильный щит Гарреттов",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
+                    name = "Алмазный молот",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
