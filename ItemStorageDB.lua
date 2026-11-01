@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793517971
+ItemStorageDB_LastUpdate = 1793518064
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2442,10 +2442,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 21:52:48",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-01 10:27:44",
         money = 92710,
-        empty = 57,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -2906,7 +2906,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                 name = "Перекованный клинок Героев",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
@@ -3030,7 +3030,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793476265,
+            last_update = 1793517986,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3525,7 +3525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793476363,
+            last_update = 1793517999,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3630,7 +3630,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                     name = "Перекованный клинок Героев",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
