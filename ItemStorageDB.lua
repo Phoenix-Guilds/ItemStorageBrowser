@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793563559
+ItemStorageDB_LastUpdate = 1793563608
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2442,10 +2442,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 10:27:44",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-01 22:06:48",
         money = 92710,
-        empty = 58,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -2851,7 +2851,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                 name = "Корявый ясеневый посох",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
@@ -3030,7 +3030,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793517986,
+            last_update = 1793563591,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3525,7 +3525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793517999,
+            last_update = 1793563603,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3611,11 +3611,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
-                    name = "Корявый ясеневый посох",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
