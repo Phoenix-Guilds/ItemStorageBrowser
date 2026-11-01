@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793570657
+ItemStorageDB_LastUpdate = 1793570704
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10213,9 +10213,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 23:41:15",
+        updated_at = "2026-11-02 00:05:04",
         money = 213874,
-        empty = 56,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -10336,7 +10336,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27674:0:0:0:0:0:0:0:10|h[Плоть опустошителя]|h|r",
                 name = "Плоть опустошителя",
-                count = 48,
+                count = 91,
             },
             {
                 link = "|cffffffff|Hitem:27677:0:0:0:0:0:0:0:10|h[Шмат мяса василиска]|h|r",
@@ -10515,7 +10515,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793569263,
+            last_update = 1793570696,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10635,7 +10635,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:27674:0:0:0:0:0:0:0:10|h[Плоть опустошителя]|h|r",
                     name = "Плоть опустошителя",
-                    count = 48,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:27677:0:0:0:0:0:0:0:10|h[Шмат мяса василиска]|h|r",
@@ -10800,7 +10800,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793569270,
+            last_update = 1793570699,
             items = {
                 {
                     link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
@@ -10816,6 +10816,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:27668:0:0:0:0:0:0:0:10|h[Рысье мясо]|h|r",
                     name = "Рысье мясо",
                     count = 8,
+                },
+                {
+                    link = "|cffffffff|Hitem:27674:0:0:0:0:0:0:0:10|h[Плоть опустошителя]|h|r",
+                    name = "Плоть опустошителя",
+                    count = 41,
                 },
                 {
                     link = "|cffffffff|Hitem:35562:0:0:0:0:0:0:0:10|h[Бок медведя]|h|r",
