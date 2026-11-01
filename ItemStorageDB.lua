@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793482551
+ItemStorageDB_LastUpdate = 1793517435
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6622,10 +6622,10 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 20:06:16",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-01 10:17:15",
         money = 404282,
-        empty = 149,
+        empty = 152,
         location = "Оргриммар",
         items = {
             {
@@ -6759,16 +6759,6 @@ ItemStorageDB = {
                 count = 4,
             },
             {
-                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
-                name = "Колода Мечей",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
-                name = "Колода Магов",
-                count = 2,
-            },
-            {
                 link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
                 name = "Колода Демонов",
                 count = 3,
@@ -6845,7 +6835,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793469868,
+            last_update = 1793517386,
             items = {
                 {
                     link = "|cff0070dd|Hitem:19230:0:0:0:0:0:0:0:10|h[Двойка из колоды Зверей]|h|r",
@@ -6980,7 +6970,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793469881,
+            last_update = 1793517419,
             items = {
                 {
                     link = "|cff0070dd|Hitem:19278:0:0:0:0:0:0:0:10|h[Двойка из колоды Порталов]|h|r",
@@ -6991,16 +6981,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:19280:0:0:0:0:0:0:0:10|h[Четверка из колоды Порталов]|h|r",
                     name = "Четверка из колоды Порталов",
                     count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
-                    name = "Колода Мечей",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
-                    name = "Колода Магов",
-                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
