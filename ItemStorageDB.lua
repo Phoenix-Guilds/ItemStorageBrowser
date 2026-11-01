@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793569737
+ItemStorageDB_LastUpdate = 1793570174
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19763,9 +19763,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 23:33:50",
+        updated_at = "2026-11-01 23:56:14",
         money = 336703,
-        empty = 87,
+        empty = 88,
         location = "Оргриммар",
         items = {
             {
@@ -19821,11 +19821,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31145:0:0:0:0:0:0:0:10|h[Головной убор спящего]|h|r",
                 name = "Головной убор спящего",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:31148:0:0:0:0:0:0:0:10|h[Наплеч из шкуры демона]|h|r",
-                name = "Наплеч из шкуры демона",
                 count = 1,
             },
             {
@@ -20645,7 +20640,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793482420,
+            last_update = 1793570158,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -20700,11 +20695,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31145:0:0:0:0:0:0:0:10|h[Головной убор спящего]|h|r",
                     name = "Головной убор спящего",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:31148:0:0:0:0:0:0:0:10|h[Наплеч из шкуры демона]|h|r",
-                    name = "Наплеч из шкуры демона",
                     count = 1,
                 },
                 {
@@ -21480,7 +21470,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793482422,
+            last_update = 1793570166,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31191:0:0:0:0:0:-39:30:10|h[Наручи из шкуры кроколиска с меткой заклинателя]|h|r",
