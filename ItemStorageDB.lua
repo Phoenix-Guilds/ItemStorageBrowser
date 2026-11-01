@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793518118
+ItemStorageDB_LastUpdate = 1793518825
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21298,9 +21298,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 10:26:11",
+        updated_at = "2026-11-01 10:40:25",
         money = 203936,
-        empty = 64,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -21771,7 +21771,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:3844:1892:0:0:0:0:0:0:10|h[Зеленый железный хауберк]|h|r",
@@ -22400,7 +22400,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793517965,
+            last_update = 1793518816,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -22530,7 +22530,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                     name = "Шапка терпения",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:8349:0:0:0:0:0:0:0:10|h[Оперенная перьями кираса]|h|r",
