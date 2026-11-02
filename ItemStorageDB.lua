@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793659332
+ItemStorageDB_LastUpdate = 1793659421
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13347,10 +13347,10 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-02 12:16:46",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-03 00:43:41",
         money = 385478,
-        empty = 113,
+        empty = 114,
         location = "Оргриммар",
         items = {
             {
@@ -13407,11 +13407,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:10|h[Маленький осколок грез]|h|r",
                 name = "Маленький осколок грез",
                 count = 622,
-            },
-            {
-                link = "|cff1eff00|Hitem:10939:0:0:0:0:0:0:0:10|h[Большая магическая субстанция]|h|r",
-                name = "Большая магическая субстанция",
-                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:10998:0:0:0:0:0:0:0:10|h[Простая Астральная субстанция]|h|r",
@@ -13580,7 +13575,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793610989,
+            last_update = 1793659388,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13636,11 +13631,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:10|h[Маленький осколок грез]|h|r",
                     name = "Маленький осколок грез",
                     count = 622,
-                },
-                {
-                    link = "|cff1eff00|Hitem:10939:0:0:0:0:0:0:0:10|h[Большая магическая субстанция]|h|r",
-                    name = "Большая магическая субстанция",
-                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:10998:0:0:0:0:0:0:0:10|h[Простая Астральная субстанция]|h|r",
@@ -13770,7 +13760,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793610999,
+            last_update = 1793659397,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
