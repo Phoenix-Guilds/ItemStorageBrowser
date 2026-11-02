@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793613789
+ItemStorageDB_LastUpdate = 1793613880
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-02 12:23:52",
+        updated_at = "2026-11-02 13:04:40",
         money = 339404,
-        empty = 101,
+        empty = 98,
         location = "Оргриммар",
         items = {
             {
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793611421,
+            last_update = 1793613855,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1720,7 +1720,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
                     name = "Символ духа зверя",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
@@ -1940,12 +1940,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                     name = "Символ лечения питомца",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
                     name = "Символ ложной смерти",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43359:0:0:0:0:0:0:0:10|h[Символ морозного доспеха]|h|r",
@@ -2435,8 +2435,23 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793611423,
+            last_update = 1793613861,
             items = {
+                {
+                    link = "|cffffffff|Hitem:42899:0:0:0:0:0:0:0:10|h[Символ духа зверя]|h|r",
+                    name = "Символ духа зверя",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
+                    name = "Символ лечения питомца",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43351:0:0:0:0:0:0:0:10|h[Символ ложной смерти]|h|r",
+                    name = "Символ ложной смерти",
+                    count = 1,
+                },
             },
         },
     },
