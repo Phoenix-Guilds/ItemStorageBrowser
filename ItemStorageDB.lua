@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793610908
+ItemStorageDB_LastUpdate = 1793611006
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13307,10 +13307,10 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 22:19:17",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-02 12:16:46",
         money = 385478,
-        empty = 108,
+        empty = 113,
         location = "Оргриммар",
         items = {
             {
@@ -13391,7 +13391,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
                 name = "Великая таинственная субстанция",
-                count = 112,
+                count = 100,
             },
             {
                 link = "|cff1eff00|Hitem:11174:0:0:0:0:0:0:0:10|h[Простая субстанция Пустоты]|h|r",
@@ -13446,12 +13446,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
                 name = "Пыль провидения",
-                count = 378,
+                count = 300,
             },
             {
                 link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
                 name = "Жезл из истинного серебра",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
@@ -13466,7 +13466,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                 name = "Арканитовый жезл",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:17034:0:0:0:0:0:0:0:10|h[Семена клена]|h|r",
@@ -13540,7 +13540,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793465537,
+            last_update = 1793610989,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13620,7 +13620,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
                     name = "Великая таинственная субстанция",
-                    count = 112,
+                    count = 100,
                 },
                 {
                     link = "|cff1eff00|Hitem:11174:0:0:0:0:0:0:0:10|h[Простая субстанция Пустоты]|h|r",
@@ -13670,7 +13670,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
                     name = "Пыль провидения",
-                    count = 378,
+                    count = 300,
                 },
                 {
                     link = "|cffffffff|Hitem:11176:0:0:0:0:0:0:0:10|h[Сонная пыль]|h|r",
@@ -13730,7 +13730,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793477952,
+            last_update = 1793610999,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
@@ -13740,12 +13740,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
                     name = "Жезл из истинного серебра",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:16206:0:0:0:0:0:0:0:10|h[Арканитовый жезл]|h|r",
                     name = "Арканитовый жезл",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
