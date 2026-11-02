@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793642618
+ItemStorageDB_LastUpdate = 1793642738
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13868,9 +13868,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 19:48:16",
+        updated_at = "2026-11-02 20:05:38",
         money = 164134,
-        empty = 47,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -14021,6 +14021,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:10603:0:0:0:0:0:0:0:10|h[Схема: ультра-очки \"Кошачий глаз\"]|h|r",
                 name = "Схема: ультра-очки \"Кошачий глаз\"",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:10606:0:0:0:0:0:0:0:10|h[Схема: плащ-парашют]|h|r",
+                name = "Схема: плащ-парашют",
                 count = 1,
             },
             {
@@ -14935,7 +14940,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793123287,
+            last_update = 1793642725,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -15755,7 +15760,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793123290,
+            last_update = 1793642728,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
@@ -15790,6 +15795,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:4415:0:0:0:0:0:0:0:10|h[Схема: монокль ремесленника]|h|r",
                     name = "Схема: монокль ремесленника",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:10606:0:0:0:0:0:0:0:10|h[Схема: плащ-парашют]|h|r",
+                    name = "Схема: плащ-парашют",
                     count = 1,
                 },
                 {
