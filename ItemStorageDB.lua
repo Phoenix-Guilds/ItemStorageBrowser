@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793611370
+ItemStorageDB_LastUpdate = 1793611432
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-31 22:06:31",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-02 12:23:52",
         money = 339404,
-        empty = 102,
+        empty = 101,
         location = "Оргриммар",
         items = {
             {
@@ -81,7 +81,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40919:0:0:0:0:0:0:0:10|h[Символ роя насекомых]|h|r",
                 name = "Символ роя насекомых",
-                count = 9,
+                count = 14,
             },
             {
                 link = "|cffffffff|Hitem:40920:0:0:0:0:0:0:0:10|h[Символ грозы]|h|r",
@@ -211,7 +211,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
                 name = "Символ молнии",
-                count = 21,
+                count = 26,
             },
             {
                 link = "|cffffffff|Hitem:41537:0:0:0:0:0:0:0:10|h[Символ щита молний]|h|r",
@@ -371,7 +371,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42465:0:0:0:0:0:0:0:10|h[Символ беса]|h|r",
                 name = "Символ беса",
-                count = 25,
+                count = 30,
             },
             {
                 link = "|cffffffff|Hitem:42466:0:0:0:0:0:0:0:10|h[Символ жгучей боли]|h|r",
@@ -556,7 +556,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42910:0:0:0:0:0:0:0:10|h[Символ залпа]|h|r",
                 name = "Символ залпа",
-                count = 5,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:42911:0:0:0:0:0:0:0:10|h[Символ быстрой стрельбы]|h|r",
@@ -941,7 +941,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43427:0:0:0:0:0:0:0:10|h[Символ раскола брони]|h|r",
                 name = "Символ раскола брони",
-                count = 17,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:43428:0:0:0:0:0:0:0:10|h[Символ размашистого удара]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793477181,
+            last_update = 1793611421,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1295,7 +1295,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40919:0:0:0:0:0:0:0:10|h[Символ роя насекомых]|h|r",
                     name = "Символ роя насекомых",
-                    count = 9,
+                    count = 14,
                 },
                 {
                     link = "|cffffffff|Hitem:40920:0:0:0:0:0:0:0:10|h[Символ грозы]|h|r",
@@ -1425,7 +1425,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
                     name = "Символ молнии",
-                    count = 21,
+                    count = 26,
                 },
                 {
                     link = "|cffffffff|Hitem:41537:0:0:0:0:0:0:0:10|h[Символ щита молний]|h|r",
@@ -1585,7 +1585,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42465:0:0:0:0:0:0:0:10|h[Символ беса]|h|r",
                     name = "Символ беса",
-                    count = 25,
+                    count = 30,
                 },
                 {
                     link = "|cffffffff|Hitem:42466:0:0:0:0:0:0:0:10|h[Символ жгучей боли]|h|r",
@@ -1770,7 +1770,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42910:0:0:0:0:0:0:0:10|h[Символ залпа]|h|r",
                     name = "Символ залпа",
-                    count = 5,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:42911:0:0:0:0:0:0:0:10|h[Символ быстрой стрельбы]|h|r",
@@ -2155,7 +2155,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43427:0:0:0:0:0:0:0:10|h[Символ раскола брони]|h|r",
                     name = "Символ раскола брони",
-                    count = 17,
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:43428:0:0:0:0:0:0:0:10|h[Символ размашистого удара]|h|r",
@@ -2435,7 +2435,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793477183,
+            last_update = 1793611423,
             items = {
             },
         },
