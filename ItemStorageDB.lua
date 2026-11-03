@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793696338
+ItemStorageDB_LastUpdate = 1793696358
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21563,9 +21563,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 11:51:46",
+        updated_at = "2026-11-03 11:59:18",
         money = 203936,
-        empty = 66,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -21621,7 +21621,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
                 name = "Отделанный серебром пояс",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
@@ -21806,7 +21806,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                 name = "Крыло дракончика",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -22165,7 +22165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793695899,
+            last_update = 1793696351,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22690,7 +22690,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793695900,
+            last_update = 1793696352,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -22700,6 +22700,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                     name = "Набедренники Снопевца",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
+                    name = "Отделанный серебром пояс",
                     count = 1,
                 },
                 {
@@ -22730,6 +22735,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                     name = "Кушак Огрона",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
+                    name = "Крыло дракончика",
                     count = 1,
                 },
                 {
