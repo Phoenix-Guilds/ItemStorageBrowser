@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1793729983
+ItemStorageDB_LastUpdate = 1793736485
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 11:40:15",
+        updated_at = "2026-11-03 23:08:05",
         money = 339404,
         empty = 100,
         location = "Оргриммар",
@@ -511,7 +511,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                 name = "Символ лечения",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793695195,
+            last_update = 1793615331,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1980,7 +1980,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
                     name = "Символ левитации",
-                    count = 6,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:43371:0:0:0:0:0:0:0:10|h[Символ стойкости]|h|r",
@@ -2435,11 +2435,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793695196,
+            last_update = 1793615333,
             items = {
                 {
-                    link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
-                    name = "Символ левитации",
+                    link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
+                    name = "Символ лечения",
                     count = 1,
                 },
             },
