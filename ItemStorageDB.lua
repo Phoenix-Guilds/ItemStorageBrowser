@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793736485
+ItemStorageDB_LastUpdate = 1793736594
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9758,7 +9758,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 21:19:43",
+        updated_at = "2026-11-03 23:09:54",
         money = 14062,
         empty = 80,
         location = "Оргриммар",
@@ -9936,7 +9936,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 69,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -9960,7 +9960,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793729425,
+            last_update = 1793736574,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10125,7 +10125,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                     name = "Жареное крыло канюка",
-                    count = 69,
+                    count = 59,
                 },
                 {
                     link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -10150,7 +10150,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793729963,
+            last_update = 1793736584,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
