@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793695746
+ItemStorageDB_LastUpdate = 1793695771
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8502,10 +8502,10 @@ ItemStorageDB = {
     },
     {
         name = "Медяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-02 20:07:08",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-03 11:49:31",
         money = 141967,
-        empty = 127,
+        empty = 128,
         location = "Оргриммар",
         items = {
             {
@@ -8521,7 +8521,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23427:0:0:0:0:0:0:0:10|h[Этерниевая руда]|h|r",
                 name = "Этерниевая руда",
-                count = 171,
+                count = 159,
             },
             {
                 link = "|cff1eff00|Hitem:23448:0:0:0:0:0:0:0:10|h[Слиток оскверненной стали]|h|r",
@@ -8631,7 +8631,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                 name = "Оловянная руда",
-                count = 92,
+                count = 93,
             },
             {
                 link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
@@ -8690,7 +8690,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793642806,
+            last_update = 1793695766,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8815,7 +8815,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                     name = "Оловянная руда",
-                    count = 92,
+                    count = 93,
                 },
                 {
                     link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
@@ -8875,13 +8875,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793642806,
+            last_update = 1793695766,
             items = {
-                {
-                    link = "|cff1eff00|Hitem:23427:0:0:0:0:0:0:0:10|h[Этерниевая руда]|h|r",
-                    name = "Этерниевая руда",
-                    count = 12,
-                },
             },
         },
     },
