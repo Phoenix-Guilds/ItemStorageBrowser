@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793747932
+ItemStorageDB_LastUpdate = 1793747988
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9773,10 +9773,10 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-04 01:52:40",
+        updated_at = "2026-11-04 02:19:48",
         money = 14062,
-        empty = 80,
-        location = "",
+        empty = 81,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -9786,7 +9786,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
                 name = "Украшенные узором бронзовые наручи",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff1eff00|Hitem:29739:0:0:0:0:0:0:0:10|h[Чародейский фолиант]|h|r",
@@ -9941,7 +9941,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                 name = "Гирохронатом",
-                count = 27,
+                count = 26,
             },
             {
                 link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
@@ -9975,7 +9975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793736689,
+            last_update = 1793747970,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -9985,7 +9985,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2868:0:0:0:0:0:0:0:10|h[Украшенные узором бронзовые наручи]|h|r",
                     name = "Украшенные узором бронзовые наручи",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff1eff00|Hitem:29739:0:0:0:0:0:0:0:10|h[Чародейский фолиант]|h|r",
@@ -10130,7 +10130,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
                     name = "Гирохронатом",
-                    count = 27,
+                    count = 26,
                 },
                 {
                     link = "|cffffffff|Hitem:4392:0:0:0:0:0:0:0:10|h[Усовершенствованный манекен-мишень]|h|r",
@@ -10165,7 +10165,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793744565,
+            last_update = 1793747980,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
