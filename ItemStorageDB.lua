@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793695771
+ItemStorageDB_LastUpdate = 1793695906
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21578,9 +21578,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 11:49:06",
+        updated_at = "2026-11-03 11:51:46",
         money = 203936,
-        empty = 68,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -21784,6 +21784,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
+                name = "Поножи Троллегубителя",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
                 name = "Оплечье Бараньей стрижки",
                 count = 2,
@@ -21796,7 +21801,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                 name = "Кушак Огрона",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -22175,7 +22180,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793695738,
+            last_update = 1793695899,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22700,7 +22705,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793695740,
+            last_update = 1793695900,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -22728,8 +22733,18 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
+                    name = "Поножи Троллегубителя",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
                     name = "Наплеч Незримых",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
+                    name = "Кушак Огрона",
                     count = 1,
                 },
                 {
