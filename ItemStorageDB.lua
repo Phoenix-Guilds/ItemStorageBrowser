@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793696358
+ItemStorageDB_LastUpdate = 1793696456
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21563,9 +21563,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 11:59:18",
+        updated_at = "2026-11-03 12:00:56",
         money = 203936,
-        empty = 64,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -21711,7 +21711,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13101:0:0:0:0:0:0:0:10|h[Ботинки Волкогонца]|h|r",
                 name = "Ботинки Волкогонца",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13102:0:0:0:0:0:0:0:10|h[Милость Кассандры]|h|r",
@@ -21866,7 +21866,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
                 name = "Пояс безмятежности",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13145:0:0:0:0:0:0:0:10|h[Огромный огрский пояс]|h|r",
@@ -22165,7 +22165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793696351,
+            last_update = 1793696449,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22690,7 +22690,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793696352,
+            last_update = 1793696450,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -22715,6 +22715,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
                     name = "Шлем Маг-Тола",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13101:0:0:0:0:0:0:0:10|h[Ботинки Волкогонца]|h|r",
+                    name = "Ботинки Волкогонца",
                     count = 1,
                 },
                 {
@@ -22760,6 +22765,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
                     name = "Скелетные наплечники",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13144:0:0:0:0:0:0:0:10|h[Пояс безмятежности]|h|r",
+                    name = "Пояс безмятежности",
                     count = 1,
                 },
                 {
