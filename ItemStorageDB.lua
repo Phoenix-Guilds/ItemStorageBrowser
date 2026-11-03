@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793695364
+ItemStorageDB_LastUpdate = 1793695485
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4923,9 +4923,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-02 12:17:24",
+        updated_at = "2026-11-03 11:44:45",
         money = 899680,
-        empty = 107,
+        empty = 106,
         location = "Оргриммар",
         items = {
             {
@@ -4951,7 +4951,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9719:0:0:0:0:0:0:0:10|h[Сломанный клинок героев]|h|r",
                 name = "Сломанный клинок героев",
-                count = 12,
+                count = 13,
             },
             {
                 link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
@@ -5216,7 +5216,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                 name = "Настой колдунства",
-                count = 108,
+                count = 113,
             },
             {
                 link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
@@ -5230,7 +5230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793611031,
+            last_update = 1793695375,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5250,7 +5250,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9719:0:0:0:0:0:0:0:10|h[Сломанный клинок героев]|h|r",
                     name = "Сломанный клинок героев",
-                    count = 12,
+                    count = 13,
                 },
                 {
                     link = "|cff1eff00|Hitem:12803:0:0:0:0:0:0:0:10|h[Субстанция Жизни]|h|r",
@@ -5480,7 +5480,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8151:0:0:0:0:0:0:0:10|h[Настой колдунства]|h|r",
                     name = "Настой колдунства",
-                    count = 108,
+                    count = 113,
                 },
                 {
                     link = "|cffffffff|Hitem:8152:0:0:0:0:0:0:0:10|h[Настой большого колдунства]|h|r",
@@ -5490,7 +5490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793611037,
+            last_update = 1793695376,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5542,10 +5542,10 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 20:58:43",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-03 11:44:45",
         money = 16160,
-        empty = 142,
+        empty = 137,
         location = "Оргриммар",
         items = {
             {
@@ -5641,17 +5641,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
                 name = "Гномский армейский нож",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
                 name = "Кирка-молот",
-                count = 4,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:40893:0:0:0:0:0:0:0:10|h[Заостренная кирка]|h|r",
                 name = "Заостренная кирка",
-                count = 2,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:4357:0:0:0:0:0:0:0:10|h[Грубое взрывчатое вещество]|h|r",
@@ -5735,7 +5735,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793559485,
+            last_update = 1793695460,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5835,12 +5835,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
                     name = "Кирка-молот",
-                    count = 4,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:40893:0:0:0:0:0:0:0:10|h[Заостренная кирка]|h|r",
                     name = "Заостренная кирка",
-                    count = 2,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:4357:0:0:0:0:0:0:0:10|h[Грубое взрывчатое вещество]|h|r",
@@ -5925,13 +5925,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793559486,
+            last_update = 1793695461,
             items = {
-                {
-                    link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
-                    name = "Гномский армейский нож",
-                    count = 1,
-                },
             },
         },
     },
@@ -7767,12 +7762,17 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-01 20:03:41",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-03 11:44:45",
         money = 0,
         empty = 191,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
+                name = "Жареный ящер",
+                count = 6,
+            },
             {
                 link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
                 name = "Десерт из мертвечины",
@@ -7871,7 +7871,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
-                count = 16,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
@@ -7890,8 +7890,13 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793556170,
+            last_update = 1793695406,
             items = {
+                {
+                    link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
+                    name = "Жареный ящер",
+                    count = 6,
+                },
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
                     name = "Десерт из мертвечины",
@@ -8010,13 +8015,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793556171,
+            last_update = 1793695407,
             items = {
-                {
-                    link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
-                    name = "Отварные мидии",
-                    count = 5,
-                },
             },
         },
     },
