@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793695662
+ItemStorageDB_LastUpdate = 1793695705
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2448,9 +2448,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 01:04:27",
+        updated_at = "2026-11-03 11:48:25",
         money = 92710,
-        empty = 59,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -2826,7 +2826,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
                 name = "Клык Боана",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:5756:0:0:0:0:0:0:0:10|h[Серебряный клинок]|h|r",
@@ -2861,7 +2861,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                 name = "Корявый ясеневый посох",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
@@ -3040,7 +3040,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793656546,
+            last_update = 1793695685,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3525,7 +3525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793656564,
+            last_update = 1793695698,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3616,6 +3616,16 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:4696:0:0:0:0:0:0:0:10|h[Лапидийская пинта Пьющего Прибой]|h|r",
                     name = "Лапидийская пинта Пьющего Прибой",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:5423:0:0:0:0:0:0:0:10|h[Клык Боана]|h|r",
+                    name = "Клык Боана",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
+                    name = "Корявый ясеневый посох",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
