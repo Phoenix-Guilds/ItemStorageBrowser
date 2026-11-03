@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793696649
+ItemStorageDB_LastUpdate = 1793696737
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21573,9 +21573,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 12:03:14",
+        updated_at = "2026-11-03 12:05:37",
         money = 203936,
-        empty = 57,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -22001,7 +22001,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
@@ -22175,7 +22175,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793696586,
+            last_update = 1793696718,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22700,7 +22700,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793696587,
+            last_update = 1793696718,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -22795,6 +22795,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                     name = "Сапоги тиноброда",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
+                    name = "Поножи некроманта",
                     count = 1,
                 },
                 {
