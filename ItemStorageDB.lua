@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793696176
+ItemStorageDB_LastUpdate = 1793696202
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10173,7 +10173,7 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 11:42:44",
+        updated_at = "2026-11-03 11:56:42",
         money = 213874,
         empty = 55,
         location = "Оргриммар",
@@ -10471,11 +10471,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7974:0:0:0:0:0:0:0:10|h[Острое мясо моллюска]|h|r",
                 name = "Острое мясо моллюска",
-                count = 72,
+                count = 83,
             },
         },
         bank = {
-            last_update = 1793695342,
+            last_update = 1793696194,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10760,7 +10760,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793695344,
+            last_update = 1793696195,
             items = {
                 {
                     link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
@@ -10805,7 +10805,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7974:0:0:0:0:0:0:0:10|h[Острое мясо моллюска]|h|r",
                     name = "Острое мясо моллюска",
-                    count = 22,
+                    count = 33,
                 },
             },
         },
