@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793736709
+ItemStorageDB_LastUpdate = 1793746360
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9783,10 +9783,10 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 23:11:49",
+        updated_at = "2026-11-04 01:52:40",
         money = 14062,
         empty = 80,
-        location = "Оргриммар",
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10175,7 +10175,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793736697,
+            last_update = 1793744565,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
