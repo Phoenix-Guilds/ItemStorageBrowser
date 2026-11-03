@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793695627
+ItemStorageDB_LastUpdate = 1793695662
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22767,10 +22767,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 00:19:38",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-03 11:47:42",
         money = 194111,
-        empty = 114,
+        empty = 110,
         location = "Оргриммар",
         items = {
             {
@@ -22806,7 +22806,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                 name = "Калейдоскопическая цепь",
-                count = 2,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -22861,7 +22861,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
                 name = "Крест Жизни",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
@@ -23081,11 +23081,11 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
                 name = "Кольцо заморозки",
-                count = 3,
+                count = 4,
             },
         },
         bank = {
-            last_update = 1793657970,
+            last_update = 1793695656,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10634:0:0:0:0:0:0:0:10|h[Обруч Ока Разума]|h|r",
@@ -23290,12 +23290,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
                     name = "Кольцо заморозки",
-                    count = 2,
+                    count = 3,
                 },
             },
         },
         bags = {
-            last_update = 1793657973,
+            last_update = 1793695656,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23310,7 +23310,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13084:0:0:0:0:0:0:0:10|h[Калейдоскопическая цепь]|h|r",
                     name = "Калейдоскопическая цепь",
-                    count = 2,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13085:0:0:0:0:0:0:0:10|h[Колье Горизонта]|h|r",
@@ -23340,7 +23340,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
                     name = "Крест Жизни",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
