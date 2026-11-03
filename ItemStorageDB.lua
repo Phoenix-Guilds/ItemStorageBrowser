@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793736594
+ItemStorageDB_LastUpdate = 1793736645
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 23:08:05",
+        updated_at = "2026-11-03 23:10:45",
         money = 339404,
-        empty = 100,
+        empty = 95,
         location = "Оргриммар",
         items = {
             {
@@ -511,7 +511,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                 name = "Символ лечения",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -766,7 +766,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
                 name = "Символ левитации",
-                count = 7,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:43371:0:0:0:0:0:0:0:10|h[Символ стойкости]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793615331,
+            last_update = 1793736623,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1245,7 +1245,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40900:0:0:0:0:0:0:0:10|h[Символ увечья]|h|r",
                     name = "Символ увечья",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:40901:0:0:0:0:0:0:0:10|h[Символ полосования]|h|r",
@@ -1260,7 +1260,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40903:0:0:0:0:0:0:0:10|h[Символ глубокой раны]|h|r",
                     name = "Символ глубокой раны",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:40906:0:0:0:0:0:0:0:10|h[Символ быстрого восстановления]|h|r",
@@ -1270,7 +1270,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40908:0:0:0:0:0:0:0:10|h[Символ озарения]|h|r",
                     name = "Символ озарения",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:40912:0:0:0:0:0:0:0:10|h[Символ восстановления]|h|r",
@@ -1895,12 +1895,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
                     name = "Символ водного облика",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                     name = "Символ шипов",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -1980,7 +1980,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43370:0:0:0:0:0:0:0:10|h[Символ левитации]|h|r",
                     name = "Символ левитации",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:43371:0:0:0:0:0:0:0:10|h[Символ стойкости]|h|r",
@@ -2410,7 +2410,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:48720:0:0:0:0:0:0:0:10|h[Символ когтя]|h|r",
                     name = "Символ когтя",
-                    count = 14,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:49084:0:0:0:0:0:0:0:10|h[Символ властности]|h|r",
@@ -2435,11 +2435,36 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793615333,
+            last_update = 1793736625,
             items = {
                 {
-                    link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
-                    name = "Символ лечения",
+                    link = "|cffffffff|Hitem:40900:0:0:0:0:0:0:0:10|h[Символ увечья]|h|r",
+                    name = "Символ увечья",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:40903:0:0:0:0:0:0:0:10|h[Символ глубокой раны]|h|r",
+                    name = "Символ глубокой раны",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:40908:0:0:0:0:0:0:0:10|h[Символ озарения]|h|r",
+                    name = "Символ озарения",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
+                    name = "Символ водного облика",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
+                    name = "Символ шипов",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:48720:0:0:0:0:0:0:0:10|h[Символ когтя]|h|r",
+                    name = "Символ когтя",
                     count = 1,
                 },
             },
