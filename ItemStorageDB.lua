@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793822493
+ItemStorageDB_LastUpdate = 1793822709
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21632,10 +21632,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-04 11:32:18",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-04 22:05:09",
         money = 203936,
-        empty = 58,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -22061,7 +22061,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
@@ -22111,7 +22111,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                 name = "Шапка терпения",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:3844:1892:0:0:0:0:0:0:10|h[Зеленый железный хауберк]|h|r",
@@ -22230,7 +22230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793781115,
+            last_update = 1793822651,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22755,7 +22755,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793781130,
+            last_update = 1793822660,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -22853,11 +22853,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
-                    name = "Поножи некроманта",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:2278:0:0:0:0:0:0:0:10|h[Эполеты лесного следопыта]|h|r",
                     name = "Эполеты лесного следопыта",
                     count = 1,
@@ -22870,7 +22865,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                     name = "Шапка терпения",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:43515:0:0:0:0:0:0:0:10|h[Мистический том]|h|r",
