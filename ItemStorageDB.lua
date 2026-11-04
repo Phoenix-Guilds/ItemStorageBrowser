@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793822709
+ItemStorageDB_LastUpdate = 1793824235
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-04 22:00:24",
+        updated_at = "2026-11-04 22:30:35",
         money = 339404,
-        empty = 100,
+        empty = 98,
         location = "Оргриммар",
         items = {
             {
@@ -106,7 +106,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40924:0:0:0:0:0:0:0:10|h[Символ гнева деревьев]|h|r",
                 name = "Символ гнева деревьев",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
@@ -759,6 +759,11 @@ ItemStorageDB = {
                 count = 6,
             },
             {
+                link = "|cffffffff|Hitem:43367:0:0:0:0:0:0:0:10|h[Символ возложения рук]|h|r",
+                name = "Символ возложения рук",
+                count = 3,
+            },
+            {
                 link = "|cffffffff|Hitem:43368:0:0:0:0:0:0:0:10|h[Символ чутья на нежить]|h|r",
                 name = "Символ чутья на нежить",
                 count = 7,
@@ -1220,7 +1225,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793822367,
+            last_update = 1793822874,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1973,6 +1978,11 @@ ItemStorageDB = {
                     count = 6,
                 },
                 {
+                    link = "|cffffffff|Hitem:43367:0:0:0:0:0:0:0:10|h[Символ возложения рук]|h|r",
+                    name = "Символ возложения рук",
+                    count = 3,
+                },
+                {
                     link = "|cffffffff|Hitem:43368:0:0:0:0:0:0:0:10|h[Символ чутья на нежить]|h|r",
                     name = "Символ чутья на нежить",
                     count = 7,
@@ -2090,7 +2100,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43414:0:0:0:0:0:0:0:10|h[Символ рассечения]|h|r",
                     name = "Символ рассечения",
-                    count = 17,
+                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:43415:0:0:0:0:0:0:0:10|h[Символ сокрушения]|h|r",
@@ -2140,7 +2150,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43424:0:0:0:0:0:0:0:10|h[Символ реванша]|h|r",
                     name = "Символ реванша",
-                    count = 7,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:43425:0:0:0:0:0:0:0:10|h[Символ блокирования]|h|r",
@@ -2435,11 +2445,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793822407,
+            last_update = 1793822883,
             items = {
                 {
-                    link = "|cffffffff|Hitem:40924:0:0:0:0:0:0:0:10|h[Символ гнева деревьев]|h|r",
-                    name = "Символ гнева деревьев",
+                    link = "|cffffffff|Hitem:43414:0:0:0:0:0:0:0:10|h[Символ рассечения]|h|r",
+                    name = "Символ рассечения",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:43424:0:0:0:0:0:0:0:10|h[Символ реванша]|h|r",
+                    name = "Символ реванша",
                     count = 1,
                 },
             },
