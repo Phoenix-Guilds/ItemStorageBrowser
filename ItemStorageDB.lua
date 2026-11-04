@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793822236
+ItemStorageDB_LastUpdate = 1793822424
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-04 21:55:12",
+        updated_at = "2026-11-04 22:00:24",
         money = 339404,
-        empty = 99,
+        empty = 100,
         location = "Оргриммар",
         items = {
             {
@@ -326,7 +326,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42455:0:0:0:0:0:0:0:10|h[Символ порчи]|h|r",
                 name = "Символ порчи",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:42456:0:0:0:0:0:0:0:10|h[Символ проклятия агонии]|h|r",
@@ -816,7 +816,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
                 name = "Символ бесконечного дыхания",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43390:0:0:0:0:0:0:0:10|h[Символ похищения души]|h|r",
@@ -1220,7 +1220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793822087,
+            last_update = 1793822367,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1320,7 +1320,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40924:0:0:0:0:0:0:0:10|h[Символ гнева деревьев]|h|r",
                     name = "Символ гнева деревьев",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:41092:0:0:0:0:0:0:0:10|h[Символ правосудия]|h|r",
@@ -2435,16 +2435,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793822095,
+            last_update = 1793822407,
             items = {
                 {
-                    link = "|cffffffff|Hitem:42455:0:0:0:0:0:0:0:10|h[Символ порчи]|h|r",
-                    name = "Символ порчи",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:43389:0:0:0:0:0:0:0:10|h[Символ бесконечного дыхания]|h|r",
-                    name = "Символ бесконечного дыхания",
+                    link = "|cffffffff|Hitem:40924:0:0:0:0:0:0:0:10|h[Символ гнева деревьев]|h|r",
+                    name = "Символ гнева деревьев",
                     count = 1,
                 },
             },
