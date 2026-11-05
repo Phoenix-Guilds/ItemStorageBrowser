@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793909457
+ItemStorageDB_LastUpdate = 1793909716
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5952,10 +5952,10 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-02 20:08:07",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-05 23:15:16",
         money = 766001,
-        empty = 59,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -6071,22 +6071,22 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
                 name = "Пламенный спессарит",
-                count = 83,
+                count = 84,
             },
             {
                 link = "|cff1eff00|Hitem:23077:0:0:0:0:0:0:0:10|h[Кровавый гранат]|h|r",
                 name = "Кровавый гранат",
-                count = 54,
+                count = 56,
             },
             {
                 link = "|cff1eff00|Hitem:23079:0:0:0:0:0:0:0:10|h[Хризолит]|h|r",
                 name = "Хризолит",
-                count = 74,
+                count = 75,
             },
             {
                 link = "|cff1eff00|Hitem:23107:0:0:0:0:0:0:0:10|h[Сумрачный дренит]|h|r",
                 name = "Сумрачный дренит",
-                count = 54,
+                count = 55,
             },
             {
                 link = "|cff1eff00|Hitem:23112:0:0:0:0:0:0:0:10|h[Золотой дренит]|h|r",
@@ -6111,12 +6111,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36923:0:0:0:0:0:0:0:10|h[Кальцедоний]|h|r",
                 name = "Кальцедоний",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff1eff00|Hitem:36926:0:0:0:0:0:0:0:10|h[Сумрачный кристалл]|h|r",
                 name = "Сумрачный кристалл",
-                count = 30,
+                count = 31,
             },
             {
                 link = "|cff1eff00|Hitem:36929:0:0:0:0:0:0:0:10|h[Огромный цитрин]|h|r",
@@ -6176,7 +6176,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12365:0:0:0:0:0:0:0:10|h[Массивный камень]|h|r",
                 name = "Массивный камень",
-                count = 450,
+                count = 350,
             },
             {
                 link = "|cffffffff|Hitem:12404:0:0:0:0:0:0:0:10|h[Массивное точило]|h|r",
@@ -6201,17 +6201,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
                 name = "Грубый камень",
-                count = 297,
+                count = 197,
             },
             {
                 link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
                 name = "Необработанный камень",
-                count = 190,
+                count = 90,
             },
             {
                 link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                 name = "Тяжелый камень",
-                count = 458,
+                count = 558,
             },
             {
                 link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
@@ -6281,7 +6281,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                 name = "Твердый камень",
-                count = 450,
+                count = 400,
             },
             {
                 link = "|cffffffff|Hitem:7964:0:0:0:0:0:0:0:10|h[Твердое точило]|h|r",
@@ -6295,7 +6295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793642880,
+            last_update = 1793909700,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6405,22 +6405,22 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
                     name = "Пламенный спессарит",
-                    count = 83,
+                    count = 84,
                 },
                 {
                     link = "|cff1eff00|Hitem:23077:0:0:0:0:0:0:0:10|h[Кровавый гранат]|h|r",
                     name = "Кровавый гранат",
-                    count = 54,
+                    count = 56,
                 },
                 {
                     link = "|cff1eff00|Hitem:23079:0:0:0:0:0:0:0:10|h[Хризолит]|h|r",
                     name = "Хризолит",
-                    count = 74,
+                    count = 75,
                 },
                 {
                     link = "|cff1eff00|Hitem:23107:0:0:0:0:0:0:0:10|h[Сумрачный дренит]|h|r",
                     name = "Сумрачный дренит",
-                    count = 54,
+                    count = 55,
                 },
                 {
                     link = "|cff1eff00|Hitem:23112:0:0:0:0:0:0:0:10|h[Золотой дренит]|h|r",
@@ -6445,12 +6445,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:36923:0:0:0:0:0:0:0:10|h[Кальцедоний]|h|r",
                     name = "Кальцедоний",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:36926:0:0:0:0:0:0:0:10|h[Сумрачный кристалл]|h|r",
                     name = "Сумрачный кристалл",
-                    count = 30,
+                    count = 31,
                 },
                 {
                     link = "|cff1eff00|Hitem:36929:0:0:0:0:0:0:0:10|h[Огромный цитрин]|h|r",
@@ -6490,7 +6490,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12365:0:0:0:0:0:0:0:10|h[Массивный камень]|h|r",
                     name = "Массивный камень",
-                    count = 450,
+                    count = 350,
                 },
                 {
                     link = "|cffffffff|Hitem:12644:0:0:0:0:0:0:0:10|h[Массивный шлифовальный камень]|h|r",
@@ -6500,17 +6500,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
                     name = "Грубый камень",
-                    count = 297,
+                    count = 197,
                 },
                 {
                     link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
                     name = "Необработанный камень",
-                    count = 190,
+                    count = 90,
                 },
                 {
                     link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                     name = "Тяжелый камень",
-                    count = 458,
+                    count = 558,
                 },
                 {
                     link = "|cffffffff|Hitem:3470:0:0:0:0:0:0:0:10|h[Грубый шлифовальный камень]|h|r",
@@ -6530,7 +6530,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                     name = "Твердый камень",
-                    count = 450,
+                    count = 400,
                 },
                 {
                     link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
@@ -6540,7 +6540,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793642882,
+            last_update = 1793909709,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
