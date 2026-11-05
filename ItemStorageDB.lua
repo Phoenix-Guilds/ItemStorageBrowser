@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793908663
+ItemStorageDB_LastUpdate = 1793909119
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6673,9 +6673,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-05 22:47:14",
+        updated_at = "2026-11-05 23:05:19",
         money = 181084,
-        empty = 137,
+        empty = 133,
         location = "Оргриммар",
         items = {
             {
@@ -6696,7 +6696,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:44128:0:0:0:0:0:0:0:10|h[Арктический мех]|h|r",
                 name = "Арктический мех",
-                count = 26,
+                count = 30,
             },
             {
                 link = "|cff1eff00|Hitem:34207:0:0:0:0:0:0:0:10|h[Упрочнения для перчаток]|h|r",
@@ -6766,7 +6766,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:21887:0:0:0:0:0:0:0:10|h[Узловатая кожа]|h|r",
                 name = "Узловатая кожа",
-                count = 21,
+                count = 22,
             },
             {
                 link = "|cffffffff|Hitem:2304:0:0:0:0:0:0:0:10|h[Накладки из тонкой кожи]|h|r",
@@ -6786,7 +6786,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 771,
+                count = 814,
             },
             {
                 link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
@@ -6796,7 +6796,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:25649:0:0:0:0:0:0:0:10|h[Обрывки узловатой кожи]|h|r",
                 name = "Обрывки узловатой кожи",
-                count = 100,
+                count = 102,
             },
             {
                 link = "|cffffffff|Hitem:25650:0:0:0:0:0:0:0:10|h[Накладки из узловатой кожи]|h|r",
@@ -6841,17 +6841,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:29548:0:0:0:0:0:0:0:10|h[Чешуя дракона Пустоты]|h|r",
                 name = "Чешуя дракона Пустоты",
-                count = 50,
+                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:33567:0:0:0:0:0:0:0:10|h[Обрывки борейской кожи]|h|r",
                 name = "Обрывки борейской кожи",
-                count = 408,
+                count = 429,
             },
             {
                 link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
                 name = "Борейская кожа",
-                count = 451,
+                count = 549,
             },
             {
                 link = "|cffffffff|Hitem:38375:0:0:0:0:0:0:0:10|h[Накладки из борейской кожи]|h|r",
@@ -6866,17 +6866,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:38557:0:0:0:0:0:0:0:10|h[Мерзлая чешуя дракона]|h|r",
                 name = "Мерзлая чешуя дракона",
-                count = 12,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:38558:0:0:0:0:0:0:0:10|h[Нерубский хитин]|h|r",
                 name = "Нерубский хитин",
-                count = 313,
+                count = 330,
             },
             {
                 link = "|cffffffff|Hitem:38561:0:0:0:0:0:0:0:10|h[Чешуя йормунгара]|h|r",
                 name = "Чешуя йормунгара",
-                count = 22,
+                count = 23,
             },
             {
                 link = "|cffffffff|Hitem:4096:0:0:0:0:0:0:0:10|h[Жесткая шерсть гориллы]|h|r",
@@ -7010,7 +7010,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793907943,
+            last_update = 1793908893,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7020,7 +7020,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:44128:0:0:0:0:0:0:0:10|h[Арктический мех]|h|r",
                     name = "Арктический мех",
-                    count = 26,
+                    count = 30,
                 },
                 {
                     link = "|cffffffff|Hitem:15407:0:0:0:0:0:0:0:10|h[Обработанная грубая шкура]|h|r",
@@ -7065,7 +7065,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:21887:0:0:0:0:0:0:0:10|h[Узловатая кожа]|h|r",
                     name = "Узловатая кожа",
-                    count = 21,
+                    count = 22,
                 },
                 {
                     link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
@@ -7075,12 +7075,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                     name = "Жесткая кожа",
-                    count = 771,
+                    count = 814,
                 },
                 {
                     link = "|cffffffff|Hitem:25649:0:0:0:0:0:0:0:10|h[Обрывки узловатой кожи]|h|r",
                     name = "Обрывки узловатой кожи",
-                    count = 100,
+                    count = 102,
                 },
                 {
                     link = "|cffffffff|Hitem:25699:0:0:0:0:0:0:0:10|h[Пронизанная кристаллами кожа]|h|r",
@@ -7120,17 +7120,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:29548:0:0:0:0:0:0:0:10|h[Чешуя дракона Пустоты]|h|r",
                     name = "Чешуя дракона Пустоты",
-                    count = 50,
+                    count = 51,
                 },
                 {
                     link = "|cffffffff|Hitem:33567:0:0:0:0:0:0:0:10|h[Обрывки борейской кожи]|h|r",
                     name = "Обрывки борейской кожи",
-                    count = 408,
+                    count = 429,
                 },
                 {
                     link = "|cffffffff|Hitem:33568:0:0:0:0:0:0:0:10|h[Борейская кожа]|h|r",
                     name = "Борейская кожа",
-                    count = 451,
+                    count = 549,
                 },
                 {
                     link = "|cffffffff|Hitem:38425:0:0:0:0:0:0:0:10|h[Толстая борейская кожа]|h|r",
@@ -7140,17 +7140,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:38557:0:0:0:0:0:0:0:10|h[Мерзлая чешуя дракона]|h|r",
                     name = "Мерзлая чешуя дракона",
-                    count = 12,
+                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:38558:0:0:0:0:0:0:0:10|h[Нерубский хитин]|h|r",
                     name = "Нерубский хитин",
-                    count = 313,
+                    count = 330,
                 },
                 {
                     link = "|cffffffff|Hitem:38561:0:0:0:0:0:0:0:10|h[Чешуя йормунгара]|h|r",
                     name = "Чешуя йормунгара",
-                    count = 22,
+                    count = 23,
                 },
                 {
                     link = "|cffffffff|Hitem:4096:0:0:0:0:0:0:0:10|h[Жесткая шерсть гориллы]|h|r",
@@ -7265,7 +7265,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793907951,
+            last_update = 1793908901,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
