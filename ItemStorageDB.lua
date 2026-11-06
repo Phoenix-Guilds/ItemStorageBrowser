@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793941635
+ItemStorageDB_LastUpdate = 1793941773
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15692,8 +15692,8 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-04 02:13:14",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-06 07:09:33",
         money = 214291,
         empty = 191,
         location = "Оргриммар",
@@ -15910,7 +15910,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793747508,
+            last_update = 1793941700,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -16005,7 +16005,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793747585,
+            last_update = 1793941765,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
