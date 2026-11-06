@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793969877
+ItemStorageDB_LastUpdate = 1793970060
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13373,9 +13373,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 11:54:19",
+        updated_at = "2026-11-06 16:01:00",
         money = 385478,
-        empty = 116,
+        empty = 118,
         location = "Оргриммар",
         items = {
             {
@@ -13559,11 +13559,6 @@ ItemStorageDB = {
                 count = 15,
             },
             {
-                link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
-                name = "Превосходное волшебное масло",
-                count = 2,
-            },
-            {
                 link = "|cffffffff|Hitem:25843:0:0:0:0:0:0:0:10|h[Жезл из оскверненного железа]|h|r",
                 name = "Жезл из оскверненного железа",
                 count = 3,
@@ -13600,7 +13595,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793955248,
+            last_update = 1793970046,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13768,11 +13763,6 @@ ItemStorageDB = {
                     count = 15,
                 },
                 {
-                    link = "|cffffffff|Hitem:22522:0:0:0:0:0:0:0:10|h[Превосходное волшебное масло]|h|r",
-                    name = "Превосходное волшебное масло",
-                    count = 2,
-                },
-                {
                     link = "|cffffffff|Hitem:34054:0:0:0:0:0:0:0:10|h[Абсолютная пыль]|h|r",
                     name = "Абсолютная пыль",
                     count = 2,
@@ -13785,7 +13775,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793955254,
+            last_update = 1793970052,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
