@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793950316
+ItemStorageDB_LastUpdate = 1793953654
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21118,7 +21118,7 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 10:26:19",
+        updated_at = "2026-11-06 11:27:34",
         money = 203936,
         empty = 57,
         location = "Оргриммар",
@@ -21301,7 +21301,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
                 name = "Накидка черного пламени",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
@@ -21599,11 +21599,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
-                name = "Шапка терпения",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:3844:1892:0:0:0:0:0:0:10|h[Зеленый железный хауберк]|h|r",
                 name = "Зеленый железный хауберк",
                 count = 1,
@@ -21720,7 +21715,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793949973,
+            last_update = 1793953581,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21885,7 +21880,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
                     name = "Накидка черного пламени",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13111:0:0:0:0:0:0:0:10|h[Сандалии мятежника]|h|r",
@@ -22245,7 +22240,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793949973,
+            last_update = 1793953648,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22360,11 +22355,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
                     name = "Святой капюшон",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
-                    name = "Шапка терпения",
                     count = 1,
                 },
                 {
