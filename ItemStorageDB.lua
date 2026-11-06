@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793955139
+ItemStorageDB_LastUpdate = 1793955166
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12438,9 +12438,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 11:47:07",
+        updated_at = "2026-11-06 11:52:46",
         money = 13104,
-        empty = 58,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -12491,7 +12491,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                 name = "Быстроветр",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
@@ -12531,7 +12531,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                 name = "Железноткач",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -12620,7 +12620,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793695620,
+            last_update = 1793955154,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -12665,7 +12665,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                     name = "Быстроветр",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
@@ -12705,7 +12705,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                     name = "Железноткач",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -12750,7 +12750,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793695621,
+            last_update = 1793955161,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
