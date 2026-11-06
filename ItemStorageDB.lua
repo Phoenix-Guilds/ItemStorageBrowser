@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793966541
+ItemStorageDB_LastUpdate = 1793966584
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2453,9 +2453,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 10:20:10",
+        updated_at = "2026-11-06 15:03:04",
         money = 92710,
-        empty = 55,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -2926,7 +2926,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
@@ -3004,11 +3004,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
-                name = "Топор Лесных чащоб",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:812:0:0:0:0:0:0:0:10|h[Светящийся посох Светлой рощи]|h|r",
                 name = "Светящийся посох Светлой рощи",
                 count = 2,
@@ -3045,7 +3040,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793949602,
+            last_update = 1793966566,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3498,11 +3493,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
-                    name = "Топор Лесных чащоб",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:812:0:0:0:0:0:0:0:10|h[Светящийся посох Светлой рощи]|h|r",
                     name = "Светящийся посох Светлой рощи",
                     count = 2,
@@ -3535,7 +3525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793949604,
+            last_update = 1793966579,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3655,7 +3645,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                     name = "Щит пылающего черепа",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
