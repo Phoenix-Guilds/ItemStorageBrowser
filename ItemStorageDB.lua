@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793967986
+ItemStorageDB_LastUpdate = 1793968248
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2458,9 +2458,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 15:03:04",
+        updated_at = "2026-11-06 15:30:48",
         money = 92710,
-        empty = 57,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -2696,7 +2696,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -3045,7 +3045,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793966566,
+            last_update = 1793968231,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3438,6 +3438,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
+                    name = "Перекованный клинок Героев",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
                     name = "Мозгоруб",
                     count = 2,
@@ -3530,7 +3535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793966579,
+            last_update = 1793968242,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3575,7 +3580,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -3645,7 +3650,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                     name = "Перекованный клинок Героев",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
