@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793941773
+ItemStorageDB_LastUpdate = 1793949610
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2453,9 +2453,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-04 11:35:21",
+        updated_at = "2026-11-06 10:20:10",
         money = 92710,
-        empty = 57,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -2661,7 +2661,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13055:0:0:0:0:0:0:0:10|h[Костеглод]|h|r",
                 name = "Костеглод",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13056:0:0:0:0:0:0:0:10|h[Яростный удар]|h|r",
@@ -2921,7 +2921,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                 name = "Перекованный клинок Героев",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
@@ -3045,7 +3045,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793781164,
+            last_update = 1793949602,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3535,7 +3535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793781165,
+            last_update = 1793949604,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3561,6 +3561,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
                     name = "Рапира из быстростали",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13055:0:0:0:0:0:0:0:10|h[Костеглод]|h|r",
+                    name = "Костеглод",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
@@ -3645,7 +3650,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
                     name = "Перекованный клинок Героев",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
