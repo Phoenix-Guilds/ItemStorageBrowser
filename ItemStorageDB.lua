@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793953654
+ItemStorageDB_LastUpdate = 1793955139
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21118,9 +21118,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 11:27:34",
+        updated_at = "2026-11-06 11:52:19",
         money = 203936,
-        empty = 57,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -21306,7 +21306,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
                 name = "Портупея волчьего страха",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13111:0:0:0:0:0:0:0:10|h[Сандалии мятежника]|h|r",
@@ -21715,7 +21715,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793953581,
+            last_update = 1793955041,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22240,7 +22240,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793953648,
+            last_update = 1793955129,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22285,7 +22285,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
                     name = "Портупея волчьего страха",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
