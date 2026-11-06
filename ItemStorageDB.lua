@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793969178
+ItemStorageDB_LastUpdate = 1793969224
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19238,9 +19238,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 15:26:26",
+        updated_at = "2026-11-06 15:47:04",
         money = 475064,
-        empty = 99,
+        empty = 100,
         location = "Оргриммар",
         items = {
             {
@@ -19381,7 +19381,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                 name = "Золотой клевер",
-                count = 68,
+                count = 48,
             },
             {
                 link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
@@ -19505,7 +19505,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793967960,
+            last_update = 1793969198,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19625,7 +19625,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                     name = "Золотой клевер",
-                    count = 68,
+                    count = 48,
                 },
                 {
                     link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
@@ -19720,7 +19720,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793967977,
+            last_update = 1793969205,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
