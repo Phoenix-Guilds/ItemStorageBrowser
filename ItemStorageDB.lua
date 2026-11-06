@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793968248
+ItemStorageDB_LastUpdate = 1793969178
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4948,7 +4948,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-05 23:10:46",
+        updated_at = "2026-11-06 15:46:18",
         money = 899680,
         empty = 99,
         location = "Оргриммар",
@@ -5061,7 +5061,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:35625:0:0:0:0:0:0:0:10|h[Извечная жизнь]|h|r",
                 name = "Извечная жизнь",
-                count = 31,
+                count = 29,
             },
             {
                 link = "|cff1eff00|Hitem:35627:0:0:0:0:0:0:0:10|h[Извечная тьма]|h|r",
@@ -5081,7 +5081,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                 name = "Северный лотос",
-                count = 22,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
@@ -5255,7 +5255,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793909235,
+            last_update = 1793969162,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5345,7 +5345,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:35625:0:0:0:0:0:0:0:10|h[Извечная жизнь]|h|r",
                     name = "Извечная жизнь",
-                    count = 31,
+                    count = 29,
                 },
                 {
                     link = "|cff1eff00|Hitem:35627:0:0:0:0:0:0:0:10|h[Извечная тьма]|h|r",
@@ -5360,7 +5360,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:36908:0:0:0:0:0:0:0:10|h[Северный лотос]|h|r",
                     name = "Северный лотос",
-                    count = 22,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -5515,7 +5515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793909281,
+            last_update = 1793969170,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
