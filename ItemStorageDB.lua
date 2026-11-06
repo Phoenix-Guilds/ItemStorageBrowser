@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793966584
+ItemStorageDB_LastUpdate = 1793966621
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22383,15 +22383,15 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 10:31:56",
+        updated_at = "2026-11-06 15:03:41",
         money = 194111,
-        empty = 107,
+        empty = 109,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                 name = "Сила Утера",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22659,11 +22659,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:29160:0:0:0:0:0:0:0:10|h[Изумрудное кольцо льва]|h|r",
-                name = "Изумрудное кольцо льва",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:30422:0:0:0:0:0:0:0:10|h[Бриллиантовое кольцо концентрации]|h|r",
                 name = "Бриллиантовое кольцо концентрации",
                 count = 3,
@@ -22695,7 +22690,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793950058,
+            last_update = 1793966607,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22878,11 +22873,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:29160:0:0:0:0:0:0:0:10|h[Изумрудное кольцо льва]|h|r",
-                    name = "Изумрудное кольцо льва",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:30422:0:0:0:0:0:0:0:10|h[Бриллиантовое кольцо концентрации]|h|r",
                     name = "Бриллиантовое кольцо концентрации",
                     count = 3,
@@ -22900,12 +22890,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793950310,
+            last_update = 1793966616,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                     name = "Сила Утера",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
