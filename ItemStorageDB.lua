@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793941490
+ItemStorageDB_LastUpdate = 1793941635
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7842,10 +7842,10 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-05 23:10:46",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-06 07:07:15",
         money = 0,
-        empty = 191,
+        empty = 190,
         location = "Оргриммар",
         items = {
             {
@@ -7946,12 +7946,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 25,
+                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
                 name = "Отварные мидии",
-                count = 11,
+                count = 21,
             },
             {
                 link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
@@ -7970,7 +7970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793909371,
+            last_update = 1793941555,
             items = {
                 {
                     link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
@@ -8070,7 +8070,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                     name = "Хрустящий хвост ящерицы",
-                    count = 25,
+                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -8095,8 +8095,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793909376,
+            last_update = 1793941620,
             items = {
+                {
+                    link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
+                    name = "Отварные мидии",
+                    count = 10,
+                },
             },
         },
     },
