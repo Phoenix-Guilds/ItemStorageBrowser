@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793949979
+ItemStorageDB_LastUpdate = 1793950316
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22418,16 +22418,11 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-04 10:48:04",
+        updated_at = "2026-11-06 10:31:56",
         money = 194111,
         empty = 107,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff0070dd|Hitem:10634:0:0:0:0:0:0:0:10|h[Обруч Ока Разума]|h|r",
-                name = "Обруч Ока Разума",
-                count = 1,
-            },
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
                 name = "Сила Утера",
@@ -22446,7 +22441,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13001:0:0:0:0:0:0:0:10|h[Обруч девушки]|h|r",
                 name = "Обруч девушки",
-                count = 2,
+                count = 3,
             },
             {
                 link = "|cff0070dd|Hitem:13002:0:0:0:0:0:0:0:10|h[Подвеска леди Ализабет]|h|r",
@@ -22735,13 +22730,8 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793778419,
+            last_update = 1793950058,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:10634:0:0:0:0:0:0:0:10|h[Обруч Ока Разума]|h|r",
-                    name = "Обруч Ока Разума",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                     name = "Кольцо защиты",
@@ -22755,7 +22745,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13001:0:0:0:0:0:0:0:10|h[Обруч девушки]|h|r",
                     name = "Обруч девушки",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13093:0:0:0:0:0:0:0:10|h[Кольцо тлеющих углей]|h|r",
@@ -22945,7 +22935,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793778477,
+            last_update = 1793950310,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
