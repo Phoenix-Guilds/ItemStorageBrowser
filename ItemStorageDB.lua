@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1793966621
+ItemStorageDB_LastUpdate = 1793966661
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-05 23:39:31",
+        updated_at = "2026-11-06 15:04:21",
         money = 339404,
-        empty = 100,
+        empty = 99,
         location = "Оргриммар",
         items = {
             {
@@ -1225,7 +1225,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793911150,
+            last_update = 1793966650,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2080,7 +2080,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43399:0:0:0:0:0:0:0:10|h[Символ удара грома]|h|r",
                     name = "Символ удара грома",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:43400:0:0:0:0:0:0:0:10|h[Символ неоспоримой победы]|h|r",
@@ -2445,8 +2445,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793911151,
+            last_update = 1793966650,
             items = {
+                {
+                    link = "|cffffffff|Hitem:43399:0:0:0:0:0:0:0:10|h[Символ удара грома]|h|r",
+                    name = "Символ удара грома",
+                    count = 1,
+                },
             },
         },
     },
