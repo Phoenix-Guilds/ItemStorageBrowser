@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793949610
+ItemStorageDB_LastUpdate = 1793949644
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21108,9 +21108,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-05 23:28:29",
+        updated_at = "2026-11-06 10:20:44",
         money = 203936,
-        empty = 59,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -21166,7 +21166,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                 name = "Набедренники Снопевца",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -21710,7 +21710,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793910125,
+            last_update = 1793949638,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22235,7 +22235,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793910145,
+            last_update = 1793949638,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22250,7 +22250,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                     name = "Набедренники Снопевца",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
