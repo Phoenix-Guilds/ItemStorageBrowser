@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793997774
+ItemStorageDB_LastUpdate = 1793997823
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21432,21 +21432,16 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 15:02:21",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-06 22:43:43",
         money = 203936,
-        empty = 65,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                 name = "Перчатки Волшебного кулака",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
-                name = "Пояс вестника шторма",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -22025,7 +22020,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793966506,
+            last_update = 1793997799,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22540,13 +22535,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793966535,
+            last_update = 1793997808,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
-                    name = "Пояс вестника шторма",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
                     name = "Темнотканые брюки",
