@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793941371
+ItemStorageDB_LastUpdate = 1793941490
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7172,10 +7172,10 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-05 23:05:19",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-06 07:04:50",
         money = 181084,
-        empty = 133,
+        empty = 134,
         location = "Оргриммар",
         items = {
             {
@@ -7272,11 +7272,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2304:0:0:0:0:0:0:0:10|h[Накладки из тонкой кожи]|h|r",
                 name = "Накладки из тонкой кожи",
                 count = 20,
-            },
-            {
-                link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
-                name = "Накладки из жесткой кожи",
-                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
@@ -7510,7 +7505,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793908893,
+            last_update = 1793941426,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7765,7 +7760,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793908901,
+            last_update = 1793941474,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7806,11 +7801,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:2304:0:0:0:0:0:0:0:10|h[Накладки из тонкой кожи]|h|r",
                     name = "Накладки из тонкой кожи",
                     count = 20,
-                },
-                {
-                    link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
-                    name = "Накладки из жесткой кожи",
-                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
