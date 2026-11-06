@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1793997287
+ItemStorageDB_LastUpdate = 1793997454
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2457,10 +2457,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 15:30:48",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-06 22:37:34",
         money = 92710,
-        empty = 58,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -2496,12 +2496,12 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                 name = "Клинок Многоглаза",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -3045,7 +3045,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793968231,
+            last_update = 1793997431,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3075,7 +3075,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                     name = "Клинок Многоглаза",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12990:0:0:0:0:0:0:0:10|h[Лезвие бритвы]|h|r",
@@ -3535,7 +3535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793968242,
+            last_update = 1793997442,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3545,7 +3545,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
