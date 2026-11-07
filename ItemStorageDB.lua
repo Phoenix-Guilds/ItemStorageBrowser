@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794093909
+ItemStorageDB_LastUpdate = 1794094366
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21063,9 +21063,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 01:23:04",
+        updated_at = "2026-11-08 01:32:46",
         money = 203936,
-        empty = 73,
+        empty = 74,
         location = "Оргриммар",
         items = {
             {
@@ -21301,7 +21301,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                 name = "Крыло дракончика",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -21630,7 +21630,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794093753,
+            last_update = 1794094302,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -21846,11 +21846,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                     name = "Наручи Гневливого",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
-                    name = "Крыло дракончика",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -22140,7 +22135,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794093776,
+            last_update = 1794094312,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
