@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1794051259
+ItemStorageDB_LastUpdate = 1794051320
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 15:04:21",
+        updated_at = "2026-11-07 14:35:20",
         money = 339404,
         empty = 99,
         location = "Оргриммар",
@@ -861,7 +861,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43399:0:0:0:0:0:0:0:10|h[Символ удара грома]|h|r",
                 name = "Символ удара грома",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:43400:0:0:0:0:0:0:0:10|h[Символ неоспоримой победы]|h|r",
@@ -1225,7 +1225,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793966650,
+            last_update = 1794051286,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1390,7 +1390,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41526:0:0:0:0:0:0:0:10|h[Символ шока]|h|r",
                     name = "Символ шока",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:41527:0:0:0:0:0:0:0:10|h[Символ оружия жизни земли]|h|r",
@@ -2445,11 +2445,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793966650,
+            last_update = 1794051308,
             items = {
                 {
-                    link = "|cffffffff|Hitem:43399:0:0:0:0:0:0:0:10|h[Символ удара грома]|h|r",
-                    name = "Символ удара грома",
+                    link = "|cffffffff|Hitem:41526:0:0:0:0:0:0:0:10|h[Символ шока]|h|r",
+                    name = "Символ шока",
                     count = 1,
                 },
             },
