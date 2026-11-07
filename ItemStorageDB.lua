@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794062025
+ItemStorageDB_LastUpdate = 1794062054
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16148,9 +16148,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 15:55:46",
+        updated_at = "2026-11-07 17:34:14",
         money = 214291,
-        empty = 191,
+        empty = 192,
         location = "Оргриммар",
         items = {
             {
@@ -16222,11 +16222,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:33462:0:0:0:0:0:0:0:10|h[Свиток силы VI]|h|r",
                 name = "Свиток силы VI",
                 count = 33,
-            },
-            {
-                link = "|cffffffff|Hitem:37091:0:0:0:0:0:0:0:10|h[Свиток интеллекта VII]|h|r",
-                name = "Свиток интеллекта VII",
-                count = 41,
             },
             {
                 link = "|cffffffff|Hitem:38682:0:0:0:0:0:0:0:10|h[Материал для свитка брони]|h|r",
@@ -16365,7 +16360,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793969712,
+            last_update = 1794062043,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -16418,11 +16413,6 @@ ItemStorageDB = {
                     count = 33,
                 },
                 {
-                    link = "|cffffffff|Hitem:37091:0:0:0:0:0:0:0:10|h[Свиток интеллекта VII]|h|r",
-                    name = "Свиток интеллекта VII",
-                    count = 41,
-                },
-                {
                     link = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:10|h[Свиток ловкости VII]|h|r",
                     name = "Свиток ловкости VII",
                     count = 4,
@@ -16460,7 +16450,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793969726,
+            last_update = 1794062045,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
