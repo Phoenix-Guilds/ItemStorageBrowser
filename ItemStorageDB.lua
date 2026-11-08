@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794145274
+ItemStorageDB_LastUpdate = 1794145480
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6583,9 +6583,9 @@ ItemStorageDB = {
     {
         name = "Карточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 12:32:34",
+        updated_at = "2026-11-08 15:44:40",
         money = 404282,
-        empty = 146,
+        empty = 147,
         location = "Оргриммар",
         items = {
             {
@@ -6717,11 +6717,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:19284:0:0:0:0:0:0:0:10|h[Восьмерка из колоды Порталов]|h|r",
                 name = "Восьмерка из колоды Порталов",
                 count = 4,
-            },
-            {
-                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
-                name = "Колода Мечей",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
@@ -6945,13 +6940,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794133922,
+            last_update = 1794145332,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
-                    name = "Колода Мечей",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                     name = "Колода Магов",
