@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794133642
+ItemStorageDB_LastUpdate = 1794133677
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18723,7 +18723,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 11:42:13",
+        updated_at = "2026-11-08 12:27:57",
         money = 475064,
         empty = 100,
         location = "Оргриммар",
@@ -18771,7 +18771,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                 name = "Золотой сансам",
-                count = 140,
+                count = 141,
             },
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
@@ -18806,7 +18806,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
                 name = "Манаполох",
-                count = 25,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
@@ -18985,7 +18985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794130920,
+            last_update = 1794133671,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19015,7 +19015,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                     name = "Золотой сансам",
-                    count = 140,
+                    count = 141,
                 },
                 {
                     link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
@@ -19050,7 +19050,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22793:0:0:0:0:0:0:0:10|h[Манаполох]|h|r",
                     name = "Манаполох",
-                    count = 25,
+                    count = 29,
                 },
                 {
                     link = "|cffffffff|Hitem:2447:0:0:0:0:0:0:0:10|h[Мироцвет]|h|r",
@@ -19195,7 +19195,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794130928,
+            last_update = 1794133672,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
