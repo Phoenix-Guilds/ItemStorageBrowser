@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794170626
+ItemStorageDB_LastUpdate = 1794170694
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7868,9 +7868,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 13:08:27",
+        updated_at = "2026-11-08 22:44:54",
         money = 0,
-        empty = 191,
+        empty = 190,
         location = "Оргриммар",
         items = {
             {
@@ -7984,6 +7984,11 @@ ItemStorageDB = {
                 count = 27,
             },
             {
+                link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
+                name = "Гигантский жареный моллюск",
+                count = 50,
+            },
+            {
                 link = "|cffffffff|Hitem:6657:0:0:0:0:0:0:0:10|h[Загадочное острое лакомство]|h|r",
                 name = "Загадочное острое лакомство",
                 count = 20,
@@ -7995,7 +8000,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794136102,
+            last_update = 1794170688,
             items = {
                 {
                     link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
@@ -8108,6 +8113,11 @@ ItemStorageDB = {
                     count = 27,
                 },
                 {
+                    link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
+                    name = "Гигантский жареный моллюск",
+                    count = 50,
+                },
+                {
                     link = "|cffffffff|Hitem:6657:0:0:0:0:0:0:0:10|h[Загадочное острое лакомство]|h|r",
                     name = "Загадочное острое лакомство",
                     count = 20,
@@ -8120,7 +8130,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794136103,
+            last_update = 1794170690,
             items = {
             },
         },
