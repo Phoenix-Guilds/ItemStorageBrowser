@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794146965
+ItemStorageDB_LastUpdate = 1794148909
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8463,9 +8463,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 12:59:39",
-        money = 141967,
-        empty = 161,
+        updated_at = "2026-11-08 16:41:49",
+        money = 41967,
+        empty = 162,
         location = "Оргриммар",
         items = {
             {
@@ -8596,7 +8596,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
                 name = "Медный слиток",
-                count = 195,
+                count = 95,
             },
             {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
@@ -8640,7 +8640,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794135573,
+            last_update = 1794147918,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8665,7 +8665,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                     name = "Серебряная руда",
-                    count = 58,
+                    count = 38,
                 },
                 {
                     link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
@@ -8770,7 +8770,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
                     name = "Медный слиток",
-                    count = 195,
+                    count = 95,
                 },
                 {
                     link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
@@ -8815,8 +8815,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794135574,
+            last_update = 1794147921,
             items = {
+                {
+                    link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
+                    name = "Серебряная руда",
+                    count = 20,
+                },
             },
         },
     },
