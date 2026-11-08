@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794155151
+ItemStorageDB_LastUpdate = 1794155216
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13312,10 +13312,10 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 16:01:00",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-08 18:26:56",
         money = 385478,
-        empty = 118,
+        empty = 119,
         location = "Оргриммар",
         items = {
             {
@@ -13391,7 +13391,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
                 name = "Великая таинственная субстанция",
-                count = 100,
+                count = 97,
             },
             {
                 link = "|cff1eff00|Hitem:11174:0:0:0:0:0:0:0:10|h[Простая субстанция Пустоты]|h|r",
@@ -13441,7 +13441,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                 name = "Золотой жезл",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:11137:0:0:0:0:0:0:0:10|h[Пыль провидения]|h|r",
@@ -13535,7 +13535,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793970046,
+            last_update = 1794155194,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -13610,7 +13610,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:11135:0:0:0:0:0:0:0:10|h[Великая таинственная субстанция]|h|r",
                     name = "Великая таинственная субстанция",
-                    count = 100,
+                    count = 97,
                 },
                 {
                     link = "|cff1eff00|Hitem:11174:0:0:0:0:0:0:0:10|h[Простая субстанция Пустоты]|h|r",
@@ -13715,12 +13715,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793970052,
+            last_update = 1794155200,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
                     name = "Золотой жезл",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
