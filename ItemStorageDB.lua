@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794162282
+ItemStorageDB_LastUpdate = 1794162518
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18863,9 +18863,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 13:07:11",
+        updated_at = "2026-11-08 20:28:38",
         money = 900602,
-        empty = 94,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -18891,7 +18891,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 1800,
+                count = 2000,
             },
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
@@ -18931,7 +18931,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                 name = "Магическая ткань",
-                count = 2848,
+                count = 2850,
             },
             {
                 link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
@@ -18940,7 +18940,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794136017,
+            last_update = 1794162500,
             items = {
                 {
                     link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
@@ -18995,7 +18995,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                     name = "Магическая ткань",
-                    count = 2848,
+                    count = 2850,
                 },
                 {
                     link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
@@ -19005,7 +19005,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794136018,
+            last_update = 1794162501,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -19016,6 +19016,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41603:0:0:0:0:0:0:0:10|h[Лазурная чародейская нить]|h|r",
                     name = "Лазурная чародейская нить",
                     count = 10,
+                },
+                {
+                    link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
+                    name = "Льняной материал",
+                    count = 200,
                 },
             },
         },
