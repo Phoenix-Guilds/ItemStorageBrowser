@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794154814
+ItemStorageDB_LastUpdate = 1794154954
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -12982,10 +12982,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 15:38:41",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-08 18:22:34",
         money = 13104,
-        empty = 62,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -13056,7 +13056,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                 name = "Звездопад",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -13146,7 +13146,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
@@ -13165,7 +13165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794141491,
+            last_update = 1794154863,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13230,7 +13230,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13063:0:0:0:0:0:0:0:10|h[Звездопад]|h|r",
                     name = "Звездопад",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13064:0:0:0:0:0:0:0:10|h[Огнеиспускатель Джайны]|h|r",
@@ -13290,12 +13290,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                     name = "Лук Жгучих Стрел",
-                    count = 5,
+                    count = 4,
                 },
             },
         },
         bags = {
-            last_update = 1794141513,
+            last_update = 1794154889,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
