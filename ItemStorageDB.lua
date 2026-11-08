@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794170569
+ItemStorageDB_LastUpdate = 1794170626
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16723,9 +16723,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 18:54:10",
+        updated_at = "2026-11-08 22:43:46",
         money = 108852,
-        empty = 60,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -17091,6 +17091,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2985:1892:0:0:0:0:0:0:10|h[Расписанная кожаная кираса]|h|r",
                 name = "Расписанная кожаная кираса",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:2987:0:0:0:0:0:0:0:10|h[Покрытые письменами кожаные сапоги]|h|r",
+                name = "Покрытые письменами кожаные сапоги",
                 count = 1,
             },
             {
@@ -17615,7 +17620,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794156788,
+            last_update = 1794170620,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -18240,7 +18245,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794156799,
+            last_update = 1794170621,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -18305,6 +18310,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2075:20235:0:0:0:0:23:0:10|h[Палица жреца со знаком силы]|h|r",
                     name = "Палица жреца со знаком силы",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:2987:0:0:0:0:0:0:0:10|h[Покрытые письменами кожаные сапоги]|h|r",
+                    name = "Покрытые письменами кожаные сапоги",
                     count = 1,
                 },
                 {
