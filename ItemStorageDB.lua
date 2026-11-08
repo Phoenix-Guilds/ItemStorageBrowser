@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794148909
+ItemStorageDB_LastUpdate = 1794149695
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2437,10 +2437,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 15:41:18",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-08 16:54:55",
         money = 92710,
-        empty = 62,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -2851,7 +2851,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                 name = "Корявый ясеневый посох",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
@@ -2901,11 +2901,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9465:0:0:0:0:0:0:0:10|h[Кайло 5000]|h|r",
                 name = "Кайло 5000",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
-                name = "Перекованный клинок Героев",
                 count = 1,
             },
             {
@@ -3025,7 +3020,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794141651,
+            last_update = 1794149655,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3385,7 +3380,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                     name = "Корявый ясеневый посох",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
@@ -3520,7 +3515,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794141668,
+            last_update = 1794149687,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3621,11 +3616,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
                     name = "Короткий меч Ночного Дозора",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
-                    name = "Перекованный клинок Героев",
-                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
