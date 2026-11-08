@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794155277
+ItemStorageDB_LastUpdate = 1794155428
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9783,7 +9783,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 16:04:34",
+        updated_at = "2026-11-08 18:30:28",
         money = 14062,
         empty = 77,
         location = "Оргриммар",
@@ -9881,22 +9881,22 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22526:0:0:0:0:0:0:0:10|h[Обломки костей]|h|r",
                 name = "Обломки костей",
-                count = 88,
+                count = 77,
             },
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 1037,
+                count = 1007,
             },
             {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
                 name = "Пластины из темного железа",
-                count = 166,
+                count = 136,
             },
             {
                 link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
                 name = "Дикий росток",
-                count = 63,
+                count = 33,
             },
             {
                 link = "|cffffffff|Hitem:24245:0:0:0:0:0:0:0:10|h[Огнешляпка]|h|r",
@@ -9985,7 +9985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794132837,
+            last_update = 1794155386,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10070,22 +10070,22 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22526:0:0:0:0:0:0:0:10|h[Обломки костей]|h|r",
                     name = "Обломки костей",
-                    count = 88,
+                    count = 77,
                 },
                 {
                     link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                     name = "Средоточие Стихий",
-                    count = 1037,
+                    count = 1007,
                 },
                 {
                     link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
                     name = "Пластины из темного железа",
-                    count = 166,
+                    count = 136,
                 },
                 {
                     link = "|cffffffff|Hitem:22529:0:0:0:0:0:0:0:10|h[Дикий росток]|h|r",
                     name = "Дикий росток",
-                    count = 63,
+                    count = 33,
                 },
                 {
                     link = "|cffffffff|Hitem:24245:0:0:0:0:0:0:0:10|h[Огнешляпка]|h|r",
@@ -10175,7 +10175,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794146318,
+            last_update = 1794155405,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
