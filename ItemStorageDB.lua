@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794130581
+ItemStorageDB_LastUpdate = 1794130678
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5938,7 +5938,7 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-06 23:39:53",
+        updated_at = "2026-11-08 11:37:58",
         money = 766001,
         empty = 64,
         location = "Оргриммар",
@@ -6046,7 +6046,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                 name = "Нефрит",
-                count = 215,
+                count = 218,
             },
             {
                 link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
@@ -6280,7 +6280,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794001186,
+            last_update = 1794130668,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6380,7 +6380,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                     name = "Нефрит",
-                    count = 215,
+                    count = 218,
                 },
                 {
                     link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
@@ -6525,7 +6525,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794001188,
+            last_update = 1794130672,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
