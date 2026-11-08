@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794155561
+ItemStorageDB_LastUpdate = 1794156111
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8548,9 +8548,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 18:25:51",
+        updated_at = "2026-11-08 18:41:51",
         money = 41967,
-        empty = 162,
+        empty = 163,
         location = "Оргриммар",
         items = {
             {
@@ -8631,7 +8631,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                 name = "Ториевый слиток",
-                count = 173,
+                count = 169,
             },
             {
                 link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
@@ -8725,7 +8725,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794155125,
+            last_update = 1794155724,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8805,7 +8805,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                     name = "Ториевый слиток",
-                    count = 171,
+                    count = 169,
                 },
                 {
                     link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
@@ -8895,17 +8895,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                     name = "Мифриловый слиток",
-                    count = 249,
+                    count = 149,
                 },
             },
         },
         bags = {
-            last_update = 1794155135,
+            last_update = 1794155725,
             items = {
                 {
-                    link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
-                    name = "Ториевый слиток",
-                    count = 2,
+                    link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
+                    name = "Мифриловый слиток",
+                    count = 100,
                 },
             },
         },
