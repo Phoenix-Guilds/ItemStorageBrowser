@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794146811
+ItemStorageDB_LastUpdate = 1794146965
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6583,9 +6583,9 @@ ItemStorageDB = {
     {
         name = "Карточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 15:44:40",
+        updated_at = "2026-11-08 16:09:25",
         money = 404282,
-        empty = 147,
+        empty = 131,
         location = "Оргриммар",
         items = {
             {
@@ -6719,9 +6719,14 @@ ItemStorageDB = {
                 count = 4,
             },
             {
+                link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
+                name = "Колода Мечей",
+                count = 6,
+            },
+            {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
-                count = 2,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
@@ -6731,22 +6736,22 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
-                count = 1,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
                 name = "Туз из колоды Разбойников",
-                count = 37,
+                count = 43,
             },
             {
                 link = "|cffffffff|Hitem:37143:0:0:0:0:0:0:0:10|h[Двойка из колоды Разбойников]|h|r",
                 name = "Двойка из колоды Разбойников",
-                count = 33,
+                count = 38,
             },
             {
                 link = "|cffffffff|Hitem:37145:0:0:0:0:0:0:0:10|h[Туз из колоды Мечей]|h|r",
                 name = "Туз из колоды Мечей",
-                count = 11,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:37147:0:0:0:0:0:0:0:10|h[Двойка из колоды Мечей]|h|r",
@@ -6754,9 +6759,14 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffffffff|Hitem:37156:0:0:0:0:0:0:0:10|h[Тройка из колоды Разбойников]|h|r",
+                name = "Тройка из колоды Разбойников",
+                count = 8,
+            },
+            {
                 link = "|cffffffff|Hitem:37160:0:0:0:0:0:0:0:10|h[Четверка из колоды Мечей]|h|r",
                 name = "Четверка из колоды Мечей",
-                count = 9,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:44143:0:0:0:0:0:0:0:10|h[Туз из колоды Демонов]|h|r",
@@ -6766,7 +6776,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44145:0:0:0:0:0:0:0:10|h[Тройка колоды Магов]|h|r",
                 name = "Тройка колоды Магов",
-                count = 12,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:44146:0:0:0:0:0:0:0:10|h[Четверка из колоды Магов]|h|r",
@@ -6776,7 +6786,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44147:0:0:0:0:0:0:0:10|h[Пятерка из колоды Магов]|h|r",
                 name = "Пятерка из колоды Магов",
-                count = 10,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:44154:0:0:0:0:0:0:0:10|h[Двойка колоды Демонов]|h|r",
@@ -6796,7 +6806,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44165:0:0:0:0:0:0:0:10|h[Туз из колоды Магов]|h|r",
                 name = "Туз из колоды Магов",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
@@ -6940,12 +6950,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794145332,
+            last_update = 1794146942,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
+                    name = "Колода Мечей",
+                    count = 6,
+                },
                 {
                     link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                     name = "Колода Магов",
-                    count = 2,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
@@ -6955,22 +6970,22 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                     name = "Колода Разбойников",
-                    count = 1,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
                     name = "Туз из колоды Разбойников",
-                    count = 37,
+                    count = 43,
                 },
                 {
                     link = "|cffffffff|Hitem:37143:0:0:0:0:0:0:0:10|h[Двойка из колоды Разбойников]|h|r",
                     name = "Двойка из колоды Разбойников",
-                    count = 33,
+                    count = 38,
                 },
                 {
                     link = "|cffffffff|Hitem:37145:0:0:0:0:0:0:0:10|h[Туз из колоды Мечей]|h|r",
                     name = "Туз из колоды Мечей",
-                    count = 11,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:37147:0:0:0:0:0:0:0:10|h[Двойка из колоды Мечей]|h|r",
@@ -6978,9 +6993,14 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cffffffff|Hitem:37156:0:0:0:0:0:0:0:10|h[Тройка из колоды Разбойников]|h|r",
+                    name = "Тройка из колоды Разбойников",
+                    count = 8,
+                },
+                {
                     link = "|cffffffff|Hitem:37160:0:0:0:0:0:0:0:10|h[Четверка из колоды Мечей]|h|r",
                     name = "Четверка из колоды Мечей",
-                    count = 9,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:44143:0:0:0:0:0:0:0:10|h[Туз из колоды Демонов]|h|r",
@@ -6990,7 +7010,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:44145:0:0:0:0:0:0:0:10|h[Тройка колоды Магов]|h|r",
                     name = "Тройка колоды Магов",
-                    count = 12,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:44146:0:0:0:0:0:0:0:10|h[Четверка из колоды Магов]|h|r",
@@ -7000,7 +7020,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:44147:0:0:0:0:0:0:0:10|h[Пятерка из колоды Магов]|h|r",
                     name = "Пятерка из колоды Магов",
-                    count = 10,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:44154:0:0:0:0:0:0:0:10|h[Двойка колоды Демонов]|h|r",
@@ -7020,7 +7040,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:44165:0:0:0:0:0:0:0:10|h[Туз из колоды Магов]|h|r",
                     name = "Туз из колоды Магов",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:6265:0:0:0:0:0:0:0:10|h[Осколок души]|h|r",
