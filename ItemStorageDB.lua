@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794155216
+ItemStorageDB_LastUpdate = 1794155277
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5622,10 +5622,10 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-03 11:44:45",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-08 18:27:57",
         money = 16160,
-        empty = 137,
+        empty = 136,
         location = "Оргриммар",
         items = {
             {
@@ -5815,7 +5815,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1793695460,
+            last_update = 1794155263,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5840,7 +5840,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10560:0:0:0:0:0:0:0:10|h[Нестабильное пусковое устройство]|h|r",
                     name = "Нестабильное пусковое устройство",
-                    count = 20,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:15992:0:0:0:0:0:0:0:10|h[Концентрированное взрывчатое вещество]|h|r",
@@ -6005,8 +6005,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1793695461,
+            last_update = 1794155263,
             items = {
+                {
+                    link = "|cffffffff|Hitem:10560:0:0:0:0:0:0:0:10|h[Нестабильное пусковое устройство]|h|r",
+                    name = "Нестабильное пусковое устройство",
+                    count = 8,
+                },
             },
         },
     },
