@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794135922
+ItemStorageDB_LastUpdate = 1794135961
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19493,9 +19493,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 12:13:18",
+        updated_at = "2026-11-08 13:06:01",
         money = 336703,
-        empty = 93,
+        empty = 92,
         location = "Оргриммар",
         items = {
             {
@@ -19881,6 +19881,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37744:0:0:0:0:0:0:0:10|h[Ботинки стылой крови]|h|r",
                 name = "Ботинки стылой крови",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:37745:0:0:0:0:0:0:0:10|h[Одеяние природного целителя]|h|r",
+                name = "Одеяние природного целителя",
                 count = 1,
             },
             {
@@ -20345,7 +20350,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794132789,
+            last_update = 1794135953,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -21180,7 +21185,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794132792,
+            last_update = 1794135956,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31191:0:0:0:0:0:-39:30:10|h[Наручи из шкуры кроколиска с меткой заклинателя]|h|r",
@@ -21195,6 +21200,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31298:0:0:0:0:0:0:0:10|h[Набедренники Изувеченной Длани]|h|r",
                     name = "Набедренники Изувеченной Длани",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:37745:0:0:0:0:0:0:0:10|h[Одеяние природного целителя]|h|r",
+                    name = "Одеяние природного целителя",
                     count = 1,
                 },
             },
