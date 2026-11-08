@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794160207
+ItemStorageDB_LastUpdate = 1794160325
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21318,9 +21318,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 19:50:07",
+        updated_at = "2026-11-08 19:52:05",
         money = 203936,
-        empty = 82,
+        empty = 81,
         location = "Оргриммар",
         items = {
             {
@@ -21759,6 +21759,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
+                name = "Шапка терпения",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:43515:0:0:0:0:0:0:0:10|h[Мистический том]|h|r",
                 name = "Мистический том",
                 count = 2,
@@ -21855,7 +21860,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794159051,
+            last_update = 1794160318,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22360,7 +22365,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794160202,
+            last_update = 1794160320,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
@@ -22385,6 +22390,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
                     name = "Одеяние мага",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
+                    name = "Шапка терпения",
                     count = 1,
                 },
                 {
