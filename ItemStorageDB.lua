@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1794146674
+ItemStorageDB_LastUpdate = 1794146811
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 15:42:36",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-08 16:06:51",
         money = 339404,
         empty = 101,
         location = "Оргриммар",
@@ -401,7 +401,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42473:0:0:0:0:0:0:0:10|h[Символ демона Бездны]|h|r",
                 name = "Символ демона Бездны",
-                count = 14,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:42734:0:0:0:0:0:0:0:10|h[Символ чародейского взрыва]|h|r",
@@ -1215,7 +1215,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794141742,
+            last_update = 1794146777,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1310,7 +1310,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40923:0:0:0:0:0:0:0:10|h[Символ лунного огня]|h|r",
                     name = "Символ лунного огня",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:40924:0:0:0:0:0:0:0:10|h[Символ гнева деревьев]|h|r",
@@ -2425,11 +2425,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794141744,
+            last_update = 1794146777,
             items = {
                 {
-                    link = "|cffffffff|Hitem:42473:0:0:0:0:0:0:0:10|h[Символ демона Бездны]|h|r",
-                    name = "Символ демона Бездны",
+                    link = "|cffffffff|Hitem:40923:0:0:0:0:0:0:0:10|h[Символ лунного огня]|h|r",
+                    name = "Символ лунного огня",
                     count = 1,
                 },
             },
