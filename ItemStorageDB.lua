@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794170464
+ItemStorageDB_LastUpdate = 1794170504
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10223,9 +10223,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 13:09:05",
+        updated_at = "2026-11-08 22:41:44",
         money = 213874,
-        empty = 56,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -10287,6 +10287,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12223:0:0:0:0:0:0:0:10|h[Мясистое крыло летучей мыши]|h|r",
                 name = "Мясистое крыло летучей мыши",
                 count = 48,
+            },
+            {
+                link = "|cffffffff|Hitem:1468:0:0:0:0:0:0:0:10|h[Плавник мурлока]|h|r",
+                name = "Плавник мурлока",
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:20424:0:0:0:0:0:0:0:10|h[Мясо песчаного червя]|h|r",
@@ -10525,7 +10530,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794136137,
+            last_update = 1794170496,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10810,7 +10815,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794136139,
+            last_update = 1794170500,
             items = {
                 {
                     link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
@@ -10821,6 +10826,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:12208:0:0:0:0:0:0:0:10|h[Нежная волчатина]|h|r",
                     name = "Нежная волчатина",
                     count = 22,
+                },
+                {
+                    link = "|cffffffff|Hitem:1468:0:0:0:0:0:0:0:10|h[Плавник мурлока]|h|r",
+                    name = "Плавник мурлока",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:24477:0:0:0:0:0:0:0:10|h[Мясо джаггала]|h|r",
