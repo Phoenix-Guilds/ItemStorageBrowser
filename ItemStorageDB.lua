@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794170422
+ItemStorageDB_LastUpdate = 1794170464
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15993,7 +15993,7 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 11:43:03",
+        updated_at = "2026-11-08 22:41:04",
         money = 4042,
         empty = 156,
         location = "Оргриммар",
@@ -16096,7 +16096,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                 name = "Сырой острозубый илистый луциан",
-                count = 104,
+                count = 107,
             },
             {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
@@ -16135,7 +16135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794130978,
+            last_update = 1794170457,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -16235,7 +16235,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                     name = "Сырой острозубый илистый луциан",
-                    count = 104,
+                    count = 107,
                 },
                 {
                     link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
@@ -16275,7 +16275,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794130979,
+            last_update = 1794170459,
             items = {
             },
         },
