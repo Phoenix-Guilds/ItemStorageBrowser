@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794157329
+ItemStorageDB_LastUpdate = 1794158791
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18568,7 +18568,7 @@ ItemStorageDB = {
     {
         name = "Тернистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 18:20:14",
+        updated_at = "2026-11-08 19:26:31",
         money = 283717,
         empty = 28,
         location = "Оргриммар",
@@ -18576,7 +18576,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2725:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 1]|h|r",
                 name = "Зеленые холмы Тернистой долины: стр. 1",
-                count = 45,
+                count = 44,
             },
             {
                 link = "|cffffffff|Hitem:2728:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 4]|h|r",
@@ -18650,7 +18650,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794154786,
+            last_update = 1794158654,
             items = {
                 {
                     link = "|cffffffff|Hitem:2725:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 1]|h|r",
@@ -18690,7 +18690,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2740:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 16]|h|r",
                     name = "Зеленые холмы Тернистой долины: стр. 16",
-                    count = 20,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:2742:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 18]|h|r",
@@ -18725,12 +18725,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794154809,
+            last_update = 1794158784,
             items = {
                 {
                     link = "|cffffffff|Hitem:2725:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 1]|h|r",
                     name = "Зеленые холмы Тернистой долины: стр. 1",
-                    count = 24,
+                    count = 23,
                 },
                 {
                     link = "|cffffffff|Hitem:2728:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 4]|h|r",
@@ -18765,7 +18765,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2740:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 16]|h|r",
                     name = "Зеленые холмы Тернистой долины: стр. 16",
-                    count = 21,
+                    count = 30,
                 },
                 {
                     link = "|cffffffff|Hitem:2742:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 18]|h|r",
