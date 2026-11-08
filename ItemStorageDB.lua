@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794156733
+ItemStorageDB_LastUpdate = 1794156850
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16648,9 +16648,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 15:39:43",
+        updated_at = "2026-11-08 18:54:10",
         money = 108852,
-        empty = 59,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -17519,11 +17519,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:9790:0:0:0:0:0:97:0:10|h[Разбойничий щит со знаком силы]|h|r",
-                name = "Разбойничий щит со знаком силы",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:9790:929:0:0:0:0:18:0:10|h[Разбойничий щит со знаком ловкости]|h|r",
                 name = "Разбойничий щит со знаком ловкости",
                 count = 1,
@@ -17545,7 +17540,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794145176,
+            last_update = 1794156788,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -18148,11 +18143,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:9790:0:0:0:0:0:97:0:10|h[Разбойничий щит со знаком силы]|h|r",
-                    name = "Разбойничий щит со знаком силы",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:9790:929:0:0:0:0:18:0:10|h[Разбойничий щит со знаком ловкости]|h|r",
                     name = "Разбойничий щит со знаком ловкости",
                     count = 1,
@@ -18175,7 +18165,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794145177,
+            last_update = 1794156799,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
