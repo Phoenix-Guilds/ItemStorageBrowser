@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794135473
+ItemStorageDB_LastUpdate = 1794135518
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22428,9 +22428,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 12:10:48",
+        updated_at = "2026-11-08 12:58:38",
         money = 194111,
-        empty = 106,
+        empty = 105,
         location = "Оргриммар",
         items = {
             {
@@ -22599,6 +22599,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:11984:0:0:0:0:0:847:0:10|h[Кобальтовое кольцо со знаком орла]|h|r",
+                name = "Кобальтовое кольцо со знаком орла",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:11998:0:0:0:0:0:1194:0:10|h[Кольцо из черного янтаря со знаком медведя]|h|r",
                 name = "Кольцо из черного янтаря со знаком медведя",
                 count = 1,
@@ -22745,7 +22750,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794132642,
+            last_update = 1794135512,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -22845,6 +22850,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:11981:0:0:0:0:0:757:0:10|h[Свинцовое кольцо со знаком совы]|h|r",
                     name = "Свинцовое кольцо со знаком совы",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:11984:0:0:0:0:0:847:0:10|h[Кобальтовое кольцо со знаком орла]|h|r",
+                    name = "Кобальтовое кольцо со знаком орла",
                     count = 1,
                 },
                 {
@@ -22950,7 +22960,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794132643,
+            last_update = 1794135514,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
