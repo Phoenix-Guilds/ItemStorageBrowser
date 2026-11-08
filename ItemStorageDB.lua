@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794170504
+ItemStorageDB_LastUpdate = 1794170569
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21383,11 +21383,16 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 19:52:05",
+        updated_at = "2026-11-08 22:42:49",
         money = 203936,
-        empty = 81,
+        empty = 80,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
+                name = "Перчатки Клыка",
+                count = 1,
+            },
             {
                 link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
                 name = "Перчатки Волшебного кулака",
@@ -21925,7 +21930,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794160318,
+            last_update = 1794170562,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22430,8 +22435,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794160320,
+            last_update = 1794170564,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
+                    name = "Перчатки Клыка",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
                     name = "Чаропламенный плащ",
