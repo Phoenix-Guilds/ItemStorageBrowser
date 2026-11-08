@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794132798
+ItemStorageDB_LastUpdate = 1794132844
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9683,7 +9683,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 11:36:21",
+        updated_at = "2026-11-08 12:14:04",
         money = 14062,
         empty = 75,
         location = "Оргриммар",
@@ -9811,27 +9811,27 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
                 name = "Усик болотника",
-                count = 27,
+                count = 30,
             },
             {
                 link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
                 name = "Неопознанные части растений",
-                count = 90,
+                count = 172,
             },
             {
                 link = "|cffffffff|Hitem:25719:0:0:0:0:0:0:0:10|h[Перо араккоа]|h|r",
                 name = "Перо араккоа",
-                count = 10,
+                count = 38,
             },
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                 name = "Знак Кил'джедена",
-                count = 100,
+                count = 122,
             },
             {
                 link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
                 name = "Перстень Огнекрылов",
-                count = 46,
+                count = 53,
             },
             {
                 link = "|cffffffff|Hitem:30809:0:0:0:0:0:0:0:10|h[Знак Саргераса]|h|r",
@@ -9885,7 +9885,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794130575,
+            last_update = 1794132837,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10000,27 +10000,27 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
                     name = "Усик болотника",
-                    count = 27,
+                    count = 30,
                 },
                 {
                     link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
                     name = "Неопознанные части растений",
-                    count = 90,
+                    count = 172,
                 },
                 {
                     link = "|cffffffff|Hitem:25719:0:0:0:0:0:0:0:10|h[Перо араккоа]|h|r",
                     name = "Перо араккоа",
-                    count = 10,
+                    count = 38,
                 },
                 {
                     link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                     name = "Знак Кил'джедена",
-                    count = 100,
+                    count = 122,
                 },
                 {
                     link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
                     name = "Перстень Огнекрылов",
-                    count = 46,
+                    count = 53,
                 },
                 {
                     link = "|cffffffff|Hitem:30809:0:0:0:0:0:0:0:10|h[Знак Саргераса]|h|r",
@@ -10075,7 +10075,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794130576,
+            last_update = 1794132839,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
