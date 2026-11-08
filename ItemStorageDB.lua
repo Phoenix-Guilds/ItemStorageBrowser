@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794170374
+ItemStorageDB_LastUpdate = 1794170422
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18873,9 +18873,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 20:28:38",
+        updated_at = "2026-11-08 22:40:22",
         money = 900602,
-        empty = 90,
+        empty = 88,
         location = "Оргриммар",
         items = {
             {
@@ -18901,12 +18901,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 2000,
+                count = 2011,
             },
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 400,
+                count = 406,
             },
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
@@ -18950,7 +18950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794162500,
+            last_update = 1794170415,
             items = {
                 {
                     link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
@@ -19015,7 +19015,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794162501,
+            last_update = 1794170417,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -19030,7 +19030,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                     name = "Льняной материал",
-                    count = 200,
+                    count = 211,
+                },
+                {
+                    link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
+                    name = "Шерсть",
+                    count = 6,
                 },
             },
         },
