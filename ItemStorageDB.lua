@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794130933
+ItemStorageDB_LastUpdate = 1794130983
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -15818,7 +15818,7 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-10-27 19:54:59",
+        updated_at = "2026-11-08 11:43:03",
         money = 4042,
         empty = 156,
         location = "Оргриммар",
@@ -15841,12 +15841,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                 name = "Молниевый угорь",
-                count = 69,
+                count = 83,
             },
             {
                 link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
                 name = "Сырая краснобородка",
-                count = 21,
+                count = 30,
             },
             {
                 link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
@@ -15856,12 +15856,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
                 name = "Сырой солнечный лосось",
-                count = 2,
+                count = 28,
             },
             {
                 link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
                 name = "Пластинчатая бронерыба",
-                count = 16,
+                count = 36,
             },
             {
                 link = "|cffffffff|Hitem:13893:0:0:0:0:0:0:0:10|h[Крупная сырая мощь-рыба]|h|r",
@@ -15911,7 +15911,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41813:0:0:0:0:0:0:0:10|h[Медуза]|h|r",
                 name = "Медуза",
-                count = 245,
+                count = 255,
             },
             {
                 link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
@@ -15921,17 +15921,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                 name = "Сырой острозубый илистый луциан",
-                count = 99,
+                count = 104,
             },
             {
                 link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                 name = "Сырая блестящая рыбка",
-                count = 94,
+                count = 100,
             },
             {
                 link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
                 name = "Сырая скользкокожая скумбрия",
-                count = 236,
+                count = 238,
             },
             {
                 link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
@@ -15941,7 +15941,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6361:0:0:0:0:0:0:0:10|h[Сырой радужный тунец]|h|r",
                 name = "Сырой радужный тунец",
-                count = 219,
+                count = 119,
             },
             {
                 link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
@@ -15960,7 +15960,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792614027,
+            last_update = 1794130978,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -15980,12 +15980,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                     name = "Молниевый угорь",
-                    count = 69,
+                    count = 83,
                 },
                 {
                     link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
                     name = "Сырая краснобородка",
-                    count = 21,
+                    count = 30,
                 },
                 {
                     link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
@@ -15995,12 +15995,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
                     name = "Сырой солнечный лосось",
-                    count = 2,
+                    count = 28,
                 },
                 {
                     link = "|cffffffff|Hitem:13890:0:0:0:0:0:0:0:10|h[Пластинчатая бронерыба]|h|r",
                     name = "Пластинчатая бронерыба",
-                    count = 16,
+                    count = 36,
                 },
                 {
                     link = "|cffffffff|Hitem:13893:0:0:0:0:0:0:0:10|h[Крупная сырая мощь-рыба]|h|r",
@@ -16050,7 +16050,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41813:0:0:0:0:0:0:0:10|h[Медуза]|h|r",
                     name = "Медуза",
-                    count = 245,
+                    count = 255,
                 },
                 {
                     link = "|cffffffff|Hitem:4603:0:0:0:0:0:0:0:10|h[Сырой пятнистый желтохвост]|h|r",
@@ -16060,17 +16060,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6289:0:0:0:0:0:0:0:10|h[Сырой острозубый илистый луциан]|h|r",
                     name = "Сырой острозубый илистый луциан",
-                    count = 99,
+                    count = 104,
                 },
                 {
                     link = "|cffffffff|Hitem:6291:0:0:0:0:0:0:0:10|h[Сырая блестящая рыбка]|h|r",
                     name = "Сырая блестящая рыбка",
-                    count = 94,
+                    count = 100,
                 },
                 {
                     link = "|cffffffff|Hitem:6303:0:0:0:0:0:0:0:10|h[Сырая скользкокожая скумбрия]|h|r",
                     name = "Сырая скользкокожая скумбрия",
-                    count = 236,
+                    count = 238,
                 },
                 {
                     link = "|cffffffff|Hitem:6308:0:0:0:0:0:0:0:10|h[Сырая ощетиненная зубатка]|h|r",
@@ -16080,7 +16080,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6361:0:0:0:0:0:0:0:10|h[Сырой радужный тунец]|h|r",
                     name = "Сырой радужный тунец",
-                    count = 219,
+                    count = 119,
                 },
                 {
                     link = "|cffffffff|Hitem:6362:0:0:0:0:0:0:0:10|h[Сырая каменношкурая треска]|h|r",
@@ -16100,7 +16100,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1792614028,
+            last_update = 1794130979,
             items = {
             },
         },
