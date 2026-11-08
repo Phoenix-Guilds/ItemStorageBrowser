@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794135632
+ItemStorageDB_LastUpdate = 1794135706
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2458,9 +2458,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 01:24:22",
+        updated_at = "2026-11-08 13:01:46",
         money = 92710,
-        empty = 64,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2501,6 +2501,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
+                count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
+                name = "Укус горгульи",
                 count = 1,
             },
             {
@@ -3040,7 +3045,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794093827,
+            last_update = 1794135682,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3070,6 +3075,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                     name = "Клинок Многоглаза",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
+                    name = "Дубина Ракзура",
                     count = 1,
                 },
                 {
@@ -3530,7 +3540,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794093840,
+            last_update = 1794135701,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3540,6 +3550,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                     name = "Дубина Ракзура",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
+                    name = "Укус горгульи",
                     count = 1,
                 },
                 {
