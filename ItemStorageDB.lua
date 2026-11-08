@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794156111
+ItemStorageDB_LastUpdate = 1794156733
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9783,9 +9783,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 18:30:28",
+        updated_at = "2026-11-08 18:52:13",
         money = 14062,
-        empty = 77,
+        empty = 76,
         location = "Оргриммар",
         items = {
             {
@@ -9827,6 +9827,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
                 count = 34,
+            },
+            {
+                link = "|cffffffff|Hitem:10562:0:0:0:0:0:0:0:10|h[Фугасная бомба]|h|r",
+                name = "Фугасная бомба",
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -9985,7 +9990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794155386,
+            last_update = 1794156196,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10016,6 +10021,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
                     name = "Одеяния Тайны",
                     count = 4,
+                },
+                {
+                    link = "|cffffffff|Hitem:10562:0:0:0:0:0:0:0:10|h[Фугасная бомба]|h|r",
+                    name = "Фугасная бомба",
+                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:11018:0:0:0:0:0:0:0:10|h[Земля Ун'Горо]|h|r",
@@ -10175,7 +10185,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794155405,
+            last_update = 1794156251,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
