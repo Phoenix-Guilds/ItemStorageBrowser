@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794173195
+ItemStorageDB_LastUpdate = 1794173850
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22508,10 +22508,10 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 23:26:35",
+        updated_at = "2026-11-08 23:37:30",
         money = 194111,
         empty = 106,
-        location = "Оргриммар",
+        location = "",
         items = {
             {
                 link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23135,7 +23135,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794173182,
+            last_update = 1794173443,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
