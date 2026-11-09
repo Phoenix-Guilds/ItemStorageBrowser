@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794217986
+ItemStorageDB_LastUpdate = 1794218076
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13797,11 +13797,11 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 22:15:21",
-        money = 164134,
-        empty = 39,
-        location = "",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-09 12:54:36",
+        money = 64134,
+        empty = 40,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -14604,11 +14604,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
-                name = "Рецепт: эликсир увеличения",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
                 name = "Схема: динамит \"Pro-100-брос\"",
                 count = 1,
@@ -14890,7 +14885,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794162166,
+            last_update = 1794218049,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -15458,11 +15453,6 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
-                    link = "|cff1eff00|Hitem:6663:0:0:0:0:0:0:0:10|h[Рецепт: эликсир увеличения]|h|r",
-                    name = "Рецепт: эликсир увеличения",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:6716:0:0:0:0:0:0:0:10|h[Схема: динамит \"Pro-100-брос\"]|h|r",
                     name = "Схема: динамит \"Pro-100-брос\"",
                     count = 1,
@@ -15710,7 +15700,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794168884,
+            last_update = 1794218058,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
