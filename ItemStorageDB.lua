@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1794211888
+ItemStorageDB_LastUpdate = 1794212261
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-09 00:11:33",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-09 11:17:41",
         money = 339404,
         empty = 91,
         location = "Оргриммар",
@@ -451,7 +451,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                 name = "Символ прилива сил",
-                count = 18,
+                count = 17,
             },
             {
                 link = "|cffffffff|Hitem:42739:0:0:0:0:0:0:0:10|h[Символ огненного шара]|h|r",
@@ -461,7 +461,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42740:0:0:0:0:0:0:0:10|h[Символ огненного взрыва]|h|r",
                 name = "Символ огненного взрыва",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:42741:0:0:0:0:0:0:0:10|h[Символ кольца льда]|h|r",
@@ -776,7 +776,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                 name = "Символ замедленного падения",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43365:0:0:0:0:0:0:0:10|h[Символ благословения королей]|h|r",
@@ -1270,7 +1270,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794175841,
+            last_update = 1794212240,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1715,7 +1715,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42738:0:0:0:0:0:0:0:10|h[Символ прилива сил]|h|r",
                     name = "Символ прилива сил",
-                    count = 18,
+                    count = 17,
                 },
                 {
                     link = "|cffffffff|Hitem:42739:0:0:0:0:0:0:0:10|h[Символ огненного шара]|h|r",
@@ -1725,7 +1725,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42740:0:0:0:0:0:0:0:10|h[Символ огненного взрыва]|h|r",
                     name = "Символ огненного взрыва",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:42741:0:0:0:0:0:0:0:10|h[Символ кольца льда]|h|r",
@@ -2040,7 +2040,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43364:0:0:0:0:0:0:0:10|h[Символ замедленного падения]|h|r",
                     name = "Символ замедленного падения",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43365:0:0:0:0:0:0:0:10|h[Символ благословения королей]|h|r",
@@ -2535,7 +2535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794175848,
+            last_update = 1794212247,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
