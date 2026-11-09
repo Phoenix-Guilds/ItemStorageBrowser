@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794249999
+ItemStorageDB_LastUpdate = 1794258774
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6708,9 +6708,9 @@ ItemStorageDB = {
     {
         name = "Карточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 16:09:25",
+        updated_at = "2026-11-09 23:12:54",
         money = 404282,
-        empty = 131,
+        empty = 135,
         location = "Оргриммар",
         items = {
             {
@@ -6846,17 +6846,17 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
                 name = "Колода Мечей",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                 name = "Колода Магов",
-                count = 4,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
                 name = "Колода Демонов",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
@@ -7075,22 +7075,22 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794146942,
+            last_update = 1794258719,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
                     name = "Колода Мечей",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
                     name = "Колода Магов",
-                    count = 4,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:44158:0:0:0:0:0:0:0:10|h[Колода Демонов]|h|r",
                     name = "Колода Демонов",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
