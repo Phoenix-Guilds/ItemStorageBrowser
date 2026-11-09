@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1794227855
+ItemStorageDB_LastUpdate = 1794230919
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-09 13:49:46",
+        updated_at = "2026-11-09 16:28:39",
         money = 339404,
         empty = 91,
         location = "Оргриммар",
@@ -231,7 +231,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41537:0:0:0:0:0:0:0:10|h[Символ щита молний]|h|r",
                 name = "Символ щита молний",
-                count = 23,
+                count = 22,
             },
             {
                 link = "|cffffffff|Hitem:41538:0:0:0:0:0:0:0:10|h[Символ тотема прилива маны]|h|r",
@@ -751,7 +751,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
                 name = "Символ подводного дыхания",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
@@ -1270,7 +1270,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794221098,
+            last_update = 1794230895,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1495,7 +1495,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41537:0:0:0:0:0:0:0:10|h[Символ щита молний]|h|r",
                     name = "Символ щита молний",
-                    count = 20,
+                    count = 19,
                 },
                 {
                     link = "|cffffffff|Hitem:41538:0:0:0:0:0:0:0:10|h[Символ тотема прилива маны]|h|r",
@@ -2015,7 +2015,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43344:0:0:0:0:0:0:0:10|h[Символ подводного дыхания]|h|r",
                     name = "Символ подводного дыхания",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
@@ -2535,7 +2535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794221298,
+            last_update = 1794230905,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
