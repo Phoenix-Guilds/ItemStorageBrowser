@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794237407
+ItemStorageDB_LastUpdate = 1794237857
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13348,9 +13348,9 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-09 17:12:54",
+        updated_at = "2026-11-09 17:24:17",
         money = 385478,
-        empty = 109,
+        empty = 108,
         location = "Оргриммар",
         items = {
             {
@@ -13561,7 +13561,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                 name = "Серебряный жезл",
-                count = 6,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:6339:0:0:0:0:0:0:0:10|h[Рунический серебряный жезл]|h|r",
@@ -13755,7 +13755,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794237154,
+            last_update = 1794237840,
             items = {
                 {
                     link = "|cffffffff|Hitem:11144:0:0:0:0:0:0:0:10|h[Жезл из истинного серебра]|h|r",
@@ -13790,7 +13790,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6338:0:0:0:0:0:0:0:10|h[Серебряный жезл]|h|r",
                     name = "Серебряный жезл",
-                    count = 6,
+                    count = 7,
                 },
             },
         },
