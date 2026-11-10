@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794305606
+ItemStorageDB_LastUpdate = 1794305636
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8993,9 +8993,9 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 09:55:12",
+        updated_at = "2026-11-10 13:13:56",
         money = 208636,
-        empty = 63,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -9209,11 +9209,6 @@ ItemStorageDB = {
                 count = 6,
             },
             {
-                link = "|cffffffff|Hitem:3824:0:0:0:0:0:0:0:10|h[Масло Тьмы]|h|r",
-                name = "Масло Тьмы",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                 name = "Зелье маны",
                 count = 61,
@@ -9410,7 +9405,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794293642,
+            last_update = 1794305625,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9551,11 +9546,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:3823:0:0:0:0:0:0:0:10|h[Зелье простой невидимости]|h|r",
                     name = "Зелье простой невидимости",
                     count = 6,
-                },
-                {
-                    link = "|cffffffff|Hitem:3824:0:0:0:0:0:0:0:10|h[Масло Тьмы]|h|r",
-                    name = "Масло Тьмы",
-                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:40068:0:0:0:0:0:0:0:10|h[Эликсир гнева]|h|r",
@@ -9725,7 +9715,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794293704,
+            last_update = 1794305630,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
