@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794351211
+ItemStorageDB_LastUpdate = 1794351246
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7798,9 +7798,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 00:38:01",
+        updated_at = "2026-11-11 00:54:06",
         money = 0,
-        empty = 180,
+        empty = 179,
         location = "Оргриммар",
         items = {
             {
@@ -7832,6 +7832,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:17222:0:0:0:0:0:0:0:10|h[Паучья колбаска]|h|r",
                 name = "Паучья колбаска",
                 count = 8,
+            },
+            {
+                link = "|cffffffff|Hitem:21072:0:0:0:0:0:0:0:10|h[Копченый шалфокунь]|h|r",
+                name = "Копченый шалфокунь",
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
@@ -7960,7 +7965,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794350272,
+            last_update = 1794351241,
             items = {
                 {
                     link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
@@ -7991,6 +7996,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:17222:0:0:0:0:0:0:0:10|h[Паучья колбаска]|h|r",
                     name = "Паучья колбаска",
                     count = 8,
+                },
+                {
+                    link = "|cffffffff|Hitem:21072:0:0:0:0:0:0:0:10|h[Копченый шалфокунь]|h|r",
+                    name = "Копченый шалфокунь",
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
@@ -8120,7 +8130,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794350274,
+            last_update = 1794351242,
             items = {
             },
         },
