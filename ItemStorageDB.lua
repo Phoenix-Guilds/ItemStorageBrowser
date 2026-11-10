@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794318707
+ItemStorageDB_LastUpdate = 1794318797
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19813,16 +19813,11 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-08 13:06:01",
+        updated_at = "2026-11-10 15:53:17",
         money = 336703,
-        empty = 92,
+        empty = 93,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
-                name = "Сапоги массового поражения",
-                count = 1,
-            },
             {
                 link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
                 name = "Перчатки лютости",
@@ -20670,13 +20665,8 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794135953,
+            last_update = 1794318740,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
-                    name = "Сапоги массового поражения",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:31126:0:0:0:0:0:0:0:10|h[Перчатки лютости]|h|r",
                     name = "Перчатки лютости",
@@ -21505,7 +21495,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794135956,
+            last_update = 1794318749,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31191:0:0:0:0:0:-39:30:10|h[Наручи из шкуры кроколиска с меткой заклинателя]|h|r",
