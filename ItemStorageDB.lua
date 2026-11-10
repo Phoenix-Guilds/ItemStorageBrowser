@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794352306
+ItemStorageDB_LastUpdate = 1794352375
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8578,9 +8578,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 00:55:57",
+        updated_at = "2026-11-11 01:12:55",
         money = 41967,
-        empty = 177,
+        empty = 176,
         location = "Оргриммар",
         items = {
             {
@@ -8641,7 +8641,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                 name = "Руда истинного серебра",
-                count = 750,
+                count = 751,
             },
             {
                 link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
@@ -8701,7 +8701,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                 name = "Оловянная руда",
-                count = 157,
+                count = 159,
             },
             {
                 link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
@@ -8750,7 +8750,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794351352,
+            last_update = 1794352370,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8810,7 +8810,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7911:0:0:0:0:0:0:0:10|h[Руда истинного серебра]|h|r",
                     name = "Руда истинного серебра",
-                    count = 750,
+                    count = 751,
                 },
                 {
                     link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
@@ -8870,7 +8870,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
                     name = "Оловянная руда",
-                    count = 157,
+                    count = 159,
                 },
                 {
                     link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
@@ -8920,7 +8920,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794351353,
+            last_update = 1794352371,
             items = {
             },
         },
