@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794352801
+ItemStorageDB_LastUpdate = 1794352859
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8598,7 +8598,7 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 01:12:55",
+        updated_at = "2026-11-11 01:20:59",
         money = 41967,
         empty = 176,
         location = "Оргриммар",
@@ -8631,12 +8631,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
                 name = "Золотая руда",
-                count = 390,
+                count = 391,
             },
             {
                 link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
                 name = "Серебряный слиток",
-                count = 436,
+                count = 437,
             },
             {
                 link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
@@ -8770,7 +8770,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794352370,
+            last_update = 1794352853,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8800,12 +8800,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
                     name = "Золотая руда",
-                    count = 390,
+                    count = 391,
                 },
                 {
                     link = "|cff1eff00|Hitem:2842:0:0:0:0:0:0:0:10|h[Серебряный слиток]|h|r",
                     name = "Серебряный слиток",
-                    count = 436,
+                    count = 437,
                 },
                 {
                     link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
@@ -8940,7 +8940,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794352371,
+            last_update = 1794352855,
             items = {
             },
         },
