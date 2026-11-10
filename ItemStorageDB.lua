@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794299693
+ItemStorageDB_LastUpdate = 1794300441
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21697,10 +21697,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 02:30:32",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-10 11:47:21",
         money = 203936,
-        empty = 82,
+        empty = 84,
         location = "Оргриммар",
         items = {
             {
@@ -22224,18 +22224,13 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffa335ee|Hitem:3075:0:0:0:0:0:0:0:10|h[Глаз Пламени]|h|r",
-                name = "Глаз Пламени",
-                count = 2,
-            },
-            {
                 link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
                 name = "Одеяния Прозрения",
                 count = 2,
             },
         },
         bank = {
-            last_update = 1794270624,
+            last_update = 1794300421,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22735,7 +22730,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794270625,
+            last_update = 1794300435,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
@@ -22781,11 +22776,6 @@ ItemStorageDB = {
                     link = "|cffa335ee|Hitem:14553:0:0:0:0:0:0:0:10|h[Кушак милосердия]|h|r",
                     name = "Кушак милосердия",
                     count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:3075:0:0:0:0:0:0:0:10|h[Глаз Пламени]|h|r",
-                    name = "Глаз Пламени",
-                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
