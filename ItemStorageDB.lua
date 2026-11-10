@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794305527
+ItemStorageDB_LastUpdate = 1794305606
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7233,7 +7233,7 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 13:11:20",
+        updated_at = "2026-11-10 13:13:26",
         money = 324084,
         empty = 117,
         location = "Оргриммар",
@@ -7565,7 +7565,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794305469,
+            last_update = 1794305573,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7725,7 +7725,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                     name = "Толстая кожа",
-                    count = 994,
+                    count = 944,
                 },
                 {
                     link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
@@ -7815,7 +7815,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794305475,
+            last_update = 1794305601,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7890,7 +7890,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                     name = "Толстая кожа",
-                    count = 14,
+                    count = 64,
                 },
                 {
                     link = "|cffffffff|Hitem:4236:0:0:0:0:0:0:0:10|h[Обработанная тяжелая шкура]|h|r",
