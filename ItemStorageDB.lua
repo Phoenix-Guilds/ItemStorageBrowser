@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1794270632
+ItemStorageDB_LastUpdate = 1794270719
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-09 16:28:39",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-10 02:31:59",
         money = 339404,
         empty = 91,
         location = "Оргриммар",
@@ -416,7 +416,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42469:0:0:0:0:0:0:0:10|h[Символ вытягивания жизни]|h|r",
                 name = "Символ вытягивания жизни",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:42472:0:0:0:0:0:0:0:10|h[Символ нестабильного колдовства]|h|r",
@@ -1270,7 +1270,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794230895,
+            last_update = 1794270686,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1680,7 +1680,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42469:0:0:0:0:0:0:0:10|h[Символ вытягивания жизни]|h|r",
                     name = "Символ вытягивания жизни",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:42472:0:0:0:0:0:0:0:10|h[Символ нестабильного колдовства]|h|r",
@@ -2535,7 +2535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794230905,
+            last_update = 1794270693,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
