@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794270585
+ItemStorageDB_LastUpdate = 1794270632
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21672,10 +21672,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-09 12:22:24",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-10 02:30:32",
         money = 203936,
-        empty = 81,
+        empty = 82,
         location = "Оргриммар",
         items = {
             {
@@ -21831,7 +21831,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13105:0:0:0:0:0:0:0:10|h[Опоясок Сутарна]|h|r",
                 name = "Опоясок Сутарна",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
@@ -22210,7 +22210,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794216096,
+            last_update = 1794270624,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22240,7 +22240,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
                     name = "Покрывало Эми",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
@@ -22270,7 +22270,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
                     name = "Наручи Йоргена",
-                    count = 2,
+                    count = 3,
                 },
                 {
                     link = "|cff0070dd|Hitem:13029:0:0:0:0:0:0:0:10|h[Мрачный кристалл]|h|r",
@@ -22360,7 +22360,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13105:0:0:0:0:0:0:0:10|h[Опоясок Сутарна]|h|r",
                     name = "Опоясок Сутарна",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13106:0:0:0:0:0:0:0:10|h[Светящиеся магические браслеты]|h|r",
@@ -22710,21 +22710,11 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794216109,
+            last_update = 1794270625,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
-                    name = "Покрывало Эми",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
                     name = "Чаропламенный плащ",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
-                    name = "Наручи Йоргена",
                     count = 1,
                 },
                 {
