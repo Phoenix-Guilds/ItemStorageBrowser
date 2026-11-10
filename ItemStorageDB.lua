@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794307265
+ItemStorageDB_LastUpdate = 1794308217
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-09 21:46:39",
+        updated_at = "2026-11-10 13:56:57",
         money = 92710,
-        empty = 63,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -2642,11 +2642,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13015:0:0:0:0:0:0:0:10|h[Сератил]|h|r",
                 name = "Сератил",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13016:0:0:0:0:0:0:0:10|h[Убойная алебарда]|h|r",
-                name = "Убойная алебарда",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13017:0:0:0:0:0:0:0:10|h[Боевой топор Рубаки]|h|r",
@@ -2731,7 +2726,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                 name = "Вязкий молот",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -2976,7 +2971,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
                 name = "Кровопроливец",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
@@ -3150,7 +3145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794249978,
+            last_update = 1794308201,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3211,11 +3206,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13015:0:0:0:0:0:0:0:10|h[Сератил]|h|r",
                     name = "Сератил",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13016:0:0:0:0:0:0:0:10|h[Убойная алебарда]|h|r",
-                    name = "Убойная алебарда",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13017:0:0:0:0:0:0:0:10|h[Боевой топор Рубаки]|h|r",
@@ -3295,7 +3285,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                     name = "Вязкий молот",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -3500,12 +3490,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
                     name = "Кровопроливец",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                     name = "Корявый ясеневый посох",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
@@ -3640,7 +3630,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794249989,
+            last_update = 1794308210,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3740,7 +3730,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                     name = "Корявый ясеневый посох",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
