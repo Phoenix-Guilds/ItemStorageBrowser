@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794290918
+ItemStorageDB_LastUpdate = 1794292949
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19388,9 +19388,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-09 12:56:06",
+        updated_at = "2026-11-10 09:42:29",
         money = 475064,
-        empty = 114,
+        empty = 121,
         location = "Оргриммар",
         items = {
             {
@@ -19606,7 +19606,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
                 name = "Огнеперый луциан",
-                count = 69,
+                count = 50,
             },
             {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
@@ -19621,7 +19621,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                 name = "Магороза",
-                count = 517,
+                count = 217,
             },
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -19650,7 +19650,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794218142,
+            last_update = 1794292933,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19830,7 +19830,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:785:0:0:0:0:0:0:0:10|h[Магороза]|h|r",
                     name = "Магороза",
-                    count = 517,
+                    count = 217,
                 },
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
@@ -19860,7 +19860,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794218148,
+            last_update = 1794292942,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -19905,7 +19905,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
                     name = "Огнеперый луциан",
-                    count = 69,
+                    count = 50,
                 },
                 {
                     link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
