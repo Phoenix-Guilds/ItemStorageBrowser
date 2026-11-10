@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794300441
+ItemStorageDB_LastUpdate = 1794304811
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16847,10 +16847,10 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 03:12:01",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-10 13:00:11",
         money = 108852,
-        empty = 48,
+        empty = 49,
         location = "Оргриммар",
         items = {
             {
@@ -17764,11 +17764,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:9801:0:0:0:0:0:1190:0:10|h[Наилучший пояс со знаком медведя]|h|r",
-                name = "Наилучший пояс со знаком медведя",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:9810:929:0:0:0:0:681:0:10|h[Укрепленные сапоги со знаком тигра]|h|r",
                 name = "Укрепленные сапоги со знаком тигра",
                 count = 1,
@@ -17790,7 +17785,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794273110,
+            last_update = 1794304759,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -18448,11 +18443,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:9801:0:0:0:0:0:1190:0:10|h[Наилучший пояс со знаком медведя]|h|r",
-                    name = "Наилучший пояс со знаком медведя",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:9810:929:0:0:0:0:681:0:10|h[Укрепленные сапоги со знаком тигра]|h|r",
                     name = "Укрепленные сапоги со знаком тигра",
                     count = 1,
@@ -18475,7 +18465,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794273114,
+            last_update = 1794304778,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
