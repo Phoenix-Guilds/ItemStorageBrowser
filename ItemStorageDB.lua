@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794352422
+ItemStorageDB_LastUpdate = 1794352472
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22648,9 +22648,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 01:01:04",
+        updated_at = "2026-11-11 01:14:32",
         money = 194111,
-        empty = 66,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -22871,6 +22871,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12012:0:0:0:0:0:600:0:10|h[Кольцо болот со знаком мартышки]|h|r",
                 name = "Кольцо болот со знаком мартышки",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:12013:0:0:0:0:0:688:0:10|h[Кольцо пустыни со знаком тигра]|h|r",
+                name = "Кольцо пустыни со знаком тигра",
                 count = 1,
             },
             {
@@ -23095,7 +23100,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794351659,
+            last_update = 1794352467,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23253,6 +23258,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:12013:0:0:0:0:0:688:0:10|h[Кольцо пустыни со знаком тигра]|h|r",
+                    name = "Кольцо пустыни со знаком тигра",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:12053:0:0:0:0:0:0:0:10|h[Кольцо из вулканического камня]|h|r",
                     name = "Кольцо из вулканического камня",
                     count = 1,
@@ -23400,7 +23410,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794351660,
+            last_update = 1794352468,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
