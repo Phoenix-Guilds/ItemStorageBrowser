@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794351526
+ItemStorageDB_LastUpdate = 1794351570
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 00:35:28",
+        updated_at = "2026-11-11 00:59:30",
         money = 92710,
-        empty = 64,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -3024,6 +3024,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:15233:0:0:0:0:0:508:0:10|h[Топор свирепости со знаком волка]|h|r",
+                name = "Топор свирепости со знаком волка",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
                 count = 1,
@@ -3140,7 +3145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794350067,
+            last_update = 1794351560,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3635,7 +3640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794350117,
+            last_update = 1794351564,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3730,6 +3735,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:935:0:0:0:0:0:0:0:10|h[Короткий меч Ночного Дозора]|h|r",
                     name = "Короткий меч Ночного Дозора",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:15233:0:0:0:0:0:508:0:10|h[Топор свирепости со знаком волка]|h|r",
+                    name = "Топор свирепости со знаком волка",
                     count = 1,
                 },
                 {
