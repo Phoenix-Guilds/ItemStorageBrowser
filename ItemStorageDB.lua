@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794351664
+ItemStorageDB_LastUpdate = 1794352058
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9768,7 +9768,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 23:34:11",
+        updated_at = "2026-11-11 01:07:38",
         money = 14062,
         empty = 80,
         location = "Оргриммар",
@@ -9846,7 +9846,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                 name = "Блестящая рыбья чешуя",
-                count = 104,
+                count = 108,
             },
             {
                 link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
@@ -9881,7 +9881,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 1007,
+                count = 1012,
             },
             {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -9971,7 +9971,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                 name = "Бурдюк с маслом",
-                count = 2,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:8932:0:0:0:0:0:0:0:10|h[Альтеракский сыр]|h|r",
@@ -9980,7 +9980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794346445,
+            last_update = 1794351768,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10045,7 +10045,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:17057:0:0:0:0:0:0:0:10|h[Блестящая рыбья чешуя]|h|r",
                     name = "Блестящая рыбья чешуя",
-                    count = 104,
+                    count = 108,
                 },
                 {
                     link = "|cffffffff|Hitem:17058:0:0:0:0:0:0:0:10|h[Рыбий жир]|h|r",
@@ -10080,7 +10080,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                     name = "Средоточие Стихий",
-                    count = 1007,
+                    count = 1012,
                 },
                 {
                     link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -10170,7 +10170,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                     name = "Бурдюк с маслом",
-                    count = 2,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:8932:0:0:0:0:0:0:0:10|h[Альтеракский сыр]|h|r",
@@ -10180,7 +10180,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794346447,
+            last_update = 1794352053,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
