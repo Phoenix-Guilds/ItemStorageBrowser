@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794293625
+ItemStorageDB_LastUpdate = 1794293712
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8957,10 +8957,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-09 19:39:48",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-10 09:55:12",
         money = 208636,
-        empty = 59,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -9164,16 +9164,6 @@ ItemStorageDB = {
                 count = 29,
             },
             {
-                link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
-                name = "Эликсир Защиты",
-                count = 18,
-            },
-            {
-                link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
-                name = "Малый эликсир ловкости",
-                count = 8,
-            },
-            {
                 link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
                 name = "Зелье безумного алхимика",
                 count = 55,
@@ -9356,12 +9346,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9155:0:0:0:0:0:0:0:10|h[Чародейский эликсир]|h|r",
                 name = "Чародейский эликсир",
-                count = 104,
+                count = 54,
             },
             {
                 link = "|cffffffff|Hitem:9179:0:0:0:0:0:0:0:10|h[Сильный эликсир интеллекта]|h|r",
                 name = "Сильный эликсир интеллекта",
-                count = 179,
+                count = 129,
             },
             {
                 link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
@@ -9385,7 +9375,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794245971,
+            last_update = 1794293642,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9516,16 +9506,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:3388:0:0:0:0:0:0:0:10|h[Крепкое зелье тролльей крови]|h|r",
                     name = "Крепкое зелье тролльей крови",
                     count = 29,
-                },
-                {
-                    link = "|cffffffff|Hitem:3389:0:0:0:0:0:0:0:10|h[Эликсир Защиты]|h|r",
-                    name = "Эликсир Защиты",
-                    count = 18,
-                },
-                {
-                    link = "|cffffffff|Hitem:3390:0:0:0:0:0:0:0:10|h[Малый эликсир ловкости]|h|r",
-                    name = "Малый эликсир ловкости",
-                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:34440:0:0:0:0:0:0:0:10|h[Зелье безумного алхимика]|h|r",
@@ -9685,12 +9665,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:9155:0:0:0:0:0:0:0:10|h[Чародейский эликсир]|h|r",
                     name = "Чародейский эликсир",
-                    count = 104,
+                    count = 54,
                 },
                 {
                     link = "|cffffffff|Hitem:9179:0:0:0:0:0:0:0:10|h[Сильный эликсир интеллекта]|h|r",
                     name = "Сильный эликсир интеллекта",
-                    count = 179,
+                    count = 129,
                 },
                 {
                     link = "|cffffffff|Hitem:9187:0:0:0:0:0:0:0:10|h[Сильный эликсир ловкости]|h|r",
@@ -9710,7 +9690,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794245980,
+            last_update = 1794293704,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
