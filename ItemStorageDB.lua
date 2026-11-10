@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794350199
+ItemStorageDB_LastUpdate = 1794350281
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7798,15 +7798,20 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 23:42:54",
+        updated_at = "2026-11-11 00:38:01",
         money = 0,
-        empty = 190,
+        empty = 180,
         location = "Оргриммар",
         items = {
             {
                 link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
                 name = "Жареный ящер",
-                count = 6,
+                count = 55,
+            },
+            {
+                link = "|cffffffff|Hitem:12212:0:0:0:0:0:0:0:10|h[Похлебка \"Джунгли\"]|h|r",
+                name = "Похлебка \"Джунгли\"",
+                count = 57,
             },
             {
                 link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7814,9 +7819,19 @@ ItemStorageDB = {
                 count = 24,
             },
             {
+                link = "|cffffffff|Hitem:12218:0:0:0:0:0:0:0:10|h[Чудовищный омлет]|h|r",
+                name = "Чудовищный омлет",
+                count = 25,
+            },
+            {
                 link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
                 name = "Мощь-рыба в кляре",
                 count = 65,
+            },
+            {
+                link = "|cffffffff|Hitem:17222:0:0:0:0:0:0:0:10|h[Паучья колбаска]|h|r",
+                name = "Паучья колбаска",
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
@@ -7831,7 +7846,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27651:0:0:0:0:0:0:0:10|h[Закуска из канюка]|h|r",
                 name = "Закуска из канюка",
-                count = 24,
+                count = 71,
             },
             {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
@@ -7854,6 +7869,11 @@ ItemStorageDB = {
                 count = 7,
             },
             {
+                link = "|cffffffff|Hitem:27660:0:0:0:0:0:0:0:10|h[Стейк из талбука]|h|r",
+                name = "Стейк из талбука",
+                count = 12,
+            },
+            {
                 link = "|cffffffff|Hitem:27666:0:0:0:0:0:0:0:10|h[Палочки из золотой рыбки]|h|r",
                 name = "Палочки из золотой рыбки",
                 count = 16,
@@ -7871,7 +7891,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
                 name = "Стейк из черпорога",
-                count = 40,
+                count = 51,
             },
             {
                 link = "|cffffffff|Hitem:34751:0:0:0:0:0:0:0:10|h[Жареный ворг]|h|r",
@@ -7882,6 +7902,16 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:34763:0:0:0:0:0:0:0:10|h[Копченый лосось]|h|r",
                 name = "Копченый лосось",
                 count = 36,
+            },
+            {
+                link = "|cffffffff|Hitem:35563:0:0:0:0:0:0:0:10|h[Кебаб из медвежатины на углях]|h|r",
+                name = "Кебаб из медвежатины на углях",
+                count = 21,
+            },
+            {
+                link = "|cffffffff|Hitem:3665:0:0:0:0:0:0:0:10|h[Невероятно вкусный омлет]|h|r",
+                name = "Невероятно вкусный омлет",
+                count = 37,
             },
             {
                 link = "|cffffffff|Hitem:39691:0:0:0:0:0:0:0:10|h[Наваристая похлебка из косатки]|h|r",
@@ -7930,12 +7960,17 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794346968,
+            last_update = 1794350272,
             items = {
                 {
                     link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
                     name = "Жареный ящер",
-                    count = 6,
+                    count = 55,
+                },
+                {
+                    link = "|cffffffff|Hitem:12212:0:0:0:0:0:0:0:10|h[Похлебка \"Джунгли\"]|h|r",
+                    name = "Похлебка \"Джунгли\"",
+                    count = 57,
                 },
                 {
                     link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
@@ -7943,9 +7978,19 @@ ItemStorageDB = {
                     count = 24,
                 },
                 {
+                    link = "|cffffffff|Hitem:12218:0:0:0:0:0:0:0:10|h[Чудовищный омлет]|h|r",
+                    name = "Чудовищный омлет",
+                    count = 25,
+                },
+                {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
                     name = "Мощь-рыба в кляре",
                     count = 65,
+                },
+                {
+                    link = "|cffffffff|Hitem:17222:0:0:0:0:0:0:0:10|h[Паучья колбаска]|h|r",
+                    name = "Паучья колбаска",
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:22645:0:0:0:0:0:0:0:10|h[Хрустящий паучий десерт]|h|r",
@@ -7960,7 +8005,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:27651:0:0:0:0:0:0:0:10|h[Закуска из канюка]|h|r",
                     name = "Закуска из канюка",
-                    count = 24,
+                    count = 71,
                 },
                 {
                     link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
@@ -7983,6 +8028,11 @@ ItemStorageDB = {
                     count = 7,
                 },
                 {
+                    link = "|cffffffff|Hitem:27660:0:0:0:0:0:0:0:10|h[Стейк из талбука]|h|r",
+                    name = "Стейк из талбука",
+                    count = 12,
+                },
+                {
                     link = "|cffffffff|Hitem:27666:0:0:0:0:0:0:0:10|h[Палочки из золотой рыбки]|h|r",
                     name = "Палочки из золотой рыбки",
                     count = 16,
@@ -8000,7 +8050,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
                     name = "Стейк из черпорога",
-                    count = 40,
+                    count = 51,
                 },
                 {
                     link = "|cffffffff|Hitem:34751:0:0:0:0:0:0:0:10|h[Жареный ворг]|h|r",
@@ -8011,6 +8061,16 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:34763:0:0:0:0:0:0:0:10|h[Копченый лосось]|h|r",
                     name = "Копченый лосось",
                     count = 36,
+                },
+                {
+                    link = "|cffffffff|Hitem:35563:0:0:0:0:0:0:0:10|h[Кебаб из медвежатины на углях]|h|r",
+                    name = "Кебаб из медвежатины на углях",
+                    count = 21,
+                },
+                {
+                    link = "|cffffffff|Hitem:3665:0:0:0:0:0:0:0:10|h[Невероятно вкусный омлет]|h|r",
+                    name = "Невероятно вкусный омлет",
+                    count = 37,
                 },
                 {
                     link = "|cffffffff|Hitem:39691:0:0:0:0:0:0:0:10|h[Наваристая похлебка из косатки]|h|r",
@@ -8060,7 +8120,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794346970,
+            last_update = 1794350274,
             items = {
             },
         },
