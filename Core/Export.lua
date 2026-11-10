@@ -37,7 +37,10 @@ local function ScanBags()
     local freeBankSlots = 0
 
     local inventoryBags = {0, 1, 2, 3, 4}
-    local bankBags = {-1, 5, 6, 7, 8, 9, 10, 11}
+    -- Sirus exposes the ingredient expansion as container -4. Bagnon's
+    -- saved data for Тканюшка stores these slots as -401, -402, ...;
+    -- include that container alongside the regular bank and purchased bags.
+    local bankBags = {-1, 5, 6, 7, 8, 9, 10, 11, -4}
 
     local function ScanBagList(bagList, targetTable, isBank)
 
