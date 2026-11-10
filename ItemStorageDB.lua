@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794350281
+ItemStorageDB_LastUpdate = 1794350721
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8908,7 +8908,7 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 00:11:42",
+        updated_at = "2026-11-11 00:45:21",
         money = 208636,
         empty = 61,
         location = "Оргриммар",
@@ -8936,7 +8936,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13442:0:0:0:0:0:0:0:10|h[Мощное зелье ярости]|h|r",
                 name = "Мощное зелье ярости",
-                count = 8,
+                count = 13,
             },
             {
                 link = "|cffffffff|Hitem:13443:0:0:0:0:0:0:0:10|h[Большой флакон с зельем маны]|h|r",
@@ -8981,7 +8981,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13462:0:0:0:0:0:0:0:10|h[Зелье очищения]|h|r",
                 name = "Зелье очищения",
-                count = 35,
+                count = 37,
             },
             {
                 link = "|cffffffff|Hitem:13512:0:0:0:0:0:0:0:10|h[Настой великой силы]|h|r",
@@ -9320,7 +9320,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794348694,
+            last_update = 1794350329,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9365,7 +9365,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13462:0:0:0:0:0:0:0:10|h[Зелье очищения]|h|r",
                     name = "Зелье очищения",
-                    count = 35,
+                    count = 37,
                 },
                 {
                     link = "|cffffffff|Hitem:13512:0:0:0:0:0:0:0:10|h[Настой великой силы]|h|r",
@@ -9630,7 +9630,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794348697,
+            last_update = 1794350717,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9640,7 +9640,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13442:0:0:0:0:0:0:0:10|h[Мощное зелье ярости]|h|r",
                     name = "Мощное зелье ярости",
-                    count = 8,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:13443:0:0:0:0:0:0:0:10|h[Большой флакон с зельем маны]|h|r",
