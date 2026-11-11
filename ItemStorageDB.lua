@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794395905
+ItemStorageDB_LastUpdate = 1794395940
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21483,9 +21483,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:12:49",
+        updated_at = "2026-11-11 14:19:00",
         money = 203936,
-        empty = 69,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -21571,7 +21571,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
                 name = "Наплеч Змееубийцы",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
@@ -21591,7 +21591,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
                 name = "Шлем Маг-Тола",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13074:0:0:0:0:0:0:0:10|h[Поножи осколка голема]|h|r",
@@ -22055,7 +22055,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794395549,
+            last_update = 1794395934,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22555,7 +22555,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794395550,
+            last_update = 1794395935,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
@@ -22566,6 +22566,16 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
                     name = "Оплечье старшего волшебника",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
+                    name = "Наплеч Змееубийцы",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13073:0:0:0:0:0:0:0:10|h[Шлем Маг-Тола]|h|r",
+                    name = "Шлем Маг-Тола",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
