@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794397147
+ItemStorageDB_LastUpdate = 1794397221
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21518,9 +21518,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:36:36",
+        updated_at = "2026-11-11 14:40:21",
         money = 203936,
-        empty = 62,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -21911,7 +21911,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
                 name = "Одеяние мага",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
@@ -22095,7 +22095,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794396988,
+            last_update = 1794397185,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22595,7 +22595,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794396990,
+            last_update = 1794397190,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
@@ -22650,6 +22650,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1486:0:0:0:0:0:0:0:10|h[Куртка из древесной коры]|h|r",
                     name = "Куртка из древесной коры",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
+                    name = "Одеяние мага",
                     count = 1,
                 },
                 {
