@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794401994
+ItemStorageDB_LastUpdate = 1794402054
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13072,10 +13072,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:39:07",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-11 15:00:54",
         money = 13104,
-        empty = 52,
+        empty = 53,
         location = "Оргриммар",
         items = {
             {
@@ -13236,12 +13236,12 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
                 name = "Снайперский прицел",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:4405:0:0:0:0:0:0:0:10|h[Кустарный прицел]|h|r",
@@ -13255,7 +13255,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794397137,
+            last_update = 1794402022,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13380,12 +13380,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                     name = "Лук Жгучих Стрел",
-                    count = 4,
+                    count = 3,
                 },
             },
         },
         bags = {
-            last_update = 1794397141,
+            last_update = 1794402040,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -13425,7 +13425,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
                     name = "Снайперский прицел",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:4405:0:0:0:0:0:0:0:10|h[Кустарный прицел]|h|r",
