@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794402054
+ItemStorageDB_LastUpdate = 1794402108
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22737,10 +22737,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:14:24",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-11 15:01:48",
         money = 194111,
-        empty = 40,
+        empty = 42,
         location = "Оргриммар",
         items = {
             {
@@ -22911,7 +22911,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:29158:0:0:0:0:0:0:0:10|h[Кольцо командора из истинного серебра]|h|r",
                 name = "Кольцо командора из истинного серебра",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
@@ -23164,11 +23164,6 @@ ItemStorageDB = {
                 count = 3,
             },
             {
-                link = "|cff1eff00|Hitem:7552:0:0:0:0:0:0:0:10|h[Драгоценность Сокола]|h|r",
-                name = "Драгоценность Сокола",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
                 name = "Гирлянда из лилий",
                 count = 5,
@@ -23190,7 +23185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794395644,
+            last_update = 1794402090,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23305,7 +23300,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:29158:0:0:0:0:0:0:0:10|h[Кольцо командора из истинного серебра]|h|r",
                     name = "Кольцо командора из истинного серебра",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
@@ -23488,11 +23483,6 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
-                    link = "|cff1eff00|Hitem:7552:0:0:0:0:0:0:0:10|h[Драгоценность Сокола]|h|r",
-                    name = "Драгоценность Сокола",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:942:0:0:0:0:0:0:0:10|h[Кольцо заморозки]|h|r",
                     name = "Кольцо заморозки",
                     count = 3,
@@ -23500,7 +23490,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794395658,
+            last_update = 1794402101,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
