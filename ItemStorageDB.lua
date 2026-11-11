@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794396347
+ItemStorageDB_LastUpdate = 1794396374
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19783,9 +19783,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:08:06",
+        updated_at = "2026-11-11 14:26:14",
         money = 336703,
-        empty = 94,
+        empty = 93,
         location = "Оргриммар",
         items = {
             {
@@ -20324,6 +20324,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:37787:0:0:0:0:0:0:0:10|h[Великий рогатый шлем непреклонности]|h|r",
+                name = "Великий рогатый шлем непреклонности",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:37789:0:0:0:0:0:0:0:10|h[Рукавицы потрошения]|h|r",
                 name = "Рукавицы потрошения",
                 count = 1,
@@ -20630,7 +20635,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794395277,
+            last_update = 1794396366,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -21465,7 +21470,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794395278,
+            last_update = 1794396367,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37745:0:0:0:0:0:0:0:10|h[Одеяние природного целителя]|h|r",
@@ -21475,6 +21480,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37765:0:0:0:0:0:0:0:10|h[Поножи хождения по воде]|h|r",
                     name = "Поножи хождения по воде",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:37787:0:0:0:0:0:0:0:10|h[Великий рогатый шлем непреклонности]|h|r",
+                    name = "Великий рогатый шлем непреклонности",
                     count = 1,
                 },
             },
