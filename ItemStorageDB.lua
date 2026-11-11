@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794397025
+ItemStorageDB_LastUpdate = 1794397057
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:31:03",
+        updated_at = "2026-11-11 14:37:37",
         money = 92710,
-        empty = 59,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -2632,6 +2632,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                 name = "Боевой топор лорда Александра",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
+                name = "Молот Макхоуэна",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13014:0:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
@@ -3150,7 +3155,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794396656,
+            last_update = 1794397050,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3645,7 +3650,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794396657,
+            last_update = 1794397051,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3661,6 +3666,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
                     name = "Укус горгульи",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
+                    name = "Молот Макхоуэна",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13016:0:0:0:0:0:0:0:10|h[Убойная алебарда]|h|r",
