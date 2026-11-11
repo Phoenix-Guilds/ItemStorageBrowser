@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794397057
+ItemStorageDB_LastUpdate = 1794397147
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13083,9 +13083,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:37:05",
+        updated_at = "2026-11-11 14:39:07",
         money = 13104,
-        empty = 53,
+        empty = 52,
         location = "Оргриммар",
         items = {
             {
@@ -13236,7 +13236,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -13265,7 +13265,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794397018,
+            last_update = 1794397137,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13380,7 +13380,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                     name = "Пристрелянный огнестрел",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -13395,7 +13395,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794397019,
+            last_update = 1794397141,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
