@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794395569
+ItemStorageDB_LastUpdate = 1794395587
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13067,10 +13067,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 23:31:20",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-11 14:13:07",
         money = 13104,
-        empty = 61,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -13081,7 +13081,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                 name = "Зов небес",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -13161,7 +13161,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                 name = "Железноткач",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -13250,12 +13250,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794346272,
+            last_update = 1794395581,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
                     name = "Зов небес",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13004:0:0:0:0:0:0:0:10|h[Факел Остен]|h|r",
@@ -13335,7 +13335,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
                     name = "Железноткач",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13138:0:0:0:0:0:0:0:10|h[Глушитель]|h|r",
@@ -13380,7 +13380,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794346275,
+            last_update = 1794395582,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
