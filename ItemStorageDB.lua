@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794395793
+ItemStorageDB_LastUpdate = 1794395905
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2567,10 +2567,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 00:59:30",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-11 14:18:25",
         money = 92710,
-        empty = 63,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -3031,7 +3031,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                 name = "Щит пылающего черепа",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
@@ -3145,7 +3145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794351560,
+            last_update = 1794395896,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3640,7 +3640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794351564,
+            last_update = 1794395899,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3745,7 +3745,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1168:0:0:0:0:0:0:0:10|h[Щит пылающего черепа]|h|r",
                     name = "Щит пылающего черепа",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
