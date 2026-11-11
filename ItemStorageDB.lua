@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794431339
+ItemStorageDB_LastUpdate = 1794431428
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:59:54",
+        updated_at = "2026-11-11 23:10:28",
         money = 92710,
-        empty = 59,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -2751,7 +2751,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
                 name = "Маячащий чекан",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13049:0:0:0:0:0:0:0:10|h[Клеймор декана]|h|r",
@@ -2971,7 +2971,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                 name = "Корявый ясеневый посох",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
@@ -3150,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794401976,
+            last_update = 1794431409,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3300,12 +3300,12 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13047:0:0:0:0:0:0:0:10|h[Сучок с Древа Жизни]|h|r",
                     name = "Сучок с Древа Жизни",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
                     name = "Маячащий чекан",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13049:0:0:0:0:0:0:0:10|h[Клеймор декана]|h|r",
@@ -3350,7 +3350,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
                     name = "Острие Кху",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13059:0:0:0:0:0:0:0:10|h[Каменный ворон]|h|r",
@@ -3455,7 +3455,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
                     name = "Кортик Новолуния",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:5267:0:0:0:0:0:0:0:10|h[Алый крис]|h|r",
@@ -3500,7 +3500,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:791:0:0:0:0:0:0:0:10|h[Корявый ясеневый посох]|h|r",
                     name = "Корявый ясеневый посох",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:8006:0:0:0:0:0:0:0:10|h[Пронзатель]|h|r",
@@ -3640,7 +3640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794401986,
+            last_update = 1794431411,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3688,16 +3688,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:13047:0:0:0:0:0:0:0:10|h[Сучок с Древа Жизни]|h|r",
-                    name = "Сучок с Древа Жизни",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13058:0:0:0:0:0:0:0:10|h[Острие Кху]|h|r",
-                    name = "Острие Кху",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
                     count = 2,
@@ -3730,11 +3720,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
                     name = "Клеймор бойца",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:44217:0:0:0:0:0:0:0:10|h[Кортик Новолуния]|h|r",
-                    name = "Кортик Новолуния",
                     count = 1,
                 },
                 {
