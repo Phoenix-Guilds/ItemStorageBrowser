@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794431541
+ItemStorageDB_LastUpdate = 1794431803
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22658,9 +22658,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 15:01:48",
+        updated_at = "2026-11-11 23:16:43",
         money = 194111,
-        empty = 42,
+        empty = 44,
         location = "Оргриммар",
         items = {
             {
@@ -22701,7 +22701,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                 name = "Колье Ярости Реки",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
@@ -22961,7 +22961,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
                 name = "Кольцо золотого дракона",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:20958:0:0:0:0:0:0:0:10|h[Пылающее цитриновое кольцо]|h|r",
@@ -23105,7 +23105,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794402090,
+            last_update = 1794431785,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23310,7 +23310,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20955:0:0:0:0:0:0:0:10|h[Кольцо золотого дракона]|h|r",
                     name = "Кольцо золотого дракона",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:20958:0:0:0:0:0:0:0:10|h[Пылающее цитриновое кольцо]|h|r",
@@ -23410,7 +23410,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794402101,
+            last_update = 1794431798,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23435,7 +23435,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13087:0:0:0:0:0:0:0:10|h[Колье Ярости Реки]|h|r",
                     name = "Колье Ярости Реки",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13088:0:0:0:0:0:0:0:10|h[Оберег Газлова]|h|r",
