@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794395011
+ItemStorageDB_LastUpdate = 1794395078
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3777,10 +3777,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробящая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 23:35:18",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-11 14:04:38",
         money = 158410,
-        empty = 133,
+        empty = 134,
         location = "Оргриммар",
         items = {
             {
@@ -3916,7 +3916,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37807:0:0:0:0:0:0:0:10|h[Заостренный мечелом Линдии]|h|r",
                 name = "Заостренный мечелом Линдии",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:37808:0:0:0:0:0:0:0:10|h[Драконий зубодробитель]|h|r",
@@ -3985,7 +3985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794346512,
+            last_update = 1794395070,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -4120,7 +4120,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37807:0:0:0:0:0:0:0:10|h[Заостренный мечелом Линдии]|h|r",
                     name = "Заостренный мечелом Линдии",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:37808:0:0:0:0:0:0:0:10|h[Драконий зубодробитель]|h|r",
@@ -4190,7 +4190,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794346514,
+            last_update = 1794395071,
             items = {
             },
         },
