@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794395664
+ItemStorageDB_LastUpdate = 1794395793
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13068,9 +13068,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:13:07",
+        updated_at = "2026-11-11 14:16:33",
         money = 13104,
-        empty = 59,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -13156,7 +13156,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                 name = "Пугач маленького Тимми",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -13181,7 +13181,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                 name = "Двуствольный дробовик",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:23773:0:0:0:0:0:0:0:10|h[Адамантитовые патроны]|h|r",
@@ -13250,7 +13250,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794395581,
+            last_update = 1794395786,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13330,7 +13330,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13136:0:0:0:0:0:0:0:10|h[Пугач маленького Тимми]|h|r",
                     name = "Пугач маленького Тимми",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13137:0:0:0:0:0:0:0:10|h[Железноткач]|h|r",
@@ -13355,7 +13355,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2098:0:0:0:0:0:0:0:10|h[Двуствольный дробовик]|h|r",
                     name = "Двуствольный дробовик",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffa335ee|Hitem:2099:0:0:0:0:0:0:0:10|h[Дворфийская пищаль]|h|r",
@@ -13380,7 +13380,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794395582,
+            last_update = 1794395789,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
