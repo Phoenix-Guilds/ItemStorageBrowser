@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794396663
+ItemStorageDB_LastUpdate = 1794396725
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19798,9 +19798,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:26:14",
+        updated_at = "2026-11-11 14:32:05",
         money = 336703,
-        empty = 93,
+        empty = 92,
         location = "Оргриммар",
         items = {
             {
@@ -20244,6 +20244,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:37763:0:0:0:0:0:0:0:10|h[Ботфорты очистителя]|h|r",
+                name = "Ботфорты очистителя",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:37764:0:0:0:0:0:0:0:10|h[Наплечные пластины из клыков гончей Недр]|h|r",
                 name = "Наплечные пластины из клыков гончей Недр",
                 count = 1,
@@ -20650,7 +20655,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794396366,
+            last_update = 1794396718,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -21485,11 +21490,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794396367,
+            last_update = 1794396719,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37745:0:0:0:0:0:0:0:10|h[Одеяние природного целителя]|h|r",
                     name = "Одеяние природного целителя",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:37763:0:0:0:0:0:0:0:10|h[Ботфорты очистителя]|h|r",
+                    name = "Ботфорты очистителя",
                     count = 1,
                 },
                 {
