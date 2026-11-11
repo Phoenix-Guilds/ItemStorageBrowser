@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794396519
+ItemStorageDB_LastUpdate = 1794396589
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:18:25",
+        updated_at = "2026-11-11 14:29:49",
         money = 92710,
-        empty = 62,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -2666,7 +2666,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
                 name = "Ручной молот Мертвого Леса",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
@@ -3109,6 +3109,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
+                name = "Топор Лесных чащоб",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:812:0:0:0:0:0:0:0:10|h[Светящийся посох Светлой рощи]|h|r",
                 name = "Светящийся посох Светлой рощи",
                 count = 2,
@@ -3145,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794395896,
+            last_update = 1794396579,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3640,7 +3645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794395899,
+            last_update = 1794396583,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3660,6 +3665,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13016:0:0:0:0:0:0:0:10|h[Убойная алебарда]|h|r",
                     name = "Убойная алебарда",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13025:0:0:0:0:0:0:0:10|h[Ручной молот Мертвого Леса]|h|r",
+                    name = "Ручной молот Мертвого Леса",
                     count = 1,
                 },
                 {
@@ -3765,6 +3775,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2163:0:0:0:0:0:0:0:10|h[Теневой клинок]|h|r",
                     name = "Теневой клинок",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:811:0:0:0:0:0:0:0:10|h[Топор Лесных чащоб]|h|r",
+                    name = "Топор Лесных чащоб",
                     count = 1,
                 },
                 {
