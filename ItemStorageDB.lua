@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794396477
+ItemStorageDB_LastUpdate = 1794396519
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13068,9 +13068,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:16:33",
+        updated_at = "2026-11-11 14:28:39",
         money = 13104,
-        empty = 57,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -13111,7 +13111,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13023:0:0:0:0:0:0:0:10|h[Длинный лук Орлиного рога]|h|r",
                 name = "Длинный лук Орлиного рога",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
@@ -13121,7 +13121,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                 name = "Быстроветр",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
@@ -13250,7 +13250,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794395786,
+            last_update = 1794396499,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13285,7 +13285,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13023:0:0:0:0:0:0:0:10|h[Длинный лук Орлиного рога]|h|r",
                     name = "Длинный лук Орлиного рога",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
@@ -13295,7 +13295,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
                     name = "Быстроветр",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13039:0:0:0:0:0:0:0:10|h[Раскалывающий череп арбалет]|h|r",
@@ -13380,7 +13380,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794395789,
+            last_update = 1794396502,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
