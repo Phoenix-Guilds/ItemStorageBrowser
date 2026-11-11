@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794396089
+ItemStorageDB_LastUpdate = 1794396122
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3778,9 +3778,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:04:38",
+        updated_at = "2026-11-11 14:22:02",
         money = 158410,
-        empty = 134,
+        empty = 133,
         location = "Оргриммар",
         items = {
             {
@@ -3836,7 +3836,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31234:0:0:0:0:0:0:0:10|h[Хрустальный дренейский клинок]|h|r",
                 name = "Хрустальный дренейский клинок",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31287:1128:0:0:0:0:0:0:10|h[Щит дренейского отважного стража]|h|r",
@@ -3985,7 +3985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794395070,
+            last_update = 1794396116,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -4040,7 +4040,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31234:0:0:0:0:0:0:0:10|h[Хрустальный дренейский клинок]|h|r",
                     name = "Хрустальный дренейский клинок",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31287:1128:0:0:0:0:0:0:10|h[Щит дренейского отважного стража]|h|r",
@@ -4190,7 +4190,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794395071,
+            last_update = 1794396117,
             items = {
             },
         },
