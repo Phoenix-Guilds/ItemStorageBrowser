@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794396122
+ItemStorageDB_LastUpdate = 1794396347
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3778,9 +3778,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 14:22:02",
+        updated_at = "2026-11-11 14:25:47",
         money = 158410,
-        empty = 133,
+        empty = 132,
         location = "Оргриммар",
         items = {
             {
@@ -3861,7 +3861,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31305:0:0:0:0:0:0:0:10|h[Резец Цеда]|h|r",
                 name = "Резец Цеда",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:31308:0:0:0:0:0:0:0:10|h[Предвестник Смерти]|h|r",
@@ -3985,7 +3985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794396116,
+            last_update = 1794396340,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -4065,7 +4065,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31305:0:0:0:0:0:0:0:10|h[Резец Цеда]|h|r",
                     name = "Резец Цеда",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:31308:0:0:0:0:0:0:0:10|h[Предвестник Смерти]|h|r",
@@ -4190,7 +4190,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794396117,
+            last_update = 1794396341,
             items = {
             },
         },
