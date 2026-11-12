@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794508019
+ItemStorageDB_LastUpdate = 1794508056
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4988,7 +4988,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-12 12:58:57",
+        updated_at = "2026-11-12 20:27:36",
         money = 899680,
         empty = 99,
         location = "Оргриммар",
@@ -5026,7 +5026,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12808:0:0:0:0:0:0:0:10|h[Субстанция Нежити]|h|r",
                 name = "Субстанция Нежити",
-                count = 10,
+                count = 12,
             },
             {
                 link = "|cff1eff00|Hitem:13926:0:0:0:0:0:0:0:10|h[Золотая жемчужина]|h|r",
@@ -5295,7 +5295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794481131,
+            last_update = 1794508050,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5325,7 +5325,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12808:0:0:0:0:0:0:0:10|h[Субстанция Нежити]|h|r",
                     name = "Субстанция Нежити",
-                    count = 10,
+                    count = 12,
                 },
                 {
                     link = "|cff1eff00|Hitem:21884:0:0:0:0:0:0:0:10|h[Изначальный Огонь]|h|r",
@@ -5555,7 +5555,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794481132,
+            last_update = 1794508051,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
