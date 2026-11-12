@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794482601
+ItemStorageDB_LastUpdate = 1794483503
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21608,9 +21608,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-12 13:23:21",
+        updated_at = "2026-11-12 13:38:23",
         money = 203936,
-        empty = 67,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -21776,7 +21776,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
                 name = "Мантия тигриного прыжка",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
@@ -22185,7 +22185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794482580,
+            last_update = 1794483464,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22220,7 +22220,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
                     name = "Чаропламенный плащ",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13008:0:0:0:0:0:0:0:10|h[Ветродольские брюки]|h|r",
@@ -22345,7 +22345,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
                     name = "Мантия тигриного прыжка",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
@@ -22690,13 +22690,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794482582,
+            last_update = 1794483481,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:13007:0:0:0:0:0:0:0:10|h[Чаропламенный плащ]|h|r",
-                    name = "Чаропламенный плащ",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
                     name = "Оплечье старшего волшебника",
