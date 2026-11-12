@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794508309
+ItemStorageDB_LastUpdate = 1794508376
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21578,9 +21578,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-12 13:41:47",
+        updated_at = "2026-11-12 20:32:56",
         money = 203936,
-        empty = 67,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -21949,8 +21949,18 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:16736:0:0:0:0:0:0:0:10|h[Пояс доблести]|h|r",
+                name = "Пояс доблести",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:17050:0:0:0:0:0:0:0:10|h[Императорские одеяния Чана]|h|r",
                 name = "Императорские одеяния Чана",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:17061:0:0:0:0:0:0:0:10|h[Тень Джуно]|h|r",
+                name = "Тень Джуно",
                 count = 1,
             },
             {
@@ -22155,7 +22165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794483699,
+            last_update = 1794508368,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22660,7 +22670,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794483702,
+            last_update = 1794508371,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
@@ -22695,6 +22705,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
                     name = "Крыло дракончика",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:16736:0:0:0:0:0:0:0:10|h[Пояс доблести]|h|r",
+                    name = "Пояс доблести",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:17061:0:0:0:0:0:0:0:10|h[Тень Джуно]|h|r",
+                    name = "Тень Джуно",
                     count = 1,
                 },
                 {
