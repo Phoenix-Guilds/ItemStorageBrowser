@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794481005
+ItemStorageDB_LastUpdate = 1794481052
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19258,9 +19258,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 01:11:46",
+        updated_at = "2026-11-12 12:57:32",
         money = 475064,
-        empty = 113,
+        empty = 111,
         location = "Оргриммар",
         items = {
             {
@@ -19401,17 +19401,17 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                 name = "Золотой клевер",
-                count = 48,
+                count = 81,
             },
             {
                 link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                 name = "Язык аспида",
-                count = 58,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
                 name = "Тигровая лилия",
-                count = 50,
+                count = 52,
             },
             {
                 link = "|cffffffff|Hitem:36905:0:0:0:0:0:0:0:10|h[Личецвет]|h|r",
@@ -19421,12 +19421,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36906:0:0:0:0:0:0:0:10|h[Ледошип]|h|r",
                 name = "Ледошип",
-                count = 6,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
                 name = "Яснотка",
-                count = 35,
+                count = 46,
             },
             {
                 link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
@@ -19456,7 +19456,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
                 name = "Огнелист",
-                count = 119,
+                count = 129,
             },
             {
                 link = "|cffffffff|Hitem:40195:0:0:0:0:0:0:0:10|h[Карломасло]|h|r",
@@ -19525,7 +19525,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794352301,
+            last_update = 1794481046,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19645,17 +19645,17 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36901:0:0:0:0:0:0:0:10|h[Золотой клевер]|h|r",
                     name = "Золотой клевер",
-                    count = 48,
+                    count = 81,
                 },
                 {
                     link = "|cffffffff|Hitem:36903:0:0:0:0:0:0:0:10|h[Язык аспида]|h|r",
                     name = "Язык аспида",
-                    count = 58,
+                    count = 59,
                 },
                 {
                     link = "|cffffffff|Hitem:36904:0:0:0:0:0:0:0:10|h[Тигровая лилия]|h|r",
                     name = "Тигровая лилия",
-                    count = 50,
+                    count = 52,
                 },
                 {
                     link = "|cffffffff|Hitem:36905:0:0:0:0:0:0:0:10|h[Личецвет]|h|r",
@@ -19665,12 +19665,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36906:0:0:0:0:0:0:0:10|h[Ледошип]|h|r",
                     name = "Ледошип",
-                    count = 6,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:37921:0:0:0:0:0:0:0:10|h[Яснотка]|h|r",
                     name = "Яснотка",
-                    count = 35,
+                    count = 46,
                 },
                 {
                     link = "|cffffffff|Hitem:3818:0:0:0:0:0:0:0:10|h[Бледнолист]|h|r",
@@ -19695,7 +19695,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
                     name = "Огнелист",
-                    count = 119,
+                    count = 129,
                 },
                 {
                     link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
@@ -19740,7 +19740,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794352302,
+            last_update = 1794481047,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
