@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794480417
+ItemStorageDB_LastUpdate = 1794480674
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8628,7 +8628,7 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-12 12:44:55",
+        updated_at = "2026-11-12 12:51:14",
         money = 41967,
         empty = 177,
         location = "Оргриммар",
@@ -8776,7 +8776,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
                 name = "Кобальтовая руда",
-                count = 115,
+                count = 141,
             },
             {
                 link = "|cffffffff|Hitem:36916:0:0:0:0:0:0:0:10|h[Слиток кобальта]|h|r",
@@ -8796,11 +8796,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                 name = "Мифриловый слиток",
-                count = 143,
+                count = 117,
             },
         },
         bank = {
-            last_update = 1794480111,
+            last_update = 1794480668,
             items = {
                 {
                     link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
@@ -8945,7 +8945,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:36909:0:0:0:0:0:0:0:10|h[Кобальтовая руда]|h|r",
                     name = "Кобальтовая руда",
-                    count = 115,
+                    count = 141,
                 },
                 {
                     link = "|cffffffff|Hitem:36916:0:0:0:0:0:0:0:10|h[Слиток кобальта]|h|r",
@@ -8965,18 +8965,13 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
                     name = "Мифриловый слиток",
-                    count = 93,
+                    count = 117,
                 },
             },
         },
         bags = {
-            last_update = 1794480112,
+            last_update = 1794480669,
             items = {
-                {
-                    link = "|cffffffff|Hitem:3860:0:0:0:0:0:0:0:10|h[Мифриловый слиток]|h|r",
-                    name = "Мифриловый слиток",
-                    count = 50,
-                },
             },
         },
     },
