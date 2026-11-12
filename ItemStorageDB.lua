@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794480674
+ItemStorageDB_LastUpdate = 1794480903
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5608,9 +5608,9 @@ ItemStorageDB = {
     {
         name = "Инженерная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 23:31:49",
+        updated_at = "2026-11-12 12:55:03",
         money = 16160,
-        empty = 137,
+        empty = 138,
         location = "Оргриммар",
         items = {
             {
@@ -5706,7 +5706,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
                 name = "Гномский армейский нож",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
@@ -5731,7 +5731,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
                 name = "Медная труба",
-                count = 34,
+                count = 35,
             },
             {
                 link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
@@ -5741,7 +5741,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4364:0:0:0:0:0:0:0:10|h[Низкосортное взрывчатое вещество]|h|r",
                 name = "Низкосортное взрывчатое вещество",
-                count = 2,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:4371:0:0:0:0:0:0:0:10|h[Бронзовая трубка]|h|r",
@@ -5761,7 +5761,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
                 name = "Бронзовый каркас",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:4384:0:0:0:0:0:0:0:10|h[Взрывоопасная овца]|h|r",
@@ -5800,7 +5800,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794346303,
+            last_update = 1794480884,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5895,7 +5895,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
                     name = "Гномский армейский нож",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
@@ -5920,7 +5920,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
                     name = "Медная труба",
-                    count = 34,
+                    count = 35,
                 },
                 {
                     link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
@@ -5930,7 +5930,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4364:0:0:0:0:0:0:0:10|h[Низкосортное взрывчатое вещество]|h|r",
                     name = "Низкосортное взрывчатое вещество",
-                    count = 2,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:4371:0:0:0:0:0:0:0:10|h[Бронзовая трубка]|h|r",
@@ -5950,7 +5950,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
                     name = "Бронзовый каркас",
-                    count = 3,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:4384:0:0:0:0:0:0:0:10|h[Взрывоопасная овца]|h|r",
@@ -5990,7 +5990,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794346305,
+            last_update = 1794480898,
             items = {
             },
         },
