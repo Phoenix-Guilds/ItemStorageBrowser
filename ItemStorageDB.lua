@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794483503
+ItemStorageDB_LastUpdate = 1794483707
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21608,9 +21608,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-12 13:38:23",
+        updated_at = "2026-11-12 13:41:47",
         money = 203936,
-        empty = 68,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -21661,7 +21661,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                 name = "Набедренники Снопевца",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -22185,7 +22185,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794483464,
+            last_update = 1794483699,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22690,8 +22690,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794483481,
+            last_update = 1794483702,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
+                    name = "Набедренники Снопевца",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
                     name = "Оплечье старшего волшебника",
