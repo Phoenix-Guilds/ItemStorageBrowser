@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794481137
+ItemStorageDB_LastUpdate = 1794481175
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10248,7 +10248,7 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 01:20:01",
+        updated_at = "2026-11-12 12:59:35",
         money = 213874,
         empty = 55,
         location = "Оргриммар",
@@ -10426,7 +10426,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:34736:0:0:0:0:0:0:0:10|h[Кусок мяса мамонта]|h|r",
                 name = "Кусок мяса мамонта",
-                count = 83,
+                count = 87,
             },
             {
                 link = "|cffffffff|Hitem:35562:0:0:0:0:0:0:0:10|h[Бок медведя]|h|r",
@@ -10476,7 +10476,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43012:0:0:0:0:0:0:0:10|h[Мясо люторога]|h|r",
                 name = "Мясо люторога",
-                count = 104,
+                count = 105,
             },
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
@@ -10555,7 +10555,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794352793,
+            last_update = 1794481169,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10725,7 +10725,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:34736:0:0:0:0:0:0:0:10|h[Кусок мяса мамонта]|h|r",
                     name = "Кусок мяса мамонта",
-                    count = 83,
+                    count = 87,
                 },
                 {
                     link = "|cffffffff|Hitem:3667:0:0:0:0:0:0:0:10|h[Нежное мясо кроколиска]|h|r",
@@ -10770,7 +10770,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43012:0:0:0:0:0:0:0:10|h[Мясо люторога]|h|r",
                     name = "Мясо люторога",
-                    count = 104,
+                    count = 105,
                 },
                 {
                     link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
@@ -10840,7 +10840,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794352795,
+            last_update = 1794481170,
             items = {
                 {
                     link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
