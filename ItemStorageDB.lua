@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794477029
+ItemStorageDB_LastUpdate = 1794477613
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 23:10:28",
+        updated_at = "2026-11-12 12:00:13",
         money = 92710,
-        empty = 61,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2676,7 +2676,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                 name = "Небесный свет",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
@@ -3150,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794431409,
+            last_update = 1794477597,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3235,7 +3235,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13026:0:0:0:0:0:0:0:10|h[Небесный свет]|h|r",
                     name = "Небесный свет",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
@@ -3640,7 +3640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794431411,
+            last_update = 1794477607,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
