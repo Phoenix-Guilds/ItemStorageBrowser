@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794603783
+ItemStorageDB_LastUpdate = 1794603851
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7893,9 +7893,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 00:54:06",
+        updated_at = "2026-11-13 23:04:11",
         money = 0,
-        empty = 179,
+        empty = 178,
         location = "Оргриммар",
         items = {
             {
@@ -8060,7 +8060,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794351241,
+            last_update = 1794603806,
             items = {
                 {
                     link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
@@ -8205,7 +8205,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
                     name = "Мидии по-гоблински",
-                    count = 27,
+                    count = 13,
                 },
                 {
                     link = "|cffffffff|Hitem:6038:0:0:0:0:0:0:0:10|h[Гигантский жареный моллюск]|h|r",
@@ -8225,8 +8225,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794351242,
+            last_update = 1794603807,
             items = {
+                {
+                    link = "|cffffffff|Hitem:5527:0:0:0:0:0:0:0:10|h[Мидии по-гоблински]|h|r",
+                    name = "Мидии по-гоблински",
+                    count = 14,
+                },
             },
         },
     },
