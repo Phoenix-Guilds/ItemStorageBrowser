@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794602330
+ItemStorageDB_LastUpdate = 1794602468
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21742,10 +21742,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 19:53:07",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-13 22:41:08",
         money = 203936,
-        empty = 55,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -21756,11 +21756,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
-                name = "Окованные серебром прочные ботинки",
                 count = 1,
             },
             {
@@ -21776,7 +21771,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
                 name = "Рукавицы Торбии",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
@@ -22345,7 +22340,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794588779,
+            last_update = 1794602415,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22370,7 +22365,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12994:0:0:0:0:0:0:0:10|h[Рукавицы Торбии]|h|r",
                     name = "Рукавицы Торбии",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13005:0:0:0:0:0:0:0:10|h[Покрывало Эми]|h|r",
@@ -22850,13 +22845,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794588780,
+            last_update = 1794602438,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
-                    name = "Окованные серебром прочные ботинки",
-                    count = 1,
-                },
                 {
                     link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                     name = "Набедренники Снопевца",
