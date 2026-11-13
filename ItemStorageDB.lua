@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794606343
+ItemStorageDB_LastUpdate = 1794606657
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8663,16 +8663,11 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 21:48:07",
+        updated_at = "2026-11-13 23:50:57",
         money = 41967,
-        empty = 179,
+        empty = 182,
         location = "Оргриммар",
         items = {
-            {
-                link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
-                name = "Арканитовый слиток",
-                count = 3,
-            },
             {
                 link = "|cff1eff00|Hitem:23426:0:0:0:0:0:0:0:10|h[Кориевая руда]|h|r",
                 name = "Кориевая руда",
@@ -8781,7 +8776,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
                 name = "Медная руда",
-                count = 120,
+                count = 20,
             },
             {
                 link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
@@ -8840,7 +8835,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794599112,
+            last_update = 1794606569,
             items = {
                 {
                     link = "|cff1eff00|Hitem:23426:0:0:0:0:0:0:0:10|h[Кориевая руда]|h|r",
@@ -8856,11 +8851,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:23449:0:0:0:0:0:0:0:10|h[Кориевый слиток]|h|r",
                     name = "Кориевый слиток",
                     count = 23,
-                },
-                {
-                    link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
-                    name = "Серебряная руда",
-                    count = 95,
                 },
                 {
                     link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
@@ -8950,12 +8940,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2770:0:0:0:0:0:0:0:10|h[Медная руда]|h|r",
                     name = "Медная руда",
-                    count = 120,
-                },
-                {
-                    link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
-                    name = "Оловянная руда",
-                    count = 159,
+                    count = 20,
                 },
                 {
                     link = "|cffffffff|Hitem:2772:0:0:0:0:0:0:0:10|h[Железная руда]|h|r",
@@ -9010,12 +8995,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794599112,
+            last_update = 1794606570,
             items = {
                 {
-                    link = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:0:10|h[Арканитовый слиток]|h|r",
-                    name = "Арканитовый слиток",
-                    count = 3,
+                    link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
+                    name = "Серебряная руда",
+                    count = 95,
+                },
+                {
+                    link = "|cffffffff|Hitem:2771:0:0:0:0:0:0:0:10|h[Оловянная руда]|h|r",
+                    name = "Оловянная руда",
+                    count = 159,
                 },
             },
         },
