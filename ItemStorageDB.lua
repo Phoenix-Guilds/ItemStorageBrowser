@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794588468
+ItemStorageDB_LastUpdate = 1794588787
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21748,9 +21748,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 19:33:16",
+        updated_at = "2026-11-13 19:53:07",
         money = 203936,
-        empty = 56,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -21846,7 +21846,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                 name = "Броня гидролиска",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
@@ -22350,7 +22350,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794587588,
+            last_update = 1794588779,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22855,7 +22855,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794587590,
+            last_update = 1794588780,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
@@ -22875,6 +22875,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13066:0:0:0:0:0:0:0:10|h[Наплеч Змееубийцы]|h|r",
                     name = "Наплеч Змееубийцы",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
+                    name = "Броня гидролиска",
                     count = 1,
                 },
                 {
