@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794572595
+ItemStorageDB_LastUpdate = 1794572661
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22807,10 +22807,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 23:16:43",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-13 15:24:21",
         money = 194111,
-        empty = 44,
+        empty = 45,
         location = "Оргриммар",
         items = {
             {
@@ -22896,7 +22896,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
                 name = "Крест Жизни",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
@@ -23255,7 +23255,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794431785,
+            last_update = 1794572633,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23560,7 +23560,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794431798,
+            last_update = 1794572651,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23605,7 +23605,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
                     name = "Крест Жизни",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:1714:0:0:0:0:0:0:0:10|h[Ожерелье Калисеи]|h|r",
