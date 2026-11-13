@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794604140
+ItemStorageDB_LastUpdate = 1794604243
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6712,10 +6712,10 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 19:07:59",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-13 23:10:43",
         money = 404282,
-        empty = 136,
+        empty = 138,
         location = "Оргриммар",
         items = {
             {
@@ -6851,7 +6851,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
                 name = "Колода Мечей",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
@@ -6866,7 +6866,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
@@ -6945,7 +6945,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794586070,
+            last_update = 1794604197,
             items = {
                 {
                     link = "|cff0070dd|Hitem:19230:0:0:0:0:0:0:0:10|h[Двойка из колоды Зверей]|h|r",
@@ -7080,12 +7080,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794586073,
+            last_update = 1794604222,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
                     name = "Колода Мечей",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:44148:0:0:0:0:0:0:0:10|h[Колода Магов]|h|r",
@@ -7100,7 +7100,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                     name = "Колода Разбойников",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
