@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794585956
+ItemStorageDB_LastUpdate = 1794586000
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8287,8 +8287,8 @@ ItemStorageDB = {
     },
     {
         name = "Крошшерный",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-12 20:31:49",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-13 19:06:40",
         money = 3895,
         empty = 177,
         location = "Оргриммар",
@@ -8306,7 +8306,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:16647:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 3]|h|r",
                 name = "Руководство по использованию крошшера, стр. 3",
-                count = 16,
+                count = 17,
             },
             {
                 link = "|cffffffff|Hitem:16648:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 4]|h|r",
@@ -8355,7 +8355,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794508296,
+            last_update = 1794585993,
             items = {
                 {
                     link = "|cffffffff|Hitem:16645:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 1]|h|r",
@@ -8370,7 +8370,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:16647:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 3]|h|r",
                     name = "Руководство по использованию крошшера, стр. 3",
-                    count = 16,
+                    count = 17,
                 },
                 {
                     link = "|cffffffff|Hitem:16648:0:0:0:0:0:0:0:10|h[Руководство по использованию крошшера, стр. 4]|h|r",
@@ -8420,7 +8420,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794508303,
+            last_update = 1794585994,
             items = {
             },
         },
