@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794603851
+ItemStorageDB_LastUpdate = 1794603983
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6018,9 +6018,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 22:55:52",
+        updated_at = "2026-11-13 23:06:23",
         money = 778001,
-        empty = 47,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -6296,7 +6296,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
                 name = "Тяжелое точило",
-                count = 115,
+                count = 100,
             },
             {
                 link = "|cffffffff|Hitem:3239:0:0:0:0:0:0:0:10|h[Грубое грузило]|h|r",
@@ -6360,7 +6360,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794603319,
+            last_update = 1794603904,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6605,7 +6605,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794603320,
+            last_update = 1794603939,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6670,7 +6670,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2871:0:0:0:0:0:0:0:10|h[Тяжелое точило]|h|r",
                     name = "Тяжелое точило",
-                    count = 115,
+                    count = 100,
                 },
                 {
                     link = "|cffffffff|Hitem:3239:0:0:0:0:0:0:0:10|h[Грубое грузило]|h|r",
