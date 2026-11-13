@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794604331
+ItemStorageDB_LastUpdate = 1794605873
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6018,9 +6018,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 23:06:23",
+        updated_at = "2026-11-13 23:37:53",
         money = 778001,
-        empty = 48,
+        empty = 52,
         location = "Оргриммар",
         items = {
             {
@@ -6266,7 +6266,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
                 name = "Грубый камень",
-                count = 343,
+                count = 143,
             },
             {
                 link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
@@ -6360,7 +6360,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794603904,
+            last_update = 1794605867,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6460,7 +6460,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                     name = "Нефрит",
-                    count = 200,
+                    count = 203,
                 },
                 {
                     link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
@@ -6565,7 +6565,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2835:0:0:0:0:0:0:0:10|h[Грубый камень]|h|r",
                     name = "Грубый камень",
-                    count = 343,
+                    count = 143,
                 },
                 {
                     link = "|cffffffff|Hitem:2836:0:0:0:0:0:0:0:10|h[Необработанный камень]|h|r",
@@ -6605,17 +6605,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794603939,
+            last_update = 1794605868,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
                     name = "Извечная поясная пряжка",
                     count = 14,
-                },
-                {
-                    link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
-                    name = "Нефрит",
-                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:41976:0:0:0:0:0:0:0:10|h[Титановая цепь для оружия]|h|r",
