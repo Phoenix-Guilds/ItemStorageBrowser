@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794587638
+ItemStorageDB_LastUpdate = 1794587892
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9832,8 +9832,8 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-12 12:14:29",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-13 19:38:12",
         money = 14062,
         empty = 83,
         location = "Оргриммар",
@@ -9946,7 +9946,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                 name = "Средоточие Стихий",
-                count = 1012,
+                count = 1022,
             },
             {
                 link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -10045,7 +10045,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794351768,
+            last_update = 1794587886,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10145,7 +10145,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:22527:0:0:0:0:0:0:0:10|h[Средоточие Стихий]|h|r",
                     name = "Средоточие Стихий",
-                    count = 1012,
+                    count = 1022,
                 },
                 {
                     link = "|cffffffff|Hitem:22528:0:0:0:0:0:0:0:10|h[Пластины из темного железа]|h|r",
@@ -10245,7 +10245,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794478463,
+            last_update = 1794587887,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
