@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794603233
+ItemStorageDB_LastUpdate = 1794603352
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6017,10 +6017,10 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 19:47:48",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-13 22:55:52",
         money = 778001,
-        empty = 48,
+        empty = 47,
         location = "Оргриммар",
         items = {
             {
@@ -6091,7 +6091,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                 name = "Моховой агат",
-                count = 209,
+                count = 213,
             },
             {
                 link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
@@ -6111,7 +6111,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
                 name = "Огромный изумруд",
-                count = 20,
+                count = 7,
             },
             {
                 link = "|cff1eff00|Hitem:12799:0:0:0:0:0:0:0:10|h[Большой опал]|h|r",
@@ -6121,17 +6121,17 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12800:0:0:0:0:0:0:0:10|h[Азеротский алмаз]|h|r",
                 name = "Азеротский алмаз",
-                count = 31,
+                count = 20,
             },
             {
                 link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                 name = "Нефрит",
-                count = 199,
+                count = 203,
             },
             {
                 link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                 name = "Малый лунный камень",
-                count = 205,
+                count = 223,
             },
             {
                 link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
@@ -6221,7 +6221,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                 name = "Звездный рубин",
-                count = 76,
+                count = 82,
             },
             {
                 link = "|cff1eff00|Hitem:7967:0:0:0:0:0:0:0:10|h[Мифриловый шип для щита]|h|r",
@@ -6360,7 +6360,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794588461,
+            last_update = 1794603319,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6425,7 +6425,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:1206:0:0:0:0:0:0:0:10|h[Моховой агат]|h|r",
                     name = "Моховой агат",
-                    count = 209,
+                    count = 213,
                 },
                 {
                     link = "|cff1eff00|Hitem:1210:0:0:0:0:0:0:0:10|h[Камень теней]|h|r",
@@ -6445,7 +6445,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
                     name = "Огромный изумруд",
-                    count = 20,
+                    count = 7,
                 },
                 {
                     link = "|cff1eff00|Hitem:12799:0:0:0:0:0:0:0:10|h[Большой опал]|h|r",
@@ -6455,17 +6455,17 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12800:0:0:0:0:0:0:0:10|h[Азеротский алмаз]|h|r",
                     name = "Азеротский алмаз",
-                    count = 31,
+                    count = 20,
                 },
                 {
                     link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
                     name = "Нефрит",
-                    count = 199,
+                    count = 200,
                 },
                 {
                     link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                     name = "Малый лунный камень",
-                    count = 205,
+                    count = 223,
                 },
                 {
                     link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
@@ -6545,7 +6545,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                     name = "Звездный рубин",
-                    count = 76,
+                    count = 82,
                 },
                 {
                     link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
@@ -6605,12 +6605,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794588462,
+            last_update = 1794603320,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
                     name = "Извечная поясная пряжка",
                     count = 14,
+                },
+                {
+                    link = "|cff1eff00|Hitem:1529:0:0:0:0:0:0:0:10|h[Нефрит]|h|r",
+                    name = "Нефрит",
+                    count = 3,
                 },
                 {
                     link = "|cff1eff00|Hitem:41976:0:0:0:0:0:0:0:10|h[Титановая цепь для оружия]|h|r",
