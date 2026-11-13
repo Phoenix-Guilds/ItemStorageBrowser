@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794604109
+ItemStorageDB_LastUpdate = 1794604140
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23017,10 +23017,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 15:24:21",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-13 23:09:00",
         money = 194111,
-        empty = 45,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -23429,11 +23429,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
-                name = "Сверкающее ожерелье",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:30420:0:0:0:0:0:0:0:10|h[Тяжелое нефритовое кольцо]|h|r",
                 name = "Тяжелое нефритовое кольцо",
                 count = 3,
@@ -23465,7 +23460,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794572633,
+            last_update = 1794604043,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23770,7 +23765,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794572651,
+            last_update = 1794604101,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23896,11 +23891,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
                     name = "Малахитовая подвеска",
                     count = 2,
-                },
-                {
-                    link = "|cff1eff00|Hitem:30419:0:0:0:0:0:0:0:10|h[Сверкающее ожерелье]|h|r",
-                    name = "Сверкающее ожерелье",
-                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:1315:0:0:0:0:0:0:0:10|h[Гирлянда из лилий]|h|r",
