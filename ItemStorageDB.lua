@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794662846
+ItemStorageDB_LastUpdate = 1794662947
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21638,7 +21638,7 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 22:41:08",
+        updated_at = "2026-11-14 15:29:07",
         money = 203936,
         empty = 57,
         location = "Оргриммар",
@@ -22235,7 +22235,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794602415,
+            last_update = 1794662884,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22725,7 +22725,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1981:0:0:0:0:0:0:0:10|h[Кольчужный ледяной жакет]|h|r",
                     name = "Кольчужный ледяной жакет",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:2245:0:0:0:0:0:0:0:10|h[Шлем Нарва]|h|r",
@@ -22740,7 +22740,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794602438,
+            last_update = 1794662885,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
@@ -22900,6 +22900,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:14553:0:0:0:0:0:0:0:10|h[Кушак милосердия]|h|r",
                     name = "Кушак милосердия",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:1981:0:0:0:0:0:0:0:10|h[Кольчужный ледяной жакет]|h|r",
+                    name = "Кольчужный ледяной жакет",
                     count = 1,
                 },
                 {
