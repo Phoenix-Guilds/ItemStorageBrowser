@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794670723
+ItemStorageDB_LastUpdate = 1794670814
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21598,9 +21598,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-14 17:28:08",
+        updated_at = "2026-11-14 17:40:14",
         money = 203936,
-        empty = 59,
+        empty = 60,
         location = "Оргриммар",
         items = {
             {
@@ -21836,7 +21836,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
                 name = "Накидка черного призрака",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
@@ -22195,7 +22195,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794670025,
+            last_update = 1794670756,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22425,7 +22425,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
                     name = "Накидка черного призрака",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
@@ -22710,7 +22710,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794670069,
+            last_update = 1794670769,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
