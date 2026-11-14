@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794663048
+ItemStorageDB_LastUpdate = 1794665711
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10957,10 +10957,10 @@ ItemStorageDB = {
     },
     {
         name = "Нордочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 19:39:16",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-14 16:15:11",
         money = 3778,
-        empty = 34,
+        empty = 33,
         location = "Оргриммар",
         items = {
             {
@@ -11544,6 +11544,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:36405:0:0:0:0:0:-37:40:10|h[Двойная накидка с меткой целителя]|h|r",
+                name = "Двойная накидка с меткой целителя",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:36406:0:0:0:0:0:-14:42:10|h[Плащ скитальца со знаком тигра]|h|r",
                 name = "Плащ скитальца со знаком тигра",
                 count = 1,
@@ -11890,7 +11895,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794587947,
+            last_update = 1794665704,
             items = {
                 {
                     link = "|cff1eff00|Hitem:24812:0:0:0:0:0:-18:27:10|h[Наплеч Непреклонности со знаком ловкости]|h|r",
@@ -12473,6 +12478,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:36405:0:0:0:0:0:-37:40:10|h[Двойная накидка с меткой целителя]|h|r",
+                    name = "Двойная накидка с меткой целителя",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:36406:0:0:0:0:0:-14:42:10|h[Плащ скитальца со знаком тигра]|h|r",
                     name = "Плащ скитальца со знаком тигра",
                     count = 1,
@@ -12555,7 +12565,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794587950,
+            last_update = 1794665705,
             items = {
                 {
                     link = "|cff1eff00|Hitem:36445:0:0:0:0:0:-41:37:10|h[Склепанный щит с меткой зверя]|h|r",
