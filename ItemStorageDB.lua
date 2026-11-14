@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1794667429
+ItemStorageDB_LastUpdate = 1794668288
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 23:03:03",
+        updated_at = "2026-11-14 16:58:08",
         money = 339404,
         empty = 91,
         location = "Оргриммар",
@@ -81,7 +81,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40916:0:0:0:0:0:0:0:10|h[Символ звездного огня]|h|r",
                 name = "Символ звездного огня",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:40919:0:0:0:0:0:0:0:10|h[Символ роя насекомых]|h|r",
@@ -1270,7 +1270,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794603727,
+            last_update = 1794668265,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1345,7 +1345,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40916:0:0:0:0:0:0:0:10|h[Символ звездного огня]|h|r",
                     name = "Символ звездного огня",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:40919:0:0:0:0:0:0:0:10|h[Символ роя насекомых]|h|r",
@@ -2535,7 +2535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794603740,
+            last_update = 1794668272,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
