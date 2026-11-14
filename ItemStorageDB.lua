@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794673225
+ItemStorageDB_LastUpdate = 1794682889
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14098,9 +14098,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-11 00:17:32",
+        updated_at = "2026-11-14 21:01:29",
         money = 64134,
-        empty = 37,
+        empty = 39,
         location = "Оргриммар",
         items = {
             {
@@ -15139,11 +15139,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffffffff|Hitem:3394:0:0:0:0:0:0:0:10|h[Рецепт: эликсир излечения]|h|r",
-                name = "Рецепт: эликсир излечения",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:3830:0:0:0:0:0:0:0:10|h[Рецепт: эликсир стойкости]|h|r",
                 name = "Рецепт: эликсир стойкости",
                 count = 1,
@@ -15174,11 +15169,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
-                name = "Рецепт: эликсир силы огра",
-                count = 1,
-            },
-            {
                 link = "|cffffffff|Hitem:7362:0:0:0:0:0:0:0:10|h[Выкройка: кожаные наплечники земли]|h|r",
                 name = "Выкройка: кожаные наплечники земли",
                 count = 1,
@@ -15200,7 +15190,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794349042,
+            last_update = 1794682689,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -15958,11 +15948,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:3394:0:0:0:0:0:0:0:10|h[Рецепт: эликсир излечения]|h|r",
-                    name = "Рецепт: эликсир излечения",
-                    count = 1,
-                },
-                {
                     link = "|cffffffff|Hitem:3830:0:0:0:0:0:0:0:10|h[Рецепт: эликсир стойкости]|h|r",
                     name = "Рецепт: эликсир стойкости",
                     count = 1,
@@ -15993,11 +15978,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cffffffff|Hitem:6211:0:0:0:0:0:0:0:10|h[Рецепт: эликсир силы огра]|h|r",
-                    name = "Рецепт: эликсир силы огра",
-                    count = 1,
-                },
-                {
                     link = "|cffffffff|Hitem:7362:0:0:0:0:0:0:0:10|h[Выкройка: кожаные наплечники земли]|h|r",
                     name = "Выкройка: кожаные наплечники земли",
                     count = 1,
@@ -16020,7 +16000,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794349045,
+            last_update = 1794682744,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
