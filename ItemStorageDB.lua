@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794671248
+ItemStorageDB_LastUpdate = 1794671604
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21598,9 +21598,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-14 17:40:14",
+        updated_at = "2026-11-14 17:53:24",
         money = 203936,
-        empty = 60,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -21656,7 +21656,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
                 name = "Отделанный серебром пояс",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
@@ -22195,7 +22195,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794670756,
+            last_update = 1794671577,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22250,7 +22250,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
                     name = "Отделанный серебром пояс",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
@@ -22710,7 +22710,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794670769,
+            last_update = 1794671597,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
