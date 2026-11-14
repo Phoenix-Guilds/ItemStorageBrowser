@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794670814
+ItemStorageDB_LastUpdate = 1794671202
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8673,9 +8673,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-14 17:20:37",
+        updated_at = "2026-11-14 17:46:42",
         money = 41967,
-        empty = 187,
+        empty = 188,
         location = "Оргриммар",
         items = {
             {
@@ -8801,7 +8801,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
                 name = "Железный слиток",
-                count = 391,
+                count = 387,
             },
             {
                 link = "|cffffffff|Hitem:3576:0:0:0:0:0:0:0:10|h[Оловянный слиток]|h|r",
@@ -8835,7 +8835,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794669622,
+            last_update = 1794671180,
             items = {
                 {
                     link = "|cff1eff00|Hitem:23426:0:0:0:0:0:0:0:10|h[Кориевая руда]|h|r",
@@ -8950,7 +8950,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
                     name = "Медный слиток",
-                    count = 99,
+                    count = 49,
                 },
                 {
                     link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
@@ -8995,12 +8995,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794669625,
+            last_update = 1794671182,
             items = {
                 {
-                    link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
-                    name = "Железный слиток",
-                    count = 4,
+                    link = "|cffffffff|Hitem:2840:0:0:0:0:0:0:0:10|h[Медный слиток]|h|r",
+                    name = "Медный слиток",
+                    count = 50,
                 },
             },
         },
