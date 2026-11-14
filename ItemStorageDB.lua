@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794662947
+ItemStorageDB_LastUpdate = 1794663048
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,7 +2568,7 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 22:38:50",
+        updated_at = "2026-11-14 15:30:48",
         money = 92710,
         empty = 61,
         location = "Оргриммар",
@@ -3059,6 +3059,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffa335ee|Hitem:1981:0:0:0:0:0:0:0:10|h[Кольчужный ледяной жакет]|h|r",
+                name = "Кольчужный ледяной жакет",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:1982:0:0:0:0:0:0:0:10|h[Ночной клинок]|h|r",
                 name = "Ночной клинок",
                 count = 1,
@@ -3082,11 +3087,6 @@ ItemStorageDB = {
                 link = "|cffa335ee|Hitem:2244:0:0:0:0:0:0:0:10|h[Клинок Крола]|h|r",
                 name = "Клинок Крола",
                 count = 2,
-            },
-            {
-                link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
-                name = "Канг Обезглавливатель",
-                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:2801:0:0:0:0:0:0:0:10|h[Клинок Ханны]|h|r",
@@ -3155,7 +3155,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794602272,
+            last_update = 1794662976,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3588,11 +3588,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
-                    name = "Канг Обезглавливатель",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:2801:0:0:0:0:0:0:0:10|h[Клинок Ханны]|h|r",
                     name = "Клинок Ханны",
                     count = 1,
@@ -3650,7 +3645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794602292,
+            last_update = 1794663002,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3775,6 +3770,11 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:14555:0:0:0:0:0:0:0:10|h[Солнечное лезвие Алькора]|h|r",
                     name = "Солнечное лезвие Алькора",
+                    count = 1,
+                },
+                {
+                    link = "|cffa335ee|Hitem:1981:0:0:0:0:0:0:0:10|h[Кольчужный ледяной жакет]|h|r",
+                    name = "Кольчужный ледяной жакет",
                     count = 1,
                 },
                 {
