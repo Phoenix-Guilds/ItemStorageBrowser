@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794755785
+ItemStorageDB_LastUpdate = 1794756354
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-14 15:30:48",
+        updated_at = "2026-11-15 17:25:54",
         money = 92710,
-        empty = 61,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -2816,7 +2816,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -2962,11 +2962,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:754:0:0:0:0:0:0:0:10|h[Короткий меч отмщения]|h|r",
                 name = "Короткий меч отмщения",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:7752:0:0:0:0:0:0:0:10|h[Сноубийца]|h|r",
-                name = "Сноубийца",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
@@ -3155,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794662976,
+            last_update = 1794756343,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3498,11 +3493,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:7752:0:0:0:0:0:0:0:10|h[Сноубийца]|h|r",
-                    name = "Сноубийца",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:7753:0:0:0:0:0:0:0:10|h[Кровопроливец]|h|r",
                     name = "Кровопроливец",
                     count = 1,
@@ -3645,7 +3635,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794663002,
+            last_update = 1794756347,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3705,7 +3695,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
