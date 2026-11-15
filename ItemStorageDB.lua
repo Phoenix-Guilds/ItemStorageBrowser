@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794782717
+ItemStorageDB_LastUpdate = 1794783106
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9877,10 +9877,10 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-15 14:24:41",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 00:51:46",
         money = 14062,
-        empty = 83,
+        empty = 84,
         location = "Оргриммар",
         items = {
             {
@@ -9894,14 +9894,9 @@ ItemStorageDB = {
                 count = 4,
             },
             {
-                link = "|cff1eff00|Hitem:29739:0:0:0:0:0:0:0:10|h[Чародейский фолиант]|h|r",
-                name = "Чародейский фолиант",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
-                count = 5,
+                count = 7,
             },
             {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
@@ -10081,7 +10076,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
                 name = "Радужное перо",
-                count = 54,
+                count = 56,
             },
             {
                 link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
@@ -10095,7 +10090,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794741873,
+            last_update = 1794783066,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10108,14 +10103,9 @@ ItemStorageDB = {
                     count = 4,
                 },
                 {
-                    link = "|cff1eff00|Hitem:29739:0:0:0:0:0:0:0:10|h[Чародейский фолиант]|h|r",
-                    name = "Чародейский фолиант",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                     name = "Латные перчатки Скверны",
-                    count = 5,
+                    count = 7,
                 },
                 {
                     link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
@@ -10285,7 +10275,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5117:0:0:0:0:0:0:0:10|h[Радужное перо]|h|r",
                     name = "Радужное перо",
-                    count = 54,
+                    count = 56,
                 },
                 {
                     link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
@@ -10300,7 +10290,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794741875,
+            last_update = 1794783087,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
