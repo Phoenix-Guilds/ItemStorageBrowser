@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794785459
+ItemStorageDB_LastUpdate = 1794785492
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10377,10 +10377,10 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-15 14:27:00",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 01:31:32",
         money = 213874,
-        empty = 54,
+        empty = 53,
         location = "Оргриммар",
         items = {
             {
@@ -10621,7 +10621,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                 name = "Охлажденное мясо",
-                count = 1538,
+                count = 1588,
             },
             {
                 link = "|cffffffff|Hitem:43501:0:0:0:0:0:0:0:10|h[Нордскольское яйцо]|h|r",
@@ -10695,7 +10695,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794742012,
+            last_update = 1794785484,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10985,7 +10985,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794742013,
+            last_update = 1794785486,
             items = {
                 {
                     link = "|cffffffff|Hitem:12203:0:0:0:0:0:0:0:10|h[Красное волчье мясо]|h|r",
@@ -11025,7 +11025,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
                     name = "Охлажденное мясо",
-                    count = 1538,
+                    count = 1588,
                 },
                 {
                     link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
