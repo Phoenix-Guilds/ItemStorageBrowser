@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794783261
+ItemStorageDB_LastUpdate = 1794783307
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5983,7 +5983,7 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-15 17:30:30",
+        updated_at = "2026-11-16 00:55:07",
         money = 778001,
         empty = 56,
         location = "Оргриммар",
@@ -6131,7 +6131,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:36917:0:0:0:0:0:0:0:10|h[Кровавый камень]|h|r",
                 name = "Кровавый камень",
-                count = 18,
+                count = 20,
             },
             {
                 link = "|cff1eff00|Hitem:36920:0:0:0:0:0:0:0:10|h[Солнечный хрусталь]|h|r",
@@ -6181,12 +6181,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
                 name = "Аквамарин",
-                count = 290,
+                count = 291,
             },
             {
                 link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                 name = "Звездный рубин",
-                count = 86,
+                count = 87,
             },
             {
                 link = "|cff1eff00|Hitem:7967:0:0:0:0:0:0:0:10|h[Мифриловый шип для щита]|h|r",
@@ -6320,7 +6320,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794756562,
+            last_update = 1794783302,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6460,7 +6460,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:36917:0:0:0:0:0:0:0:10|h[Кровавый камень]|h|r",
                     name = "Кровавый камень",
-                    count = 18,
+                    count = 20,
                 },
                 {
                     link = "|cff1eff00|Hitem:36920:0:0:0:0:0:0:0:10|h[Солнечный хрусталь]|h|r",
@@ -6500,12 +6500,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
                     name = "Аквамарин",
-                    count = 290,
+                    count = 291,
                 },
                 {
                     link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                     name = "Звездный рубин",
-                    count = 86,
+                    count = 87,
                 },
                 {
                     link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
@@ -6565,7 +6565,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794756578,
+            last_update = 1794783303,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
