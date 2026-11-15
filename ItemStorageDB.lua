@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794741720
+ItemStorageDB_LastUpdate = 1794741755
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21727,10 +21727,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-14 17:53:24",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-15 14:22:35",
         money = 203936,
-        empty = 61,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -21926,6 +21926,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13113:0:0:0:0:0:0:0:10|h[Головной убор Оперенной Луны]|h|r",
                 name = "Головной убор Оперенной Луны",
+                count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
+                name = "Поножи Троллегубителя",
                 count = 2,
             },
             {
@@ -22325,7 +22330,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794671577,
+            last_update = 1794741748,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22515,6 +22520,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13113:0:0:0:0:0:0:0:10|h[Головной убор Оперенной Луны]|h|r",
                     name = "Головной убор Оперенной Луны",
+                    count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
+                    name = "Поножи Троллегубителя",
                     count = 2,
                 },
                 {
@@ -22840,7 +22850,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794671597,
+            last_update = 1794741748,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
