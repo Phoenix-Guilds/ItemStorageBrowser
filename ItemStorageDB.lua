@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794782577
+ItemStorageDB_LastUpdate = 1794782618
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9017,8 +9017,8 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 19:24:39",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 00:43:38",
         money = 208636,
         empty = 57,
         location = "Оргриммар",
@@ -9241,7 +9241,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                 name = "Зелье маны",
-                count = 61,
+                count = 68,
             },
             {
                 link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
@@ -9440,7 +9440,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794587066,
+            last_update = 1794782610,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9760,7 +9760,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794587067,
+            last_update = 1794782613,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9845,7 +9845,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3827:0:0:0:0:0:0:0:10|h[Зелье маны]|h|r",
                     name = "Зелье маны",
-                    count = 61,
+                    count = 68,
                 },
                 {
                     link = "|cffffffff|Hitem:3928:0:0:0:0:0:0:0:10|h[Большой флакон с лечебным зельем]|h|r",
