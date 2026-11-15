@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794782368
+ItemStorageDB_LastUpdate = 1794782489
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23107,10 +23107,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-15 14:22:00",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 00:41:29",
         money = 194111,
-        empty = 42,
+        empty = 41,
         location = "Оргриммар",
         items = {
             {
@@ -23359,6 +23359,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:12047:0:0:0:0:0:1186:0:10|h[Призрачное ожерелье со знаком медведя]|h|r",
+                name = "Призрачное ожерелье со знаком медведя",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:12053:0:0:0:0:0:0:0:10|h[Кольцо из вулканического камня]|h|r",
                 name = "Кольцо из вулканического камня",
                 count = 1,
@@ -23560,7 +23565,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794741713,
+            last_update = 1794782438,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23870,7 +23875,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794741715,
+            last_update = 1794782440,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23945,6 +23950,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12042:0:0:0:0:0:514:0:10|h[Болотная цепь со знаком волка]|h|r",
                     name = "Болотная цепь со знаком волка",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:12047:0:0:0:0:0:1186:0:10|h[Призрачное ожерелье со знаком медведя]|h|r",
+                    name = "Призрачное ожерелье со знаком медведя",
                     count = 1,
                 },
                 {
