@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794783307
+ItemStorageDB_LastUpdate = 1794783363
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5592,8 +5592,8 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 15:22:30",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 00:56:03",
         money = 16160,
         empty = 138,
         location = "Оргриммар",
@@ -5644,6 +5644,11 @@ ItemStorageDB = {
                 count = 30,
             },
             {
+                link = "|cffffffff|Hitem:20816:0:0:0:0:0:0:0:10|h[Тонкая медная проволока]|h|r",
+                name = "Тонкая медная проволока",
+                count = 28,
+            },
+            {
                 link = "|cffffffff|Hitem:23737:0:0:0:0:0:0:0:10|h[Адамантитовая граната]|h|r",
                 name = "Адамантитовая граната",
                 count = 4,
@@ -5691,7 +5696,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
                 name = "Гномский армейский нож",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
@@ -5785,7 +5790,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794572522,
+            last_update = 1794783356,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5831,6 +5836,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:18631:0:0:0:0:0:0:0:10|h[Преобразователь истинного серебра]|h|r",
                     name = "Преобразователь истинного серебра",
                     count = 30,
+                },
+                {
+                    link = "|cffffffff|Hitem:20816:0:0:0:0:0:0:0:10|h[Тонкая медная проволока]|h|r",
+                    name = "Тонкая медная проволока",
+                    count = 28,
                 },
                 {
                     link = "|cffffffff|Hitem:23737:0:0:0:0:0:0:0:10|h[Адамантитовая граната]|h|r",
@@ -5880,7 +5890,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40772:0:0:0:0:0:0:0:10|h[Гномский армейский нож]|h|r",
                     name = "Гномский армейский нож",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:40892:0:0:0:0:0:0:0:10|h[Кирка-молот]|h|r",
@@ -5975,7 +5985,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794572538,
+            last_update = 1794783357,
             items = {
             },
         },
