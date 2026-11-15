@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794784484
+ItemStorageDB_LastUpdate = 1794785088
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 00:42:57",
+        updated_at = "2026-11-16 01:24:48",
         money = 92710,
-        empty = 64,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -2606,7 +2606,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
                 name = "Клинок Многоглаза",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
@@ -3150,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794782543,
+            last_update = 1794785073,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3635,11 +3635,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794782562,
+            last_update = 1794785083,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                     name = "Эгида Штормграда",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12976:0:0:0:0:0:0:0:10|h[Клинок Многоглаза]|h|r",
+                    name = "Клинок Многоглаза",
                     count = 1,
                 },
                 {
