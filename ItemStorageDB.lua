@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794783106
+ItemStorageDB_LastUpdate = 1794783135
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14128,9 +14128,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 00:38:45",
+        updated_at = "2026-11-16 00:52:15",
         money = 64134,
-        empty = 38,
+        empty = 37,
         location = "Оргриммар",
         items = {
             {
@@ -14476,6 +14476,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:14470:0:0:0:0:0:0:0:10|h[Выкройка: мундир из рунной ткани]|h|r",
                 name = "Выкройка: мундир из рунной ткани",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:14471:0:0:0:0:0:0:0:10|h[Выкройка: жилет из пепельной ткани]|h|r",
+                name = "Выкройка: жилет из пепельной ткани",
                 count = 1,
             },
             {
@@ -15225,7 +15230,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794782317,
+            last_update = 1794783127,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -16045,7 +16050,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794782319,
+            last_update = 1794783130,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
@@ -16175,6 +16180,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:13491:0:0:0:0:0:0:0:10|h[Рецепт: эликсир мангуста]|h|r",
                     name = "Рецепт: эликсир мангуста",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:14471:0:0:0:0:0:0:0:10|h[Выкройка: жилет из пепельной ткани]|h|r",
+                    name = "Выкройка: жилет из пепельной ткани",
                     count = 1,
                 },
                 {
