@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794782325
+ItemStorageDB_LastUpdate = 1794782368
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24028,9 +24028,9 @@ ItemStorageDB = {
     {
         name = "Сокетная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 23:38:05",
+        updated_at = "2026-11-16 00:39:28",
         money = 13534,
-        empty = 203,
+        empty = 202,
         location = "Оргриммар",
         items = {
             {
@@ -24042,6 +24042,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
                 name = "Стремительный алмаз небесного сияния",
                 count = 3,
+            },
+            {
+                link = "|cff1eff00|Hitem:23108:0:0:0:0:0:0:0:10|h[Светящийся сумрачный дренит]|h|r",
+                name = "Светящийся сумрачный дренит",
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:39911:0:0:0:0:0:0:0:10|h[Рунический кровавый камень]|h|r",
@@ -24065,7 +24070,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794346676,
+            last_update = 1794782357,
             items = {
                 {
                     link = "|cff0070dd|Hitem:40012:0:0:0:0:0:0:0:10|h[Сверкающее сияние осени]|h|r",
@@ -24076,6 +24081,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41339:0:0:0:0:0:0:0:10|h[Стремительный алмаз небесного сияния]|h|r",
                     name = "Стремительный алмаз небесного сияния",
                     count = 3,
+                },
+                {
+                    link = "|cff1eff00|Hitem:23108:0:0:0:0:0:0:0:10|h[Светящийся сумрачный дренит]|h|r",
+                    name = "Светящийся сумрачный дренит",
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:39911:0:0:0:0:0:0:0:10|h[Рунический кровавый камень]|h|r",
@@ -24100,7 +24110,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794346681,
+            last_update = 1794782361,
             items = {
             },
         },
