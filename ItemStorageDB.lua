@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794756354
+ItemStorageDB_LastUpdate = 1794756505
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21852,10 +21852,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-15 14:22:35",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-15 17:28:25",
         money = 203936,
-        empty = 59,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -21906,7 +21906,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                 name = "Набедренники Снопевца",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -21916,7 +21916,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
                 name = "Наручи Йоргена",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -22261,7 +22261,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                 name = "Двойной мундир",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
@@ -22376,7 +22376,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                 name = "Ремень силы голема",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
@@ -22455,7 +22455,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794741748,
+            last_update = 1794756460,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22505,7 +22505,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13010:0:0:0:0:0:0:0:10|h[Набедренники Снопевца]|h|r",
                     name = "Набедренники Снопевца",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13011:0:0:0:0:0:0:0:10|h[Отделанный серебром пояс]|h|r",
@@ -22515,7 +22515,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13012:0:0:0:0:0:0:0:10|h[Наручи Йоргена]|h|r",
                     name = "Наручи Йоргена",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13029:0:0:0:0:0:0:0:10|h[Мрачный кристалл]|h|r",
@@ -22843,11 +22843,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
-                    name = "Двойной мундир",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                     name = "Штаны из шкуры василиска",
                     count = 2,
@@ -22975,7 +22970,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794741748,
+            last_update = 1794756480,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -23085,7 +23080,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                     name = "Ремень силы голема",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
