@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794783363
+ItemStorageDB_LastUpdate = 1794783402
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13327,8 +13327,8 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 15:25:04",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 00:56:42",
         money = 13104,
         empty = 53,
         location = "Оргриммар",
@@ -13481,7 +13481,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                 name = "Пристрелянный огнестрел",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -13506,11 +13506,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:44739:0:0:0:0:0:0:0:10|h[Рефракторный прицел с бриллиантовой огранкой]|h|r",
                 name = "Рефракторный прицел с бриллиантовой огранкой",
-                count = 13,
+                count = 17,
             },
         },
         bank = {
-            last_update = 1794572683,
+            last_update = 1794783393,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13625,7 +13625,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2100:0:0:0:0:0:0:0:10|h[Пристрелянный огнестрел]|h|r",
                     name = "Пристрелянный огнестрел",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffa335ee|Hitem:2824:0:0:0:0:0:0:0:10|h[Гроза]|h|r",
@@ -13640,7 +13640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794572696,
+            last_update = 1794783396,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -13690,7 +13690,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:44739:0:0:0:0:0:0:0:10|h[Рефракторный прицел с бриллиантовой огранкой]|h|r",
                     name = "Рефракторный прицел с бриллиантовой огранкой",
-                    count = 13,
+                    count = 17,
                 },
             },
         },
