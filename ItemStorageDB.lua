@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794741931
+ItemStorageDB_LastUpdate = 1794741967
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7182,10 +7182,10 @@ ItemStorageDB = {
     },
     {
         name = "Кожистая",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-14 21:24:40",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-15 14:26:07",
         money = 324084,
-        empty = 93,
+        empty = 91,
         location = "Оргриммар",
         items = {
             {
@@ -7411,7 +7411,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 1073,
+                count = 1109,
             },
             {
                 link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
@@ -7431,7 +7431,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
                 name = "Плотная кожа",
-                count = 833,
+                count = 848,
             },
             {
                 link = "|cffffffff|Hitem:4461:0:0:0:0:0:0:0:10|h[Шкура ящера]|h|r",
@@ -7520,7 +7520,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794684190,
+            last_update = 1794741960,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7770,7 +7770,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794684266,
+            last_update = 1794741961,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7858,9 +7858,19 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
+                    link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
+                    name = "Толстая кожа",
+                    count = 36,
+                },
+                {
                     link = "|cffffffff|Hitem:4265:0:0:0:0:0:0:0:10|h[Накладки из толстой кожи]|h|r",
                     name = "Накладки из толстой кожи",
                     count = 6,
+                },
+                {
+                    link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
+                    name = "Плотная кожа",
+                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:5373:0:0:0:0:0:0:0:10|h[Талисман на удачу]|h|r",
