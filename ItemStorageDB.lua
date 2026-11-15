@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794742062
+ItemStorageDB_LastUpdate = 1794742133
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13722,8 +13722,8 @@ ItemStorageDB = {
     },
     {
         name = "Пыляшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-13 23:08:29",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-15 14:28:53",
         money = 385478,
         empty = 83,
         location = "Оргриммар",
@@ -13781,7 +13781,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:10|h[Маленький осколок грез]|h|r",
                 name = "Маленький осколок грез",
-                count = 622,
+                count = 623,
             },
             {
                 link = "|cff1eff00|Hitem:10938:0:0:0:0:0:0:0:10|h[Малая магическая субстанция]|h|r",
@@ -13836,7 +13836,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:34056:0:0:0:0:0:0:0:10|h[Малая космическая субстанция]|h|r",
                 name = "Малая космическая субстанция",
-                count = 140,
+                count = 145,
             },
             {
                 link = "|cffa335ee|Hitem:20725:0:0:0:0:0:0:0:10|h[Кристалл-источник]|h|r",
@@ -13950,7 +13950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794604030,
+            last_update = 1794742091,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
@@ -14005,7 +14005,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:34053:0:0:0:0:0:0:0:10|h[Маленький осколок грез]|h|r",
                     name = "Маленький осколок грез",
-                    count = 622,
+                    count = 623,
                 },
                 {
                     link = "|cff1eff00|Hitem:10938:0:0:0:0:0:0:0:10|h[Малая магическая субстанция]|h|r",
@@ -14060,7 +14060,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:34056:0:0:0:0:0:0:0:10|h[Малая космическая субстанция]|h|r",
                     name = "Малая космическая субстанция",
-                    count = 140,
+                    count = 145,
                 },
                 {
                     link = "|cffa335ee|Hitem:20725:0:0:0:0:0:0:0:10|h[Кристалл-источник]|h|r",
@@ -14135,7 +14135,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794604090,
+            last_update = 1794742092,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
