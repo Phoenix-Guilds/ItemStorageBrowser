@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794756505
+ItemStorageDB_LastUpdate = 1794756630
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6012,10 +6012,10 @@ ItemStorageDB = {
     },
     {
         name = "Каменюшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-15 14:32:37",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-15 17:30:30",
         money = 778001,
-        empty = 55,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -6304,11 +6304,6 @@ ItemStorageDB = {
                 count = 41,
             },
             {
-                link = "|cffffffff|Hitem:3241:0:0:0:0:0:0:0:10|h[Тяжелое грузило]|h|r",
-                name = "Тяжелое грузило",
-                count = 25,
-            },
-            {
                 link = "|cffffffff|Hitem:3470:0:0:0:0:0:0:0:10|h[Грубый шлифовальный камень]|h|r",
                 name = "Грубый шлифовальный камень",
                 count = 100,
@@ -6355,7 +6350,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794742349,
+            last_update = 1794756562,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6600,7 +6595,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794742351,
+            last_update = 1794756578,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6671,11 +6666,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
                     name = "Зернистое грузило",
                     count = 41,
-                },
-                {
-                    link = "|cffffffff|Hitem:3241:0:0:0:0:0:0:0:10|h[Тяжелое грузило]|h|r",
-                    name = "Тяжелое грузило",
-                    count = 25,
                 },
                 {
                     link = "|cffffffff|Hitem:6041:0:0:0:0:0:0:0:10|h[Стальная цепь для оружия]|h|r",
