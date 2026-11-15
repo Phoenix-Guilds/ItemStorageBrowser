@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794741881
+ItemStorageDB_LastUpdate = 1794741931
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19153,9 +19153,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-15 14:16:43",
+        updated_at = "2026-11-15 14:25:31",
         money = 150602,
-        empty = 110,
+        empty = 107,
         location = "Оргриммар",
         items = {
             {
@@ -19211,7 +19211,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                 name = "Шерсть",
-                count = 165,
+                count = 168,
             },
             {
                 link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
@@ -19246,7 +19246,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 1142,
+                count = 1292,
             },
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
@@ -19285,7 +19285,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794741393,
+            last_update = 1794741925,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -19395,7 +19395,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794741397,
+            last_update = 1794741927,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -19420,12 +19420,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                     name = "Шерсть",
-                    count = 165,
+                    count = 168,
                 },
                 {
                     link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                     name = "Шелковый материал",
-                    count = 8,
+                    count = 158,
                 },
                 {
                     link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
