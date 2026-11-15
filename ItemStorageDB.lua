@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794784023
+ItemStorageDB_LastUpdate = 1794784072
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19438,15 +19438,15 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-14 21:07:39",
+        updated_at = "2026-11-16 01:07:52",
         money = 475064,
-        empty = 113,
+        empty = 111,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
                 name = "Черный лотос",
-                count = 53,
+                count = 69,
             },
             {
                 link = "|cff1eff00|Hitem:22794:0:0:0:0:0:0:0:10|h[Лотос Скверны]|h|r",
@@ -19486,7 +19486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                 name = "Золотой сансам",
-                count = 141,
+                count = 191,
             },
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
@@ -19556,12 +19556,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 113,
+                count = 134,
             },
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                 name = "Корень жизни",
-                count = 72,
+                count = 99,
             },
             {
                 link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
@@ -19621,12 +19621,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 46,
+                count = 96,
             },
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
-                count = 167,
+                count = 194,
             },
             {
                 link = "|cffffffff|Hitem:39505:0:0:0:0:0:0:0:10|h[Набор виртуозного начертателя]|h|r",
@@ -19710,12 +19710,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794683156,
+            last_update = 1794784061,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
                     name = "Черный лотос",
-                    count = 53,
+                    count = 69,
                 },
                 {
                     link = "|cff1eff00|Hitem:22794:0:0:0:0:0:0:0:10|h[Лотос Скверны]|h|r",
@@ -19740,7 +19740,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13464:0:0:0:0:0:0:0:10|h[Золотой сансам]|h|r",
                     name = "Золотой сансам",
-                    count = 141,
+                    count = 191,
                 },
                 {
                     link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
@@ -19810,12 +19810,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                     name = "Королевская кровь",
-                    count = 113,
+                    count = 134,
                 },
                 {
                     link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
                     name = "Корень жизни",
-                    count = 72,
+                    count = 99,
                 },
                 {
                     link = "|cffffffff|Hitem:3358:0:0:0:0:0:0:0:10|h[Кадгаров ус]|h|r",
@@ -19870,12 +19870,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                     name = "Удавник",
-                    count = 46,
+                    count = 96,
                 },
                 {
                     link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                     name = "Златошип",
-                    count = 167,
+                    count = 194,
                 },
                 {
                     link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
@@ -19930,7 +19930,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794683241,
+            last_update = 1794784067,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
