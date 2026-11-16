@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1794844480
+ItemStorageDB_LastUpdate = 1794845660
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 11:41:13",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 18:14:20",
         money = 339404,
         empty = 91,
         location = "Оргриммар",
@@ -871,7 +871,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
                 name = "Символ боевого крика",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
@@ -946,7 +946,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43421:0:0:0:0:0:0:0:10|h[Символ смертельного удара]|h|r",
                 name = "Символ смертельного удара",
-                count = 9,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:43422:0:0:0:0:0:0:0:10|h[Символ превосходства]|h|r",
@@ -1270,7 +1270,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794818460,
+            last_update = 1794845579,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2135,7 +2135,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43395:0:0:0:0:0:0:0:10|h[Символ боевого крика]|h|r",
                     name = "Символ боевого крика",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:43396:0:0:0:0:0:0:0:10|h[Символ кровавой ярости]|h|r",
@@ -2210,7 +2210,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43421:0:0:0:0:0:0:0:10|h[Символ смертельного удара]|h|r",
                     name = "Символ смертельного удара",
-                    count = 9,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:43422:0:0:0:0:0:0:0:10|h[Символ превосходства]|h|r",
@@ -2535,7 +2535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794818467,
+            last_update = 1794845637,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
