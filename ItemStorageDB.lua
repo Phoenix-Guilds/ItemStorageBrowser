@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794843874
+ItemStorageDB_LastUpdate = 1794844480
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21758,9 +21758,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 16:54:42",
+        updated_at = "2026-11-16 17:54:40",
         money = 203936,
-        empty = 63,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -21926,7 +21926,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
                 name = "Мантия тигриного прыжка",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
@@ -22360,7 +22360,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794840825,
+            last_update = 1794844450,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22875,7 +22875,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794840870,
+            last_update = 1794844468,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -22900,11 +22900,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13077:0:0:0:0:0:0:0:10|h[Ремень Утера]|h|r",
                     name = "Ремень Утера",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13108:0:0:0:0:0:0:0:10|h[Мантия тигриного прыжка]|h|r",
-                    name = "Мантия тигриного прыжка",
                     count = 1,
                 },
                 {
