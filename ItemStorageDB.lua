@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794854968
+ItemStorageDB_LastUpdate = 1794859664
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9913,9 +9913,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 16:14:07",
+        updated_at = "2026-11-16 23:07:44",
         money = 14062,
-        empty = 85,
+        empty = 87,
         location = "Оргриммар",
         items = {
             {
@@ -10039,16 +10039,6 @@ ItemStorageDB = {
                 count = 93,
             },
             {
-                link = "|cffffffff|Hitem:24290:0:0:0:0:0:0:0:10|h[Мешочек зрелых спор]|h|r",
-                name = "Мешочек зрелых спор",
-                count = 9,
-            },
-            {
-                link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
-                name = "Усик болотника",
-                count = 30,
-            },
-            {
                 link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
                 name = "Неопознанные части растений",
                 count = 172,
@@ -10125,7 +10115,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794834824,
+            last_update = 1794859645,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10238,16 +10228,6 @@ ItemStorageDB = {
                     count = 93,
                 },
                 {
-                    link = "|cffffffff|Hitem:24290:0:0:0:0:0:0:0:10|h[Мешочек зрелых спор]|h|r",
-                    name = "Мешочек зрелых спор",
-                    count = 9,
-                },
-                {
-                    link = "|cffffffff|Hitem:24291:0:0:0:0:0:0:0:10|h[Усик болотника]|h|r",
-                    name = "Усик болотника",
-                    count = 30,
-                },
-                {
                     link = "|cffffffff|Hitem:24401:0:0:0:0:0:0:0:10|h[Неопознанные части растений]|h|r",
                     name = "Неопознанные части растений",
                     count = 172,
@@ -10325,7 +10305,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794834840,
+            last_update = 1794859645,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
