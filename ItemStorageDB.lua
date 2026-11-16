@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794848123
+ItemStorageDB_LastUpdate = 1794854605
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21667,10 +21667,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 17:54:40",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 21:43:25",
         money = 203936,
-        empty = 64,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -21842,11 +21842,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
                 name = "Накидка черного пламени",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
-                name = "Портупея волчьего страха",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13111:0:0:0:0:0:0:0:10|h[Сандалии мятежника]|h|r",
@@ -22096,7 +22091,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                 name = "Сапоги тиноброда",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
@@ -22270,7 +22265,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794844450,
+            last_update = 1794854566,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22436,11 +22431,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13109:0:0:0:0:0:0:0:10|h[Накидка черного пламени]|h|r",
                     name = "Накидка черного пламени",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13110:0:0:0:0:0:0:0:10|h[Портупея волчьего страха]|h|r",
-                    name = "Портупея волчьего страха",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13111:0:0:0:0:0:0:0:10|h[Сандалии мятежника]|h|r",
@@ -22675,7 +22665,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                     name = "Сапоги тиноброда",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
@@ -22785,7 +22775,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794844468,
+            last_update = 1794854586,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
