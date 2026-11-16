@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794833171
+ItemStorageDB_LastUpdate = 1794833209
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6737,10 +6737,10 @@ ItemStorageDB = {
     },
     {
         name = "Карточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 01:33:03",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 15:46:49",
         money = 404282,
-        empty = 136,
+        empty = 139,
         location = "Оргриммар",
         items = {
             {
@@ -6811,7 +6811,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:19269:0:0:0:0:0:0:0:10|h[Двойка из колоды Элементалей]|h|r",
                 name = "Двойка из колоды Элементалей",
-                count = 13,
+                count = 12,
             },
             {
                 link = "|cff0070dd|Hitem:19270:0:0:0:0:0:0:0:10|h[Тройка из колоды Элементалей]|h|r",
@@ -6891,7 +6891,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                 name = "Колода Разбойников",
-                count = 8,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
@@ -6970,7 +6970,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794785557,
+            last_update = 1794063738,
             items = {
                 {
                     link = "|cff0070dd|Hitem:19230:0:0:0:0:0:0:0:10|h[Двойка из колоды Зверей]|h|r",
@@ -7040,7 +7040,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:19269:0:0:0:0:0:0:0:10|h[Двойка из колоды Элементалей]|h|r",
                     name = "Двойка из колоды Элементалей",
-                    count = 13,
+                    count = 12,
                 },
                 {
                     link = "|cff0070dd|Hitem:19270:0:0:0:0:0:0:0:10|h[Тройка из колоды Элементалей]|h|r",
@@ -7105,7 +7105,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794785576,
+            last_update = 1794833197,
             items = {
                 {
                     link = "|cff0070dd|Hitem:37164:0:0:0:0:0:0:0:10|h[Колода Мечей]|h|r",
@@ -7125,7 +7125,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:37163:0:0:0:0:0:0:0:10|h[Колода Разбойников]|h|r",
                     name = "Колода Разбойников",
-                    count = 8,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:37140:0:0:0:0:0:0:0:10|h[Туз из колоды Разбойников]|h|r",
