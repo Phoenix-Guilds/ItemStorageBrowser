@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1794854860
+ItemStorageDB_LastUpdate = 1794854968
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 18:16:35",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 21:49:28",
         money = 339404,
         empty = 91,
         location = "Оргриммар",
@@ -256,7 +256,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41542:0:0:0:0:0:0:0:10|h[Символ оружия неистовства ветра]|h|r",
                 name = "Символ оружия неистовства ветра",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:41547:0:0:0:0:0:0:0:10|h[Символ ледяного шока]|h|r",
@@ -1270,7 +1270,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794845723,
+            last_update = 1794854929,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1520,7 +1520,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41542:0:0:0:0:0:0:0:10|h[Символ оружия неистовства ветра]|h|r",
                     name = "Символ оружия неистовства ветра",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:41547:0:0:0:0:0:0:0:10|h[Символ ледяного шока]|h|r",
@@ -2535,7 +2535,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794845767,
+            last_update = 1794854936,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
