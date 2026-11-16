@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794786803
+ItemStorageDB_LastUpdate = 1794788546
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18868,9 +18868,9 @@ ItemStorageDB = {
     {
         name = "Сумчатая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-14 21:03:37",
+        updated_at = "2026-11-16 02:22:26",
         money = 45,
-        empty = 82,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -18891,16 +18891,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                 name = "Сумка из ткани Пустоты",
-                count = 77,
+                count = 99,
             },
             {
                 link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
                 name = "Тяжелый ящик с инструментами",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:30746:0:0:0:0:0:0:0:10|h[Шахтерский мешок]|h|r",
-                name = "Шахтерский мешок",
                 count = 1,
             },
             {
@@ -18916,7 +18911,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                 name = "Сумка из ледяной ткани",
-                count = 24,
+                count = 21,
             },
             {
                 link = "|cff1eff00|Hitem:4500:0:0:0:0:0:0:0:10|h[Рюкзак путника]|h|r",
@@ -18930,7 +18925,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1792229039,
+            last_update = 1794788534,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23775:0:0:0:0:0:0:0:10|h[Титановый ящик с инструментами]|h|r",
@@ -18950,16 +18945,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                     name = "Сумка из ткани Пустоты",
-                    count = 36,
+                    count = 43,
                 },
                 {
                     link = "|cff1eff00|Hitem:30745:0:0:0:0:0:0:0:10|h[Тяжелый ящик с инструментами]|h|r",
                     name = "Тяжелый ящик с инструментами",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:30746:0:0:0:0:0:0:0:10|h[Шахтерский мешок]|h|r",
-                    name = "Шахтерский мешок",
                     count = 1,
                 },
                 {
@@ -18975,7 +18965,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
                     name = "Сумка из ледяной ткани",
-                    count = 8,
+                    count = 5,
                 },
                 {
                     link = "|cff1eff00|Hitem:4500:0:0:0:0:0:0:0:10|h[Рюкзак путника]|h|r",
@@ -18990,12 +18980,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794682952,
+            last_update = 1794788541,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:10|h[Сумка из ткани Пустоты]|h|r",
                     name = "Сумка из ткани Пустоты",
-                    count = 41,
+                    count = 56,
                 },
                 {
                     link = "|cff1eff00|Hitem:41599:0:0:0:0:0:0:0:10|h[Сумка из ледяной ткани]|h|r",
