@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794833657
+ItemStorageDB_LastUpdate = 1794833790
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22987,10 +22987,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 01:26:26",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-16 15:56:30",
         money = 194111,
-        empty = 36,
+        empty = 39,
         location = "Оргриммар",
         items = {
             {
@@ -23001,7 +23001,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                 name = "Кольцо защиты",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -23286,7 +23286,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
                 name = "Инкрустированное малахитом кольцо",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
@@ -23411,7 +23411,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
                 name = "Малахитовая подвеска",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:25439:0:0:0:0:0:0:0:10|h[Кольцо с тигровым глазом]|h|r",
@@ -23465,12 +23465,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794785180,
+            last_update = 1794833769,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
                     name = "Кольцо защиты",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:12996:0:0:0:0:0:0:0:10|h[Кольцо очищения]|h|r",
@@ -23680,7 +23680,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20821:0:0:0:0:0:0:0:10|h[Инкрустированное малахитом кольцо]|h|r",
                     name = "Инкрустированное малахитом кольцо",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:20827:0:0:0:0:0:0:0:10|h[Серебряное кольцо могущества]|h|r",
@@ -23795,7 +23795,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794785180,
+            last_update = 1794833779,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23925,7 +23925,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
                     name = "Малахитовая подвеска",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:5079:0:0:0:0:0:0:0:10|h[Глаз ледяного василиска]|h|r",
