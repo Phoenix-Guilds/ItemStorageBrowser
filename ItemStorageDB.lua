@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794913311
+ItemStorageDB_LastUpdate = 1794913608
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19497,8 +19497,8 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 01:07:52",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-17 14:06:48",
         money = 475064,
         empty = 111,
         location = "Оргриммар",
@@ -19556,7 +19556,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
                 name = "Чумоцвет",
-                count = 120,
+                count = 130,
             },
             {
                 link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
@@ -19766,11 +19766,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
                 name = "Кровь Грома",
-                count = 78,
+                count = 58,
             },
         },
         bank = {
-            last_update = 1794784061,
+            last_update = 1794913582,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19810,7 +19810,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
                     name = "Чумоцвет",
-                    count = 120,
+                    count = 130,
                 },
                 {
                     link = "|cffffffff|Hitem:13467:0:0:0:0:0:0:0:10|h[Ледяной зев]|h|r",
@@ -19985,12 +19985,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8846:0:0:0:0:0:0:0:10|h[Кровь Грома]|h|r",
                     name = "Кровь Грома",
-                    count = 78,
+                    count = 58,
                 },
             },
         },
         bags = {
-            last_update = 1794784067,
+            last_update = 1794913591,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
