@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794940116
+ItemStorageDB_LastUpdate = 1794940201
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21823,9 +21823,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 19:47:21",
+        updated_at = "2026-11-17 20:30:01",
         money = 203936,
-        empty = 65,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -22086,7 +22086,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
                 name = "Набедренники Ветрокрылых",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
@@ -22226,7 +22226,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                 name = "Двойной мундир",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
@@ -22420,7 +22420,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794937612,
+            last_update = 1794940166,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22675,7 +22675,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13130:0:0:0:0:0:0:0:10|h[Набедренники Ветрокрылых]|h|r",
                     name = "Набедренники Ветрокрылых",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
@@ -22801,6 +22801,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:1716:0:0:0:0:0:0:0:10|h[Одеяние мага]|h|r",
                     name = "Одеяние мага",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
+                    name = "Двойной мундир",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
@@ -22930,7 +22935,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794937635,
+            last_update = 1794940166,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
