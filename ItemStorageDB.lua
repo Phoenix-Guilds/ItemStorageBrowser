@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794937641
+ItemStorageDB_LastUpdate = 1794937759
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2578,9 +2578,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 19:34:11",
+        updated_at = "2026-11-17 19:49:19",
         money = 92710,
-        empty = 65,
+        empty = 66,
         location = "Оргриммар",
         items = {
             {
@@ -3044,11 +3044,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
-                name = "Зеленая башня",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:1263:0:0:0:0:0:0:0:10|h[Мозгоруб]|h|r",
                 name = "Мозгоруб",
                 count = 2,
@@ -3155,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794936843,
+            last_update = 1794937674,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3635,7 +3630,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794936846,
+            last_update = 1794937687,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3730,11 +3725,6 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:1169:0:0:0:0:0:0:0:10|h[Черночерепный щит]|h|r",
                     name = "Черночерепный щит",
-                    count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:1204:0:0:0:0:0:0:0:10|h[Зеленая башня]|h|r",
-                    name = "Зеленая башня",
                     count = 1,
                 },
                 {
