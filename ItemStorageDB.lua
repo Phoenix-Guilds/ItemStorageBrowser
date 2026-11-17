@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794934193
+ItemStorageDB_LastUpdate = 1794934281
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14263,9 +14263,9 @@ ItemStorageDB = {
     {
         name = "Рец",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 00:52:15",
+        updated_at = "2026-11-17 18:51:21",
         money = 64134,
-        empty = 37,
+        empty = 36,
         location = "Оргриммар",
         items = {
             {
@@ -14791,6 +14791,11 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2409:0:0:0:0:0:0:0:10|h[Выкройка: темный кожаный мундир]|h|r",
                 name = "Выкройка: темный кожаный мундир",
+                count = 1,
+            },
+            {
+                link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
+                name = "Рецепт: зелье скорости",
                 count = 1,
             },
             {
@@ -15365,7 +15370,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794783127,
+            last_update = 1794934272,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -16185,7 +16190,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794783130,
+            last_update = 1794934274,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
@@ -16390,6 +16395,11 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:18653:0:0:0:0:0:0:0:10|h[Схема: гоблинский кабельный макси-дефибриллятор]|h|r",
                     name = "Схема: гоблинский кабельный макси-дефибриллятор",
+                    count = 1,
+                },
+                {
+                    link = "|cff1eff00|Hitem:2555:0:0:0:0:0:0:0:10|h[Рецепт: зелье скорости]|h|r",
+                    name = "Рецепт: зелье скорости",
                     count = 1,
                 },
                 {
