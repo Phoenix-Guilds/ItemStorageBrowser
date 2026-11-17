@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794938778
+ItemStorageDB_LastUpdate = 1794940116
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6023,9 +6023,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 19:52:03",
+        updated_at = "2026-11-17 20:28:36",
         money = 778001,
-        empty = 52,
+        empty = 51,
         location = "Оргриммар",
         items = {
             {
@@ -6111,12 +6111,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
                 name = "Чародейный кристалл",
-                count = 72,
+                count = 76,
             },
             {
                 link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
                 name = "Огромный изумруд",
-                count = 8,
+                count = 10,
             },
             {
                 link = "|cff1eff00|Hitem:12799:0:0:0:0:0:0:0:10|h[Большой опал]|h|r",
@@ -6136,7 +6136,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                 name = "Малый лунный камень",
-                count = 252,
+                count = 253,
             },
             {
                 link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
@@ -6221,12 +6221,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
                 name = "Аквамарин",
-                count = 291,
+                count = 302,
             },
             {
                 link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                 name = "Звездный рубин",
-                count = 87,
+                count = 95,
             },
             {
                 link = "|cff1eff00|Hitem:7967:0:0:0:0:0:0:0:10|h[Мифриловый шип для щита]|h|r",
@@ -6360,7 +6360,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794937904,
+            last_update = 1794940097,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6440,12 +6440,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
                     name = "Чародейный кристалл",
-                    count = 72,
+                    count = 76,
                 },
                 {
                     link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
                     name = "Огромный изумруд",
-                    count = 8,
+                    count = 10,
                 },
                 {
                     link = "|cff1eff00|Hitem:12799:0:0:0:0:0:0:0:10|h[Большой опал]|h|r",
@@ -6465,7 +6465,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:1705:0:0:0:0:0:0:0:10|h[Малый лунный камень]|h|r",
                     name = "Малый лунный камень",
-                    count = 252,
+                    count = 253,
                 },
                 {
                     link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
@@ -6540,12 +6540,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
                     name = "Аквамарин",
-                    count = 291,
+                    count = 302,
                 },
                 {
                     link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
                     name = "Звездный рубин",
-                    count = 87,
+                    count = 95,
                 },
                 {
                     link = "|cff1eff00|Hitem:818:0:0:0:0:0:0:0:10|h[Тигровый глаз]|h|r",
@@ -6605,7 +6605,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794937918,
+            last_update = 1794940111,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
