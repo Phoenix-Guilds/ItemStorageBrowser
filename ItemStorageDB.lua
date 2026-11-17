@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794936675
+ItemStorageDB_LastUpdate = 1794936743
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23083,9 +23083,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 17:30:05",
+        updated_at = "2026-11-17 19:32:23",
         money = 194111,
-        empty = 40,
+        empty = 39,
         location = "Оргриммар",
         items = {
             {
@@ -23401,7 +23401,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
                 name = "Тяжелое золотое ожерелье битвы",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:20906:0:0:0:0:0:0:0:10|h[Оплетенное медное кольцо]|h|r",
@@ -23560,7 +23560,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794842945,
+            last_update = 1794936737,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23890,7 +23890,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794842963,
+            last_update = 1794936738,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23980,7 +23980,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:20831:0:0:0:0:0:0:0:10|h[Тяжелое золотое ожерелье битвы]|h|r",
                     name = "Тяжелое золотое ожерелье битвы",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:20909:0:0:0:0:0:0:0:10|h[Варварский железный ошейник]|h|r",
