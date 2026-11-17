@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794940279
+ItemStorageDB_LastUpdate = 1794940349
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5003,9 +5003,9 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 19:55:45",
+        updated_at = "2026-11-17 20:32:29",
         money = 899680,
-        empty = 93,
+        empty = 92,
         location = "Оргриммар",
         items = {
             {
@@ -5151,7 +5151,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
                 name = "Субстанция Земли",
-                count = 5,
+                count = 9,
             },
             {
                 link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
@@ -5261,7 +5261,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                 name = "Первородный огонь",
-                count = 90,
+                count = 102,
             },
             {
                 link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
@@ -5310,7 +5310,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794938131,
+            last_update = 1794940329,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5420,7 +5420,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
                     name = "Субстанция Земли",
-                    count = 5,
+                    count = 9,
                 },
                 {
                     link = "|cff1eff00|Hitem:7078:0:0:0:0:0:0:0:10|h[Субстанция Огня]|h|r",
@@ -5525,7 +5525,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
                     name = "Первородный огонь",
-                    count = 90,
+                    count = 102,
                 },
                 {
                     link = "|cffffffff|Hitem:7069:0:0:0:0:0:0:0:10|h[Первородный воздух]|h|r",
@@ -5570,7 +5570,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794938140,
+            last_update = 1794940344,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
