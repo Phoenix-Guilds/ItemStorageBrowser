@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794936793
+ItemStorageDB_LastUpdate = 1794936851
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2578,9 +2578,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 16:46:18",
+        updated_at = "2026-11-17 19:34:11",
         money = 92710,
-        empty = 66,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -2821,7 +2821,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -3155,7 +3155,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794840289,
+            last_update = 1794936843,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3245,7 +3245,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
                     name = "Костегрыз",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13028:0:0:0:0:0:0:0:10|h[Ляпис-лазурный молот]|h|r",
@@ -3425,7 +3425,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
                     name = "Изогнутый мясницкий нож",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
@@ -3635,7 +3635,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794840310,
+            last_update = 1794936846,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3673,11 +3673,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:13027:0:0:0:0:0:0:0:10|h[Костегрыз]|h|r",
-                    name = "Костегрыз",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
                     name = "Рапира из быстростали",
                     count = 2,
@@ -3690,7 +3685,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -3710,11 +3705,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2194:0:0:0:0:0:0:0:10|h[Алмазный молот]|h|r",
                     name = "Алмазный молот",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2815:0:0:0:0:0:0:0:10|h[Изогнутый мясницкий нож]|h|r",
-                    name = "Изогнутый мясницкий нож",
                     count = 1,
                 },
                 {
