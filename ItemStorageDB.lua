@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794940946
+ItemStorageDB_LastUpdate = 1794941566
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -18972,8 +18972,8 @@ ItemStorageDB = {
     },
     {
         name = "Тернистая",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-15 14:15:28",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-17 20:52:46",
         money = 283717,
         empty = 32,
         location = "Оргриммар",
@@ -19055,7 +19055,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794741322,
+            last_update = 1794941554,
             items = {
                 {
                     link = "|cffffffff|Hitem:2725:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 1]|h|r",
@@ -19110,7 +19110,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794741323,
+            last_update = 1794941562,
             items = {
                 {
                     link = "|cffffffff|Hitem:2725:0:0:0:0:0:0:0:10|h[Зеленые холмы Тернистой долины: стр. 1]|h|r",
