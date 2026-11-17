@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794934092
+ItemStorageDB_LastUpdate = 1794934132
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7853,9 +7853,9 @@ ItemStorageDB = {
     {
         name = "Колбасная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 17:35:04",
+        updated_at = "2026-11-17 18:48:52",
         money = 0,
-        empty = 179,
+        empty = 178,
         location = "Оргриммар",
         items = {
             {
@@ -7867,11 +7867,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:12212:0:0:0:0:0:0:0:10|h[Похлебка \"Джунгли\"]|h|r",
                 name = "Похлебка \"Джунгли\"",
                 count = 57,
-            },
-            {
-                link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
-                name = "Десерт из мертвечины",
-                count = 24,
             },
             {
                 link = "|cffffffff|Hitem:12218:0:0:0:0:0:0:0:10|h[Чудовищный омлет]|h|r",
@@ -7991,7 +7986,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                 name = "Хрустящий хвост ящерицы",
-                count = 15,
+                count = 115,
             },
             {
                 link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -8020,7 +8015,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794843255,
+            last_update = 1794934127,
             items = {
                 {
                     link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
@@ -8150,7 +8145,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5479:0:0:0:0:0:0:0:10|h[Хрустящий хвост ящерицы]|h|r",
                     name = "Хрустящий хвост ящерицы",
-                    count = 15,
+                    count = 115,
                 },
                 {
                     link = "|cffffffff|Hitem:5525:0:0:0:0:0:0:0:10|h[Отварные мидии]|h|r",
@@ -8180,13 +8175,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794843257,
+            last_update = 1794934128,
             items = {
-                {
-                    link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
-                    name = "Десерт из мертвечины",
-                    count = 24,
-                },
             },
         },
     },
