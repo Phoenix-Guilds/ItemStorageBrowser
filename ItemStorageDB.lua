@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1794943063
+ItemStorageDB_LastUpdate = 1794943154
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 21:17:43",
+        updated_at = "2026-11-17 21:19:14",
         money = 339404,
         empty = 90,
         location = "Оргриммар",
@@ -21,7 +21,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
                 name = "Символ трепки",
-                count = 13,
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:40899:0:0:0:0:0:0:0:10|h[Символ рыка]|h|r",
@@ -156,7 +156,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41103:0:0:0:0:0:0:0:10|h[Символ экзорцизма]|h|r",
                 name = "Символ экзорцизма",
-                count = 11,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:41104:0:0:0:0:0:0:0:10|h[Символ очищения]|h|r",
@@ -1275,7 +1275,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794943040,
+            last_update = 1794943137,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1290,7 +1290,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:40897:0:0:0:0:0:0:0:10|h[Символ трепки]|h|r",
                     name = "Символ трепки",
-                    count = 13,
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:40899:0:0:0:0:0:0:0:10|h[Символ рыка]|h|r",
@@ -1425,7 +1425,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41103:0:0:0:0:0:0:0:10|h[Символ экзорцизма]|h|r",
                     name = "Символ экзорцизма",
-                    count = 11,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:41104:0:0:0:0:0:0:0:10|h[Символ очищения]|h|r",
@@ -2540,7 +2540,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794943057,
+            last_update = 1794943146,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
