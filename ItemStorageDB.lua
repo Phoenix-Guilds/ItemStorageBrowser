@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795021339
+ItemStorageDB_LastUpdate = 1795021496
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2578,9 +2578,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 19:49:19",
+        updated_at = "2026-11-18 19:04:56",
         money = 92710,
-        empty = 66,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -2821,7 +2821,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -2911,7 +2911,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                 name = "Зазубренный боевой топор",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
@@ -3150,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794937674,
+            last_update = 1795021427,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3430,7 +3430,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2878:0:0:0:0:0:0:0:10|h[Зазубренный боевой топор]|h|r",
                     name = "Зазубренный боевой топор",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
@@ -3630,7 +3630,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794937687,
+            last_update = 1795021439,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3680,7 +3680,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
