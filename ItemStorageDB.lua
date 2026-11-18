@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1794999780
+ItemStorageDB_LastUpdate = 1794999845
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23037,10 +23037,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 19:50:49",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-18 14:04:05",
         money = 194111,
-        empty = 40,
+        empty = 42,
         location = "Оргриммар",
         items = {
             {
@@ -23449,16 +23449,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff1eff00|Hitem:24075:0:0:0:0:0:0:0:10|h[Золотое кольцо с дренитом]|h|r",
-                name = "Золотое кольцо с дренитом",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:24076:0:0:0:0:0:0:0:10|h[Лазурное кольцо из лунного камня]|h|r",
-                name = "Лазурное кольцо из лунного камня",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:25438:0:0:0:0:0:0:0:10|h[Малахитовая подвеска]|h|r",
                 name = "Малахитовая подвеска",
                 count = 1,
@@ -23515,7 +23505,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794937842,
+            last_update = 1794999800,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23803,16 +23793,6 @@ ItemStorageDB = {
                     count = 3,
                 },
                 {
-                    link = "|cff1eff00|Hitem:24075:0:0:0:0:0:0:0:10|h[Золотое кольцо с дренитом]|h|r",
-                    name = "Золотое кольцо с дренитом",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:24076:0:0:0:0:0:0:0:10|h[Лазурное кольцо из лунного камня]|h|r",
-                    name = "Лазурное кольцо из лунного камня",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:25439:0:0:0:0:0:0:0:10|h[Кольцо с тигровым глазом]|h|r",
                     name = "Кольцо с тигровым глазом",
                     count = 2,
@@ -23845,7 +23825,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794937842,
+            last_update = 1794999819,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
