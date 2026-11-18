@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795023089
+ItemStorageDB_LastUpdate = 1795025314
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2578,9 +2578,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-18 19:04:56",
+        updated_at = "2026-11-18 20:08:34",
         money = 92710,
-        empty = 68,
+        empty = 69,
         location = "Оргриммар",
         items = {
             {
@@ -2616,7 +2616,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
@@ -3150,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795021427,
+            last_update = 1795025257,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3201,6 +3201,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                     name = "Боевой топор лорда Александра",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
+                    name = "Молот Макхоуэна",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13014:0:0:0:0:0:0:0:10|h[Секира Рин'джи]|h|r",
@@ -3630,7 +3635,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795021439,
+            last_update = 1795025309,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3638,18 +3643,8 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
-                    name = "Дубина Ракзура",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
                     name = "Укус горгульи",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
-                    name = "Молот Макхоуэна",
                     count = 1,
                 },
                 {
