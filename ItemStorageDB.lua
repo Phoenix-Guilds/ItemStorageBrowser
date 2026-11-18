@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795021496
+ItemStorageDB_LastUpdate = 1795021546
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21768,7 +21768,7 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-18 19:02:19",
+        updated_at = "2026-11-18 19:05:46",
         money = 203936,
         empty = 64,
         location = "Оргриммар",
@@ -22365,7 +22365,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795021316,
+            last_update = 1795021539,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22575,7 +22575,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                     name = "Кушак Огрона",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -22880,7 +22880,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795021332,
+            last_update = 1795021541,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -22915,11 +22915,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13116:0:0:0:0:0:0:0:10|h[Наплеч Незримых]|h|r",
                     name = "Наплеч Незримых",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
-                    name = "Кушак Огрона",
                     count = 1,
                 },
                 {
