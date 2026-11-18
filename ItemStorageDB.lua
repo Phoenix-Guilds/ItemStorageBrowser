@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795042639
+ItemStorageDB_LastUpdate = 1795042762
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17173,9 +17173,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 00:57:19",
+        updated_at = "2026-11-19 00:59:22",
         money = 58852,
-        empty = 88,
+        empty = 89,
         location = "Оргриммар",
         items = {
             {
@@ -17789,11 +17789,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff1eff00|Hitem:6567:1892:0:0:0:0:768:0:10|h[Мерцающая броня со знаком совы]|h|r",
-                name = "Мерцающая броня со знаком совы",
-                count = 1,
-            },
-            {
                 link = "|cff1eff00|Hitem:6570:0:0:0:0:0:761:0:10|h[Мерцающий кушак со знаком совы]|h|r",
                 name = "Мерцающий кушак со знаком совы",
                 count = 1,
@@ -17935,7 +17930,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795042622,
+            last_update = 1795042672,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -18338,11 +18333,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff1eff00|Hitem:6567:1892:0:0:0:0:768:0:10|h[Мерцающая броня со знаком совы]|h|r",
-                    name = "Мерцающая броня со знаком совы",
-                    count = 1,
-                },
-                {
                     link = "|cff1eff00|Hitem:6570:0:0:0:0:0:761:0:10|h[Мерцающий кушак со знаком совы]|h|r",
                     name = "Мерцающий кушак со знаком совы",
                     count = 1,
@@ -18440,7 +18430,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795042632,
+            last_update = 1795042693,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
