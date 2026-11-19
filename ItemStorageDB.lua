@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795091814
+ItemStorageDB_LastUpdate = 1795091846
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22883,9 +22883,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 00:08:17",
+        updated_at = "2026-11-19 15:37:26",
         money = 194111,
-        empty = 51,
+        empty = 50,
         location = "Оргриммар",
         items = {
             {
@@ -23072,6 +23072,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:29158:0:0:0:0:0:0:0:10|h[Кольцо командора из истинного серебра]|h|r",
                 name = "Кольцо командора из истинного серебра",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
+                name = "Кольцо побегов",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
@@ -23340,7 +23345,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795036047,
+            last_update = 1795091840,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23471,6 +23476,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:29158:0:0:0:0:0:0:0:10|h[Кольцо командора из истинного серебра]|h|r",
                     name = "Кольцо командора из истинного серебра",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2951:0:0:0:0:0:0:0:10|h[Кольцо побегов]|h|r",
+                    name = "Кольцо побегов",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
@@ -23650,7 +23660,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795036087,
+            last_update = 1795091840,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
