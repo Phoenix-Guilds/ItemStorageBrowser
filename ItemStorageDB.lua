@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795109503
+ItemStorageDB_LastUpdate = 1795109551
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21663,9 +21663,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 19:25:22",
+        updated_at = "2026-11-19 19:32:31",
         money = 203936,
-        empty = 55,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -22111,7 +22111,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2314:0:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
                 name = "Укрепленный кожаный доспех",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
@@ -22280,7 +22280,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795109106,
+            last_update = 1795109536,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22805,7 +22805,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795109116,
+            last_update = 1795109545,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
@@ -22900,11 +22900,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                     name = "Поножи некроманта",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:2314:0:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
-                    name = "Укрепленный кожаный доспех",
                     count = 1,
                 },
                 {
