@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795107666
+ItemStorageDB_LastUpdate = 1795108058
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5672,8 +5672,8 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 16:10:50",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 19:07:38",
         money = 16160,
         empty = 138,
         location = "Оргриммар",
@@ -5831,7 +5831,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
                 name = "Бронзовый каркас",
-                count = 4,
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:4384:0:0:0:0:0:0:0:10|h[Взрывоопасная овца]|h|r",
@@ -5870,7 +5870,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795093844,
+            last_update = 1795107713,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -6025,7 +6025,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
                     name = "Бронзовый каркас",
-                    count = 4,
+                    count = 5,
                 },
                 {
                     link = "|cffffffff|Hitem:4384:0:0:0:0:0:0:0:10|h[Взрывоопасная овца]|h|r",
@@ -6065,7 +6065,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795093845,
+            last_update = 1795107751,
             items = {
             },
         },
