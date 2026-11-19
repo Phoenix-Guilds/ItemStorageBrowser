@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795042974
+ItemStorageDB_LastUpdate = 1795082766
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21628,7 +21628,7 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 01:02:54",
+        updated_at = "2026-11-19 13:06:06",
         money = 203936,
         empty = 68,
         location = "Оргриммар",
@@ -22036,7 +22036,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                 name = "Штаны из шкуры василиска",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:18742:0:0:0:0:0:0:0:10|h[Наплечный щиток стратхольмского ополчения]|h|r",
@@ -22076,7 +22076,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
                 name = "Святой капюшон",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
@@ -22225,7 +22225,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795042916,
+            last_update = 1795082725,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22740,7 +22740,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795042937,
+            last_update = 1795082759,
             items = {
                 {
                     link = "|cff0070dd|Hitem:13013:0:0:0:0:0:0:0:10|h[Оплечье старшего волшебника]|h|r",
@@ -22793,6 +22793,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
+                    name = "Штаны из шкуры василиска",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:2314:0:0:0:0:0:0:0:10|h[Укрепленный кожаный доспех]|h|r",
                     name = "Укрепленный кожаный доспех",
                     count = 1,
@@ -22805,7 +22810,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
                     name = "Святой капюшон",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
