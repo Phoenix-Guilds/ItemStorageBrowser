@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795092048
+ItemStorageDB_LastUpdate = 1795092097
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7817,10 +7817,10 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 18:48:52",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 15:41:37",
         money = 0,
-        empty = 178,
+        empty = 177,
         location = "Оргриммар",
         items = {
             {
@@ -7866,7 +7866,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27651:0:0:0:0:0:0:0:10|h[Закуска из канюка]|h|r",
                 name = "Закуска из канюка",
-                count = 71,
+                count = 87,
             },
             {
                 link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
@@ -7896,7 +7896,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:27666:0:0:0:0:0:0:0:10|h[Палочки из золотой рыбки]|h|r",
                 name = "Палочки из золотой рыбки",
-                count = 16,
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:29292:0:0:0:0:0:0:0:10|h[Зловепревая ветчина]|h|r",
@@ -7907,6 +7907,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:31672:0:0:0:0:0:0:0:10|h[Ребрышки Мок'Натала]|h|r",
                 name = "Ребрышки Мок'Натала",
                 count = 2,
+            },
+            {
+                link = "|cffffffff|Hitem:33052:0:0:0:0:0:0:0:10|h[Рыбацкая услада]|h|r",
+                name = "Рыбацкая услада",
+                count = 12,
             },
             {
                 link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
@@ -7936,7 +7941,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:39691:0:0:0:0:0:0:0:10|h[Наваристая похлебка из косатки]|h|r",
                 name = "Наваристая похлебка из косатки",
-                count = 20,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
@@ -7980,7 +7985,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794934127,
+            last_update = 1795092091,
             items = {
                 {
                     link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
@@ -8025,7 +8030,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:27651:0:0:0:0:0:0:0:10|h[Закуска из канюка]|h|r",
                     name = "Закуска из канюка",
-                    count = 71,
+                    count = 87,
                 },
                 {
                     link = "|cffffffff|Hitem:27655:0:0:0:0:0:0:0:10|h[Сосиска из мяса опустошителя]|h|r",
@@ -8055,7 +8060,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:27666:0:0:0:0:0:0:0:10|h[Палочки из золотой рыбки]|h|r",
                     name = "Палочки из золотой рыбки",
-                    count = 16,
+                    count = 25,
                 },
                 {
                     link = "|cffffffff|Hitem:29292:0:0:0:0:0:0:0:10|h[Зловепревая ветчина]|h|r",
@@ -8066,6 +8071,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:31672:0:0:0:0:0:0:0:10|h[Ребрышки Мок'Натала]|h|r",
                     name = "Ребрышки Мок'Натала",
                     count = 2,
+                },
+                {
+                    link = "|cffffffff|Hitem:33052:0:0:0:0:0:0:0:10|h[Рыбацкая услада]|h|r",
+                    name = "Рыбацкая услада",
+                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:34749:0:0:0:0:0:0:0:10|h[Стейк из черпорога]|h|r",
@@ -8095,7 +8105,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:39691:0:0:0:0:0:0:0:10|h[Наваристая похлебка из косатки]|h|r",
                     name = "Наваристая похлебка из косатки",
-                    count = 20,
+                    count = 29,
                 },
                 {
                     link = "|cffffffff|Hitem:43268:0:0:0:0:0:0:0:10|h[Даларанская похлебка из моллюсков]|h|r",
@@ -8140,7 +8150,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794934128,
+            last_update = 1795092091,
             items = {
             },
         },
