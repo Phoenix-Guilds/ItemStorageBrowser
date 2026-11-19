@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795091906
+ItemStorageDB_LastUpdate = 1795091930
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5607,8 +5607,8 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 00:56:03",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 15:38:50",
         money = 16160,
         empty = 138,
         location = "Оргриммар",
@@ -5736,12 +5736,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
                 name = "Медная труба",
-                count = 35,
+                count = 36,
             },
             {
                 link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
                 name = "Медный регулятор",
-                count = 42,
+                count = 43,
             },
             {
                 link = "|cffffffff|Hitem:4364:0:0:0:0:0:0:0:10|h[Низкосортное взрывчатое вещество]|h|r",
@@ -5801,11 +5801,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                 name = "Бурдюк с маслом",
-                count = 8,
+                count = 10,
             },
         },
         bank = {
-            last_update = 1794783356,
+            last_update = 1795091925,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5930,12 +5930,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
                     name = "Медная труба",
-                    count = 35,
+                    count = 36,
                 },
                 {
                     link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
                     name = "Медный регулятор",
-                    count = 42,
+                    count = 43,
                 },
                 {
                     link = "|cffffffff|Hitem:4364:0:0:0:0:0:0:0:10|h[Низкосортное взрывчатое вещество]|h|r",
@@ -5995,12 +5995,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                     name = "Бурдюк с маслом",
-                    count = 8,
+                    count = 10,
                 },
             },
         },
         bags = {
-            last_update = 1794783357,
+            last_update = 1795091925,
             items = {
             },
         },
