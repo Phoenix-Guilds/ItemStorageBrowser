@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795093957
+ItemStorageDB_LastUpdate = 1795094007
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -20113,9 +20113,9 @@ ItemStorageDB = {
     {
         name = "Шмотный",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 16:03:59",
+        updated_at = "2026-11-19 16:13:27",
         money = 336703,
-        empty = 92,
+        empty = 91,
         location = "Оргриммар",
         items = {
             {
@@ -20142,6 +20142,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:31131:0:0:0:0:0:0:0:10|h[Кушак безмолвных лезвий]|h|r",
                 name = "Кушак безмолвных лезвий",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:31133:0:0:0:0:0:0:0:10|h[Поножи сгустка тьмы]|h|r",
+                name = "Поножи сгустка тьмы",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:31136:0:0:0:0:0:0:0:10|h[Кираса отражения клинков]|h|r",
@@ -20970,7 +20975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795093432,
+            last_update = 1795093998,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31125:0:0:0:0:0:0:0:10|h[Сапоги массового поражения]|h|r",
@@ -20991,6 +20996,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:31131:0:0:0:0:0:0:0:10|h[Кушак безмолвных лезвий]|h|r",
                     name = "Кушак безмолвных лезвий",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31133:0:0:0:0:0:0:0:10|h[Поножи сгустка тьмы]|h|r",
+                    name = "Поножи сгустка тьмы",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:31137:0:0:0:0:0:0:0:10|h[Очищающие рукавицы]|h|r",
@@ -21795,7 +21805,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795093433,
+            last_update = 1795094001,
             items = {
                 {
                     link = "|cff0070dd|Hitem:28494:0:0:0:0:0:-52:41:10|h[Наголенники ворона-стража с символом похода]|h|r",
