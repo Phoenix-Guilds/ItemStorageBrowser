@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795093850
+ItemStorageDB_LastUpdate = 1795093957
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2583,9 +2583,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 16:10:03",
+        updated_at = "2026-11-19 16:12:37",
         money = 92710,
-        empty = 64,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -2751,7 +2751,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
                 name = "Вязкий молот",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13046:0:0:0:0:0:0:0:10|h[Отвага Бланчарда]|h|r",
@@ -3160,7 +3160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795093794,
+            last_update = 1795093950,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3645,7 +3645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795093796,
+            last_update = 1795093951,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3681,6 +3681,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13034:0:0:0:0:0:0:0:10|h[Рапира из быстростали]|h|r",
                     name = "Рапира из быстростали",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13045:0:0:0:0:0:0:0:10|h[Вязкий молот]|h|r",
+                    name = "Вязкий молот",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13048:0:0:0:0:0:0:0:10|h[Маячащий чекан]|h|r",
