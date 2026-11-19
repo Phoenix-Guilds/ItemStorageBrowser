@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795092462
+ItemStorageDB_LastUpdate = 1795092570
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6008,9 +6008,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 15:35:25",
+        updated_at = "2026-11-19 15:49:30",
         money = 778001,
-        empty = 51,
+        empty = 49,
         location = "Оргриммар",
         items = {
             {
@@ -6266,7 +6266,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                 name = "Тяжелый камень",
-                count = 799,
+                count = 839,
             },
             {
                 link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
@@ -6331,7 +6331,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                 name = "Твердый камень",
-                count = 487,
+                count = 521,
             },
             {
                 link = "|cffffffff|Hitem:7964:0:0:0:0:0:0:0:10|h[Твердое точило]|h|r",
@@ -6345,7 +6345,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795091717,
+            last_update = 1795092563,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6580,7 +6580,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7912:0:0:0:0:0:0:0:10|h[Твердый камень]|h|r",
                     name = "Твердый камень",
-                    count = 487,
+                    count = 521,
                 },
                 {
                     link = "|cffffffff|Hitem:7966:0:0:0:0:0:0:0:10|h[Твердый шлифовальный камень]|h|r",
@@ -6590,7 +6590,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795091719,
+            last_update = 1795092565,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6631,6 +6631,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:23528:0:0:0:0:0:0:0:10|h[Точило Скверны]|h|r",
                     name = "Точило Скверны",
                     count = 25,
+                },
+                {
+                    link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
+                    name = "Тяжелый камень",
+                    count = 40,
                 },
                 {
                     link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
