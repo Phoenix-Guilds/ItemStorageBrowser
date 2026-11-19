@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795098879
+ItemStorageDB_LastUpdate = 1795099142
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16917,10 +16917,10 @@ ItemStorageDB = {
     },
     {
         name = "Свитковый",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 00:12:01",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 16:39:02",
         money = 214291,
-        empty = 195,
+        empty = 194,
         location = "Оргриммар",
         items = {
             {
@@ -16956,6 +16956,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1478:0:0:0:0:0:0:0:10|h[Охранный свиток II]|h|r",
                 name = "Охранный свиток II",
+                count = 2,
+            },
+            {
+                link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
+                name = "Свиток духа II",
                 count = 2,
             },
             {
@@ -17130,7 +17135,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795036281,
+            last_update = 1795099052,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -17150,6 +17155,11 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:1478:0:0:0:0:0:0:0:10|h[Охранный свиток II]|h|r",
                     name = "Охранный свиток II",
+                    count = 2,
+                },
+                {
+                    link = "|cffffffff|Hitem:1712:0:0:0:0:0:0:0:10|h[Свиток духа II]|h|r",
+                    name = "Свиток духа II",
                     count = 2,
                 },
                 {
@@ -17225,7 +17235,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795036291,
+            last_update = 1795099114,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
