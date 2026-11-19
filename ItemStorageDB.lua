@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795103767
+ItemStorageDB_LastUpdate = 1795103811
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23368,9 +23368,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 16:34:39",
+        updated_at = "2026-11-19 17:56:51",
         money = 194111,
-        empty = 46,
+        empty = 45,
         location = "Оргриммар",
         items = {
             {
@@ -23786,7 +23786,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
                 name = "Толстое бронзовое ожерелье",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:21934:0:0:0:0:0:0:0:10|h[Изысканное ожерелье тигрового глаза]|h|r",
@@ -23850,7 +23850,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795098865,
+            last_update = 1795103803,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -24185,7 +24185,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795098869,
+            last_update = 1795103806,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -24305,7 +24305,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21933:0:0:0:0:0:0:0:10|h[Толстое бронзовое ожерелье]|h|r",
                     name = "Толстое бронзовое ожерелье",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:21934:0:0:0:0:0:0:0:10|h[Изысканное ожерелье тигрового глаза]|h|r",
