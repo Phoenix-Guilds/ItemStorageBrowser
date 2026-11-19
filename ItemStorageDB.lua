@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795109392
+ItemStorageDB_LastUpdate = 1795109503
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8698,9 +8698,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 19:08:20",
+        updated_at = "2026-11-19 19:31:43",
         money = 41967,
-        empty = 152,
+        empty = 154,
         location = "Оргриммар",
         items = {
             {
@@ -8786,7 +8786,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                 name = "Ториевый слиток",
-                count = 231,
+                count = 150,
             },
             {
                 link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
@@ -8880,7 +8880,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795108085,
+            last_update = 1795109477,
             items = {
                 {
                     link = "|cff1eff00|Hitem:23426:0:0:0:0:0:0:0:10|h[Кориевая руда]|h|r",
@@ -8975,7 +8975,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
                     name = "Руда оскверненного железа",
-                    count = 314,
+                    count = 244,
                 },
                 {
                     link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
@@ -9060,12 +9060,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795108086,
+            last_update = 1795109478,
             items = {
                 {
-                    link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
-                    name = "Ториевый слиток",
-                    count = 81,
+                    link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
+                    name = "Руда оскверненного железа",
+                    count = 70,
                 },
             },
         },
