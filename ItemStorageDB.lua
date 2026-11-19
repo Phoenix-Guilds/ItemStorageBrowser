@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795098807
+ItemStorageDB_LastUpdate = 1795098879
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23237,10 +23237,10 @@ ItemStorageDB = {
     },
     {
         name = "Ювелирная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 15:50:03",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 16:34:39",
         money = 194111,
-        empty = 47,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -23489,6 +23489,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:11999:0:0:0:0:0:192:0:10|h[Магнетитовое кольцо со знаком силы]|h|r",
+                name = "Магнетитовое кольцо со знаком силы",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:12008:0:0:0:0:0:132:0:10|h[Кольцо саванны со знаком ловкости]|h|r",
                 name = "Кольцо саванны со знаком ловкости",
                 count = 1,
@@ -23715,7 +23720,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795092597,
+            last_update = 1795098865,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23898,6 +23903,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:11999:0:0:0:0:0:192:0:10|h[Магнетитовое кольцо со знаком силы]|h|r",
+                    name = "Магнетитовое кольцо со знаком силы",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:12008:0:0:0:0:0:132:0:10|h[Кольцо саванны со знаком ловкости]|h|r",
                     name = "Кольцо саванны со знаком ловкости",
                     count = 1,
@@ -24045,7 +24055,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795092597,
+            last_update = 1795098869,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
