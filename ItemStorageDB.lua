@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795104793
+ItemStorageDB_LastUpdate = 1795104999
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19707,10 +19707,10 @@ ItemStorageDB = {
     },
     {
         name = "Травяная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 16:19:20",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 18:16:39",
         money = 475064,
-        empty = 111,
+        empty = 112,
         location = "Оргриммар",
         items = {
             {
@@ -19891,7 +19891,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                 name = "Златошип",
-                count = 194,
+                count = 144,
             },
             {
                 link = "|cffffffff|Hitem:39505:0:0:0:0:0:0:0:10|h[Набор виртуозного начертателя]|h|r",
@@ -19975,7 +19975,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795094351,
+            last_update = 1795104985,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -20135,7 +20135,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
                     name = "Златошип",
-                    count = 194,
+                    count = 144,
                 },
                 {
                     link = "|cffffffff|Hitem:39970:0:0:0:0:0:0:0:10|h[Огнелист]|h|r",
@@ -20190,7 +20190,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795094355,
+            last_update = 1795104994,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
