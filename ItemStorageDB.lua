@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795117305
+ItemStorageDB_LastUpdate = 1795117886
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2577,10 +2577,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 16:15:28",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 21:51:26",
         money = 92710,
-        empty = 62,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -2999,6 +2999,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:890:0:0:0:0:0:0:0:10|h[Крученый посох певчего]|h|r",
+                name = "Крученый посох певчего",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:934:0:0:0:0:0:0:0:10|h[Жнец Сталвана]|h|r",
                 name = "Жнец Сталвана",
                 count = 2,
@@ -3155,7 +3160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795094119,
+            last_update = 1795117877,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3640,7 +3645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795094120,
+            last_update = 1795117880,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3730,6 +3735,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
                     name = "Клинок Василиска",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:890:0:0:0:0:0:0:0:10|h[Крученый посох певчего]|h|r",
+                    name = "Крученый посох певчего",
                     count = 1,
                 },
                 {
