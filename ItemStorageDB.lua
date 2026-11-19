@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795105399
+ItemStorageDB_LastUpdate = 1795105524
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7218,9 +7218,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 17:58:56",
+        updated_at = "2026-11-19 18:25:24",
         money = 324084,
-        empty = 92,
+        empty = 91,
         location = "Оргриммар",
         items = {
             {
@@ -7342,6 +7342,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
                 name = "Тонкая нить",
                 count = 31,
+            },
+            {
+                link = "|cffffffff|Hitem:23793:0:0:0:0:0:0:0:10|h[Толстая узловатая кожа]|h|r",
+                name = "Толстая узловатая кожа",
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:25650:0:0:0:0:0:0:0:10|h[Накладки из узловатой кожи]|h|r",
@@ -7550,7 +7555,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795103889,
+            last_update = 1795105489,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7795,7 +7800,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795103893,
+            last_update = 1795105519,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7856,6 +7861,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:2321:0:0:0:0:0:0:0:10|h[Тонкая нить]|h|r",
                     name = "Тонкая нить",
                     count = 31,
+                },
+                {
+                    link = "|cffffffff|Hitem:23793:0:0:0:0:0:0:0:10|h[Толстая узловатая кожа]|h|r",
+                    name = "Толстая узловатая кожа",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:25650:0:0:0:0:0:0:0:10|h[Накладки из узловатой кожи]|h|r",
