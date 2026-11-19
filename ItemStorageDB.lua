@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795091323
+ItemStorageDB_LastUpdate = 1795091355
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16482,8 +16482,8 @@ ItemStorageDB = {
     },
     {
         name = "Рыбная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-10 23:44:12",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 15:29:15",
         money = 4042,
         empty = 157,
         location = "Оргриммар",
@@ -16506,7 +16506,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                 name = "Молниевый угорь",
-                count = 83,
+                count = 98,
             },
             {
                 link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
@@ -16516,7 +16516,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
                 name = "Сырой ночной луциан",
-                count = 22,
+                count = 45,
             },
             {
                 link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
@@ -16620,7 +16620,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794347046,
+            last_update = 1795091350,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -16640,7 +16640,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13757:0:0:0:0:0:0:0:10|h[Молниевый угорь]|h|r",
                     name = "Молниевый угорь",
-                    count = 83,
+                    count = 98,
                 },
                 {
                     link = "|cffffffff|Hitem:13758:0:0:0:0:0:0:0:10|h[Сырая краснобородка]|h|r",
@@ -16650,7 +16650,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13759:0:0:0:0:0:0:0:10|h[Сырой ночной луциан]|h|r",
                     name = "Сырой ночной луциан",
-                    count = 22,
+                    count = 45,
                 },
                 {
                     link = "|cffffffff|Hitem:13760:0:0:0:0:0:0:0:10|h[Сырой солнечный лосось]|h|r",
@@ -16755,7 +16755,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794347047,
+            last_update = 1795091350,
             items = {
             },
         },
