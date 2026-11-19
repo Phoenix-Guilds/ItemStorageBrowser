@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795109072
+ItemStorageDB_LastUpdate = 1795109122
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21662,10 +21662,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 16:16:00",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 19:25:22",
         money = 203936,
-        empty = 54,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -21976,7 +21976,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                 name = "Наручники Раздробленного хребта",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1486:0:0:0:0:0:0:0:10|h[Куртка из древесной коры]|h|r",
@@ -22280,7 +22280,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795094152,
+            last_update = 1795109106,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22570,7 +22570,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                     name = "Наручники Раздробленного хребта",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1486:0:0:0:0:0:0:0:10|h[Куртка из древесной коры]|h|r",
@@ -22805,7 +22805,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795094153,
+            last_update = 1795109116,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
