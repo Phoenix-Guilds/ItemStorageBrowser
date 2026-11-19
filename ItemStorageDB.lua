@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795103680
+ItemStorageDB_LastUpdate = 1795103767
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17467,10 +17467,10 @@ ItemStorageDB = {
     },
     {
         name = "Стартовая",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 15:38:26",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 17:56:07",
         money = 58852,
-        empty = 86,
+        empty = 85,
         location = "Оргриммар",
         items = {
             {
@@ -18109,6 +18109,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:6571:929:0:0:0:0:97:0:10|h[Кулачный щит лазутчика со знаком силы]|h|r",
+                name = "Кулачный щит лазутчика со знаком силы",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:6585:884:0:0:0:0:757:0:10|h[Плащ лазутчика со знаком совы]|h|r",
                 name = "Плащ лазутчика со знаком совы",
                 count = 1,
@@ -18240,7 +18245,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795091897,
+            last_update = 1795103761,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -18668,6 +18673,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:6571:929:0:0:0:0:97:0:10|h[Кулачный щит лазутчика со знаком силы]|h|r",
+                    name = "Кулачный щит лазутчика со знаком силы",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:6585:884:0:0:0:0:757:0:10|h[Плащ лазутчика со знаком совы]|h|r",
                     name = "Плащ лазутчика со знаком совы",
                     count = 1,
@@ -18755,7 +18765,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795091897,
+            last_update = 1795103762,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
