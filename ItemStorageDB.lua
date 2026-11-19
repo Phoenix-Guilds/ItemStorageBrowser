@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1795109761
+ItemStorageDB_LastUpdate = 1795109904
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-18 20:20:03",
+        updated_at = "2026-11-19 19:38:24",
         money = 339404,
-        empty = 89,
+        empty = 90,
         location = "Оргриммар",
         items = {
             {
@@ -156,7 +156,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41103:0:0:0:0:0:0:0:10|h[Символ экзорцизма]|h|r",
                 name = "Символ экзорцизма",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:41104:0:0:0:0:0:0:0:10|h[Символ очищения]|h|r",
@@ -546,7 +546,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                 name = "Символ лечения",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -711,7 +711,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42974:0:0:0:0:0:0:0:10|h[Символ спринта]|h|r",
                 name = "Символ спринта",
-                count = 19,
+                count = 18,
             },
             {
                 link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
@@ -831,7 +831,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43379:0:0:0:0:0:0:0:10|h[Символ огромной скорости]|h|r",
                 name = "Символ огромной скорости",
-                count = 4,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:43380:0:0:0:0:0:0:0:10|h[Символ исчезновения]|h|r",
@@ -1275,12 +1275,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794943137,
+            last_update = 1795109880,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                     name = "Книга познания символов",
-                    count = 36,
+                    count = 37,
                 },
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1425,7 +1425,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41103:0:0:0:0:0:0:0:10|h[Символ экзорцизма]|h|r",
                     name = "Символ экзорцизма",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:41104:0:0:0:0:0:0:0:10|h[Символ очищения]|h|r",
@@ -1810,7 +1810,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42900:0:0:0:0:0:0:0:10|h[Символ лечения]|h|r",
                     name = "Символ лечения",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:42901:0:0:0:0:0:0:0:10|h[Символ духа гадюки]|h|r",
@@ -1975,7 +1975,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42974:0:0:0:0:0:0:0:10|h[Символ спринта]|h|r",
                     name = "Символ спринта",
-                    count = 19,
+                    count = 18,
                 },
                 {
                     link = "|cffffffff|Hitem:43316:0:0:0:0:0:0:0:10|h[Символ водного облика]|h|r",
@@ -2095,7 +2095,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43379:0:0:0:0:0:0:0:10|h[Символ огромной скорости]|h|r",
                     name = "Символ огромной скорости",
-                    count = 4,
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43380:0:0:0:0:0:0:0:10|h[Символ исчезновения]|h|r",
@@ -2540,13 +2540,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795025987,
+            last_update = 1795109889,
             items = {
-                {
-                    link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
-                    name = "Книга познания символов",
-                    count = 1,
-                },
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
                     name = "Символ молнии",
