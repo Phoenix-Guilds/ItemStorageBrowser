@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795094007
+ItemStorageDB_LastUpdate = 1795094128
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2583,9 +2583,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 16:12:37",
+        updated_at = "2026-11-19 16:15:28",
         money = 92710,
-        empty = 63,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2926,7 +2926,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -3160,7 +3160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795093950,
+            last_update = 1795094119,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3645,7 +3645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795093951,
+            last_update = 1795094120,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3730,7 +3730,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                     name = "Массивная треугольная палица",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:8223:0:0:0:0:0:0:0:10|h[Клинок Василиска]|h|r",
