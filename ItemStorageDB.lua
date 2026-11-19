@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795092296
+ItemStorageDB_LastUpdate = 1795092325
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4978,7 +4978,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 15:30:21",
+        updated_at = "2026-11-19 15:45:25",
         money = 899680,
         empty = 91,
         location = "Оргриммар",
@@ -5211,12 +5211,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37702:0:0:0:0:0:0:0:10|h[Кристаллизованный огонь]|h|r",
                 name = "Кристаллизованный огонь",
-                count = 103,
+                count = 108,
             },
             {
                 link = "|cffffffff|Hitem:37703:0:0:0:0:0:0:0:10|h[Кристаллизованная тьма]|h|r",
                 name = "Кристаллизованная тьма",
-                count = 31,
+                count = 36,
             },
             {
                 link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
@@ -5226,12 +5226,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
                 name = "Кристаллизованная вода",
-                count = 179,
+                count = 180,
             },
             {
                 link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                 name = "Первородная земля",
-                count = 65,
+                count = 67,
             },
             {
                 link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
@@ -5290,7 +5290,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795091414,
+            last_update = 1795092318,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5480,12 +5480,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:37702:0:0:0:0:0:0:0:10|h[Кристаллизованный огонь]|h|r",
                     name = "Кристаллизованный огонь",
-                    count = 103,
+                    count = 108,
                 },
                 {
                     link = "|cffffffff|Hitem:37703:0:0:0:0:0:0:0:10|h[Кристаллизованная тьма]|h|r",
                     name = "Кристаллизованная тьма",
-                    count = 31,
+                    count = 36,
                 },
                 {
                     link = "|cffffffff|Hitem:37704:0:0:0:0:0:0:0:10|h[Кристаллизованная жизнь]|h|r",
@@ -5495,12 +5495,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:37705:0:0:0:0:0:0:0:10|h[Кристаллизованная вода]|h|r",
                     name = "Кристаллизованная вода",
-                    count = 179,
+                    count = 180,
                 },
                 {
                     link = "|cffffffff|Hitem:7067:0:0:0:0:0:0:0:10|h[Первородная земля]|h|r",
                     name = "Первородная земля",
-                    count = 65,
+                    count = 67,
                 },
                 {
                     link = "|cffffffff|Hitem:7068:0:0:0:0:0:0:0:10|h[Первородный огонь]|h|r",
@@ -5555,7 +5555,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795091415,
+            last_update = 1795092319,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
