@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795093439
+ItemStorageDB_LastUpdate = 1795093465
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9857,8 +9857,8 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 20:42:26",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 16:04:25",
         money = 14062,
         empty = 89,
         location = "Оргриммар",
@@ -9876,7 +9876,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
-                count = 7,
+                count = 8,
             },
             {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
@@ -9996,7 +9996,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                 name = "Знак Кил'джедена",
-                count = 122,
+                count = 137,
             },
             {
                 link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
@@ -10060,7 +10060,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794940879,
+            last_update = 1795093460,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10075,7 +10075,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                     name = "Латные перчатки Скверны",
-                    count = 7,
+                    count = 8,
                 },
                 {
                     link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
@@ -10185,7 +10185,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:29425:0:0:0:0:0:0:0:10|h[Знак Кил'джедена]|h|r",
                     name = "Знак Кил'джедена",
-                    count = 122,
+                    count = 137,
                 },
                 {
                     link = "|cffffffff|Hitem:29426:0:0:0:0:0:0:0:10|h[Перстень Огнекрылов]|h|r",
@@ -10250,7 +10250,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794940887,
+            last_update = 1795093460,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
