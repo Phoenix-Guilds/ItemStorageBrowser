@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795109551
+ItemStorageDB_LastUpdate = 1795109626
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10342,10 +10342,10 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 15:44:56",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 19:33:46",
         money = 213874,
-        empty = 40,
+        empty = 41,
         location = "Оргриммар",
         items = {
             {
@@ -10634,11 +10634,6 @@ ItemStorageDB = {
                 count = 152,
             },
             {
-                link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
-                name = "Пикантное мясо моллюска",
-                count = 15,
-            },
-            {
                 link = "|cffffffff|Hitem:6889:0:0:0:0:0:0:0:10|h[Небольшое яйцо]|h|r",
                 name = "Небольшое яйцо",
                 count = 100,
@@ -10660,7 +10655,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795092288,
+            last_update = 1795109612,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10950,7 +10945,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795092290,
+            last_update = 1795109619,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -11041,11 +11036,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:5503:0:0:0:0:0:0:0:10|h[Мясо моллюска]|h|r",
                     name = "Мясо моллюска",
                     count = 2,
-                },
-                {
-                    link = "|cffffffff|Hitem:5504:0:0:0:0:0:0:0:10|h[Пикантное мясо моллюска]|h|r",
-                    name = "Пикантное мясо моллюска",
-                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:769:0:0:0:0:0:0:0:10|h[Кусок кабанины]|h|r",
