@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795091355
+ItemStorageDB_LastUpdate = 1795091421
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -4972,8 +4972,8 @@ ItemStorageDB = {
     },
     {
         name = "Извечка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-17 21:26:00",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 15:30:21",
         money = 899680,
         empty = 91,
         location = "Оргриммар",
@@ -5111,12 +5111,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                 name = "Маленькая блестящая жемчужина",
-                count = 121,
+                count = 122,
             },
             {
                 link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                 name = "Радужная жемчужина",
-                count = 28,
+                count = 31,
             },
             {
                 link = "|cff1eff00|Hitem:7076:0:0:0:0:0:0:0:10|h[Субстанция Земли]|h|r",
@@ -5241,7 +5241,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                 name = "Первородная вода",
-                count = 238,
+                count = 239,
             },
             {
                 link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -5281,11 +5281,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                 name = "Черный купорос",
-                count = 105,
+                count = 104,
             },
         },
         bank = {
-            last_update = 1794943552,
+            last_update = 1795091414,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5510,7 +5510,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:7070:0:0:0:0:0:0:0:10|h[Первородная вода]|h|r",
                     name = "Первородная вода",
-                    count = 238,
+                    count = 239,
                 },
                 {
                     link = "|cffffffff|Hitem:7075:0:0:0:0:0:0:0:10|h[Ядро земли]|h|r",
@@ -5550,7 +5550,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794943555,
+            last_update = 1795091415,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5580,12 +5580,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:5498:0:0:0:0:0:0:0:10|h[Маленькая блестящая жемчужина]|h|r",
                     name = "Маленькая блестящая жемчужина",
-                    count = 121,
+                    count = 122,
                 },
                 {
                     link = "|cff1eff00|Hitem:5500:0:0:0:0:0:0:0:10|h[Радужная жемчужина]|h|r",
                     name = "Радужная жемчужина",
-                    count = 28,
+                    count = 31,
                 },
                 {
                     link = "|cff1eff00|Hitem:7971:0:0:0:0:0:0:0:10|h[Черная жемчужина]|h|r",
@@ -5595,7 +5595,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                     name = "Черный купорос",
-                    count = 105,
+                    count = 104,
                 },
             },
         },
