@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795091785
+ItemStorageDB_LastUpdate = 1795091814
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2583,9 +2583,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 00:09:24",
+        updated_at = "2026-11-19 15:36:54",
         money = 92710,
-        empty = 69,
+        empty = 68,
         location = "Оргриммар",
         items = {
             {
@@ -2621,7 +2621,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
                 name = "Дубина Ракзура",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
@@ -3155,7 +3155,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795036119,
+            last_update = 1795091807,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3640,11 +3640,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795036158,
+            last_update = 1795091809,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
                     name = "Эгида Штормграда",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12983:0:0:0:0:0:0:0:10|h[Дубина Ракзура]|h|r",
+                    name = "Дубина Ракзура",
                     count = 1,
                 },
                 {
