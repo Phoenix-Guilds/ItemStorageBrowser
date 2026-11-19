@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795092603
+ItemStorageDB_LastUpdate = 1795092656
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2583,9 +2583,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 15:36:54",
+        updated_at = "2026-11-19 15:50:56",
         money = 92710,
-        empty = 68,
+        empty = 67,
         location = "Оргриммар",
         items = {
             {
@@ -2924,6 +2924,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
+                name = "Массивная треугольная палица",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
                 name = "Кубок боли",
                 count = 2,
@@ -3155,7 +3160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795091807,
+            last_update = 1795092648,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3640,7 +3645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795091809,
+            last_update = 1795092650,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3710,6 +3715,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
                     name = "Клеймор бойца",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
+                    name = "Массивная треугольная палица",
                     count = 1,
                 },
                 {
