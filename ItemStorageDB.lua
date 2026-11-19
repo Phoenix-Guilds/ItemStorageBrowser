@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795113993
+ItemStorageDB_LastUpdate = 1795117305
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9072,10 +9072,10 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 15:46:35",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-19 21:41:45",
         money = 208636,
-        empty = 56,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -9416,7 +9416,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:5996:0:0:0:0:0:0:0:10|h[Эликсир подводного дыхания]|h|r",
                 name = "Эликсир подводного дыхания",
-                count = 33,
+                count = 27,
             },
             {
                 link = "|cffffffff|Hitem:5997:0:0:0:0:0:0:0:10|h[Слабый эликсир защиты]|h|r",
@@ -9431,7 +9431,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6372:0:0:0:0:0:0:0:10|h[Зелье быстрого плавания]|h|r",
                 name = "Зелье быстрого плавания",
-                count = 77,
+                count = 71,
             },
             {
                 link = "|cffffffff|Hitem:6452:0:0:0:0:0:0:0:10|h[Противоядие]|h|r",
@@ -9495,7 +9495,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795092387,
+            last_update = 1795117289,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9750,7 +9750,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:5996:0:0:0:0:0:0:0:10|h[Эликсир подводного дыхания]|h|r",
                     name = "Эликсир подводного дыхания",
-                    count = 33,
+                    count = 27,
                 },
                 {
                     link = "|cffffffff|Hitem:5997:0:0:0:0:0:0:0:10|h[Слабый эликсир защиты]|h|r",
@@ -9760,7 +9760,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6372:0:0:0:0:0:0:0:10|h[Зелье быстрого плавания]|h|r",
                     name = "Зелье быстрого плавания",
-                    count = 77,
+                    count = 71,
                 },
                 {
                     link = "|cffffffff|Hitem:6452:0:0:0:0:0:0:0:10|h[Противоядие]|h|r",
@@ -9815,7 +9815,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795092388,
+            last_update = 1795117298,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
