@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795193680
+ItemStorageDB_LastUpdate = 1795203880
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21628,9 +21628,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-20 17:11:23",
+        updated_at = "2026-11-20 21:44:40",
         money = 203936,
-        empty = 54,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -21646,7 +21646,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                 name = "Мертвопламенный плащ",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
@@ -22250,7 +22250,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795187469,
+            last_update = 1795203856,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22265,7 +22265,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
                     name = "Мертвопламенный плащ",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:12987:0:0:0:0:0:0:0:10|h[Темнотканые брюки]|h|r",
@@ -22775,7 +22775,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795187478,
+            last_update = 1795203874,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
