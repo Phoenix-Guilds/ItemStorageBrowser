@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795186074
+ItemStorageDB_LastUpdate = 1795186206
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6083,9 +6083,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 22:13:39",
+        updated_at = "2026-11-20 16:50:06",
         money = 778001,
-        empty = 48,
+        empty = 53,
         location = "Оргриммар",
         items = {
             {
@@ -6341,7 +6341,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                 name = "Тяжелый камень",
-                count = 839,
+                count = 600,
             },
             {
                 link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
@@ -6420,7 +6420,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795119196,
+            last_update = 1795186137,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6635,7 +6635,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
                     name = "Тяжелый камень",
-                    count = 800,
+                    count = 600,
                 },
                 {
                     link = "|cffffffff|Hitem:3470:0:0:0:0:0:0:0:10|h[Грубый шлифовальный камень]|h|r",
@@ -6665,7 +6665,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795119213,
+            last_update = 1795186199,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6706,11 +6706,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:23528:0:0:0:0:0:0:0:10|h[Точило Скверны]|h|r",
                     name = "Точило Скверны",
                     count = 25,
-                },
-                {
-                    link = "|cffffffff|Hitem:2838:0:0:0:0:0:0:0:10|h[Тяжелый камень]|h|r",
-                    name = "Тяжелый камень",
-                    count = 39,
                 },
                 {
                     link = "|cffffffff|Hitem:28420:0:0:0:0:0:0:0:10|h[Грузило Скверны]|h|r",
