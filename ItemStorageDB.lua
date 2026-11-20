@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795183636
+ItemStorageDB_LastUpdate = 1795184390
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9943,9 +9943,9 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 18:23:19",
+        updated_at = "2026-11-20 16:19:50",
         money = 14062,
-        empty = 89,
+        empty = 91,
         location = "Оргриммар",
         items = {
             {
@@ -9962,11 +9962,6 @@ ItemStorageDB = {
                 link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                 name = "Латные перчатки Скверны",
                 count = 8,
-            },
-            {
-                link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
-                name = "Зеленый кожаный доспех",
-                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -10145,7 +10140,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795105392,
+            last_update = 1795184374,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10161,11 +10156,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:29740:0:0:0:0:0:0:0:10|h[Латные перчатки Скверны]|h|r",
                     name = "Латные перчатки Скверны",
                     count = 8,
-                },
-                {
-                    link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
-                    name = "Зеленый кожаный доспех",
-                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -10335,7 +10325,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795105393,
+            last_update = 1795184383,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
