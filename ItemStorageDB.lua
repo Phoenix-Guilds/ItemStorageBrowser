@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795203880
+ItemStorageDB_LastUpdate = 1795203927
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17068,9 +17068,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 21:55:36",
+        updated_at = "2026-11-20 21:45:27",
         money = 58852,
-        empty = 84,
+        empty = 85,
         location = "Оргриммар",
         items = {
             {
@@ -17416,11 +17416,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3201:20319:0:0:0:0:687:0:10|h[Варварская секира со знаком тигра]|h|r",
                 name = "Варварская секира со знаком тигра",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:3202:929:0:0:0:0:0:0:10|h[Лесные кожаные наручи]|h|r",
-                name = "Лесные кожаные наручи",
                 count = 1,
             },
             {
@@ -17850,7 +17845,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795118127,
+            last_update = 1795203912,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -18090,11 +18085,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3066:931:0:0:0:0:0:0:10|h[Яркие перчатки]|h|r",
                     name = "Яркие перчатки",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:3202:929:0:0:0:0:0:0:10|h[Лесные кожаные наручи]|h|r",
-                    name = "Лесные кожаные наручи",
                     count = 1,
                 },
                 {
@@ -18370,7 +18360,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795118128,
+            last_update = 1795203920,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
