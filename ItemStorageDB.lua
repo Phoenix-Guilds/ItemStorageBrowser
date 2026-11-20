@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795186897
+ItemStorageDB_LastUpdate = 1795187483
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21598,9 +21598,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-20 16:31:21",
+        updated_at = "2026-11-20 17:11:23",
         money = 203936,
-        empty = 53,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -21847,11 +21847,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
                 name = "Накидка черного призрака",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
-                name = "Сапоги из чешуи равазавра",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13125:0:0:0:0:0:0:0:10|h[Эльфийские плетеные сапоги]|h|r",
@@ -22225,7 +22220,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795185062,
+            last_update = 1795187469,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22750,7 +22745,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795185074,
+            last_update = 1795187478,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
@@ -22805,11 +22800,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
                     name = "Накидка черного призрака",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13124:0:0:0:0:0:0:0:10|h[Сапоги из чешуи равазавра]|h|r",
-                    name = "Сапоги из чешуи равазавра",
                     count = 1,
                 },
                 {
