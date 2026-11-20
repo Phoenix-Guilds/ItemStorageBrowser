@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795209052
+ItemStorageDB_LastUpdate = 1795209063
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21597,10 +21597,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-20 21:44:40",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-21 00:11:03",
         money = 203936,
-        empty = 55,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -22051,7 +22051,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
                 name = "Когти эльфийского духа",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
@@ -22111,11 +22111,6 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
                 name = "Перчатки Флетчера",
-                count = 1,
-            },
-            {
-                link = "|cff0070dd|Hitem:8349:0:0:0:0:0:0:0:10|h[Оперенная перьями кираса]|h|r",
-                name = "Оперенная перьями кираса",
                 count = 1,
             },
             {
@@ -22220,7 +22215,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795203856,
+            last_update = 1795209013,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22640,7 +22635,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
                     name = "Когти эльфийского духа",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2721:0:0:0:0:0:0:0:10|h[Святой капюшон]|h|r",
@@ -22670,11 +22665,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
                     name = "Перчатки Флетчера",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:8349:0:0:0:0:0:0:0:10|h[Оперенная перьями кираса]|h|r",
-                    name = "Оперенная перьями кираса",
                     count = 1,
                 },
                 {
@@ -22745,7 +22735,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795203874,
+            last_update = 1795209046,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
