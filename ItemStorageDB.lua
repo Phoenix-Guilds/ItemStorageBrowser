@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795188585
+ItemStorageDB_LastUpdate = 1795188671
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19273,9 +19273,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 21:58:43",
+        updated_at = "2026-11-20 17:31:11",
         money = 475064,
-        empty = 112,
+        empty = 113,
         location = "Оргриммар",
         items = {
             {
@@ -19486,7 +19486,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                 name = "Масляный черноротик",
-                count = 175,
+                count = 125,
             },
             {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
@@ -19540,7 +19540,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795118317,
+            last_update = 1795188636,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19755,7 +19755,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795118318,
+            last_update = 1795188642,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -19795,7 +19795,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                     name = "Масляный черноротик",
-                    count = 175,
+                    count = 125,
                 },
                 {
                     link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
