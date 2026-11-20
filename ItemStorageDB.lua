@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795184390
+ItemStorageDB_LastUpdate = 1795185081
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21613,9 +21613,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 19:39:54",
+        updated_at = "2026-11-20 16:31:21",
         money = 203936,
-        empty = 54,
+        empty = 53,
         location = "Оргриммар",
         items = {
             {
@@ -21896,7 +21896,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
                 name = "Искрящееся оплечье",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13132:0:0:0:0:0:0:0:10|h[Скелетные наплечники]|h|r",
@@ -22104,6 +22104,11 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cff0070dd|Hitem:3844:0:0:0:0:0:0:0:10|h[Зеленый железный хауберк]|h|r",
+                name = "Зеленый железный хауберк",
+                count = 2,
+            },
+            {
                 link = "|cff0070dd|Hitem:43515:0:0:0:0:0:0:0:10|h[Мистический том]|h|r",
                 name = "Мистический том",
                 count = 2,
@@ -22235,7 +22240,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795109982,
+            last_update = 1795185062,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22760,7 +22765,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795109986,
+            last_update = 1795185074,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
@@ -22830,7 +22835,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13131:0:0:0:0:0:0:0:10|h[Искрящееся оплечье]|h|r",
                     name = "Искрящееся оплечье",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:16681:0:0:0:0:0:0:0:10|h[Наручники загонщика]|h|r",
@@ -22881,6 +22886,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
                     name = "Шапка терпения",
                     count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:3844:0:0:0:0:0:0:0:10|h[Зеленый железный хауберк]|h|r",
+                    name = "Зеленый железный хауберк",
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:43515:0:0:0:0:0:0:0:10|h[Мистический том]|h|r",
