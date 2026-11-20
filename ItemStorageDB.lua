@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795192171
+ItemStorageDB_LastUpdate = 1795192700
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8733,9 +8733,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 22:16:35",
+        updated_at = "2026-11-20 18:38:20",
         money = 41967,
-        empty = 157,
+        empty = 158,
         location = "Оргриммар",
         items = {
             {
@@ -8876,7 +8876,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
                 name = "Бронзовый слиток",
-                count = 180,
+                count = 146,
             },
             {
                 link = "|cffffffff|Hitem:3575:0:0:0:0:0:0:0:10|h[Железный слиток]|h|r",
@@ -8915,7 +8915,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795119373,
+            last_update = 1795192554,
             items = {
                 {
                     link = "|cff1eff00|Hitem:23426:0:0:0:0:0:0:0:10|h[Кориевая руда]|h|r",
@@ -9010,7 +9010,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
                     name = "Руда оскверненного железа",
-                    count = 244,
+                    count = 94,
                 },
                 {
                     link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
@@ -9095,12 +9095,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795119374,
+            last_update = 1795192554,
             items = {
                 {
-                    link = "|cffffffff|Hitem:2841:0:0:0:0:0:0:0:10|h[Бронзовый слиток]|h|r",
-                    name = "Бронзовый слиток",
-                    count = 34,
+                    link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
+                    name = "Руда оскверненного железа",
+                    count = 150,
                 },
             },
         },
