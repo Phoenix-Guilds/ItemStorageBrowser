@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795209063
+ItemStorageDB_LastUpdate = 1795211075
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9947,10 +9947,10 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 00:10:52",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-20 23:44:35",
         money = 14062,
-        empty = 90,
+        empty = 91,
         location = "Оргриммар",
         items = {
             {
@@ -9981,7 +9981,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 27,
+                count = 26,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -10121,7 +10121,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 49,
+                count = 59,
             },
             {
                 link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
@@ -10150,7 +10150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795208841,
+            last_update = 1795188360,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10310,7 +10310,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                     name = "Жареное крыло канюка",
-                    count = 49,
+                    count = 59,
                 },
                 {
                     link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
@@ -10340,12 +10340,12 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795208858,
+            last_update = 1795211069,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 27,
+                    count = 26,
                 },
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
