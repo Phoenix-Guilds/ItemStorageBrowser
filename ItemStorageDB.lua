@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795290565
+ItemStorageDB_LastUpdate = 1795290644
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6058,9 +6058,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 19:14:57",
+        updated_at = "2026-11-21 21:50:44",
         money = 778001,
-        empty = 50,
+        empty = 48,
         location = "Оргриммар",
         items = {
             {
@@ -6256,7 +6256,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
                 name = "Аквамарин",
-                count = 303,
+                count = 307,
             },
             {
                 link = "|cff1eff00|Hitem:7910:0:0:0:0:0:0:0:10|h[Звездный рубин]|h|r",
@@ -6361,7 +6361,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
                 name = "Тяжелый шлифовальный камень",
-                count = 278,
+                count = 295,
             },
             {
                 link = "|cffffffff|Hitem:6041:0:0:0:0:0:0:0:10|h[Стальная цепь для оружия]|h|r",
@@ -6400,7 +6400,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795281290,
+            last_update = 1795290578,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6645,7 +6645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795281292,
+            last_update = 1795290591,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6661,6 +6661,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:42500:0:0:0:0:0:0:0:10|h[Титановый шип для щита]|h|r",
                     name = "Титановый шип для щита",
                     count = 9,
+                },
+                {
+                    link = "|cff1eff00|Hitem:7909:0:0:0:0:0:0:0:10|h[Аквамарин]|h|r",
+                    name = "Аквамарин",
+                    count = 4,
                 },
                 {
                     link = "|cff1eff00|Hitem:7967:0:0:0:0:0:0:0:10|h[Мифриловый шип для щита]|h|r",
@@ -6716,6 +6721,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:3240:0:0:0:0:0:0:0:10|h[Зернистое грузило]|h|r",
                     name = "Зернистое грузило",
                     count = 41,
+                },
+                {
+                    link = "|cffffffff|Hitem:3486:0:0:0:0:0:0:0:10|h[Тяжелый шлифовальный камень]|h|r",
+                    name = "Тяжелый шлифовальный камень",
+                    count = 17,
                 },
                 {
                     link = "|cffffffff|Hitem:6041:0:0:0:0:0:0:0:10|h[Стальная цепь для оружия]|h|r",
