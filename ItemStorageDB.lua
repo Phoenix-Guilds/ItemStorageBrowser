@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795292378
+ItemStorageDB_LastUpdate = 1795292450
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21833,9 +21833,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 20:43:16",
+        updated_at = "2026-11-21 22:20:50",
         money = 203936,
-        empty = 59,
+        empty = 61,
         location = "Оргриммар",
         items = {
             {
@@ -22087,11 +22087,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13126:0:0:0:0:0:0:0:10|h[Рукавицы Зовущего битву]|h|r",
                 name = "Рукавицы Зовущего битву",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
-                name = "Корона северного разбойника",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13128:0:0:0:0:0:0:0:10|h[Шлем Большого Берга]|h|r",
@@ -22361,7 +22356,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                 name = "Ремень силы голема",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
@@ -22445,7 +22440,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795286569,
+            last_update = 1795292417,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22908,11 +22903,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
-                    name = "Ремень силы голема",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:9433:0:0:0:0:0:0:0:10|h[Забытые напульсники]|h|r",
                     name = "Забытые напульсники",
                     count = 2,
@@ -22965,7 +22955,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795286579,
+            last_update = 1795292440,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
@@ -23010,11 +23000,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
                     name = "Накидка черного призрака",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13127:0:0:0:0:0:0:0:10|h[Корона северного разбойника]|h|r",
-                    name = "Корона северного разбойника",
                     count = 1,
                 },
                 {
