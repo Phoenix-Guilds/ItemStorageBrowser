@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795263265
+ItemStorageDB_LastUpdate = 1795263398
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-20 17:15:05",
+        updated_at = "2026-11-21 14:16:38",
         money = 92710,
-        empty = 63,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -3079,11 +3079,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
-                name = "Канг Обезглавливатель",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:2801:0:0:0:0:0:0:0:10|h[Клинок Ханны]|h|r",
                 name = "Клинок Ханны",
                 count = 1,
@@ -3150,7 +3145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795183494,
+            last_update = 1795263335,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3635,7 +3630,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795187556,
+            last_update = 1795263349,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3755,11 +3750,6 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2163:0:0:0:0:0:0:0:10|h[Теневой клинок]|h|r",
                     name = "Теневой клинок",
-                    count = 1,
-                },
-                {
-                    link = "|cffa335ee|Hitem:2291:0:0:0:0:0:0:0:10|h[Канг Обезглавливатель]|h|r",
-                    name = "Канг Обезглавливатель",
                     count = 1,
                 },
                 {
