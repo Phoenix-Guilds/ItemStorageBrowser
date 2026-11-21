@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795275462
+ItemStorageDB_LastUpdate = 1795275517
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9908,7 +9908,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 14:14:25",
+        updated_at = "2026-11-21 17:38:37",
         money = 14062,
         empty = 92,
         location = "Оргриммар",
@@ -9966,7 +9966,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
                 name = "Разорванная шкура медведя",
-                count = 14,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э'ко диких совухов]|h|r",
@@ -10081,7 +10081,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                 name = "Жареное крыло канюка",
-                count = 59,
+                count = 49,
             },
             {
                 link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
@@ -10110,7 +10110,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795188360,
+            last_update = 1795275511,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10155,7 +10155,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
                     name = "Разорванная шкура медведя",
-                    count = 14,
+                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э'ко диких совухов]|h|r",
@@ -10270,7 +10270,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4457:0:0:0:0:0:0:0:10|h[Жареное крыло канюка]|h|r",
                     name = "Жареное крыло канюка",
-                    count = 59,
+                    count = 49,
                 },
                 {
                     link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
@@ -10300,7 +10300,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795263258,
+            last_update = 1795275512,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
