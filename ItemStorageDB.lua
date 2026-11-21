@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795280117
+ItemStorageDB_LastUpdate = 1795280177
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13623,7 +13623,7 @@ ItemStorageDB = {
     {
         name = "Пыляшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-20 16:07:16",
+        updated_at = "2026-11-21 18:56:17",
         money = 2157478,
         empty = 106,
         location = "Оргриммар",
@@ -13631,7 +13631,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
                 name = "Малый мерцающий осколок",
-                count = 101,
+                count = 108,
             },
             {
                 link = "|cff0070dd|Hitem:11084:0:0:0:0:0:0:0:10|h[Большой мерцающий осколок]|h|r",
@@ -13691,7 +13691,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:10938:0:0:0:0:0:0:0:10|h[Малая магическая субстанция]|h|r",
                 name = "Малая магическая субстанция",
-                count = 58,
+                count = 91,
             },
             {
                 link = "|cff1eff00|Hitem:10998:0:0:0:0:0:0:0:10|h[Простая Астральная субстанция]|h|r",
@@ -13751,7 +13751,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                 name = "Странная пыль",
-                count = 452,
+                count = 488,
             },
             {
                 link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
@@ -13855,12 +13855,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795183621,
+            last_update = 1795280170,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10978:0:0:0:0:0:0:0:10|h[Малый мерцающий осколок]|h|r",
                     name = "Малый мерцающий осколок",
-                    count = 101,
+                    count = 108,
                 },
                 {
                     link = "|cff0070dd|Hitem:11084:0:0:0:0:0:0:0:10|h[Большой мерцающий осколок]|h|r",
@@ -13920,7 +13920,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:10938:0:0:0:0:0:0:0:10|h[Малая магическая субстанция]|h|r",
                     name = "Малая магическая субстанция",
-                    count = 58,
+                    count = 91,
                 },
                 {
                     link = "|cff1eff00|Hitem:10998:0:0:0:0:0:0:0:10|h[Простая Астральная субстанция]|h|r",
@@ -13980,7 +13980,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10940:0:0:0:0:0:0:0:10|h[Странная пыль]|h|r",
                     name = "Странная пыль",
-                    count = 452,
+                    count = 488,
                 },
                 {
                     link = "|cffffffff|Hitem:11083:0:0:0:0:0:0:0:10|h[Пыль духа]|h|r",
@@ -14045,7 +14045,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795183629,
+            last_update = 1795280172,
             items = {
                 {
                     link = "|cffffffff|Hitem:11128:0:0:0:0:0:0:0:10|h[Золотой жезл]|h|r",
