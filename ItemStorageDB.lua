@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795281297
+ItemStorageDB_LastUpdate = 1795281343
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8688,7 +8688,7 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 19:13:32",
+        updated_at = "2026-11-21 19:15:43",
         money = 41967,
         empty = 148,
         location = "Оргриммар",
@@ -8721,7 +8721,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                 name = "Серебряная руда",
-                count = 8,
+                count = 24,
             },
             {
                 link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
@@ -8736,7 +8736,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
                 name = "Золотой слиток",
-                count = 905,
+                count = 926,
             },
             {
                 link = "|cff1eff00|Hitem:36910:0:0:0:0:0:0:0:10|h[Титановая руда]|h|r",
@@ -8870,7 +8870,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795281204,
+            last_update = 1795281338,
             items = {
                 {
                     link = "|cff1eff00|Hitem:23426:0:0:0:0:0:0:0:10|h[Кориевая руда]|h|r",
@@ -8900,7 +8900,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:2775:0:0:0:0:0:0:0:10|h[Серебряная руда]|h|r",
                     name = "Серебряная руда",
-                    count = 8,
+                    count = 24,
                 },
                 {
                     link = "|cff1eff00|Hitem:2776:0:0:0:0:0:0:0:10|h[Золотая руда]|h|r",
@@ -8915,7 +8915,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3577:0:0:0:0:0:0:0:10|h[Золотой слиток]|h|r",
                     name = "Золотой слиток",
-                    count = 905,
+                    count = 926,
                 },
                 {
                     link = "|cff1eff00|Hitem:36910:0:0:0:0:0:0:0:10|h[Титановая руда]|h|r",
@@ -9050,7 +9050,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795281206,
+            last_update = 1795281339,
             items = {
             },
         },
