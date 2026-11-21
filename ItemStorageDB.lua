@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795286252
+ItemStorageDB_LastUpdate = 1795286297
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17118,9 +17118,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 19:17:22",
+        updated_at = "2026-11-21 20:38:17",
         money = 58852,
-        empty = 77,
+        empty = 76,
         location = "Оргриммар",
         items = {
             {
@@ -17654,6 +17654,11 @@ ItemStorageDB = {
                 count = 3,
             },
             {
+                link = "|cff1eff00|Hitem:5071:0:0:0:0:0:0:0:10|h[Жезл тени]|h|r",
+                name = "Жезл тени",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:5207:0:0:0:0:0:0:0:10|h[Матовый жезл]|h|r",
                 name = "Матовый жезл",
                 count = 1,
@@ -17935,7 +17940,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795281433,
+            last_update = 1795286291,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -18455,7 +18460,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795281436,
+            last_update = 1795286292,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -18661,6 +18666,11 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:5069:0:0:0:0:0:0:0:10|h[Огненный жезл]|h|r",
                     name = "Огненный жезл",
                     count = 3,
+                },
+                {
+                    link = "|cff1eff00|Hitem:5071:0:0:0:0:0:0:0:10|h[Жезл тени]|h|r",
+                    name = "Жезл тени",
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:5207:0:0:0:0:0:0:0:10|h[Матовый жезл]|h|r",
