@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795292597
+ItemStorageDB_LastUpdate = 1795292951
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19478,9 +19478,9 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 19:20:19",
+        updated_at = "2026-11-21 22:29:11",
         money = 475064,
-        empty = 111,
+        empty = 112,
         location = "Оргриммар",
         items = {
             {
@@ -19526,7 +19526,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                 name = "Горный серебряный шалфей",
-                count = 24,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -19691,7 +19691,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                 name = "Масляный черноротик",
-                count = 125,
+                count = 65,
             },
             {
                 link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
@@ -19701,7 +19701,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                 name = "Масло черноротика",
-                count = 10,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
@@ -19745,7 +19745,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795281614,
+            last_update = 1795292867,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19775,7 +19775,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:13465:0:0:0:0:0:0:0:10|h[Горный серебряный шалфей]|h|r",
                     name = "Горный серебряный шалфей",
-                    count = 24,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:13466:0:0:0:0:0:0:0:10|h[Чумоцвет]|h|r",
@@ -19960,7 +19960,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795281615,
+            last_update = 1795292944,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
@@ -20000,7 +20000,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
                     name = "Масляный черноротик",
-                    count = 125,
+                    count = 65,
                 },
                 {
                     link = "|cffffffff|Hitem:6359:0:0:0:0:0:0:0:10|h[Огнеперый луциан]|h|r",
@@ -20010,7 +20010,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6370:0:0:0:0:0:0:0:10|h[Масло черноротика]|h|r",
                     name = "Масло черноротика",
-                    count = 10,
+                    count = 40,
                 },
             },
         },
