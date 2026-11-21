@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795281619
+ItemStorageDB_LastUpdate = 1795281668
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5028,7 +5028,7 @@ ItemStorageDB = {
     {
         name = "Извечка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 18:57:05",
+        updated_at = "2026-11-21 19:21:08",
         money = 899680,
         empty = 94,
         location = "Оргриммар",
@@ -5041,7 +5041,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31079:0:0:0:0:0:0:0:10|h[Переменчивый адамантит]|h|r",
                 name = "Переменчивый адамантит",
-                count = 1,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5336,11 +5336,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                 name = "Черный купорос",
-                count = 104,
+                count = 105,
             },
         },
         bank = {
-            last_update = 1795280213,
+            last_update = 1795281663,
             items = {
                 {
                     link = "|cff0070dd|Hitem:17010:0:0:0:0:0:0:0:10|h[Огненное ядро]|h|r",
@@ -5350,7 +5350,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31079:0:0:0:0:0:0:0:10|h[Переменчивый адамантит]|h|r",
                     name = "Переменчивый адамантит",
-                    count = 1,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:9719:0:0:0:0:0:0:0:10|h[Сломанный клинок героев]|h|r",
@@ -5605,7 +5605,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795280215,
+            last_update = 1795281664,
             items = {
                 {
                     link = "|cff0070dd|Hitem:36784:0:0:0:0:0:0:0:10|h[Слеза Сирены]|h|r",
@@ -5650,7 +5650,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:9262:0:0:0:0:0:0:0:10|h[Черный купорос]|h|r",
                     name = "Черный купорос",
-                    count = 104,
+                    count = 105,
                 },
             },
         },
