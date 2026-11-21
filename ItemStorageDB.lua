@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795286297
+ItemStorageDB_LastUpdate = 1795286596
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21793,9 +21793,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 20:37:32",
+        updated_at = "2026-11-21 20:43:16",
         money = 203936,
-        empty = 58,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -22231,7 +22231,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                 name = "Сапоги тиноброда",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
@@ -22405,7 +22405,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795286244,
+            last_update = 1795286569,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22810,7 +22810,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                     name = "Сапоги тиноброда",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
@@ -22925,7 +22925,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795286247,
+            last_update = 1795286579,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
