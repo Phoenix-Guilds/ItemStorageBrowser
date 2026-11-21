@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795285510
+ItemStorageDB_LastUpdate = 1795286252
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21783,9 +21783,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 19:01:02",
+        updated_at = "2026-11-21 20:37:32",
         money = 203936,
-        empty = 61,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -21796,7 +21796,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
                 name = "Пояс вестника шторма",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:12979:0:0:0:0:0:0:0:10|h[Мертвопламенный плащ]|h|r",
@@ -22214,6 +22214,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:2059:0:0:0:0:0:0:0:10|h[Плащ стражника]|h|r",
+                name = "Плащ стражника",
+                count = 1,
+            },
+            {
                 link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                 name = "Сапоги тиноброда",
                 count = 2,
@@ -22231,7 +22236,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
                 name = "Когти эльфийского духа",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2565:0:0:0:0:0:0:0:10|h[Жезл расплавленного огня]|h|r",
@@ -22390,7 +22395,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795280454,
+            last_update = 1795286244,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22910,11 +22915,16 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795280457,
+            last_update = 1795286247,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
                     name = "Перчатки Клыка",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
+                    name = "Пояс вестника шторма",
                     count = 1,
                 },
                 {
@@ -22970,6 +22980,16 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:17061:0:0:0:0:0:0:0:10|h[Тень Джуно]|h|r",
                     name = "Тень Джуно",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2059:0:0:0:0:0:0:0:10|h[Плащ стражника]|h|r",
+                    name = "Плащ стражника",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:2564:0:0:0:0:0:0:0:10|h[Когти эльфийского духа]|h|r",
+                    name = "Когти эльфийского духа",
                     count = 1,
                 },
                 {
