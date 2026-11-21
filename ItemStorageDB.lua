@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795281343
+ItemStorageDB_LastUpdate = 1795281390
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5658,7 +5658,7 @@ ItemStorageDB = {
     {
         name = "Инженерная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 21:54:53",
+        updated_at = "2026-11-21 19:16:30",
         money = 16160,
         empty = 138,
         location = "Оргриммар",
@@ -5781,7 +5781,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
                 name = "Горсть медных винтов",
-                count = 7,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
@@ -5851,11 +5851,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                 name = "Бурдюк с маслом",
-                count = 17,
+                count = 18,
             },
         },
         bank = {
-            last_update = 1795118087,
+            last_update = 1795281385,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5975,7 +5975,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
                     name = "Горсть медных винтов",
-                    count = 7,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
@@ -6045,12 +6045,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                     name = "Бурдюк с маслом",
-                    count = 17,
+                    count = 18,
                 },
             },
         },
         bags = {
-            last_update = 1795118089,
+            last_update = 1795281386,
             items = {
             },
         },
