@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795281900
+ItemStorageDB_LastUpdate = 1795281952
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9063,7 +9063,7 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 18:49:55",
+        updated_at = "2026-11-21 19:25:52",
         money = 208636,
         empty = 56,
         location = "Оргриммар",
@@ -9181,7 +9181,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                 name = "Крохотный флакон с зельем маны",
-                count = 83,
+                count = 85,
             },
             {
                 link = "|cffffffff|Hitem:2456:0:0:0:0:0:0:0:10|h[Слабое зелье омоложения]|h|r",
@@ -9485,7 +9485,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795279788,
+            last_update = 1795281944,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9805,7 +9805,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795279790,
+            last_update = 1795281947,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
@@ -9850,7 +9850,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2455:0:0:0:0:0:0:0:10|h[Крохотный флакон с зельем маны]|h|r",
                     name = "Крохотный флакон с зельем маны",
-                    count = 83,
+                    count = 85,
                 },
                 {
                     link = "|cffffffff|Hitem:2456:0:0:0:0:0:0:0:10|h[Слабое зелье омоложения]|h|r",
