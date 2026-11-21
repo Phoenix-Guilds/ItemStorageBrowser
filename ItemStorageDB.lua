@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795264826
+ItemStorageDB_LastUpdate = 1795264912
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 14:16:38",
+        updated_at = "2026-11-21 14:41:52",
         money = 92710,
-        empty = 64,
+        empty = 65,
         location = "Оргриммар",
         items = {
             {
@@ -2631,7 +2631,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                 name = "Боевой топор лорда Александра",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
@@ -3145,7 +3145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795263335,
+            last_update = 1795264896,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3195,7 +3195,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                     name = "Боевой топор лорда Александра",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
@@ -3630,7 +3630,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795263349,
+            last_update = 1795264906,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
