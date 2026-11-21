@@ -1,17 +1,17 @@
-ItemStorageDB_LastUpdate = 1795281714
+ItemStorageDB_LastUpdate = 1795281849
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 18:51:36",
+        updated_at = "2026-11-21 19:24:09",
         money = 339404,
-        empty = 92,
+        empty = 91,
         location = "Оргриммар",
         items = {
             {
                 link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                 name = "Книга познания символов",
-                count = 37,
+                count = 38,
             },
             {
                 link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -2520,8 +2520,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795279890,
+            last_update = 1795281768,
             items = {
+                {
+                    link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
+                    name = "Книга познания символов",
+                    count = 1,
+                },
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
                     name = "Символ молнии",
