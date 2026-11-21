@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795263598
+ItemStorageDB_LastUpdate = 1795264745
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21568,9 +21568,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 14:17:28",
+        updated_at = "2026-11-21 14:39:05",
         money = 203936,
-        empty = 62,
+        empty = 63,
         location = "Оргриммар",
         items = {
             {
@@ -22159,18 +22159,13 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:2245:0:0:0:0:0:0:0:10|h[Шлем Нарва]|h|r",
-                name = "Шлем Нарва",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
                 name = "Одеяния Прозрения",
                 count = 2,
             },
         },
         bank = {
-            last_update = 1795263441,
+            last_update = 1795264714,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22678,11 +22673,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cffa335ee|Hitem:2245:0:0:0:0:0:0:0:10|h[Шлем Нарва]|h|r",
-                    name = "Шлем Нарва",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
                     name = "Одеяния Прозрения",
                     count = 1,
@@ -22690,7 +22680,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795263443,
+            last_update = 1795264739,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
