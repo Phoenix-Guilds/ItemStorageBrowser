@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795274890
+ItemStorageDB_LastUpdate = 1795274936
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10293,7 +10293,7 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 22:00:11",
+        updated_at = "2026-11-21 17:28:56",
         money = 213874,
         empty = 41,
         location = "Оргриммар",
@@ -10501,7 +10501,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3730:0:0:0:0:0:0:0:10|h[Мясо большого медведя]|h|r",
                 name = "Мясо большого медведя",
-                count = 2,
+                count = 11,
             },
             {
                 link = "|cffffffff|Hitem:3731:0:0:0:0:0:0:0:10|h[Мясо льва]|h|r",
@@ -10610,7 +10610,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795118402,
+            last_update = 1795274925,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10900,7 +10900,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795118406,
+            last_update = 1795274929,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10975,7 +10975,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3730:0:0:0:0:0:0:0:10|h[Мясо большого медведя]|h|r",
                     name = "Мясо большого медведя",
-                    count = 2,
+                    count = 11,
                 },
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
