@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795280505
+ItemStorageDB_LastUpdate = 1795280549
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23008,9 +23008,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 17:35:15",
+        updated_at = "2026-11-21 19:02:29",
         money = 194111,
-        empty = 46,
+        empty = 45,
         location = "Оргриммар",
         items = {
             {
@@ -23264,6 +23264,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:12007:0:0:0:0:0:675:0:10|h[Кольцо прерий со знаком тигра]|h|r",
+                name = "Кольцо прерий со знаком тигра",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:12008:0:0:0:0:0:132:0:10|h[Кольцо саванны со знаком ловкости]|h|r",
                 name = "Кольцо саванны со знаком ловкости",
                 count = 1,
@@ -23495,7 +23500,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795275308,
+            last_update = 1795280543,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23678,6 +23683,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff1eff00|Hitem:12007:0:0:0:0:0:675:0:10|h[Кольцо прерий со знаком тигра]|h|r",
+                    name = "Кольцо прерий со знаком тигра",
+                    count = 1,
+                },
+                {
                     link = "|cff1eff00|Hitem:12008:0:0:0:0:0:132:0:10|h[Кольцо саванны со знаком ловкости]|h|r",
                     name = "Кольцо саванны со знаком ловкости",
                     count = 1,
@@ -23820,7 +23830,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795275310,
+            last_update = 1795280543,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
