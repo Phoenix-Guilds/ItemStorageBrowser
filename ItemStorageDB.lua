@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795286596
+ItemStorageDB_LastUpdate = 1795286645
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13283,9 +13283,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 16:05:32",
+        updated_at = "2026-11-21 20:44:05",
         money = 13104,
-        empty = 57,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -13311,7 +13311,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                 name = "Лук небесного бойца",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cff0070dd|Hitem:13021:0:0:0:0:0:0:0:10|h[Продеватель игл]|h|r",
@@ -13460,7 +13460,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795269859,
+            last_update = 1795286628,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13480,7 +13480,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13020:0:0:0:0:0:0:0:10|h[Лук небесного бойца]|h|r",
                     name = "Лук небесного бойца",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cff0070dd|Hitem:13021:0:0:0:0:0:0:0:10|h[Продеватель игл]|h|r",
@@ -13590,7 +13590,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795269875,
+            last_update = 1795286638,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
