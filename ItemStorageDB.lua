@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795265103
+ItemStorageDB_LastUpdate = 1795265222
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13158,9 +13158,9 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 01:00:17",
+        updated_at = "2026-11-21 14:47:02",
         money = 13104,
-        empty = 54,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -13294,11 +13294,6 @@ ItemStorageDB = {
                 count = 7710,
             },
             {
-                link = "|cff1eff00|Hitem:18042:0:0:0:0:0:0:0:10|h[Стрела с ториевым наконечником]|h|r",
-                name = "Стрела с ториевым наконечником",
-                count = 10000,
-            },
-            {
                 link = "|cff1eff00|Hitem:23772:0:0:0:0:0:0:0:10|h[Патроны из оскверненного железа]|h|r",
                 name = "Патроны из оскверненного железа",
                 count = 16495,
@@ -13340,7 +13335,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795042799,
+            last_update = 1795265188,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13470,7 +13465,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795042809,
+            last_update = 1795265210,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -13496,11 +13491,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:15997:0:0:0:0:0:0:0:10|h[Ториевые патроны]|h|r",
                     name = "Ториевые патроны",
                     count = 7710,
-                },
-                {
-                    link = "|cff1eff00|Hitem:18042:0:0:0:0:0:0:0:10|h[Стрела с ториевым наконечником]|h|r",
-                    name = "Стрела с ториевым наконечником",
-                    count = 10000,
                 },
                 {
                     link = "|cff1eff00|Hitem:23772:0:0:0:0:0:0:0:10|h[Патроны из оскверненного железа]|h|r",
