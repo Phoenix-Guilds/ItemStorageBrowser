@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795275266
+ItemStorageDB_LastUpdate = 1795275315
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -22833,9 +22833,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-20 16:06:13",
+        updated_at = "2026-11-21 17:35:15",
         money = 194111,
-        empty = 47,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -23109,6 +23109,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff1eff00|Hitem:12019:0:0:0:0:0:765:0:10|h[Лазурный талисман со знаком совы]|h|r",
+                name = "Лазурный талисман со знаком совы",
+                count = 1,
+            },
+            {
                 link = "|cff1eff00|Hitem:12040:0:0:0:0:0:596:0:10|h[Лесная подвеска со знаком мартышки]|h|r",
                 name = "Лесная подвеска со знаком мартышки",
                 count = 1,
@@ -23315,7 +23320,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795183556,
+            last_update = 1795275308,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23640,7 +23645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795183567,
+            last_update = 1795275310,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23711,6 +23716,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:7734:0:0:0:0:0:0:0:10|h[Сумка Шести Демонов]|h|r",
                     name = "Сумка Шести Демонов",
                     count = 3,
+                },
+                {
+                    link = "|cff1eff00|Hitem:12019:0:0:0:0:0:765:0:10|h[Лазурный талисман со знаком совы]|h|r",
+                    name = "Лазурный талисман со знаком совы",
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:12040:0:0:0:0:0:596:0:10|h[Лесная подвеска со знаком мартышки]|h|r",
