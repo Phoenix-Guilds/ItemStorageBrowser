@@ -1,11 +1,11 @@
-ItemStorageDB_LastUpdate = 1795281952
+ItemStorageDB_LastUpdate = 1795285222
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 19:24:09",
+        updated_at = "2026-11-21 20:20:22",
         money = 339404,
-        empty = 91,
+        empty = 92,
         location = "Оргриммар",
         items = {
             {
@@ -716,7 +716,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                 name = "Символ шипов",
-                count = 8,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -1265,12 +1265,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795279888,
+            last_update = 1795285163,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
                     name = "Книга познания символов",
-                    count = 37,
+                    count = 38,
                 },
                 {
                     link = "|cffffffff|Hitem:40896:0:0:0:0:0:0:0:10|h[Символ неистового восстановления]|h|r",
@@ -1970,7 +1970,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43332:0:0:0:0:0:0:0:10|h[Символ шипов]|h|r",
                     name = "Символ шипов",
-                    count = 8,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:43334:0:0:0:0:0:0:0:10|h[Символ вызывающего рева]|h|r",
@@ -2520,13 +2520,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795281768,
+            last_update = 1795285199,
             items = {
-                {
-                    link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
-                    name = "Книга познания символов",
-                    count = 1,
-                },
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
                     name = "Символ молнии",
