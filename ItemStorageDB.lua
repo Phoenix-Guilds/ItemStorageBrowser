@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795274936
+ItemStorageDB_LastUpdate = 1795275020
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8648,9 +8648,9 @@ ItemStorageDB = {
     {
         name = "Медяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-20 18:38:20",
+        updated_at = "2026-11-21 17:30:20",
         money = 41967,
-        empty = 158,
+        empty = 155,
         location = "Оргриммар",
         items = {
             {
@@ -8721,7 +8721,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
                 name = "Ториевая руда",
-                count = 121,
+                count = 204,
             },
             {
                 link = "|cffffffff|Hitem:11370:0:0:0:0:0:0:0:10|h[Руда черного железа]|h|r",
@@ -8736,7 +8736,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                 name = "Ториевый слиток",
-                count = 200,
+                count = 230,
             },
             {
                 link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
@@ -8746,7 +8746,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
                 name = "Руда оскверненного железа",
-                count = 244,
+                count = 94,
             },
             {
                 link = "|cffffffff|Hitem:23425:0:0:0:0:0:0:0:10|h[Адамантитовая руда]|h|r",
@@ -8816,7 +8816,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                 name = "Мифриловая руда",
-                count = 91,
+                count = 238,
             },
             {
                 link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
@@ -8830,7 +8830,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795192554,
+            last_update = 1795275010,
             items = {
                 {
                     link = "|cff1eff00|Hitem:23426:0:0:0:0:0:0:0:10|h[Кориевая руда]|h|r",
@@ -8900,7 +8900,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10620:0:0:0:0:0:0:0:10|h[Ториевая руда]|h|r",
                     name = "Ториевая руда",
-                    count = 121,
+                    count = 204,
                 },
                 {
                     link = "|cffffffff|Hitem:11370:0:0:0:0:0:0:0:10|h[Руда черного железа]|h|r",
@@ -8915,7 +8915,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:12359:0:0:0:0:0:0:0:10|h[Ториевый слиток]|h|r",
                     name = "Ториевый слиток",
-                    count = 200,
+                    count = 230,
                 },
                 {
                     link = "|cffffffff|Hitem:12655:0:0:0:0:0:0:0:10|h[Зачарованный ториевый слиток]|h|r",
@@ -8995,7 +8995,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3858:0:0:0:0:0:0:0:10|h[Мифриловая руда]|h|r",
                     name = "Мифриловая руда",
-                    count = 91,
+                    count = 238,
                 },
                 {
                     link = "|cffffffff|Hitem:3859:0:0:0:0:0:0:0:10|h[Стальной слиток]|h|r",
@@ -9010,13 +9010,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795192554,
+            last_update = 1795275014,
             items = {
-                {
-                    link = "|cffffffff|Hitem:23424:0:0:0:0:0:0:0:10|h[Руда оскверненного железа]|h|r",
-                    name = "Руда оскверненного железа",
-                    count = 150,
-                },
             },
         },
     },
