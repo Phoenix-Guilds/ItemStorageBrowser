@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1795275658
+ItemStorageDB_LastUpdate = 1795279617
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 16:02:13",
+        updated_at = "2026-11-21 18:46:57",
         money = 339404,
         empty = 92,
         location = "Оргриммар",
@@ -141,7 +141,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41100:0:0:0:0:0:0:0:10|h[Символ праведной защиты]|h|r",
                 name = "Символ праведной защиты",
-                count = 5,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:41101:0:0:0:0:0:0:0:10|h[Символ щита мстителя]|h|r",
@@ -1265,7 +1265,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795269714,
+            last_update = 1795279593,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1400,7 +1400,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41100:0:0:0:0:0:0:0:10|h[Символ праведной защиты]|h|r",
                     name = "Символ праведной защиты",
-                    count = 5,
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:41101:0:0:0:0:0:0:0:10|h[Символ щита мстителя]|h|r",
@@ -2520,7 +2520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795269724,
+            last_update = 1795279601,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
