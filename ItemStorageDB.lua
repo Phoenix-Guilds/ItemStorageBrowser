@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795275315
+ItemStorageDB_LastUpdate = 1795275362
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16988,9 +16988,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-20 21:45:27",
+        updated_at = "2026-11-21 17:36:02",
         money = 58852,
-        empty = 85,
+        empty = 84,
         location = "Оргриммар",
         items = {
             {
@@ -17763,9 +17763,14 @@ ItemStorageDB = {
                 name = "Разбойничий щит со знаком ловкости",
                 count = 1,
             },
+            {
+                link = "|cff1eff00|Hitem:9801:0:0:0:0:0:764:0:10|h[Наилучший пояс со знаком совы]|h|r",
+                name = "Наилучший пояс со знаком совы",
+                count = 1,
+            },
         },
         bank = {
-            last_update = 1795203912,
+            last_update = 1795275355,
             items = {
                 {
                     link = "|cff1eff00|Hitem:10047:0:0:0:0:0:0:0:10|h[Простой килт]|h|r",
@@ -18277,10 +18282,15 @@ ItemStorageDB = {
                     name = "Разбойничий щит со знаком ловкости",
                     count = 1,
                 },
+                {
+                    link = "|cff1eff00|Hitem:9801:0:0:0:0:0:764:0:10|h[Наилучший пояс со знаком совы]|h|r",
+                    name = "Наилучший пояс со знаком совы",
+                    count = 1,
+                },
             },
         },
         bags = {
-            last_update = 1795203920,
+            last_update = 1795275356,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
