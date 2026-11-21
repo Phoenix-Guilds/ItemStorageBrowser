@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795264745
+ItemStorageDB_LastUpdate = 1795264826
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3768,9 +3768,9 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-20 15:08:23",
+        updated_at = "2026-11-21 14:40:26",
         money = 158410,
-        empty = 130,
+        empty = 131,
         location = "Оргриммар",
         items = {
             {
@@ -3821,7 +3821,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
                 name = "Ружье-клинок",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:31234:0:0:0:0:0:0:0:10|h[Хрустальный дренейский клинок]|h|r",
@@ -3980,7 +3980,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795180076,
+            last_update = 1795264806,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -4190,13 +4190,8 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795180078,
+            last_update = 1795264821,
             items = {
-                {
-                    link = "|cff0070dd|Hitem:31204:0:0:0:0:0:0:0:10|h[Ружье-клинок]|h|r",
-                    name = "Ружье-клинок",
-                    count = 1,
-                },
             },
         },
     },
