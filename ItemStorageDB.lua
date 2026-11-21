@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795280549
+ItemStorageDB_LastUpdate = 1795280621
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9918,7 +9918,7 @@ ItemStorageDB = {
     {
         name = "Мушкетон",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 17:38:37",
+        updated_at = "2026-11-21 19:03:41",
         money = 14062,
         empty = 92,
         location = "Оргриммар",
@@ -10099,6 +10099,11 @@ ItemStorageDB = {
                 count = 7,
             },
             {
+                link = "|cffffffff|Hitem:5051:0:0:0:0:0:0:0:10|h[Пещерная крыса]|h|r",
+                name = "Пещерная крыса",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
                 name = "Кровавые осколки",
                 count = 2,
@@ -10120,7 +10125,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795275511,
+            last_update = 1795280614,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10288,6 +10293,11 @@ ItemStorageDB = {
                     count = 7,
                 },
                 {
+                    link = "|cffffffff|Hitem:5051:0:0:0:0:0:0:0:10|h[Пещерная крыса]|h|r",
+                    name = "Пещерная крыса",
+                    count = 1,
+                },
+                {
                     link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
                     name = "Кровавые осколки",
                     count = 2,
@@ -10310,7 +10320,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795275512,
+            last_update = 1795280616,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
