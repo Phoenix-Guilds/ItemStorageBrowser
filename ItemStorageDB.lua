@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795275219
+ItemStorageDB_LastUpdate = 1795275266
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21553,9 +21553,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 16:03:44",
+        updated_at = "2026-11-21 17:34:26",
         money = 203936,
-        empty = 63,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -22144,13 +22144,18 @@ ItemStorageDB = {
                 count = 2,
             },
             {
+                link = "|cffa335ee|Hitem:867:0:0:0:0:0:0:0:10|h[Перчатки Священной Мощи]|h|r",
+                name = "Перчатки Священной Мощи",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
                 name = "Одеяния Прозрения",
                 count = 2,
             },
         },
         bank = {
-            last_update = 1795269792,
+            last_update = 1795275258,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22658,6 +22663,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cffa335ee|Hitem:867:0:0:0:0:0:0:0:10|h[Перчатки Священной Мощи]|h|r",
+                    name = "Перчатки Священной Мощи",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
                     name = "Одеяния Прозрения",
                     count = 1,
@@ -22665,7 +22675,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795269819,
+            last_update = 1795275262,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
