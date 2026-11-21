@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795280413
+ItemStorageDB_LastUpdate = 1795280462
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21698,11 +21698,16 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 17:34:26",
+        updated_at = "2026-11-21 19:01:02",
         money = 203936,
-        empty = 62,
+        empty = 61,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
+                name = "Перчатки Клыка",
+                count = 1,
+            },
             {
                 link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
                 name = "Пояс вестника шторма",
@@ -22300,7 +22305,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795275258,
+            last_update = 1795280454,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22820,8 +22825,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795275262,
+            last_update = 1795280457,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:10413:0:0:0:0:0:0:0:10|h[Перчатки Клыка]|h|r",
+                    name = "Перчатки Клыка",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:12982:0:0:0:0:0:0:0:10|h[Окованные серебром прочные ботинки]|h|r",
                     name = "Окованные серебром прочные ботинки",
