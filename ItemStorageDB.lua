@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795275087
+ItemStorageDB_LastUpdate = 1795275219
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2558,9 +2558,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 14:41:52",
+        updated_at = "2026-11-21 17:33:39",
         money = 92710,
-        empty = 65,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -3019,6 +3019,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
+                name = "Перекованный клинок Героев",
+                count = 2,
+            },
+            {
                 link = "|cff1eff00|Hitem:15233:0:0:0:0:0:508:0:10|h[Топор свирепости со знаком волка]|h|r",
                 name = "Топор свирепости со знаком волка",
                 count = 1,
@@ -3124,6 +3129,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffa335ee|Hitem:873:0:0:0:0:0:0:0:10|h[Посох Джордана]|h|r",
+                name = "Посох Джордана",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:943:0:0:0:0:0:0:0:10|h[Посох тюремщика]|h|r",
                 name = "Посох тюремщика",
                 count = 2,
@@ -3135,7 +3145,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795264896,
+            last_update = 1795275211,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3608,6 +3618,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cffa335ee|Hitem:873:0:0:0:0:0:0:0:10|h[Посох Джордана]|h|r",
+                    name = "Посох Джордана",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:943:0:0:0:0:0:0:0:10|h[Посох тюремщика]|h|r",
                     name = "Посох тюремщика",
                     count = 2,
@@ -3620,7 +3635,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795264906,
+            last_update = 1795275213,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3716,6 +3731,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:890:0:0:0:0:0:0:0:10|h[Крученый посох певчего]|h|r",
                     name = "Крученый посох певчего",
                     count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:9718:0:0:0:0:0:0:0:10|h[Перекованный клинок Героев]|h|r",
+                    name = "Перекованный клинок Героев",
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:15233:0:0:0:0:0:508:0:10|h[Топор свирепости со знаком волка]|h|r",
