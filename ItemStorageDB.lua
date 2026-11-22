@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795381393
+ItemStorageDB_LastUpdate = 1795381453
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -3778,7 +3778,7 @@ ItemStorageDB = {
     {
         name = "Дробящая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 14:40:26",
+        updated_at = "2026-11-22 23:04:13",
         money = 158410,
         empty = 131,
         location = "Оргриммар",
@@ -3990,7 +3990,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795264806,
+            last_update = 1795381413,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23197:0:0:0:0:0:0:0:10|h[Идол Луны]|h|r",
@@ -4125,7 +4125,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:37806:0:0:0:0:0:0:0:10|h[Аномальный посох Забры]|h|r",
                     name = "Аномальный посох Забры",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:37807:0:0:0:0:0:0:0:10|h[Заостренный мечелом Линдии]|h|r",
@@ -4200,8 +4200,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795264821,
+            last_update = 1795381414,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:37806:0:0:0:0:0:0:0:10|h[Аномальный посох Забры]|h|r",
+                    name = "Аномальный посох Забры",
+                    count = 1,
+                },
             },
         },
     },
