@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795367552
+ItemStorageDB_LastUpdate = 1795369322
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16458,7 +16458,7 @@ ItemStorageDB = {
     {
         name = "Рыбная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 20:46:33",
+        updated_at = "2026-11-22 19:42:02",
         money = 4042,
         empty = 158,
         location = "Оргриммар",
@@ -16595,7 +16595,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795113987,
+            last_update = 1795369055,
             items = {
                 {
                     link = "|cffffffff|Hitem:13754:0:0:0:0:0:0:0:10|h[Сырая блестящая мощь-рыба]|h|r",
@@ -16722,16 +16722,16 @@ ItemStorageDB = {
                     name = "Сырая каменношкурая треска",
                     count = 301,
                 },
+            },
+        },
+        bags = {
+            last_update = 1795369056,
+            items = {
                 {
                     link = "|cffffffff|Hitem:8365:0:0:0:0:0:0:0:10|h[Сырая мифрилоголовая форель]|h|r",
                     name = "Сырая мифрилоголовая форель",
                     count = 29,
                 },
-            },
-        },
-        bags = {
-            last_update = 1795113988,
-            items = {
             },
         },
     },
