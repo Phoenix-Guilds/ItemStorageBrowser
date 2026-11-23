@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795451040
+ItemStorageDB_LastUpdate = 1795451096
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21822,12 +21822,17 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-22 19:43:38",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-23 19:24:56",
         money = 203936,
-        empty = 61,
+        empty = 58,
         location = "Оргриммар",
         items = {
+            {
+                link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
+                name = "Перчатки Волшебного кулака",
+                count = 1,
+            },
             {
                 link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
                 name = "Пояс вестника шторма",
@@ -22281,7 +22286,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
                 name = "Черные бархатные одеяния",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
@@ -22291,7 +22296,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                 name = "Ремень Келлера",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
@@ -22435,7 +22440,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795369361,
+            last_update = 1795451089,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22960,8 +22965,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795369380,
+            last_update = 1795451090,
             items = {
+                {
+                    link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
+                    name = "Перчатки Волшебного кулака",
+                    count = 1,
+                },
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
                     name = "Пояс вестника шторма",
@@ -23038,6 +23048,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cff0070dd|Hitem:2800:0:0:0:0:0:0:0:10|h[Черные бархатные одеяния]|h|r",
+                    name = "Черные бархатные одеяния",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:2879:0:0:0:0:0:0:0:10|h[Жезл антиподов]|h|r",
                     name = "Жезл антиподов",
                     count = 1,
@@ -23045,7 +23060,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:2911:0:0:0:0:0:0:0:10|h[Ремень Келлера]|h|r",
                     name = "Ремень Келлера",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:3020:0:0:0:0:0:0:0:10|h[Шапка терпения]|h|r",
