@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795452515
+ItemStorageDB_LastUpdate = 1795452540
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21888,9 +21888,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-23 19:32:30",
+        updated_at = "2026-11-23 19:49:00",
         money = 203936,
-        empty = 54,
+        empty = 53,
         location = "Оргриммар",
         items = {
             {
@@ -22446,7 +22446,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
                 name = "Решетчатые костяные рукавицы",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff1eff00|Hitem:14589:0:0:0:0:0:0:0:10|h[Ботинки Соколиного Глаза]|h|r",
@@ -22515,7 +22515,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795451542,
+            last_update = 1795452532,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -23040,7 +23040,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795451543,
+            last_update = 1795452534,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -23185,6 +23185,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:9405:0:0:0:0:0:0:0:10|h[Ремень силы голема]|h|r",
                     name = "Ремень силы голема",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:9435:0:0:0:0:0:0:0:10|h[Решетчатые костяные рукавицы]|h|r",
+                    name = "Решетчатые костяные рукавицы",
                     count = 1,
                 },
                 {
