@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795451550
+ItemStorageDB_LastUpdate = 1795451577
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5668,7 +5668,7 @@ ItemStorageDB = {
     {
         name = "Инженерная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-23 19:25:27",
+        updated_at = "2026-11-23 19:32:57",
         money = 16160,
         empty = 138,
         location = "Оргриммар",
@@ -5796,7 +5796,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
                 name = "Медная труба",
-                count = 36,
+                count = 37,
             },
             {
                 link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
@@ -5806,7 +5806,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4364:0:0:0:0:0:0:0:10|h[Низкосортное взрывчатое вещество]|h|r",
                 name = "Низкосортное взрывчатое вещество",
-                count = 4,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:4371:0:0:0:0:0:0:0:10|h[Бронзовая трубка]|h|r",
@@ -5826,7 +5826,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
                 name = "Бронзовый каркас",
-                count = 5,
+                count = 6,
             },
             {
                 link = "|cffffffff|Hitem:4384:0:0:0:0:0:0:0:10|h[Взрывоопасная овца]|h|r",
@@ -5861,11 +5861,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                 name = "Бурдюк с маслом",
-                count = 18,
+                count = 20,
             },
         },
         bank = {
-            last_update = 1795451122,
+            last_update = 1795451571,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5990,7 +5990,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
                     name = "Медная труба",
-                    count = 36,
+                    count = 37,
                 },
                 {
                     link = "|cffffffff|Hitem:4363:0:0:0:0:0:0:0:10|h[Медный регулятор]|h|r",
@@ -6000,7 +6000,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4364:0:0:0:0:0:0:0:10|h[Низкосортное взрывчатое вещество]|h|r",
                     name = "Низкосортное взрывчатое вещество",
-                    count = 4,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:4371:0:0:0:0:0:0:0:10|h[Бронзовая трубка]|h|r",
@@ -6020,7 +6020,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4382:0:0:0:0:0:0:0:10|h[Бронзовый каркас]|h|r",
                     name = "Бронзовый каркас",
-                    count = 5,
+                    count = 6,
                 },
                 {
                     link = "|cffffffff|Hitem:4384:0:0:0:0:0:0:0:10|h[Взрывоопасная овца]|h|r",
@@ -6055,12 +6055,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:814:0:0:0:0:0:0:0:10|h[Бурдюк с маслом]|h|r",
                     name = "Бурдюк с маслом",
-                    count = 18,
+                    count = 20,
                 },
             },
         },
         bags = {
-            last_update = 1795451122,
+            last_update = 1795451571,
             items = {
             },
         },
