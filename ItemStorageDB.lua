@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795450175
+ItemStorageDB_LastUpdate = 1795450253
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14157,10 +14157,10 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 17:37:42",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-23 19:10:53",
         money = 64134,
-        empty = 32,
+        empty = 30,
         location = "Оргриммар",
         items = {
             {
@@ -15234,6 +15234,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffffffff|Hitem:3394:0:0:0:0:0:0:0:10|h[Рецепт: эликсир излечения]|h|r",
+                name = "Рецепт: эликсир излечения",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:3830:0:0:0:0:0:0:0:10|h[Рецепт: эликсир стойкости]|h|r",
                 name = "Рецепт: эликсир стойкости",
                 count = 1,
@@ -15264,6 +15269,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffffffff|Hitem:6068:0:0:0:0:0:0:0:10|h[Рецепт: масло Тьмы]|h|r",
+                name = "Рецепт: масло Тьмы",
+                count = 1,
+            },
+            {
                 link = "|cffffffff|Hitem:7362:0:0:0:0:0:0:0:10|h[Выкройка: кожаные наплечники земли]|h|r",
                 name = "Выкройка: кожаные наплечники земли",
                 count = 1,
@@ -15285,7 +15295,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795275453,
+            last_update = 1795450238,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -16105,7 +16115,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795275456,
+            last_update = 1795450244,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
@@ -16425,6 +16435,16 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:24304:0:0:0:0:0:0:0:10|h[Выкройка: черный пояс знания]|h|r",
                     name = "Выкройка: черный пояс знания",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:3394:0:0:0:0:0:0:0:10|h[Рецепт: эликсир излечения]|h|r",
+                    name = "Рецепт: эликсир излечения",
+                    count = 1,
+                },
+                {
+                    link = "|cffffffff|Hitem:6068:0:0:0:0:0:0:0:10|h[Рецепт: масло Тьмы]|h|r",
+                    name = "Рецепт: масло Тьмы",
                     count = 1,
                 },
             },
