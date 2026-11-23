@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795451577
+ItemStorageDB_LastUpdate = 1795451620
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -6068,9 +6068,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-23 19:19:31",
+        updated_at = "2026-11-23 19:33:40",
         money = 778001,
-        empty = 50,
+        empty = 47,
         location = "Оргриммар",
         items = {
             {
@@ -6381,7 +6381,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6042:0:0:0:0:0:0:0:10|h[Железный шип для щита]|h|r",
                 name = "Железный шип для щита",
-                count = 16,
+                count = 33,
             },
             {
                 link = "|cffffffff|Hitem:6043:0:0:0:0:0:0:0:10|h[Железный противовес]|h|r",
@@ -6410,7 +6410,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795450764,
+            last_update = 1795451611,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6655,7 +6655,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795450766,
+            last_update = 1795451613,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6735,7 +6735,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6042:0:0:0:0:0:0:0:10|h[Железный шип для щита]|h|r",
                     name = "Железный шип для щита",
-                    count = 16,
+                    count = 33,
                 },
                 {
                     link = "|cffffffff|Hitem:6043:0:0:0:0:0:0:0:10|h[Железный противовес]|h|r",
