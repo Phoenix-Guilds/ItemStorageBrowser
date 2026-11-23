@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795451855
+ItemStorageDB_LastUpdate = 1795451883
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19528,7 +19528,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-23 19:14:25",
+        updated_at = "2026-11-23 19:38:03",
         money = 475064,
         empty = 112,
         location = "Оргриммар",
@@ -19641,7 +19641,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                 name = "Королевская кровь",
-                count = 169,
+                count = 172,
             },
             {
                 link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
@@ -19706,7 +19706,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                 name = "Удавник",
-                count = 96,
+                count = 100,
             },
             {
                 link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
@@ -19795,7 +19795,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795450459,
+            last_update = 1795451878,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19890,7 +19890,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3356:0:0:0:0:0:0:0:10|h[Королевская кровь]|h|r",
                     name = "Королевская кровь",
-                    count = 169,
+                    count = 172,
                 },
                 {
                     link = "|cffffffff|Hitem:3357:0:0:0:0:0:0:0:10|h[Корень жизни]|h|r",
@@ -19950,7 +19950,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:3820:0:0:0:0:0:0:0:10|h[Удавник]|h|r",
                     name = "Удавник",
-                    count = 96,
+                    count = 100,
                 },
                 {
                     link = "|cffffffff|Hitem:3821:0:0:0:0:0:0:0:10|h[Златошип]|h|r",
@@ -20010,7 +20010,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795450459,
+            last_update = 1795451878,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
