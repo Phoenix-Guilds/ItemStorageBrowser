@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795450814
+ItemStorageDB_LastUpdate = 1795451040
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2557,10 +2557,10 @@ ItemStorageDB = {
     },
     {
         name = "Дробяшка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 22:19:38",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-23 19:24:00",
         money = 92710,
-        empty = 64,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2806,7 +2806,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                 name = "Щит Торсена",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
@@ -2906,7 +2906,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
@@ -3150,7 +3150,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795292334,
+            last_update = 1795451032,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3438,6 +3438,11 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
+                    link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
+                    name = "Массивная треугольная палица",
+                    count = 1,
+                },
+                {
                     link = "|cff0070dd|Hitem:4090:0:0:0:0:0:0:0:10|h[Кубок боли]|h|r",
                     name = "Кубок боли",
                     count = 2,
@@ -3635,7 +3640,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795292369,
+            last_update = 1795451033,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3685,7 +3690,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13079:0:0:0:0:0:0:0:10|h[Щит Торсена]|h|r",
                     name = "Щит Торсена",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
