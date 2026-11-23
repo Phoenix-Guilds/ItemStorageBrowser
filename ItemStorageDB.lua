@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795451096
+ItemStorageDB_LastUpdate = 1795451127
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5657,8 +5657,8 @@ ItemStorageDB = {
     },
     {
         name = "Инженерная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 19:16:30",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-23 19:25:27",
         money = 16160,
         empty = 138,
         location = "Оргриммар",
@@ -5781,7 +5781,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
                 name = "Горсть медных винтов",
-                count = 8,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
@@ -5855,7 +5855,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795281385,
+            last_update = 1795451122,
             items = {
                 {
                     link = "|cffffffff|Hitem:10498:0:0:0:0:0:0:0:10|h[Шлицевой гироинструмент]|h|r",
@@ -5975,7 +5975,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4359:0:0:0:0:0:0:0:10|h[Горсть медных винтов]|h|r",
                     name = "Горсть медных винтов",
-                    count = 8,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:4361:0:0:0:0:0:0:0:10|h[Медная труба]|h|r",
@@ -6050,7 +6050,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795281386,
+            last_update = 1795451122,
             items = {
             },
         },
