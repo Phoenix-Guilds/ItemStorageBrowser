@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795450465
+ItemStorageDB_LastUpdate = 1795450493
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10332,8 +10332,8 @@ ItemStorageDB = {
     },
     {
         name = "Мясушко",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-21 19:21:54",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-23 19:14:53",
         money = 213874,
         empty = 41,
         location = "Оргриммар",
@@ -10636,7 +10636,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:729:0:0:0:0:0:0:0:10|h[Жилистое мясо стервятника]|h|r",
                 name = "Жилистое мясо стервятника",
-                count = 75,
+                count = 84,
             },
             {
                 link = "|cffffffff|Hitem:769:0:0:0:0:0:0:0:10|h[Кусок кабанины]|h|r",
@@ -10650,7 +10650,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795281706,
+            last_update = 1795450485,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10925,7 +10925,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:729:0:0:0:0:0:0:0:10|h[Жилистое мясо стервятника]|h|r",
                     name = "Жилистое мясо стервятника",
-                    count = 75,
+                    count = 84,
                 },
                 {
                     link = "|cffffffff|Hitem:769:0:0:0:0:0:0:0:10|h[Кусок кабанины]|h|r",
@@ -10940,7 +10940,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795281707,
+            last_update = 1795450486,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
