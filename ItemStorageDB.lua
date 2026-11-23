@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795451830
+ItemStorageDB_LastUpdate = 1795451855
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10348,7 +10348,7 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-23 19:35:07",
+        updated_at = "2026-11-23 19:37:35",
         money = 213874,
         empty = 41,
         location = "Оргриммар",
@@ -10446,12 +10446,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2674:0:0:0:0:0:0:0:10|h[Крабовое мясо]|h|r",
                 name = "Крабовое мясо",
-                count = 6,
+                count = 7,
             },
             {
                 link = "|cffffffff|Hitem:2675:0:0:0:0:0:0:0:10|h[Клешня краба]|h|r",
                 name = "Клешня краба",
-                count = 25,
+                count = 29,
             },
             {
                 link = "|cffffffff|Hitem:27439:0:0:0:0:0:0:0:10|h[Разъяренный речной рак]|h|r",
@@ -10665,7 +10665,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795451700,
+            last_update = 1795451850,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10755,12 +10755,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2674:0:0:0:0:0:0:0:10|h[Крабовое мясо]|h|r",
                     name = "Крабовое мясо",
-                    count = 6,
+                    count = 7,
                 },
                 {
                     link = "|cffffffff|Hitem:2675:0:0:0:0:0:0:0:10|h[Клешня краба]|h|r",
                     name = "Клешня краба",
-                    count = 25,
+                    count = 29,
                 },
                 {
                     link = "|cffffffff|Hitem:27439:0:0:0:0:0:0:0:10|h[Разъяренный речной рак]|h|r",
@@ -10955,7 +10955,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795451701,
+            last_update = 1795451850,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
