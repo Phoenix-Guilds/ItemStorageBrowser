@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795452275
+ItemStorageDB_LastUpdate = 1795452515
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2558,9 +2558,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-23 19:31:25",
+        updated_at = "2026-11-23 19:48:35",
         money = 92710,
-        empty = 61,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -2626,7 +2626,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
                 name = "Боевой топор лорда Александра",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13006:0:0:0:0:0:0:0:10|h[Молот Макхоуэна]|h|r",
@@ -2811,7 +2811,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                 name = "Копейный щит Черепа",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
@@ -3155,7 +3155,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795451476,
+            last_update = 1795452506,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3645,7 +3645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795451477,
+            last_update = 1795452507,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3665,6 +3665,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:12989:0:0:0:0:0:0:0:10|h[Укус горгульи]|h|r",
                     name = "Укус горгульи",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13003:0:0:0:0:0:0:0:10|h[Боевой топор лорда Александра]|h|r",
+                    name = "Боевой топор лорда Александра",
                     count = 1,
                 },
                 {
@@ -3700,7 +3705,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13081:0:0:0:0:0:0:0:10|h[Копейный щит Черепа]|h|r",
                     name = "Копейный щит Черепа",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:13082:0:0:0:0:0:0:0:10|h[Кулачный щит Горного склона]|h|r",
