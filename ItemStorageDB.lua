@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795556202
+ItemStorageDB_LastUpdate = 1795557630
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19218,9 +19218,9 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-24 22:59:41",
+        updated_at = "2026-11-25 00:00:30",
         money = 150602,
-        empty = 43,
+        empty = 126,
         location = "Оргриммар",
         items = {
             {
@@ -19264,11 +19264,6 @@ ItemStorageDB = {
                 count = 26,
             },
             {
-                link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
-                name = "Ткань Пустоты",
-                count = 353,
-            },
-            {
                 link = "|cffffffff|Hitem:21881:0:0:0:0:0:0:0:10|h[Шелковая паутина Пустоты]|h|r",
                 name = "Шелковая паутина Пустоты",
                 count = 61,
@@ -19276,7 +19271,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                 name = "Льняной материал",
-                count = 1693,
+                count = 1193,
             },
             {
                 link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
@@ -19301,7 +19296,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
                 name = "Ледяная ткань",
-                count = 1820,
+                count = 850,
             },
             {
                 link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
@@ -19316,7 +19311,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
                 name = "Шелковый материал",
-                count = 1959,
+                count = 1750,
             },
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
@@ -19326,7 +19321,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                 name = "Магическая ткань",
-                count = 3961,
+                count = 2141,
             },
             {
                 link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
@@ -19355,7 +19350,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795553955,
+            last_update = 1795556347,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -19370,7 +19365,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
                     name = "Руническая ткань",
-                    count = 143,
+                    count = 778,
+                },
+                {
+                    link = "|cffffffff|Hitem:14048:0:0:0:0:0:0:0:10|h[Рулон рунической ткани]|h|r",
+                    name = "Рулон рунической ткани",
+                    count = 4,
                 },
                 {
                     link = "|cffffffff|Hitem:14227:0:0:0:0:0:0:0:10|h[Железношелковая паутина]|h|r",
@@ -19390,22 +19390,22 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
                     name = "Льняной материал",
-                    count = 1648,
+                    count = 1193,
                 },
                 {
                     link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
                     name = "Шерсть",
-                    count = 150,
+                    count = 201,
                 },
                 {
                     link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
                     name = "Рулон льняной ткани",
-                    count = 1130,
+                    count = 1131,
                 },
                 {
                     link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
                     name = "Рулон шерсти",
-                    count = 830,
+                    count = 831,
                 },
                 {
                     link = "|cffffffff|Hitem:3182:0:0:0:0:0:0:0:10|h[Паутина]|h|r",
@@ -19415,7 +19415,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
                     name = "Ледяная ткань",
-                    count = 1245,
+                    count = 850,
                 },
                 {
                     link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
@@ -19435,12 +19435,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                     name = "Плотная паутина",
-                    count = 225,
+                    count = 226,
                 },
                 {
                     link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
                     name = "Магическая ткань",
-                    count = 3591,
+                    count = 2141,
                 },
                 {
                     link = "|cffffffff|Hitem:4339:0:0:0:0:0:0:0:10|h[Рулон магической ткани]|h|r",
@@ -19470,7 +19470,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795553966,
+            last_update = 1795556500,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -19481,61 +19481,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:41603:0:0:0:0:0:0:0:10|h[Лазурная чародейская нить]|h|r",
                     name = "Лазурная чародейская нить",
                     count = 10,
-                },
-                {
-                    link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
-                    name = "Руническая ткань",
-                    count = 635,
-                },
-                {
-                    link = "|cffffffff|Hitem:14048:0:0:0:0:0:0:0:10|h[Рулон рунической ткани]|h|r",
-                    name = "Рулон рунической ткани",
-                    count = 4,
-                },
-                {
-                    link = "|cffffffff|Hitem:21877:0:0:0:0:0:0:0:10|h[Ткань Пустоты]|h|r",
-                    name = "Ткань Пустоты",
-                    count = 353,
-                },
-                {
-                    link = "|cffffffff|Hitem:2589:0:0:0:0:0:0:0:10|h[Льняной материал]|h|r",
-                    name = "Льняной материал",
-                    count = 45,
-                },
-                {
-                    link = "|cffffffff|Hitem:2592:0:0:0:0:0:0:0:10|h[Шерсть]|h|r",
-                    name = "Шерсть",
-                    count = 51,
-                },
-                {
-                    link = "|cffffffff|Hitem:2996:0:0:0:0:0:0:0:10|h[Рулон льняной ткани]|h|r",
-                    name = "Рулон льняной ткани",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:2997:0:0:0:0:0:0:0:10|h[Рулон шерсти]|h|r",
-                    name = "Рулон шерсти",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
-                    name = "Ледяная ткань",
-                    count = 575,
-                },
-                {
-                    link = "|cffffffff|Hitem:4306:0:0:0:0:0:0:0:10|h[Шелковый материал]|h|r",
-                    name = "Шелковый материал",
-                    count = 209,
-                },
-                {
-                    link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
-                    name = "Плотная паутина",
-                    count = 1,
-                },
-                {
-                    link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
-                    name = "Магическая ткань",
-                    count = 370,
                 },
             },
         },
