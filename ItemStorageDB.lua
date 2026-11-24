@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795545865
+ItemStorageDB_LastUpdate = 1795546607
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21808,9 +21808,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-24 20:37:13",
+        updated_at = "2026-11-24 20:56:47",
         money = 203936,
-        empty = 54,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -22304,11 +22304,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:39895:0:0:0:0:0:-20:10:10|h[Наплечные пластины с печатью могущества]|h|r",
-                name = "Наплечные пластины с печатью могущества",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:43515:0:0:0:0:0:0:0:10|h[Мистический том]|h|r",
                 name = "Мистический том",
                 count = 2,
@@ -22435,7 +22430,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795545402,
+            last_update = 1795546572,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22878,11 +22873,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:39895:0:0:0:0:0:-20:10:10|h[Наплечные пластины с печатью могущества]|h|r",
-                    name = "Наплечные пластины с печатью могущества",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:720:0:0:0:0:0:0:0:10|h[Перчатки буяна]|h|r",
                     name = "Перчатки буяна",
                     count = 2,
@@ -22960,7 +22950,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795545412,
+            last_update = 1795546591,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
