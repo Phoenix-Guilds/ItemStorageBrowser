@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795555720
+ItemStorageDB_LastUpdate = 1795555757
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21883,9 +21883,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-24 23:23:21",
+        updated_at = "2026-11-24 23:29:17",
         money = 203936,
-        empty = 54,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -22394,11 +22394,6 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
-                name = "Перчатки Флетчера",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:8367:0:0:0:0:0:0:0:10|h[Кираса из чешуи дракона]|h|r",
                 name = "Кираса из чешуи дракона",
                 count = 1,
@@ -22510,7 +22505,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795555305,
+            last_update = 1795555737,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22958,11 +22953,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cff0070dd|Hitem:7348:0:0:0:0:0:0:0:10|h[Перчатки Флетчера]|h|r",
-                    name = "Перчатки Флетчера",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:8367:0:0:0:0:0:0:0:10|h[Кираса из чешуи дракона]|h|r",
                     name = "Кираса из чешуи дракона",
                     count = 1,
@@ -23030,7 +23020,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795555316,
+            last_update = 1795555751,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
