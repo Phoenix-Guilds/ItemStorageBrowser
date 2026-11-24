@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795553622
+ItemStorageDB_LastUpdate = 1795553690
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -14142,10 +14142,10 @@ ItemStorageDB = {
     },
     {
         name = "Рец",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-23 19:41:32",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-24 22:54:50",
         money = 64134,
-        empty = 28,
+        empty = 27,
         location = "Оргриммар",
         items = {
             {
@@ -15266,7 +15266,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6068:0:0:0:0:0:0:0:10|h[Рецепт: масло Тьмы]|h|r",
                 name = "Рецепт: масло Тьмы",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cffffffff|Hitem:7362:0:0:0:0:0:0:0:10|h[Выкройка: кожаные наплечники земли]|h|r",
@@ -15290,7 +15290,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795452082,
+            last_update = 1795553684,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10605:0:0:0:0:0:0:0:10|h[Чертеж: экстремальные очки магической силы]|h|r",
@@ -16110,7 +16110,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795452084,
+            last_update = 1795553685,
             items = {
                 {
                     link = "|cff0070dd|Hitem:10608:0:0:0:0:0:0:0:10|h[Схема: снайперский прицел]|h|r",
@@ -16450,7 +16450,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6068:0:0:0:0:0:0:0:10|h[Рецепт: масло Тьмы]|h|r",
                     name = "Рецепт: масло Тьмы",
-                    count = 1,
+                    count = 2,
                 },
             },
         },
