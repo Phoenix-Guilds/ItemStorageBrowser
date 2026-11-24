@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795555278
+ItemStorageDB_LastUpdate = 1795555401
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21913,9 +21913,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-24 22:58:29",
+        updated_at = "2026-11-24 23:23:21",
         money = 203936,
-        empty = 53,
+        empty = 54,
         location = "Оргриммар",
         items = {
             {
@@ -22349,11 +22349,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:2059:0:0:0:0:0:0:0:10|h[Плащ стражника]|h|r",
-                name = "Плащ стражника",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                 name = "Сапоги тиноброда",
                 count = 1,
@@ -22545,7 +22540,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795553874,
+            last_update = 1795555305,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22948,11 +22943,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2059:0:0:0:0:0:0:0:10|h[Плащ стражника]|h|r",
-                    name = "Плащ стражника",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
                     name = "Сапоги тиноброда",
                     count = 1,
@@ -23070,7 +23060,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795553903,
+            last_update = 1795555316,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
