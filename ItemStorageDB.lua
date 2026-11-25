@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795640981
+ItemStorageDB_LastUpdate = 1795641039
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16703,7 +16703,7 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-25 22:30:10",
+        updated_at = "2026-11-25 23:10:39",
         money = 214291,
         empty = 192,
         location = "Оргриммар",
@@ -16871,12 +16871,12 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:10|h[Свиток ловкости VII]|h|r",
                 name = "Свиток ловкости VII",
-                count = 36,
+                count = 38,
             },
             {
                 link = "|cffffffff|Hitem:43465:0:0:0:0:0:0:0:10|h[Свиток силы VII]|h|r",
                 name = "Свиток силы VII",
-                count = 39,
+                count = 40,
             },
             {
                 link = "|cffffffff|Hitem:4419:0:0:0:0:0:0:0:10|h[Свиток интеллекта III]|h|r",
@@ -16930,7 +16930,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795638593,
+            last_update = 1795641028,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -17005,12 +17005,12 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43463:0:0:0:0:0:0:0:10|h[Свиток ловкости VII]|h|r",
                     name = "Свиток ловкости VII",
-                    count = 36,
+                    count = 38,
                 },
                 {
                     link = "|cffffffff|Hitem:43465:0:0:0:0:0:0:0:10|h[Свиток силы VII]|h|r",
                     name = "Свиток силы VII",
-                    count = 39,
+                    count = 40,
                 },
                 {
                     link = "|cffffffff|Hitem:4419:0:0:0:0:0:0:0:10|h[Свиток интеллекта III]|h|r",
@@ -17040,7 +17040,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795638606,
+            last_update = 1795641032,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
