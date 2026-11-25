@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1795612018
+ItemStorageDB_LastUpdate = 1795612051
 ItemStorageDB = {
     {
         name = "Бумажная",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-24 23:04:08",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-25 16:07:31",
         money = 339404,
         empty = 90,
         location = "Оргриммар",
@@ -756,7 +756,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                 name = "Символ лечения питомца",
-                count = 10,
+                count = 9,
             },
             {
                 link = "|cffffffff|Hitem:43359:0:0:0:0:0:0:0:10|h[Символ морозного доспеха]|h|r",
@@ -1265,7 +1265,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795554196,
+            last_update = 1795612039,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -2010,7 +2010,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43350:0:0:0:0:0:0:0:10|h[Символ лечения питомца]|h|r",
                     name = "Символ лечения питомца",
-                    count = 10,
+                    count = 9,
                 },
                 {
                     link = "|cffffffff|Hitem:43359:0:0:0:0:0:0:0:10|h[Символ морозного доспеха]|h|r",
@@ -2520,7 +2520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795554203,
+            last_update = 1795612044,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
