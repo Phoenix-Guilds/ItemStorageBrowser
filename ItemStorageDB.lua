@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795638406
+ItemStorageDB_LastUpdate = 1795638456
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -10238,9 +10238,9 @@ ItemStorageDB = {
     {
         name = "Мясушко",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-25 21:39:30",
+        updated_at = "2026-11-25 22:27:36",
         money = 213874,
-        empty = 41,
+        empty = 40,
         location = "Оргриммар",
         items = {
             {
@@ -10466,7 +10466,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:43010:0:0:0:0:0:0:0:10|h[Мясо червя]|h|r",
                 name = "Мясо червя",
-                count = 283,
+                count = 303,
             },
             {
                 link = "|cffffffff|Hitem:43011:0:0:0:0:0:0:0:10|h[Окорок ворга]|h|r",
@@ -10555,7 +10555,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795635564,
+            last_update = 1795638447,
             items = {
                 {
                     link = "|cff9d9d9d|Hitem:23355:0:0:0:0:0:0:0:10|h[Ядовитое мясо зловепря]|h|r",
@@ -10765,7 +10765,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:43010:0:0:0:0:0:0:0:10|h[Мясо червя]|h|r",
                     name = "Мясо червя",
-                    count = 283,
+                    count = 300,
                 },
                 {
                     link = "|cffffffff|Hitem:43011:0:0:0:0:0:0:0:10|h[Окорок ворга]|h|r",
@@ -10845,7 +10845,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795635565,
+            last_update = 1795638451,
             items = {
                 {
                     link = "|cffffffff|Hitem:1015:0:0:0:0:0:0:0:10|h[Постный волчий бок]|h|r",
@@ -10921,6 +10921,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:3730:0:0:0:0:0:0:0:10|h[Мясо большого медведя]|h|r",
                     name = "Мясо большого медведя",
                     count = 24,
+                },
+                {
+                    link = "|cffffffff|Hitem:43010:0:0:0:0:0:0:0:10|h[Мясо червя]|h|r",
+                    name = "Мясо червя",
+                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:43013:0:0:0:0:0:0:0:10|h[Охлажденное мясо]|h|r",
