@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795611458
+ItemStorageDB_LastUpdate = 1795611929
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21772,10 +21772,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-24 23:29:17",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-25 16:05:29",
         money = 203936,
-        empty = 55,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -21986,7 +21986,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
                 name = "Поножи Троллегубителя",
-                count = 3,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
@@ -22395,7 +22395,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795555737,
+            last_update = 1795611908,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22910,7 +22910,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795555751,
+            last_update = 1795611921,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22960,7 +22960,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
                     name = "Поножи Троллегубителя",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
