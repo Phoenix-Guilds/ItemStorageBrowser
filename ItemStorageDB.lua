@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795641110
+ItemStorageDB_LastUpdate = 1795642820
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7163,9 +7163,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-25 23:08:17",
+        updated_at = "2026-11-25 23:40:20",
         money = 324084,
-        empty = 106,
+        empty = 115,
         location = "Оргриммар",
         items = {
             {
@@ -7261,7 +7261,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
                 name = "Накладки из жесткой кожи",
-                count = 3,
+                count = 8,
             },
             {
                 link = "|cffffffff|Hitem:2318:0:0:0:0:0:0:0:10|h[Тонкая кожа]|h|r",
@@ -7271,7 +7271,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                 name = "Жесткая кожа",
-                count = 1421,
+                count = 1221,
             },
             {
                 link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
@@ -7386,7 +7386,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                 name = "Толстая кожа",
-                count = 841,
+                count = 641,
             },
             {
                 link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
@@ -7401,7 +7401,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4265:0:0:0:0:0:0:0:10|h[Накладки из толстой кожи]|h|r",
                 name = "Накладки из толстой кожи",
-                count = 15,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:4304:0:0:0:0:0:0:0:10|h[Плотная кожа]|h|r",
@@ -7491,11 +7491,11 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8173:0:0:0:0:0:0:0:10|h[Накладки из плотной кожи]|h|r",
                 name = "Накладки из плотной кожи",
-                count = 15,
+                count = 10,
             },
         },
         bank = {
-            last_update = 1795640889,
+            last_update = 1795642808,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7555,7 +7555,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2319:0:0:0:0:0:0:0:10|h[Жесткая кожа]|h|r",
                     name = "Жесткая кожа",
-                    count = 1421,
+                    count = 1221,
                 },
                 {
                     link = "|cffffffff|Hitem:23793:0:0:0:0:0:0:0:10|h[Толстая узловатая кожа]|h|r",
@@ -7650,7 +7650,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4234:0:0:0:0:0:0:0:10|h[Толстая кожа]|h|r",
                     name = "Толстая кожа",
-                    count = 841,
+                    count = 641,
                 },
                 {
                     link = "|cffffffff|Hitem:4235:0:0:0:0:0:0:0:10|h[Тяжелая шкура]|h|r",
@@ -7740,7 +7740,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795640893,
+            last_update = 1795642815,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7785,7 +7785,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:2313:0:0:0:0:0:0:0:10|h[Накладки из жесткой кожи]|h|r",
                     name = "Накладки из жесткой кожи",
-                    count = 3,
+                    count = 8,
                 },
                 {
                     link = "|cffffffff|Hitem:2320:0:0:0:0:0:0:0:10|h[Грубая нить]|h|r",
@@ -7810,7 +7810,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4265:0:0:0:0:0:0:0:10|h[Накладки из толстой кожи]|h|r",
                     name = "Накладки из толстой кожи",
-                    count = 15,
+                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:5373:0:0:0:0:0:0:0:10|h[Талисман на удачу]|h|r",
@@ -7825,7 +7825,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8173:0:0:0:0:0:0:0:10|h[Накладки из плотной кожи]|h|r",
                     name = "Накладки из плотной кожи",
-                    count = 15,
+                    count = 10,
                 },
             },
         },
