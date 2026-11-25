@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795627679
+ItemStorageDB_LastUpdate = 1795635040
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21782,10 +21782,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-25 16:05:29",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-25 21:30:40",
         money = 203936,
-        empty = 56,
+        empty = 55,
         location = "Оргриммар",
         items = {
             {
@@ -22364,6 +22364,11 @@ ItemStorageDB = {
                 count = 1,
             },
             {
+                link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
+                name = "Кольцо спасителей",
+                count = 1,
+            },
+            {
                 link = "|cffa335ee|Hitem:14549:0:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
                 name = "Сапоги Избежания",
                 count = 1,
@@ -22405,7 +22410,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795611908,
+            last_update = 1795635032,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22715,7 +22720,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:16681:0:0:0:0:0:0:0:10|h[Наручники загонщика]|h|r",
                     name = "Наручники загонщика",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:16684:0:0:0:0:0:0:0:10|h[Перчатки Магистра]|h|r",
@@ -22883,6 +22888,11 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
+                    link = "|cffa335ee|Hitem:1447:0:0:0:0:0:0:0:10|h[Кольцо спасителей]|h|r",
+                    name = "Кольцо спасителей",
+                    count = 1,
+                },
+                {
                     link = "|cffa335ee|Hitem:14549:0:0:0:0:0:0:0:10|h[Сапоги Избежания]|h|r",
                     name = "Сапоги Избежания",
                     count = 1,
@@ -22920,7 +22930,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795611921,
+            last_update = 1795635034,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22985,11 +22995,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13199:0:0:0:0:0:0:0:10|h[Наручники Раздробленного хребта]|h|r",
                     name = "Наручники Раздробленного хребта",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:16681:0:0:0:0:0:0:0:10|h[Наручники загонщика]|h|r",
-                    name = "Наручники загонщика",
                     count = 1,
                 },
                 {
