@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795626880
+ItemStorageDB_LastUpdate = 1795627679
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -24058,7 +24058,7 @@ ItemStorageDB = {
     {
         name = "Сокетная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-16 00:39:28",
+        updated_at = "2026-11-25 19:27:59",
         money = 13534,
         empty = 202,
         location = "Оргриммар",
@@ -24100,7 +24100,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1794782357,
+            last_update = 1795627566,
             items = {
                 {
                     link = "|cff0070dd|Hitem:40012:0:0:0:0:0:0:0:10|h[Сверкающее сияние осени]|h|r",
@@ -24120,7 +24120,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:39911:0:0:0:0:0:0:0:10|h[Рунический кровавый камень]|h|r",
                     name = "Рунический кровавый камень",
-                    count = 3,
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:39919:0:0:0:0:0:0:0:10|h[Цельный кальцедоний]|h|r",
@@ -24140,8 +24140,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1794782361,
+            last_update = 1795627567,
             items = {
+                {
+                    link = "|cff1eff00|Hitem:39911:0:0:0:0:0:0:0:10|h[Рунический кровавый камень]|h|r",
+                    name = "Рунический кровавый камень",
+                    count = 1,
+                },
             },
         },
     },
