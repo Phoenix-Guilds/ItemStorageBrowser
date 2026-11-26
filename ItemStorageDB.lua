@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795712477
+ItemStorageDB_LastUpdate = 1795712527
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19078,7 +19078,7 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 18:27:45",
+        updated_at = "2026-11-26 19:02:07",
         money = 150602,
         empty = 111,
         location = "Оргриммар",
@@ -19101,7 +19101,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                 name = "Тенешелк",
-                count = 94,
+                count = 96,
             },
             {
                 link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
@@ -19176,7 +19176,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                 name = "Плотная паутина",
-                count = 226,
+                count = 227,
             },
             {
                 link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
@@ -19210,7 +19210,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795710456,
+            last_update = 1795712521,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -19220,7 +19220,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:10285:0:0:0:0:0:0:0:10|h[Тенешелк]|h|r",
                     name = "Тенешелк",
-                    count = 94,
+                    count = 96,
                 },
                 {
                     link = "|cffffffff|Hitem:14047:0:0:0:0:0:0:0:10|h[Руническая ткань]|h|r",
@@ -19295,7 +19295,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4337:0:0:0:0:0:0:0:10|h[Плотная паутина]|h|r",
                     name = "Плотная паутина",
-                    count = 226,
+                    count = 227,
                 },
                 {
                     link = "|cffffffff|Hitem:4338:0:0:0:0:0:0:0:10|h[Магическая ткань]|h|r",
@@ -19330,7 +19330,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795710459,
+            last_update = 1795712522,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
