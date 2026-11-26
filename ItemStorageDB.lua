@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795711589
+ItemStorageDB_LastUpdate = 1795711688
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5993,9 +5993,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 17:43:31",
+        updated_at = "2026-11-26 18:48:08",
         money = 778001,
-        empty = 45,
+        empty = 46,
         location = "Оргриммар",
         items = {
             {
@@ -6224,11 +6224,6 @@ ItemStorageDB = {
                 count = 181,
             },
             {
-                link = "|cffffffff|Hitem:12643:0:0:0:0:0:0:0:10|h[Массивное грузило]|h|r",
-                name = "Массивное грузило",
-                count = 12,
-            },
-            {
                 link = "|cffffffff|Hitem:12644:0:0:0:0:0:0:0:10|h[Массивный шлифовальный камень]|h|r",
                 name = "Массивный шлифовальный камень",
                 count = 400,
@@ -6335,7 +6330,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795707802,
+            last_update = 1795711579,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6580,7 +6575,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795707807,
+            last_update = 1795711620,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
@@ -6611,11 +6606,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:12404:0:0:0:0:0:0:0:10|h[Массивное точило]|h|r",
                     name = "Массивное точило",
                     count = 181,
-                },
-                {
-                    link = "|cffffffff|Hitem:12643:0:0:0:0:0:0:0:10|h[Массивное грузило]|h|r",
-                    name = "Массивное грузило",
-                    count = 12,
                 },
                 {
                     link = "|cffffffff|Hitem:23528:0:0:0:0:0:0:0:10|h[Точило Скверны]|h|r",
