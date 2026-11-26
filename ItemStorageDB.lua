@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795711688
+ItemStorageDB_LastUpdate = 1795711845
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7123,9 +7123,9 @@ ItemStorageDB = {
     {
         name = "Кожистая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 17:40:13",
+        updated_at = "2026-11-26 18:50:45",
         money = 324084,
-        empty = 111,
+        empty = 112,
         location = "Оргриммар",
         items = {
             {
@@ -7187,11 +7187,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:15419:0:0:0:0:0:0:0:10|h[Кожа боевого медведя]|h|r",
                 name = "Кожа боевого медведя",
                 count = 50,
-            },
-            {
-                link = "|cffffffff|Hitem:15564:0:0:0:0:0:0:0:10|h[Накладки из грубой кожи]|h|r",
-                name = "Накладки из грубой кожи",
-                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
@@ -7455,7 +7450,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795707607,
+            last_update = 1795711733,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12607:0:0:0:0:0:0:0:10|h[Сверкающая многоцветная чешуя]|h|r",
@@ -7700,7 +7695,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795707609,
+            last_update = 1795711778,
             items = {
                 {
                     link = "|cff0070dd|Hitem:29534:0:0:0:0:0:0:0:10|h[Накладки для поножей из шкуры копытня]|h|r",
@@ -7721,11 +7716,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:38376:0:0:0:0:0:0:0:10|h[Накладки из толстой борейской кожи]|h|r",
                     name = "Накладки из толстой борейской кожи",
                     count = 15,
-                },
-                {
-                    link = "|cffffffff|Hitem:15564:0:0:0:0:0:0:0:10|h[Накладки из грубой кожи]|h|r",
-                    name = "Накладки из грубой кожи",
-                    count = 3,
                 },
                 {
                     link = "|cffffffff|Hitem:17056:0:0:0:0:0:0:0:10|h[Легкое перышко]|h|r",
