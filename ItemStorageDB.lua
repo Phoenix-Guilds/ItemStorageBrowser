@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795710665
+ItemStorageDB_LastUpdate = 1795711542
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,10 +2568,10 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 17:41:39",
+        updated_at = "2026-11-26 18:45:42",
         money = 92710,
-        empty = 59,
-        location = "",
+        empty = 60,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -2856,7 +2856,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
                 name = "Острокаменная кувалда",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:1726:0:0:0:0:0:0:0:10|h[Костяное копье с отравленным наконечником]|h|r",
@@ -3165,7 +3165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795706993,
+            last_update = 1795711450,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3405,7 +3405,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
                     name = "Острокаменная кувалда",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:1726:0:0:0:0:0:0:0:10|h[Костяное копье с отравленным наконечником]|h|r",
@@ -3655,7 +3655,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795707691,
+            last_update = 1795711519,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
