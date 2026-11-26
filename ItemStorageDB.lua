@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795711986
+ItemStorageDB_LastUpdate = 1795712047
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 18:45:42",
+        updated_at = "2026-11-26 18:54:07",
         money = 92710,
-        empty = 60,
+        empty = 62,
         location = "Оргриммар",
         items = {
             {
@@ -2909,11 +2909,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
-                name = "Коготь Тенеманта",
-                count = 2,
-            },
-            {
                 link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                 name = "Массивная треугольная палица",
                 count = 2,
@@ -3165,7 +3160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795711450,
+            last_update = 1795712030,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3448,11 +3443,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2912:0:0:0:0:0:0:0:10|h[Коготь Тенеманта]|h|r",
-                    name = "Коготь Тенеманта",
-                    count = 2,
-                },
-                {
                     link = "|cff0070dd|Hitem:3203:0:0:0:0:0:0:0:10|h[Массивная треугольная палица]|h|r",
                     name = "Массивная треугольная палица",
                     count = 1,
@@ -3655,7 +3645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795711519,
+            last_update = 1795712040,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
