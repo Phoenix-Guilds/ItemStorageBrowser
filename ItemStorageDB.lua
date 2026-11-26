@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795707915
+ItemStorageDB_LastUpdate = 1795707949
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16688,7 +16688,7 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-25 23:10:39",
+        updated_at = "2026-11-26 17:45:49",
         money = 214291,
         empty = 192,
         location = "Оргриммар",
@@ -16721,7 +16721,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:1477:0:0:0:0:0:0:0:10|h[Свиток ловкости II]|h|r",
                 name = "Свиток ловкости II",
-                count = 2,
+                count = 23,
             },
             {
                 link = "|cffffffff|Hitem:1478:0:0:0:0:0:0:0:10|h[Охранный свиток II]|h|r",
@@ -16915,7 +16915,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795641028,
+            last_update = 1795707943,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
@@ -16930,7 +16930,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:1477:0:0:0:0:0:0:0:10|h[Свиток ловкости II]|h|r",
                     name = "Свиток ловкости II",
-                    count = 2,
+                    count = 23,
                 },
                 {
                     link = "|cffffffff|Hitem:1478:0:0:0:0:0:0:0:10|h[Охранный свиток II]|h|r",
@@ -17025,7 +17025,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795641032,
+            last_update = 1795707945,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
