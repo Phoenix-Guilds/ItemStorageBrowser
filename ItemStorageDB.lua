@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795721396
+ItemStorageDB_LastUpdate = 1795721776
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21707,10 +21707,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 19:01:17",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-26 22:36:16",
         money = 203936,
-        empty = 55,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -21936,7 +21936,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                 name = "Кушак Огрона",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -22131,7 +22131,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                 name = "Штаны из шкуры василиска",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:18742:0:0:0:0:0:0:0:10|h[Наплечный щиток стратхольмского ополчения]|h|r",
@@ -22324,18 +22324,13 @@ ItemStorageDB = {
                 count = 2,
             },
             {
-                link = "|cffa335ee|Hitem:867:0:0:0:0:0:0:0:10|h[Перчатки Священной Мощи]|h|r",
-                name = "Перчатки Священной Мощи",
-                count = 1,
-            },
-            {
                 link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
                 name = "Одеяния Прозрения",
                 count = 2,
             },
         },
         bank = {
-            last_update = 1795712462,
+            last_update = 1795721723,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22545,7 +22540,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                     name = "Кушак Огрона",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -22730,7 +22725,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
                     name = "Штаны из шкуры василиска",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:18742:0:0:0:0:0:0:0:10|h[Наплечный щиток стратхольмского ополчения]|h|r",
@@ -22843,11 +22838,6 @@ ItemStorageDB = {
                     count = 2,
                 },
                 {
-                    link = "|cffa335ee|Hitem:867:0:0:0:0:0:0:0:10|h[Перчатки Священной Мощи]|h|r",
-                    name = "Перчатки Священной Мощи",
-                    count = 1,
-                },
-                {
                     link = "|cffa335ee|Hitem:940:0:0:0:0:0:0:0:10|h[Одеяния Прозрения]|h|r",
                     name = "Одеяния Прозрения",
                     count = 1,
@@ -22855,7 +22845,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795712463,
+            last_update = 1795721735,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
