@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795715411
+ItemStorageDB_LastUpdate = 1795715444
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -5988,9 +5988,9 @@ ItemStorageDB = {
     {
         name = "Каменюшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 19:05:38",
+        updated_at = "2026-11-26 19:50:44",
         money = 778001,
-        empty = 46,
+        empty = 45,
         location = "Оргриммар",
         items = {
             {
@@ -6071,12 +6071,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
                 name = "Синий сапфир",
-                count = 50,
+                count = 52,
             },
             {
                 link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
                 name = "Чародейный кристалл",
-                count = 84,
+                count = 86,
             },
             {
                 link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
@@ -6106,7 +6106,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
                 name = "Пламенный спессарит",
-                count = 89,
+                count = 91,
             },
             {
                 link = "|cff1eff00|Hitem:23077:0:0:0:0:0:0:0:10|h[Кровавый гранат]|h|r",
@@ -6116,7 +6116,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23079:0:0:0:0:0:0:0:10|h[Хризолит]|h|r",
                 name = "Хризолит",
-                count = 77,
+                count = 78,
             },
             {
                 link = "|cff1eff00|Hitem:23107:0:0:0:0:0:0:0:10|h[Сумрачный дренит]|h|r",
@@ -6126,12 +6126,12 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:23112:0:0:0:0:0:0:0:10|h[Золотой дренит]|h|r",
                 name = "Золотой дренит",
-                count = 32,
+                count = 33,
             },
             {
                 link = "|cff1eff00|Hitem:23117:0:0:0:0:0:0:0:10|h[Лазурный лунный камень]|h|r",
                 name = "Лазурный лунный камень",
-                count = 71,
+                count = 72,
             },
             {
                 link = "|cff1eff00|Hitem:36917:0:0:0:0:0:0:0:10|h[Кровавый камень]|h|r",
@@ -6325,7 +6325,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795712724,
+            last_update = 1795715435,
             items = {
                 {
                     link = "|cff0070dd|Hitem:23436:0:0:0:0:0:0:0:10|h[Животворный рубин]|h|r",
@@ -6405,7 +6405,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:12363:0:0:0:0:0:0:0:10|h[Чародейный кристалл]|h|r",
                     name = "Чародейный кристалл",
-                    count = 84,
+                    count = 86,
                 },
                 {
                     link = "|cff1eff00|Hitem:12364:0:0:0:0:0:0:0:10|h[Огромный изумруд]|h|r",
@@ -6435,7 +6435,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:21929:0:0:0:0:0:0:0:10|h[Пламенный спессарит]|h|r",
                     name = "Пламенный спессарит",
-                    count = 89,
+                    count = 91,
                 },
                 {
                     link = "|cff1eff00|Hitem:23077:0:0:0:0:0:0:0:10|h[Кровавый гранат]|h|r",
@@ -6445,7 +6445,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:23079:0:0:0:0:0:0:0:10|h[Хризолит]|h|r",
                     name = "Хризолит",
-                    count = 77,
+                    count = 78,
                 },
                 {
                     link = "|cff1eff00|Hitem:23107:0:0:0:0:0:0:0:10|h[Сумрачный дренит]|h|r",
@@ -6455,12 +6455,12 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:23112:0:0:0:0:0:0:0:10|h[Золотой дренит]|h|r",
                     name = "Золотой дренит",
-                    count = 32,
+                    count = 33,
                 },
                 {
                     link = "|cff1eff00|Hitem:23117:0:0:0:0:0:0:0:10|h[Лазурный лунный камень]|h|r",
                     name = "Лазурный лунный камень",
-                    count = 71,
+                    count = 72,
                 },
                 {
                     link = "|cff1eff00|Hitem:36917:0:0:0:0:0:0:0:10|h[Кровавый камень]|h|r",
@@ -6570,12 +6570,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795712725,
+            last_update = 1795715439,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41611:0:0:0:0:0:0:0:10|h[Извечная поясная пряжка]|h|r",
                     name = "Извечная поясная пряжка",
                     count = 14,
+                },
+                {
+                    link = "|cff1eff00|Hitem:12361:0:0:0:0:0:0:0:10|h[Синий сапфир]|h|r",
+                    name = "Синий сапфир",
+                    count = 2,
                 },
                 {
                     link = "|cff1eff00|Hitem:41976:0:0:0:0:0:0:0:10|h[Титановая цепь для оружия]|h|r",
