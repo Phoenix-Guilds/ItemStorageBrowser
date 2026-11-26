@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795705724
+ItemStorageDB_LastUpdate = 1795707107
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-25 23:04:41",
+        updated_at = "2026-11-26 17:31:47",
         money = 92710,
-        empty = 58,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -3126,7 +3126,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:812:0:0:0:0:0:0:0:10|h[Светящийся посох Светлой рощи]|h|r",
                 name = "Светящийся посох Светлой рощи",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cffa335ee|Hitem:868:0:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
@@ -3165,7 +3165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795640671,
+            last_update = 1795706993,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3620,7 +3620,7 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:812:0:0:0:0:0:0:0:10|h[Светящийся посох Светлой рощи]|h|r",
                     name = "Светящийся посох Светлой рощи",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cffa335ee|Hitem:868:0:0:0:0:0:0:0:10|h[Ревностный хранитель]|h|r",
@@ -3655,7 +3655,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795640675,
+            last_update = 1795707003,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
