@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795647064
+ItemStorageDB_LastUpdate = 1795681002
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8977,8 +8977,8 @@ ItemStorageDB = {
     },
     {
         name = "Мензурочка",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-25 22:29:23",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-26 11:16:42",
         money = 208636,
         empty = 53,
         location = "Оргриммар",
@@ -9066,7 +9066,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
                 name = "Сильный эликсир подводного дыхания",
-                count = 40,
+                count = 30,
             },
             {
                 link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
@@ -9400,7 +9400,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795638555,
+            last_update = 1795680917,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9455,7 +9455,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
                     name = "Сильный эликсир подводного дыхания",
-                    count = 40,
+                    count = 30,
                 },
                 {
                     link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
@@ -9720,7 +9720,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795638558,
+            last_update = 1795680996,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
