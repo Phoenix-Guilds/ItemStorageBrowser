@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795708084
+ItemStorageDB_LastUpdate = 1795708995
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21757,10 +21757,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмоточка",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 14:23:10",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-26 18:03:15",
         money = 203936,
-        empty = 54,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -21862,11 +21862,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                 name = "Броня гидролиска",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13068:0:0:0:0:0:0:0:10|h[Обсидиановые наголенники]|h|r",
-                name = "Обсидиановые наголенники",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13071:0:0:0:0:0:0:0:10|h[Латная боевая перчатка Хаку]|h|r",
@@ -22194,11 +22189,6 @@ ItemStorageDB = {
                 count = 1,
             },
             {
-                link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
-                name = "Сапоги тиноброда",
-                count = 1,
-            },
-            {
                 link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                 name = "Поножи некроманта",
                 count = 2,
@@ -22390,7 +22380,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795692150,
+            last_update = 1795708961,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22793,11 +22783,6 @@ ItemStorageDB = {
                     count = 1,
                 },
                 {
-                    link = "|cff0070dd|Hitem:2276:0:0:0:0:0:0:0:10|h[Сапоги тиноброда]|h|r",
-                    name = "Сапоги тиноброда",
-                    count = 1,
-                },
-                {
                     link = "|cff0070dd|Hitem:2277:0:0:0:0:0:0:0:10|h[Поножи некроманта]|h|r",
                     name = "Поножи некроманта",
                     count = 2,
@@ -22910,7 +22895,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795692162,
+            last_update = 1795708988,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22940,11 +22925,6 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13067:0:0:0:0:0:0:0:10|h[Броня гидролиска]|h|r",
                     name = "Броня гидролиска",
-                    count = 1,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13068:0:0:0:0:0:0:0:10|h[Обсидиановые наголенники]|h|r",
-                    name = "Обсидиановые наголенники",
                     count = 1,
                 },
                 {
