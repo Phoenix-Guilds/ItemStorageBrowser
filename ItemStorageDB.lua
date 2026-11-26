@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795712179
+ItemStorageDB_LastUpdate = 1795712268
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23053,9 +23053,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 18:25:30",
+        updated_at = "2026-11-26 18:57:48",
         money = 194111,
-        empty = 56,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -23242,11 +23242,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:30804:0:0:0:0:0:0:0:10|h[Бронзовое кольцо силы]|h|r",
                 name = "Бронзовое кольцо силы",
                 count = 3,
-            },
-            {
-                link = "|cff0070dd|Hitem:44213:0:0:0:0:0:0:0:10|h[Подвеска Новолуния]|h|r",
-                name = "Подвеска Новолуния",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:45627:0:0:0:0:0:0:0:10|h[Амулет проницательности]|h|r",
@@ -23505,7 +23500,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795710247,
+            last_update = 1795712261,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23805,7 +23800,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795710251,
+            last_update = 1795712263,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
@@ -23861,11 +23856,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:2802:0:0:0:0:0:0:0:10|h[Пылающая эмблема]|h|r",
                     name = "Пылающая эмблема",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:44213:0:0:0:0:0:0:0:10|h[Подвеска Новолуния]|h|r",
-                    name = "Подвеска Новолуния",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:45627:0:0:0:0:0:0:0:10|h[Амулет проницательности]|h|r",
