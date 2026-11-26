@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795710630
+ItemStorageDB_LastUpdate = 1795710665
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -16688,9 +16688,9 @@ ItemStorageDB = {
     {
         name = "Свитковый",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 17:45:49",
+        updated_at = "2026-11-26 18:31:05",
         money = 214291,
-        empty = 192,
+        empty = 193,
         location = "Оргриммар",
         items = {
             {
@@ -16712,11 +16712,6 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
                 name = "Свиток интеллекта IV",
                 count = 4,
-            },
-            {
-                link = "|cffffffff|Hitem:10310:0:0:0:0:0:0:0:10|h[Свиток силы IV]|h|r",
-                name = "Свиток силы IV",
-                count = 15,
             },
             {
                 link = "|cffffffff|Hitem:1477:0:0:0:0:0:0:0:10|h[Свиток ловкости II]|h|r",
@@ -16915,17 +16910,12 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795707943,
+            last_update = 1795710649,
             items = {
                 {
                     link = "|cffffffff|Hitem:10308:0:0:0:0:0:0:0:10|h[Свиток интеллекта IV]|h|r",
                     name = "Свиток интеллекта IV",
                     count = 4,
-                },
-                {
-                    link = "|cffffffff|Hitem:10310:0:0:0:0:0:0:0:10|h[Свиток силы IV]|h|r",
-                    name = "Свиток силы IV",
-                    count = 15,
                 },
                 {
                     link = "|cffffffff|Hitem:1477:0:0:0:0:0:0:0:10|h[Свиток ловкости II]|h|r",
@@ -17025,7 +17015,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795707945,
+            last_update = 1795710657,
             items = {
                 {
                     link = "|cff0070dd|Hitem:38871:0:0:0:0:0:0:0:10|h[Свиток чар для оружия - похищение жизни]|h|r",
