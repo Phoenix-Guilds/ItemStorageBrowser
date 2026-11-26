@@ -1,9 +1,9 @@
-ItemStorageDB_LastUpdate = 1795712738
+ItemStorageDB_LastUpdate = 1795712809
 ItemStorageDB = {
     {
         name = "Бумажная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 18:53:06",
+        updated_at = "2026-11-26 19:06:49",
         money = 339404,
         empty = 90,
         location = "Оргриммар",
@@ -131,7 +131,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:41098:0:0:0:0:0:0:0:10|h[Символ удара воина Света]|h|r",
                 name = "Символ удара воина Света",
-                count = 17,
+                count = 18,
             },
             {
                 link = "|cffffffff|Hitem:41099:0:0:0:0:0:0:0:10|h[Символ освящения]|h|r",
@@ -1265,7 +1265,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795711960,
+            last_update = 1795712790,
             items = {
                 {
                     link = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:0:10|h[Книга познания символов]|h|r",
@@ -1390,7 +1390,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:41098:0:0:0:0:0:0:0:10|h[Символ удара воина Света]|h|r",
                     name = "Символ удара воина Света",
-                    count = 17,
+                    count = 18,
                 },
                 {
                     link = "|cffffffff|Hitem:41099:0:0:0:0:0:0:0:10|h[Символ освящения]|h|r",
@@ -2520,7 +2520,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795711968,
+            last_update = 1795712791,
             items = {
                 {
                     link = "|cffffffff|Hitem:41536:0:0:0:0:0:0:0:10|h[Символ молнии]|h|r",
