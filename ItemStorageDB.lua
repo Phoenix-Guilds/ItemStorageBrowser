@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795692464
+ItemStorageDB_LastUpdate = 1795692532
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13308,7 +13308,7 @@ ItemStorageDB = {
     {
         name = "Пуляша",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-25 16:05:54",
+        updated_at = "2026-11-26 14:28:52",
         money = 13104,
         empty = 61,
         location = "Оргриммар",
@@ -13356,7 +13356,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                 name = "Оса Хрустальных сосен",
-                count = 6,
+                count = 5,
             },
             {
                 link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
@@ -13466,7 +13466,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 3,
+                count = 4,
             },
             {
                 link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
@@ -13485,7 +13485,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795611938,
+            last_update = 1795692524,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13525,7 +13525,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13037:0:0:0:0:0:0:0:10|h[Оса Хрустальных сосен]|h|r",
                     name = "Оса Хрустальных сосен",
-                    count = 6,
+                    count = 5,
                 },
                 {
                     link = "|cff0070dd|Hitem:13038:0:0:0:0:0:0:0:10|h[Быстроветр]|h|r",
@@ -13610,12 +13610,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                     name = "Лук Жгучих Стрел",
-                    count = 3,
+                    count = 4,
                 },
             },
         },
         bags = {
-            last_update = 1795611948,
+            last_update = 1795692527,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
