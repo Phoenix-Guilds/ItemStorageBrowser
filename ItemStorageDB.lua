@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795711542
+ItemStorageDB_LastUpdate = 1795711589
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -8943,7 +8943,7 @@ ItemStorageDB = {
     {
         name = "Мензурочка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 17:45:15",
+        updated_at = "2026-11-26 18:46:29",
         money = 208636,
         empty = 53,
         location = "Оргриммар",
@@ -9031,7 +9031,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
                 name = "Сильный эликсир подводного дыхания",
-                count = 30,
+                count = 25,
             },
             {
                 link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
@@ -9301,7 +9301,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:6372:0:0:0:0:0:0:0:10|h[Зелье быстрого плавания]|h|r",
                 name = "Зелье быстрого плавания",
-                count = 75,
+                count = 70,
             },
             {
                 link = "|cffffffff|Hitem:6452:0:0:0:0:0:0:0:10|h[Противоядие]|h|r",
@@ -9321,7 +9321,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8827:0:0:0:0:0:0:0:10|h[Эликсир хождения по воде]|h|r",
                 name = "Эликсир хождения по воде",
-                count = 15,
+                count = 10,
             },
             {
                 link = "|cffffffff|Hitem:9030:0:0:0:0:0:0:0:10|h[Приводящее в сознание зелье]|h|r",
@@ -9365,7 +9365,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795707907,
+            last_update = 1795711085,
             items = {
                 {
                     link = "|cffffffff|Hitem:10592:0:0:0:0:0:0:0:10|h[Эликсир \"Кошачий глаз\"]|h|r",
@@ -9420,7 +9420,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:18294:0:0:0:0:0:0:0:10|h[Сильный эликсир подводного дыхания]|h|r",
                     name = "Сильный эликсир подводного дыхания",
-                    count = 30,
+                    count = 25,
                 },
                 {
                     link = "|cffffffff|Hitem:22824:0:0:0:0:0:0:0:10|h[Большой эликсир силы]|h|r",
@@ -9630,7 +9630,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:6372:0:0:0:0:0:0:0:10|h[Зелье быстрого плавания]|h|r",
                     name = "Зелье быстрого плавания",
-                    count = 75,
+                    count = 70,
                 },
                 {
                     link = "|cffffffff|Hitem:6452:0:0:0:0:0:0:0:10|h[Противоядие]|h|r",
@@ -9645,7 +9645,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8827:0:0:0:0:0:0:0:10|h[Эликсир хождения по воде]|h|r",
                     name = "Эликсир хождения по воде",
-                    count = 15,
+                    count = 10,
                 },
                 {
                     link = "|cffffffff|Hitem:9030:0:0:0:0:0:0:0:10|h[Приводящее в сознание зелье]|h|r",
@@ -9685,7 +9685,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795707909,
+            last_update = 1795711541,
             items = {
                 {
                     link = "|cffffffff|Hitem:118:0:0:0:0:0:0:0:10|h[Крохотный флакон с лечебным зельем]|h|r",
