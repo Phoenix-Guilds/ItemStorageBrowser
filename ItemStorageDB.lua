@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795712307
+ItemStorageDB_LastUpdate = 1795712438
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -23058,9 +23058,9 @@ ItemStorageDB = {
     {
         name = "Ювелирная",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 18:57:48",
+        updated_at = "2026-11-26 19:00:38",
         money = 194111,
-        empty = 57,
+        empty = 56,
         location = "Оргриммар",
         items = {
             {
@@ -23141,7 +23141,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
                 name = "Кольцо грозного лика",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1713:0:0:0:0:0:0:0:10|h[Крест Жизни]|h|r",
@@ -23505,7 +23505,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795712261,
+            last_update = 1795712429,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12985:0:0:0:0:0:0:0:10|h[Кольцо защиты]|h|r",
@@ -23545,7 +23545,7 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13097:0:0:0:0:0:0:0:10|h[Кольцо грозного лика]|h|r",
                     name = "Кольцо грозного лика",
-                    count = 1,
+                    count = 2,
                 },
                 {
                     link = "|cff0070dd|Hitem:20826:0:0:0:0:0:1015:0:10|h[Тяжелое серебряное кольцо со знаком кита]|h|r",
@@ -23805,7 +23805,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795712263,
+            last_update = 1795712430,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11302:0:0:0:0:0:0:0:10|h[Сила Утера]|h|r",
