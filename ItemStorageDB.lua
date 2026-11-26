@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795711845
+ItemStorageDB_LastUpdate = 1795711965
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -7782,8 +7782,8 @@ ItemStorageDB = {
     },
     {
         name = "Колбасная",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-19 15:41:37",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-26 18:52:45",
         money = 0,
         empty = 177,
         location = "Оргриммар",
@@ -7799,9 +7799,9 @@ ItemStorageDB = {
                 count = 57,
             },
             {
-                link = "|cffffffff|Hitem:12218:0:0:0:0:0:0:0:10|h[Чудовищный омлет]|h|r",
-                name = "Чудовищный омлет",
-                count = 25,
+                link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
+                name = "Десерт из мертвечины",
+                count = 5,
             },
             {
                 link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -7950,7 +7950,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795092091,
+            last_update = 1795711892,
             items = {
                 {
                     link = "|cffffffff|Hitem:12210:0:0:0:0:0:0:0:10|h[Жареный ящер]|h|r",
@@ -7961,11 +7961,6 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:12212:0:0:0:0:0:0:0:10|h[Похлебка \"Джунгли\"]|h|r",
                     name = "Похлебка \"Джунгли\"",
                     count = 57,
-                },
-                {
-                    link = "|cffffffff|Hitem:12218:0:0:0:0:0:0:0:10|h[Чудовищный омлет]|h|r",
-                    name = "Чудовищный омлет",
-                    count = 25,
                 },
                 {
                     link = "|cffffffff|Hitem:13927:0:0:0:0:0:0:0:10|h[Мощь-рыба в кляре]|h|r",
@@ -8115,8 +8110,13 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795092091,
+            last_update = 1795711917,
             items = {
+                {
+                    link = "|cffffffff|Hitem:12213:0:0:0:0:0:0:0:10|h[Десерт из мертвечины]|h|r",
+                    name = "Десерт из мертвечины",
+                    count = 5,
+                },
             },
         },
     },
