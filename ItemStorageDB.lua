@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795712047
+ItemStorageDB_LastUpdate = 1795712118
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21738,9 +21738,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 18:03:15",
+        updated_at = "2026-11-26 18:55:18",
         money = 203936,
-        empty = 56,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -21946,7 +21946,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
                 name = "Поножи Троллегубителя",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
@@ -22360,7 +22360,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795708961,
+            last_update = 1795712082,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22546,11 +22546,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13113:0:0:0:0:0:0:0:10|h[Головной убор Оперенной Луны]|h|r",
                     name = "Головной убор Оперенной Луны",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13114:0:0:0:0:0:0:0:10|h[Поножи Троллегубителя]|h|r",
-                    name = "Поножи Троллегубителя",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
@@ -22875,7 +22870,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795708988,
+            last_update = 1795712091,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
