@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795815768
+ItemStorageDB_LastUpdate = 1795815905
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21638,9 +21638,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-27 23:33:48",
+        updated_at = "2026-11-27 23:45:05",
         money = 203936,
-        empty = 58,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -21877,11 +21877,6 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                 name = "Наручи Гневливого",
                 count = 2,
-            },
-            {
-                link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
-                name = "Крыло дракончика",
-                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -22255,7 +22250,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795815084,
+            last_update = 1795815815,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12978:0:0:0:0:0:0:0:10|h[Пояс вестника шторма]|h|r",
@@ -22476,11 +22471,6 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13120:0:0:0:0:0:0:0:10|h[Наручи Гневливого]|h|r",
                     name = "Наручи Гневливого",
                     count = 2,
-                },
-                {
-                    link = "|cff0070dd|Hitem:13121:0:0:0:0:0:0:0:10|h[Крыло дракончика]|h|r",
-                    name = "Крыло дракончика",
-                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:13122:0:0:0:0:0:0:0:10|h[Накидка черного призрака]|h|r",
@@ -22765,7 +22755,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795815203,
+            last_update = 1795815861,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
