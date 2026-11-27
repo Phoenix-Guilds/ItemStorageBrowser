@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795766447
+ItemStorageDB_LastUpdate = 1795766489
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19288,7 +19288,7 @@ ItemStorageDB = {
     {
         name = "Травяная",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-27 09:11:33",
+        updated_at = "2026-11-27 11:01:29",
         money = 475064,
         empty = 115,
         location = "Оргриммар",
@@ -19491,7 +19491,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                 name = "Огнецвет",
-                count = 155,
+                count = 151,
             },
             {
                 link = "|cffffffff|Hitem:6358:0:0:0:0:0:0:0:10|h[Масляный черноротик]|h|r",
@@ -19521,7 +19521,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                 name = "Лиловый лотос",
-                count = 116,
+                count = 112,
             },
             {
                 link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -19550,7 +19550,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795759875,
+            last_update = 1795766472,
             items = {
                 {
                     link = "|cff1eff00|Hitem:13468:0:0:0:0:0:0:0:10|h[Черный лотос]|h|r",
@@ -19715,7 +19715,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:4625:0:0:0:0:0:0:0:10|h[Огнецвет]|h|r",
                     name = "Огнецвет",
-                    count = 155,
+                    count = 151,
                 },
                 {
                     link = "|cffffffff|Hitem:765:0:0:0:0:0:0:0:10|h[Сребролист]|h|r",
@@ -19730,7 +19730,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:8831:0:0:0:0:0:0:0:10|h[Лиловый лотос]|h|r",
                     name = "Лиловый лотос",
-                    count = 116,
+                    count = 112,
                 },
                 {
                     link = "|cffffffff|Hitem:8836:0:0:0:0:0:0:0:10|h[Слезы Артаса]|h|r",
@@ -19760,7 +19760,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795759885,
+            last_update = 1795766479,
             items = {
                 {
                     link = "|cffffffff|Hitem:10648:0:0:0:0:0:0:0:10|h[Чистый пергамент]|h|r",
