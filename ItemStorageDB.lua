@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795815375
+ItemStorageDB_LastUpdate = 1795815422
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -17088,9 +17088,9 @@ ItemStorageDB = {
     {
         name = "Стартовая",
         realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-27 23:36:15",
+        updated_at = "2026-11-27 23:37:02",
         money = 58852,
-        empty = 87,
+        empty = 88,
         location = "Оргриммар",
         items = {
             {
@@ -17426,11 +17426,6 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:3199:20319:0:0:0:0:851:0:10|h[Грозный Убийца со знаком орла]|h|r",
                 name = "Грозный Убийца со знаком орла",
-                count = 1,
-            },
-            {
-                link = "|cff1eff00|Hitem:3201:20319:0:0:0:0:687:0:10|h[Варварская секира со знаком тигра]|h|r",
-                name = "Варварская секира со знаком тигра",
                 count = 1,
             },
             {
@@ -18345,7 +18340,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795815369,
+            last_update = 1795815415,
             items = {
                 {
                     link = "|cff1eff00|Hitem:11287:0:0:0:0:0:0:0:10|h[Малый магический жезл]|h|r",
@@ -18445,11 +18440,6 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:3199:20319:0:0:0:0:851:0:10|h[Грозный Убийца со знаком орла]|h|r",
                     name = "Грозный Убийца со знаком орла",
-                    count = 1,
-                },
-                {
-                    link = "|cff1eff00|Hitem:3201:20319:0:0:0:0:687:0:10|h[Варварская секира со знаком тигра]|h|r",
-                    name = "Варварская секира со знаком тигра",
                     count = 1,
                 },
                 {
