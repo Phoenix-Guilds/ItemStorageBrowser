@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795772222
+ItemStorageDB_LastUpdate = 1795772352
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19038,10 +19038,10 @@ ItemStorageDB = {
     {
         name = "Тканюшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-27 12:37:02",
+        updated_at = "2026-11-27 12:39:12",
         money = 150602,
-        empty = 111,
-        location = "",
+        empty = 128,
+        location = "Оргриммар",
         items = {
             {
                 link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
@@ -19114,11 +19114,6 @@ ItemStorageDB = {
                 count = 129,
             },
             {
-                link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
-                name = "Ледяная ткань",
-                count = 850,
-            },
-            {
                 link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
                 name = "Паутина паука-ледопряда",
                 count = 158,
@@ -19170,7 +19165,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795771722,
+            last_update = 1795772313,
             items = {
                 {
                     link = "|cff1eff00|Hitem:21842:0:0:0:0:0:0:0:10|h[Рулон прочной ткани Пустоты]|h|r",
@@ -19233,11 +19228,6 @@ ItemStorageDB = {
                     count = 129,
                 },
                 {
-                    link = "|cffffffff|Hitem:33470:0:0:0:0:0:0:0:10|h[Ледяная ткань]|h|r",
-                    name = "Ледяная ткань",
-                    count = 850,
-                },
-                {
                     link = "|cffffffff|Hitem:42253:0:0:0:0:0:0:0:10|h[Паутина паука-ледопряда]|h|r",
                     name = "Паутина паука-ледопряда",
                     count = 158,
@@ -19290,7 +19280,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795772168,
+            last_update = 1795772344,
             items = {
                 {
                     link = "|cff0070dd|Hitem:41601:0:0:0:0:0:0:0:10|h[Сияющая чародейская нить]|h|r",
