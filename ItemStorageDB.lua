@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795815017
+ItemStorageDB_LastUpdate = 1795815055
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -13232,10 +13232,10 @@ ItemStorageDB = {
     },
     {
         name = "Пуляша",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-27 09:52:53",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-27 23:30:55",
         money = 13104,
-        empty = 62,
+        empty = 64,
         location = "Оргриммар",
         items = {
             {
@@ -13391,12 +13391,7 @@ ItemStorageDB = {
             {
                 link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                 name = "Лук Жгучих Стрел",
-                count = 4,
-            },
-            {
-                link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
-                name = "Снайперский прицел",
-                count = 1,
+                count = 3,
             },
             {
                 link = "|cffffffff|Hitem:4405:0:0:0:0:0:0:0:10|h[Кустарный прицел]|h|r",
@@ -13410,7 +13405,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795762342,
+            last_update = 1795815034,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12984:0:0:0:0:0:0:0:10|h[Зов небес]|h|r",
@@ -13535,12 +13530,12 @@ ItemStorageDB = {
                 {
                     link = "|cffa335ee|Hitem:2825:0:0:0:0:0:0:0:10|h[Лук Жгучих Стрел]|h|r",
                     name = "Лук Жгучих Стрел",
-                    count = 4,
+                    count = 3,
                 },
             },
         },
         bags = {
-            last_update = 1795762368,
+            last_update = 1795815050,
             items = {
                 {
                     link = "|cff0070dd|Hitem:11630:0:0:0:0:0:0:0:10|h[Каменноосколочная беспатронная пуля]|h|r",
@@ -13571,11 +13566,6 @@ ItemStorageDB = {
                     link = "|cff1eff00|Hitem:23772:0:0:0:0:0:0:0:10|h[Патроны из оскверненного железа]|h|r",
                     name = "Патроны из оскверненного железа",
                     count = 16495,
-                },
-                {
-                    link = "|cffffffff|Hitem:10548:0:0:0:0:0:0:0:10|h[Снайперский прицел]|h|r",
-                    name = "Снайперский прицел",
-                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:4405:0:0:0:0:0:0:0:10|h[Кустарный прицел]|h|r",
