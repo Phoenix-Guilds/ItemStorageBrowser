@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795872882
+ItemStorageDB_LastUpdate = 1795872911
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -19927,10 +19927,10 @@ ItemStorageDB = {
     },
     {
         name = "Шмотный",
-        realm = "ProxyEU Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 18:26:47",
+        realm = "Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-28 16:35:11",
         money = 336703,
-        empty = 88,
+        empty = 87,
         location = "Оргриммар",
         items = {
             {
@@ -20156,6 +20156,11 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:31229:0:0:0:0:0:-9:40:10|h[Оперенный боевой пояс со знаком совы]|h|r",
                 name = "Оперенный боевой пояс со знаком совы",
+                count = 1,
+            },
+            {
+                link = "|cff0070dd|Hitem:31230:0:0:0:0:0:0:0:10|h[Сапоги Ходока Бездны]|h|r",
+                name = "Сапоги Ходока Бездны",
                 count = 1,
             },
             {
@@ -20805,7 +20810,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795710398,
+            last_update = 1795872904,
             items = {
                 {
                     link = "|cff0070dd|Hitem:28494:0:0:0:0:0:-52:41:10|h[Наголенники ворона-стража с символом похода]|h|r",
@@ -21640,7 +21645,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795710402,
+            last_update = 1795872905,
             items = {
                 {
                     link = "|cff0070dd|Hitem:31136:0:0:0:0:0:0:0:10|h[Кираса отражения клинков]|h|r",
@@ -21650,6 +21655,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:31158:0:0:0:0:0:-36:60:10|h[Облачение из ткани драконов с меткой волшебника]|h|r",
                     name = "Облачение из ткани драконов с меткой волшебника",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:31230:0:0:0:0:0:0:0:10|h[Сапоги Ходока Бездны]|h|r",
+                    name = "Сапоги Ходока Бездны",
                     count = 1,
                 },
                 {
