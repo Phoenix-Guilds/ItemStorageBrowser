@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795872303
+ItemStorageDB_LastUpdate = 1795872576
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21673,9 +21673,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-28 16:23:05",
+        updated_at = "2026-11-28 16:29:36",
         money = 203936,
-        empty = 59,
+        empty = 58,
         location = "Оргриммар",
         items = {
             {
@@ -21896,7 +21896,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
                 name = "Кушак Огрона",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:13118:0:0:0:0:0:0:0:10|h[Змеиный кушак]|h|r",
@@ -22790,7 +22790,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795872178,
+            last_update = 1795872569,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22840,6 +22840,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:13115:0:0:0:0:0:0:0:10|h[Оплечье Бараньей стрижки]|h|r",
                     name = "Оплечье Бараньей стрижки",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:13117:0:0:0:0:0:0:0:10|h[Кушак Огрона]|h|r",
+                    name = "Кушак Огрона",
                     count = 1,
                 },
                 {
