@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795872100
+ItemStorageDB_LastUpdate = 1795872138
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -2568,9 +2568,9 @@ ItemStorageDB = {
     {
         name = "Дробяшка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-27 12:33:09",
+        updated_at = "2026-11-28 16:22:18",
         money = 92710,
-        empty = 60,
+        empty = 59,
         location = "Оргриммар",
         items = {
             {
@@ -2856,7 +2856,7 @@ ItemStorageDB = {
             {
                 link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
                 name = "Острокаменная кувалда",
-                count = 1,
+                count = 2,
             },
             {
                 link = "|cff0070dd|Hitem:1726:0:0:0:0:0:0:0:10|h[Костяное копье с отравленным наконечником]|h|r",
@@ -3160,7 +3160,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795771982,
+            last_update = 1795872130,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12528:0:0:0:0:0:0:0:10|h[Чекан судьи]|h|r",
@@ -3660,7 +3660,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795771983,
+            last_update = 1795872132,
             items = {
                 {
                     link = "|cff0070dd|Hitem:1203:0:0:0:0:0:0:0:10|h[Эгида Штормграда]|h|r",
@@ -3726,6 +3726,11 @@ ItemStorageDB = {
                     link = "|cff0070dd|Hitem:13083:0:0:0:0:0:0:0:10|h[Фамильный щит Гарреттов]|h|r",
                     name = "Фамильный щит Гарреттов",
                     count = 2,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1722:0:0:0:0:0:0:0:10|h[Острокаменная кувалда]|h|r",
+                    name = "Острокаменная кувалда",
+                    count = 1,
                 },
                 {
                     link = "|cff0070dd|Hitem:2877:0:0:0:0:0:0:0:10|h[Клеймор бойца]|h|r",
