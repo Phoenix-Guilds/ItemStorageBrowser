@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795872576
+ItemStorageDB_LastUpdate = 1795872719
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -21673,9 +21673,9 @@ ItemStorageDB = {
     {
         name = "Шмоточка",
         realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-28 16:29:36",
+        updated_at = "2026-11-28 16:31:59",
         money = 203936,
-        empty = 58,
+        empty = 57,
         location = "Оргриммар",
         items = {
             {
@@ -22087,6 +22087,11 @@ ItemStorageDB = {
                 link = "|cff0070dd|Hitem:1717:0:0:0:0:0:0:0:10|h[Двойной мундир]|h|r",
                 name = "Двойной мундир",
                 count = 2,
+            },
+            {
+                link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
+                name = "Штаны из шкуры василиска",
+                count = 1,
             },
             {
                 link = "|cff0070dd|Hitem:18742:0:0:0:0:0:0:0:10|h[Наплечный щиток стратхольмского ополчения]|h|r",
@@ -22790,7 +22795,7 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795872569,
+            last_update = 1795872704,
             items = {
                 {
                     link = "|cff0070dd|Hitem:12977:0:0:0:0:0:0:0:10|h[Перчатки Волшебного кулака]|h|r",
@@ -22860,6 +22865,11 @@ ItemStorageDB = {
                 {
                     link = "|cff0070dd|Hitem:17061:0:0:0:0:0:0:0:10|h[Тень Джуно]|h|r",
                     name = "Тень Джуно",
+                    count = 1,
+                },
+                {
+                    link = "|cff0070dd|Hitem:1718:0:0:0:0:0:0:0:10|h[Штаны из шкуры василиска]|h|r",
+                    name = "Штаны из шкуры василиска",
                     count = 1,
                 },
                 {
