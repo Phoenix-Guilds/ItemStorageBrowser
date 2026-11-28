@@ -1,4 +1,4 @@
-ItemStorageDB_LastUpdate = 1795872985
+ItemStorageDB_LastUpdate = 1795890760
 ItemStorageDB = {
     {
         name = "Бумажная",
@@ -9807,10 +9807,10 @@ ItemStorageDB = {
     },
     {
         name = "Мушкетон",
-        realm = "Sirus x5 - 3.3.5a+",
-        updated_at = "2026-11-26 23:41:08",
+        realm = "ProxyEU Sirus x5 - 3.3.5a+",
+        updated_at = "2026-11-28 20:32:40",
         money = 14062,
-        empty = 90,
+        empty = 96,
         location = "Оргриммар",
         items = {
             {
@@ -9831,7 +9831,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                 name = "Зеленый кожаный доспех",
-                count = 2,
+                count = 1,
             },
             {
                 link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -9841,7 +9841,7 @@ ItemStorageDB = {
             {
                 link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                 name = "Смертоносный мушкетон",
-                count = 27,
+                count = 22,
             },
             {
                 link = "|cff1eff00|Hitem:5770:0:0:0:0:0:0:0:10|h[Одеяния Тайны]|h|r",
@@ -9851,7 +9851,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                 name = "Мифриловая обшивка",
-                count = 33,
+                count = 31,
             },
             {
                 link = "|cffffffff|Hitem:10562:0:0:0:0:0:0:0:10|h[Фугасная бомба]|h|r",
@@ -9866,7 +9866,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
                 name = "Разорванная шкура медведя",
-                count = 14,
+                count = 16,
             },
             {
                 link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э'ко диких совухов]|h|r",
@@ -9966,7 +9966,7 @@ ItemStorageDB = {
             {
                 link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
                 name = "Реликвия Ульдуара",
-                count = 95,
+                count = 114,
             },
             {
                 link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
@@ -9987,6 +9987,11 @@ ItemStorageDB = {
                 link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
                 name = "Синяя жемчужина",
                 count = 7,
+            },
+            {
+                link = "|cffffffff|Hitem:5051:0:0:0:0:0:0:0:10|h[Пещерная крыса]|h|r",
+                name = "Пещерная крыса",
+                count = 1,
             },
             {
                 link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -10010,7 +10015,7 @@ ItemStorageDB = {
             },
         },
         bank = {
-            last_update = 1795208841,
+            last_update = 1795641093,
             items = {
                 {
                     link = "|cff0070dd|Hitem:18770:0:0:0:0:0:0:0:10|h[Зачарованная ториевая броня]|h|r",
@@ -10030,7 +10035,7 @@ ItemStorageDB = {
                 {
                     link = "|cff1eff00|Hitem:4255:0:0:0:0:0:0:0:10|h[Зеленый кожаный доспех]|h|r",
                     name = "Зеленый кожаный доспех",
-                    count = 2,
+                    count = 1,
                 },
                 {
                     link = "|cff1eff00|Hitem:43297:0:0:0:0:0:0:0:10|h[Поврежденное ожерелье]|h|r",
@@ -10055,7 +10060,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:11407:0:0:0:0:0:0:0:10|h[Разорванная шкура медведя]|h|r",
                     name = "Разорванная шкура медведя",
-                    count = 14,
+                    count = 16,
                 },
                 {
                     link = "|cffffffff|Hitem:12433:0:0:0:0:0:0:0:10|h[Э'ко диких совухов]|h|r",
@@ -10155,7 +10160,7 @@ ItemStorageDB = {
                 {
                     link = "|cffffffff|Hitem:42780:0:0:0:0:0:0:0:10|h[Реликвия Ульдуара]|h|r",
                     name = "Реликвия Ульдуара",
-                    count = 95,
+                    count = 114,
                 },
                 {
                     link = "|cffffffff|Hitem:4389:0:0:0:0:0:0:0:10|h[Гирохронатом]|h|r",
@@ -10176,6 +10181,11 @@ ItemStorageDB = {
                     link = "|cffffffff|Hitem:4611:0:0:0:0:0:0:0:10|h[Синяя жемчужина]|h|r",
                     name = "Синяя жемчужина",
                     count = 7,
+                },
+                {
+                    link = "|cffffffff|Hitem:5051:0:0:0:0:0:0:0:10|h[Пещерная крыса]|h|r",
+                    name = "Пещерная крыса",
+                    count = 1,
                 },
                 {
                     link = "|cffffffff|Hitem:5075:0:0:0:0:0:0:0:10|h[Кровавые осколки]|h|r",
@@ -10200,17 +10210,17 @@ ItemStorageDB = {
             },
         },
         bags = {
-            last_update = 1795208858,
+            last_update = 1795890754,
             items = {
                 {
                     link = "|cff1eff00|Hitem:4369:0:0:0:0:0:0:0:10|h[Смертоносный мушкетон]|h|r",
                     name = "Смертоносный мушкетон",
-                    count = 27,
+                    count = 22,
                 },
                 {
                     link = "|cffffffff|Hitem:10561:0:0:0:0:0:0:0:10|h[Мифриловая обшивка]|h|r",
                     name = "Мифриловая обшивка",
-                    count = 33,
+                    count = 31,
                 },
             },
         },
